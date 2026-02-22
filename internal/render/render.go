@@ -12,8 +12,6 @@ import (
 	"github.com/benstraw/spotify-garden/internal/models"
 )
 
-const playsDataFile = "data/plays.json"
-
 // --- Weekly note ---
 
 // WeekBounds returns the Monday 00:00:00 local and the following Monday 00:00:00 local
@@ -375,6 +373,14 @@ genres: %s
 LIST FROM "music/listening"
 WHERE contains(file.outlinks, this.file.link)
 SORT file.name DESC
+`+"```"+`
+
+## Concerts
+
+`+"```dataview"+`
+LIST FROM "music/concerts"
+WHERE contains(tags, "music/live-artist/" + this.file.name)
+SORT date DESC
 `+"```"+`
 
 ## Notes
