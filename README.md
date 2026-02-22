@@ -37,6 +37,9 @@ OBSIDIAN_VAULT_PATH=/path/to/your/vault
 go build -o spotify-garden .
 ```
 
+Or download a pre-built binary from [GitHub Releases](https://github.com/benstraw/obsidian-spotify-garden/releases)
+and place it in the project directory.
+
 ### 4. Authenticate
 
 ```bash
@@ -54,6 +57,8 @@ auto-refresh — you should only need to do this once.
 ./spotify-garden weekly --date 2026-02-10     # specific week
 ./spotify-garden catch-up --weeks 8          # backfill missing notes
 ./spotify-garden persona                      # regenerate Music Taste context pack
+./spotify-garden --help                       # show all commands
+./spotify-garden version                      # print version
 ```
 
 ---
@@ -82,11 +87,18 @@ Files are written to `$OBSIDIAN_VAULT_PATH/music/` when the vault path is set.
 
 ## Automation (launchd)
 
-Copy the plists to `~/Library/LaunchAgents/` and load them:
+Copy the example plists, substitute the path to your checkout, and load them:
 
 ```bash
-cp com.benstrawbridge.spotify-collect.plist ~/Library/LaunchAgents/
-cp com.benstrawbridge.spotify-weekly.plist ~/Library/LaunchAgents/
+PROJ="$(pwd)"
+sed "s|/path/to/obsidian-spotify-garden|$PROJ|g" \
+    com.benstrawbridge.spotify-collect.plist.example \
+    > ~/Library/LaunchAgents/com.benstrawbridge.spotify-collect.plist
+
+sed "s|/path/to/obsidian-spotify-garden|$PROJ|g" \
+    com.benstrawbridge.spotify-weekly.plist.example \
+    > ~/Library/LaunchAgents/com.benstrawbridge.spotify-weekly.plist
+
 launchctl load ~/Library/LaunchAgents/com.benstrawbridge.spotify-collect.plist
 launchctl load ~/Library/LaunchAgents/com.benstrawbridge.spotify-weekly.plist
 ```
@@ -112,7 +124,8 @@ Logs go to `/tmp/spotify-collect.log` and `/tmp/spotify-weekly.log`.
 
 ## Notes
 
-- `tokens.json`, `.env`, and `data/plays.json` are gitignored — never commit them
+- `tokens.json`, `.env`, `data/plays.json`, and `*.plist` files are gitignored — never commit them
+- Use `*.plist.example` as templates; fill in your local path before loading with launchctl
 - `catch-up` only writes missing notes; `weekly` always writes (overwrites if exists)
 - Artist stubs are never overwritten once created
 - Port `8888` must be free when running `auth` with a localhost redirect URI

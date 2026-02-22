@@ -127,6 +127,30 @@ edited.
 
 ---
 
+## version
+
+```bash
+./spotify-garden version
+./spotify-garden --version
+```
+
+Prints the version string embedded at build time (e.g. `spotify-garden v0.1.0`).
+Defaults to `dev` when built without `-ldflags`.
+
+---
+
+## help
+
+```bash
+./spotify-garden --help
+./spotify-garden -h
+./spotify-garden help
+```
+
+Prints the command reference and exits 0.
+
+---
+
 ## persona
 
 ```bash
