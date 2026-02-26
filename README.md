@@ -56,6 +56,8 @@ auto-refresh — you should only need to do this once.
 ./spotify-garden collect                                   # fetch last 50 recently-played
 ./spotify-garden weekly                                    # this week's note
 ./spotify-garden weekly --date 2026-02-10                  # specific week
+./spotify-garden daily                                     # today's daily note
+./spotify-garden daily --date 2026-02-21                   # specific day
 ./spotify-garden catch-up --weeks 8                        # backfill missing notes
 ./spotify-garden persona                                   # regenerate Music Taste context pack
 ./spotify-garden setlist "Jason Isbell"                    # look up today's setlist
@@ -81,6 +83,7 @@ Files are written to `$OBSIDIAN_VAULT_PATH/music/` when the vault path is set.
 |---|---|
 | `collect` | `data/plays.json` (local, git-ignored) |
 | `weekly` | `{vault}/music/listening/spotify-YYYY-Www.md` |
+| `daily` | `{vault}/music/listening/spotify-YYYY-MM-DD.md` |
 | `weekly` (artist stubs) | `{vault}/music/artists/{Artist Name}.md` |
 | `persona` | `{vault}/01-ai-brain/context-packs/Music Taste.md` |
 | `setlist` | stdout only — no vault writes |
@@ -88,6 +91,27 @@ Files are written to `$OBSIDIAN_VAULT_PATH/music/` when the vault path is set.
 ---
 
 ## Automation (launchd)
+
+Recommended (stable local install, avoids symlinked/external-drive path issues):
+
+```bash
+./scripts/install_launchd_local.sh
+```
+
+This installs/updates:
+- binary: `~/.local/bin/spotify-garden`
+- state: `~/Library/Application Support/spotify-garden/state` (`.env`, `tokens.json`, `data/plays.json`)
+- templates: `~/Library/Application Support/spotify-garden/templates`
+- logs: `~/Library/Application Support/spotify-garden/logs`
+- launch agents: `~/Library/LaunchAgents/com.$USER.spotify-collect.plist` and `...spotify-weekly.plist`
+
+Upgrade path (after code changes or `git pull`): re-run:
+
+```bash
+./scripts/install_launchd_local.sh
+```
+
+Legacy/manual method:
 
 Copy the example plists, edit the path and label, then install:
 
@@ -129,7 +153,8 @@ Logs go to `/tmp/spotify-collect.log` and `/tmp/spotify-weekly.log`.
 ## Notes
 
 - `tokens.json`, `.env`, and `data/plays.json` are gitignored — never commit them
-- `catch-up` only writes missing notes; `weekly` always writes (overwrites if exists)
+- `catch-up` only writes missing notes (weekly + daily); `weekly` always writes (overwrites if exists)
+- `daily` only writes when that date has play data and never overwrites an existing daily note
 - Artist stubs are never overwritten once created; new stubs include a Concerts Dataview section
 - Port `8888` must be free when running `auth` with a localhost redirect URI
 - `setlist` requires `SETLISTFM_API_KEY` — prints to stdout only, no vault writes
