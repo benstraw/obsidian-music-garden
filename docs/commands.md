@@ -82,7 +82,6 @@ given date (default: the current week).
 **Weekly note sections:**
 - YAML frontmatter (`type: note`, `tags: [music, weekly-music]`, `created`, `week`)
 - Stats block: play count, unique tracks/artists/albums, total listening time
-- Play Log grouped by local date, with time, track, artist wikilink, album
 - Repeated Tracks (≥2 plays in the week)
 - Albums This Week (sorted by play count)
 - Artists in Rotation (wikilinks, sorted alphabetically)
@@ -99,14 +98,45 @@ lists all weekly notes linking to the artist.
 
 ---
 
+## daily
+
+```bash
+./spotify-garden daily [--date YYYY-MM-DD]
+```
+
+Generates a daily markdown note for the given calendar date (default: today).
+
+**Flags:**
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--date` | today | Date in `YYYY-MM-DD` |
+
+**Behaviour:**
+1. Loads `data/plays.json`
+2. Filters plays for the local calendar day
+3. If no plays exist for that day, exits without writing a file
+4. If a note already exists, skips (never overwrites)
+5. Otherwise writes the daily note
+
+**Output:** `{vault}/music/listening/spotify-YYYY-MM-DD.md`
+
+**Daily note sections:**
+- YAML frontmatter (`type: note`, `tags: [music, daily-music]`, `created`, `date`)
+- Stats block: play count, unique tracks/artists/albums, total listening time
+- Play Log with local times, track, artist wikilink, album
+- Notes (empty section)
+
+---
+
 ## catch-up
 
 ```bash
 ./spotify-garden catch-up [--weeks N]
 ```
 
-Scans the vault's listening directory for missing weekly notes and generates
-only those. Existing notes are never overwritten.
+Scans the vault's listening directory for missing weekly and daily notes and
+generates only what is missing. Existing notes are never overwritten.
 
 **Flags:**
 
@@ -117,9 +147,10 @@ only those. Existing notes are never overwritten.
 **Behaviour:**
 1. Checks for `spotify-YYYY-Www.md` in `{vault}/music/listening/` for each
    of the last N weeks
-2. If all files exist, exits immediately with "All caught up"
-3. Generates missing weeks in chronological order (oldest first)
-4. Each generation follows the same process as `weekly`
+2. Generates missing weekly notes in chronological order (oldest first)
+3. Loads `data/plays.json` once, then checks the last `N*7` days for missing
+   `spotify-YYYY-MM-DD.md` files
+4. Generates missing daily notes (skips days with no plays)
 
 This is the preferred command for the scheduled Sunday run — it fills any
 gaps from missed `collect` windows without overwriting notes you have already

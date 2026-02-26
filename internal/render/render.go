@@ -58,6 +58,28 @@ func PlaysForWeek(plays []models.Play, date time.Time) []models.Play {
 	return result
 }
 
+// PlaysForDay returns plays that fall on the calendar day of day (local time), sorted ascending.
+func PlaysForDay(plays []models.Play, day time.Time) []models.Play {
+	d := day.Local()
+	start := time.Date(d.Year(), d.Month(), d.Day(), 0, 0, 0, 0, time.Local)
+	end := start.AddDate(0, 0, 1)
+	var result []models.Play
+	for _, p := range plays {
+		t, err := parsePlayedAt(p.PlayedAt)
+		if err != nil {
+			continue
+		}
+		localT := t.Local()
+		if !localT.Before(start) && localT.Before(end) {
+			result = append(result, p)
+		}
+	}
+	sort.Slice(result, func(i, j int) bool {
+		return result[i].PlayedAt < result[j].PlayedAt
+	})
+	return result
+}
+
 // fmtDuration formats milliseconds as "Xh Ymin" or "Ymin".
 func fmtDuration(totalMS int) string {
 	totalMin := totalMS / 60000
@@ -89,23 +111,6 @@ func RenderWeekly(plays []models.Play, topTracksShort []models.TopTrack, topArti
 			uniqueAlbums[p.AlbumName] = true
 		}
 		totalMS += p.DurationMS
-	}
-
-	// Day groups
-	type dayEntry struct {
-		time  time.Time
-		play  models.Play
-	}
-	dayMap := map[string][]dayEntry{}
-	dayOrder := []string{}
-	for _, p := range weekPlays {
-		t, _ := parsePlayedAt(p.PlayedAt)
-		localT := t.Local()
-		dayKey := localT.Format("2006-01-02")
-		if _, exists := dayMap[dayKey]; !exists {
-			dayOrder = append(dayOrder, dayKey)
-		}
-		dayMap[dayKey] = append(dayMap[dayKey], dayEntry{localT, p})
 	}
 
 	// Repeated tracks
@@ -229,28 +234,6 @@ func RenderWeekly(plays []models.Play, topTracksShort []models.TopTrack, topArti
 		len(weekPlays), len(uniqueTracks), len(uniqueArtists), len(uniqueAlbums))
 	fmt.Fprintf(&sb, "- Estimated listening time: %s\n\n", fmtDuration(totalMS))
 
-	// Play log
-	if len(weekPlays) > 0 {
-		sb.WriteString("## Play Log\n")
-		for _, dayKey := range dayOrder {
-			entries := dayMap[dayKey]
-			dayTime, _ := time.ParseInLocation("2006-01-02", dayKey, time.Local)
-			fmt.Fprintf(&sb, "### %s\n", dayTime.Format("Monday, Jan 2"))
-			for _, e := range entries {
-				timeStr := fmt.Sprintf("%d:%02d", e.time.Hour(), e.time.Minute())
-				albumPart := ""
-				if e.play.AlbumName != "" {
-					albumPart = fmt.Sprintf("  _(%s)_", e.play.AlbumName)
-				}
-				fmt.Fprintf(&sb, "- %s  %s — [[%s]]%s\n", timeStr, e.play.TrackName, e.play.ArtistName, albumPart)
-			}
-			sb.WriteString("\n")
-		}
-	} else {
-		sb.WriteString("## Play Log\n")
-		sb.WriteString("_No play data for this week. Run `spotify-garden collect` to capture plays._\n\n")
-	}
-
 	// Repeated tracks
 	if len(repeated) > 0 {
 		sb.WriteString("## Repeated Tracks  (played \u22652\u00d7)\n")
@@ -324,6 +307,73 @@ func RenderWeekly(plays []models.Play, topTracksShort []models.TopTrack, topArti
 		}
 	} else {
 		sb.WriteString("_No data_\n")
+	}
+	sb.WriteString("\n")
+
+	sb.WriteString("## Notes\n\n\n")
+
+	return sb.String(), nil
+}
+
+// RenderDaily builds the daily note for the calendar day containing date.
+// Returns ("", nil) when there are no plays for that day (caller skips writing).
+func RenderDaily(plays []models.Play, date time.Time, vaultPath string) (string, error) {
+	dayPlays := PlaysForDay(plays, date)
+	if len(dayPlays) == 0 {
+		return "", nil
+	}
+
+	d := date.Local()
+	dayStr := d.Format("2006-01-02")
+	dateStr := dayStr
+
+	// Stats
+	uniqueTracks := map[string]bool{}
+	uniqueArtists := map[string]bool{}
+	uniqueAlbums := map[string]bool{}
+	totalMS := 0
+	for _, p := range dayPlays {
+		uniqueTracks[p.TrackName+"|"+p.ArtistName] = true
+		uniqueArtists[p.ArtistName] = true
+		if p.AlbumName != "" {
+			uniqueAlbums[p.AlbumName] = true
+		}
+		totalMS += p.DurationMS
+	}
+
+	var sb strings.Builder
+
+	// Frontmatter
+	sb.WriteString("---\n")
+	sb.WriteString("type: note\n")
+	sb.WriteString("tags: [music, daily-music]\n")
+	fmt.Fprintf(&sb, "created: %s\n", dateStr)
+	fmt.Fprintf(&sb, "date: %s\n", dayStr)
+	sb.WriteString("---\n\n")
+
+	// Title
+	fmt.Fprintf(&sb, "# Daily Listening: %s\n\n", dayStr)
+
+	// Stats
+	sb.WriteString("## Stats\n")
+	fmt.Fprintf(&sb, "- Plays: %d  |  Unique tracks: %d  |  Unique artists: %d  |  Unique albums: %d\n",
+		len(dayPlays), len(uniqueTracks), len(uniqueArtists), len(uniqueAlbums))
+	fmt.Fprintf(&sb, "- Estimated listening time: %s\n\n", fmtDuration(totalMS))
+
+	// Play Log
+	sb.WriteString("## Play Log\n")
+	for _, p := range dayPlays {
+		t, err := parsePlayedAt(p.PlayedAt)
+		if err != nil {
+			continue
+		}
+		localT := t.Local()
+		timeStr := fmt.Sprintf("%d:%02d", localT.Hour(), localT.Minute())
+		albumPart := ""
+		if p.AlbumName != "" {
+			albumPart = fmt.Sprintf("  _(%s)_", p.AlbumName)
+		}
+		fmt.Fprintf(&sb, "- %s  %s — [[%s]]%s\n", timeStr, p.TrackName, p.ArtistName, albumPart)
 	}
 	sb.WriteString("\n")
 

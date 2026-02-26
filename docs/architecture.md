@@ -66,11 +66,24 @@ main.runWeekly()  /  main.generateWeeklyNote(date)
        │
        ├─ render.PlaysForWeek()     filter plays to ISO week (local time)
        ├─ compute stats             unique tracks/artists/albums, duration
-       ├─ group by local day        for play log
        ├─ compute repeated tracks   ≥2 plays
        ├─ compute albums            sorted by play count
        ├─ render.EnsureArtistStub() for each artist (skip if exists)
        └─ build note string         → os.WriteFile
+```
+
+### `daily` command
+
+```
+main.runDaily()
+  │
+  ├─ plays.Load("data/plays.json")
+  │
+  └─ render.RenderDaily(allPlays, date, vaultPath)
+       │
+       ├─ render.PlaysForDay()      filter plays to local day
+       ├─ compute stats             unique tracks/artists/albums, duration
+       └─ build note string         → os.WriteFile (if missing)
 ```
 
 ### `catch-up` command
@@ -78,13 +91,16 @@ main.runWeekly()  /  main.generateWeeklyNote(date)
 ```
 main.runCatchUp()
   │
-  ├─ for each of last N weeks:
-  │    check {vault}/music/listening/spotify-YYYY-Www.md exists
+  ├─ weekly pass:
+  │    for each of last N weeks:
+  │      check {vault}/music/listening/spotify-YYYY-Www.md exists
+  │    generate missing weeks (oldest first)
   │
-  ├─ if none missing: exit "All caught up"
-  │
-  └─ for each missing week (oldest first):
-       generateWeeklyNote(date)   ← same as weekly command
+  └─ daily pass:
+       plays.Load("data/plays.json") once
+       for each of last N*7 days:
+         check {vault}/music/listening/spotify-YYYY-MM-DD.md exists
+         generate missing daily notes (skips no-play days)
 ```
 
 ### `persona` command
@@ -198,9 +214,8 @@ has simple structure well-suited to `text/template`.
 `music/artists/{Name}.md` is left alone. Users can freely add notes, links,
 and metadata to stubs without risking them being clobbered on the next run.
 
-**catch-up checks file existence before auth** — `runCatchUp` scans for
-missing files before calling `RefreshIfNeeded()`. If everything is up to date,
-it exits without making any API calls.
+**catch-up minimizes API calls** — Weekly generation may need Spotify API calls
+(top tracks/artists), but daily generation is local-only from `plays.json`.
 
 **setlist uses a standalone HTTP helper, not the Spotify client** — setlist.fm
 has a different base URL, auth scheme (header-based API key vs. Bearer token),

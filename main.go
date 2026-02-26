@@ -12,6 +12,7 @@ import (
 	"github.com/benstraw/spotify-garden/internal/auth"
 	"github.com/benstraw/spotify-garden/internal/client"
 	"github.com/benstraw/spotify-garden/internal/fetch"
+	"github.com/benstraw/spotify-garden/internal/models"
 	"github.com/benstraw/spotify-garden/internal/plays"
 	"github.com/benstraw/spotify-garden/internal/render"
 )
@@ -39,6 +40,8 @@ func main() {
 		runCollect()
 	case "weekly":
 		runWeekly(args)
+	case "daily":
+		runDaily(args)
 	case "catch-up":
 		runCatchUp(args)
 	case "persona":
@@ -64,7 +67,8 @@ Usage:
   spotify-garden auth                           Authenticate with Spotify via OAuth
   spotify-garden collect                        Fetch last 50 recently-played, dedup, append to plays.json
   spotify-garden weekly [--date YYYY-MM-DD]     Generate weekly note for date's ISO week (default: current)
-  spotify-garden catch-up [--weeks N]           Generate missing weekly notes (default: 8 weeks back)
+  spotify-garden daily [--date YYYY-MM-DD]      Generate daily note for date (default: today)
+  spotify-garden catch-up [--weeks N]           Generate missing weekly + daily notes (default: 8 weeks back)
   spotify-garden persona                        Regenerate Music Taste context pack
   spotify-garden setlist <artist> [--date DATE] Look up setlist on setlist.fm (default: today)
   spotify-garden version                        Print version
@@ -266,6 +270,58 @@ func generateWeeklyNote(date time.Time) {
 	fmt.Println("Written:", outPath)
 }
 
+func generateDailyNote(allPlays []models.Play, date time.Time) {
+	d := date.Local()
+	dayStr := d.Format("2006-01-02")
+	vault := vaultPath()
+	outDir := filepath.Join(vault, "music", "listening")
+	outPath := filepath.Join(outDir, fmt.Sprintf("spotify-%s.md", dayStr))
+
+	// Never overwrite existing daily notes
+	if _, err := os.Stat(outPath); err == nil {
+		fmt.Printf("  Skipping %s (already exists)\n", dayStr)
+		return
+	}
+
+	content, err := render.RenderDaily(allPlays, date, vault)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "render error for %s: %v\n", dayStr, err)
+		return
+	}
+	if content == "" {
+		return // no plays for this day
+	}
+
+	if err := os.MkdirAll(outDir, 0755); err != nil {
+		fmt.Fprintf(os.Stderr, "mkdir error: %v\n", err)
+		return
+	}
+	if err := os.WriteFile(outPath, []byte(content), 0644); err != nil {
+		fmt.Fprintf(os.Stderr, "write error for %s: %v\n", dayStr, err)
+		return
+	}
+	fmt.Println("Written:", outPath)
+}
+
+func runDaily(args []string) {
+	fs := flag.NewFlagSet("daily", flag.ExitOnError)
+	dateStr := fs.String("date", "", "date in YYYY-MM-DD format (default: today)")
+	_ = fs.Parse(args)
+
+	date, err := parseDate(*dateStr)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, err)
+		os.Exit(1)
+	}
+
+	allPlays, err := plays.Load(playsFile)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "load plays error:", err)
+		os.Exit(1)
+	}
+	generateDailyNote(allPlays, date)
+}
+
 func runCatchUp(args []string) {
 	fs := flag.NewFlagSet("catch-up", flag.ExitOnError)
 	weeks := fs.Int("weeks", 8, "number of weeks to check")
@@ -273,13 +329,11 @@ func runCatchUp(args []string) {
 
 	vault := vaultPath()
 	listeningDir := filepath.Join(vault, "music", "listening")
-
 	now := time.Now()
 
-	// Collect missing weeks
+	// --- Weekly catch-up ---
 	var missingDates []time.Time
 	for i := 0; i < *weeks; i++ {
-		// Go back i full weeks from the current week
 		weekDate := now.AddDate(0, 0, -(i * 7))
 		monday, _ := render.WeekBounds(weekDate)
 		weekStr := render.WeekStr(monday)
@@ -288,19 +342,32 @@ func runCatchUp(args []string) {
 			missingDates = append(missingDates, weekDate)
 		}
 	}
-
 	if len(missingDates) == 0 {
-		fmt.Println("All caught up — no missing weekly notes.")
-		return
+		fmt.Println("Weekly notes: all caught up.")
+	} else {
+		fmt.Printf("Found %d missing weekly note(s), generating...\n", len(missingDates))
+		for i := len(missingDates) - 1; i >= 0; i-- {
+			generateWeeklyNote(missingDates[i])
+		}
 	}
 
-	fmt.Printf("Found %d missing weekly note(s), generating...\n", len(missingDates))
-
-	// Generate oldest first
-	for i := len(missingDates) - 1; i >= 0; i-- {
-		generateWeeklyNote(missingDates[i])
+	// --- Daily catch-up ---
+	allPlays, err := plays.Load(playsFile)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "load plays error:", err)
+		os.Exit(1)
 	}
-
+	totalDays := *weeks * 7
+	fmt.Printf("Checking %d days for missing daily notes...\n", totalDays)
+	for i := 0; i < totalDays; i++ {
+		day := now.AddDate(0, 0, -i)
+		d := day.Local()
+		dayStr := d.Format("2006-01-02")
+		notePath := filepath.Join(listeningDir, fmt.Sprintf("spotify-%s.md", dayStr))
+		if _, err := os.Stat(notePath); os.IsNotExist(err) {
+			generateDailyNote(allPlays, day)
+		}
+	}
 	fmt.Println("Done.")
 }
 

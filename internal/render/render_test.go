@@ -215,8 +215,6 @@ func TestRenderWeekly_noPlays(t *testing.T) {
 		"tags: [music, weekly-music]",
 		"# Week in Music:",
 		"## Stats",
-		"## Play Log",
-		"_No play data for this week.",
 		"## Top Tracks",
 		"_No data_",
 		"## Notes",
@@ -225,6 +223,18 @@ func TestRenderWeekly_noPlays(t *testing.T) {
 		if !strings.Contains(content, s) {
 			t.Errorf("output missing %q", s)
 		}
+	}
+}
+
+func TestRenderWeekly_noPlayLog(t *testing.T) {
+	dir := t.TempDir()
+	date := time.Date(2026, 2, 18, 0, 0, 0, 0, time.UTC)
+	content, err := RenderWeekly(nil, nil, nil, date, dir)
+	if err != nil {
+		t.Fatalf("RenderWeekly: %v", err)
+	}
+	if strings.Contains(content, "## Play Log") {
+		t.Error("weekly note should not contain ## Play Log")
 	}
 }
 
@@ -270,6 +280,105 @@ func TestRenderWeekly_withPlays(t *testing.T) {
 		"Top Track",
 		"[[Top Artist]]",
 		"indie",
+	}
+	for _, s := range checks {
+		if !strings.Contains(content, s) {
+			t.Errorf("output missing %q", s)
+		}
+	}
+}
+
+// --- PlaysForDay ---
+
+func TestPlaysForDay_empty(t *testing.T) {
+	d := time.Date(2026, 2, 22, 12, 0, 0, 0, time.Local)
+	result := PlaysForDay(nil, d)
+	if len(result) != 0 {
+		t.Errorf("expected empty result, got %d plays", len(result))
+	}
+}
+
+func TestPlaysForDay_filtersCorrectly(t *testing.T) {
+	loc := time.Local
+	plays := []models.Play{
+		{PlayedAt: time.Date(2026, 2, 22, 9, 0, 0, 0, loc).UTC().Format(time.RFC3339)},
+		{PlayedAt: time.Date(2026, 2, 22, 21, 0, 0, 0, loc).UTC().Format(time.RFC3339)},
+		{PlayedAt: time.Date(2026, 2, 21, 23, 59, 0, 0, loc).UTC().Format(time.RFC3339)}, // previous day
+		{PlayedAt: time.Date(2026, 2, 23, 0, 0, 0, 0, loc).UTC().Format(time.RFC3339)},   // next day
+	}
+	d := time.Date(2026, 2, 22, 12, 0, 0, 0, loc)
+	result := PlaysForDay(plays, d)
+	if len(result) != 2 {
+		t.Errorf("expected 2 plays, got %d", len(result))
+	}
+}
+
+func TestPlaysForDay_sortedAscending(t *testing.T) {
+	loc := time.Local
+	plays := []models.Play{
+		{PlayedAt: time.Date(2026, 2, 22, 15, 0, 0, 0, loc).UTC().Format(time.RFC3339)},
+		{PlayedAt: time.Date(2026, 2, 22, 9, 0, 0, 0, loc).UTC().Format(time.RFC3339)},
+		{PlayedAt: time.Date(2026, 2, 22, 12, 0, 0, 0, loc).UTC().Format(time.RFC3339)},
+	}
+	d := time.Date(2026, 2, 22, 12, 0, 0, 0, loc)
+	result := PlaysForDay(plays, d)
+	for i := 1; i < len(result); i++ {
+		if result[i-1].PlayedAt > result[i].PlayedAt {
+			t.Errorf("not sorted ascending at index %d: %s > %s",
+				i, result[i-1].PlayedAt, result[i].PlayedAt)
+		}
+	}
+}
+
+// --- RenderDaily ---
+
+func TestRenderDaily_noPlays(t *testing.T) {
+	dir := t.TempDir()
+	date := time.Date(2026, 2, 22, 12, 0, 0, 0, time.Local)
+	content, err := RenderDaily(nil, date, dir)
+	if err != nil {
+		t.Fatalf("RenderDaily: %v", err)
+	}
+	if content != "" {
+		t.Errorf("expected empty string for no plays, got non-empty content")
+	}
+}
+
+func TestRenderDaily_withPlays(t *testing.T) {
+	dir := t.TempDir()
+	loc := time.Local
+	date := time.Date(2026, 2, 22, 12, 0, 0, 0, loc)
+	plays := []models.Play{
+		{
+			PlayedAt:   time.Date(2026, 2, 22, 9, 3, 0, 0, loc).UTC().Format(time.RFC3339),
+			TrackName:  "Souvenirs",
+			ArtistName: "Orla Gartland",
+			AlbumName:  "Woman on the Internet",
+			DurationMS: 210000,
+		},
+		{
+			PlayedAt:   time.Date(2026, 2, 22, 9, 7, 0, 0, loc).UTC().Format(time.RFC3339),
+			TrackName:  "Madison",
+			ArtistName: "Orla Gartland",
+			AlbumName:  "Woman on the Internet",
+			DurationMS: 180000,
+		},
+	}
+	content, err := RenderDaily(plays, date, dir)
+	if err != nil {
+		t.Fatalf("RenderDaily: %v", err)
+	}
+	checks := []string{
+		"type: note",
+		"tags: [music, daily-music]",
+		"date: 2026-02-22",
+		"# Daily Listening: 2026-02-22",
+		"## Stats",
+		"## Play Log",
+		"Souvenirs",
+		"[[Orla Gartland]]",
+		"_(Woman on the Internet)_",
+		"## Notes",
 	}
 	for _, s := range checks {
 		if !strings.Contains(content, s) {
