@@ -1,7 +1,7 @@
 # spotify-garden
 
 Pulls listening data from the [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-and renders structured Obsidian markdown notes — weekly play logs, artist stubs, and a
+and renders structured Obsidian markdown notes — weekly summaries, daily play logs, artist stubs, and a
 rolling Music Taste context pack for AI prompting. Also looks up concert setlists via
 the [setlist.fm API](https://api.setlist.fm/docs/1.0/index.html).
 
@@ -48,7 +48,8 @@ go build -o spotify-garden .
 ./spotify-garden auth
 ```
 
-Opens a browser to Spotify's OAuth page. Tokens are saved to `tokens.json` and
+Opens a browser to Spotify's OAuth page. Tokens are saved to the effective
+`tokens.json` path (state dir when configured) and
 auto-refresh — you should only need to do this once.
 
 ### 5. Collect and generate
@@ -63,6 +64,7 @@ auto-refresh — you should only need to do this once.
 ./spotify-garden persona                                   # regenerate Music Taste context pack
 ./spotify-garden setlist "Jason Isbell"                    # look up today's setlist
 ./spotify-garden setlist "Jason Isbell" --date 2026-02-21  # specific date
+./spotify-garden doctor                                    # print runtime config + diagnostics
 ```
 
 ---
@@ -78,14 +80,15 @@ go vet ./...                    # static analysis
 
 ## Output
 
+Runtime paths resolve with precedence: flags > env vars > `SPOTIFY_STATE_DIR` > CWD fallback.
 Files are written to `$OBSIDIAN_VAULT_PATH/music/` when the vault path is set.
 
 | Command | Output path |
 |---|---|
-| `collect` | `data/plays.json` (local, git-ignored) |
+| `collect` | `{state}/data/plays.json` or `./data/plays.json` (git-ignored) |
 | `weekly` | `{vault}/music/listening/spotify-YYYY-Www.md` |
 | `daily` | `{vault}/music/listening/spotify-YYYY-MM-DD.md` |
-| `weekly` (artist stubs) | `{vault}/music/artists/{Artist Name}.md` |
+| `daily`/`weekly` (artist stubs) | `{vault}/music/artists/{Artist Name}.md` |
 | `persona` | `{vault}/01-ai-brain/context-packs/Music Taste.md` |
 | `setlist` | stdout only — no vault writes |
 
@@ -105,6 +108,7 @@ This installs/updates:
 - templates: `~/Library/Application Support/spotify-garden/templates`
 - logs: `~/Library/Application Support/spotify-garden/logs`
 - launch agents: `~/Library/LaunchAgents/com.$USER.spotify-collect.plist` and `...spotify-weekly.plist`
+- collect wrapper exports `SPOTIFY_AUTO_DAILY_ON_COLLECT=1` so today's daily note auto-refreshes on each collect run
 
 Upgrade path (after code changes or `git pull`): re-run:
 
@@ -139,6 +143,8 @@ launchctl load ~/Library/LaunchAgents/com.yourname.spotify-weekly.plist
 
 Logs go to `/tmp/spotify-collect.log` and `/tmp/spotify-weekly.log`.
 
+Run `./spotify-garden doctor` to confirm effective paths, launchd labels, and log locations.
+
 ---
 
 ## Documentation
@@ -154,9 +160,11 @@ Logs go to `/tmp/spotify-collect.log` and `/tmp/spotify-weekly.log`.
 ## Notes
 
 - `tokens.json`, `.env`, and `data/plays.json` are gitignored — never commit them
+- if `SPOTIFY_STATE_DIR` is set and files are missing there, the CLI falls back to CWD and prints warnings
 - `catch-up` only writes missing notes (weekly + daily); `weekly` always writes (overwrites if exists)
 - `daily` only writes when that date has play data and never overwrites an existing daily note
-- Artist stubs are never overwritten once created; new stubs include a Concerts Dataview section
+- when `SPOTIFY_AUTO_DAILY_ON_COLLECT=1`, each `collect` run updates today's daily note
+- Artist stubs are never overwritten once created; stubs can be created by daily or weekly generation and include a Concerts Dataview section
 - Port `8888` must be free when running `auth` with a localhost redirect URI
 - `setlist` requires `SETLISTFM_API_KEY` — prints to stdout only, no vault writes
 - Concert notes live in `{vault}/music/concerts/` and are created manually via the Templater template

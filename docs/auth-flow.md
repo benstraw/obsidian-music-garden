@@ -22,7 +22,7 @@ User                  CLI                   Spotify API          Browser
  |                     |<-- access_token,       |                   |
  |                     |    refresh_token       |                   |
  |                     |                        |                   |
- |                     | save tokens.json (0600)|                   |
+ |                     | save tokens file (0600)|                   |
  |                     |                        |                   |
 ```
 
@@ -47,7 +47,7 @@ User                  CLI                   Spotify API          Browser
  |                     | POST /api/token        |                   |
  |                     |----------------------->|                   |
  |                     |<-- access_token, ...   |                   |
- |                     | save tokens.json (0600)|                   |
+ |                     | save tokens file (0600)|                   |
 ```
 
 ## Required Environment Variables
@@ -75,8 +75,12 @@ not as form fields. This differs from some other OAuth providers.
 
 ## Token Storage
 
-Tokens are written to `tokens.json` in the current working directory with
-`0600` permissions (owner read/write only). The file is git-ignored.
+Tokens are written to the effective tokens path with `0600` permissions
+(owner read/write only). Resolution order:
+1. `{SPOTIFY_STATE_DIR}/tokens.json` when present
+2. `./tokens.json` fallback when state file is missing
+
+The file is git-ignored.
 
 ```json
 {
@@ -91,12 +95,12 @@ runs can check expiry without calling the API.
 
 ## Automatic Token Refresh
 
-Every command calls `auth.RefreshIfNeeded()` before making API calls:
+Every command calls `auth.RefreshIfNeeded(tokensPath)` before making API calls:
 
-1. Load `tokens.json`
+1. Load effective `tokens.json`
 2. Check if `expires_at` is within 5 minutes of now
 3. If expiring soon: POST to token endpoint with `grant_type=refresh_token`
-4. Save new tokens back to `tokens.json`
+4. Save new tokens back to effective `tokens.json`
 5. Return the valid access token
 
 You should only need to run `spotify-garden auth` once. The refresh token is
@@ -109,7 +113,7 @@ does not match any URI registered in the Spotify Developer Dashboard. Add the
 exact URI in the app's Edit Settings → Redirect URIs and save.
 
 **"SPOTIFY_CLIENT_ID not set"** — The `.env` file was not found or is missing
-the variable. Ensure `.env` exists in the directory where you run the binary.
+the variable. Ensure it exists in `SPOTIFY_STATE_DIR` (if set) or current working directory.
 
 **"no code found in pasted URL"** — When using an external redirect URI, the
 pasted URL must include `?code=...`. If Spotify showed an error page, check
@@ -131,5 +135,4 @@ is consistent.
 switch to an external redirect URI.
 
 **tokens.json not found** — Run `./spotify-garden auth` first. The file must
-exist in the working directory where you run commands (the project root when
-using the shell wrappers).
+exist in `SPOTIFY_STATE_DIR` (preferred) or in the current working directory fallback path.

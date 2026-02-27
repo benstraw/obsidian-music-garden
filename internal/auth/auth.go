@@ -17,10 +17,9 @@ import (
 )
 
 const (
-	authURL   = "https://accounts.spotify.com/authorize"
-	tokenURL  = "https://accounts.spotify.com/api/token"
-	tokenFile = "tokens.json"
-	scopes    = "user-read-recently-played user-top-read"
+	authURL  = "https://accounts.spotify.com/authorize"
+	tokenURL = "https://accounts.spotify.com/api/token"
+	scopes   = "user-read-recently-played user-top-read"
 )
 
 func getRedirectURI() string {
@@ -58,7 +57,7 @@ func randomState() (string, error) {
 // StartAuthFlow runs the full OAuth 2.0 authorization code flow.
 // For localhost redirect URIs it starts a local callback server.
 // For external redirect URIs it prompts the user to paste the redirect URL.
-func StartAuthFlow() error {
+func StartAuthFlow(tokensPath string) error {
 	clientID := os.Getenv("SPOTIFY_CLIENT_ID")
 	if clientID == "" {
 		return fmt.Errorf("SPOTIFY_CLIENT_ID not set")
@@ -99,11 +98,11 @@ func StartAuthFlow() error {
 		return fmt.Errorf("token exchange failed: %w", err)
 	}
 
-	if err := SaveTokens(tokens); err != nil {
+	if err := SaveTokens(tokensPath, tokens); err != nil {
 		return fmt.Errorf("failed to save tokens: %w", err)
 	}
 
-	fmt.Printf("Authenticated successfully. Tokens saved to %s\n", tokenFile)
+	fmt.Printf("Authenticated successfully. Tokens saved to %s\n", tokensPath)
 	return nil
 }
 
@@ -245,18 +244,18 @@ func postTokenRequest(data url.Values) (TokenResponse, error) {
 	return tokens, nil
 }
 
-// SaveTokens writes tokens to tokens.json with 0600 permissions.
-func SaveTokens(tokens TokenResponse) error {
+// SaveTokens writes tokens to tokensPath with 0600 permissions.
+func SaveTokens(tokensPath string, tokens TokenResponse) error {
 	data, err := json.MarshalIndent(tokens, "", "  ")
 	if err != nil {
 		return err
 	}
-	return os.WriteFile(tokenFile, data, 0600)
+	return os.WriteFile(tokensPath, data, 0600)
 }
 
-// LoadTokens reads tokens from tokens.json.
-func LoadTokens() (TokenResponse, error) {
-	data, err := os.ReadFile(tokenFile)
+// LoadTokens reads tokens from tokensPath.
+func LoadTokens(tokensPath string) (TokenResponse, error) {
+	data, err := os.ReadFile(tokensPath)
 	if err != nil {
 		return TokenResponse{}, fmt.Errorf("tokens not found (run 'spotify-garden auth' first): %w", err)
 	}
@@ -269,8 +268,8 @@ func LoadTokens() (TokenResponse, error) {
 
 // RefreshIfNeeded checks token expiry and refreshes if necessary.
 // Returns the valid access token.
-func RefreshIfNeeded() (string, error) {
-	tokens, err := LoadTokens()
+func RefreshIfNeeded(tokensPath string) (string, error) {
+	tokens, err := LoadTokens(tokensPath)
 	if err != nil {
 		return "", err
 	}
@@ -286,7 +285,7 @@ func RefreshIfNeeded() (string, error) {
 		return "", fmt.Errorf("token refresh failed: %w", err)
 	}
 
-	if err := SaveTokens(refreshed); err != nil {
+	if err := SaveTokens(tokensPath, refreshed); err != nil {
 		return "", fmt.Errorf("failed to save refreshed tokens: %w", err)
 	}
 

@@ -1,7 +1,12 @@
 # Commands
 
-All commands auto-load `.env` from the current working directory and
-auto-refresh OAuth tokens if they are expiring within 5 minutes.
+All commands use this runtime path precedence:
+1. CLI flags (where applicable)
+2. Environment variables
+3. `SPOTIFY_STATE_DIR` files (`.env`, `tokens.json`, `data/plays.json`)
+4. Current working directory fallback (with warning)
+
+OAuth tokens auto-refresh if they are expiring within 5 minutes.
 
 ---
 
@@ -20,7 +25,7 @@ Runs the full OAuth 2.0 authorization code flow:
 4. For **external redirect URIs**: prompts you to paste the full redirect URL
    from your browser's address bar
 5. Exchanges the authorization code for access and refresh tokens
-6. Saves tokens to `tokens.json` in the current directory (mode `0600`)
+6. Saves tokens to the effective `tokens.json` path (mode `0600`)
 
 If the browser does not open automatically, the full auth URL is printed to
 stdout — copy and paste it manually.
@@ -28,7 +33,7 @@ stdout — copy and paste it manually.
 Tokens auto-refresh on subsequent commands. You should only need to run `auth`
 once, unless `tokens.json` is deleted or the refresh token expires.
 
-**Requires:** `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REDIRECT_URI` in `.env`.
+**Requires:** `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REDIRECT_URI` in `.env` or environment.
 
 ---
 
@@ -39,16 +44,18 @@ once, unless `tokens.json` is deleted or the refresh token expires.
 ```
 
 Fetches the last 50 recently-played tracks from the Spotify API and merges
-them into `data/plays.json`.
+them into the effective plays path (`SPOTIFY_STATE_DIR/data/plays.json` when configured).
 
 **Behaviour:**
 1. Calls `GET /me/player/recently-played?limit=50`
 2. Filters out podcast episodes (items with no `track` key)
-3. Loads existing `data/plays.json` (empty slice if the file doesn't exist)
+3. Loads existing plays file (empty slice if it doesn't exist)
 4. Merges using `played_at` as the dedup key — existing plays are never duplicated
 5. Saves sorted descending by `played_at`
+6. If `SPOTIFY_AUTO_DAILY_ON_COLLECT=1`, regenerates today's daily note
+   (`spotify-YYYY-MM-DD.md`) so it stays up to date as new plays arrive
 
-**Output:** `data/plays.json` (local to the project, git-ignored)
+**Output:** effective plays path (`SPOTIFY_STATE_DIR/data/plays.json` or `./data/plays.json`)
 
 Since Spotify only returns the last 50 plays, running `collect` 5× daily
 ensures no plays are lost to the 50-track API cap.
@@ -72,10 +79,9 @@ given date (default: the current week).
 
 **What it does:**
 1. Determines the ISO week (Monday 00:00 → Sunday 23:59 local time)
-2. Fetches top tracks and top artists (`short_term`) from the API
-3. Filters `data/plays.json` for plays that fall within the week
-4. Creates artist stubs for new artists (see below)
-5. Writes the weekly note (always overwrites if it already exists)
+2. Filters the effective plays file for plays that fall within the week
+3. Creates artist stubs for new artists (see below)
+4. Writes the weekly note (always overwrites if it already exists)
 
 **Output:** `{vault}/music/listening/spotify-YYYY-Www.md`
 
@@ -86,15 +92,12 @@ given date (default: the current week).
 - Albums This Week (sorted by play count)
 - Artists in Rotation (wikilinks, sorted alphabetically)
 - New Artists (first appearance — no stub existed before this run)
-- Top Tracks — Last ~4 Weeks (short_term top 50)
-- Top Artists — Last ~4 Weeks (short_term top 50, with genres)
 - Notes (empty section)
 
 **Artist stubs** — created at `{vault}/music/artists/{Name}.md` for every
-artist in the week's plays and in the short_term top artists list. Never
-overwrites an existing stub. Each stub includes frontmatter (`type: resource`,
-`tags: [music/artist]`, `spotify_url`, `genres`) and a dataview query that
-lists all weekly notes linking to the artist.
+artist in the week's plays. Never overwrites an existing stub. Each stub
+includes frontmatter (`type: resource`, `tags: [music/artist]`, `spotify_url`,
+`genres`) and a dataview query that lists all weekly notes linking to the artist.
 
 ---
 
@@ -110,14 +113,15 @@ Generates a daily markdown note for the given calendar date (default: today).
 
 | Flag | Default | Description |
 |------|---------|-------------|
-| `--date` | today | Date in `YYYY-MM-DD` |
+| `--date` | today | Date in `YYYY-MM-DD` (interpreted in local timezone) |
 
 **Behaviour:**
-1. Loads `data/plays.json`
+1. Loads the effective plays file
 2. Filters plays for the local calendar day
-3. If no plays exist for that day, exits without writing a file
-4. If a note already exists, skips (never overwrites)
-5. Otherwise writes the daily note
+3. Creates missing artist stubs for artists heard that day
+4. If no plays exist for that day, exits without writing a file
+5. If a note already exists, skips (never overwrites)
+6. Otherwise writes the daily note
 
 **Output:** `{vault}/music/listening/spotify-YYYY-MM-DD.md`
 
@@ -125,7 +129,13 @@ Generates a daily markdown note for the given calendar date (default: today).
 - YAML frontmatter (`type: note`, `tags: [music, daily-music]`, `created`, `date`)
 - Stats block: play count, unique tracks/artists/albums, total listening time
 - Play Log with local times, track, artist wikilink, album
+- Songs Played (all song+artist+album combinations with play counts)
+- Artists Played (all artists with play counts)
+- Albums Played (all album+artist combinations with play counts)
 - Notes (empty section)
+
+**Artist stubs:** `daily` also creates missing artist stubs at
+`{vault}/music/artists/{Name}.md` for artists heard on that day.
 
 ---
 
@@ -148,7 +158,7 @@ generates only what is missing. Existing notes are never overwritten.
 1. Checks for `spotify-YYYY-Www.md` in `{vault}/music/listening/` for each
    of the last N weeks
 2. Generates missing weekly notes in chronological order (oldest first)
-3. Loads `data/plays.json` once, then checks the last `N*7` days for missing
+3. Loads the effective plays file once, then checks the last `N*7` days for missing
    `spotify-YYYY-MM-DD.md` files
 4. Generates missing daily notes (skips days with no plays)
 
@@ -169,7 +179,7 @@ Regenerates the Music Taste context pack at
 
 **What it fetches:**
 - Top 50 artists for `short_term` (~4 weeks), `medium_term` (~6 months), `long_term` (all time)
-- This week's plays from `data/plays.json` for the Recent Rotation section
+- This week's plays from the effective plays file for the Recent Rotation section
 
 **Context pack sections:**
 - Current Top Artists (last ~4 weeks)
@@ -222,3 +232,21 @@ Setlist.fm: https://www.setlist.fm/setlist/...
 1. During or after a show, open the Templater template `Concert Note` in Obsidian — it prompts for artist and venue, then renames the file to `YYYY-MM-DD - Artist - Venue.md` and places it in `music/concerts/`
 2. Run `spotify-garden setlist "<Artist>" --date YYYY-MM-DD`, copy the output, and paste it into the Set List section of the note
 3. The artist stub's Concerts Dataview block will automatically pick up the new note via the `music/live-artist/<Artist Name>` tag
+
+---
+
+## doctor
+
+```bash
+./spotify-garden doctor
+```
+
+Prints effective runtime configuration and diagnostics in one place:
+
+1. Working directory and executable path
+2. Effective `.env`, `tokens.json`, `data/plays.json`, templates, vault/listening paths
+3. State-dir fallback warnings
+4. Launchd labels and expected log paths
+5. Best-effort loaded/not-loaded launchd job status
+
+Exit code is `0` when no issues are found and nonzero when warnings/errors are detected.

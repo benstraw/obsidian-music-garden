@@ -6,7 +6,7 @@ stage is a separate package with no circular dependencies.
 ## Package Map
 
 ```
-main.go                         CLI entry, .env loading, subcommand dispatch
+main.go                         CLI entry, runtime path resolution, subcommand dispatch
 internal/
   auth/auth.go                  OAuth2 flow, token save/load/refresh
   client/client.go              Authenticated HTTP GET, 429 retry/backoff
@@ -29,7 +29,7 @@ data/
 main.runCollect()
   │
   ├─ auth.RefreshIfNeeded()
-  │    └─ loads tokens.json, refreshes access token if expiring within 5 min
+  │    └─ loads effective tokens path, refreshes access token if expiring within 5 min
   │
   ├─ client.NewClient(token)
   │
@@ -38,12 +38,15 @@ main.runCollect()
   │         filters podcast episodes (no track key)
   │         maps to []models.Play (primary artist only)
   │
-  ├─ plays.Load("data/plays.json")
+  ├─ plays.Load(effective plays path)
   │
   ├─ plays.Merge(existing, incoming)
   │    └─ union by played_at key, sorted descending
   │
-  └─ plays.Save("data/plays.json")
+  ├─ plays.Save(effective plays path)
+  │
+  └─ if SPOTIFY_AUTO_DAILY_ON_COLLECT=1:
+       generateDailyNote(merged, now, overwrite=true)
 ```
 
 ### `weekly` command
@@ -51,25 +54,16 @@ main.runCollect()
 ```
 main.runWeekly()  /  main.generateWeeklyNote(date)
   │
-  ├─ auth.RefreshIfNeeded()
-  ├─ client.NewClient(token)
+  ├─ plays.Load(effective plays path)
   │
-  ├─ fetch.GetTopTracks(c, "short_term")
-  │    └─ GET /me/top/tracks?limit=50&time_range=short_term
-  │
-  ├─ fetch.GetTopArtists(c, "short_term")
-  │    └─ GET /me/top/artists?limit=50&time_range=short_term
-  │
-  ├─ plays.Load("data/plays.json")
-  │
-  └─ render.RenderWeekly(allPlays, topTracks, topArtists, date, vaultPath)
+  └─ render.RenderWeekly(allPlays, date, vaultPath)
        │
        ├─ render.PlaysForWeek()     filter plays to ISO week (local time)
        ├─ compute stats             unique tracks/artists/albums, duration
        ├─ compute repeated tracks   ≥2 plays
        ├─ compute albums            sorted by play count
        ├─ render.EnsureArtistStub() for each artist (skip if exists)
-       └─ build note string         → os.WriteFile
+       └─ build summary note        → os.WriteFile
 ```
 
 ### `daily` command
@@ -77,13 +71,17 @@ main.runWeekly()  /  main.generateWeeklyNote(date)
 ```
 main.runDaily()
   │
-  ├─ plays.Load("data/plays.json")
+  ├─ plays.Load(effective plays path)
   │
-  └─ render.RenderDaily(allPlays, date, vaultPath)
+  └─ main.generateDailyNote(allPlays, date, overwrite=false)
        │
        ├─ render.PlaysForDay()      filter plays to local day
-       ├─ compute stats             unique tracks/artists/albums, duration
-       └─ build note string         → os.WriteFile (if missing)
+       ├─ render.EnsureArtistStub() for each artist in day plays (skip if exists)
+       └─ render.RenderDaily(...)
+            ├─ compute stats             unique tracks/artists/albums, duration
+            ├─ build full play log       every play event in order
+            ├─ build song/artist/album lists with counts
+            └─ build note string         → os.WriteFile (if missing)
 ```
 
 ### `catch-up` command
@@ -97,7 +95,7 @@ main.runCatchUp()
   │    generate missing weeks (oldest first)
   │
   └─ daily pass:
-       plays.Load("data/plays.json") once
+       plays.Load(effective plays path) once
        for each of last N*7 days:
          check {vault}/music/listening/spotify-YYYY-MM-DD.md exists
          generate missing daily notes (skips no-play days)
@@ -115,7 +113,7 @@ main.runPersona()
   ├─ fetch.GetTopArtists(c, "medium_term")
   ├─ fetch.GetTopArtists(c, "long_term")
   │
-  ├─ plays.Load("data/plays.json")
+  ├─ plays.Load(effective plays path)
   ├─ render.PlaysForWeek(allPlays, now)   ← this week's plays for Recent Rotation
   │
   └─ render.RenderPersona(...)
@@ -175,6 +173,16 @@ the following year).
 Week boundaries are computed in **local time**: Monday 00:00:00 → next Monday
 00:00:00 (exclusive). Plays are filtered using local timestamps so the play
 log displays in the user's timezone.
+
+## Runtime Path Resolution
+
+Runtime file locations are resolved with this precedence:
+1. CLI flags (where applicable)
+2. Environment variables
+3. `SPOTIFY_STATE_DIR` files (`.env`, `tokens.json`, `data/plays.json`)
+4. CWD fallback with warning
+
+`spotify-garden doctor` prints all effective runtime paths and launchd-derived diagnostics.
 
 ## Template Resolution
 

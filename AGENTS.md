@@ -37,3 +37,9 @@
 - Never commit `.env`, `tokens.json`, or `data/plays.json`.
 - Use `.env.example` as the source of required variables.
 - Ensure `SPOTIFY_REDIRECT_URI` and local callback port settings match your Spotify app config.
+
+## Planning & Release Policy
+- For major features, write and save an implementation plan under `docs/plans/` before or alongside implementation.
+- Use dated, descriptive filenames (example: `docs/plans/2026-02-26-runtime-doctor-state-dir.md`).
+- When a major feature is completed, perform a **minor version bump** (for example `0.3.0` -> `0.4.0`) and include evidence in PR/commit notes.
+- If a `claude.md` file exists in this repo, mirror this same planning/version-bump policy there.
