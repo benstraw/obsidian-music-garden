@@ -1,0 +1,56 @@
+name: Collect
+
+on:
+  schedule:
+    # 5x/day at 7, 11, 15, 19, 23 CST (UTC-6) → 13, 17, 21, 01, 05 UTC
+    - cron: '0 13,17,21,1,5 * * *'
+  workflow_dispatch:
+
+jobs:
+  collect:
+    name: Spotify Collect
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Build
+        run: go build -o spotify-garden .
+
+      - name: Restore tokens from cache
+        id: cache-tokens
+        uses: actions/cache/restore@v4
+        with:
+          path: tokens.json
+          key: spotify-tokens-
+          restore-keys: spotify-tokens-
+
+      - name: Bootstrap tokens from secret
+        if: steps.cache-tokens.outputs.cache-hit != 'true'
+        run: echo "$SPOTIFY_TOKENS_JSON" | base64 -d > tokens.json
+        env:
+          SPOTIFY_TOKENS_JSON: ${{ secrets.SPOTIFY_TOKENS_JSON }}
+
+      - name: Collect
+        run: ./spotify-garden collect
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+
+      - name: Save tokens to cache
+        uses: actions/cache/save@v4
+        with:
+          path: tokens.json
+          key: spotify-tokens-${{ github.run_id }}
+
+      - name: Commit plays.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/plays.json
+          git diff --cached --quiet && echo "No changes to commit" || (git commit -m "collect: update plays.json" && git push)

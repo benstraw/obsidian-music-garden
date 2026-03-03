@@ -85,7 +85,7 @@ Files are written to `$OBSIDIAN_VAULT_PATH/music/` when the vault path is set.
 
 | Command | Output path |
 |---|---|
-| `collect` | `{state}/data/plays.json` or `./data/plays.json` (git-ignored) |
+| `collect` | `{state}/data/plays.json` or `./data/plays.json` |
 | `weekly` | `{vault}/music/listening/spotify-YYYY-Www.md` |
 | `daily` | `{vault}/music/listening/spotify-YYYY-MM-DD.md` |
 | `daily`/`weekly` (artist stubs) | `{vault}/music/artists/{Artist Name}.md` |
@@ -147,6 +147,37 @@ Run `./spotify-garden doctor` to confirm effective paths, launchd labels, and lo
 
 ---
 
+## Cloud Collection (GitHub Actions)
+
+A workflow in `.github/workflows/collect.yml` runs `collect` 5×/day on GitHub's
+servers, so collection keeps working even when the Mac is off.
+
+### Setup
+
+1. Run `auth` locally once to get `tokens.json` (interactive OAuth — only needed once).
+
+2. Add three secrets in **Settings → Secrets and variables → Actions**:
+
+   | Secret | Value |
+   |---|---|
+   | `SPOTIFY_CLIENT_ID` | from your `.env` |
+   | `SPOTIFY_CLIENT_SECRET` | from your `.env` |
+   | `SPOTIFY_TOKENS_JSON` | `base64 < tokens.json` (copy the output) |
+
+3. The workflow commits `data/plays.json` directly to `main` after each run.
+
+### How it works
+
+- On the first run, `tokens.json` is decoded from the `SPOTIFY_TOKENS_JSON` secret.
+- Subsequent runs restore `tokens.json` from the GitHub Actions cache (the token refreshes automatically).
+- If the Spotify refresh token expires (rare), re-run `./spotify-garden auth` locally and update the `SPOTIFY_TOKENS_JSON` secret with a fresh `base64 < tokens.json`.
+
+### Manual trigger
+
+Go to **Actions → Collect → Run workflow** in the GitHub UI.
+
+---
+
 ## Documentation
 
 | Doc | Contents |
@@ -159,7 +190,8 @@ Run `./spotify-garden doctor` to confirm effective paths, launchd labels, and lo
 
 ## Notes
 
-- `tokens.json`, `.env`, and `data/plays.json` are gitignored — never commit them
+- `tokens.json` and `.env` are gitignored — never commit them
+- `data/plays.json` is committed to the repo (the GitHub Actions workflow updates it automatically)
 - if `SPOTIFY_STATE_DIR` is set and files are missing there, the CLI falls back to CWD and prints warnings
 - `catch-up` only writes missing notes (weekly + daily); `weekly` always writes (overwrites if exists)
 - `daily` only writes when that date has play data and never overwrites an existing daily note
