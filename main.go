@@ -148,7 +148,20 @@ func resolveRuntimePaths() runtimePaths {
 	p.tokensPath, p.tokensFallback = chooseStatePath(absState, "tokens.json", p.tokensPath)
 	p.playsPath, p.playsFallback = chooseStatePath(absState, filepath.Join("data", "plays.json"), p.playsPath)
 	p.genresPath, p.genresFallback = chooseStatePath(absState, filepath.Join("data", "genres.json"), p.genresPath)
-	p.playsDir = filepath.Join(filepath.Dir(p.playsPath), "plays")
+	// Resolve playsDir with its own fallback: prefer state dir, fall back to CWD.
+	statePlayDir := filepath.Join(absState, "data", "plays")
+	if info, err := os.Stat(statePlayDir); err == nil && info.IsDir() {
+		p.playsDir = statePlayDir
+	} else {
+		cwdPlayDir := filepath.Join(cwd, "data", "plays")
+		if info, err := os.Stat(cwdPlayDir); err == nil && info.IsDir() {
+			p.playsDir = cwdPlayDir
+			p.playsFallback = true
+		} else {
+			// Default to state dir so collect can create it there.
+			p.playsDir = statePlayDir
+		}
+	}
 
 	return p
 }

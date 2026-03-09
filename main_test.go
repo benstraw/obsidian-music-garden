@@ -177,6 +177,9 @@ func TestResolveRuntimePaths_StateDirFallbackToCWD(t *testing.T) {
 	mustWriteFile(t, filepath.Join(cwd, ".env"), "SPOTIFY_CLIENT_ID=cwd\n")
 	mustWriteFile(t, filepath.Join(cwd, "tokens.json"), `{"access_token":"cwd","refresh_token":"cwd","expires_at":"2026-01-01T00:00:00Z"}`)
 	mustWriteFile(t, filepath.Join(cwd, "data", "plays.json"), "[]")
+	if err := os.MkdirAll(filepath.Join(cwd, "data", "plays"), 0755); err != nil {
+		t.Fatalf("mkdir plays dir: %v", err)
+	}
 
 	origWD, err := os.Getwd()
 	if err != nil {
