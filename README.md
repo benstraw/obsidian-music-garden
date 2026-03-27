@@ -1,14 +1,39 @@
-# music-garden
+# Obsidian Music Garden
 
-Pulls listening data from the [Spotify Web API](https://developer.spotify.com/documentation/web-api)
-and renders structured Obsidian markdown notes — weekly summaries, daily play logs, artist stubs, and a
-rolling Music Taste context pack for AI prompting. Also looks up concert setlists via
-the [setlist.fm API](https://api.setlist.fm/docs/1.0/index.html).
+A personal music knowledge garden for collecting listening history, enriching it
+with open music metadata, and generating markdown pages for Obsidian.
 
-Replaces the Python `collect_music.py` / `weekly_music_note.py` scripts with a proper
-Go CLI that has real auth management, catch-up logic, and a 5x-daily collection schedule.
+Today the project is centered on Spotify listening history, Spotify artist
+metadata, and concert setlists from [setlist.fm](https://api.setlist.fm/docs/1.0/index.html).
+The broader framing is intentional: Music Garden is meant to reduce platform
+dependency, make room for multiple music data sources over time, and position
+the project more cleanly as an open-source personal knowledge tool.
+
+The current Go CLI replaces the earlier Python `collect_music.py` /
+`weekly_music_note.py` scripts with real auth management, catch-up logic, and a
+5x-daily Spotify collection schedule.
 
 No external dependencies. stdlib only.
+
+## Source Boundaries
+
+**Garden repo**
+- collects data
+- stores normalized records
+- generates markdown
+- contains no monetization
+- is safe for open-source users to run for personal knowledge gardening
+
+**Public website repo**
+- consumes selected garden outputs
+- adds editorial content
+- may include monetization
+- does not directly behave like a Spotify-derived storefront
+
+This distinction matters both technically and legally. The garden stays focused on
+personal knowledge infrastructure and reusable data/markdown generation, while
+the public site remains a separate publishing layer with its own editorial and
+business decisions.
 
 ---
 
