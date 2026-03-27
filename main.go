@@ -13,10 +13,12 @@ import (
 
 	"github.com/benstraw/music-garden/internal/auth"
 	"github.com/benstraw/music-garden/internal/client"
+	mbclient "github.com/benstraw/music-garden/internal/clients/musicbrainz"
 	"github.com/benstraw/music-garden/internal/datalayer"
 	"github.com/benstraw/music-garden/internal/fetch"
 	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/models"
+	mbnormalize "github.com/benstraw/music-garden/internal/normalize/musicbrainz"
 	"github.com/benstraw/music-garden/internal/plays"
 	"github.com/benstraw/music-garden/internal/render"
 )
@@ -75,6 +77,10 @@ func main() {
 		runImageBackfill(paths)
 	case "setlist":
 		runSetlist(args)
+	case "musicbrainz-enrich-artist":
+		runMusicBrainzEnrichArtist(args, paths)
+	case "musicbrainz-enrich-album":
+		runMusicBrainzEnrichAlbum(args, paths)
 	case "doctor":
 		os.Exit(runDoctor(paths))
 	case "version", "--version":
@@ -102,6 +108,8 @@ Usage:
   music-garden genre-backfill                 Fetch canonical artist genres for uncached artists in play history
   music-garden image-backfill                 Fetch artist images for canonical artist records that have none
   music-garden setlist <artist> [--date DATE] Look up setlist on setlist.fm (default: today)
+  music-garden musicbrainz-enrich-artist      Enrich one canonical artist from a Spotify seed
+  music-garden musicbrainz-enrich-album       Enrich one canonical release from a Spotify album seed
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
 
@@ -430,6 +438,46 @@ func writeRawSpotifyTopArtists(paths runtimePaths, fetchedAt time.Time, timeRang
 	}
 	if _, err := datalayer.WriteRawSpotifyTopArtists(paths.dataRoot, timeRange, fetchedAt, body); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: write raw Spotify top-artists snapshot: %v\n", err)
+	}
+}
+
+func musicBrainzUserAgent() string {
+	if ua := strings.TrimSpace(os.Getenv("MUSICBRAINZ_USER_AGENT")); ua != "" {
+		return ua
+	}
+	return fmt.Sprintf("obsidian-music-garden/%s ( https://github.com/benstraw/obsidian-music-garden )", version)
+}
+
+func getMusicBrainzClient(paths runtimePaths) (*mbclient.Client, error) {
+	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
+		return nil, err
+	}
+	return mbclient.NewClient(mbclient.Config{
+		UserAgent: musicBrainzUserAgent(),
+		CacheDir:  filepath.Join(paths.dataRoot, "raw", "musicbrainz"),
+		CacheTTL:  7 * 24 * time.Hour,
+	})
+}
+
+func writeRawMusicBrainz(paths runtimePaths, kind, stem string, resultEndpoint, requestURL string, fetchedAt time.Time, body []byte, fromCache bool) {
+	if len(body) == 0 {
+		return
+	}
+	status := "fetched"
+	if fromCache {
+		status = "cached"
+	}
+	_, _, err := datalayer.WriteRawMusicBrainzResponse(paths.dataRoot, kind, stem, datalayer.RawFetchManifest{
+		Source:      "musicbrainz",
+		Endpoint:    resultEndpoint,
+		RequestURL:  requestURL,
+		CacheKey:    filepath.Join(kind, stem),
+		FetchedAt:   fetchedAt.UTC().Format(time.RFC3339),
+		Status:      status,
+		ContentType: "application/json",
+	}, body)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write raw MusicBrainz %s snapshot: %v\n", kind, err)
 	}
 }
 
@@ -886,6 +934,173 @@ func runSetlist(args []string) {
 	if setlist.URL != "" {
 		fmt.Printf("Setlist.fm: %s\n", setlist.URL)
 	}
+}
+
+func runMusicBrainzEnrichArtist(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("musicbrainz-enrich-artist", flag.ExitOnError)
+	spotifyID := fs.String("spotify-id", "", "Spotify artist ID")
+	name := fs.String("name", "", "artist display name")
+	spotifyURL := fs.String("spotify-url", "", "Spotify artist URL")
+	mbid := fs.String("mbid", "", "existing MusicBrainz artist ID override")
+	_ = fs.Parse(args)
+
+	if strings.TrimSpace(*name) == "" {
+		fmt.Fprintln(os.Stderr, "--name is required")
+		os.Exit(1)
+	}
+
+	mb, err := getMusicBrainzClient(paths)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "musicbrainz client error:", err)
+		os.Exit(1)
+	}
+
+	store := loadGenreStore(paths)
+	var artistResult mbclient.FetchResult[mbclient.Artist]
+	if strings.TrimSpace(*mbid) != "" {
+		artistResult, err = mb.GetArtistByID(strings.TrimSpace(*mbid))
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "musicbrainz artist lookup error:", err)
+			os.Exit(1)
+		}
+		stem := strings.TrimSpace(*mbid)
+		writeRawMusicBrainz(paths, "artists", stem, artistResult.Endpoint, artistResult.RequestURL, artistResult.FetchedAt, artistResult.Body, artistResult.FromCache)
+	} else {
+		searchResult, err := mb.SearchArtistByName(*name)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "musicbrainz artist search error:", err)
+			os.Exit(1)
+		}
+		searchStem := genres.Slug(*name)
+		if searchStem == "" {
+			searchStem = "artist-search"
+		}
+		writeRawMusicBrainz(paths, "artist-search", searchStem, searchResult.Endpoint, searchResult.RequestURL, searchResult.FetchedAt, searchResult.Body, searchResult.FromCache)
+		match := pickArtistMatch(*name, searchResult.Value)
+		artistResult, err = mb.GetArtistByID(match.ID)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "musicbrainz artist lookup error:", err)
+			os.Exit(1)
+		}
+		writeRawMusicBrainz(paths, "artists", match.ID, artistResult.Endpoint, artistResult.RequestURL, artistResult.FetchedAt, artistResult.Body, artistResult.FromCache)
+	}
+
+	normalized, record := mbnormalize.NormalizeArtist(store, mbnormalize.ArtistSeed{
+		SpotifyArtistID: *spotifyID,
+		Name:            *name,
+		SpotifyURL:      *spotifyURL,
+	}, artistResult.Value)
+	if err := datalayer.WriteNormalizedMusicBrainzArtist(paths.dataRoot, record.Slug, normalized); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write normalized MusicBrainz artist: %v\n", err)
+	}
+	genreRecords := make([]datalayer.NormalizedGenreRecord, 0, len(normalized.SourceGenres))
+	for _, sourceGenre := range normalized.SourceGenres {
+		genreRecord := datalayer.NormalizedGenreRecord{
+			Source:      "musicbrainz",
+			SourceGenre: sourceGenre,
+		}
+		if canonical, ok := genres.CanonicalGenre(store, sourceGenre); ok {
+			genreRecord.CanonicalGenreSlug = canonical
+		}
+		genreRecords = append(genreRecords, genreRecord)
+	}
+	if err := datalayer.WriteNormalizedMusicBrainzGenres(paths.dataRoot, genreRecords); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write normalized MusicBrainz genres: %v\n", err)
+	}
+	saveGenreStore(paths, store)
+	fmt.Printf("Enriched artist %q as %s (MusicBrainz %s)\n", record.Name, record.Slug, record.MusicBrainzArtistID)
+}
+
+func runMusicBrainzEnrichAlbum(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("musicbrainz-enrich-album", flag.ExitOnError)
+	spotifyAlbumID := fs.String("spotify-album-id", "", "Spotify album ID")
+	artistName := fs.String("artist", "", "primary artist name")
+	artistSpotifyID := fs.String("artist-spotify-id", "", "Spotify artist ID")
+	artistSpotifyURL := fs.String("artist-spotify-url", "", "Spotify artist URL")
+	albumName := fs.String("name", "", "album or release name")
+	mbid := fs.String("mbid", "", "existing MusicBrainz release-group ID override")
+	_ = fs.Parse(args)
+
+	if strings.TrimSpace(*artistName) == "" || strings.TrimSpace(*albumName) == "" {
+		fmt.Fprintln(os.Stderr, "--artist and --name are required")
+		os.Exit(1)
+	}
+
+	mb, err := getMusicBrainzClient(paths)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "musicbrainz client error:", err)
+		os.Exit(1)
+	}
+
+	store := loadGenreStore(paths)
+	var groupResult mbclient.FetchResult[mbclient.ReleaseGroup]
+	if strings.TrimSpace(*mbid) != "" {
+		groupResult, err = mb.GetReleaseGroupByID(strings.TrimSpace(*mbid))
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "musicbrainz release-group lookup error:", err)
+			os.Exit(1)
+		}
+		writeRawMusicBrainz(paths, "release-groups", strings.TrimSpace(*mbid), groupResult.Endpoint, groupResult.RequestURL, groupResult.FetchedAt, groupResult.Body, groupResult.FromCache)
+	} else {
+		searchResult, err := mb.SearchReleaseGroups(*artistName, *albumName)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "musicbrainz release-group search error:", err)
+			os.Exit(1)
+		}
+		searchStem := genres.Slug(*artistName) + "--" + genres.Slug(*albumName)
+		searchStem = strings.Trim(searchStem, "-")
+		if searchStem == "" {
+			searchStem = "release-group-search"
+		}
+		writeRawMusicBrainz(paths, "release-group-search", searchStem, searchResult.Endpoint, searchResult.RequestURL, searchResult.FetchedAt, searchResult.Body, searchResult.FromCache)
+		match := pickReleaseGroupMatch(*artistName, *albumName, searchResult.Value)
+		groupResult, err = mb.GetReleaseGroupByID(match.ID)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "musicbrainz release-group lookup error:", err)
+			os.Exit(1)
+		}
+		writeRawMusicBrainz(paths, "release-groups", match.ID, groupResult.Endpoint, groupResult.RequestURL, groupResult.FetchedAt, groupResult.Body, groupResult.FromCache)
+	}
+
+	normalized, releaseRecord, _, genreRecords := mbnormalize.NormalizeRelease(store, mbnormalize.ReleaseSeed{
+		SpotifyAlbumID:       *spotifyAlbumID,
+		Name:                 *albumName,
+		PrimaryArtistName:    *artistName,
+		PrimaryArtistID:      *artistSpotifyID,
+		PrimaryArtistSpotify: *artistSpotifyURL,
+	}, groupResult.Value)
+	if err := datalayer.WriteNormalizedMusicBrainzRelease(paths.dataRoot, releaseRecord.Slug, normalized); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write normalized MusicBrainz release: %v\n", err)
+	}
+	if err := datalayer.WriteNormalizedMusicBrainzGenres(paths.dataRoot, genreRecords); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write normalized MusicBrainz genres: %v\n", err)
+	}
+	saveGenreStore(paths, store)
+	fmt.Printf("Enriched release %q as %s (release-group %s)\n", releaseRecord.Name, releaseRecord.Slug, releaseRecord.MusicBrainzReleaseGroupID)
+}
+
+func pickArtistMatch(seedName string, matches []mbclient.SearchArtistResult) mbclient.SearchArtistResult {
+	needle := strings.ToLower(strings.TrimSpace(seedName))
+	for _, match := range matches {
+		if strings.ToLower(strings.TrimSpace(match.Name)) == needle {
+			return match
+		}
+	}
+	return matches[0]
+}
+
+func pickReleaseGroupMatch(seedArtist, seedRelease string, matches []mbclient.SearchReleaseGroupResult) mbclient.SearchReleaseGroupResult {
+	artistNeedle := strings.ToLower(strings.TrimSpace(seedArtist))
+	releaseNeedle := strings.ToLower(strings.TrimSpace(seedRelease))
+	for _, match := range matches {
+		if strings.ToLower(strings.TrimSpace(match.Title)) != releaseNeedle {
+			continue
+		}
+		if strings.ToLower(strings.TrimSpace(mbclient.PrimaryArtistName(match.ArtistCredit))) == artistNeedle {
+			return match
+		}
+	}
+	return matches[0]
 }
 
 func runPersona(paths runtimePaths) {

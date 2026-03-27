@@ -129,6 +129,9 @@ func TestResolvePlay_addsCanonicalIDs(t *testing.T) {
 	if play.ReleaseSlug != "artist-one--album-one" {
 		t.Fatalf("ReleaseSlug = %q", play.ReleaseSlug)
 	}
+	if play.TrackSlug != "artist-one--song" {
+		t.Fatalf("TrackSlug = %q", play.TrackSlug)
+	}
 }
 
 func TestCanonicalizeTopArtist_tracksPendingGenres(t *testing.T) {

@@ -293,6 +293,38 @@ Setlist.fm: https://www.setlist.fm/setlist/...
 
 ---
 
+## musicbrainz-enrich-artist
+
+```bash
+./music-garden musicbrainz-enrich-artist --spotify-id <spotify-artist-id> --name "Artist Name"
+```
+
+Looks up a MusicBrainz artist from a Spotify seed, saves the raw search and
+lookup payloads under `data/raw/musicbrainz/`, writes a normalized MusicBrainz
+artist record under `data/normalized/artists/`, and merges the result into the
+canonical metadata store in `data/genres.json`.
+
+MusicBrainz genres/tags are also passed through the canonical genre alias map,
+so this command can enrich both artist identity and genre metadata.
+
+---
+
+## musicbrainz-enrich-album
+
+```bash
+./music-garden musicbrainz-enrich-album --artist "Artist Name" --name "Album Name" --spotify-album-id <spotify-album-id>
+```
+
+Searches MusicBrainz release-groups for an album seed, stores the raw search
+and lookup payloads under `data/raw/musicbrainz/`, writes a normalized
+MusicBrainz release record under `data/normalized/releases/`, and merges the
+release-group identifiers into the canonical metadata store in `data/genres.json`.
+
+Release-group genres/tags are also normalized into canonical genre records
+under `data/normalized/genres/`.
+
+---
+
 ## doctor
 
 ```bash

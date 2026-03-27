@@ -26,10 +26,12 @@ data/
   normalized/
     artists/                    Reserved for source-cleaned artist records
     releases/                   Reserved for source-cleaned release records
-    genres/                     Reserved for source-cleaned genre records
+    tracks/                     Source-cleaned track records
+    genres/                     Source-cleaned genre records
   aggregated/
     artists/                    Canonical artist records, one file per slug
     releases/                   Canonical release records, one file per slug
+    tracks/                     Canonical track records, one file per slug
     genres/                     Canonical genre records, one file per slug
   plays/                        Sharded play history — YYYY/YYYY-WNN.json (git-committed via Actions)
   plays.json.bak                Legacy file renamed on first post-upgrade collect (can be deleted)
@@ -75,7 +77,8 @@ main.runCollect()
   │    └─ stores unchanged Spotify artist batch responses under data/raw/spotify/artists/
   │
   ├─ datalayer.SyncAggregatedStore(...)
-  │    └─ rewrites canonical artist/release/genre records under data/aggregated/
+  │    └─ rewrites normalized artist/release/track/genre records under data/normalized/
+  │       and canonical artist/release/track/genre records under data/aggregated/
   │
   └─ if MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY=1:
        generateDailyNote(allPlays, now, overwrite=true)

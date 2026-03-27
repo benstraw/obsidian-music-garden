@@ -19,6 +19,8 @@ func TestEnsureLayout(t *testing.T) {
 	paths := []string{
 		filepath.Join(root, "raw", "spotify", "recently-played"),
 		filepath.Join(root, "normalized", "artists"),
+		filepath.Join(root, "normalized", "tracks"),
+		filepath.Join(root, "aggregated", "tracks"),
 		filepath.Join(root, "aggregated", "genres"),
 	}
 	for _, path := range paths {
@@ -49,8 +51,10 @@ func TestSyncAggregatedStore(t *testing.T) {
 	store := genres.NewStore()
 	genres.Update(store, "artist1", "Artist One", "https://open.spotify.com/artist/artist1", []string{"indie rock"}, nil)
 	genres.ResolvePlay(store, models.Play{
+		TrackID:    "track1",
 		ArtistName: "Artist One",
 		ArtistID:   "artist1",
+		TrackName:  "Song One",
 		AlbumName:  "Album One",
 		AlbumID:    "album1",
 	})
@@ -60,8 +64,11 @@ func TestSyncAggregatedStore(t *testing.T) {
 	}
 
 	checks := []string{
+		filepath.Join(root, "normalized", "artists", "artist-one.json"),
+		filepath.Join(root, "normalized", "tracks", "artist-one--song-one.json"),
 		filepath.Join(root, "aggregated", "artists", "artist-one.json"),
 		filepath.Join(root, "aggregated", "releases", "artist-one--album-one.json"),
+		filepath.Join(root, "aggregated", "tracks", "artist-one--song-one.json"),
 		filepath.Join(root, "aggregated", "genres", "indie-rock.json"),
 	}
 	for _, path := range checks {

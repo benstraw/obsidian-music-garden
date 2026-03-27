@@ -36,7 +36,7 @@ Operational rule for this repo:
 
 ### MusicBrainz
 
-- Use for: canonical IDs, aliases, artist/release metadata, relationship data.
+- Use for: artist and release-group enrichment, canonical IDs, aliases, artist/release metadata, and genre/tag hints.
 - Attribution: depends on whether the data used is core or supplementary.
 - Commercial downstream:
   - core data: generally yes
@@ -48,6 +48,15 @@ Operational rule for this repo:
 - Prefer MusicBrainz core metadata for canonical identifiers.
 - Avoid depending on supplementary data unless the exact field and license
   treatment are documented.
+- Current pipeline behavior:
+  - raw MusicBrainz JSON responses are stored under `data/raw/musicbrainz/`
+  - each saved payload has a sibling manifest recording endpoint, request URL,
+    cache key, and fetch time
+  - artist and release-group lookups can contribute MusicBrainz IDs plus
+    source-tag genres that are normalized into the repo-owned canonical genre
+    slugs
+  - this repo uses MusicBrainz for enrichment only; it does not generate public
+    website pages from MusicBrainz data here
 
 ### Wikipedia / Wikimedia text
 

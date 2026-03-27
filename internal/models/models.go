@@ -7,7 +7,9 @@ type Play struct {
 	PlayedAt                  string `json:"played_at"`
 	Source                    string `json:"source,omitempty"`
 	TrackID                   string `json:"track_id"`
+	TrackSlug                 string `json:"track_slug,omitempty"`
 	TrackName                 string `json:"track_name"`
+	TrackMusicBrainzID        string `json:"track_musicbrainz_id,omitempty"`
 	ArtistSlug                string `json:"artist_slug,omitempty"`
 	ArtistID                  string `json:"artist_id"`
 	ArtistName                string `json:"artist_name"`
@@ -24,9 +26,11 @@ type Play struct {
 
 // TopTrack represents a track from the user's top tracks.
 type TopTrack struct {
-	ID         string
-	Name       string
-	ArtistName string
+	ID                 string
+	Name               string
+	TrackSlug          string
+	MusicBrainzTrackID string
+	ArtistName         string
 }
 
 // ArtistImage represents one size of a Spotify artist profile image.

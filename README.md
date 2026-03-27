@@ -121,8 +121,8 @@ For split setups, use:
 
 Runtime data is now organized into layers under `data/`:
 - `data/raw/` — unchanged upstream API snapshots
-- `data/normalized/` — reserved for source-cleaned records before merge
-- `data/aggregated/` — canonical merged artist/release/genre records
+- `data/normalized/` — source-cleaned artist/release/track/genre records
+- `data/aggregated/` — canonical merged artist/release/track/genre records
 - `data/plays/` — sharded listening history used for note generation
 
 | Command | Output path |

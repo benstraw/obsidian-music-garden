@@ -25,12 +25,12 @@ longer conceptually mixed together.
   - raw `recently-played` snapshots
   - raw `artists` batch snapshots
   - raw `top-artists` snapshots
-  - aggregated canonical artist/release/genre records
+  - normalized artist/release/track/genre records
+  - aggregated canonical artist/release/track/genre records
 - Kept vault output unchanged. Obsidian markdown still writes to the user's
   vault under `music/`, not to a repo-root `content/` directory.
 
 ## Deferred
 
-- Writing `data/normalized/` records
 - MusicBrainz and Wikipedia adapters
 - Album and genre markdown generation in the vault

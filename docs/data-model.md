@@ -10,8 +10,8 @@ It separates:
 - aggregated canonical records
 - generated Obsidian markdown output
 
-The current implementation writes `raw/` and `aggregated/` records today, and
-reserves `normalized/` as the next explicit layer.
+The current implementation writes `raw/`, `normalized/`, and `aggregated/`
+records today.
 
 ## Principles
 
@@ -121,13 +121,12 @@ Purpose:
 - carry source attribution and timestamps
 - prepare records for aggregation
 
-This layer is scaffolded in the codebase but not fully written yet.
-
-Planned examples:
+Current examples:
 
 - normalized artist record from Spotify
-- normalized release record from MusicBrainz
-- normalized genre alias decision from Wikipedia/Wikimedia-derived text
+- normalized release record from Spotify
+- normalized track record from Spotify
+- normalized genre alias record for Spotify source genres
 
 ### Aggregated
 
@@ -137,6 +136,7 @@ Purpose:
 
 - one canonical file per artist slug
 - one canonical file per release slug
+- one canonical file per track slug
 - one canonical file per genre slug
 - preserve source links without letting any one source define identity
 
@@ -154,6 +154,7 @@ Purpose:
 - deterministic weekly partitioning
 
 Each play record includes source provenance plus canonical artist/release IDs.
+and now canonical track IDs.
 
 ## Current entity support
 
@@ -215,10 +216,24 @@ Current aggregated record includes:
 
 ### Track
 
-Track data exists today inside play records and top-track responses, but track
-is not yet a first-class canonical aggregated entity.
+Canonical identity:
 
-That is a remaining gap if the project wants parity with artist/release/genre.
+- `track_slug`
+
+Current external IDs/fields:
+
+- Spotify track ID
+- MusicBrainz track/recording ID field in schema
+- Spotify URL
+
+Current aggregated record includes:
+
+- canonical slug
+- track name
+- primary artist slug/name
+- release slug/name
+- source IDs
+- update timestamp
 
 ## Source attribution and timestamps
 

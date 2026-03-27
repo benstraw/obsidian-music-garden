@@ -35,6 +35,19 @@ type NormalizedReleaseRecord struct {
 	MusicBrainzReleaseGroupID  string `json:"musicbrainz_release_group_id,omitempty"`
 }
 
+// NormalizedTrackRecord models a source-cleaned track before cross-source merge.
+type NormalizedTrackRecord struct {
+	Source                     string `json:"source"`
+	SourceTrackID              string `json:"source_track_id,omitempty"`
+	Name                       string `json:"name"`
+	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
+	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
+	ReleaseName                string `json:"release_name,omitempty"`
+	ReleaseCanonicalSlug       string `json:"release_canonical_slug,omitempty"`
+	SpotifyURL                 string `json:"spotify_url,omitempty"`
+	MusicBrainzTrackID         string `json:"musicbrainz_track_id,omitempty"`
+}
+
 // NormalizedGenreRecord models one source genre mapped into the garden taxonomy.
 type NormalizedGenreRecord struct {
 	Source             string `json:"source"`
@@ -67,11 +80,36 @@ type AggregatedReleaseRecord struct {
 	LastUpdated                string `json:"last_updated,omitempty"`
 }
 
+// AggregatedTrackRecord is the persisted canonical track record.
+type AggregatedTrackRecord struct {
+	CanonicalSlug              string `json:"canonical_slug"`
+	Name                       string `json:"name"`
+	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
+	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
+	ReleaseCanonicalSlug       string `json:"release_canonical_slug,omitempty"`
+	ReleaseName                string `json:"release_name,omitempty"`
+	SpotifyTrackID             string `json:"spotify_track_id,omitempty"`
+	MusicBrainzTrackID         string `json:"musicbrainz_track_id,omitempty"`
+	SpotifyURL                 string `json:"spotify_url,omitempty"`
+	LastUpdated                string `json:"last_updated,omitempty"`
+}
+
 // AggregatedGenreRecord is the persisted canonical genre record.
 type AggregatedGenreRecord struct {
 	CanonicalSlug string   `json:"canonical_slug"`
 	Aliases       []string `json:"aliases,omitempty"`
 	Pending       bool     `json:"pending"`
+}
+
+// RawFetchManifest records how a raw source payload was fetched.
+type RawFetchManifest struct {
+	Source      string `json:"source"`
+	Endpoint    string `json:"endpoint"`
+	RequestURL  string `json:"request_url"`
+	CacheKey    string `json:"cache_key,omitempty"`
+	FetchedAt   string `json:"fetched_at"`
+	Status      string `json:"status,omitempty"`
+	ContentType string `json:"content_type,omitempty"`
 }
 
 // EnsureLayout creates the raw/normalized/aggregated directory layout.
@@ -80,13 +118,19 @@ func EnsureLayout(dataRoot string) error {
 		filepath.Join(dataRoot, "raw", "spotify", "recently-played"),
 		filepath.Join(dataRoot, "raw", "spotify", "artists"),
 		filepath.Join(dataRoot, "raw", "spotify", "top-artists"),
-		filepath.Join(dataRoot, "raw", "musicbrainz"),
+		filepath.Join(dataRoot, "raw", "musicbrainz", "artist-search"),
+		filepath.Join(dataRoot, "raw", "musicbrainz", "artists"),
+		filepath.Join(dataRoot, "raw", "musicbrainz", "release-group-search"),
+		filepath.Join(dataRoot, "raw", "musicbrainz", "release-groups"),
+		filepath.Join(dataRoot, "raw", "musicbrainz", "releases"),
 		filepath.Join(dataRoot, "raw", "wikipedia"),
 		filepath.Join(dataRoot, "normalized", "artists"),
 		filepath.Join(dataRoot, "normalized", "releases"),
+		filepath.Join(dataRoot, "normalized", "tracks"),
 		filepath.Join(dataRoot, "normalized", "genres"),
 		filepath.Join(dataRoot, "aggregated", "artists"),
 		filepath.Join(dataRoot, "aggregated", "releases"),
+		filepath.Join(dataRoot, "aggregated", "tracks"),
 		filepath.Join(dataRoot, "aggregated", "genres"),
 	}
 	for _, dir := range dirs {
@@ -114,6 +158,50 @@ func WriteRawSpotifyTopArtists(dataRoot, timeRange string, fetchedAt time.Time, 
 	return writeRaw(filepathJoinRaw(dataRoot, "spotify", "top-artists", fetchedAt, stem), body)
 }
 
+// WriteRawMusicBrainzResponse stores a deterministic MusicBrainz payload and manifest.
+func WriteRawMusicBrainzResponse(dataRoot, kind, stem string, manifest RawFetchManifest, body []byte) (string, string, error) {
+	dir := filepath.Join(dataRoot, "raw", "musicbrainz", kind)
+	if err := os.MkdirAll(dir, 0755); err != nil {
+		return "", "", err
+	}
+	payloadPath := filepath.Join(dir, stem+".json")
+	manifestPath := filepath.Join(dir, stem+".manifest.json")
+	if err := os.WriteFile(payloadPath, body, 0644); err != nil {
+		return "", "", err
+	}
+	if err := writeJSON(manifestPath, manifest); err != nil {
+		return "", "", err
+	}
+	return payloadPath, manifestPath, nil
+}
+
+// WriteNormalizedMusicBrainzArtist stores a normalized MusicBrainz artist record.
+func WriteNormalizedMusicBrainzArtist(dataRoot, slug string, payload NormalizedArtistRecord) error {
+	path := filepath.Join(dataRoot, "normalized", "artists", "musicbrainz--"+slug+".json")
+	return writeJSON(path, payload)
+}
+
+// WriteNormalizedMusicBrainzRelease stores a normalized MusicBrainz release record.
+func WriteNormalizedMusicBrainzRelease(dataRoot, slug string, payload NormalizedReleaseRecord) error {
+	path := filepath.Join(dataRoot, "normalized", "releases", "musicbrainz--"+slug+".json")
+	return writeJSON(path, payload)
+}
+
+// WriteNormalizedMusicBrainzGenres stores normalized MusicBrainz genre records.
+func WriteNormalizedMusicBrainzGenres(dataRoot string, records []NormalizedGenreRecord) error {
+	dir := filepath.Join(dataRoot, "normalized", "genres")
+	for _, record := range records {
+		stem := genres.Slug("musicbrainz-" + record.SourceGenre)
+		if stem == "" {
+			continue
+		}
+		if err := writeJSON(filepath.Join(dir, stem+".json"), record); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
 func writeRaw(path string, body []byte) (string, error) {
 	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
 		return "", err
@@ -134,14 +222,125 @@ func SyncAggregatedStore(dataRoot string, store *genres.Store) error {
 	if err := EnsureLayout(dataRoot); err != nil {
 		return err
 	}
+	if err := SyncNormalizedStore(dataRoot, store); err != nil {
+		return err
+	}
 	if err := writeAggregatedArtists(filepath.Join(dataRoot, "aggregated", "artists"), store); err != nil {
 		return err
 	}
 	if err := writeAggregatedReleases(filepath.Join(dataRoot, "aggregated", "releases"), store); err != nil {
 		return err
 	}
+	if err := writeAggregatedTracks(filepath.Join(dataRoot, "aggregated", "tracks"), store); err != nil {
+		return err
+	}
 	if err := writeAggregatedGenres(filepath.Join(dataRoot, "aggregated", "genres"), store); err != nil {
 		return err
+	}
+	return nil
+}
+
+// SyncNormalizedStore rewrites normalized artist/release/track/genre records
+// for the currently supported source adapters.
+func SyncNormalizedStore(dataRoot string, store *genres.Store) error {
+	if err := EnsureLayout(dataRoot); err != nil {
+		return err
+	}
+	if err := writeNormalizedArtists(filepath.Join(dataRoot, "normalized", "artists"), store); err != nil {
+		return err
+	}
+	if err := writeNormalizedReleases(filepath.Join(dataRoot, "normalized", "releases"), store); err != nil {
+		return err
+	}
+	if err := writeNormalizedTracks(filepath.Join(dataRoot, "normalized", "tracks"), store); err != nil {
+		return err
+	}
+	if err := writeNormalizedGenres(filepath.Join(dataRoot, "normalized", "genres"), store); err != nil {
+		return err
+	}
+	return nil
+}
+
+func writeNormalizedArtists(dir string, store *genres.Store) error {
+	for _, record := range genres.ArtistRecords(store) {
+		path := filepath.Join(dir, record.Slug+".json")
+		payload := NormalizedArtistRecord{
+			Source:              "spotify",
+			SourceArtistID:      record.SpotifyArtistID,
+			Name:                record.Name,
+			SpotifyURL:          record.SpotifyURL,
+			MusicBrainzArtistID: record.MusicBrainzArtistID,
+			SourceGenres:        record.SourceGenres,
+			CanonicalGenreSlugs: record.Genres,
+		}
+		if err := writeJSON(path, payload); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func writeNormalizedReleases(dir string, store *genres.Store) error {
+	for _, record := range genres.ReleaseRecords(store) {
+		path := filepath.Join(dir, record.Slug+".json")
+		payload := NormalizedReleaseRecord{
+			Source:                     "spotify",
+			SourceReleaseID:            record.SpotifyAlbumID,
+			Name:                       record.Name,
+			PrimaryArtistName:          record.PrimaryArtistName,
+			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
+			MusicBrainzReleaseID:       record.MusicBrainzReleaseID,
+			MusicBrainzReleaseGroupID:  record.MusicBrainzReleaseGroupID,
+		}
+		if err := writeJSON(path, payload); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func writeNormalizedTracks(dir string, store *genres.Store) error {
+	for _, record := range genres.TrackRecords(store) {
+		path := filepath.Join(dir, record.Slug+".json")
+		payload := NormalizedTrackRecord{
+			Source:                     "spotify",
+			SourceTrackID:              record.SpotifyTrackID,
+			Name:                       record.Name,
+			PrimaryArtistName:          record.PrimaryArtistName,
+			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
+			ReleaseName:                record.ReleaseName,
+			ReleaseCanonicalSlug:       record.ReleaseSlug,
+			SpotifyURL:                 record.SpotifyURL,
+			MusicBrainzTrackID:         record.MusicBrainzTrackID,
+		}
+		if err := writeJSON(path, payload); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func writeNormalizedGenres(dir string, store *genres.Store) error {
+	for alias, canonical := range store.GenreAliases {
+		name := genres.Slug("spotify-" + alias)
+		payload := NormalizedGenreRecord{
+			Source:             "spotify",
+			SourceGenre:        alias,
+			CanonicalGenreSlug: canonical,
+		}
+		if err := writeJSON(filepath.Join(dir, name+".json"), payload); err != nil {
+			return err
+		}
+	}
+	for _, pending := range store.PendingGenreAliases {
+		name := genres.Slug("spotify-" + pending)
+		payload := NormalizedGenreRecord{
+			Source:      "spotify",
+			SourceGenre: pending,
+		}
+		if err := writeJSON(filepath.Join(dir, name+".json"), payload); err != nil {
+			return err
+		}
 	}
 	return nil
 }
@@ -168,17 +367,7 @@ func writeAggregatedArtists(dir string, store *genres.Store) error {
 }
 
 func writeAggregatedReleases(dir string, store *genres.Store) error {
-	releases := make([]genres.ReleaseRecord, 0, len(store.Releases))
-	for _, record := range store.Releases {
-		releases = append(releases, record)
-	}
-	sort.Slice(releases, func(i, j int) bool {
-		if releases[i].Name != releases[j].Name {
-			return releases[i].Name < releases[j].Name
-		}
-		return releases[i].Slug < releases[j].Slug
-	})
-	for _, record := range releases {
+	for _, record := range genres.ReleaseRecords(store) {
 		path := filepath.Join(dir, record.Slug+".json")
 		payload := AggregatedReleaseRecord{
 			CanonicalSlug:              record.Slug,
@@ -188,6 +377,28 @@ func writeAggregatedReleases(dir string, store *genres.Store) error {
 			SpotifyAlbumID:             record.SpotifyAlbumID,
 			MusicBrainzReleaseID:       record.MusicBrainzReleaseID,
 			MusicBrainzReleaseGroupID:  record.MusicBrainzReleaseGroupID,
+			LastUpdated:                record.LastUpdated,
+		}
+		if err := writeJSON(path, payload); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func writeAggregatedTracks(dir string, store *genres.Store) error {
+	for _, record := range genres.TrackRecords(store) {
+		path := filepath.Join(dir, record.Slug+".json")
+		payload := AggregatedTrackRecord{
+			CanonicalSlug:              record.Slug,
+			Name:                       record.Name,
+			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
+			PrimaryArtistName:          record.PrimaryArtistName,
+			ReleaseCanonicalSlug:       record.ReleaseSlug,
+			ReleaseName:                record.ReleaseName,
+			SpotifyTrackID:             record.SpotifyTrackID,
+			MusicBrainzTrackID:         record.MusicBrainzTrackID,
+			SpotifyURL:                 record.SpotifyURL,
 			LastUpdated:                record.LastUpdated,
 		}
 		if err := writeJSON(path, payload); err != nil {
