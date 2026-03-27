@@ -1,4 +1,6 @@
 tokens.json
 .env
+.DS_Store
 spotify-garden
+music-garden
 *.sh.log

@@ -165,6 +165,9 @@ func TestResolveRuntimePaths_StateDirPreferred(t *testing.T) {
 	if canonicalPath(t, paths.genresPath) != canonicalPath(t, filepath.Join(stateDir, "data", "genres.json")) {
 		t.Fatalf("genresPath = %s, want %s", paths.genresPath, filepath.Join(stateDir, "data", "genres.json"))
 	}
+	if canonicalPath(t, paths.dataRoot) != canonicalPath(t, filepath.Join(stateDir, "data")) {
+		t.Fatalf("dataRoot = %s, want %s", paths.dataRoot, filepath.Join(stateDir, "data"))
+	}
 	if paths.dotEnvFallback || paths.tokensFallback || paths.playsFallback || paths.genresFallback {
 		t.Fatalf("unexpected fallback flags: %+v", paths)
 	}
@@ -209,6 +212,9 @@ func TestResolveRuntimePaths_StateDirFallbackToCWD(t *testing.T) {
 	wantPlaysDirCWD := canonicalPath(t, filepath.Join(cwd, "data", "plays"))
 	if canonicalPath(t, paths.playsDir) != wantPlaysDirCWD {
 		t.Fatalf("playsDir = %s, want %s", paths.playsDir, wantPlaysDirCWD)
+	}
+	if canonicalPath(t, paths.dataRoot) != canonicalPath(t, filepath.Join(stateDir, "data")) {
+		t.Fatalf("dataRoot = %s, want %s", paths.dataRoot, filepath.Join(stateDir, "data"))
 	}
 	if !paths.dotEnvFallback || !paths.tokensFallback || !paths.playsFallback {
 		t.Fatalf("expected fallback flags to be true: %+v", paths)
@@ -259,6 +265,9 @@ func TestResolveRuntimePaths_DataOverridesBeatStateDir(t *testing.T) {
 	}
 	if canonicalPath(t, paths.genresPath) != canonicalPath(t, genresPath) {
 		t.Fatalf("genresPath = %s, want %s", paths.genresPath, genresPath)
+	}
+	if canonicalPath(t, paths.dataRoot) != canonicalPath(t, filepath.Join(stateDir, "data")) {
+		t.Fatalf("dataRoot = %s, want %s", paths.dataRoot, filepath.Join(stateDir, "data"))
 	}
 	if !paths.playsOverride || !paths.genresOverride {
 		t.Fatalf("expected override flags to be true: %+v", paths)

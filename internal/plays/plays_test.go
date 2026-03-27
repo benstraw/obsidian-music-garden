@@ -325,6 +325,35 @@ func TestMigrateToSharded(t *testing.T) {
 	}
 }
 
+func TestMigrateCanonicalSharded(t *testing.T) {
+	baseDir := t.TempDir()
+	if _, err := SaveSharded(baseDir, []models.Play{
+		{PlayedAt: "2026-03-09T10:00:00Z", TrackName: "Track A", ArtistName: "Artist A"},
+	}); err != nil {
+		t.Fatalf("SaveSharded: %v", err)
+	}
+
+	changed, err := MigrateCanonicalSharded(baseDir, func(play models.Play) models.Play {
+		play.Source = "spotify"
+		play.ArtistSlug = "artist-a"
+		return play
+	})
+	if err != nil {
+		t.Fatalf("MigrateCanonicalSharded: %v", err)
+	}
+	if !changed {
+		t.Fatal("expected canonical migration to rewrite file")
+	}
+
+	loaded, err := Load(filepath.Join(baseDir, "2026", "2026-W11.json"))
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if loaded[0].Source != "spotify" || loaded[0].ArtistSlug != "artist-a" {
+		t.Fatalf("play not canonicalized: %+v", loaded[0])
+	}
+}
+
 func TestMigrateToSharded_idempotent(t *testing.T) {
 	dir := t.TempDir()
 	legacyPath := filepath.Join(dir, "plays.json")

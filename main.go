@@ -13,6 +13,7 @@ import (
 
 	"github.com/benstraw/music-garden/internal/auth"
 	"github.com/benstraw/music-garden/internal/client"
+	"github.com/benstraw/music-garden/internal/datalayer"
 	"github.com/benstraw/music-garden/internal/fetch"
 	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/models"
@@ -21,7 +22,7 @@ import (
 )
 
 // version is set at build time via -ldflags "-X main.version=vX.Y.Z"
-var version = "dev"
+var version = "v0.6.0-dev"
 
 type runtimePaths struct {
 	cwd            string
@@ -31,6 +32,7 @@ type runtimePaths struct {
 	playsPath      string
 	playsDir       string
 	genresPath     string
+	dataRoot       string
 	playsOverride  bool
 	genresOverride bool
 	dotEnvFallback bool
@@ -88,17 +90,17 @@ func main() {
 }
 
 func printUsage() {
-	fmt.Printf(`music-garden %s — Spotify listening data → Obsidian markdown
+	fmt.Printf(`music-garden %s — multi-source music garden → Obsidian markdown
 
 Usage:
-  music-garden auth                           Authenticate with Spotify via OAuth
-  music-garden collect                        Fetch last 50 recently-played, dedup, append to plays.json
+  music-garden auth                           Authenticate the current Spotify collector via OAuth
+  music-garden collect                        Fetch last 50 Spotify plays, canonicalize, dedup, append to sharded history
   music-garden weekly [--date YYYY-MM-DD]     Generate weekly note for date's ISO week (default: current)
   music-garden daily [--date YYYY-MM-DD]      Generate daily note for date (default: today)
   music-garden catch-up [--weeks N]           Generate missing weekly + daily notes (default: 8 weeks back)
   music-garden persona                        Regenerate Music Taste context pack
-  music-garden genre-backfill                 Fetch genres for all artists in plays.json
-  music-garden image-backfill                 Fetch images for all artists in genres.json that have none
+  music-garden genre-backfill                 Fetch canonical artist genres for uncached artists in play history
+  music-garden image-backfill                 Fetch artist images for canonical artist records that have none
   music-garden setlist <artist> [--date DATE] Look up setlist on setlist.fm (default: today)
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
@@ -126,6 +128,7 @@ func resolveRuntimePaths() runtimePaths {
 		playsPath:  filepath.Join(cwd, "data", "plays.json"),
 		playsDir:   filepath.Join(cwd, "data", "plays"),
 		genresPath: filepath.Join(cwd, "data", "genres.json"),
+		dataRoot:   filepath.Join(cwd, "data"),
 	}
 
 	stateDir := strings.TrimSpace(os.Getenv("MUSIC_STATE_DIR"))
@@ -165,6 +168,7 @@ func resolveRuntimePaths() runtimePaths {
 		absState = stateDir
 	}
 	p.stateDir = absState
+	p.dataRoot = filepath.Join(absState, "data")
 
 	p.dotEnvPath, p.dotEnvFallback = chooseStatePath(absState, ".env", p.dotEnvPath)
 	p.tokensPath, p.tokensFallback = chooseStatePath(absState, "tokens.json", p.tokensPath)
@@ -336,9 +340,97 @@ func envTrue(key string) bool {
 	}
 }
 
-// ensurePlaysDir creates the parent directory for plays.json.
+// ensurePlaysDir creates the parent directory for a runtime data file.
 func ensurePlaysDir(playsPath string) error {
 	return os.MkdirAll(filepath.Dir(playsPath), 0755)
+}
+
+func loadGenreStore(paths runtimePaths) *genres.Store {
+	store, err := genres.Load(paths.genresPath)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "warning: load metadata store: %v\n", err)
+		return genres.NewStore()
+	}
+	return store
+}
+
+func saveGenreStore(paths runtimePaths, store *genres.Store) {
+	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data layout error: %v\n", err)
+	}
+	if err := ensurePlaysDir(paths.genresPath); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data dir error: %v\n", err)
+		return
+	}
+	if err := genres.Save(paths.genresPath, store); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: save metadata store: %v\n", err)
+	}
+	if err := datalayer.SyncAggregatedStore(paths.dataRoot, store); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: sync aggregated data: %v\n", err)
+	}
+}
+
+func migrateCanonicalPlays(paths runtimePaths, store *genres.Store) {
+	changed, err := plays.MigrateCanonicalSharded(paths.playsDir, func(play models.Play) models.Play {
+		return genres.ResolvePlay(store, play)
+	})
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "warning: canonical play migration: %v\n", err)
+		return
+	}
+	if changed {
+		saveGenreStore(paths, store)
+	}
+}
+
+func canonicalizeTopArtists(store *genres.Store, artists []models.TopArtist) []models.TopArtist {
+	canonical := make([]models.TopArtist, len(artists))
+	for i, artist := range artists {
+		canonical[i] = genres.CanonicalizeTopArtist(store, artist)
+	}
+	return canonical
+}
+
+func writeRawSpotifyRecentlyPlayed(paths runtimePaths, fetchedAt time.Time, body []byte) {
+	if len(body) == 0 {
+		return
+	}
+	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data layout error: %v\n", err)
+		return
+	}
+	if _, err := datalayer.WriteRawSpotifyRecentlyPlayed(paths.dataRoot, fetchedAt, body); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write raw Spotify recently-played snapshot: %v\n", err)
+	}
+}
+
+func writeRawSpotifyArtists(paths runtimePaths, fetchedAt time.Time, bodies [][]byte) {
+	if len(bodies) == 0 {
+		return
+	}
+	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data layout error: %v\n", err)
+		return
+	}
+	for i, body := range bodies {
+		if _, err := datalayer.WriteRawSpotifyArtists(paths.dataRoot, fetchedAt, i+1, body); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: write raw Spotify artists snapshot: %v\n", err)
+			return
+		}
+	}
+}
+
+func writeRawSpotifyTopArtists(paths runtimePaths, fetchedAt time.Time, timeRange string, body []byte) {
+	if len(body) == 0 {
+		return
+	}
+	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data layout error: %v\n", err)
+		return
+	}
+	if _, err := datalayer.WriteRawSpotifyTopArtists(paths.dataRoot, timeRange, fetchedAt, body); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write raw Spotify top-artists snapshot: %v\n", err)
+	}
 }
 
 // --- Subcommands ---
@@ -357,17 +449,26 @@ func runCollect(paths runtimePaths) {
 		os.Exit(1)
 	}
 
+	store := loadGenreStore(paths)
+
 	fmt.Println("Fetching recently played tracks...")
-	incoming, err := fetch.GetRecentlyPlayed(c)
+	fetchedAt := time.Now()
+	incoming, rawRecentlyPlayed, err := fetch.GetRecentlyPlayedRaw(c)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "fetch error:", err)
 		os.Exit(1)
 	}
+	writeRawSpotifyRecentlyPlayed(paths, fetchedAt, rawRecentlyPlayed)
 
 	// Migrate legacy plays.json to sharded structure on first use.
 	if err := plays.MigrateToSharded(paths.playsPath, paths.playsDir); err != nil {
 		fmt.Fprintln(os.Stderr, "migration error:", err)
 		os.Exit(1)
+	}
+	migrateCanonicalPlays(paths, store)
+
+	for i, play := range incoming {
+		incoming[i] = genres.ResolvePlay(store, play)
 	}
 
 	newCount, err := plays.SaveSharded(paths.playsDir, incoming)
@@ -375,35 +476,30 @@ func runCollect(paths runtimePaths) {
 		fmt.Fprintln(os.Stderr, "save error:", err)
 		os.Exit(1)
 	}
+	saveGenreStore(paths, store)
 
 	fmt.Printf("Added %d new plays.\n", newCount)
 
-	// Load all plays for genre cache update and optional daily note.
+	// Load all plays for metadata update and optional daily note.
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: load plays: %v\n", err)
 		allPlays = incoming
 	}
 
-	// Update genre cache for any new artists
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "warning: load genre cache: %v\n", err)
-		genreCache = map[string]genres.Entry{}
-	}
-	uncached := genres.UncachedArtistIDs(genreCache, incoming)
+	// Update canonical artist metadata for any new artists.
+	uncached := genres.UncachedArtistIDs(store, incoming)
 	if len(uncached) > 0 {
 		fmt.Printf("Fetching genres for %d new artist(s)...\n", len(uncached))
-		artists, err := fetch.GetArtistsBatch(c, uncached)
+		artists, rawArtistBodies, err := fetch.GetArtistsBatchRaw(c, uncached)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "warning: fetch artist genres: %v\n", err)
 		} else {
+			writeRawSpotifyArtists(paths, time.Now(), rawArtistBodies)
 			for _, a := range artists {
-				genres.Update(genreCache, a.ID, a.Name, a.Genres, a.Images)
+				genres.CanonicalizeTopArtist(store, a)
 			}
-			if err := genres.Save(paths.genresPath, genreCache); err != nil {
-				fmt.Fprintf(os.Stderr, "warning: save genre cache: %v\n", err)
-			}
+			saveGenreStore(paths, store)
 		}
 	}
 
@@ -412,8 +508,8 @@ func runCollect(paths runtimePaths) {
 			fmt.Fprintln(os.Stderr, "warning: MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY is enabled but OBSIDIAN_VAULT_PATH is not set")
 			return
 		}
-		ag := genres.GenresForPlays(genreCache, allPlays)
-		generateDailyNote(allPlays, time.Now(), true, ag)
+		artistMetadata := genres.ArtistsForPlays(store, allPlays)
+		generateDailyNote(allPlays, time.Now(), true, artistMetadata)
 	}
 }
 
@@ -440,6 +536,8 @@ func generateWeeklyNote(date time.Time, paths runtimePaths) {
 	outDir := filepath.Join(vault, "music", "listening")
 	outPath := filepath.Join(outDir, fmt.Sprintf("spotify-%s.md", weekStr))
 
+	store := loadGenreStore(paths)
+	migrateCanonicalPlays(paths, store)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
@@ -449,24 +547,18 @@ func generateWeeklyNote(date time.Time, paths runtimePaths) {
 	weekPlays := render.PlaysForWeek(allPlays, date)
 	fmt.Printf("Plays for week %s: %d\n", weekStr, len(weekPlays))
 
-	// Load genre cache
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "warning: load genre cache: %v\n", err)
-		genreCache = map[string]genres.Entry{}
-	}
-	artistGenres := genres.GenresForPlays(genreCache, weekPlays)
+	artistMetadata := genres.ArtistsForPlays(store, weekPlays)
 
-	content, err := render.RenderWeekly(allPlays, date, vault, artistGenres)
+	content, err := render.RenderWeekly(allPlays, date, vault, artistMetadata)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "render error:", err)
 		os.Exit(1)
 	}
 
-	// Update artist stubs with genres
-	for name, g := range artistGenres {
-		if err := render.UpdateArtistGenres(name, g, vault); err != nil {
-			fmt.Fprintf(os.Stderr, "warning: update genres for %s: %v\n", name, err)
+	// Update artist stubs with canonical metadata
+	for name, record := range artistMetadata {
+		if err := render.UpdateArtistStub(record, vault); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", name, err)
 		}
 	}
 
@@ -483,7 +575,7 @@ func generateWeeklyNote(date time.Time, paths runtimePaths) {
 	fmt.Println("Written:", outPath)
 }
 
-func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, artistGenres map[string][]string) {
+func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, artistMetadata map[string]genres.ArtistRecord) {
 	d := date.Local()
 	dayStr := d.Format("2006-01-02")
 	vault := vaultPath()
@@ -494,29 +586,32 @@ func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, a
 		return // no plays for this day
 	}
 
-	artistURLs := map[string]string{}
-	for _, p := range dayPlays {
-		if _, ok := artistURLs[p.ArtistName]; !ok {
-			artistURLs[p.ArtistName] = p.ArtistSpotifyURL
-		}
+	artistNames := map[string]bool{}
+	for _, play := range dayPlays {
+		artistNames[play.ArtistName] = true
 	}
-	artists := make([]string, 0, len(artistURLs))
-	for name := range artistURLs {
+	artists := make([]string, 0, len(artistNames))
+	for name := range artistNames {
 		artists = append(artists, name)
 	}
 	sort.Strings(artists)
 	for _, name := range artists {
-		var g []string
-		if artistGenres != nil {
-			g = artistGenres[name]
+		record, ok := artistMetadata[name]
+		if !ok {
+			record = genres.ArtistRecord{Name: name, Slug: genres.Slug(name)}
+			for _, play := range dayPlays {
+				if play.ArtistName == name {
+					record.SpotifyArtistID = play.ArtistID
+					record.SpotifyURL = play.ArtistSpotifyURL
+					break
+				}
+			}
 		}
-		if err := render.EnsureArtistStub(name, artistURLs[name], g, dayStr, vault); err != nil {
+		if err := render.EnsureArtistStub(record, dayStr, vault); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: could not create artist stub for %s: %v\n", name, err)
 		}
-		if len(g) > 0 {
-			if err := render.UpdateArtistGenres(name, g, vault); err != nil {
-				fmt.Fprintf(os.Stderr, "warning: update genres for %s: %v\n", name, err)
-			}
+		if err := render.UpdateArtistStub(record, vault); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", name, err)
 		}
 	}
 
@@ -526,7 +621,7 @@ func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, a
 		return
 	}
 
-	content, err := render.RenderDaily(allPlays, date, vault, artistGenres)
+	content, err := render.RenderDaily(allPlays, date, vault, artistMetadata)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "render error for %s: %v\n", dayStr, err)
 		return
@@ -558,20 +653,16 @@ func runDaily(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
+	store := loadGenreStore(paths)
+	migrateCanonicalPlays(paths, store)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
+	artistMetadata := genres.ArtistsForPlays(store, allPlays)
 
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "warning: load genre cache: %v\n", err)
-		genreCache = map[string]genres.Entry{}
-	}
-	artistGenres := genres.GenresForPlays(genreCache, allPlays)
-
-	generateDailyNote(allPlays, date, false, artistGenres)
+	generateDailyNote(allPlays, date, false, artistMetadata)
 }
 
 func weeklyNotePath(listeningDir string, date time.Time) string {
@@ -620,10 +711,10 @@ func generateMissingWeeklyNotes(paths runtimePaths, missingDates []time.Time) {
 	}
 }
 
-func generateMissingDailyNotes(allPlays []models.Play, missingDays []time.Time, totalDays int, artistGenres map[string][]string) {
+func generateMissingDailyNotes(allPlays []models.Play, missingDays []time.Time, totalDays int, artistMetadata map[string]genres.ArtistRecord) {
 	fmt.Printf("Checking %d days for missing daily notes...\n", totalDays)
 	for _, day := range missingDays {
-		generateDailyNote(allPlays, day, false, artistGenres)
+		generateDailyNote(allPlays, day, false, artistMetadata)
 	}
 }
 
@@ -639,21 +730,18 @@ func runCatchUp(args []string, paths runtimePaths) {
 	missingWeeks := missingWeeklyDates(listeningDir, now, *weeks)
 	generateMissingWeeklyNotes(paths, missingWeeks)
 
+	store := loadGenreStore(paths)
+	migrateCanonicalPlays(paths, store)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "warning: load genre cache: %v\n", err)
-		genreCache = map[string]genres.Entry{}
-	}
-	artistGenres := genres.GenresForPlays(genreCache, allPlays)
+	artistMetadata := genres.ArtistsForPlays(store, allPlays)
 
 	totalDays := *weeks * 7
 	missingDays := missingDailyDates(listeningDir, now, totalDays)
-	generateMissingDailyNotes(allPlays, missingDays, totalDays, artistGenres)
+	generateMissingDailyNotes(allPlays, missingDays, totalDays, artistMetadata)
 	fmt.Println("Done.")
 }
 
@@ -664,6 +752,8 @@ func runGenreBackfill(paths runtimePaths) {
 		os.Exit(1)
 	}
 
+	store := loadGenreStore(paths)
+	migrateCanonicalPlays(paths, store)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
@@ -675,44 +765,34 @@ func runGenreBackfill(paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "load genre cache error:", err)
-		os.Exit(1)
-	}
-
-	uncached := genres.UncachedArtistIDs(genreCache, allPlays)
-	fmt.Printf("Total plays: %d, cached artists: %d, uncached: %d\n", len(allPlays), len(genreCache), len(uncached))
+	uncached := genres.UncachedArtistIDs(store, allPlays)
+	fmt.Printf("Total plays: %d, cached artists: %d, uncached: %d\n", len(allPlays), len(store.Artists), len(uncached))
 
 	if len(uncached) == 0 {
 		fmt.Println("All artists already cached.")
 	} else {
 		fmt.Printf("Fetching genres for %d artist(s)...\n", len(uncached))
-		artists, err := fetch.GetArtistsBatch(c, uncached)
+		artists, rawArtistBodies, err := fetch.GetArtistsBatchRaw(c, uncached)
 		if err != nil {
 			fmt.Fprintln(os.Stderr, "fetch error:", err)
 			os.Exit(1)
 		}
+		writeRawSpotifyArtists(paths, time.Now(), rawArtistBodies)
 		for _, a := range artists {
-			genres.Update(genreCache, a.ID, a.Name, a.Genres, a.Images)
+			genres.CanonicalizeTopArtist(store, a)
 		}
-		if err := genres.Save(paths.genresPath, genreCache); err != nil {
-			fmt.Fprintln(os.Stderr, "save genre cache error:", err)
-			os.Exit(1)
-		}
+		saveGenreStore(paths, store)
 		fmt.Printf("Cached %d artist(s).\n", len(artists))
 	}
 
 	// Update all existing artist stubs
 	vault := vaultPath()
 	updated := 0
-	for _, entry := range genreCache {
-		if len(entry.Genres) > 0 {
-			if err := render.UpdateArtistGenres(entry.Name, entry.Genres, vault); err != nil {
-				fmt.Fprintf(os.Stderr, "warning: update genres for %s: %v\n", entry.Name, err)
-			} else {
-				updated++
-			}
+	for _, entry := range genres.ArtistRecords(store) {
+		if err := render.UpdateArtistStub(entry, vault); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", entry.Name, err)
+		} else {
+			updated++
 		}
 	}
 	fmt.Printf("Updated %d artist stub(s).\n", updated)
@@ -725,31 +805,30 @@ func runImageBackfill(paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	fmt.Printf("Using genre cache: %s\n", paths.genresPath)
+	fmt.Printf("Using metadata store: %s\n", paths.genresPath)
 
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "load genre cache error:", err)
-		os.Exit(1)
-	}
+	store := loadGenreStore(paths)
+	migrateCanonicalPlays(paths, store)
 
-	missing := genres.MissingImagesArtistIDs(genreCache)
+	missing := genres.MissingImagesArtistIDs(store)
 	fmt.Printf("Artists missing images: %d\n", len(missing))
 	if len(missing) == 0 {
 		fmt.Println("All artists already have images.")
 		return
 	}
 
-	artists, err := fetch.GetArtistsBatch(c, missing)
+	artists, rawArtistBodies, err := fetch.GetArtistsBatchRaw(c, missing)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "fetch error:", err)
 		os.Exit(1)
 	}
+	writeRawSpotifyArtists(paths, time.Now(), rawArtistBodies)
 
 	updatedNames := make([]string, 0, len(artists))
 	for _, a := range artists {
-		cachedName := genreCache[a.ID].Name
-		genres.UpdateImages(genreCache, a.ID, a.Images)
+		canonical := genres.CanonicalizeTopArtist(store, a)
+		cachedName := canonical.Name
+		genres.UpdateImages(store, a.ID, a.Images)
 		if cachedName != "" && cachedName != a.Name {
 			updatedNames = append(updatedNames, fmt.Sprintf("%s [id=%s, cached as %q]", a.Name, a.ID, cachedName))
 		} else {
@@ -758,10 +837,7 @@ func runImageBackfill(paths runtimePaths) {
 	}
 	sort.Strings(updatedNames)
 
-	if err := genres.Save(paths.genresPath, genreCache); err != nil {
-		fmt.Fprintln(os.Stderr, "save genre cache error:", err)
-		os.Exit(1)
-	}
+	saveGenreStore(paths, store)
 	fmt.Printf("Updated images for %d artist(s).\n", len(artists))
 	for _, name := range updatedNames {
 		fmt.Printf("  - %s\n", name)
@@ -824,50 +900,51 @@ func runPersona(paths runtimePaths) {
 	}
 
 	fmt.Println("Fetching top artists (short_term, medium_term, long_term)...")
-	topArtistsShort, err := fetch.GetTopArtists(c, "short_term")
+	fetchedAt := time.Now()
+	topArtistsShort, rawTopArtistsShort, err := fetch.GetTopArtistsRaw(c, "short_term")
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: top artists short_term: %v\n", err)
 	}
-	topArtistsMedium, err := fetch.GetTopArtists(c, "medium_term")
+	writeRawSpotifyTopArtists(paths, fetchedAt, "short_term", rawTopArtistsShort)
+	topArtistsMedium, rawTopArtistsMedium, err := fetch.GetTopArtistsRaw(c, "medium_term")
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: top artists medium_term: %v\n", err)
 	}
-	topArtistsLong, err := fetch.GetTopArtists(c, "long_term")
+	writeRawSpotifyTopArtists(paths, fetchedAt, "medium_term", rawTopArtistsMedium)
+	topArtistsLong, rawTopArtistsLong, err := fetch.GetTopArtistsRaw(c, "long_term")
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: top artists long_term: %v\n", err)
 	}
+	writeRawSpotifyTopArtists(paths, fetchedAt, "long_term", rawTopArtistsLong)
 
+	store := loadGenreStore(paths)
+	migrateCanonicalPlays(paths, store)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
 	weekPlays := render.PlaysForWeek(allPlays, time.Now())
-
-	// Update genre cache from top artists
-	genreCache, err := genres.Load(paths.genresPath)
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "warning: load genre cache: %v\n", err)
-		genreCache = map[string]genres.Entry{}
-	}
+	topArtistsShort = canonicalizeTopArtists(store, topArtistsShort)
+	topArtistsMedium = canonicalizeTopArtists(store, topArtistsMedium)
+	topArtistsLong = canonicalizeTopArtists(store, topArtistsLong)
 	allTopArtists := append(append(topArtistsShort, topArtistsMedium...), topArtistsLong...)
-	for _, a := range allTopArtists {
-		if a.ID != "" {
-			genres.Update(genreCache, a.ID, a.Name, a.Genres, a.Images)
-		}
-	}
-	if err := ensurePlaysDir(paths.genresPath); err != nil {
-		fmt.Fprintf(os.Stderr, "warning: data dir error: %v\n", err)
-	} else if err := genres.Save(paths.genresPath, genreCache); err != nil {
-		fmt.Fprintf(os.Stderr, "warning: save genre cache: %v\n", err)
-	}
+	saveGenreStore(paths, store)
 
-	// Update artist stubs with genres
+	// Update artist stubs with canonical metadata
 	for _, a := range allTopArtists {
-		if len(a.Genres) > 0 {
-			if err := render.UpdateArtistGenres(a.Name, a.Genres, vault); err != nil {
-				fmt.Fprintf(os.Stderr, "warning: update genres for %s: %v\n", a.Name, err)
-			}
+		record := genres.ArtistRecord{
+			Name:                a.Name,
+			Slug:                a.ArtistSlug,
+			SpotifyArtistID:     a.ID,
+			MusicBrainzArtistID: a.MusicBrainzArtistID,
+			SpotifyURL:          a.SpotifyURL,
+			Genres:              a.Genres,
+			SourceGenres:        a.SourceGenres,
+			Images:              a.Images,
+		}
+		if err := render.UpdateArtistStub(record, vault); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", a.Name, err)
 		}
 	}
 
@@ -908,6 +985,7 @@ func runDoctor(paths runtimePaths) int {
 	printPathStatus("Plays dir", paths.playsDir, false)
 	printPathStatus("Plays legacy", paths.playsPath, true)
 	printPathStatus("Genres path", paths.genresPath, false)
+	printPathStatus("Data root", paths.dataRoot, false)
 
 	if paths.playsOverride {
 		fmt.Println("MUSIC_PLAYS_DIR override:", paths.playsDir)

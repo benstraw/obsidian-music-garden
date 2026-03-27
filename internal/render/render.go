@@ -9,6 +9,7 @@ import (
 	"text/template"
 	"time"
 
+	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/models"
 )
 
@@ -93,8 +94,8 @@ func fmtDuration(totalMS int) string {
 
 // RenderWeekly builds the weekly note for the ISO week containing date.
 // It also creates artist stubs for new artists.
-// artistGenres maps artist names to their genres; if nil, genre section is omitted.
-func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistGenres map[string][]string) (string, error) {
+// artistMetadata maps display artist names to canonical artist metadata.
+func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistMetadata map[string]genres.ArtistRecord) (string, error) {
 	weekPlays := PlaysForWeek(plays, date)
 	monday, _ := WeekBounds(date)
 	weekStr := WeekStr(monday)
@@ -198,11 +199,18 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistG
 	sort.Strings(sortedAllArtists)
 
 	for _, name := range sortedAllArtists {
-		var g []string
-		if artistGenres != nil {
-			g = artistGenres[name]
+		record, ok := artistMetadata[name]
+		if !ok {
+			record = genres.ArtistRecord{
+				Name:       name,
+				Slug:       genres.Slug(name),
+				SpotifyURL: artistURLs[name],
+			}
 		}
-		if err := EnsureArtistStub(name, artistURLs[name], g, dateStr, vaultPath); err != nil {
+		if record.SpotifyURL == "" {
+			record.SpotifyURL = artistURLs[name]
+		}
+		if err := EnsureArtistStub(record, dateStr, vaultPath); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: could not create artist stub for %s: %v\n", name, err)
 		}
 	}
@@ -265,11 +273,11 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistG
 	}
 
 	// Genres this week
-	if len(artistGenres) > 0 {
+	if len(artistMetadata) > 0 {
 		genreCounts := map[string]int{}
 		for _, p := range weekPlays {
-			if gs, ok := artistGenres[p.ArtistName]; ok {
-				for _, g := range gs {
+			if record, ok := artistMetadata[p.ArtistName]; ok {
+				for _, g := range record.Genres {
 					genreCounts[g]++
 				}
 			}
@@ -320,8 +328,8 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistG
 
 // RenderDaily builds the daily note for the calendar day containing date.
 // Returns ("", nil) when there are no plays for that day (caller skips writing).
-// artistGenres maps artist names to their genres; if nil, genre section is omitted.
-func RenderDaily(plays []models.Play, date time.Time, vaultPath string, artistGenres map[string][]string) (string, error) {
+// artistMetadata maps display artist names to canonical artist metadata.
+func RenderDaily(plays []models.Play, date time.Time, vaultPath string, artistMetadata map[string]genres.ArtistRecord) (string, error) {
 	dayPlays := PlaysForDay(plays, date)
 	if len(dayPlays) == 0 {
 		return "", nil
@@ -504,11 +512,11 @@ func RenderDaily(plays []models.Play, date time.Time, vaultPath string, artistGe
 	sb.WriteString("\n")
 
 	// Genres
-	if len(artistGenres) > 0 {
+	if len(artistMetadata) > 0 {
 		genreSet := map[string]bool{}
 		for _, p := range dayPlays {
-			if gs, ok := artistGenres[p.ArtistName]; ok {
-				for _, g := range gs {
+			if record, ok := artistMetadata[p.ArtistName]; ok {
+				for _, g := range record.Genres {
 					genreSet[g] = true
 				}
 			}
@@ -537,9 +545,9 @@ func RenderDaily(plays []models.Play, date time.Time, vaultPath string, artistGe
 
 // EnsureArtistStub creates an artist stub at {vaultPath}/music/artists/{name}.md
 // if it doesn't exist. Never overwrites.
-func EnsureArtistStub(name, spotifyURL string, genres []string, dateStr, vaultPath string) error {
+func EnsureArtistStub(record genres.ArtistRecord, dateStr, vaultPath string) error {
 	stubDir := filepath.Join(vaultPath, "music", "artists")
-	stubPath := filepath.Join(stubDir, name+".md")
+	stubPath := filepath.Join(stubDir, record.Name+".md")
 
 	if _, err := os.Stat(stubPath); err == nil {
 		return nil // already exists
@@ -550,9 +558,9 @@ func EnsureArtistStub(name, spotifyURL string, genres []string, dateStr, vaultPa
 	}
 
 	genresYAML := "[]"
-	if len(genres) > 0 {
-		quoted := make([]string, len(genres))
-		for i, g := range genres {
+	if len(record.Genres) > 0 {
+		quoted := make([]string, len(record.Genres))
+		for i, g := range record.Genres {
 			quoted[i] = fmt.Sprintf("%q", g)
 		}
 		genresYAML = "[" + strings.Join(quoted, ", ") + "]"
@@ -562,6 +570,9 @@ func EnsureArtistStub(name, spotifyURL string, genres []string, dateStr, vaultPa
 type: resource
 tags: [music/artist]
 created: %s
+artist_slug: %s
+spotify_artist_id: %s
+musicbrainz_artist_id: %s
 spotify_url: %s
 genres: %s
 ---
@@ -588,45 +599,72 @@ SORT date DESC
 
 ## Notes
 
-`, dateStr, spotifyURL, genresYAML, name, spotifyURL)
+`, dateStr, record.Slug, record.SpotifyArtistID, record.MusicBrainzArtistID, record.SpotifyURL, genresYAML, record.Name, record.SpotifyURL)
 
 	if err := os.WriteFile(stubPath, []byte(content), 0644); err != nil {
 		return err
 	}
-	fmt.Printf("  Created artist stub: %s.md\n", name)
+	fmt.Printf("  Created artist stub: %s.md\n", record.Name)
 	return nil
 }
 
-// UpdateArtistGenres updates the genres frontmatter line in an existing artist stub.
-// No-op if the file doesn't exist or doesn't contain a genres line.
-func UpdateArtistGenres(name string, genres []string, vaultPath string) error {
-	if len(genres) == 0 {
-		return nil
-	}
-	stubPath := filepath.Join(vaultPath, "music", "artists", name+".md")
+// UpdateArtistStub refreshes canonical metadata inside an existing artist stub.
+// It is a no-op when the file does not exist.
+func UpdateArtistStub(record genres.ArtistRecord, vaultPath string) error {
+	stubPath := filepath.Join(vaultPath, "music", "artists", record.Name+".md")
 	data, err := os.ReadFile(stubPath)
 	if err != nil {
 		return nil // file doesn't exist — no-op
 	}
 
 	lines := strings.Split(string(data), "\n")
-	found := false
-	for i, line := range lines {
-		if strings.HasPrefix(line, "genres:") {
-			quoted := make([]string, len(genres))
-			for j, g := range genres {
-				quoted[j] = fmt.Sprintf("%q", g)
-			}
-			lines[i] = "genres: [" + strings.Join(quoted, ", ") + "]"
-			found = true
-			break
-		}
-	}
-	if !found {
+	if len(lines) < 3 || lines[0] != "---" {
 		return nil
 	}
 
-	return os.WriteFile(stubPath, []byte(strings.Join(lines, "\n")), 0644)
+	end := -1
+	for i := 1; i < len(lines); i++ {
+		if lines[i] == "---" {
+			end = i
+			break
+		}
+	}
+	if end == -1 {
+		return nil
+	}
+
+	frontmatter := append([]string(nil), lines[1:end]...)
+	upsertFrontmatter(&frontmatter, "artist_slug", record.Slug)
+	upsertFrontmatter(&frontmatter, "spotify_artist_id", record.SpotifyArtistID)
+	upsertFrontmatter(&frontmatter, "musicbrainz_artist_id", record.MusicBrainzArtistID)
+	upsertFrontmatter(&frontmatter, "spotify_url", record.SpotifyURL)
+	upsertFrontmatter(&frontmatter, "genres", yamlList(record.Genres))
+
+	updated := append([]string{"---"}, frontmatter...)
+	updated = append(updated, lines[end:]...)
+	return os.WriteFile(stubPath, []byte(strings.Join(updated, "\n")), 0644)
+}
+
+func upsertFrontmatter(lines *[]string, key, value string) {
+	entry := key + ": " + value
+	for i, line := range *lines {
+		if strings.HasPrefix(line, key+":") {
+			(*lines)[i] = entry
+			return
+		}
+	}
+	*lines = append(*lines, entry)
+}
+
+func yamlList(values []string) string {
+	if len(values) == 0 {
+		return "[]"
+	}
+	quoted := make([]string, len(values))
+	for i, value := range values {
+		quoted[i] = fmt.Sprintf("%q", value)
+	}
+	return "[" + strings.Join(quoted, ", ") + "]"
 }
 
 // --- Persona context pack ---

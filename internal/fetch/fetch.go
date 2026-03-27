@@ -42,6 +42,7 @@ type spotifyArtist struct {
 }
 
 type spotifyAlbum struct {
+	ID   string `json:"id"`
 	Name string `json:"name"`
 }
 
@@ -88,17 +89,24 @@ func toModelImages(imgs []spotifyImage) []models.ArtistImage {
 // GetRecentlyPlayed fetches up to 50 recently played tracks.
 // Podcast episodes (items with no track key) are filtered silently.
 func GetRecentlyPlayed(c *client.Client) ([]models.Play, error) {
+	plays, _, err := GetRecentlyPlayedRaw(c)
+	return plays, err
+}
+
+// GetRecentlyPlayedRaw fetches up to 50 recently played tracks and returns the
+// unchanged Spotify response body alongside the mapped plays.
+func GetRecentlyPlayedRaw(c *client.Client) ([]models.Play, []byte, error) {
 	params := url.Values{}
 	params.Set("limit", "50")
 
 	body, err := c.Get("/me/player/recently-played", params)
 	if err != nil {
-		return nil, fmt.Errorf("recently-played: %w", err)
+		return nil, nil, fmt.Errorf("recently-played: %w", err)
 	}
 
 	var resp recentlyPlayedResponse
 	if err := json.Unmarshal(body, &resp); err != nil {
-		return nil, fmt.Errorf("recently-played decode: %w", err)
+		return nil, nil, fmt.Errorf("recently-played decode: %w", err)
 	}
 
 	var plays []models.Play
@@ -109,7 +117,7 @@ func GetRecentlyPlayed(c *client.Client) ([]models.Play, error) {
 		p := itemToPlay(item)
 		plays = append(plays, p)
 	}
-	return plays, nil
+	return plays, body, nil
 }
 
 // itemToPlay maps a recently-played API item to a Play struct (primary artist only).
@@ -126,11 +134,13 @@ func itemToPlay(item recentlyPlayedItem) models.Play {
 
 	return models.Play{
 		PlayedAt:         item.PlayedAt,
+		Source:           "spotify",
 		TrackID:          t.ID,
 		TrackName:        t.Name,
 		ArtistID:         artistID,
 		ArtistName:       artistName,
 		ArtistSpotifyURL: artistURL,
+		AlbumID:          t.Album.ID,
 		AlbumName:        t.Album.Name,
 		DurationMS:       t.DurationMS,
 		TrackSpotifyURL:  trackURL,
@@ -177,11 +187,18 @@ type artistsResponse struct {
 
 // GetArtists fetches artist details for up to 50 IDs in a single request.
 func GetArtists(c *client.Client, ids []string) ([]models.TopArtist, error) {
+	artists, _, err := GetArtistsRaw(c, ids)
+	return artists, err
+}
+
+// GetArtistsRaw fetches artist details for up to 50 IDs in a single request
+// and returns the unchanged Spotify response body.
+func GetArtistsRaw(c *client.Client, ids []string) ([]models.TopArtist, []byte, error) {
 	if len(ids) == 0 {
-		return nil, nil
+		return nil, nil, nil
 	}
 	if len(ids) > 50 {
-		return nil, fmt.Errorf("GetArtists: max 50 IDs per request, got %d", len(ids))
+		return nil, nil, fmt.Errorf("GetArtists: max 50 IDs per request, got %d", len(ids))
 	}
 
 	params := url.Values{}
@@ -189,12 +206,12 @@ func GetArtists(c *client.Client, ids []string) ([]models.TopArtist, error) {
 
 	body, err := c.Get("/artists", params)
 	if err != nil {
-		return nil, fmt.Errorf("artists: %w", err)
+		return nil, nil, fmt.Errorf("artists: %w", err)
 	}
 
 	var resp artistsResponse
 	if err := json.Unmarshal(body, &resp); err != nil {
-		return nil, fmt.Errorf("artists decode: %w", err)
+		return nil, nil, fmt.Errorf("artists decode: %w", err)
 	}
 
 	artists := make([]models.TopArtist, 0, len(resp.Artists))
@@ -207,21 +224,32 @@ func GetArtists(c *client.Client, ids []string) ([]models.TopArtist, error) {
 			Images:     toModelImages(item.Images),
 		})
 	}
-	return artists, nil
+	return artists, body, nil
 }
 
 // GetArtistsBatch fetches artist details for any number of IDs, chunking into batches of 50.
 func GetArtistsBatch(c *client.Client, ids []string) ([]models.TopArtist, error) {
+	artists, _, err := GetArtistsBatchRaw(c, ids)
+	return artists, err
+}
+
+// GetArtistsBatchRaw fetches artist details for any number of IDs, chunking
+// into batches of 50, and returns the unchanged response body for each batch.
+func GetArtistsBatchRaw(c *client.Client, ids []string) ([]models.TopArtist, [][]byte, error) {
 	var all []models.TopArtist
+	var bodies [][]byte
 	for i := 0; i < len(ids); i += 50 {
 		end := min(i+50, len(ids))
-		batch, err := GetArtists(c, ids[i:end])
+		batch, body, err := GetArtistsRaw(c, ids[i:end])
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
 		all = append(all, batch...)
+		if len(body) > 0 {
+			bodies = append(bodies, body)
+		}
 	}
-	return all, nil
+	return all, bodies, nil
 }
 
 // joinIDs joins IDs with commas.
@@ -377,18 +405,25 @@ func GetSetlist(artistName, date string) (models.Setlist, error) {
 // GetTopArtists fetches the user's top 50 artists for the given time range.
 // timeRange: "short_term" | "medium_term" | "long_term"
 func GetTopArtists(c *client.Client, timeRange string) ([]models.TopArtist, error) {
+	artists, _, err := GetTopArtistsRaw(c, timeRange)
+	return artists, err
+}
+
+// GetTopArtistsRaw fetches the user's top artists and returns the unchanged
+// Spotify response body alongside mapped artists.
+func GetTopArtistsRaw(c *client.Client, timeRange string) ([]models.TopArtist, []byte, error) {
 	params := url.Values{}
 	params.Set("limit", "50")
 	params.Set("time_range", timeRange)
 
 	body, err := c.Get("/me/top/artists", params)
 	if err != nil {
-		return nil, fmt.Errorf("top/artists: %w", err)
+		return nil, nil, fmt.Errorf("top/artists: %w", err)
 	}
 
 	var resp topArtistsResponse
 	if err := json.Unmarshal(body, &resp); err != nil {
-		return nil, fmt.Errorf("top/artists decode: %w", err)
+		return nil, nil, fmt.Errorf("top/artists decode: %w", err)
 	}
 
 	artists := make([]models.TopArtist, 0, len(resp.Items))
@@ -401,5 +436,5 @@ func GetTopArtists(c *client.Client, timeRange string) ([]models.TopArtist, erro
 			Images:     toModelImages(item.Images),
 		})
 	}
-	return artists, nil
+	return artists, body, nil
 }

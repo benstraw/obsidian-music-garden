@@ -16,7 +16,7 @@ func TestItemToPlay_primaryArtist(t *testing.T) {
 				{ID: "a1", Name: "Primary Artist", ExternalURLs: map[string]string{"spotify": "https://open.spotify.com/artist/a1"}},
 				{ID: "a2", Name: "Featured Artist"},
 			},
-			Album:        spotifyAlbum{Name: "My Album"},
+			Album:        spotifyAlbum{ID: "album1", Name: "My Album"},
 			DurationMS:   210000,
 			ExternalURLs: map[string]string{"spotify": "https://open.spotify.com/track/track1"},
 		},
@@ -26,6 +26,9 @@ func TestItemToPlay_primaryArtist(t *testing.T) {
 
 	if p.PlayedAt != "2026-02-21T14:30:00.000Z" {
 		t.Errorf("PlayedAt = %q", p.PlayedAt)
+	}
+	if p.Source != "spotify" {
+		t.Errorf("Source = %q", p.Source)
 	}
 	if p.TrackID != "track1" {
 		t.Errorf("TrackID = %q", p.TrackID)
@@ -44,6 +47,9 @@ func TestItemToPlay_primaryArtist(t *testing.T) {
 	}
 	if p.AlbumName != "My Album" {
 		t.Errorf("AlbumName = %q", p.AlbumName)
+	}
+	if p.AlbumID != "album1" {
+		t.Errorf("AlbumID = %q", p.AlbumID)
 	}
 	if p.DurationMS != 210000 {
 		t.Errorf("DurationMS = %d", p.DurationMS)

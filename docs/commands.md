@@ -33,6 +33,9 @@ stdout — copy and paste it manually.
 Tokens auto-refresh on subsequent commands. You should only need to run `auth`
 once, unless `tokens.json` is deleted or the refresh token expires.
 
+This command is source-specific: it authenticates the current Spotify collector,
+not the garden as a whole.
+
 **Requires:** `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `SPOTIFY_REDIRECT_URI` in `.env` or environment.
 
 ---
@@ -51,12 +54,20 @@ plays directory.
 1. Calls `GET /me/player/recently-played?limit=50`
 2. Filters out podcast episodes (items with no `track` key)
 3. On first run after upgrade: migrates `data/plays.json` → sharded layout and renames the legacy file to `data/plays.json.bak`
-4. Routes each new play to its ISO week file (`data/plays/YYYY/YYYY-WNN.json`), merging with the existing file
-5. Deduplicates by `played_at` — existing plays are never duplicated
-6. If `MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY=1`, regenerates today's daily note
+4. Resolves canonical `artist_slug` and `release_slug` values while preserving Spotify IDs for provenance
+5. Routes each new play to its ISO week file (`data/plays/YYYY/YYYY-WNN.json`), merging with the existing file
+6. Deduplicates by `played_at` — existing plays are never duplicated
+7. If `MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY=1`, regenerates today's daily note
    (`spotify-YYYY-MM-DD.md`) so it stays up to date as new plays arrive
+8. Writes unchanged Spotify API snapshots to `data/raw/spotify/` and refreshes
+   canonical aggregated records under `data/aggregated/`
 
 **Output:** `{playsDir}/YYYY/YYYY-WNN.json` (e.g. `data/plays/2026/2026-W11.json`)
+
+**Additional persisted data:**
+- `data/raw/spotify/recently-played/` — unchanged collect snapshots
+- `data/raw/spotify/artists/` — unchanged artist batch snapshots fetched during metadata hydration
+- `data/aggregated/artists|releases|genres/` — canonical merged records
 
 Since Spotify only returns the last 50 plays, running `collect` 5× daily
 ensures no plays are lost to the 50-track API cap.
@@ -80,7 +91,7 @@ given date (default: the current week).
 
 **What it does:**
 1. Determines the ISO week (Monday 00:00 → Sunday 23:59 local time)
-2. Filters the effective plays file for plays that fall within the week
+2. Filters the effective sharded play history for plays that fall within the week
 3. Creates artist stubs for new artists (see below)
 4. Writes the weekly note (always overwrites if it already exists)
 
@@ -97,8 +108,9 @@ given date (default: the current week).
 
 **Artist stubs** — created at `{vault}/music/artists/{Name}.md` for every
 artist in the week's plays. Never overwrites an existing stub. Each stub
-includes frontmatter (`type: resource`, `tags: [music/artist]`, `spotify_url`,
-`genres`) and a dataview query that lists all weekly notes linking to the artist.
+includes frontmatter (`type: resource`, `tags: [music/artist]`, `artist_slug`,
+`spotify_artist_id`, `musicbrainz_artist_id`, `spotify_url`, `genres`) and a
+dataview query that lists all weekly notes linking to the artist.
 
 ---
 
@@ -117,7 +129,7 @@ Generates a daily markdown note for the given calendar date (default: today).
 | `--date` | today | Date in `YYYY-MM-DD` (interpreted in local timezone) |
 
 **Behaviour:**
-1. Loads the effective plays file
+1. Loads the effective sharded play history
 2. Filters plays for the local calendar day
 3. Creates missing artist stubs for artists heard that day
 4. If no plays exist for that day, exits without writing a file
@@ -181,6 +193,7 @@ Regenerates the Music Taste context pack at
 **What it fetches:**
 - Top 50 artists for `short_term` (~4 weeks), `medium_term` (~6 months), `long_term` (all time)
 - This week's plays from the effective plays file for the Recent Rotation section
+- Unchanged Spotify top-artist responses are stored under `data/raw/spotify/top-artists/`
 
 **Context pack sections:**
 - Current Top Artists (last ~4 weeks)
@@ -201,17 +214,19 @@ music, or discussing musical taste.
 ./music-garden genre-backfill
 ```
 
-Backfills `data/genres.json` from existing play history.
+Backfills canonical artist metadata in `data/genres.json` from existing play history.
 
 **Behaviour:**
 1. Loads all effective play shards
-2. Loads the effective genre cache
-3. Finds artist IDs present in play history but missing from the cache
+2. Loads the effective canonical metadata store
+3. Finds Spotify artist IDs present in play history but missing canonical genre metadata
 4. Fetches artist details from Spotify in batches of 50
-5. Writes genres and artist images into `data/genres.json`
+5. Writes canonical artist genres, source genres, release records, and artist images into `data/genres.json`
 6. Updates existing artist stubs in the vault with any newly cached genres
+7. Stores unchanged Spotify artist batch responses in `data/raw/spotify/artists/`
+   and rewrites aggregated canonical records in `data/aggregated/`
 
-Use this after importing historical plays or if `collect` ran before the genre cache existed.
+Use this after importing historical plays or if `collect` ran before the canonical metadata store existed.
 
 ---
 
@@ -221,14 +236,16 @@ Use this after importing historical plays or if `collect` ran before the genre c
 ./music-garden image-backfill
 ```
 
-Fetches Spotify artist profile images for cached artists that currently have no
-`images` entry in `data/genres.json`.
+Fetches Spotify artist profile images for canonical artist records that currently
+have no `images` entry in `data/genres.json`.
 
 **Behaviour:**
-1. Loads the effective genre cache
-2. Finds cached artist IDs whose `images` array is missing or empty
+1. Loads the effective canonical metadata store
+2. Finds canonical artist records whose `images` array is missing or empty
 3. Fetches artist details from Spotify in batches of 50
 4. Updates only the `images` field for those cache entries
+5. Stores unchanged Spotify artist batch responses in `data/raw/spotify/artists/`
+   and rewrites aggregated canonical records in `data/aggregated/`
 
 This command is metadata-only: it updates `data/genres.json` but does not modify
 weekly notes, daily notes, or artist stubs.

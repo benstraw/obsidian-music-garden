@@ -3,11 +3,15 @@
 A personal music knowledge garden for collecting listening history, enriching it
 with open music metadata, and generating markdown pages for Obsidian.
 
-Today the project is centered on Spotify listening history, Spotify artist
-metadata, and concert setlists from [setlist.fm](https://api.setlist.fm/docs/1.0/index.html).
-The broader framing is intentional: Music Garden is meant to reduce platform
-dependency, make room for multiple music data sources over time, and position
-the project more cleanly as an open-source personal knowledge tool.
+Today the project ships with a Spotify collector plus setlist lookups from
+[setlist.fm](https://api.setlist.fm/docs/1.0/index.html). The broader framing is
+intentional: Music Garden is meant to reduce platform dependency, make room for
+multiple music data sources over time, and position the project more cleanly as
+an open-source personal knowledge tool.
+
+Internally, the garden now keeps its own canonical artist, release, and genre
+identities. Spotify IDs remain preserved as source metadata, but they are no
+longer treated as the garden's primary long-term keys.
 
 The current Go CLI replaces the earlier Python `collect_music.py` /
 `weekly_music_note.py` scripts with real auth management, catch-up logic, and a
@@ -80,7 +84,7 @@ auto-refresh — you should only need to do this once.
 ### 5. Collect and generate
 
 ```bash
-./music-garden collect                                   # fetch last 50 recently-played
+./music-garden collect                                   # fetch last 50 Spotify plays and canonicalize IDs
 ./music-garden weekly                                    # this week's note
 ./music-garden weekly --date 2026-02-10                  # specific week
 ./music-garden daily                                     # today's daily note
@@ -113,7 +117,13 @@ Files are written to `$OBSIDIAN_VAULT_PATH/music/` when the vault path is set.
 For split setups, use:
 - `MUSIC_STATE_DIR` for `.env` and `tokens.json`
 - `MUSIC_PLAYS_DIR` to point commands at a specific `data/plays/` directory
-- `MUSIC_GENRES_PATH` to point commands at a specific `data/genres.json`
+- `MUSIC_GENRES_PATH` to point commands at a specific canonical metadata store (`data/genres.json`)
+
+Runtime data is now organized into layers under `data/`:
+- `data/raw/` — unchanged upstream API snapshots
+- `data/normalized/` — reserved for source-cleaned records before merge
+- `data/aggregated/` — canonical merged artist/release/genre records
+- `data/plays/` — sharded listening history used for note generation
 
 | Command | Output path |
 |---|---|
@@ -136,7 +146,7 @@ Recommended (stable local install, avoids symlinked/external-drive path issues):
 
 This installs/updates:
 - binary: `~/.local/bin/music-garden`
-- state: `~/Library/Application Support/music-garden/state` (`.env`, `tokens.json`, `data/plays/`, `data/genres.json`)
+- state: `~/Library/Application Support/music-garden/state` (`.env`, `tokens.json`, layered `data/`, including `data/raw/`, `data/aggregated/`, `data/plays/`, and `data/genres.json`)
 - templates: `~/Library/Application Support/music-garden/templates`
 - logs: `~/Library/Application Support/music-garden/logs`
 - launch agents: `~/Library/LaunchAgents/com.$USER.music-collect-spotify.plist` and `...music-weekly-spotify.plist`
@@ -210,7 +220,7 @@ servers, so collection keeps working even when the Mac is off.
    | `SPOTIFY_CLIENT_SECRET` | from your `.env` |
    | `SPOTIFY_TOKENS_JSON` | `base64 < tokens.json` (copy the output) |
 
-3. The workflow commits `data/plays/` (sharded weekly files) and `data/genres.json` directly to `main` after each run.
+3. The workflow commits `data/plays/` (sharded weekly files) and `data/genres.json` (canonical artist/release/genre metadata) directly to `main` after each run.
 
 ### How it works
 
@@ -251,8 +261,8 @@ Go to **Actions → Collect → Run workflow** in the GitHub UI.
 - `catch-up` only writes missing notes (weekly + daily); `weekly` always writes (overwrites if exists)
 - `daily` only writes when that date has play data and never overwrites an existing daily note
 - when `MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY=1`, each `collect` run updates today's daily note
-- `genre-backfill` populates `data/genres.json` for artists already present in play history and refreshes artist stub genres
-- `image-backfill` fills missing Spotify artist profile images in `data/genres.json`; it only updates cache metadata and does not change rendered notes yet
+- `genre-backfill` populates canonical artist metadata in `data/genres.json` for artists already present in play history and refreshes artist stub genres
+- `image-backfill` fills missing Spotify artist profile images in `data/genres.json`; it only updates canonical metadata and does not change rendered notes yet
 - Artist stubs are never overwritten once created; stubs can be created by daily or weekly generation and include a Concerts Dataview section
 - Port `8888` must be free when running `auth` with a localhost redirect URI
 - `setlist` requires `SETLISTFM_API_KEY` — prints to stdout only, no vault writes

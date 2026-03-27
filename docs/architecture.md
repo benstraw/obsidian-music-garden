@@ -1,7 +1,7 @@
 # Architecture
 
-music-garden is a thin pipeline: **fetch → model → render → write**. Each
-stage is a separate package with no circular dependencies.
+music-garden is a thin pipeline: **source fetch → canonicalize → render → write**.
+Each stage is a separate package with no circular dependencies.
 
 ## Package Map
 
@@ -10,7 +10,8 @@ main.go                         CLI entry, runtime path resolution, subcommand d
 internal/
   auth/auth.go                  OAuth2 flow, token save/load/refresh
   client/client.go              Authenticated HTTP GET, 429 retry/backoff
-  fetch/fetch.go                Spotify + setlist.fm API calls → model structs
+  fetch/fetch.go                Current source adapters: Spotify + setlist.fm → source-shaped model structs
+  genres/genres.go              Canonical artist/release store + genre alias normalization
   models/models.go              Play, TopTrack, TopArtist, Setlist, SetlistSet structs
   plays/plays.go                plays load/save/merge/dedup + sharded storage
   render/render.go              Weekly note, artist stubs, persona rendering
@@ -18,9 +19,21 @@ templates/
   persona.md.tmpl               Go template for Music Taste context pack
   weekly.md.tmpl                Structure reference (rendering is in Go code)
 data/
+  raw/
+    spotify/                    Unchanged Spotify API snapshots (recently-played, artists, top-artists)
+    musicbrainz/                Reserved for future raw MusicBrainz snapshots
+    wikipedia/                  Reserved for future raw Wikipedia snapshots
+  normalized/
+    artists/                    Reserved for source-cleaned artist records
+    releases/                   Reserved for source-cleaned release records
+    genres/                     Reserved for source-cleaned genre records
+  aggregated/
+    artists/                    Canonical artist records, one file per slug
+    releases/                   Canonical release records, one file per slug
+    genres/                     Canonical genre records, one file per slug
   plays/                        Sharded play history — YYYY/YYYY-WNN.json (git-committed via Actions)
   plays.json.bak                Legacy file renamed on first post-upgrade collect (can be deleted)
-  genres.json                   Artist metadata cache (genres + Spotify images)
+  genres.json                   Canonical artist/release metadata + genre aliases + Spotify images
 ```
 
 ## Data Flow
@@ -38,18 +51,31 @@ main.runCollect()
   ├─ fetch.GetRecentlyPlayed(c)
   │    └─ GET /me/player/recently-played?limit=50
   │         filters podcast episodes (no track key)
-  │         maps to []models.Play (primary artist only)
+  │         maps to []models.Play (Spotify source metadata, primary artist only)
   │
   ├─ plays.MigrateToSharded(legacyPlaysPath, playsDir)   ← one-shot; no-op after first run
   │    └─ reads data/plays.json, writes to data/plays/YYYY/YYYY-WNN.json,
   │       renames plays.json → plays.json.bak
   │
+  ├─ genres.Load(genresPath)
+  ├─ genres.ResolvePlay(store, play)
+  │    └─ resolves canonical artist_slug + release_slug
+  │       preserves Spotify IDs and reserves MusicBrainz fields for later resolution
+  │
+  ├─ datalayer.WriteRawSpotifyRecentlyPlayed(...)
+  │    └─ stores unchanged Spotify response under data/raw/spotify/recently-played/
+  │
   ├─ plays.SaveSharded(playsDir, incoming)
   │    └─ routes each play to its ISO week file, merge+dedup per file
   │
-  ├─ genres.Load(genresPath)
   ├─ fetch.GetArtistsBatch(c, uncachedArtistIDs)
-  │    └─ stores genres and Spotify profile images for newly seen artists
+  │    └─ normalizes source genres through the canonical alias table
+  │       stores canonical artist metadata, source genres, and Spotify profile images
+  ├─ datalayer.WriteRawSpotifyArtists(...)
+  │    └─ stores unchanged Spotify artist batch responses under data/raw/spotify/artists/
+  │
+  ├─ datalayer.SyncAggregatedStore(...)
+  │    └─ rewrites canonical artist/release/genre records under data/aggregated/
   │
   └─ if MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY=1:
        generateDailyNote(allPlays, now, overwrite=true)
@@ -170,9 +196,13 @@ Each file is a JSON array of play objects, sorted descending by `played_at`:
     "played_at": "2026-02-21T14:30:00.000Z",
     "track_id": "...",
     "track_name": "Track Name",
+    "source": "spotify",
+    "artist_slug": "artist-name",
     "artist_id": "...",
     "artist_name": "Artist Name",
     "artist_spotify_url": "https://open.spotify.com/artist/...",
+    "release_slug": "artist-name--album-name",
+    "album_id": "...",
     "album_name": "Album Name",
     "duration_ms": 210000,
     "track_spotify_url": "https://open.spotify.com/track/..."
@@ -180,7 +210,8 @@ Each file is a JSON array of play objects, sorted descending by `played_at`:
 ]
 ```
 
-Only the primary artist is recorded (index 0 of the `artists` array).
+Only the primary artist is recorded (index 0 of the Spotify `artists` array).
+Canonical slugs are garden-owned IDs; Spotify IDs remain secondary source identifiers.
 
 **Shard key timezone:** UTC — Spotify timestamps are UTC, so routing is
 deterministic regardless of where the binary runs. Display and filtering for
@@ -215,10 +246,15 @@ Runtime file locations are resolved with this precedence:
 directory while still loading `.env` and `tokens.json` from `MUSIC_STATE_DIR`.
 `playsPath` (legacy migration source) is derived as `filepath.Dir(playsDir) + "/plays.json"`.
 
-`MUSIC_GENRES_PATH` lets you point genre/image cache writes at a specific `data/genres.json`
+`MUSIC_GENRES_PATH` lets you point canonical metadata writes at a specific `data/genres.json`
 file independently of the state dir.
 
 `music-garden doctor` prints all effective runtime paths and launchd-derived diagnostics.
+
+The layered `data/raw/`, `data/normalized/`, and `data/aggregated/` directories
+currently resolve from the runtime data root (`{cwd}/data` by default or
+`{MUSIC_STATE_DIR}/data` when configured). `normalized/` is reserved for the
+next phase; `raw/` and `aggregated/` are written today.
 
 ## Template Resolution
 
@@ -258,6 +294,16 @@ ensures no plays are lost to the 50-track API cap. With sharding, each
 `collect` run only appends to the current week's file rather than rewriting
 the full history.
 
+**Canonical artist/release IDs** — The garden now owns `artist_slug` and
+`release_slug` identities. Spotify IDs are still stored for provenance and
+lookup, but downstream notes, caches, and future source integrations do not
+need Spotify to remain the canonical namespace.
+
+**Curated canonical genres** — Source genres are normalized through a repo-owned
+alias table. Unknown source genres are recorded for review rather than silently
+becoming new canonical genres. This prevents each upstream source from defining
+genre identity independently.
+
 **Weekly note rendered in Go, persona via template** — The weekly note has
 many conditional sections with complex formatting logic. Building it with
 `strings.Builder` in Go code (mirroring the original Python approach) is more
@@ -268,8 +314,9 @@ has simple structure well-suited to `text/template`.
 `music/artists/{Name}.md` is left alone. Users can freely add notes, links,
 and metadata to stubs without risking them being clobbered on the next run.
 
-**catch-up minimizes API calls** — Weekly generation may need Spotify API calls
-(top tracks/artists), but daily generation is local-only from `data/plays/`.
+**catch-up minimizes API calls** — Weekly and daily note generation are local
+from canonicalized `data/plays/`; only source-specific metadata backfills hit
+Spotify after collection.
 
 **setlist uses a standalone HTTP helper, not the Spotify client** — setlist.fm
 has a different base URL, auth scheme (header-based API key vs. Bearer token),

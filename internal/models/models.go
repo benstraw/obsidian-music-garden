@@ -1,16 +1,25 @@
 package models
 
-// Play represents a single Spotify track play event.
+// Play represents a single music track play event.
+// Spotify is the current upstream source, but canonical artist/release IDs are
+// garden-owned so downstream code does not depend on one provider's taxonomy.
 type Play struct {
-	PlayedAt         string `json:"played_at"`
-	TrackID          string `json:"track_id"`
-	TrackName        string `json:"track_name"`
-	ArtistID         string `json:"artist_id"`
-	ArtistName       string `json:"artist_name"`
-	ArtistSpotifyURL string `json:"artist_spotify_url"`
-	AlbumName        string `json:"album_name"`
-	DurationMS       int    `json:"duration_ms"`
-	TrackSpotifyURL  string `json:"track_spotify_url"`
+	PlayedAt                  string `json:"played_at"`
+	Source                    string `json:"source,omitempty"`
+	TrackID                   string `json:"track_id"`
+	TrackName                 string `json:"track_name"`
+	ArtistSlug                string `json:"artist_slug,omitempty"`
+	ArtistID                  string `json:"artist_id"`
+	ArtistName                string `json:"artist_name"`
+	ArtistSpotifyURL          string `json:"artist_spotify_url"`
+	ArtistMusicBrainzID       string `json:"artist_musicbrainz_id,omitempty"`
+	ReleaseSlug               string `json:"release_slug,omitempty"`
+	AlbumID                   string `json:"album_id,omitempty"`
+	AlbumName                 string `json:"album_name"`
+	ReleaseMusicBrainzID      string `json:"release_musicbrainz_id,omitempty"`
+	ReleaseGroupMusicBrainzID string `json:"release_group_musicbrainz_id,omitempty"`
+	DurationMS                int    `json:"duration_ms"`
+	TrackSpotifyURL           string `json:"track_spotify_url"`
 }
 
 // TopTrack represents a track from the user's top tracks.
@@ -29,11 +38,14 @@ type ArtistImage struct {
 
 // TopArtist represents an artist from the user's top artists.
 type TopArtist struct {
-	ID         string
-	Name       string
-	Genres     []string
-	SpotifyURL string
-	Images     []ArtistImage
+	ID                  string
+	Name                string
+	ArtistSlug          string
+	MusicBrainzArtistID string
+	Genres              []string
+	SourceGenres        []string
+	SpotifyURL          string
+	Images              []ArtistImage
 }
 
 // Setlist represents a setlist.fm setlist result.

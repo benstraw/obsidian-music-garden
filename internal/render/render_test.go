@@ -6,6 +6,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/models"
 )
 
@@ -390,19 +391,19 @@ func TestRenderWeekly_withGenres(t *testing.T) {
 		{PlayedAt: "2026-02-18T12:05:00Z", TrackName: "B", ArtistName: "Artist2", DurationMS: 100000},
 		{PlayedAt: "2026-02-18T12:10:00Z", TrackName: "C", ArtistName: "Artist1", DurationMS: 100000},
 	}
-	genres := map[string][]string{
-		"Artist1": {"indie rock", "folk rock"},
-		"Artist2": {"indie rock"},
+	artistMetadata := map[string]genres.ArtistRecord{
+		"Artist1": {Name: "Artist1", Slug: "artist1", Genres: []string{"indie-rock", "folk-rock"}},
+		"Artist2": {Name: "Artist2", Slug: "artist2", Genres: []string{"indie-rock"}},
 	}
-	content, err := RenderWeekly(plays, date, dir, genres)
+	content, err := RenderWeekly(plays, date, dir, artistMetadata)
 	if err != nil {
 		t.Fatalf("RenderWeekly: %v", err)
 	}
 
 	checks := []string{
 		"## Genres This Week",
-		"[[indie rock]]",
-		"[[folk rock]]",
+		"[[indie-rock]]",
+		"[[folk-rock]]",
 	}
 	for _, s := range checks {
 		if !strings.Contains(content, s) {
@@ -436,15 +437,15 @@ func TestRenderDaily_withGenres(t *testing.T) {
 			TrackName: "Song", ArtistName: "Art", AlbumName: "Alb", DurationMS: 200000,
 		},
 	}
-	genres := map[string][]string{
-		"Art": {"dream pop", "ambient"},
+	artistMetadata := map[string]genres.ArtistRecord{
+		"Art": {Name: "Art", Slug: "art", Genres: []string{"dream-pop", "ambient"}},
 	}
-	content, err := RenderDaily(plays, date, dir, genres)
+	content, err := RenderDaily(plays, date, dir, artistMetadata)
 	if err != nil {
 		t.Fatalf("RenderDaily: %v", err)
 	}
 
-	checks := []string{"## Genres", "[[ambient]]", "[[dream pop]]"}
+	checks := []string{"## Genres", "[[ambient]]", "[[dream-pop]]"}
 	for _, s := range checks {
 		if !strings.Contains(content, s) {
 			t.Errorf("output missing %q", s)
@@ -471,9 +472,9 @@ func TestRenderDaily_nilGenres_noSection(t *testing.T) {
 	}
 }
 
-// --- UpdateArtistGenres ---
+// --- UpdateArtistStub ---
 
-func TestUpdateArtistGenres_updatesExisting(t *testing.T) {
+func TestUpdateArtistStub_updatesExisting(t *testing.T) {
 	dir := t.TempDir()
 	artistsDir := dir + "/music/artists"
 	if err := os.MkdirAll(artistsDir, 0755); err != nil {
@@ -484,30 +485,31 @@ func TestUpdateArtistGenres_updatesExisting(t *testing.T) {
 		t.Fatal(err)
 	}
 
-	if err := UpdateArtistGenres("Test Artist", []string{"indie rock", "folk"}, dir); err != nil {
-		t.Fatalf("UpdateArtistGenres: %v", err)
+	if err := UpdateArtistStub(genres.ArtistRecord{
+		Name:            "Test Artist",
+		Slug:            "test-artist",
+		SpotifyArtistID: "sp-123",
+		Genres:          []string{"indie-rock", "folk"},
+	}, dir); err != nil {
+		t.Fatalf("UpdateArtistStub: %v", err)
 	}
 
 	data, _ := os.ReadFile(artistsDir + "/Test Artist.md")
 	content := string(data)
-	if !strings.Contains(content, `genres: ["indie rock", "folk"]`) {
+	if !strings.Contains(content, `genres: ["indie-rock", "folk"]`) {
 		t.Errorf("genres not updated, got:\n%s", content)
+	}
+	if !strings.Contains(content, `artist_slug: test-artist`) {
+		t.Errorf("artist slug not updated, got:\n%s", content)
 	}
 	if !strings.Contains(content, "# Test Artist") {
 		t.Error("other content was lost")
 	}
 }
 
-func TestUpdateArtistGenres_noopMissingFile(t *testing.T) {
-	err := UpdateArtistGenres("Nonexistent", []string{"rock"}, t.TempDir())
+func TestUpdateArtistStub_noopMissingFile(t *testing.T) {
+	err := UpdateArtistStub(genres.ArtistRecord{Name: "Nonexistent", Genres: []string{"rock"}}, t.TempDir())
 	if err != nil {
 		t.Errorf("expected nil error for missing file, got %v", err)
-	}
-}
-
-func TestUpdateArtistGenres_noopEmptyGenres(t *testing.T) {
-	err := UpdateArtistGenres("Test", nil, t.TempDir())
-	if err != nil {
-		t.Errorf("expected nil error for empty genres, got %v", err)
 	}
 }

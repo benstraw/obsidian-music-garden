@@ -6,6 +6,7 @@ import (
 	"io/fs"
 	"os"
 	"path/filepath"
+	"reflect"
 	"sort"
 	"strings"
 	"time"
@@ -219,4 +220,48 @@ func MigrateToSharded(legacyPath, baseDir string) error {
 		return fmt.Errorf("rename legacy file: %w", err)
 	}
 	return nil
+}
+
+// MigrateCanonicalSharded rewrites sharded play files in place when the provided
+// resolver adds missing canonical fields or source metadata.
+func MigrateCanonicalSharded(baseDir string, resolver func(models.Play) models.Play) (bool, error) {
+	if _, err := os.Stat(baseDir); os.IsNotExist(err) {
+		return false, nil
+	}
+
+	changedAny := false
+	err := filepath.WalkDir(baseDir, func(path string, d fs.DirEntry, walkErr error) error {
+		if walkErr != nil {
+			return walkErr
+		}
+		if d.IsDir() || !strings.HasSuffix(path, ".json") {
+			return nil
+		}
+
+		existing, err := Load(path)
+		if err != nil {
+			return fmt.Errorf("load %s: %w", path, err)
+		}
+		updated := make([]models.Play, len(existing))
+		changed := false
+		for i, play := range existing {
+			next := resolver(play)
+			if !reflect.DeepEqual(play, next) {
+				changed = true
+			}
+			updated[i] = next
+		}
+		if !changed {
+			return nil
+		}
+		if err := Save(path, updated); err != nil {
+			return fmt.Errorf("save %s: %w", path, err)
+		}
+		changedAny = true
+		return nil
+	})
+	if err != nil {
+		return false, err
+	}
+	return changedAny, nil
 }
