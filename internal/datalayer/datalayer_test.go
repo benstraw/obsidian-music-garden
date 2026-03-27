@@ -18,6 +18,7 @@ func TestEnsureLayout(t *testing.T) {
 
 	paths := []string{
 		filepath.Join(root, "raw", "spotify", "recently-played"),
+		filepath.Join(root, "raw", "wikipedia", "search"),
 		filepath.Join(root, "normalized", "artists"),
 		filepath.Join(root, "normalized", "tracks"),
 		filepath.Join(root, "aggregated", "tracks"),

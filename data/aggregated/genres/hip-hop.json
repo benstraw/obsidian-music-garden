@@ -5,5 +5,31 @@
     "hip-hop",
     "hiphop"
   ],
-  "pending": false
+  "pending": false,
+  "status": "matched",
+  "wikipedia_title": "Hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hip-hop",
+  "summary": "Hip-hop is a genre of popular music that emerged in the early 1970s alongside an associated subculture in the African-American and Caribbean immigrants communities of New York City. The musical style is characterized by the synthesis of a wide range of techniques, but rapping is frequent enough that it has become a defining characteristic. Other key markers of the genre are the disc jockey (DJ), turntablism, scratching, beatboxing, and instrumental tracks. Cultural interchange has always been central to the hip-hop genre; it simultaneously borrows from its social environment while commenting on it.",
+  "candidates": [
+    "Hip hop music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Hip-hop",
+    "retrieved_at": "2026-03-27T08:21:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Move-protection-shackle.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Move-protection-shackle.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Move-protection-shackle.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Move-protection-shackle.svg/960px-Move-protection-shackle.svg.png",
+    "width": 512,
+    "height": 512,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
+  },
+  "last_updated": "2026-03-27"
 }

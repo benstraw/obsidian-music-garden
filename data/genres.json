@@ -212,6 +212,37 @@
     "winter",
     "yacht rock"
   ],
+  "genre_records": {
+    "hip-hop": {
+      "slug": "hip-hop",
+      "wikipedia_title": "Hip-hop",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hip-hop",
+      "summary": "Hip-hop is a genre of popular music that emerged in the early 1970s alongside an associated subculture in the African-American and Caribbean immigrants communities of New York City. The musical style is characterized by the synthesis of a wide range of techniques, but rapping is frequent enough that it has become a defining characteristic. Other key markers of the genre are the disc jockey (DJ), turntablism, scratching, beatboxing, and instrumental tracks. Cultural interchange has always been central to the hip-hop genre; it simultaneously borrows from its social environment while commenting on it.",
+      "status": "matched",
+      "candidates": [
+        "Hip hop music"
+      ],
+      "attribution": {
+        "source": "wikipedia",
+        "page_title": "Hip-hop",
+        "page_url": "https://en.wikipedia.org/wiki/Hip-hop",
+        "retrieved_at": "2026-03-27T08:21:45Z"
+      },
+      "image": {
+        "source": "wikimedia-commons",
+        "file_title": "File:Move-protection-shackle.svg",
+        "file_page_url": "https://commons.wikimedia.org/wiki/File:Move-protection-shackle.svg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Move-protection-shackle.svg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Move-protection-shackle.svg/960px-Move-protection-shackle.svg.png",
+        "width": 512,
+        "height": 512,
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
+      },
+      "last_updated": "2026-03-27"
+    }
+  },
   "artists": {
     "50-cent": {
       "slug": "50-cent",
@@ -3106,7 +3137,98 @@
           "width": 64
         }
       ],
-      "last_updated": "2026-03-18"
+      "wikipedia_title": "Miles Davis",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Miles_Davis",
+      "summary": "Miles Dewey Davis III was an American trumpeter, bandleader and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music. In a career spanning nearly five decades, Davis was at the forefront of several major stylistic developments in jazz, including—but not limited to—bebop, cool jazz, hard bop, third stream, modal jazz, avant-garde jazz, and jazz fusion. Davis's legacy extends beyond jazz into the realms of rock, funk, classical, and hip-hop.",
+      "status": "matched",
+      "candidates": [
+        "Miles Davis",
+        "Miles Davis \u0026 Gil Evans: The Complete Columbia Studio Recordings",
+        "Miles Davis Quintet",
+        "Miles Davis Vols. 1 \u0026 2",
+        "Miles Davis and the Modern Jazz Giants",
+        "Miles Davis at Carnegie Hall",
+        "Miles Davis at Fillmore",
+        "Miles Davis at Newport 1955–1975: The Bootleg Series Vol. 4",
+        "Miles Davis discography",
+        "Miles Davis, Vol. 2"
+      ],
+      "attribution": {
+        "source": "wikipedia",
+        "page_title": "Miles Davis",
+        "page_url": "https://en.wikipedia.org/wiki/Miles_Davis",
+        "retrieved_at": "2026-03-27T08:35:31Z"
+      },
+      "image": {
+        "source": "wikimedia-commons",
+        "file_title": "File:Charlie Parker, Tommy Potter, Miles Davis, Duke Jordan, Max Roach (Gottlieb 06851).jpg",
+        "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Duke_Jordan,_Max_Roach_(Gottlieb_06851).jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg/960px-Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg",
+        "width": 4813,
+        "height": 3613,
+        "license": "Public domain",
+        "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+      },
+      "image_candidates": [
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Charlie Parker, Tommy Potter, Miles Davis, Duke Jordan, Max Roach (Gottlieb 06851).jpg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Duke_Jordan,_Max_Roach_(Gottlieb_06851).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg/960px-Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg",
+          "width": 4813,
+          "height": 3613,
+          "license": "Public domain",
+          "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:GClef.svg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+          "width": 15,
+          "height": 41,
+          "license": "Public domain",
+          "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Howard McGhee, Brick Fleagle and Miles Davis, ca September 1947 (Gottlieb).jpg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:Howard_McGhee,_Brick_Fleagle_and_Miles_Davis,_ca_September_1947_(Gottlieb).jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Howard_McGhee%2C_Brick_Fleagle_and_Miles_Davis%2C_ca_September_1947_%28Gottlieb%29.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Howard_McGhee%2C_Brick_Fleagle_and_Miles_Davis%2C_ca_September_1947_%28Gottlieb%29.jpg/960px-Howard_McGhee%2C_Brick_Fleagle_and_Miles_Davis%2C_ca_September_1947_%28Gottlieb%29.jpg",
+          "width": 4895,
+          "height": 5130,
+          "license": "Public domain",
+          "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Miles-Davis-1964-Helsinki.jpg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:Miles-Davis-1964-Helsinki.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Miles-Davis-1964-Helsinki.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Miles-Davis-1964-Helsinki.jpg",
+          "width": 540,
+          "height": 539,
+          "license": "Public domain",
+          "author": "\u003cdiv class=\"fn value\"\u003e\nReijo Koskinen / Lehtikuva\u003c/div\u003e"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:MilesDavisYouthHouse.EastStLouis.17thStreetandKansasAvenue.3.jpg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:MilesDavisYouthHouse.EastStLouis.17thStreetandKansasAvenue.3.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/MilesDavisYouthHouse.EastStLouis.17thStreetandKansasAvenue.3.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MilesDavisYouthHouse.EastStLouis.17thStreetandKansasAvenue.3.jpg/960px-MilesDavisYouthHouse.EastStLouis.17thStreetandKansasAvenue.3.jpg",
+          "width": 2592,
+          "height": 1936,
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Bastoszak\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Bastoszak (page does not exist)\"\u003eBastoszak\u003c/a\u003e"
+        }
+      ],
+      "last_updated": "2026-03-27"
     },
     "miles-davis-quintet": {
       "slug": "miles-davis-quintet",
@@ -3817,6 +3939,84 @@
         "uk",
         "vyrzukhisuc-album",
         "winter"
+      ],
+      "wikipedia_title": "Radiohead",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Radiohead",
+      "summary": "Radiohead are an English rock band formed in Abingdon, Oxfordshire, in 1985. The band members are Thom Yorke ; the brothers Jonny Greenwood and Colin Greenwood (bass); Ed O'Brien ; and Philip Selway (drums). They have worked with the producer Nigel Godrich and the cover artist Stanley Donwood since 1994. Radiohead's experimental approach is credited with advancing the sound of alternative rock.",
+      "status": "matched",
+      "candidates": [
+        "Radiohead"
+      ],
+      "attribution": {
+        "source": "wikipedia",
+        "page_title": "Radiohead",
+        "page_url": "https://en.wikipedia.org/wiki/Radiohead",
+        "retrieved_at": "2026-03-27T08:33:50Z"
+      },
+      "image": {
+        "source": "wikimedia-commons",
+        "file_title": "File:Abingdon School, Abingdon, Oxfordshire, England-23April2011.jpg",
+        "file_page_url": "https://commons.wikimedia.org/wiki/File:Abingdon_School,_Abingdon,_Oxfordshire,_England-23April2011.jpg",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg/960px-Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+        "width": 2551,
+        "height": 1197,
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16801915@N06\"\u003eReading Tom\u003c/a\u003e from Reading, UK"
+      },
+      "image_candidates": [
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Abingdon School, Abingdon, Oxfordshire, England-23April2011.jpg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:Abingdon_School,_Abingdon,_Oxfordshire,_England-23April2011.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg/960px-Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+          "width": 2551,
+          "height": 1197,
+          "license": "CC BY 2.0",
+          "license_url": "https://creativecommons.org/licenses/by/2.0",
+          "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16801915@N06\"\u003eReading Tom\u003c/a\u003e from Reading, UK"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:CLIVE DEAMER pic Pete Judge.jpg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:CLIVE_DEAMER_pic_Pete_Judge.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/CLIVE_DEAMER_pic_Pete_Judge.jpg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CLIVE_DEAMER_pic_Pete_Judge.jpg/960px-CLIVE_DEAMER_pic_Pete_Judge.jpg",
+          "width": 2448,
+          "height": 3264,
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Clevermedia\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Clevermedia (page does not exist)\"\u003eClevermedia\u003c/a\u003e"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Cscr-featured.svg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+          "width": 466,
+          "height": 443,
+          "license": "LGPL",
+          "license_url": "http://www.gnu.org/licenses/lgpl.html",
+          "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Everything In Its Right Place.ogg"
+        },
+        {
+          "source": "wikimedia-commons",
+          "file_title": "File:Gnome-mime-sound-openclipart.svg",
+          "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+          "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+          "width": 160,
+          "height": 160,
+          "license": "Public domain",
+          "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+        }
       ],
       "last_updated": "2026-03-27"
     },

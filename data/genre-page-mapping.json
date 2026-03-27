@@ -1,0 +1,17 @@
+{
+  "ambient": {
+    "page_title": "Ambient music"
+  },
+  "country": {
+    "page_title": "Country music"
+  },
+  "electronic": {
+    "page_title": "Electronic music"
+  },
+  "hip-hop": {
+    "page_title": "Hip hop music"
+  },
+  "rock": {
+    "page_title": "Rock music"
+  }
+}

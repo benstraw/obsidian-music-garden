@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Miles%20Davis",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Miles%20Davis",
+  "cache_key": "summaries/artist--miles-davis",
+  "fetched_at": "2026-03-27T08:35:32Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

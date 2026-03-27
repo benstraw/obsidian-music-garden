@@ -59,6 +59,8 @@ Default rule:
 
 Engineering implications:
 - store source page URLs for text excerpts/summaries
+- store retrieved Wikipedia page title and canonical URL with every saved
+  summary so downstream attribution can be attached later
 - if an image is ever ingested, also store:
   - source file page
   - creator/author
@@ -107,6 +109,12 @@ Default assumptions:
 - Spotify images: no
 - Wikimedia Commons images: maybe, after file review
 - MusicBrainz-related cover art: separate review required
+
+For the current genre-enrichment pipeline:
+- Wikipedia summaries are editorial seed data, not automatically approved
+  publishable copy
+- Commons image metadata is useful for review, but downstream use still needs a
+  file-level decision before public publication
 
 ## Safe defaults for implementation
 

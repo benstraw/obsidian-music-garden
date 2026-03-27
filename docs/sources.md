@@ -70,6 +70,13 @@ Operational rule for this repo:
 - Keep Wikipedia/Wikimedia text clearly source-labeled.
 - If text is redistributed in public downstream content, carry attribution and
   review share-alike implications.
+- Current pipeline behavior:
+  - genre editorial enrichment searches Wikipedia by genre name and stores the
+    raw search and summary responses under `data/raw/wikipedia/`
+  - normalized genre records preserve page title, summary, canonical URL, and
+    source attribution metadata
+  - ambiguous or missing results are stored as explicit statuses instead of
+    silently choosing a weak match
 
 ### Wikimedia Commons images
 
@@ -82,6 +89,11 @@ Operational rule for this repo:
 Operational rule for this repo:
 - Never treat Commons as one blanket image license.
 - Store source page, author, and license metadata with each reused image.
+- Current pipeline behavior:
+  - Commons image lookup is optional and only runs when a Wikipedia genre page
+    has an image candidate
+  - if image metadata is found, the normalized genre record stores file page
+    URL, author, license, and attribution text for downstream review
 
 ### setlist.fm
 

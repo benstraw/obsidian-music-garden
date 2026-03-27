@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"encoding/json"
 	"flag"
 	"fmt"
 	"os"
@@ -13,11 +14,13 @@ import (
 
 	"github.com/benstraw/music-garden/internal/auth"
 	"github.com/benstraw/music-garden/internal/client"
+	mwclient "github.com/benstraw/music-garden/internal/clients/mediawiki"
 	mbclient "github.com/benstraw/music-garden/internal/clients/musicbrainz"
 	"github.com/benstraw/music-garden/internal/datalayer"
 	"github.com/benstraw/music-garden/internal/fetch"
 	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/models"
+	mwnormalize "github.com/benstraw/music-garden/internal/normalize/mediawiki"
 	mbnormalize "github.com/benstraw/music-garden/internal/normalize/musicbrainz"
 	"github.com/benstraw/music-garden/internal/plays"
 	"github.com/benstraw/music-garden/internal/render"
@@ -81,6 +84,10 @@ func main() {
 		runMusicBrainzEnrichArtist(args, paths)
 	case "musicbrainz-enrich-album":
 		runMusicBrainzEnrichAlbum(args, paths)
+	case "wikipedia-enrich-genre":
+		runWikipediaEnrichGenre(args, paths)
+	case "wikipedia-enrich-artist":
+		runWikipediaEnrichArtist(args, paths)
 	case "doctor":
 		os.Exit(runDoctor(paths))
 	case "version", "--version":
@@ -110,6 +117,8 @@ Usage:
   music-garden setlist <artist> [--date DATE] Look up setlist on setlist.fm (default: today)
   music-garden musicbrainz-enrich-artist      Enrich one canonical artist from a Spotify seed
   music-garden musicbrainz-enrich-album       Enrich one canonical release from a Spotify album seed
+  music-garden wikipedia-enrich-genre         Enrich one canonical genre slug from Wikipedia/Wikimedia
+  music-garden wikipedia-enrich-artist        Enrich one canonical artist slug from Wikipedia/Wikimedia
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
 
@@ -459,6 +468,17 @@ func getMusicBrainzClient(paths runtimePaths) (*mbclient.Client, error) {
 	})
 }
 
+func getMediaWikiClient(paths runtimePaths) (*mwclient.Client, error) {
+	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
+		return nil, err
+	}
+	return mwclient.NewClient(mwclient.Config{
+		UserAgent: fmt.Sprintf("obsidian-music-garden/%s ( https://github.com/benstraw/obsidian-music-garden )", version),
+		CacheDir:  filepath.Join(paths.dataRoot, "raw", "wikipedia"),
+		CacheTTL:  7 * 24 * time.Hour,
+	})
+}
+
 func writeRawMusicBrainz(paths runtimePaths, kind, stem string, resultEndpoint, requestURL string, fetchedAt time.Time, body []byte, fromCache bool) {
 	if len(body) == 0 {
 		return
@@ -478,6 +498,28 @@ func writeRawMusicBrainz(paths runtimePaths, kind, stem string, resultEndpoint, 
 	}, body)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: write raw MusicBrainz %s snapshot: %v\n", kind, err)
+	}
+}
+
+func writeRawWikipedia(paths runtimePaths, kind, stem string, endpoint, requestURL string, fetchedAt time.Time, body []byte, fromCache bool) {
+	if len(body) == 0 {
+		return
+	}
+	status := "fetched"
+	if fromCache {
+		status = "cached"
+	}
+	_, _, err := datalayer.WriteRawWikipediaResponse(paths.dataRoot, kind, stem, datalayer.RawFetchManifest{
+		Source:      "wikipedia",
+		Endpoint:    endpoint,
+		RequestURL:  requestURL,
+		CacheKey:    filepath.Join(kind, stem),
+		FetchedAt:   fetchedAt.UTC().Format(time.RFC3339),
+		Status:      status,
+		ContentType: "application/json",
+	}, body)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write raw Wikipedia %s snapshot: %v\n", kind, err)
 	}
 }
 
@@ -1101,6 +1143,333 @@ func pickReleaseGroupMatch(seedArtist, seedRelease string, matches []mbclient.Se
 		}
 	}
 	return matches[0]
+}
+
+func runWikipediaEnrichGenre(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("wikipedia-enrich-genre", flag.ExitOnError)
+	slug := fs.String("slug", "", "canonical genre slug")
+	mappingPath := fs.String("mapping", defaultGenreMappingPath(paths), "genre mapping JSON path")
+	_ = fs.Parse(args)
+
+	if strings.TrimSpace(*slug) == "" {
+		fmt.Fprintln(os.Stderr, "--slug is required")
+		os.Exit(1)
+	}
+
+	client, err := getMediaWikiClient(paths)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "mediawiki client error:", err)
+		os.Exit(1)
+	}
+
+	mapping, err := loadGenrePageMapping(*mappingPath)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "genre mapping error:", err)
+		os.Exit(1)
+	}
+	seed := mapping[strings.TrimSpace(*slug)]
+	seed.CanonicalSlug = strings.TrimSpace(*slug)
+	if seed.SearchTerm == "" {
+		seed.SearchTerm = strings.ReplaceAll(seed.CanonicalSlug, "-", " ")
+	}
+
+	store := loadGenreStore(paths)
+	fetchedAt := time.Now().UTC()
+	var pageTitle string
+	var candidates []string
+
+	if seed.PageTitle != "" {
+		pageTitle = seed.PageTitle
+		candidates = []string{seed.PageTitle}
+	} else {
+		search, err := client.SearchPages(seed.SearchTerm)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "wikipedia search error:", err)
+			os.Exit(1)
+		}
+		searchStem := genres.Slug(seed.CanonicalSlug)
+		writeRawWikipedia(paths, "search", searchStem, search.Endpoint, search.RequestURL, search.FetchedAt, search.Body, search.FromCache)
+		candidates = make([]string, 0, len(search.Value))
+		for _, candidate := range search.Value {
+			candidates = append(candidates, candidate.Title)
+		}
+		pageTitle, err = chooseWikipediaPageTitle(seed, search.Value)
+		if err != nil {
+			normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, unresolvedStatus(search.Value), candidates, fetchedAt)
+			_ = datalayer.WriteNormalizedWikipediaGenre(paths.dataRoot, seed.CanonicalSlug, normalized)
+			genres.UpsertGenreEditorial(store, record)
+			saveGenreStore(paths, store)
+			fmt.Printf("Genre %q not auto-resolved (%s)\n", seed.CanonicalSlug, unresolvedStatus(search.Value))
+			return
+		}
+	}
+
+	summary, err := client.GetSummary(pageTitle)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "wikipedia summary error:", err)
+		os.Exit(1)
+	}
+	summaryStem := genres.Slug(seed.CanonicalSlug)
+	writeRawWikipedia(paths, "summaries", summaryStem, summary.Endpoint, summary.RequestURL, summary.FetchedAt, summary.Body, summary.FromCache)
+	if summary.Value.Type == "disambiguation" {
+		normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, "ambiguous", candidates, fetchedAt)
+		_ = datalayer.WriteNormalizedWikipediaGenre(paths.dataRoot, seed.CanonicalSlug, normalized)
+		genres.UpsertGenreEditorial(store, record)
+		saveGenreStore(paths, store)
+		fmt.Printf("Genre %q resolved to a disambiguation page; add a page_title override to %s\n", seed.CanonicalSlug, *mappingPath)
+		return
+	}
+
+	imageInfos := collectWikipediaImageCandidates(paths, client, pageTitle, summaryStem)
+	normalized, record := mwnormalize.NormalizeMatchedGenre(seed, summary.Value, candidates, imageInfos, fetchedAt)
+	if err := datalayer.WriteNormalizedWikipediaGenre(paths.dataRoot, seed.CanonicalSlug, normalized); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write normalized wikipedia genre: %v\n", err)
+	}
+	genres.UpsertGenreEditorial(store, record)
+	saveGenreStore(paths, store)
+	fmt.Printf("Enriched genre %q with %q\n", seed.CanonicalSlug, record.WikipediaTitle)
+}
+
+func runWikipediaEnrichArtist(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("wikipedia-enrich-artist", flag.ExitOnError)
+	slug := fs.String("slug", "", "canonical artist slug")
+	mappingPath := fs.String("mapping", defaultArtistMappingPath(paths), "artist mapping JSON path")
+	_ = fs.Parse(args)
+
+	if strings.TrimSpace(*slug) == "" {
+		fmt.Fprintln(os.Stderr, "--slug is required")
+		os.Exit(1)
+	}
+
+	client, err := getMediaWikiClient(paths)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "mediawiki client error:", err)
+		os.Exit(1)
+	}
+
+	store := loadGenreStore(paths)
+	artist, ok := store.Artists[strings.TrimSpace(*slug)]
+	if !ok {
+		fmt.Fprintf(os.Stderr, "artist slug not found in canonical store: %s\n", strings.TrimSpace(*slug))
+		os.Exit(1)
+	}
+
+	mapping, err := loadArtistPageMapping(*mappingPath)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "artist mapping error:", err)
+		os.Exit(1)
+	}
+	seed := mapping[strings.TrimSpace(*slug)]
+	seed.CanonicalSlug = strings.TrimSpace(*slug)
+	if strings.TrimSpace(seed.Name) == "" {
+		seed.Name = artist.Name
+	}
+	if seed.SearchTerm == "" {
+		seed.SearchTerm = artist.Name
+	}
+
+	fetchedAt := time.Now().UTC()
+	var pageTitle string
+	var candidates []string
+
+	if seed.PageTitle != "" {
+		pageTitle = seed.PageTitle
+		candidates = []string{seed.PageTitle}
+	} else {
+		search, err := client.SearchPages(seed.SearchTerm)
+		if err != nil {
+			fmt.Fprintln(os.Stderr, "wikipedia search error:", err)
+			os.Exit(1)
+		}
+		searchStem := genres.Slug(seed.CanonicalSlug)
+		writeRawWikipedia(paths, "search", "artist--"+searchStem, search.Endpoint, search.RequestURL, search.FetchedAt, search.Body, search.FromCache)
+		candidates = make([]string, 0, len(search.Value))
+		for _, candidate := range search.Value {
+			candidates = append(candidates, candidate.Title)
+		}
+		pageTitle, err = chooseWikipediaArtistPageTitle(seed, search.Value)
+		if err != nil {
+			normalized, record := mwnormalize.NormalizeUnresolvedArtist(seed, unresolvedStatus(search.Value), candidates, fetchedAt)
+			if err := datalayer.WriteNormalizedWikipediaArtist(paths.dataRoot, seed.CanonicalSlug, normalized); err != nil {
+				fmt.Fprintf(os.Stderr, "warning: write normalized wikipedia artist: %v\n", err)
+			}
+			genres.UpsertArtistEditorial(store, seed.CanonicalSlug, record)
+			saveGenreStore(paths, store)
+			fmt.Printf("Artist %q not auto-resolved (%s)\n", seed.CanonicalSlug, unresolvedStatus(search.Value))
+			return
+		}
+	}
+
+	summary, err := client.GetSummary(pageTitle)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "wikipedia summary error:", err)
+		os.Exit(1)
+	}
+	summaryStem := genres.Slug(seed.CanonicalSlug)
+	writeRawWikipedia(paths, "summaries", "artist--"+summaryStem, summary.Endpoint, summary.RequestURL, summary.FetchedAt, summary.Body, summary.FromCache)
+	if summary.Value.Type == "disambiguation" {
+		normalized, record := mwnormalize.NormalizeUnresolvedArtist(seed, "ambiguous", candidates, fetchedAt)
+		if err := datalayer.WriteNormalizedWikipediaArtist(paths.dataRoot, seed.CanonicalSlug, normalized); err != nil {
+			fmt.Fprintf(os.Stderr, "warning: write normalized wikipedia artist: %v\n", err)
+		}
+		genres.UpsertArtistEditorial(store, seed.CanonicalSlug, record)
+		saveGenreStore(paths, store)
+		fmt.Printf("Artist %q resolved to a disambiguation page; add a page_title override to %s\n", seed.CanonicalSlug, *mappingPath)
+		return
+	}
+
+	imageInfos := collectWikipediaImageCandidates(paths, client, pageTitle, "artist--"+summaryStem)
+	normalized, record := mwnormalize.NormalizeMatchedArtist(seed, summary.Value, candidates, imageInfos, fetchedAt)
+	if err := datalayer.WriteNormalizedWikipediaArtist(paths.dataRoot, seed.CanonicalSlug, normalized); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: write normalized wikipedia artist: %v\n", err)
+	}
+	genres.UpsertArtistEditorial(store, seed.CanonicalSlug, record)
+	saveGenreStore(paths, store)
+	fmt.Printf("Enriched artist %q with %q\n", seed.CanonicalSlug, record.WikipediaTitle)
+}
+
+func defaultGenreMappingPath(paths runtimePaths) string {
+	cwdPath := filepath.Join(paths.cwd, "data", "genre-page-mapping.json")
+	if info, err := os.Stat(cwdPath); err == nil && !info.IsDir() {
+		return cwdPath
+	}
+	return filepath.Join(paths.dataRoot, "genre-page-mapping.json")
+}
+
+func defaultArtistMappingPath(paths runtimePaths) string {
+	cwdPath := filepath.Join(paths.cwd, "data", "artist-page-mapping.json")
+	if info, err := os.Stat(cwdPath); err == nil && !info.IsDir() {
+		return cwdPath
+	}
+	return filepath.Join(paths.dataRoot, "artist-page-mapping.json")
+}
+
+func loadGenrePageMapping(path string) (map[string]mwnormalize.GenreSeed, error) {
+	data, err := os.ReadFile(path)
+	if os.IsNotExist(err) {
+		return map[string]mwnormalize.GenreSeed{}, nil
+	}
+	if err != nil {
+		return nil, err
+	}
+	var mapping map[string]mwnormalize.GenreSeed
+	if err := json.Unmarshal(data, &mapping); err != nil {
+		return nil, err
+	}
+	return mapping, nil
+}
+
+func loadArtistPageMapping(path string) (map[string]mwnormalize.ArtistSeed, error) {
+	data, err := os.ReadFile(path)
+	if os.IsNotExist(err) {
+		return map[string]mwnormalize.ArtistSeed{}, nil
+	}
+	if err != nil {
+		return nil, err
+	}
+	var mapping map[string]mwnormalize.ArtistSeed
+	if err := json.Unmarshal(data, &mapping); err != nil {
+		return nil, err
+	}
+	return mapping, nil
+}
+
+func chooseWikipediaPageTitle(seed mwnormalize.GenreSeed, candidates []mwclient.SearchResult) (string, error) {
+	if len(candidates) == 0 {
+		return "", fmt.Errorf("no results")
+	}
+	if seed.PageTitle != "" {
+		for _, candidate := range candidates {
+			if strings.EqualFold(candidate.Title, seed.PageTitle) {
+				return candidate.Title, nil
+			}
+		}
+		return "", fmt.Errorf("configured page title %q not found", seed.PageTitle)
+	}
+	if len(candidates) == 1 {
+		return candidates[0].Title, nil
+	}
+	for _, candidate := range candidates {
+		if strings.EqualFold(candidate.Title, seed.SearchTerm) {
+			return candidate.Title, nil
+		}
+	}
+	return "", fmt.Errorf("ambiguous search results")
+}
+
+func chooseWikipediaArtistPageTitle(seed mwnormalize.ArtistSeed, candidates []mwclient.SearchResult) (string, error) {
+	if len(candidates) == 0 {
+		return "", fmt.Errorf("no results")
+	}
+	if seed.PageTitle != "" {
+		for _, candidate := range candidates {
+			if strings.EqualFold(candidate.Title, seed.PageTitle) {
+				return candidate.Title, nil
+			}
+		}
+		return "", fmt.Errorf("configured page title %q not found", seed.PageTitle)
+	}
+	if len(candidates) == 1 {
+		return candidates[0].Title, nil
+	}
+	for _, candidate := range candidates {
+		if strings.EqualFold(candidate.Title, seed.Name) || strings.EqualFold(candidate.Title, seed.SearchTerm) {
+			return candidate.Title, nil
+		}
+	}
+	return "", fmt.Errorf("ambiguous search results")
+}
+
+func unresolvedStatus(candidates []mwclient.SearchResult) string {
+	if len(candidates) == 0 {
+		return "not_found"
+	}
+	return "ambiguous"
+}
+
+func collectWikipediaImageCandidates(paths runtimePaths, client *mwclient.Client, pageTitle, stem string) []mwclient.ImageInfo {
+	var imageInfos []mwclient.ImageInfo
+	pageImages, err := client.GetPageImages(pageTitle)
+	if err != nil {
+		return nil
+	}
+	writeRawWikipedia(paths, "page-images", stem, pageImages.Endpoint, pageImages.RequestURL, pageImages.FetchedAt, pageImages.Body, pageImages.FromCache)
+	for _, fileTitle := range pageImages.Value {
+		if !strings.HasPrefix(fileTitle, "File:") || !isLikelyGenreEditorialImage(fileTitle) {
+			continue
+		}
+		info, infoErr := client.GetCommonsImageInfo(fileTitle)
+		if infoErr != nil {
+			continue
+		}
+		if !isLikelyGenreEditorialImage(info.Value.FileTitle) {
+			continue
+		}
+		writeRawWikipedia(paths, "commons-images", stem+"--"+genres.Slug(fileTitle), info.Endpoint, info.RequestURL, info.FetchedAt, info.Body, info.FromCache)
+		imageInfos = append(imageInfos, info.Value)
+		if len(imageInfos) >= 5 {
+			break
+		}
+	}
+	return imageInfos
+}
+
+func isLikelyGenreEditorialImage(fileTitle string) bool {
+	title := strings.ToLower(strings.TrimSpace(fileTitle))
+	if !strings.HasPrefix(title, "file:") {
+		return false
+	}
+	denylist := []string{
+		"lock", "padlock", "icon", "logo", "symbol", "emblem",
+		"wiktionary", "wikiquote", "commons-logo", "disambig",
+		"question_book", "help", "portal-puzzle", "nuvola",
+	}
+	for _, blocked := range denylist {
+		if strings.Contains(title, blocked) {
+			return false
+		}
+	}
+	return true
 }
 
 func runPersona(paths runtimePaths) {

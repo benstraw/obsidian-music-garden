@@ -15,13 +15,21 @@ import (
 
 // NormalizedArtistRecord models a source-cleaned artist before cross-source merge.
 type NormalizedArtistRecord struct {
-	Source              string   `json:"source"`
-	SourceArtistID      string   `json:"source_artist_id,omitempty"`
-	Name                string   `json:"name"`
-	SpotifyURL          string   `json:"spotify_url,omitempty"`
-	MusicBrainzArtistID string   `json:"musicbrainz_artist_id,omitempty"`
-	SourceGenres        []string `json:"source_genres,omitempty"`
-	CanonicalGenreSlugs []string `json:"canonical_genre_slugs,omitempty"`
+	Source              string                         `json:"source"`
+	SourceArtistID      string                         `json:"source_artist_id,omitempty"`
+	Name                string                         `json:"name"`
+	SpotifyURL          string                         `json:"spotify_url,omitempty"`
+	MusicBrainzArtistID string                         `json:"musicbrainz_artist_id,omitempty"`
+	SourceGenres        []string                       `json:"source_genres,omitempty"`
+	CanonicalGenreSlugs []string                       `json:"canonical_genre_slugs,omitempty"`
+	Status              string                         `json:"status,omitempty"`
+	PageTitle           string                         `json:"page_title,omitempty"`
+	Summary             string                         `json:"summary,omitempty"`
+	CanonicalURL        string                         `json:"canonical_url,omitempty"`
+	Candidates          []string                       `json:"candidates,omitempty"`
+	Attribution         *genres.GenreSourceAttribution `json:"attribution,omitempty"`
+	Image               *genres.GenreImageRecord       `json:"image,omitempty"`
+	ImageCandidates     []genres.GenreImageRecord      `json:"image_candidates,omitempty"`
 }
 
 // NormalizedReleaseRecord models a source-cleaned release before cross-source merge.
@@ -50,22 +58,38 @@ type NormalizedTrackRecord struct {
 
 // NormalizedGenreRecord models one source genre mapped into the garden taxonomy.
 type NormalizedGenreRecord struct {
-	Source             string `json:"source"`
-	SourceGenre        string `json:"source_genre"`
-	CanonicalGenreSlug string `json:"canonical_genre_slug,omitempty"`
+	Source             string                         `json:"source"`
+	SourceGenre        string                         `json:"source_genre"`
+	CanonicalGenreSlug string                         `json:"canonical_genre_slug,omitempty"`
+	Status             string                         `json:"status,omitempty"`
+	PageTitle          string                         `json:"page_title,omitempty"`
+	Summary            string                         `json:"summary,omitempty"`
+	CanonicalURL       string                         `json:"canonical_url,omitempty"`
+	Candidates         []string                       `json:"candidates,omitempty"`
+	Attribution        *genres.GenreSourceAttribution `json:"attribution,omitempty"`
+	Image              *genres.GenreImageRecord       `json:"image,omitempty"`
+	ImageCandidates    []genres.GenreImageRecord      `json:"image_candidates,omitempty"`
 }
 
 // AggregatedArtistRecord is the persisted canonical artist record.
 type AggregatedArtistRecord struct {
-	CanonicalSlug       string               `json:"canonical_slug"`
-	Name                string               `json:"name"`
-	SpotifyArtistID     string               `json:"spotify_artist_id,omitempty"`
-	MusicBrainzArtistID string               `json:"musicbrainz_artist_id,omitempty"`
-	SpotifyURL          string               `json:"spotify_url,omitempty"`
-	Genres              []string             `json:"genres,omitempty"`
-	SourceGenres        []string             `json:"source_genres,omitempty"`
-	Images              []models.ArtistImage `json:"images,omitempty"`
-	LastUpdated         string               `json:"last_updated,omitempty"`
+	CanonicalSlug       string                         `json:"canonical_slug"`
+	Name                string                         `json:"name"`
+	SpotifyArtistID     string                         `json:"spotify_artist_id,omitempty"`
+	MusicBrainzArtistID string                         `json:"musicbrainz_artist_id,omitempty"`
+	SpotifyURL          string                         `json:"spotify_url,omitempty"`
+	Genres              []string                       `json:"genres,omitempty"`
+	SourceGenres        []string                       `json:"source_genres,omitempty"`
+	Images              []models.ArtistImage           `json:"images,omitempty"`
+	Status              string                         `json:"status,omitempty"`
+	WikipediaTitle      string                         `json:"wikipedia_title,omitempty"`
+	WikipediaURL        string                         `json:"wikipedia_url,omitempty"`
+	Summary             string                         `json:"summary,omitempty"`
+	Candidates          []string                       `json:"candidates,omitempty"`
+	Attribution         *genres.GenreSourceAttribution `json:"attribution,omitempty"`
+	Image               *genres.GenreImageRecord       `json:"image,omitempty"`
+	ImageCandidates     []genres.GenreImageRecord      `json:"image_candidates,omitempty"`
+	LastUpdated         string                         `json:"last_updated,omitempty"`
 }
 
 // AggregatedReleaseRecord is the persisted canonical release record.
@@ -96,9 +120,18 @@ type AggregatedTrackRecord struct {
 
 // AggregatedGenreRecord is the persisted canonical genre record.
 type AggregatedGenreRecord struct {
-	CanonicalSlug string   `json:"canonical_slug"`
-	Aliases       []string `json:"aliases,omitempty"`
-	Pending       bool     `json:"pending"`
+	CanonicalSlug   string                         `json:"canonical_slug"`
+	Aliases         []string                       `json:"aliases,omitempty"`
+	Pending         bool                           `json:"pending"`
+	Status          string                         `json:"status,omitempty"`
+	WikipediaTitle  string                         `json:"wikipedia_title,omitempty"`
+	WikipediaURL    string                         `json:"wikipedia_url,omitempty"`
+	Summary         string                         `json:"summary,omitempty"`
+	Candidates      []string                       `json:"candidates,omitempty"`
+	Attribution     *genres.GenreSourceAttribution `json:"attribution,omitempty"`
+	Image           *genres.GenreImageRecord       `json:"image,omitempty"`
+	ImageCandidates []genres.GenreImageRecord      `json:"image_candidates,omitempty"`
+	LastUpdated     string                         `json:"last_updated,omitempty"`
 }
 
 // RawFetchManifest records how a raw source payload was fetched.
@@ -123,7 +156,10 @@ func EnsureLayout(dataRoot string) error {
 		filepath.Join(dataRoot, "raw", "musicbrainz", "release-group-search"),
 		filepath.Join(dataRoot, "raw", "musicbrainz", "release-groups"),
 		filepath.Join(dataRoot, "raw", "musicbrainz", "releases"),
-		filepath.Join(dataRoot, "raw", "wikipedia"),
+		filepath.Join(dataRoot, "raw", "wikipedia", "search"),
+		filepath.Join(dataRoot, "raw", "wikipedia", "summaries"),
+		filepath.Join(dataRoot, "raw", "wikipedia", "page-images"),
+		filepath.Join(dataRoot, "raw", "wikipedia", "commons-images"),
 		filepath.Join(dataRoot, "normalized", "artists"),
 		filepath.Join(dataRoot, "normalized", "releases"),
 		filepath.Join(dataRoot, "normalized", "tracks"),
@@ -202,6 +238,35 @@ func WriteNormalizedMusicBrainzGenres(dataRoot string, records []NormalizedGenre
 	return nil
 }
 
+// WriteRawWikipediaResponse stores a deterministic Wikipedia/Wikimedia payload and manifest.
+func WriteRawWikipediaResponse(dataRoot, kind, stem string, manifest RawFetchManifest, body []byte) (string, string, error) {
+	dir := filepath.Join(dataRoot, "raw", "wikipedia", kind)
+	if err := os.MkdirAll(dir, 0755); err != nil {
+		return "", "", err
+	}
+	payloadPath := filepath.Join(dir, stem+".json")
+	manifestPath := filepath.Join(dir, stem+".manifest.json")
+	if err := os.WriteFile(payloadPath, body, 0644); err != nil {
+		return "", "", err
+	}
+	if err := writeJSON(manifestPath, manifest); err != nil {
+		return "", "", err
+	}
+	return payloadPath, manifestPath, nil
+}
+
+// WriteNormalizedWikipediaGenre stores a normalized editorial genre record.
+func WriteNormalizedWikipediaGenre(dataRoot, slug string, payload NormalizedGenreRecord) error {
+	path := filepath.Join(dataRoot, "normalized", "genres", "wikipedia--"+slug+".json")
+	return writeJSON(path, payload)
+}
+
+// WriteNormalizedWikipediaArtist stores a normalized editorial artist record.
+func WriteNormalizedWikipediaArtist(dataRoot, slug string, payload NormalizedArtistRecord) error {
+	path := filepath.Join(dataRoot, "normalized", "artists", "wikipedia--"+slug+".json")
+	return writeJSON(path, payload)
+}
+
 func writeRaw(path string, body []byte) (string, error) {
 	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
 		return "", err
@@ -272,6 +337,14 @@ func writeNormalizedArtists(dir string, store *genres.Store) error {
 			MusicBrainzArtistID: record.MusicBrainzArtistID,
 			SourceGenres:        record.SourceGenres,
 			CanonicalGenreSlugs: record.Genres,
+			Status:              record.Status,
+			PageTitle:           record.WikipediaTitle,
+			Summary:             record.Summary,
+			CanonicalURL:        record.WikipediaURL,
+			Candidates:          append([]string(nil), record.Candidates...),
+			Attribution:         record.Attribution,
+			Image:               record.Image,
+			ImageCandidates:     append([]genres.GenreImageRecord(nil), record.ImageCandidates...),
 		}
 		if err := writeJSON(path, payload); err != nil {
 			return err
@@ -357,6 +430,14 @@ func writeAggregatedArtists(dir string, store *genres.Store) error {
 			Genres:              record.Genres,
 			SourceGenres:        record.SourceGenres,
 			Images:              record.Images,
+			Status:              record.Status,
+			WikipediaTitle:      record.WikipediaTitle,
+			WikipediaURL:        record.WikipediaURL,
+			Summary:             record.Summary,
+			Candidates:          append([]string(nil), record.Candidates...),
+			Attribution:         record.Attribution,
+			Image:               record.Image,
+			ImageCandidates:     append([]genres.GenreImageRecord(nil), record.ImageCandidates...),
 			LastUpdated:         record.LastUpdated,
 		}
 		if err := writeJSON(path, payload); err != nil {
@@ -439,6 +520,17 @@ func writeAggregatedGenres(dir string, store *genres.Store) error {
 			CanonicalSlug: slug,
 			Aliases:       aliases,
 			Pending:       seenPending[slug],
+		}
+		if record, ok := genres.GenreEditorial(store, slug); ok {
+			payload.Status = record.Status
+			payload.WikipediaTitle = record.WikipediaTitle
+			payload.WikipediaURL = record.WikipediaURL
+			payload.Summary = record.Summary
+			payload.Candidates = append([]string(nil), record.Candidates...)
+			payload.Attribution = record.Attribution
+			payload.Image = record.Image
+			payload.ImageCandidates = append([]genres.GenreImageRecord(nil), record.ImageCandidates...)
+			payload.LastUpdated = record.LastUpdated
 		}
 		if err := writeJSON(filepath.Join(dir, slug+".json"), payload); err != nil {
 			return err

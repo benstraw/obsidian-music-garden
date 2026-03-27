@@ -12,13 +12,14 @@ import (
 	"github.com/benstraw/music-garden/internal/models"
 )
 
-const currentVersion = 3
+const currentVersion = 4
 
 // Store holds canonical artist/release metadata plus genre alias decisions.
 type Store struct {
 	Version             int                      `json:"version"`
 	GenreAliases        map[string]string        `json:"genre_aliases,omitempty"`
 	PendingGenreAliases []string                 `json:"pending_genre_aliases,omitempty"`
+	GenreRecords        map[string]GenreRecord   `json:"genre_records,omitempty"`
 	Artists             map[string]ArtistRecord  `json:"artists,omitempty"`
 	ArtistSourceIndex   map[string]string        `json:"artist_source_index,omitempty"`
 	Releases            map[string]ReleaseRecord `json:"releases,omitempty"`
@@ -29,15 +30,23 @@ type Store struct {
 
 // ArtistRecord is the canonical metadata record for one artist.
 type ArtistRecord struct {
-	Slug                string               `json:"slug"`
-	Name                string               `json:"name"`
-	SpotifyArtistID     string               `json:"spotify_artist_id,omitempty"`
-	MusicBrainzArtistID string               `json:"musicbrainz_artist_id,omitempty"`
-	SpotifyURL          string               `json:"spotify_url,omitempty"`
-	Genres              []string             `json:"genres,omitempty"`
-	SourceGenres        []string             `json:"source_genres,omitempty"`
-	Images              []models.ArtistImage `json:"images,omitempty"`
-	LastUpdated         string               `json:"last_updated,omitempty"`
+	Slug                string                  `json:"slug"`
+	Name                string                  `json:"name"`
+	SpotifyArtistID     string                  `json:"spotify_artist_id,omitempty"`
+	MusicBrainzArtistID string                  `json:"musicbrainz_artist_id,omitempty"`
+	SpotifyURL          string                  `json:"spotify_url,omitempty"`
+	Genres              []string                `json:"genres,omitempty"`
+	SourceGenres        []string                `json:"source_genres,omitempty"`
+	Images              []models.ArtistImage    `json:"images,omitempty"`
+	WikipediaTitle      string                  `json:"wikipedia_title,omitempty"`
+	WikipediaURL        string                  `json:"wikipedia_url,omitempty"`
+	Summary             string                  `json:"summary,omitempty"`
+	Status              string                  `json:"status,omitempty"`
+	Candidates          []string                `json:"candidates,omitempty"`
+	Attribution         *GenreSourceAttribution `json:"attribution,omitempty"`
+	Image               *GenreImageRecord       `json:"image,omitempty"`
+	ImageCandidates     []GenreImageRecord      `json:"image_candidates,omitempty"`
+	LastUpdated         string                  `json:"last_updated,omitempty"`
 }
 
 // ReleaseRecord is the canonical metadata record for one release/album.
@@ -66,6 +75,46 @@ type TrackRecord struct {
 	LastUpdated        string `json:"last_updated,omitempty"`
 }
 
+// GenreSourceAttribution preserves editorial/source provenance for a genre.
+type GenreSourceAttribution struct {
+	Source          string `json:"source,omitempty"`
+	PageTitle       string `json:"page_title,omitempty"`
+	PageURL         string `json:"page_url,omitempty"`
+	License         string `json:"license,omitempty"`
+	LicenseURL      string `json:"license_url,omitempty"`
+	AttributionText string `json:"attribution_text,omitempty"`
+	RetrievedAt     string `json:"retrieved_at,omitempty"`
+}
+
+// GenreImageRecord stores optional image metadata for a canonical genre page.
+type GenreImageRecord struct {
+	Source          string `json:"source,omitempty"`
+	FileTitle       string `json:"file_title,omitempty"`
+	FilePageURL     string `json:"file_page_url,omitempty"`
+	ImageURL        string `json:"image_url,omitempty"`
+	ThumbnailURL    string `json:"thumbnail_url,omitempty"`
+	Width           int    `json:"width,omitempty"`
+	Height          int    `json:"height,omitempty"`
+	License         string `json:"license,omitempty"`
+	LicenseURL      string `json:"license_url,omitempty"`
+	Author          string `json:"author,omitempty"`
+	AttributionText string `json:"attribution_text,omitempty"`
+}
+
+// GenreRecord stores canonical editorial metadata for one genre page.
+type GenreRecord struct {
+	Slug            string                  `json:"slug"`
+	WikipediaTitle  string                  `json:"wikipedia_title,omitempty"`
+	WikipediaURL    string                  `json:"wikipedia_url,omitempty"`
+	Summary         string                  `json:"summary,omitempty"`
+	Status          string                  `json:"status,omitempty"`
+	Candidates      []string                `json:"candidates,omitempty"`
+	Attribution     *GenreSourceAttribution `json:"attribution,omitempty"`
+	Image           *GenreImageRecord       `json:"image,omitempty"`
+	ImageCandidates []GenreImageRecord      `json:"image_candidates,omitempty"`
+	LastUpdated     string                  `json:"last_updated,omitempty"`
+}
+
 type legacyEntry struct {
 	Name        string               `json:"name"`
 	Genres      []string             `json:"genres"`
@@ -77,6 +126,7 @@ func NewStore() *Store {
 	return &Store{
 		Version:            currentVersion,
 		GenreAliases:       defaultGenreAliases(),
+		GenreRecords:       map[string]GenreRecord{},
 		Artists:            map[string]ArtistRecord{},
 		ArtistSourceIndex:  map[string]string{},
 		Releases:           map[string]ReleaseRecord{},
@@ -135,6 +185,42 @@ func Save(path string, store *Store) error {
 		return err
 	}
 	return os.WriteFile(path, data, 0644)
+}
+
+// UpsertGenreEditorial merges Wikipedia/Wikimedia editorial metadata into a canonical genre record.
+func UpsertGenreEditorial(store *Store, record GenreRecord) GenreRecord {
+	normalizeStore(store)
+	if record.Slug == "" {
+		return GenreRecord{}
+	}
+	existing := store.GenreRecords[record.Slug]
+	existing.Slug = record.Slug
+	existing.WikipediaTitle = firstNonEmpty(record.WikipediaTitle, existing.WikipediaTitle)
+	existing.WikipediaURL = firstNonEmpty(record.WikipediaURL, existing.WikipediaURL)
+	existing.Summary = firstNonEmpty(record.Summary, existing.Summary)
+	existing.Status = firstNonEmpty(record.Status, existing.Status)
+	if len(record.Candidates) > 0 {
+		existing.Candidates = dedupeSortedStrings(record.Candidates)
+	}
+	if record.Attribution != nil {
+		existing.Attribution = record.Attribution
+	}
+	if record.Image != nil {
+		existing.Image = record.Image
+	}
+	if len(record.ImageCandidates) > 0 {
+		existing.ImageCandidates = dedupeGenreImages(record.ImageCandidates)
+	}
+	existing.LastUpdated = today()
+	store.GenreRecords[record.Slug] = existing
+	return existing
+}
+
+// GenreEditorial returns the canonical editorial record for a genre slug, if any.
+func GenreEditorial(store *Store, slug string) (GenreRecord, bool) {
+	normalizeStore(store)
+	record, ok := store.GenreRecords[slug]
+	return record, ok
 }
 
 // ResolvePlay fills garden-owned canonical IDs on a play while preserving
@@ -244,6 +330,34 @@ func UpsertArtistMetadata(store *Store, spotifyID, name, spotifyURL, musicBrainz
 	record.LastUpdated = today()
 	store.Artists[record.Slug] = record
 	return record
+}
+
+// UpsertArtistEditorial merges Wikipedia/Wikimedia editorial metadata into a canonical artist record.
+func UpsertArtistEditorial(store *Store, slug string, record ArtistRecord) ArtistRecord {
+	normalizeStore(store)
+	base, ok := store.Artists[slug]
+	if !ok {
+		base = ArtistRecord{Slug: slug, Name: record.Name}
+	}
+	base.WikipediaTitle = firstNonEmpty(record.WikipediaTitle, base.WikipediaTitle)
+	base.WikipediaURL = firstNonEmpty(record.WikipediaURL, base.WikipediaURL)
+	base.Summary = firstNonEmpty(record.Summary, base.Summary)
+	base.Status = firstNonEmpty(record.Status, base.Status)
+	if len(record.Candidates) > 0 {
+		base.Candidates = dedupeSortedStrings(record.Candidates)
+	}
+	if record.Attribution != nil {
+		base.Attribution = record.Attribution
+	}
+	if record.Image != nil {
+		base.Image = record.Image
+	}
+	if len(record.ImageCandidates) > 0 {
+		base.ImageCandidates = dedupeGenreImages(record.ImageCandidates)
+	}
+	base.LastUpdated = today()
+	store.Artists[slug] = base
+	return base
 }
 
 // UpsertReleaseMetadata merges source metadata into a canonical release record.
@@ -705,11 +819,28 @@ func normalizeStore(store *Store) {
 	if store.GenreAliases == nil {
 		store.GenreAliases = map[string]string{}
 	}
+	if store.GenreRecords == nil {
+		store.GenreRecords = map[string]GenreRecord{}
+	}
 	for key, value := range defaultGenreAliases() {
 		if _, ok := store.GenreAliases[key]; !ok {
 			store.GenreAliases[key] = value
 		}
 	}
+}
+
+func dedupeGenreImages(images []GenreImageRecord) []GenreImageRecord {
+	seen := map[string]bool{}
+	result := make([]GenreImageRecord, 0, len(images))
+	for _, image := range images {
+		key := firstNonEmpty(image.FileTitle, image.FilePageURL, image.ImageURL, image.ThumbnailURL)
+		if key == "" || seen[key] {
+			continue
+		}
+		seen[key] = true
+		result = append(result, image)
+	}
+	return result
 }
 
 func defaultGenreAliases() map[string]string {

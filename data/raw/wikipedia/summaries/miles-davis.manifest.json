@@ -1,0 +1,6 @@
+{
+  "endpoint": "/page/summary/Miles%20Davis",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Miles%20Davis",
+  "fetched_at": "2026-03-27T08:35:32Z",
+  "content_type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\""
+}

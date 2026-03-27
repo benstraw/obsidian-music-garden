@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3ACharlie+Parker%2C+Tommy+Potter%2C+Miles+Davis%2C+Duke+Jordan%2C+Max+Roach+%28Gottlieb+06851%29.jpg",
+  "cache_key": "commons-images/artist--miles-davis--file-charlie-parker-tommy-potter-miles-davis-duke-jordan-max-roach-gottlieb-06851-jpg",
+  "fetched_at": "2026-03-27T08:35:32Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

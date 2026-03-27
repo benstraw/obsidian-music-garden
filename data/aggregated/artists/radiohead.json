@@ -74,5 +74,83 @@
     "vyrzukhisuc-album",
     "winter"
   ],
+  "status": "matched",
+  "wikipedia_title": "Radiohead",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Radiohead",
+  "summary": "Radiohead are an English rock band formed in Abingdon, Oxfordshire, in 1985. The band members are Thom Yorke ; the brothers Jonny Greenwood and Colin Greenwood (bass); Ed O'Brien ; and Philip Selway (drums). They have worked with the producer Nigel Godrich and the cover artist Stanley Donwood since 1994. Radiohead's experimental approach is credited with advancing the sound of alternative rock.",
+  "candidates": [
+    "Radiohead"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Radiohead",
+    "page_url": "https://en.wikipedia.org/wiki/Radiohead",
+    "retrieved_at": "2026-03-27T08:33:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Abingdon School, Abingdon, Oxfordshire, England-23April2011.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Abingdon_School,_Abingdon,_Oxfordshire,_England-23April2011.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg/960px-Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+    "width": 2551,
+    "height": 1197,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16801915@N06\"\u003eReading Tom\u003c/a\u003e from Reading, UK"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Abingdon School, Abingdon, Oxfordshire, England-23April2011.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Abingdon_School,_Abingdon,_Oxfordshire,_England-23April2011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg/960px-Abingdon_School%2C_Abingdon%2C_Oxfordshire%2C_England-23April2011.jpg",
+      "width": 2551,
+      "height": 1197,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16801915@N06\"\u003eReading Tom\u003c/a\u003e from Reading, UK"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CLIVE DEAMER pic Pete Judge.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CLIVE_DEAMER_pic_Pete_Judge.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/CLIVE_DEAMER_pic_Pete_Judge.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CLIVE_DEAMER_pic_Pete_Judge.jpg/960px-CLIVE_DEAMER_pic_Pete_Judge.jpg",
+      "width": 2448,
+      "height": 3264,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Clevermedia\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Clevermedia (page does not exist)\"\u003eClevermedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Everything In Its Right Place.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ],
   "last_updated": "2026-03-27"
 }
