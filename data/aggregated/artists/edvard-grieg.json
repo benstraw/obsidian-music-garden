@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "edvard-grieg",
+  "name": "Edvard Grieg",
+  "spotify_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
+  "source_genres": [
+    "classical",
+    "classical piano"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a5dc4df4f87b534afc7b21116bc7680492210656",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/d9d8fdedfd9e68b36e0028d9997f6a9065c09481",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/9dc1d187b3c797c0f36258faacbc1e723e7c2858",
+      "height": 315,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/3a1c45a348e4f7115f10f2df6d553e2203882722",
+      "height": 101,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

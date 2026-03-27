@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "john-prine",
+  "name": "John Prine",
+  "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "alt country",
+    "americana",
+    "folk",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf109851845669becdc5c63f6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f109851845669becdc5c63f6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f109851845669becdc5c63f6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

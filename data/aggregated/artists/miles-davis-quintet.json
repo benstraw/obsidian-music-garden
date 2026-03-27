@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "miles-davis-quintet",
+  "name": "Miles Davis Quintet",
+  "spotify_artist_id": "71Ur25Abq58vksqJINpGdx",
+  "source_genres": [
+    "bebop",
+    "cool jazz",
+    "hard bop",
+    "jazz",
+    "jazz ballads"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/7e2b6815b5973d47cccbad1d834089231d9b737e",
+      "height": 723,
+      "width": 999
+    },
+    {
+      "url": "https://i.scdn.co/image/399ee45e619648be6ce992228b79354f31b69999",
+      "height": 463,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/9c69550b77ce6f3d040f32122bff0325e0dddd3c",
+      "height": 145,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5b89bd24901e2d12347296e753027b70e0bfeacd",
+      "height": 46,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

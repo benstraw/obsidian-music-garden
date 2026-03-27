@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "emmylou-harris",
+  "name": "Emmylou Harris",
+  "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "alt country",
+    "americana",
+    "bluegrass",
+    "classic country",
+    "country rock",
+    "folk",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/41d9dddfce358cc92f8c1285ba1174c05e68af5b",
+      "height": 252,
+      "width": 338
+    },
+    {
+      "url": "https://i.scdn.co/image/4977208df13cec764b40cedb99d3c1ec16c62b15",
+      "height": 149,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d94dd0319fd89900c586aeed7e22b485e91b12e2",
+      "height": 48,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

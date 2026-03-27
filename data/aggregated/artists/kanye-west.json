@@ -1,0 +1,29 @@
+{
+  "canonical_slug": "kanye-west",
+  "name": "Kanye West",
+  "spotify_artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+  "genres": [
+    "rap"
+  ],
+  "source_genres": [
+    "rap"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051746e835a500e791bf9c27a422a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "slick-rick",
+  "name": "Slick Rick",
+  "spotify_artist_id": "1W9qOBYRTfP7HcizWN43G1",
+  "source_genres": [
+    "east coast hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb62e114bb9cc9dc8f85aa6f53",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517462e114bb9cc9dc8f85aa6f53",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17862e114bb9cc9dc8f85aa6f53",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

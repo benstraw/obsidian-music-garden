@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "trio-mocoto",
+  "name": "Trio Mocoto",
+  "spotify_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
+  "source_genres": [
+    "bossa nova",
+    "brazilian jazz",
+    "samba"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27343f24970fcc374daa0c35dcd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0243f24970fcc374daa0c35dcd",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485143f24970fcc374daa0c35dcd",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

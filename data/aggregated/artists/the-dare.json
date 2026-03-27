@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "the-dare",
+  "name": "The Dare",
+  "spotify_artist_id": "2mqiqsaX4LzFnUP7PmHGAb",
+  "source_genres": [
+    "electroclash"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb625f4eebd07e07e68e87b4f1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174625f4eebd07e07e68e87b4f1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178625f4eebd07e07e68e87b4f1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

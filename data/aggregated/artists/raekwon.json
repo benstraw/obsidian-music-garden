@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "raekwon",
+  "name": "Raekwon",
+  "spotify_artist_id": "2yQf6b8hxahZaT5dHlWaB1",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "boom bap",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd922d993d9c110580d51f724",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d922d993d9c110580d51f724",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d922d993d9c110580d51f724",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

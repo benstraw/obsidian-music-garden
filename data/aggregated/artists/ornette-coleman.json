@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "ornette-coleman",
+  "name": "Ornette Coleman",
+  "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
+  "source_genres": [
+    "avant-garde",
+    "bebop",
+    "experimental jazz",
+    "free jazz",
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ac30c28c9ba640db9c901cf45b5d429ca1ca0ead",
+      "height": 652,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/72d8babc708508903ecba158cbd884e4395648a8",
+      "height": 417,
+      "width": 639
+    },
+    {
+      "url": "https://i.scdn.co/image/3a173052efd916d1599747ee54d763f5efb9e79b",
+      "height": 130,
+      "width": 199
+    },
+    {
+      "url": "https://i.scdn.co/image/24e20707215173d5cc6399a451ef2c18a720fdcb",
+      "height": 42,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

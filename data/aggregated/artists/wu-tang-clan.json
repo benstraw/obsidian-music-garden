@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "wu-tang-clan",
+  "name": "Wu-Tang Clan",
+  "spotify_artist_id": "34EP7KEpOjXcM2TCat1ISk",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "east coast hip hop",
+    "gangster rap",
+    "hardcore hip hop",
+    "hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe60866298962b71792b2bf1a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e60866298962b71792b2bf1a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e60866298962b71792b2bf1a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

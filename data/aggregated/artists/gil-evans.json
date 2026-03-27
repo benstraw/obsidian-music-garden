@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "gil-evans",
+  "name": "Gil Evans",
+  "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+  "source_genres": [
+    "bebop",
+    "big band",
+    "cool jazz",
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5478892a222291e3e78ede3c72196a415732a93f",
+      "height": 1441,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/67ff1f7e15d8a3d0bed96b94902596dee19d4b7b",
+      "height": 922,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/c457f6c2208feffeac95f30138ce2f86372dbca9",
+      "height": 288,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/fe9ad479e4cc7a6e5817a10caedf37a7490801c3",
+      "height": 92,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

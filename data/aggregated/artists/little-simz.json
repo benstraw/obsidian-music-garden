@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "little-simz",
+  "name": "Little Simz",
+  "spotify_artist_id": "6eXZu6O7nAUA5z6vLV8NKI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba22264dfbad2d96ffc6ee2e0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a22264dfbad2d96ffc6ee2e0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a22264dfbad2d96ffc6ee2e0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

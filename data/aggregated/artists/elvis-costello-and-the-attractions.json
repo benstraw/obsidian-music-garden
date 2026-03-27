@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "elvis-costello-and-the-attractions",
+  "name": "Elvis Costello \u0026 The Attractions",
+  "spotify_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
+  "source_genres": [
+    "new wave",
+    "power pop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c29483131546114b6fe07b0b5",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2229483131546114b6fe07b0b5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac329483131546114b6fe07b0b5",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7429483131546114b6fe07b0b5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

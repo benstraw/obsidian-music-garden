@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "the-flaming-lips",
+  "name": "The Flaming Lips",
+  "spotify_artist_id": "16eRpMNXSQ15wuJoeqguaB",
+  "source_genres": [
+    "neo-psychedelic"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb81fb61484553c2a921f8a8c6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517481fb61484553c2a921f8a8c6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17881fb61484553c2a921f8a8c6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

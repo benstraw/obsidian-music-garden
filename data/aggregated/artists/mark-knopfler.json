@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "mark-knopfler",
+  "name": "Mark Knopfler",
+  "spotify_artist_id": "0FI0kxP0BWurTz8cB8BBug",
+  "source_genres": [
+    "soft rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb94b957255b1e4d4ddcc470ce",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517494b957255b1e4d4ddcc470ce",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17894b957255b1e4d4ddcc470ce",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

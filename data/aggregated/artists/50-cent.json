@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "50-cent",
+  "name": "50 Cent",
+  "spotify_artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+  "source_genres": [
+    "east coast hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dd031b9c5d1b6eba4a691cd89c954255aae787f2",
+      "height": 977,
+      "width": 781
+    },
+    {
+      "url": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118",
+      "height": 801,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/df73c0cebe56cafe705ffdba5085ccbd5680bd16",
+      "height": 250,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/1a44043542c997ef835c89e185f0cf79d7402153",
+      "height": 80,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,29 @@
+{
+  "canonical_slug": "jimi-hendrix",
+  "name": "Jimi Hendrix",
+  "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+  "source_genres": [
+    "acid rock",
+    "blues rock",
+    "classic rock",
+    "psychedelic rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb90c8b988fa6e6b40e0d0bf81",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517490c8b988fa6e6b40e0d0bf81",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17890c8b988fa6e6b40e0d0bf81",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

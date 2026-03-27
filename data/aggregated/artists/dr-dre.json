@@ -1,0 +1,40 @@
+{
+  "canonical_slug": "dr-dre",
+  "name": "Dr. Dre",
+  "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+  "genres": [
+    "hip-hop",
+    "rap"
+  ],
+  "source_genres": [
+    "g-funk",
+    "gangster rap",
+    "hip hop",
+    "old school hip hop",
+    "rap",
+    "west coast hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c250b3af4b06e1fcf538d398b",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22250b3af4b06e1fcf538d398b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3250b3af4b06e1fcf538d398b",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74250b3af4b06e1fcf538d398b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

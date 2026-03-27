@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "burna-boy",
+  "name": "Burna Boy",
+  "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+  "source_genres": [
+    "afrobeat",
+    "afrobeats",
+    "afropiano",
+    "afropop",
+    "afroswing",
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb4e44d0f4e3e47af2cf06f3f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b4e44d0f4e3e47af2cf06f3f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b4e44d0f4e3e47af2cf06f3f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

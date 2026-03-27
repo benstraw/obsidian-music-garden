@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "danger-mouse",
+  "name": "Danger Mouse",
+  "spotify_artist_id": "2dBj3prW7gP9bCCOIQeDUf",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb02b986f57904bca3190d8f2b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517402b986f57904bca3190d8f2b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17802b986f57904bca3190d8f2b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

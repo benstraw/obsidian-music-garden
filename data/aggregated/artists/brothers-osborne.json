@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "brothers-osborne",
+  "name": "Brothers Osborne",
+  "spotify_artist_id": "39NR3AUhpbbqKM33vWn2fp",
+  "source_genres": [
+    "country",
+    "country rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadb491eaa6cf3f9c95790e42",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174adb491eaa6cf3f9c95790e42",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178adb491eaa6cf3f9c95790e42",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

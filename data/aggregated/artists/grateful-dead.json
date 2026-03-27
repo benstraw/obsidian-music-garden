@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "grateful-dead",
+  "name": "Grateful Dead",
+  "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+  "source_genres": [
+    "acid rock",
+    "jam band",
+    "psychedelic rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9aa458c09e4cf7c32232f4a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e9aa458c09e4cf7c32232f4a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e9aa458c09e4cf7c32232f4a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

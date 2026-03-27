@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "big-l",
+  "name": "Big L",
+  "spotify_artist_id": "30fiiwr2EeZp1tAhzYCmyM",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "boom bap",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4f78bbc847304a2bc118e10",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a4f78bbc847304a2bc118e10",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a4f78bbc847304a2bc118e10",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

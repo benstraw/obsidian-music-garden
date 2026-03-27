@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "zach-bryan",
+  "name": "Zach Bryan",
+  "spotify_artist_id": "40ZNYROS4zLfyyBSs2PGe2",
+  "source_genres": [
+    "country",
+    "red dirt"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc742fbc057bdbc64834a6cdc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c742fbc057bdbc64834a6cdc",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c742fbc057bdbc64834a6cdc",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "cypress-hill",
+  "name": "Cypress Hill",
+  "spotify_artist_id": "4P0dddbxPil35MNN9G2MEX",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop",
+    "old school hip hop",
+    "rap rock",
+    "west coast hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb38df3e7ad0a284eec89ffb33",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517438df3e7ad0a284eec89ffb33",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17838df3e7ad0a284eec89ffb33",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

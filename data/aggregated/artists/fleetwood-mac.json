@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "fleetwood-mac",
+  "name": "Fleetwood Mac",
+  "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+  "source_genres": [
+    "classic rock",
+    "soft rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c8752dd511cda8c31e9daee8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

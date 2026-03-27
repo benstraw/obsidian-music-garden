@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "cal-smith",
+  "name": "Cal Smith",
+  "spotify_artist_id": "3yFnqoyp1e54tZEY4ykvNB",
+  "source_genres": [
+    "classic country",
+    "honky tonk",
+    "traditional country"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273cdbebccbc5d57c13134792a5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02cdbebccbc5d57c13134792a5",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851cdbebccbc5d57c13134792a5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

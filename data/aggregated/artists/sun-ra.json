@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "sun-ra",
+  "name": "Sun Ra",
+  "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+  "source_genres": [
+    "avant-garde",
+    "experimental jazz",
+    "free jazz",
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/66bf46ec1bfc2c72b97986f84af1a69f07531329",
+      "height": 1133,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/fbf28470d6dca463c2bcb3f428ef76cdb6e9a21d",
+      "height": 725,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/a4aac2a9b1aa4b9ec8f1a020ca53f51ea2a7fbaf",
+      "height": 227,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/131591ffd27a240c284f8fbf8f016d3d68ef123d",
+      "height": 72,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

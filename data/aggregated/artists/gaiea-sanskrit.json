@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "gaiea-sanskrit",
+  "name": "Gaiea Sanskrit",
+  "spotify_artist_id": "4eK7eYjD5DyOb7BqV3jBdA",
+  "source_genres": [
+    "devotional"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc0a4dc41d478531ff7eaed7a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c0a4dc41d478531ff7eaed7a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c0a4dc41d478531ff7eaed7a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

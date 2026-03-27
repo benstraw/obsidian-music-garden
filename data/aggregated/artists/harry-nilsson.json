@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "harry-nilsson",
+  "name": "Harry Nilsson",
+  "spotify_artist_id": "3RTzAwFprBqiskp550eSJX",
+  "genres": [
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "baroque pop",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb18da36ab937c35a16339ebec",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517418da36ab937c35a16339ebec",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17818da36ab937c35a16339ebec",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

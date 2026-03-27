@@ -1,0 +1,29 @@
+{
+  "canonical_slug": "johannes-brahms",
+  "name": "Johannes Brahms",
+  "spotify_artist_id": "5wTAi7QkpP6kp8a54lmTOq",
+  "source_genres": [
+    "chamber music",
+    "classical",
+    "classical piano",
+    "orchestral"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d5c6af18beb1411ab49c2976647e0d370bf66a88",
+      "height": 752,
+      "width": 514
+    },
+    {
+      "url": "https://i.scdn.co/image/841b4adc1a4e66906d99229aaaec26306d6aed92",
+      "height": 293,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/39d3c79df7fed6b4c597babaa24586d40fa44a45",
+      "height": 94,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

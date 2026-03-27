@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "christian-borle",
+  "name": "Christian Borle",
+  "spotify_artist_id": "3mXvO1rdMCgdOYNiWeduWG",
+  "source_genres": [
+    "musicals"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273faf0b73672565b1ed2c3542c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a8022560c280216f299e2622",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a8022560c280216f299e2622",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

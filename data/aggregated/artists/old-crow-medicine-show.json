@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "old-crow-medicine-show",
+  "name": "Old Crow Medicine Show",
+  "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+  "genres": [
+    "folk"
+  ],
+  "source_genres": [
+    "alt country",
+    "americana",
+    "bluegrass",
+    "folk",
+    "indie folk",
+    "newgrass"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba055968bc8c4b9d8901b1e1e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a055968bc8c4b9d8901b1e1e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a055968bc8c4b9d8901b1e1e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

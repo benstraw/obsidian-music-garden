@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "de-la-soul",
+  "name": "De La Soul",
+  "spotify_artist_id": "1Z8ODXyhEBi3WynYw0Rya6",
+  "source_genres": [
+    "east coast hip hop",
+    "jazz rap"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc443011311dcf7f6eeaf507d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c443011311dcf7f6eeaf507d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c443011311dcf7f6eeaf507d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

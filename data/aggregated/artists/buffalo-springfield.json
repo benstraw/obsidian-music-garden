@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "buffalo-springfield",
+  "name": "Buffalo Springfield",
+  "spotify_artist_id": "3eskO5m0H4yiF64vRySBjr",
+  "genres": [
+    "folk-rock"
+  ],
+  "source_genres": [
+    "country rock",
+    "folk rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b701ba75981d0b9aeef036b9fab4e3c96609e364",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/52e254506bdba02418c836d1272f8de58933d7c6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/f4ea5031036120db540cf8efdf24a8bace04f475",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/a42b8b61115ab656d136976e32cc1b67448aae60",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

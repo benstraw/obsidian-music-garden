@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "us3",
+  "name": "Us3",
+  "spotify_artist_id": "4LtIfuFeAamus9OOItuWDD",
+  "source_genres": [
+    "acid jazz",
+    "jazz funk",
+    "jazz rap"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c6481bb1cde00b92b5ff01487",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd226481bb1cde00b92b5ff01487",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac36481bb1cde00b92b5ff01487",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f746481bb1cde00b92b5ff01487",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

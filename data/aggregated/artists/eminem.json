@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "eminem",
+  "name": "Eminem",
+  "spotify_artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+  "genres": [
+    "hip-hop",
+    "rap"
+  ],
+  "source_genres": [
+    "hip hop",
+    "rap"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

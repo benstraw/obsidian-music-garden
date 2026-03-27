@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "tonez",
+  "name": "Tonez",
+  "spotify_artist_id": "5pvsRwXcUfr3oUVVbgrv5P",
+  "source_genres": [
+    "uk garage"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb044eee276fc09690484789e8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174044eee276fc09690484789e8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178044eee276fc09690484789e8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

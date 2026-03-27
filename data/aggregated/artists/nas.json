@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "nas",
+  "name": "Nas",
+  "spotify_artist_id": "20qISvAhX20dpIbOOzGK3q",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "east coast hip hop",
+    "hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb153198caeef9e3bda92f9285",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174153198caeef9e3bda92f9285",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178153198caeef9e3bda92f9285",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/release-group/e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+  "request_url": "https://musicbrainz.org/ws/2/release-group/e75c0549-ad55-39e3-8025-c72c5d4a3c5d?fmt=json\u0026inc=artists%2Bgenres%2Btags%2Breleases",
+  "cache_key": "release-groups/e75c0549-ad55-39e3-8025-c72c5d4a3c5d",
+  "fetched_at": "2026-03-27T08:06:44Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

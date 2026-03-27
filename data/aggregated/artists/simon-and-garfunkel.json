@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "simon-and-garfunkel",
+  "name": "Simon \u0026 Garfunkel",
+  "spotify_artist_id": "70cRZdQywnSFp9pnc2WTCE",
+  "genres": [
+    "folk",
+    "folk-rock"
+  ],
+  "source_genres": [
+    "folk",
+    "folk rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6",
+      "height": 1241,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/3bffe5e67788e9e64a4f8368f1010f20c269d518",
+      "height": 794,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/852145f3972cb8b6c431ca7b1c9d5bc839a8a06a",
+      "height": 248,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/b32f349333d0710b002b0439fc504558e46bcb07",
+      "height": 79,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

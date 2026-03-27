@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "a-tribe-called-quest",
+  "name": "A Tribe Called Quest",
+  "spotify_artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "east coast hip hop",
+    "hip hop",
+    "jazz rap",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb774d73ae6796b6f437d89db9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178774d73ae6796b6f437d89db9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

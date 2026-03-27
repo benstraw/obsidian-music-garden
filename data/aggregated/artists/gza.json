@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "gza",
+  "name": "GZA",
+  "spotify_artist_id": "6ns6XAOsw4B0nDUIovAOUO",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "boom bap",
+    "east coast hip hop",
+    "hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb808e85831b545cca75e179ab",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174808e85831b545cca75e179ab",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178808e85831b545cca75e179ab",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

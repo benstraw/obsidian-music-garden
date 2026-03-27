@@ -1,0 +1,29 @@
+{
+  "canonical_slug": "leonard-cohen",
+  "name": "Leonard Cohen",
+  "spotify_artist_id": "5l8VQNuIg0turYE1VtM9zV",
+  "genres": [
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd09c1295779cfb71683cee99",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d09c1295779cfb71683cee99",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d09c1295779cfb71683cee99",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

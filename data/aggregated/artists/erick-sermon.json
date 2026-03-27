@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "erick-sermon",
+  "name": "Erick Sermon",
+  "spotify_artist_id": "2VX0o9LDIVmKIgpnwdJpOJ",
+  "source_genres": [
+    "east coast hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbefe81411481dc554cb3aa74",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174befe81411481dc554cb3aa74",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178befe81411481dc554cb3aa74",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

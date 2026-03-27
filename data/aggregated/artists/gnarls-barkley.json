@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "gnarls-barkley",
+  "name": "Gnarls Barkley",
+  "spotify_artist_id": "5SbkVQYYzlw1kte75QIabH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbfe9d94ced31fa45bdca0222",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bfe9d94ced31fa45bdca0222",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bfe9d94ced31fa45bdca0222",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

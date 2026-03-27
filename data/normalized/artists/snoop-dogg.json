@@ -1,0 +1,17 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+  "name": "Snoop Dogg",
+  "source_genres": [
+    "g-funk",
+    "gangster rap",
+    "hip hop",
+    "old school hip hop",
+    "rap",
+    "west coast hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop",
+    "rap"
+  ]
+}

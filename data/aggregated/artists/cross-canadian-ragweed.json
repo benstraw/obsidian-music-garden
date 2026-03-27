@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "cross-canadian-ragweed",
+  "name": "Cross Canadian Ragweed",
+  "spotify_artist_id": "5Vz7hlMWR4OFye64dYoGm0",
+  "source_genres": [
+    "alt country",
+    "outlaw country",
+    "red dirt",
+    "texas country"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/df1bd6ac140f82f55724edbaff5cb7adbb9d7a80",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/b84ada378f56e20c525cde9c922d197eb81235e4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/e6c73008cfb84bea984fc0f57e49984626be16f5",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/615463b4a9ddabb4890483939412e746b63667a7",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

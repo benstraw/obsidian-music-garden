@@ -1,0 +1,29 @@
+{
+  "canonical_slug": "curtis-mayfield",
+  "name": "Curtis Mayfield",
+  "spotify_artist_id": "2AV6XDIs32ofIJhkkDevjm",
+  "source_genres": [
+    "classic soul",
+    "funk",
+    "motown",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeea0f2f51d7969bbb4000f92",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174eea0f2f51d7969bbb4000f92",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178eea0f2f51d7969bbb4000f92",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

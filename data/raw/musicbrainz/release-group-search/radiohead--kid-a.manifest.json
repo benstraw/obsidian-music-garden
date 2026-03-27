@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/release-group",
+  "request_url": "https://musicbrainz.org/ws/2/release-group?fmt=json\u0026limit=5\u0026query=releasegroup%3A%22Kid+A%22+AND+artist%3A%22Radiohead%22",
+  "cache_key": "release-group-search/radiohead--kid-a",
+  "fetched_at": "2026-03-27T08:06:44Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

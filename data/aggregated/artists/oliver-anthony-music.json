@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "oliver-anthony-music",
+  "name": "Oliver Anthony Music",
+  "spotify_artist_id": "6IkfE2JyVoKwBZXvuytKX3",
+  "source_genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc98f2b2e51b8b42a525942e5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c98f2b2e51b8b42a525942e5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c98f2b2e51b8b42a525942e5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

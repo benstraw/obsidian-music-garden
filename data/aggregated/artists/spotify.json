@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "spotify",
+  "name": "Spotify",
+  "spotify_artist_id": "5UUG83KSlqPhrBssrducWV",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbb458c8a11ba55b1acd968d4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bb458c8a11ba55b1acd968d4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bb458c8a11ba55b1acd968d4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "jupiter-grains",
+  "name": "Jupiter Grains",
+  "spotify_artist_id": "6uq3FetPGtr1PNJ4bOzF85",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735cae4d353ae3aad3a06802cb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e025cae4d353ae3aad3a06802cb",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515cae4d353ae3aad3a06802cb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

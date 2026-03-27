@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "bobby-shmurda",
+  "name": "Bobby Shmurda",
+  "spotify_artist_id": "34Y0ldeyUv7jBvukWOGASO",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebee12e6771607433caee705a3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ee12e6771607433caee705a3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ee12e6771607433caee705a3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "mumford-and-sons",
+  "name": "Mumford \u0026 Sons",
+  "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+  "genres": [
+    "folk",
+    "folk-rock"
+  ],
+  "source_genres": [
+    "folk",
+    "folk rock",
+    "indie folk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00fe341805b27976b4302be0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517400fe341805b27976b4302be0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17800fe341805b27976b4302be0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

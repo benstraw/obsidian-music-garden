@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "bleachers",
+  "name": "Bleachers",
+  "spotify_artist_id": "2eam0iDomRHGBypaDQLwWI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2a2ced96a8df71b0dca06a19",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051742a2ced96a8df71b0dca06a19",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1782a2ced96a8df71b0dca06a19",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

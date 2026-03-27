@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "snoop-dogg",
+  "name": "Snoop Dogg",
+  "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+  "genres": [
+    "hip-hop",
+    "rap"
+  ],
+  "source_genres": [
+    "g-funk",
+    "gangster rap",
+    "hip hop",
+    "old school hip hop",
+    "rap",
+    "west coast hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc19a88576ebe6fcbb325c297",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c19a88576ebe6fcbb325c297",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c19a88576ebe6fcbb325c297",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

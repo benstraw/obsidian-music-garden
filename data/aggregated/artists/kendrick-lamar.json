@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "kendrick-lamar",
+  "name": "Kendrick Lamar",
+  "spotify_artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop",
+    "west coast hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

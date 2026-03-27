@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "skee-lo",
+  "name": "Skee-Lo",
+  "spotify_artist_id": "55Pp4Ns5VfTSFsBraW7MQy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/da0230fee43c37b98acfa16c0c32ecc14dcdc1ad",
+      "height": 1146,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/0da68f7ff014e93c58b59f0a852e8ff1db29314d",
+      "height": 733,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/fec09231cd8aa3719083cddfdc7c63158e429f15",
+      "height": 229,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/9f10bb6186fbf3abd3d19e7732a909017fc06618",
+      "height": 73,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

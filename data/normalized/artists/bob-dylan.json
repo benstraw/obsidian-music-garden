@@ -1,0 +1,16 @@
+{
+  "source": "spotify",
+  "source_artist_id": "74ASZWbe4lXaubB36ztrGX",
+  "name": "Bob Dylan",
+  "source_genres": [
+    "folk",
+    "folk rock",
+    "roots rock",
+    "singer-songwriter"
+  ],
+  "canonical_genre_slugs": [
+    "folk",
+    "folk-rock",
+    "singer-songwriter"
+  ]
+}

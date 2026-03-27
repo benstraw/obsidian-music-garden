@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "nadaka",
+  "name": "Nadaka",
+  "spotify_artist_id": "6mPYpask2CXhNfCs9OuiXQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde60b08f940ddb3430300da2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174de60b08f940ddb3430300da2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178de60b08f940ddb3430300da2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

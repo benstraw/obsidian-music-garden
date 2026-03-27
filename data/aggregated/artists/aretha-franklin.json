@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "aretha-franklin",
+  "name": "Aretha Franklin",
+  "spotify_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
+  "source_genres": [
+    "classic soul",
+    "motown",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f12270128127ba170f90097d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f12270128127ba170f90097d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

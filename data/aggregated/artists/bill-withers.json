@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "bill-withers",
+  "name": "Bill Withers",
+  "spotify_artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+  "source_genres": [
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
+      "height": 1143,
+      "width": 834
+    },
+    {
+      "url": "https://i.scdn.co/image/71f81180fa488ceb52df664faadb1d7acf20658e",
+      "height": 877,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/7d544b8f4344ec6f206e612d0207ffeb5386b571",
+      "height": 274,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/2ac716bdcc95f3639d6cf3cea19e2c9bde5ed509",
+      "height": 88,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

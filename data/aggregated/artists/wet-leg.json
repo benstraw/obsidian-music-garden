@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "wet-leg",
+  "name": "Wet Leg",
+  "spotify_artist_id": "2TwOrUcYnAlIiKmVQkkoSZ",
+  "genres": [
+    "indie-rock"
+  ],
+  "source_genres": [
+    "indie",
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba4e6cf8b3d6ea5a6b4b5fb8f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a4e6cf8b3d6ea5a6b4b5fb8f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a4e6cf8b3d6ea5a6b4b5fb8f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

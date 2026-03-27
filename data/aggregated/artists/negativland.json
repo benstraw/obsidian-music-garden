@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "negativland",
+  "name": "Negativland",
+  "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+  "source_genres": [
+    "avant-garde",
+    "experimental",
+    "musique concrète",
+    "plunderphonics",
+    "spoken word"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c7f351f815797b68f002cc037",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd227f351f815797b68f002cc037",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac37f351f815797b68f002cc037",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f747f351f815797b68f002cc037",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

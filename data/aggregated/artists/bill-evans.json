@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "bill-evans",
+  "name": "Bill Evans",
+  "spotify_artist_id": "4jXfFzeP66Zy67HM2mvIIF",
+  "source_genres": [
+    "bebop",
+    "cool jazz",
+    "hard bop",
+    "jazz",
+    "jazz ballads"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c3b629f4118d018321c44f88f",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd223b629f4118d018321c44f88f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac33b629f4118d018321c44f88f",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f743b629f4118d018321c44f88f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

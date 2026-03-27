@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "david-bowie",
+  "name": "David Bowie",
+  "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+  "genres": [
+    "art-rock"
+  ],
+  "source_genres": [
+    "art rock",
+    "glam rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b78f77c5583ae99472dd4a49",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b78f77c5583ae99472dd4a49",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

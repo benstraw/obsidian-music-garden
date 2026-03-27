@@ -1,0 +1,23 @@
+{
+  "canonical_slug": "buppy",
+  "name": "Buppy.",
+  "spotify_artist_id": "3ycfZfYaqEN0PpZ2nB89k4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb531e3b503ee067d9806c8b72",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174531e3b503ee067d9806c8b72",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178531e3b503ee067d9806c8b72",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

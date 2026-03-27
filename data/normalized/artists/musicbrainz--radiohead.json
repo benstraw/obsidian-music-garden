@@ -1,0 +1,43 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+  "name": "Radiohead",
+  "spotify_url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+  "musicbrainz_artist_id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+  "source_genres": [
+    "alternative rock",
+    "ambient pop",
+    "art pop",
+    "art rock",
+    "britpop",
+    "chamber pop",
+    "crossover prog",
+    "electronic",
+    "electronic rock",
+    "electronica",
+    "experimental",
+    "experimental rock",
+    "idm",
+    "indie rock",
+    "indietronica",
+    "post-britpop",
+    "post-grunge",
+    "rock",
+    "alternative",
+    "alternative rock music",
+    "british",
+    "britrock",
+    "english",
+    "oxford",
+    "progressive rock music",
+    "uk",
+    "vyrzukhisuc-artiest"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "art-rock",
+    "electronic",
+    "indie-rock",
+    "rock"
+  ]
+}

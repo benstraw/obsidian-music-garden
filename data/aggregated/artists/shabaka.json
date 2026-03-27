@@ -1,0 +1,28 @@
+{
+  "canonical_slug": "shabaka",
+  "name": "Shabaka",
+  "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+  "source_genres": [
+    "ambient jazz",
+    "experimental jazz",
+    "indie jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb33331998b6facb1b2e44e781",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517433331998b6facb1b2e44e781",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17833331998b6facb1b2e44e781",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

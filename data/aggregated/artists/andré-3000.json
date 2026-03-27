@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "andré-3000",
+  "name": "André 3000",
+  "spotify_artist_id": "74V3dE1a51skRkdII8y2C6",
+  "source_genres": [
+    "ambient jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3d4e529331e396b79792cf1f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743d4e529331e396b79792cf1f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783d4e529331e396b79792cf1f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

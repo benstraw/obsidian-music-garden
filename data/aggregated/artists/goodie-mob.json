@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "goodie-mob",
+  "name": "Goodie Mob",
+  "spotify_artist_id": "3F2Y683ovlWT53WKCeq0oj",
+  "source_genres": [
+    "old school hip hop",
+    "southern hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba372b528d76727f3cda88198",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a372b528d76727f3cda88198",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a372b528d76727f3cda88198",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

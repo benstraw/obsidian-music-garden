@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "pink-floyd",
+  "name": "Pink Floyd",
+  "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+  "genres": [
+    "art-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "art rock",
+    "classic rock",
+    "progressive rock",
+    "psychedelic rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb97885ce689d644c91dfba05c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517497885ce689d644c91dfba05c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17897885ce689d644c91dfba05c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

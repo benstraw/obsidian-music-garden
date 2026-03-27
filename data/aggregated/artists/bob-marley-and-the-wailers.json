@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "bob-marley-and-the-wailers",
+  "name": "Bob Marley \u0026 The Wailers",
+  "spotify_artist_id": "2QsynagSdAqZj3U9HgDzjD",
+  "source_genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
+      "height": 858,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802",
+      "height": 549,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098",
+      "height": 172,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/357fe6ef3655b1b33855e33546e3c174a38a1a36",
+      "height": 55,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

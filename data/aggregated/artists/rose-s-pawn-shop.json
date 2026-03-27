@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "rose-s-pawn-shop",
+  "name": "Rose's Pawn Shop",
+  "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+  "source_genres": [
+    "alt country",
+    "americana",
+    "bluegrass",
+    "newgrass",
+    "southern gothic"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdd96ff754c568a505cf33c5b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dd96ff754c568a505cf33c5b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dd96ff754c568a505cf33c5b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

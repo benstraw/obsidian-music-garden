@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "the-beatles",
+  "name": "The Beatles",
+  "spotify_artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+  "source_genres": [
+    "classic rock",
+    "psychedelic rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

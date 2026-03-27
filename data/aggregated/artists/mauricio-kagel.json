@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "mauricio-kagel",
+  "name": "Mauricio Kagel",
+  "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+  "source_genres": [
+    "avant-garde",
+    "contemporary classical",
+    "electroacoustic",
+    "expressionism",
+    "musique concrète"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ef177fded28596e581ccb70aac4d6a11d93fd387",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/6907ea554a85f3f9ab34b9fd4df95a92c2fc54ac",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/0c3a733af22fe7c41db90ba0d97514fdf75eaefb",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/42bfcd14aa6cb1649b542c970689456bc09b7e99",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

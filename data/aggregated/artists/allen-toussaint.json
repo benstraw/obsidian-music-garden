@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "allen-toussaint",
+  "name": "Allen Toussaint",
+  "spotify_artist_id": "63aP18bg2ABSOqSNQcAMNy",
+  "source_genres": [
+    "cajun"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c61a6c79755b7a5e51db409f8",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2261a6c79755b7a5e51db409f8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac361a6c79755b7a5e51db409f8",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7461a6c79755b7a5e51db409f8",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

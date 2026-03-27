@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "modest-mouse",
+  "name": "Modest Mouse",
+  "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+  "genres": [
+    "alternative-rock",
+    "indie-rock"
+  ],
+  "source_genres": [
+    "alternative rock",
+    "indie",
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb427980f0533109de79ee0a05",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174427980f0533109de79ee0a05",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178427980f0533109de79ee0a05",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "ivan-conti",
+  "name": "Ivan Conti",
+  "spotify_artist_id": "2dfKG7aNtsTiPXBkXqQbVa",
+  "source_genres": [
+    "brazilian jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb59ec00eeab754ca262bbcd9f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517459ec00eeab754ca262bbcd9f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17859ec00eeab754ca262bbcd9f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

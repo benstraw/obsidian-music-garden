@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "brent-cobb",
+  "name": "Brent Cobb",
+  "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+  "source_genres": [
+    "alt country",
+    "americana",
+    "country blues",
+    "outlaw country",
+    "red dirt"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe3b8a90282a972f5edabb2b2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e3b8a90282a972f5edabb2b2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e3b8a90282a972f5edabb2b2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

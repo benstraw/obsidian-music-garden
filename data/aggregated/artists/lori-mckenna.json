@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "lori-mckenna",
+  "name": "Lori McKenna",
+  "spotify_artist_id": "1OV5mEATxtVma7fleFaUyl",
+  "source_genres": [
+    "alt country",
+    "americana"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84e4f84f23c7e087cf67422a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517484e4f84f23c7e087cf67422a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17884e4f84f23c7e087cf67422a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

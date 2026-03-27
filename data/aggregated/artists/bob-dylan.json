@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "bob-dylan",
+  "name": "Bob Dylan",
+  "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+  "genres": [
+    "folk",
+    "folk-rock",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "folk",
+    "folk rock",
+    "roots rock",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb791742524609864273747ef5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174791742524609864273747ef5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178791742524609864273747ef5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

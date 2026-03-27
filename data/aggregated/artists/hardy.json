@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "hardy",
+  "name": "HARDY",
+  "spotify_artist_id": "5QNm7E7RU2m64l6Gliu8Oy",
+  "source_genres": [
+    "country",
+    "country rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaed339624606affc06966a92",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174aed339624606affc06966a92",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178aed339624606affc06966a92",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-26"
+}

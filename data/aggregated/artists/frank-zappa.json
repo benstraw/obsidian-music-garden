@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "frank-zappa",
+  "name": "Frank Zappa",
+  "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+  "genres": [
+    "art-rock"
+  ],
+  "source_genres": [
+    "art rock",
+    "avant-garde",
+    "experimental",
+    "jazz fusion",
+    "progressive rock",
+    "psychedelic rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e1c04d8144371d6a6ac39c7f15a1c2a9f67a0c50",
+      "height": 1028,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/f2c74b01414e5d40b07baea7e5a2e7dd00b85c5b",
+      "height": 658,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/4b7ce8ea46a12071667f7ca393da0b509bb62af8",
+      "height": 206,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5476aad521baecb4a2c03ebcf67699d15a949af7",
+      "height": 66,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

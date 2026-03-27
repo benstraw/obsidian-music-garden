@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "igor-stravinsky",
+  "name": "Igor Stravinsky",
+  "spotify_artist_id": "7ie36YytMoKtPiL7tUvmoE",
+  "source_genres": [
+    "ballet",
+    "classical",
+    "expressionism",
+    "impressionism",
+    "neoclassical",
+    "orchestral"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c455eacd26b14e75fcbe9a2fb",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22455eacd26b14e75fcbe9a2fb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3455eacd26b14e75fcbe9a2fb",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74455eacd26b14e75fcbe9a2fb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

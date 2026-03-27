@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "maurice-white",
+  "name": "Maurice White",
+  "spotify_artist_id": "6T46cZo3M8wXq5eOoXbZBx",
+  "source_genres": [
+    "aor"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/79fad2b2a30f696dbe5aeb57b6838f418adf07d7",
+      "height": 1199,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/eb9f0f4cd0df4ca366ab6878e4964ef56a31fafc",
+      "height": 767,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/e0212b2635133f4c4401b4fcf5e8129f0284754c",
+      "height": 240,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/b98db83d79827b20a07b5354491a3354d3bb32fd",
+      "height": 77,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-18"
+}
