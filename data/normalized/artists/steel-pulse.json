@@ -2,11 +2,99 @@
   "source": "spotify",
   "source_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
   "name": "Steel Pulse",
+  "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g",
   "source_genres": [
     "dub",
     "ragga",
     "reggae",
     "rocksteady",
     "roots reggae"
+  ],
+  "canonical_genre_slugs": [
+    "dub",
+    "ragga",
+    "reggae",
+    "rocksteady",
+    "roots-reggae"
+  ],
+  "status": "matched",
+  "page_title": "Steel Pulse",
+  "summary": "Steel Pulse are a British roots reggae band from the Handsworth area of Birmingham, England. They originally formed at Handsworth Wood Boys School, and were composed of David Hinds, Basil Gabbidon, and Ronald McQueen (bass); along with Basil's brother Colin briefly on drums and Mykaell Riley. Steel Pulse were the first non-Jamaican act to win the Grammy Award for Best Reggae Album. Collectively the band has won one Grammy award with nine nominations.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Steel_Pulse",
+  "candidates": [
+    "Steel (pusher)",
+    "Steel Pole Bath Tub",
+    "Steel Pulse",
+    "Steel Pulse FC",
+    "Steel Rule Die",
+    "Steel rule"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Steel Pulse",
+    "page_url": "https://en.wikipedia.org/wiki/Steel_Pulse",
+    "retrieved_at": "2026-03-27T09:28:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ruhr Reggae Summer 2017 MH Steel Pulse 04.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_04.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_04.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_04.jpg/960px-Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_04.jpg",
+      "width": 4664,
+      "height": 1418,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Krd\" title=\"User:Krd\"\u003eKrd\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ruhr Reggae Summer 2017 MH Steel Pulse 05.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_05.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_05.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_05.jpg/960px-Ruhr_Reggae_Summer_2017_MH_Steel_Pulse_05.jpg",
+      "width": 2746,
+      "height": 2746,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Krd\" title=\"User:Krd\"\u003eKrd\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:SteelPulse14.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:SteelPulse14.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/SteelPulse14.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/SteelPulse14.jpg/960px-SteelPulse14.jpg",
+      "width": 5149,
+      "height": 3152,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:VerwimpBruno\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:VerwimpBruno (page does not exist)\"\u003ePeter Verwimp\u003c/a\u003e"
+    }
   ]
 }

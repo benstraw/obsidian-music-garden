@@ -2,8 +2,11 @@
   "canonical_slug": "common",
   "name": "Common",
   "spotify_artist_id": "2GHclqNVjqGuiE5mA7BEoc",
+  "spotify_url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc",
   "genres": [
-    "hip-hop"
+    "hip-hop",
+    "jazz-rap",
+    "neo-soul"
   ],
   "source_genres": [
     "hip hop",
@@ -27,5 +30,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Common",
+    "Common (rapper)",
+    "Common Era",
+    "Common cold",
+    "Common law",
+    "Common sunflower",
+    "Commonwealth Bank",
+    "Commonwealth of Independent States",
+    "Commonwealth of Nations",
+    "Communism"
+  ],
+  "last_updated": "2026-03-27"
 }

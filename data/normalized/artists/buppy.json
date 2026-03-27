@@ -1,5 +1,19 @@
 {
   "source": "spotify",
   "source_artist_id": "3ycfZfYaqEN0PpZ2nB89k4",
-  "name": "Buppy."
+  "name": "Buppy.",
+  "spotify_url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4",
+  "status": "ambiguous",
+  "candidates": [
+    "Bumpy (singer)",
+    "Bumpy Johnson",
+    "Bumpy Ride",
+    "Bupaya Pagoda",
+    "Buppah Rahtree",
+    "Buppy",
+    "Bupyeong District",
+    "Bupyeong High School",
+    "Bupyeong Station",
+    "Sonny Bupp"
+  ]
 }

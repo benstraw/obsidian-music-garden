@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/IDM",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/IDM",
+  "cache_key": "summaries/idm",
+  "fetched_at": "2026-03-27T09:31:00Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

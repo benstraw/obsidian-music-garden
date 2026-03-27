@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Neo%20soul",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Neo%20soul",
+  "cache_key": "summaries/neo-soul",
+  "fetched_at": "2026-03-27T09:31:26Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

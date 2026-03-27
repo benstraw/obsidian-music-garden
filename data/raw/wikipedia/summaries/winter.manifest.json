@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Winter",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Winter",
+  "cache_key": "summaries/winter",
+  "fetched_at": "2026-03-27T09:32:19Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

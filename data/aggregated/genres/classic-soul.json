@@ -1,4 +1,67 @@
 {
   "canonical_slug": "classic-soul",
-  "pending": true
+  "display_title": "Classic Soul",
+  "display_name": "Classic Soul",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Soul music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Soul_music",
+  "summary": "Soul music is a popular music genre that originated in African-American communities throughout the United States in the late 1950s and early 1960s. Catchy rhythms, stressed by handclaps and extemporaneous body movements, are an important hallmark of soul. Other characteristics are a call and response between the lead and backing vocalists, an especially tense vocal sound, and occasional improvisational additions, twirls, and auxiliary sounds. Soul music is known for reflecting African-American identity and stressing the importance of African-American culture.",
+  "candidates": [
+    "A Classic Tour",
+    "Classic Columbia, Okeh and Vocalion: Lester Young with Count Basie (1936–1940)",
+    "Classic Gold Digital Network",
+    "Classic Lolita Fashion",
+    "Classic Shell",
+    "Classic World Productions",
+    "Classic country",
+    "Classic soul",
+    "Classical Hollywood cinema",
+    "Classical sculpture"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soul music",
+    "page_url": "https://en.wikipedia.org/wiki/Soul_music",
+    "retrieved_at": "2026-03-27T09:30:13Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ray_Charles_%281967%29.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ray_Charles_%281967%29.png/330px-Ray_Charles_%281967%29.png",
+    "width": 696,
+    "height": 785
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--classic-soul.json",
+      "url": "https://en.wikipedia.org/wiki/Soul_music",
+      "retrieved_at": "2026-03-27T09:30:13Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--classic-soul.json",
+      "url": "https://en.wikipedia.org/wiki/Soul_music",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

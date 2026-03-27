@@ -1,4 +1,355 @@
 {
   "canonical_slug": "reggae",
-  "pending": true
+  "display_title": "Reggae",
+  "display_name": "Reggae",
+  "notes": "Broad umbrella for reggae styles.",
+  "aliases": [
+    "reggae",
+    "reggae rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Reggae",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reggae",
+  "summary": "Reggae is a music genre that originated in Jamaica in the late 1960s. The term also refers to the modern popular music of Jamaica and its diaspora. The 1968 single by Toots and the Maytals titled \"Do the Reggay\" was the first popular song to use the word reggae, effectively naming the genre and introducing it to a global audience.",
+  "candidates": [
+    "Reggae",
+    "Reggae Geel",
+    "Reggae Owes Me Money",
+    "Reggae Reggae Sauce",
+    "Reggae en Español",
+    "Reggae fusion",
+    "Reggae genres",
+    "Reggae music in Kenya",
+    "Reggaeton",
+    "Reggaetón Lento (Bailemos)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Reggae",
+    "page_url": "https://en.wikipedia.org/wiki/Reggae",
+    "retrieved_at": "2026-03-27T09:31:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Al Anderson1978.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Anderson1978.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Al_Anderson1978.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Al_Anderson1978.png",
+    "width": 436,
+    "height": 476,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TimDuncan\" title=\"User:TimDuncan\"\u003eTimDuncan\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Al Anderson1978.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Anderson1978.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Al_Anderson1978.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Al_Anderson1978.png",
+      "width": 436,
+      "height": 476,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TimDuncan\" title=\"User:TimDuncan\"\u003eTimDuncan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ali Campbell at Raggamuffin 2009 cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ali_Campbell_at_Raggamuffin_2009_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ali_Campbell_at_Raggamuffin_2009_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ali_Campbell_at_Raggamuffin_2009_cropped.jpg",
+      "width": 431,
+      "height": 671,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Ali_Campbell_at_Raggamuffin_2009.jpg\" title=\"File:Ali Campbell at Raggamuffin 2009.jpg\"\u003eAli_Campbell_at_Raggamuffin_2009.jpg\u003c/a\u003e: \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35612611@N07\"\u003eStuart Sevastos\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Austin512\" title=\"User:Austin512\"\u003eAustin512\u003c/a\u003e (\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Austin512\" title=\"User talk:Austin512\"\u003e\u003cspan class=\"signature-talk\"\u003etalk\u003c/span\u003e\u003c/a\u003e)\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Balafon Jamie.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Balafon_Jamie.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Balafon_Jamie.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Balafon_Jamie.jpg",
+      "width": 690,
+      "height": 1038,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/60003372@N00\"\u003eJamie Price\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob-Marley.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob-Marley.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg",
+      "width": 500,
+      "height": 744,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://secure.flickr.com/people/33439023@N00\"\u003eEddie Mallin\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Coachella Toots and the Maytals.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Coachella_Toots_and_the_Maytals.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Coachella_Toots_and_the_Maytals.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coachella_Toots_and_the_Maytals.jpg/960px-Coachella_Toots_and_the_Maytals.jpg",
+      "width": 1024,
+      "height": 768,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Celaur\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Celaur (page does not exist)\"\u003eCelaur\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 47,
+    "unique_artist_count": 3,
+    "unique_release_count": 10,
+    "unique_track_count": 30,
+    "first_played_at": "2026-02-16T01:47:58.417Z",
+    "last_played_at": "2026-03-19T01:47:54.056Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "play_count": 24,
+      "spotify_artist_id": "2QsynagSdAqZj3U9HgDzjD",
+      "spotify_url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+    },
+    {
+      "canonical_slug": "sublime",
+      "name": "Sublime",
+      "play_count": 22,
+      "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+      "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+    },
+    {
+      "canonical_slug": "steel-pulse",
+      "name": "Steel Pulse",
+      "play_count": 1,
+      "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "name": "Confrontation",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
+      "name": "Songs Of Freedom Rarities",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "sublime--sublime",
+      "name": "Sublime",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--survival",
+      "name": "Survival",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--uprising",
+      "name": "Uprising",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--catch-a-fire",
+      "name": "Catch A Fire",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "steel-pulse--earth-crisis",
+      "name": "Earth Crisis",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse"
+    },
+    {
+      "canonical_slug": "sublime--everything-under-the-sun",
+      "name": "Everything Under The Sun",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--kaya",
+      "name": "Kaya",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--jump-nyabinghi",
+      "name": "Jump Nyabinghi",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "release_name": "Confrontation",
+      "spotify_track_id": "6tZ2akfNBG9EQlvhEPYV2Q",
+      "spotify_url": "https://open.spotify.com/track/6tZ2akfNBG9EQlvhEPYV2Q"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--iron-lion-zion",
+      "name": "Iron Lion Zion",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
+      "release_name": "Songs Of Freedom Rarities",
+      "spotify_track_id": "0oz9leJwzlmmRKWe3Pgjh4",
+      "spotify_url": "https://open.spotify.com/track/0oz9leJwzlmmRKWe3Pgjh4"
+    },
+    {
+      "canonical_slug": "sublime--right-back",
+      "name": "Right Back",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "6BukIakKj13FZWCugXCCda",
+      "spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda"
+    },
+    {
+      "canonical_slug": "sublime--d-j-s",
+      "name": "D.J.'s",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
+      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--zimbabwe",
+      "name": "Zimbabwe",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--survival",
+      "release_name": "Survival",
+      "spotify_track_id": "5ApfJDLibIoWL0mRZ5uOKu",
+      "spotify_url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
+    },
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0vtJ9Dq53hfXE3KyP1yPni",
+      "spotify_url": "https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--babylon-system",
+      "name": "Babylon System",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--survival",
+      "release_name": "Survival",
+      "spotify_track_id": "6xbtDXk8utIS8rOWD0X9XA",
+      "spotify_url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
+    },
+    {
+      "canonical_slug": "sublime--badfish",
+      "name": "Badfish",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2fXLhLA7cPYEmQ1NbeAtBD",
+      "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--buffalo-soldier",
+      "name": "Buffalo Soldier",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "release_name": "Confrontation",
+      "spotify_track_id": "7BfW1eoDh27W69nxsmRicb",
+      "spotify_url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--coming-in-from-the-cold",
+      "name": "Coming In From The Cold",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--uprising",
+      "release_name": "Uprising",
+      "spotify_track_id": "6lmLUNd7mcyYqKcg6EIAOu",
+      "spotify_url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--reggae.json",
+      "url": "https://en.wikipedia.org/wiki/Reggae",
+      "retrieved_at": "2026-03-27T09:31:50Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--reggae.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Anderson1978.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:47:54.056Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

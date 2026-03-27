@@ -2,6 +2,7 @@
   "canonical_slug": "darpan",
   "name": "Darpan",
   "spotify_artist_id": "2nG2U57GA2wEds6bfqQMQd",
+  "spotify_url": "https://open.spotify.com/artist/2nG2U57GA2wEds6bfqQMQd",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab67616d0000b273b187a7b6ca261c71ccf8dcc3",
@@ -19,5 +20,18 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Darpan",
+    "Darpan (actor)",
+    "Darpan Art Gallery",
+    "Darpan Chhaya",
+    "Darpan Chhaya 2",
+    "Darpan Inani",
+    "Darpan Sanghvi",
+    "Darpana Academy of Performing Arts",
+    "Darpanarayan Tagore",
+    "Darpanet"
+  ],
+  "last_updated": "2026-03-27"
 }

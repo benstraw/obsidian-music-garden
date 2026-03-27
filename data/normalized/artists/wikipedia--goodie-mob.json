@@ -1,0 +1,63 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "goodie-mob",
+  "name": "Goodie Mob",
+  "status": "matched",
+  "page_title": "Goodie Mob",
+  "summary": "Goodie Mob is an American hip-hop group based in Atlanta, Georgia, consisting of CeeLo Green, Khujo, T-Mo, and Big Gipp.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Goodie_Mob",
+  "candidates": [
+    "Goodie Mob",
+    "Goodie Mob discography",
+    "Goodie Ibru",
+    "Robert E. Goodin",
+    "Google Mobile Services",
+    "Mount Goode (California)",
+    "Goode Mountain",
+    "Goodee Montgomery",
+    "Rob Goode",
+    "Goldie Morgentaler"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Goodie Mob",
+    "page_url": "https://en.wikipedia.org/wiki/Goodie_Mob",
+    "retrieved_at": "2026-03-27T09:26:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Goodie Mob Backwoods Backstage 85 South Show Live @ One Music Fest.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Goodie_Mob_Backwoods_Backstage_85_South_Show_Live_@_One_Music_Fest.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goodie_Mob_Backwoods_Backstage_85_South_Show_Live_%40_One_Music_Fest.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goodie_Mob_Backwoods_Backstage_85_South_Show_Live_%40_One_Music_Fest.png/960px-Goodie_Mob_Backwoods_Backstage_85_South_Show_Live_%40_One_Music_Fest.png",
+      "width": 1366,
+      "height": 773,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "The 85 South Comedy Show"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "source": "wikipedia",
+  "source_genre": "blues rock",
+  "canonical_genre_slug": "blues-rock",
+  "status": "matched",
+  "page_title": "Blues rock",
+  "summary": "Blues rock is a fusion genre and form of rock and blues music that relies on the chords/scales and instrumental improvisation of blues. It is mostly an electric ensemble-style music with instrumentation similar to electric blues and rock. From its beginnings in the early to mid-1960s, blues rock has gone through several stylistic shifts and along the way it inspired and influenced hard rock, Southern rock, and early heavy metal.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Blues_rock",
+  "candidates": [
+    "Blues rock",
+    "Blues Rock Casino",
+    "Blue Lock",
+    "Ricky Blues",
+    "Blue Lock season 1",
+    "Blue Lock season 2",
+    "Blue rock thrush",
+    "Blue Stockings Society",
+    "Bluestockings (bookstore)",
+    "Bluestocking"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blues rock",
+    "page_url": "https://en.wikipedia.org/wiki/Blues_rock",
+    "retrieved_at": "2026-03-27T09:30:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Eric \"slowhand\" Clapton.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_%22slowhand%22_Clapton.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eric_%22slowhand%22_Clapton.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eric_%22slowhand%22_Clapton.jpg/960px-Eric_%22slowhand%22_Clapton.jpg",
+    "width": 2362,
+    "height": 1898,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/8744852@N03\"\u003eStoned59\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eric \"slowhand\" Clapton.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_%22slowhand%22_Clapton.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eric_%22slowhand%22_Clapton.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eric_%22slowhand%22_Clapton.jpg/960px-Eric_%22slowhand%22_Clapton.jpg",
+      "width": 2362,
+      "height": 1898,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/8744852@N03\"\u003eStoned59\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

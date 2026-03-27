@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Gil%20Evans",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Gil%20Evans",
+  "cache_key": "summaries/artist--gil-evans",
+  "fetched_at": "2026-03-27T09:26:18Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

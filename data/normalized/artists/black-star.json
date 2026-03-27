@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "67ei8ib6PLT1w3OkhIb4fB",
   "name": "Black Star",
+  "spotify_url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB",
   "source_genres": [
     "east coast hip hop",
     "hip hop",
@@ -9,6 +10,22 @@
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
-    "hip-hop"
+    "east-coast-hip-hop",
+    "hip-hop",
+    "jazz-rap",
+    "old-school-hip-hop"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Black Star",
+    "Black Star (Amaarae album)",
+    "Black Star (rap duo)",
+    "Black Star Canyon",
+    "Black Star Line",
+    "Black Star Riders",
+    "Black Star Square",
+    "Black start",
+    "Black, Starr \u0026 Frost",
+    "The Black Star Project"
   ]
 }

@@ -2,6 +2,7 @@
   "canonical_slug": "harnam",
   "name": "Harnam",
   "spotify_artist_id": "7anzpNKL4YlUHekGf10IVg",
+  "spotify_url": "https://open.spotify.com/artist/7anzpNKL4YlUHekGf10IVg",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb0d0690ba8e1516afad52f24f",
@@ -19,5 +20,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Harnam Folk Dance Ensemble",
+    "Harnam Khera",
+    "Harnam Singh",
+    "Harnam Singh (saint)",
+    "Harnam Singh Grewal",
+    "Harnam Singh Khalsa",
+    "Harnam Singh Saini",
+    "Harnam Singh Wala",
+    "Harnamdutt Shastri",
+    "Harnampura"
+  ],
+  "last_updated": "2026-03-27"
 }

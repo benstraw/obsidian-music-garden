@@ -1,4 +1,272 @@
 {
   "canonical_slug": "funk-rock",
-  "pending": true
+  "display_title": "Funk Rock",
+  "display_name": "Funk Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "funk rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Funk rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Funk_rock",
+  "summary": "Funk rock is a fusion genre that mixes elements of funk and rock. James Brown and others declared that Little Richard and his mid-1950s road band, the Upsetters, were the first to put the funk in the rock and roll beat, with a biographer stating that their music \"spark[ed] the musical transition from fifties rock and roll to sixties funk\".",
+  "candidates": [
+    "Folk rock",
+    "Fuji Rock Festival",
+    "Funk rock",
+    "Ricarda Funk",
+    "Richard Funk",
+    "Robert A. Funk",
+    "Robert W. Funk",
+    "Rocky Fund",
+    "The Funk Rocker",
+    "Vicki Funk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Funk rock",
+    "page_url": "https://en.wikipedia.org/wiki/Funk_rock",
+    "retrieved_at": "2026-03-27T09:30:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rhcp2013.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rhcp2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhcp2013.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rhcp2013.jpg/960px-Rhcp2013.jpg",
+      "width": 2000,
+      "height": 1330,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca href=\"//www.flickr.com/people/49651517@N02\" class=\"extiw\" title=\"flickruser:49651517@N02\"\u003eColleen Benelli\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 10,
+    "unique_artist_count": 1,
+    "unique_release_count": 4,
+    "unique_track_count": 10,
+    "first_played_at": "2026-03-01T00:42:35.656Z",
+    "last_played_at": "2026-03-01T02:26:13.421Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "funkadelic",
+      "name": "Funkadelic",
+      "play_count": 10,
+      "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+      "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "funkadelic--maggot-brain",
+      "name": "Maggot Brain",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "funkadelic--america-eats-its-young",
+      "name": "America Eats Its Young",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "funkadelic--funkadelic",
+      "name": "Funkadelic",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
+      "name": "Standing On The Verge Of Getting It On",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "funkadelic--back-in-our-minds",
+      "name": "Back In Our Minds",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "25XlPV3Khx2RVhwCBC6HNe",
+      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
+    },
+    {
+      "canonical_slug": "funkadelic--biological-speculation",
+      "name": "Biological Speculation",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--america-eats-its-young",
+      "release_name": "America Eats Its Young",
+      "spotify_track_id": "1S4igP7OpCUIEC5l75DssU",
+      "spotify_url": "https://open.spotify.com/track/1S4igP7OpCUIEC5l75DssU"
+    },
+    {
+      "canonical_slug": "funkadelic--can-you-get-to-that",
+      "name": "Can You Get To That",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "5lc9L9FeLBwlJPgEbq9uEw",
+      "spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
+    },
+    {
+      "canonical_slug": "funkadelic--hit-it-and-quit-it",
+      "name": "Hit It and Quit It",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "2w7R3CQgvl8PIKJlwtT9Mv",
+      "spotify_url": "https://open.spotify.com/track/2w7R3CQgvl8PIKJlwtT9Mv"
+    },
+    {
+      "canonical_slug": "funkadelic--i-ll-bet-you",
+      "name": "I'll Bet You",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--funkadelic",
+      "release_name": "Funkadelic",
+      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
+      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
+    },
+    {
+      "canonical_slug": "funkadelic--i-ll-stay",
+      "name": "I'll Stay",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
+      "release_name": "Standing On The Verge Of Getting It On",
+      "spotify_track_id": "5ZjLReKZ5EErHjlblKedFv",
+      "spotify_url": "https://open.spotify.com/track/5ZjLReKZ5EErHjlblKedFv"
+    },
+    {
+      "canonical_slug": "funkadelic--maggot-brain",
+      "name": "Maggot Brain",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "5WJU527RQNyMLuKecjsL8V",
+      "spotify_url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
+    },
+    {
+      "canonical_slug": "funkadelic--super-stupid",
+      "name": "Super Stupid",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "2X6qfjDzhKQA7UqhzyJrQP",
+      "spotify_url": "https://open.spotify.com/track/2X6qfjDzhKQA7UqhzyJrQP"
+    },
+    {
+      "canonical_slug": "funkadelic--wars-of-armageddon",
+      "name": "Wars Of Armageddon",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "5kyqgKXp6HdMXdNMsp22EJ",
+      "spotify_url": "https://open.spotify.com/track/5kyqgKXp6HdMXdNMsp22EJ"
+    },
+    {
+      "canonical_slug": "funkadelic--you-and-your-folks-me-and-my-folks",
+      "name": "You And Your Folks, Me And My Folks",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "1alxqrqIYG7YIlaCmwzl6p",
+      "spotify_url": "https://open.spotify.com/track/1alxqrqIYG7YIlaCmwzl6p"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--funk-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Funk_rock",
+      "retrieved_at": "2026-03-27T09:30:53Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--funk-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-01T02:26:13.421Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

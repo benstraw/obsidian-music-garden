@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/The%20Dare",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/The%20Dare",
+  "cache_key": "summaries/artist--the-dare",
+  "fetched_at": "2026-03-27T09:28:12Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

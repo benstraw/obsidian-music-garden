@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Charles%20Bradley",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Charles%20Bradley",
+  "cache_key": "summaries/artist--charles-bradley",
+  "fetched_at": "2026-03-27T09:25:51Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -2,9 +2,109 @@
   "source": "spotify",
   "source_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
   "name": "Grateful Dead",
+  "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT",
   "source_genres": [
     "acid rock",
     "jam band",
     "psychedelic rock"
+  ],
+  "canonical_genre_slugs": [
+    "acid-rock",
+    "jam-band",
+    "psychedelic-rock"
+  ],
+  "status": "matched",
+  "page_title": "Grateful Dead",
+  "summary": "The Grateful Dead was an American rock band formed in Palo Alto, California, in 1965. Known for their eclectic style that fused elements of rock, blues, jazz, folk, country, bluegrass, rock and roll, gospel, reggae, and world music with psychedelia, the band is famous for improvisation during their live performances, and for their devoted fan base, known as \"Deadheads\". According to the musician and writer Lenny Kaye, the music of the Grateful Dead \"touches on ground that most other groups don't even know exists\". For the range of their influences and the structure of their live performances, the Grateful Dead are considered \"the pioneering godfathers of the jam band world\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Grateful_Dead",
+  "candidates": [
+    "Grateful Dead",
+    "Grateful Dead (album)",
+    "Grateful Dead Download Series Volume 1",
+    "Grateful Dead Meet-Up at the Movies",
+    "Grateful Dead Origins",
+    "Grateful Dead discography",
+    "Grateful Dead: Dead Ahead",
+    "Grateful dead (folklore)",
+    "The Grateful Dead (album)",
+    "The Grateful Dead Movie"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Grateful Dead",
+    "page_url": "https://en.wikipedia.org/wiki/Grateful_Dead",
+    "retrieved_at": "2026-03-27T09:26:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1967 Mantra-Rock Dance Avalon poster.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/960px-1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "width": 1772,
+    "height": 2935,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Harvey W. Cohen"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1967 Mantra-Rock Dance Avalon poster.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/960px-1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "width": 1772,
+      "height": 2935,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Harvey W. Cohen"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Billbongo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Billbongo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Billbongo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Billbongo.jpg",
+      "width": 692,
+      "height": 514,
+      "license": "Public domain",
+      "author": "User:Marcia Wright"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Weir and Mickey Hart, Obama Inaugural.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Weir_and_Mickey_Hart,_Obama_Inaugural.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bob_Weir_and_Mickey_Hart%2C_Obama_Inaugural.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bob_Weir_and_Mickey_Hart%2C_Obama_Inaugural.jpg/960px-Bob_Weir_and_Mickey_Hart%2C_Obama_Inaugural.jpg",
+      "width": 2540,
+      "height": 1751,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/65193799@N00\"\u003edbking\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Grateful Dead (1970) (high quality).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Grateful_Dead_(1970)_(high_quality).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Grateful_Dead_%281970%29_%28high_quality%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Grateful_Dead_%281970%29_%28high_quality%29.png/960px-Grateful_Dead_%281970%29_%28high_quality%29.png",
+      "width": 1800,
+      "height": 1200,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Herb_Greene_(photographer)\" class=\"extiw\" title=\"en:Herb Greene (photographer)\"\u003eHerb Greene\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Grateful Dead - Fare Thee Well - Soldier Field - Chicago - 2015.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Grateful_Dead_-_Fare_Thee_Well_-_Soldier_Field_-_Chicago_-_2015.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Grateful_Dead_-_Fare_Thee_Well_-_Soldier_Field_-_Chicago_-_2015.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Grateful_Dead_-_Fare_Thee_Well_-_Soldier_Field_-_Chicago_-_2015.jpg/960px-Grateful_Dead_-_Fare_Thee_Well_-_Soldier_Field_-_Chicago_-_2015.jpg",
+      "width": 8144,
+      "height": 2332,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125112383@N06\"\u003eShelby Bell\u003c/a\u003e from Omaha, NE, US"
+    }
   ]
 }

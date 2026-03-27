@@ -1,7 +1,114 @@
 {
   "canonical_slug": "indie-pop",
+  "display_title": "Indie Pop",
+  "display_name": "Indie Pop",
+  "parent_slug": "pop",
   "aliases": [
     "indie pop"
   ],
-  "pending": false
+  "pending": false,
+  "status": "matched",
+  "wikipedia_title": "Indie pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Indie_pop",
+  "summary": "Indie pop is a music genre and subculture that combines guitar pop with a DIY ethic in opposition to the style and tone of mainstream pop music. It originated from British post-punk in the late 1970s and subsequently generated a thriving fanzine, label, and club and gig circuit. Compared to its counterpart, indie rock, the genre is more melodic, less abrasive, and relatively angst-free. In later years, the definition of indie pop has bifurcated to also mean bands from unrelated DIY scenes/movements with pop leanings. Subgenres include chamber pop and twee pop.",
+  "candidates": [
+    "India Post",
+    "Indian Point Energy Center",
+    "Indian Police Service",
+    "Indie Pop Rocks!",
+    "Indie RPG Awards",
+    "Indie folk",
+    "Indie pop",
+    "Indie rock",
+    "Indie role-playing game",
+    "Indiependence"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Indie pop",
+    "page_url": "https://en.wikipedia.org/wiki/Indie_pop",
+    "retrieved_at": "2026-03-27T09:31:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:AcidHouseKings.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:AcidHouseKings.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/AcidHouseKings.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/AcidHouseKings.jpg",
+    "width": 600,
+    "height": 400,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "bradsearles"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AcidHouseKings.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AcidHouseKings.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/AcidHouseKings.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/AcidHouseKings.jpg",
+      "width": 600,
+      "height": 400,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "bradsearles"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Allo Darlin' onstage IndiePopDays 01 - Berlin Sept 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Allo_Darlin%27_onstage_IndiePopDays_01_-_Berlin_Sept_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Allo_Darlin%27_onstage_IndiePopDays_01_-_Berlin_Sept_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Allo_Darlin%27_onstage_IndiePopDays_01_-_Berlin_Sept_2010.jpg/960px-Allo_Darlin%27_onstage_IndiePopDays_01_-_Berlin_Sept_2010.jpg",
+      "width": 1024,
+      "height": 685,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35160239@N07\"\u003eAlexander\u003c/a\u003e from Berlin, Germany"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Television Personalities (5363667797).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Television_Personalities_(5363667797).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Television_Personalities_%285363667797%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Television_Personalities_%285363667797%29.jpg/960px-Television_Personalities_%285363667797%29.jpg",
+      "width": 2779,
+      "height": 1821,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--indie-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Indie_pop",
+      "retrieved_at": "2026-03-27T09:31:06Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--indie-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:AcidHouseKings.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

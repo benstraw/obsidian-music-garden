@@ -216,8 +216,13 @@ single source.
 Current aggregated record includes:
 
 - canonical slug
+- display title
 - aliases
 - pending review state
+- editorial summary and image metadata when available
+- listening stats from local Spotify play history
+- top artists, releases, and tracks for the genre
+- source references that explain where major fields came from
 
 ### Track
 
@@ -250,6 +255,9 @@ Current mechanisms:
 - play records include `source`
 - canonical records keep source IDs and source URLs
 - canonical metadata records include `last_updated`
+- aggregated genre records include explicit `source_refs` for taxonomy,
+  listening-derived fields, Wikipedia editorial fields, and MusicBrainz-linked
+  cross-source enrichment
 
 This should be extended over time with more explicit source-link arrays if the
 number of upstream systems grows.
@@ -281,3 +289,23 @@ The data model is intentionally shaped so a separate public website repo can:
 That downstream use is a design goal, but it should remain downstream. This
 repository should stay focused on collection, canonicalization, storage, and
 Obsidian-oriented output.
+
+## Genre Aggregation Flow
+
+Genre aggregation is intentionally file-based and deterministic.
+
+Inputs:
+
+- `data/genre-taxonomy.json` for canonical slug, title, aliases, parent, and notes
+- `data/genres.json` for merged canonical artist, release, track, and genre metadata
+- `data/plays/YYYY/YYYY-WNN.json` for local listening-derived counts
+- normalized Wikipedia and MusicBrainz records that have already been folded into
+  the canonical store
+
+Output:
+
+- one JSON file per canonical genre slug under `data/aggregated/genres/`
+
+The aggregate is designed to be the handoff record for later markdown
+generation and later public-site consumption without making this repository a
+publishing system.

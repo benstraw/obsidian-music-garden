@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/13501c7d-d181-45ba-af52-5f101d8516a0",
+  "request_url": "https://musicbrainz.org/ws/2/artist/13501c7d-d181-45ba-af52-5f101d8516a0?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/13501c7d-d181-45ba-af52-5f101d8516a0",
+  "fetched_at": "2026-03-27T09:33:52Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

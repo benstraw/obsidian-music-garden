@@ -1,4 +1,128 @@
 {
   "canonical_slug": "swing-music",
-  "pending": true
+  "display_title": "Swing Music",
+  "display_name": "Swing Music",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Swing music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Swing_music",
+  "summary": "Swing music is a style of jazz that developed in the United States during the late 1920s and early 1930s. It became nationally popular from the mid-1930s. Swing represents the most famous era of jazz as a genre of entertainment, before the emergence of modern jazz. Swing bands usually featured soloists who would improvise on the melody over the arrangement. The danceable swing style of big bands and bandleaders such as Fletcher Henderson and Benny Goodman was the dominant form of American popular music from 1935 to 1946, known as the swing era, when people were dancing the Lindy Hop. The verb \"to swing\" is also used as a term of praise for playing that has a strong groove or drive. Big band leaders of the swing era include Benny Goodman, Duke Ellington, Count Basie, Jimmie Lunceford, Cab Calloway, Benny Carter, Jimmy Dorsey, Tommy Dorsey, Earl Hines, Bunny Berigan, Harry James, Lionel Hampton, Glenn Miller, and Artie Shaw.",
+  "candidates": [
+    "La Seine Musicale",
+    "Sting (musician)",
+    "String (music)",
+    "Swing (music group)",
+    "Swing (musical)",
+    "Swing music",
+    "Swiss Music Awards",
+    "Swiss Music Pedagogic Association",
+    "Swiss Musicians' Union",
+    "Will Swan (musician)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Swing music",
+    "page_url": "https://en.wikipedia.org/wiki/Swing_music",
+    "retrieved_at": "2026-03-27T09:32:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:BennyGoodmanStageDoorCanteen.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanStageDoorCanteen.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/BennyGoodmanStageDoorCanteen.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/BennyGoodmanStageDoorCanteen.jpg",
+    "width": 448,
+    "height": 336,
+    "license": "Public domain",
+    "author": "Film screenshot"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BennyGoodmanStageDoorCanteen.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanStageDoorCanteen.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/BennyGoodmanStageDoorCanteen.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/BennyGoodmanStageDoorCanteen.jpg",
+      "width": 448,
+      "height": 336,
+      "license": "Public domain",
+      "author": "Film screenshot"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FletcherHendersonOrchestra1925.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FletcherHendersonOrchestra1925.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/FletcherHendersonOrchestra1925.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/FletcherHendersonOrchestra1925.jpg/960px-FletcherHendersonOrchestra1925.jpg",
+      "width": 1182,
+      "height": 735,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frank Sinatra laughing.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frank_Sinatra_laughing.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Frank_Sinatra_laughing.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Frank_Sinatra_laughing.jpg/960px-Frank_Sinatra_laughing.jpg",
+      "width": 1186,
+      "height": 1534,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--swing-music.json",
+      "url": "https://en.wikipedia.org/wiki/Swing_music",
+      "retrieved_at": "2026-03-27T09:32:12Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--swing-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanStageDoorCanteen.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

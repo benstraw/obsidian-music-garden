@@ -1,4 +1,5 @@
 {
   "source": "musicbrainz",
-  "source_genre": "pop/rock"
+  "source_genre": "pop rock",
+  "canonical_genre_slug": "pop"
 }

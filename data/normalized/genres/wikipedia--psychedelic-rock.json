@@ -1,0 +1,88 @@
+{
+  "source": "wikipedia",
+  "source_genre": "psychedelic rock",
+  "canonical_genre_slug": "psychedelic-rock",
+  "status": "matched",
+  "page_title": "Psychedelic rock",
+  "summary": "Psychedelic rock is a subgenre of rock music that originally emerged during the mid-1960s, inspired by psychedelic culture and primarily centered around the influence of psychoactive and hallucinogenic drugs. The music incorporated new electronic sound effects and recording techniques, extended instrumental solos, and improvisation. Many psychedelic groups differ in style, with the label often applied spuriously.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Psychedelic_rock",
+  "candidates": [
+    "Psychedelic rock",
+    "Psychedelic rock in Latin America",
+    "Psychedelic rock in Australia and New Zealand",
+    "Psychedelic rock gecko",
+    "Psychedelic folk",
+    "The Psychedelic Folk Virgins"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Psychedelic rock",
+    "page_url": "https://en.wikipedia.org/wiki/Psychedelic_rock",
+    "retrieved_at": "2026-03-27T09:31:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1967 Mantra-Rock Dance Avalon poster.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/960px-1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "width": 1772,
+    "height": 2935,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Harvey W. Cohen"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1967 Mantra-Rock Dance Avalon poster.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/960px-1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "width": 1772,
+      "height": 2935,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Harvey W. Cohen"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Byrds - Eight Miles High.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flowerpowerportfolio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flowerpowerportfolio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "width": 698,
+      "height": 361,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rightleftright\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rightleftright (page does not exist)\"\u003eRightleftright\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guitar 1.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guitar_1.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Guitar_1.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Guitar_1.svg/960px-Guitar_1.svg.png",
+      "width": 709,
+      "height": 886,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/maxim2\"\u003emaxim2\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,5 +1,19 @@
 {
   "source": "spotify",
   "source_artist_id": "2nG2U57GA2wEds6bfqQMQd",
-  "name": "Darpan"
+  "name": "Darpan",
+  "spotify_url": "https://open.spotify.com/artist/2nG2U57GA2wEds6bfqQMQd",
+  "status": "ambiguous",
+  "candidates": [
+    "Darpan",
+    "Darpan (actor)",
+    "Darpan Art Gallery",
+    "Darpan Chhaya",
+    "Darpan Chhaya 2",
+    "Darpan Inani",
+    "Darpan Sanghvi",
+    "Darpana Academy of Performing Arts",
+    "Darpanarayan Tagore",
+    "Darpanet"
+  ]
 }

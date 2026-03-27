@@ -2,6 +2,7 @@
   "canonical_slug": "simran-and-guruprem",
   "name": "Simran \u0026 GuruPrem",
   "spotify_artist_id": "6lkOq7qccqrCLBwJgXWfRn",
+  "spotify_url": "https://open.spotify.com/artist/6lkOq7qccqrCLBwJgXWfRn",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab67616d0000b2737cf59857d00e1d447b7ec2ea",
@@ -19,5 +20,6 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "not_found",
+  "last_updated": "2026-03-27"
 }

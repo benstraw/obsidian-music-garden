@@ -1,4 +1,178 @@
 {
   "canonical_slug": "neo-soul",
-  "pending": true
+  "display_title": "Neo Soul",
+  "display_name": "Neo Soul",
+  "parent_slug": "soul",
+  "aliases": [
+    "neo soul"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Neo soul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Neo_soul",
+  "summary": "Neo soul is a genre of popular music. As a term, it was coined by music industry entrepreneur Kedar Massenburg during the late 1990s to market and describe the style of music that emerged from soul and contemporary R\u0026B. Evolving from soul music, neo soul is distinguished by a less conventional sound than its contemporary R\u0026B counterpart, with elements ranging from funk, jazz fusion, hip hop and rock. It has been noted by music writers for its conscious lyrics.",
+  "candidates": [
+    "NEO Surveyor",
+    "Neo Sora",
+    "Neo Souli",
+    "Neo Souli, Achaea",
+    "Neo Souli, Serres",
+    "Neo soul",
+    "Neo-Stalinism",
+    "Neocolonialism",
+    "Neofolk",
+    "New South Wales"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neo soul",
+    "page_url": "https://en.wikipedia.org/wiki/Neo_soul",
+    "retrieved_at": "2026-03-27T09:31:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Common-02-mika.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Common-02-mika.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Common-02-mika.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Common-02-mika.jpg/960px-Common-02-mika.jpg",
+    "width": 1112,
+    "height": 1125,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Common-02-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Common-02-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Common-02-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Common-02-mika.jpg/960px-Common-02-mika.jpg",
+      "width": 1112,
+      "height": 1125,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:D'Angelo Pori Jazz 2012 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:D%27Angelo_Pori_Jazz_2012_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg/960px-D%27Angelo_Pori_Jazz_2012_%28cropped%29.jpg",
+      "width": 1331,
+      "height": 1663,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Roquai\" title=\"User:Roquai\"\u003eRoquai\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Erykah badu-02-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Erykah_badu-02-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Erykah_badu-02-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Erykah_badu-02-mika.jpg/960px-Erykah_badu-02-mika.jpg",
+      "width": 1122,
+      "height": 1134,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:India.Arie 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:India.Arie_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/India.Arie_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/India.Arie_2.jpg/960px-India.Arie_2.jpg",
+      "width": 1024,
+      "height": 685,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Chris Hakkens"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jill scott-06-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jill_scott-06-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jill_scott-06-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jill_scott-06-mika.jpg",
+      "width": 823,
+      "height": 546,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-06T05:07:35.952Z",
+    "last_played_at": "2026-03-06T05:07:35.952Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "common",
+      "name": "Common",
+      "play_count": 1,
+      "spotify_artist_id": "2GHclqNVjqGuiE5mA7BEoc",
+      "spotify_url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "common--like-water-for-chocolate",
+      "name": "Like Water For Chocolate",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "common--the-light",
+      "name": "The Light",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common",
+      "release_canonical_slug": "common--like-water-for-chocolate",
+      "release_name": "Like Water For Chocolate",
+      "spotify_track_id": "2X2S3KBzWe2xrjMi8ILtTF",
+      "spotify_url": "https://open.spotify.com/track/2X2S3KBzWe2xrjMi8ILtTF"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--neo-soul.json",
+      "url": "https://en.wikipedia.org/wiki/Neo_soul",
+      "retrieved_at": "2026-03-27T09:31:26Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--neo-soul.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Common-02-mika.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-06T05:07:35.952Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

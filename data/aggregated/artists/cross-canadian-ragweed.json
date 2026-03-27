@@ -2,6 +2,13 @@
   "canonical_slug": "cross-canadian-ragweed",
   "name": "Cross Canadian Ragweed",
   "spotify_artist_id": "5Vz7hlMWR4OFye64dYoGm0",
+  "spotify_url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0",
+  "genres": [
+    "alt-country",
+    "outlaw-country",
+    "red-dirt",
+    "texas-country"
+  ],
   "source_genres": [
     "alt country",
     "outlaw country",
@@ -30,5 +37,45 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Cross Canadian Ragweed",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cross_Canadian_Ragweed",
+  "summary": "Cross Canadian Ragweed is an American alt-country and rock band formed in Yukon, Oklahoma in 1994 that played until 2010, and then reunited in 2024. The band takes its name from the last names of the original 4 members. Cross- Grady Cross, Canadian- Cody Canada, Rag- Randy Ragsdale, Weed- Matt Wiedemann. The band consists of Cody Canada, Grady Cross (guitar), Randy Ragsdale (drums), and Jeremy Plato. The group released five studio albums and three live albums from 1994 until 2010. The band was at the forefront of the rise of the red dirt music scene in Oklahoma and the Texas Music scene.",
+  "candidates": [
+    "Cross Canadian Ragweed",
+    "Cross Canadian Ragweed (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cross Canadian Ragweed",
+    "page_url": "https://en.wikipedia.org/wiki/Cross_Canadian_Ragweed",
+    "retrieved_at": "2026-03-27T09:25:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cross Canadian Ragweed 2009.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cross_Canadian_Ragweed_2009.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cross_Canadian_Ragweed_2009.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cross_Canadian_Ragweed_2009.jpg/960px-Cross_Canadian_Ragweed_2009.jpg",
+    "width": 1600,
+    "height": 1067,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Doug Miller"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cross Canadian Ragweed 2009.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cross_Canadian_Ragweed_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cross_Canadian_Ragweed_2009.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cross_Canadian_Ragweed_2009.jpg/960px-Cross_Canadian_Ragweed_2009.jpg",
+      "width": 1600,
+      "height": 1067,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Doug Miller"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

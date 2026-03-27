@@ -2,10 +2,107 @@
   "source": "spotify",
   "source_artist_id": "5l8VQNuIg0turYE1VtM9zV",
   "name": "Leonard Cohen",
+  "spotify_url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV",
   "source_genres": [
     "singer-songwriter"
   ],
   "canonical_genre_slugs": [
     "singer-songwriter"
+  ],
+  "status": "matched",
+  "page_title": "Leonard Cohen",
+  "summary": "Leonard Norman Cohen was a Canadian songwriter, singer, poet, and novelist. Themes commonly explored throughout his work include faith and mortality, isolation and depression, betrayal and redemption, social and political conflict, sexual and romantic love, desire, regret, and loss. He was inducted into the Canadian Music Hall of Fame, the Canadian Songwriters Hall of Fame, and the Rock and Roll Hall of Fame. He was invested as a Companion of the Order of Canada, the nation's highest civilian honour. In 2011, he received one of the Prince of Asturias Awards for literature and the ninth Glenn Gould Prize. In 2023, Rolling Stone named Cohen the 103rd-greatest singer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+  "candidates": [
+    "Leonard Cheshire",
+    "Leonard Cohen",
+    "Leonard Cohen (Boygenius song)",
+    "Leonard Cohen - Tower of Song",
+    "Leonard Cohen Tour 2008–2010",
+    "Leonard Cohen and Philosophy",
+    "Leonard Cohen discography",
+    "Leonard Cohen in Concert",
+    "Leonard Cohen: Bird on a Wire",
+    "Leonard Cohen: I'm Your Man"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Leonard Cohen",
+    "page_url": "https://en.wikipedia.org/wiki/Leonard_Cohen",
+    "retrieved_at": "2026-03-27T09:26:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2016-11-12 Leonard Cohen memorial Montreal (30927893376).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2016-11-12_Leonard_Cohen_memorial_Montreal_(30927893376).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/2016-11-12_Leonard_Cohen_memorial_Montreal_%2830927893376%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-11-12_Leonard_Cohen_memorial_Montreal_%2830927893376%29.jpg/960px-2016-11-12_Leonard_Cohen_memorial_Montreal_%2830927893376%29.jpg",
+    "width": 4032,
+    "height": 3024,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29442760@N00\"\u003eExile on Ontario St\u003c/a\u003e from Montreal, Canada"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2016-11-12 Leonard Cohen memorial Montreal (30927893376).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2016-11-12_Leonard_Cohen_memorial_Montreal_(30927893376).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/2016-11-12_Leonard_Cohen_memorial_Montreal_%2830927893376%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2016-11-12_Leonard_Cohen_memorial_Montreal_%2830927893376%29.jpg/960px-2016-11-12_Leonard_Cohen_memorial_Montreal_%2830927893376%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29442760@N00\"\u003eExile on Ontario St\u003c/a\u003e from Montreal, Canada"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:I'm Your Man - Interview with Leonard Cohen, 1988.webm",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:I%27m_Your_Man_-_Interview_with_Leonard_Cohen,_1988.webm",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/I%27m_Your_Man_-_Interview_with_Leonard_Cohen%2C_1988.webm",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/I%27m_Your_Man_-_Interview_with_Leonard_Cohen%2C_1988.webm/640px--I%27m_Your_Man_-_Interview_with_Leonard_Cohen%2C_1988.webm.jpg",
+      "width": 640,
+      "height": 360,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Leonard_Cohen\" class=\"extiw\" title=\"w:en:Leonard Cohen\"\u003e\u003cspan title=\"Canadian singer, songwriter and poet (1934–2016)\"\u003eLeonard Cohen\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e",
+      "attribution_text": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCrxt2t7V1VopmJ2dYqy-JTA\"\u003echemento\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Leonard Cohen, 1988 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Leonard_Cohen,_1988_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Leonard_Cohen%2C_1988_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Leonard_Cohen%2C_1988_01.jpg/960px-Leonard_Cohen%2C_1988_01.jpg",
+      "width": 2425,
+      "height": 3583,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gorupdebesanez\" title=\"User:Gorupdebesanez\"\u003eGorupdebesanez\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Leonard Cohen.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Leonard_Cohen.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leonard_Cohen.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Leonard_Cohen.jpg/960px-Leonard_Cohen.jpg",
+      "width": 2592,
+      "height": 1944,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Baggio\" title=\"User:Baggio\"\u003eBaggio\u003c/a\u003e"
+    }
   ]
 }

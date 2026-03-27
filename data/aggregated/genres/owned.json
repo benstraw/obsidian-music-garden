@@ -1,4 +1,53 @@
 {
   "canonical_slug": "owned",
-  "pending": true
+  "display_title": "Owned",
+  "display_name": "Owned",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Ownership",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ownership",
+  "summary": "Ownership is the state or fact of legal possession and control over property, which may be any asset, tangible or intangible. Ownership can involve multiple rights, collectively referred to as title, which may be separated and held by different parties.",
+  "candidates": [
+    "Owned",
+    "Owned (Jerry Cantrell song)",
+    "Owned (slang)",
+    "Owned collectively",
+    "Owned the libs",
+    "Owned-and-operated station",
+    "Owned-and-operated television stations in the United States",
+    "Owned: A Tale of Two Americas",
+    "Owner of a Lonely Heart",
+    "Ownership of Rangers F.C."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ownership",
+    "page_url": "https://en.wikipedia.org/wiki/Ownership",
+    "retrieved_at": "2026-03-27T09:31:31Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--owned.json",
+      "url": "https://en.wikipedia.org/wiki/Ownership",
+      "retrieved_at": "2026-03-27T09:31:31Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

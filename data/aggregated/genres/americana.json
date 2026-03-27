@@ -1,4 +1,297 @@
 {
   "canonical_slug": "americana",
-  "pending": true
+  "display_title": "Americana",
+  "display_name": "Americana",
+  "parent_slug": "country",
+  "aliases": [
+    "americana"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "American Airlines",
+    "American Airlines Center",
+    "Americana",
+    "Americana (2023 film)",
+    "Americana (The Offspring album)",
+    "Americana (culture)",
+    "Americana Music Honors \u0026 Awards",
+    "Americana music",
+    "Americana, São Paulo",
+    "Americanah"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 35,
+    "unique_artist_count": 9,
+    "unique_release_count": 16,
+    "unique_track_count": 19,
+    "first_played_at": "2026-02-13T02:25:41.986Z",
+    "last_played_at": "2026-03-20T02:33:37.149Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "john-prine",
+      "name": "John Prine",
+      "play_count": 19,
+      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+    },
+    {
+      "canonical_slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "play_count": 6,
+      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+    },
+    {
+      "canonical_slug": "emmylou-harris",
+      "name": "Emmylou Harris",
+      "play_count": 3,
+      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+    },
+    {
+      "canonical_slug": "lori-mckenna",
+      "name": "Lori McKenna",
+      "play_count": 2,
+      "spotify_artist_id": "1OV5mEATxtVma7fleFaUyl",
+      "spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+    },
+    {
+      "canonical_slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "play_count": 1,
+      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+    },
+    {
+      "canonical_slug": "joshua-ray-walker",
+      "name": "Joshua Ray Walker",
+      "play_count": 1,
+      "spotify_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
+      "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 1,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    },
+    {
+      "canonical_slug": "rose-s-pawn-shop",
+      "name": "Rose's Pawn Shop",
+      "play_count": 1,
+      "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+      "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+    },
+    {
+      "canonical_slug": "townes-van-zandt",
+      "name": "Townes Van Zandt",
+      "play_count": 1,
+      "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
+      "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "john-prine--in-spite-of-ourselves",
+      "name": "In Spite Of Ourselves",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb"
+    },
+    {
+      "canonical_slug": "john-prine--john-prine",
+      "name": "John Prine",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "lori-mckenna--the-tunnel",
+      "name": "The Tunnel",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lori-mckenna",
+      "primary_artist_name": "Lori McKenna"
+    },
+    {
+      "canonical_slug": "john-prine--bruised-orange",
+      "name": "Bruised Orange",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "john-prine--diamonds-in-the-rough",
+      "name": "Diamonds in the Rough",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
+      "name": "Elite Hotel (Expanded \u0026 Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris"
+    },
+    {
+      "canonical_slug": "john-prine--fair-and-square",
+      "name": "Fair and Square",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "rose-s-pawn-shop--gravity-well",
+      "name": "Gravity Well",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "rose-s-pawn-shop",
+      "primary_artist_name": "Rose's Pawn Shop"
+    },
+    {
+      "canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
+      "name": "Pieces of the Sky (Expanded \u0026 Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "john-prine--in-spite-of-ourselves",
+      "name": "In Spite of Ourselves",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--in-spite-of-ourselves",
+      "release_name": "In Spite Of Ourselves",
+      "spotify_track_id": "2K2eLVi9HJ84T1dkifkQ9O",
+      "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O"
+    },
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "release_name": "Keep 'Em on They Toes",
+      "spotify_track_id": "0f388trqcZyqGbPJUqGWpx",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
+    },
+    {
+      "canonical_slug": "john-prine--i-know-one",
+      "name": "I Know One",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--in-spite-of-ourselves",
+      "release_name": "In Spite Of Ourselves",
+      "spotify_track_id": "20z4r2Jhk3yOCTGuRSRMTE",
+      "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
+    },
+    {
+      "canonical_slug": "john-prine--spanish-pipedream",
+      "name": "Spanish Pipedream",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--john-prine",
+      "release_name": "John Prine",
+      "spotify_track_id": "7zrxGPR1UVK2iSK793vLPl",
+      "spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
+    },
+    {
+      "canonical_slug": "lori-mckenna--the-tunnel",
+      "name": "The Tunnel",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lori-mckenna",
+      "primary_artist_name": "Lori McKenna",
+      "release_canonical_slug": "lori-mckenna--the-tunnel",
+      "release_name": "The Tunnel",
+      "spotify_track_id": "3sSyvsyG3chmMvsWgPqV6J",
+      "spotify_url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J"
+    },
+    {
+      "canonical_slug": "john-prine--angel-from-montgomery",
+      "name": "Angel from Montgomery",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--john-prine",
+      "release_name": "John Prine",
+      "spotify_track_id": "2qWKpYIleSvBT6aUMXoia5",
+      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+    },
+    {
+      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
+      "name": "Bluebird Wine - 2003 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
+      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
+      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
+      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "canonical_slug": "john-prine--clocks-and-spoons",
+      "name": "Clocks and Spoons",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--diamonds-in-the-rough",
+      "release_name": "Diamonds in the Rough",
+      "spotify_track_id": "57M2Tzakrrj4pecyVet6kM",
+      "spotify_url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM"
+    },
+    {
+      "canonical_slug": "rose-s-pawn-shop--country-blues",
+      "name": "Country Blues",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "rose-s-pawn-shop",
+      "primary_artist_name": "Rose's Pawn Shop",
+      "release_canonical_slug": "rose-s-pawn-shop--gravity-well",
+      "release_name": "Gravity Well",
+      "spotify_track_id": "4902sigaZA0IflQ6FdWmtk",
+      "spotify_url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+    },
+    {
+      "canonical_slug": "john-prine--fish-and-whistle",
+      "name": "Fish and Whistle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--bruised-orange",
+      "release_name": "Bruised Orange",
+      "spotify_track_id": "4qA8M5hJn45rtFyWH5Ixar",
+      "spotify_url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-20T02:33:37.149Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

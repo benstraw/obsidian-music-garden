@@ -1,4 +1,140 @@
 {
   "canonical_slug": "jazz-funk",
-  "pending": true
+  "display_title": "Jazz Funk",
+  "display_name": "Jazz Funk",
+  "parent_slug": "jazz",
+  "aliases": [
+    "jazz funk"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Jake Funk",
+    "Jazz Bunker",
+    "Jazz Foundation of America",
+    "Jazz Funk (album)",
+    "Jazz funeral",
+    "Jazz funeral for the ERA",
+    "Jazz fusion",
+    "Jazz-funk",
+    "Jazz-funk dance",
+    "Jazzpunk"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 4,
+    "unique_artist_count": 3,
+    "unique_release_count": 3,
+    "unique_track_count": 4,
+    "first_played_at": "2026-03-01T01:45:13.204Z",
+    "last_played_at": "2026-03-08T20:38:10.244Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "gil-scott-heron",
+      "name": "Gil Scott-Heron",
+      "play_count": 2,
+      "spotify_artist_id": "0kEfub5RzlZOB2zGomqVSU",
+      "spotify_url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band",
+      "name": "Lafayette Afro Rock Band",
+      "play_count": 1,
+      "spotify_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
+      "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
+    },
+    {
+      "canonical_slug": "us3",
+      "name": "Us3",
+      "play_count": 1,
+      "spotify_artist_id": "4LtIfuFeAamus9OOItuWDD",
+      "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "name": "Pieces of a Man",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron"
+    },
+    {
+      "canonical_slug": "us3--hand-on-the-torch",
+      "name": "Hand On The Torch",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "us3",
+      "primary_artist_name": "Us3"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band--malik",
+      "name": "Malik",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+      "primary_artist_name": "Lafayette Afro Rock Band"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "us3--cantaloop-flip-fantasia",
+      "name": "Cantaloop (Flip Fantasia)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "us3",
+      "primary_artist_name": "Us3",
+      "release_canonical_slug": "us3--hand-on-the-torch",
+      "release_name": "Hand On The Torch",
+      "spotify_track_id": "2AnTuxahfcAS7dGxGZnihY",
+      "spotify_url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band--darkest-light-remastered",
+      "name": "Darkest Light - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+      "primary_artist_name": "Lafayette Afro Rock Band",
+      "release_canonical_slug": "lafayette-afro-rock-band--malik",
+      "release_name": "Malik",
+      "spotify_track_id": "6eDVnsVgEAjMdcczx4mpoq",
+      "spotify_url": "https://open.spotify.com/track/6eDVnsVgEAjMdcczx4mpoq"
+    },
+    {
+      "canonical_slug": "gil-scott-heron--home-is-where-the-hatred-is",
+      "name": "Home Is Where the Hatred Is",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "3pmp40HtLapVQ8L89Mz1vh",
+      "spotify_url": "https://open.spotify.com/track/3pmp40HtLapVQ8L89Mz1vh"
+    },
+    {
+      "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
+      "name": "The Revolution Will Not Be Televised",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
+      "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T20:38:10.244Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

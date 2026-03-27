@@ -2,8 +2,101 @@
   "source": "spotify",
   "source_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
   "name": "Edvard Grieg",
+  "spotify_url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy",
   "source_genres": [
     "classical",
     "classical piano"
+  ],
+  "canonical_genre_slugs": [
+    "classical",
+    "classical-piano"
+  ],
+  "status": "matched",
+  "page_title": "Edvard Grieg",
+  "summary": "Edvard Hagerup Grieg was a Norwegian composer and pianist. He is widely considered one of the leading Romantic era composers, and his music is part of the standard classical repertoire worldwide. His use of Norwegian folk music in his own compositions brought the music of Norway to fame, as well as helping to develop a national identity, much as Jean Sibelius did in Finland and Bedřich Smetana in Bohemia.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Edvard_Grieg",
+  "candidates": [
+    "Edvard Grieg",
+    "Edvard Grieg (sculpture)",
+    "Edvard Grieg House",
+    "Edvard Grieg In Jazz Mood",
+    "Edvard Grieg oil field",
+    "Edvard Grieg – mennesket og kunstneren",
+    "Edvard Grieg's music in popular culture",
+    "Edvard Grimstad",
+    "Edward Gregson",
+    "Edward Grigg, 1st Baron Altrincham"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Edvard Grieg",
+    "page_url": "https://en.wikipedia.org/wiki/Edvard_Grieg",
+    "retrieved_at": "2026-03-27T09:26:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edvard Grieg - Concerto in A minor, 1st movement.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edvard_Grieg_-_Concerto_in_A_minor,_1st_movement.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Edvard_Grieg_-_Concerto_in_A_minor%2C_1st_movement.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Edvard_Grieg\" class=\"extiw\" title=\"w:en:Edvard Grieg\"\u003e\u003cspan title=\"Norwegian composer and pianist (1843–1907)\"\u003eEdvard Grieg\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edvard Grieg - Concerto in A minor, 2nd movement.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edvard_Grieg_-_Concerto_in_A_minor,_2nd_movement.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Edvard_Grieg_-_Concerto_in_A_minor%2C_2nd_movement.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Edvard_Grieg\" class=\"extiw\" title=\"w:en:Edvard Grieg\"\u003e\u003cspan title=\"Norwegian composer and pianist (1843–1907)\"\u003eEdvard Grieg\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edvard Grieg - Concerto in A minor, 3rd movement.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edvard_Grieg_-_Concerto_in_A_minor,_3rd_movement.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edvard_Grieg_-_Concerto_in_A_minor%2C_3rd_movement.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Edvard_Grieg\" class=\"extiw\" title=\"w:en:Edvard Grieg\"\u003e\u003cspan title=\"Norwegian composer and pianist (1843–1907)\"\u003eEdvard Grieg\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edvard Grieg portrait (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edvard_Grieg_portrait_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg/960px-Edvard_Grieg_portrait_%28cropped%29.jpg",
+      "width": 1467,
+      "height": 2011,
+      "license": "No restrictions",
+      "license_url": "https://www.flickr.com/commons/usage/",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37381115@N04\"\u003eBergen Public Library Norway\u003c/a\u003e from Bergen, Norway"
+    }
   ]
 }

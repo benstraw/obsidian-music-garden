@@ -1,4 +1,175 @@
 {
   "canonical_slug": "baroque-pop",
-  "pending": true
+  "display_title": "Baroque Pop",
+  "display_name": "Baroque Pop",
+  "parent_slug": "pop",
+  "aliases": [
+    "baroque pop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Baroque pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Baroque_pop",
+  "summary": "Baroque pop is a fusion genre that combines rock music with particular elements of classical music. It emerged in the mid-1960s as artists pursued a majestic, orchestral sound and is identifiable for its appropriation of Baroque compositional styles and dramatic or melancholic gestures. Harpsichords figure prominently, while oboes, French horns, and string quartets are also common.",
+  "candidates": [
+    "Baroque Hoedown",
+    "Baroque Palace of Oradea",
+    "Baroque Palace, Timișoara",
+    "Baroque Period",
+    "Baroque Works",
+    "Baroque fortifications in the Black Forest",
+    "Baroque orchestra",
+    "Baroque painting",
+    "Baroque pearl",
+    "Baroque pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Baroque pop",
+    "page_url": "https://en.wikipedia.org/wiki/Baroque_pop",
+    "retrieved_at": "2026-03-27T09:29:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+    "width": 3639,
+    "height": 2400,
+    "license": "Public domain",
+    "author": "Capitol Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+      "width": 3639,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "Capitol Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DivineComedy20070810 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DivineComedy20070810_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/DivineComedy20070810_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/DivineComedy20070810_01.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Original Uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Michig\" class=\"extiw\" title=\"en:User:Michig\"\u003eMichig\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Michig\" class=\"extiw\" title=\"en:User talk:Michig\"\u003etalk\u003c/a\u003e) at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harp02.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harp02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Harp02.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Harp02.jpg",
+      "width": 400,
+      "height": 333,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Mark Thomas"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T02:20:33.126Z",
+    "last_played_at": "2026-03-03T02:20:33.126Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "harry-nilsson",
+      "name": "Harry Nilsson",
+      "play_count": 1,
+      "spotify_artist_id": "3RTzAwFprBqiskp550eSJX",
+      "spotify_url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "harry-nilsson--aerial-ballet",
+      "name": "Aerial Ballet",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "harry-nilsson",
+      "primary_artist_name": "Harry Nilsson"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "harry-nilsson--everybody-s-talkin-from-midnight-cowboy",
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "harry-nilsson",
+      "primary_artist_name": "Harry Nilsson",
+      "release_canonical_slug": "harry-nilsson--aerial-ballet",
+      "release_name": "Aerial Ballet",
+      "spotify_track_id": "1jcPcDu2YawPfLhwjYnqK2",
+      "spotify_url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--baroque-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Baroque_pop",
+      "retrieved_at": "2026-03-27T09:29:56Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--baroque-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T02:20:33.126Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

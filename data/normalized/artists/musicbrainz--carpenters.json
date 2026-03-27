@@ -1,0 +1,23 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
+  "name": "Carpenters",
+  "musicbrainz_artist_id": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
+  "source_genres": [
+    "baroque pop",
+    "christmas music",
+    "country pop",
+    "easy listening",
+    "pop",
+    "rock",
+    "soft rock",
+    "2008 universal fire victim",
+    "adult contemporary"
+  ],
+  "canonical_genre_slugs": [
+    "baroque-pop",
+    "pop",
+    "rock",
+    "soft-rock"
+  ]
+}

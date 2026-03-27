@@ -1,4 +1,104 @@
 {
   "canonical_slug": "indie",
-  "pending": true
+  "display_title": "Indie",
+  "display_name": "Indie",
+  "notes": "Editorial umbrella for source labels that only say indie without a clearer style.",
+  "aliases": [
+    "indie"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "India Arie",
+    "Indie",
+    "Indie game",
+    "Indie music scene",
+    "Indie pop",
+    "Indie rock",
+    "Indie role-playing game",
+    "Indie sleaze",
+    "IndieWire Critics Poll",
+    "Indiewood"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2026-03-03T14:07:30.400Z",
+    "last_played_at": "2026-03-20T00:47:43.095Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "modest-mouse",
+      "name": "Modest Mouse",
+      "play_count": 1,
+      "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+      "spotify_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+    },
+    {
+      "canonical_slug": "wet-leg",
+      "name": "Wet Leg",
+      "play_count": 1,
+      "spotify_artist_id": "2TwOrUcYnAlIiKmVQkkoSZ",
+      "spotify_url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "modest-mouse--good-news-for-people-who-love-bad-news",
+      "name": "Good News For People Who Love Bad News",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "modest-mouse",
+      "primary_artist_name": "Modest Mouse"
+    },
+    {
+      "canonical_slug": "wet-leg--mangetout-the-dare-remix",
+      "name": "mangetout (The Dare remix)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "wet-leg",
+      "primary_artist_name": "Wet Leg"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "modest-mouse--float-on",
+      "name": "Float On",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "modest-mouse",
+      "primary_artist_name": "Modest Mouse",
+      "release_canonical_slug": "modest-mouse--good-news-for-people-who-love-bad-news",
+      "release_name": "Good News For People Who Love Bad News",
+      "spotify_track_id": "2lwwrWVKdf3LR9lbbhnr6R",
+      "spotify_url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
+    },
+    {
+      "canonical_slug": "wet-leg--mangetout-the-dare-remix",
+      "name": "mangetout - The Dare remix",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "wet-leg",
+      "primary_artist_name": "Wet Leg",
+      "release_canonical_slug": "wet-leg--mangetout-the-dare-remix",
+      "release_name": "mangetout (The Dare remix)",
+      "spotify_track_id": "1IkSG0zP2JfECRpgPcr9Uq",
+      "spotify_url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-20T00:47:43.095Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

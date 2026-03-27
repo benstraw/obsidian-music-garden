@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "2yQf6b8hxahZaT5dHlWaB1",
   "name": "Raekwon",
+  "spotify_url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1",
   "source_genres": [
     "boom bap",
     "east coast hip hop",
@@ -10,6 +11,81 @@
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
-    "hip-hop"
+    "boom-bap",
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "old-school-hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Raekwon",
+  "summary": "Corey Woods, better known by his stage name Raekwon, is an American rapper. He rose to prominence as a founding member of the hip-hop group Wu-Tang Clan, which achieved mainstream success following the release of their debut album, Enter the Wu-Tang , in 1993. Raekwon would subsequently pursue a solo career, releasing his first solo album, entitled Only Built 4 Cuban Linx..., in 1995. The album received critical acclaim, and is regarded by many critics as one of the greatest hip-hop albums of all time, as well as a staple of 1990s rap.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Raekwon",
+  "candidates": [
+    "Kimi Räikkönen",
+    "Raccoon",
+    "Rae Wynn-Grant",
+    "Raekwon",
+    "Raekwon (name)",
+    "Raekwon Davis",
+    "Raekwon McMillan",
+    "Raekwon discography",
+    "Raemon Sluiter",
+    "Raewyn Connell"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Raekwon",
+    "page_url": "https://en.wikipedia.org/wiki/Raekwon",
+    "retrieved_at": "2026-03-27T09:27:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Rae gotta get a plate now.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Rae_gotta_get_a_plate_now.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rae_gotta_get_a_plate_now.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rae_gotta_get_a_plate_now.JPG/960px-Rae_gotta_get_a_plate_now.JPG",
+    "width": 1970,
+    "height": 2563,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\"\u003eRama\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rae gotta get a plate now.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rae_gotta_get_a_plate_now.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rae_gotta_get_a_plate_now.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rae_gotta_get_a_plate_now.JPG/960px-Rae_gotta_get_a_plate_now.JPG",
+      "width": 1970,
+      "height": 2563,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\"\u003eRama\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Raekwon at the Pitchfork Music Festival (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Raekwon_at_the_Pitchfork_Music_Festival_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Raekwon_at_the_Pitchfork_Music_Festival_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Raekwon_at_the_Pitchfork_Music_Festival_%28cropped%29.jpg/960px-Raekwon_at_the_Pitchfork_Music_Festival_%28cropped%29.jpg",
+      "width": 1115,
+      "height": 1488,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/51458030@N08\"\u003eWeekly Dig\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Raekwon sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Raekwon_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Raekwon_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Raekwon_sig.svg/960px-Raekwon_sig.svg.png",
+      "width": 400,
+      "height": 223,
+      "license": "Public domain",
+      "author": "Respective commons pages (reuploaded as SVG)"
+    }
   ]
 }

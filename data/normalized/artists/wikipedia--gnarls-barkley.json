@@ -1,0 +1,58 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "gnarls-barkley",
+  "name": "Gnarls Barkley",
+  "status": "matched",
+  "page_title": "Gnarls Barkley",
+  "summary": "Gnarls Barkley is an American soul duo composed of singer-songwriter CeeLo Green and producer Danger Mouse. They released their debut studio album, St. Elsewhere, in 2006. It contained their hit single \"Crazy\", which peaked at number two on the US Hot 100 and topped the UK Singles Chart. It was nominated at the 2007 Grammy Awards for Record of the Year, and was platinum certified for shipping over 1,000,000 records. St. Elsewhere also received a nomination for Album of the Year. Their second studio album, The Odd Couple, was scheduled for release in April 2008, but due to a leak of the album over the internet, they decided to release it early. The album in its entirety received similarly positive reviews.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Gnarls_Barkley",
+  "candidates": [
+    "Gnarls Barkley",
+    "Gnarls Barkley discography",
+    "Gnarly Barley Brewing Company"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gnarls Barkley",
+    "page_url": "https://en.wikipedia.org/wiki/Gnarls_Barkley",
+    "retrieved_at": "2026-03-27T09:26:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnarls Barkley.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnarls_Barkley.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gnarls_Barkley.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gnarls_Barkley.jpg/960px-Gnarls_Barkley.jpg",
+    "width": 1280,
+    "height": 893,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34041589@N00\"\u003eDiego DeNicola\u003c/a\u003e from Melbourne, Australia"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnarls Barkley.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnarls_Barkley.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Gnarls_Barkley.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gnarls_Barkley.jpg/960px-Gnarls_Barkley.jpg",
+      "width": 1280,
+      "height": 893,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/34041589@N00\"\u003eDiego DeNicola\u003c/a\u003e from Melbourne, Australia"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnarls Barkley in Melbourne.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnarls_Barkley_in_Melbourne.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gnarls_Barkley_in_Melbourne.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gnarls_Barkley_in_Melbourne.jpg/960px-Gnarls_Barkley_in_Melbourne.jpg",
+      "width": 2048,
+      "height": 1365,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/ssandars\"\u003eScott Sandars\u003c/a\u003e from Melbourne, Australia"
+    }
+  ]
+}

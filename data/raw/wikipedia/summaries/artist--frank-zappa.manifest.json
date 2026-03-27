@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Frank%20Zappa",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Frank%20Zappa",
+  "cache_key": "summaries/artist--frank-zappa",
+  "fetched_at": "2026-03-27T09:26:15Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

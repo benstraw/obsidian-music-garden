@@ -1,0 +1,92 @@
+{
+  "source": "wikipedia",
+  "source_genre": "jazz fusion",
+  "canonical_genre_slug": "jazz-fusion",
+  "status": "matched",
+  "page_title": "Jazz fusion",
+  "summary": "Jazz fusion is a popular music genre that developed in the late 1960s when musicians combined jazz harmony and improvisation with rock music, funk, and rhythm and blues. Electric guitars and basses, amplifiers, and keyboard instruments that were popular in rock began to be used by jazz musicians, particularly those who had grown up listening to rock and roll.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+  "candidates": [
+    "Jazz fusion",
+    "Jazzhus Montmartre",
+    "Jazzvisions"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz fusion",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+    "retrieved_at": "2026-03-27T09:31:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox current red Asia Australia.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+    "width": 360,
+    "height": 290,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Asia Australia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JohnMcLaughlin.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JohnMcLaughlin.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/JohnMcLaughlin.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/JohnMcLaughlin.jpg",
+      "width": 320,
+      "height": 405,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sduraybito\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sduraybito (page does not exist)\"\u003eSduraybito\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Larry Coryell 1979.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Larry_Coryell_1979.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Larry_Coryell_1979.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Larry_Coryell_1979.jpg",
+      "width": 420,
+      "height": 635,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Miles Davis 24.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Miles_Davis_24.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Miles_Davis_24.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Miles_Davis_24.jpg/960px-Miles_Davis_24.jpg",
+      "width": 1614,
+      "height": 1187,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Oliver Nurock @ \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/ohjaygee/\"\u003eohjaygee\u003c/a\u003e Johannesburg/ Cape Town, South Africa"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

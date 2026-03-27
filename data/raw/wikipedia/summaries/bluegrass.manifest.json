@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Bluegrass",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Bluegrass",
+  "cache_key": "summaries/bluegrass",
+  "fetched_at": "2026-03-27T09:30:01Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

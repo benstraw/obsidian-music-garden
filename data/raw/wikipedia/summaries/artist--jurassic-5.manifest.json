@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Jurassic%205",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Jurassic%205",
+  "cache_key": "summaries/artist--jurassic-5",
+  "fetched_at": "2026-03-27T09:26:42Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,4 +1,71 @@
 {
   "canonical_slug": "ambient-pop",
-  "pending": true
+  "display_title": "Ambient Pop",
+  "display_name": "Ambient Pop",
+  "parent_slug": "pop",
+  "aliases": [
+    "ambient pop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Ambient music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ambient_music",
+  "summary": "Ambient music is a genre of music that emphasizes tone and atmosphere over traditional musical structure or rhythm. Often \"peaceful\" sounding and lacking composition, beat, and/or structured melody, ambient music uses textural layers of sound that can reward both passive and active listening, and encourage a sense of calm or contemplation. The genre evokes an \"atmospheric\", \"visual\", or \"unobtrusive\" quality. Nature soundscapes may be included, and some works use sustained or repeated notes, as in drone music. Bearing elements associated with new-age music, instruments such as the piano, strings and flute may be emulated through a synthesizer.",
+  "candidates": [
+    "Ambient IoT",
+    "Ambient construction",
+    "Ambient house",
+    "Ambient ionization",
+    "Ambient noise level",
+    "Ambient occlusion",
+    "Ambient optic array",
+    "Ambient pop",
+    "Ambient pressure",
+    "Ambient space (mathematics)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ambient music",
+    "page_url": "https://en.wikipedia.org/wiki/Ambient_music",
+    "retrieved_at": "2026-03-27T09:29:47Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Apostle_%28148475115%29.jpeg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Apostle_%28148475115%29.jpeg/330px-The_Apostle_%28148475115%29.jpeg",
+    "width": 2048,
+    "height": 1367
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ambient-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Ambient_music",
+      "retrieved_at": "2026-03-27T09:29:47Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ambient-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Ambient_music",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

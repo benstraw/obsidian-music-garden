@@ -2,6 +2,10 @@
   "canonical_slug": "mark-knopfler",
   "name": "Mark Knopfler",
   "spotify_artist_id": "0FI0kxP0BWurTz8cB8BBug",
+  "spotify_url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug",
+  "genres": [
+    "soft-rock"
+  ],
   "source_genres": [
     "soft rock"
   ],
@@ -22,5 +26,95 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Mark Knopfler",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Knopfler",
+  "summary": "Mark Freuder Knopfler is a British musician. He was the lead guitarist, singer and songwriter of the rock band Dire Straits from 1977 to 1995, and he is one of the two members who stayed throughout the band's existence, along with the bassist John Illsley. He is widely regarded as one of the greatest guitarists of all time. After Dire Straits dissolved, he pursued a solo career and is now an independent artist.",
+  "candidates": [
+    "Mark Knoller",
+    "Mark Knopfler",
+    "Mark Knopfler Stratocaster",
+    "Mark Knopfler discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mark Knopfler",
+    "page_url": "https://en.wikipedia.org/wiki/Mark_Knopfler",
+    "retrieved_at": "2026-03-27T09:26:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:DSC08946 Mark Knopfler Emmylou Harris by Volkan Yuksel.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG/960px-DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG",
+    "width": 2048,
+    "height": 1536,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Volkan_Yuksel\" title=\"User:Volkan Yuksel\"\u003eVolkan Yuksel\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DSC08946 Mark Knopfler Emmylou Harris by Volkan Yuksel.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG/960px-DSC08946_Mark_Knopfler_Emmylou_Harris_by_Volkan_Yuksel.JPG",
+      "width": 2048,
+      "height": 1536,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Volkan_Yuksel\" title=\"User:Volkan Yuksel\"\u003eVolkan Yuksel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dire Straits 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dire_Straits_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Dire_Straits_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Dire_Straits_1.jpg",
+      "width": 424,
+      "height": 600,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/33439023@N00\"\u003eEddie\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dire Straits 1985 Mark Knopfler Alan Clark Jack Sonni.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dire_Straits_1985_Mark_Knopfler_Alan_Clark_Jack_Sonni.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dire_Straits_1985_Mark_Knopfler_Alan_Clark_Jack_Sonni.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dire_Straits_1985_Mark_Knopfler_Alan_Clark_Jack_Sonni.jpg",
+      "width": 705,
+      "height": 600,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Zoran Veselinovic"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mar-Knopfler-Pensa-Blue.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mar-Knopfler-Pensa-Blue.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mar-Knopfler-Pensa-Blue.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mar-Knopfler-Pensa-Blue.jpg",
+      "width": 956,
+      "height": 1365,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sebastien.gross\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sebastien.gross (page does not exist)\"\u003eSebastien.gross\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MarkKnopfler 060528 P5280036a jm.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MarkKnopfler_060528_P5280036a_jm.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/MarkKnopfler_060528_P5280036a_jm.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/MarkKnopfler_060528_P5280036a_jm.JPG",
+      "width": 813,
+      "height": 1185,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Joachim Müllerchen"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

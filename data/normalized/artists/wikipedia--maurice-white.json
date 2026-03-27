@@ -1,0 +1,77 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "maurice-white",
+  "name": "Maurice White",
+  "status": "matched",
+  "page_title": "Maurice White",
+  "summary": "Maurice White was an American musician, best known as the founder, leader, main songwriter and chief producer of the band Earth, Wind \u0026 Fire, also serving as the band's co-lead singer with Philip Bailey.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Maurice_White",
+  "candidates": [
+    "Maurice White",
+    "Maurice White (album)",
+    "Maurice Whitehead",
+    "Maurice White (boxer)",
+    "Maurice Wiles",
+    "Maurice Hines",
+    "Maurice Boitel",
+    "Maurice Whitfield",
+    "Maurice Wetekam",
+    "Maurice Whittle"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Maurice White",
+    "page_url": "https://en.wikipedia.org/wiki/Maurice_White",
+    "retrieved_at": "2026-03-27T09:27:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Maurice White 1982.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Maurice_White_1982.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Maurice_White_1982.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Maurice_White_1982.jpg",
+    "width": 714,
+    "height": 1024,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Chris Hakkens"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maurice White 1982.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maurice_White_1982.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Maurice_White_1982.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Maurice_White_1982.jpg",
+      "width": 714,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Chris Hakkens"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maurice White 2000.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maurice_White_2000.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Maurice_White_2000.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Maurice_White_2000.jpg",
+      "width": 842,
+      "height": 1108,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36277035@N06\"\u003eJohn Mathew Smith \u0026amp; www.celebrity-photos.com\u003c/a\u003e from Laurel  Maryland, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maurice White 75.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maurice_White_75.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Maurice_White_75.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Maurice_White_75.jpg",
+      "width": 280,
+      "height": 390,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Eriik"
+    }
+  ]
+}

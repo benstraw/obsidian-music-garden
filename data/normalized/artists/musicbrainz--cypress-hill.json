@@ -1,0 +1,31 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+  "name": "Cypress Hill",
+  "musicbrainz_artist_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+  "source_genres": [
+    "boom bap",
+    "chicano rap",
+    "gangsta rap",
+    "hardcore hip hop",
+    "hip hop",
+    "rap rock",
+    "rapcore",
+    "west coast hip hop",
+    "alternative rap",
+    "gangster rap",
+    "hardcore rap",
+    "latin rap",
+    "psychedelic rap",
+    "rap-rock",
+    "west coast rap"
+  ],
+  "canonical_genre_slugs": [
+    "boom-bap",
+    "gangster-rap",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "rap-rock",
+    "west-coast-hip-hop"
+  ]
+}

@@ -2,8 +2,15 @@
   "canonical_slug": "can",
   "name": "CAN",
   "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+  "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r",
   "genres": [
-    "art-rock"
+    "art-rock",
+    "experimental",
+    "krautrock",
+    "progressive-rock",
+    "proto-punk",
+    "psychedelic-rock",
+    "space-rock"
   ],
   "source_genres": [
     "art rock",
@@ -31,5 +38,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "CAN",
+    "Canaan",
+    "Canada",
+    "Canadian Broadcasting Corporation",
+    "Canary Islands",
+    "Canberra",
+    "Cancer",
+    "Candace Owens",
+    "Cannabis (drug)",
+    "Cantonese"
+  ],
+  "last_updated": "2026-03-27"
 }

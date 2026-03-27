@@ -2,6 +2,10 @@
   "canonical_slug": "busta-rhymes",
   "name": "Busta Rhymes",
   "spotify_artist_id": "1YfEcTuGvBQ8xSD1f53UnK",
+  "spotify_url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK",
+  "genres": [
+    "east-coast-hip-hop"
+  ],
   "source_genres": [
     "east coast hip hop"
   ],
@@ -22,5 +26,95 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Busta Rhymes",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Busta_Rhymes",
+  "summary": "Trevor George Smith Jr., known professionally as Busta Rhymes, is an American rapper, record producer, and actor. He has received 12 Grammy Award nominations, making him one of the most-nominated artists without a win. Billboard and Vibe ranked him among the 50 Greatest Rappers of All Time, while Forbes listed him among the greatest rappers on their list of the \"50 Top Rappers of All Time\". Chuck D of Public Enemy gave him the moniker Busta Rhymes, after NFL and CFL wide receiver George \"Buster\" Rhymes.",
+  "candidates": [
+    "Busta Rhymes",
+    "Busta Rhymes Island",
+    "Busta Rhymes discography",
+    "Busta Rhymes production discography",
+    "Buster Rhymes"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Busta Rhymes",
+    "page_url": "https://en.wikipedia.org/wiki/Busta_Rhymes",
+    "retrieved_at": "2026-03-27T09:25:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Busta Rhymes (52380599657) (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Busta_Rhymes_(52380599657)_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg/960px-Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg",
+    "width": 3863,
+    "height": 5255,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "All-Pro Reels"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Busta Rhymes (52380599657) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Busta_Rhymes_(52380599657)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg/960px-Busta_Rhymes_%2852380599657%29_%28cropped%29.jpg",
+      "width": 3863,
+      "height": 5255,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "All-Pro Reels"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Busta Rhymes sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Busta_Rhymes_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Busta_Rhymes_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Busta_Rhymes_sig.svg/960px-Busta_Rhymes_sig.svg.png",
+      "width": 400,
+      "height": 232,
+      "license": "Public domain",
+      "author": "Busta Rhymes"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Busta rhymes-03-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Busta_rhymes-03-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Busta_rhymes-03-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Busta_rhymes-03-mika.jpg/960px-Busta_rhymes-03-mika.jpg",
+      "width": 1356,
+      "height": 905,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Busta rhymes-06-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Busta_rhymes-06-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Busta_rhymes-06-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Busta_rhymes-06-mika.jpg",
+      "width": 905,
+      "height": 1355,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Busta rhymes breaks it down for the mobile geeks.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Busta_rhymes_breaks_it_down_for_the_mobile_geeks.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Busta_rhymes_breaks_it_down_for_the_mobile_geeks.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Busta_rhymes_breaks_it_down_for_the_mobile_geeks.jpg",
+      "width": 480,
+      "height": 360,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/14453171@N00\"\u003eNabeel Hyatt\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

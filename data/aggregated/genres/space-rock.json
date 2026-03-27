@@ -1,4 +1,164 @@
 {
   "canonical_slug": "space-rock",
-  "pending": true
+  "display_title": "Space Rock",
+  "display_name": "Space Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "space rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Space rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Space_rock",
+  "summary": "Space rock is a music genre characterized by loose and lengthy song structures centered on instrumental textures that typically produce a hypnotic, otherworldly sound. It may feature distorted and reverberation-laden guitars, minimal drumming, languid vocals, synthesizers, and lyrical themes of outer space and science fiction.",
+  "candidates": [
+    "Space Monkeys",
+    "Space Race",
+    "Space Race (Stargate SG-1)",
+    "Space Race (TV series)",
+    "Space Racers",
+    "Space Rockers",
+    "Space Rocket Nation",
+    "Space rock",
+    "Space rock (disambiguation)",
+    "Space rocket"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Space rock",
+    "page_url": "https://en.wikipedia.org/wiki/Space_rock",
+    "retrieved_at": "2026-03-27T09:32:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Hawkwind Donington 1982.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Hawkwind_Donington_1982.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hawkwind_Donington_1982.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hawkwind_Donington_1982.jpg",
+    "width": 707,
+    "height": 405,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/24515968@N05\"\u003eAndrew King\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hawkwind Donington 1982.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hawkwind_Donington_1982.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hawkwind_Donington_1982.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hawkwind_Donington_1982.jpg",
+      "width": 707,
+      "height": 405,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/24515968@N05\"\u003eAndrew King\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pink Floyd 1967 with Syd Barrett (higher quality).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pink_Floyd_1967_with_Syd_Barrett_(higher_quality).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pink_Floyd_1967_with_Syd_Barrett_%28higher_quality%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pink_Floyd_1967_with_Syd_Barrett_%28higher_quality%29.jpg/960px-Pink_Floyd_1967_with_Syd_Barrett_%28higher_quality%29.jpg",
+      "width": 3091,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "\u003cp\u003eHit Parader magazine\n\u003c/p\u003e\n\u003ctable class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\"\u003e\n\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd style=\"padding:5px\"\u003e\u003cdiv class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png\" decoding=\"async\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"\u003e\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/td\u003e\n\u003ctd style=\"width:100%\"\u003eThis  is a \u003ci\u003e\u003cb\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003eretouched picture\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/b\u003e\u003c/i\u003e, which means that it has been digitally altered from its original version.   Modifications made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dcameron814\" title=\"User:Dcameron814\"\u003eDcameron814\u003c/a\u003e.\n\u003cp\u003e\u003cspan class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3DDcameron814 4%3D 5%3D\"\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Retro-flower-ornaments.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Retro-flower-ornaments.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Retro-flower-ornaments.svg/960px-Retro-flower-ornaments.svg.png",
+      "width": 936,
+      "height": 900,
+      "license": "Public domain",
+      "author": "AnonMoos"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Spacemen 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Spacemen_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Spacemen_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Spacemen_3.jpg/960px-Spacemen_3.jpg",
+      "width": 5586,
+      "height": 3774,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Greg Neate"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-01T02:18:46.227Z",
+    "last_played_at": "2026-03-08T19:43:21.144Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "can--vitamin-c-2004-remastered-version",
+      "name": "Vitamin C - 2004 Remastered Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
+      "release_name": "Ege Bamyasi (Remastered Version)",
+      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
+      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--space-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Space_rock",
+      "retrieved_at": "2026-03-27T09:32:10Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--space-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Hawkwind_Donington_1982.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T19:43:21.144Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

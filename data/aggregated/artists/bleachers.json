@@ -2,6 +2,7 @@
   "canonical_slug": "bleachers",
   "name": "Bleachers",
   "spotify_artist_id": "2eam0iDomRHGBypaDQLwWI",
+  "spotify_url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb2a2ced96a8df71b0dca06a19",
@@ -19,5 +20,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Bleacher",
+    "Bleacher Creatures",
+    "Bleacher Report",
+    "Bleachers (album)",
+    "Bleachers (band)",
+    "Bleachers (disambiguation)",
+    "Bleachers (novel)",
+    "Bleachers' Association",
+    "In the Bleachers",
+    "List of Bleach soundtracks"
+  ],
+  "last_updated": "2026-03-27"
 }

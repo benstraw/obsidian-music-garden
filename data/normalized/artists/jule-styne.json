@@ -1,5 +1,52 @@
 {
   "source": "spotify",
   "source_artist_id": "3vAPM1qiCuClMH5DNbAgtC",
-  "name": "Jule Styne"
+  "name": "Jule Styne",
+  "spotify_url": "https://open.spotify.com/artist/3vAPM1qiCuClMH5DNbAgtC",
+  "status": "matched",
+  "page_title": "Jule Styne",
+  "summary": "Jule Styne was an English-American songwriter and composer widely known for a series of Broadway musicals, including several famous frequently-revived shows that also became successful films: Gypsy, Gentlemen Prefer Blondes, and Funny Girl.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jule_Styne",
+  "candidates": [
+    "Joe Stynes",
+    "Jule Styne",
+    "Jules Asner",
+    "Jules Ernest Renoux",
+    "Jules René Bourguignat",
+    "Jules Tannery",
+    "Jules Tavernier (painter)",
+    "Jules Theeuwes",
+    "Jules Tinel",
+    "Julie Stone"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jule Styne",
+    "page_url": "https://en.wikipedia.org/wiki/Jule_Styne",
+    "retrieved_at": "2026-03-27T09:26:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jule Styne (1961 still).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jule_Styne_(1961_still).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jule_Styne_%281961_still%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jule_Styne_%281961_still%29.jpg/960px-Jule_Styne_%281961_still%29.jpg",
+    "width": 1076,
+    "height": 1450,
+    "license": "Public domain",
+    "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jule Styne (1961 still).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jule_Styne_(1961_still).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jule_Styne_%281961_still%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jule_Styne_%281961_still%29.jpg/960px-Jule_Styne_%281961_still%29.jpg",
+      "width": 1076,
+      "height": 1450,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ]
 }

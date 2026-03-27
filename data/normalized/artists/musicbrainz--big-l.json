@@ -1,0 +1,15 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
+  "name": "Big L",
+  "musicbrainz_artist_id": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
+  "source_genres": [
+    "east coast hip hop",
+    "hip hop",
+    "death by murder"
+  ],
+  "canonical_genre_slugs": [
+    "east-coast-hip-hop",
+    "hip-hop"
+  ]
+}

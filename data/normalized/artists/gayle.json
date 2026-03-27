@@ -1,5 +1,19 @@
 {
   "source": "spotify",
   "source_artist_id": "2VSHKHBTiXWplO8lxcnUC9",
-  "name": "GAYLE"
+  "name": "GAYLE",
+  "spotify_url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9",
+  "status": "ambiguous",
+  "candidates": [
+    "Chris Gayle",
+    "Crystal Gayle",
+    "Dwight Gayle",
+    "Gayle (singer)",
+    "Gayle Benson",
+    "Gayle King",
+    "Gayle Rubin",
+    "Gaylen Hansen",
+    "Marcus Gayle",
+    "Michelle Gayle"
+  ]
 }

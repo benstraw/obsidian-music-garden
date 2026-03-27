@@ -2,11 +2,99 @@
   "source": "spotify",
   "source_artist_id": "3eskO5m0H4yiF64vRySBjr",
   "name": "Buffalo Springfield",
+  "spotify_url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr",
   "source_genres": [
     "country rock",
     "folk rock"
   ],
   "canonical_genre_slugs": [
+    "country-rock",
     "folk-rock"
+  ],
+  "status": "matched",
+  "page_title": "Buffalo Springfield",
+  "summary": "Buffalo Springfield was a Canadian-American rock band formed in Los Angeles in 1966 by Canadians Neil Young, Bruce Palmer and Dewey Martin and Americans Stephen Stills and Richie Furay. The group, widely known for the song \"For What It's Worth\", released three albums and several singles from 1966 to 1968. Their music combined elements of folk music and country music with influences from the British Invasion and psychedelic rock. Like the contemporary band the Byrds, they were key to the early development of folk rock. The band took their name from a steamroller parked outside their house.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Buffalo_Springfield",
+  "candidates": [
+    "Buffalo Springfield",
+    "Buffalo Springfield (album)",
+    "Buffalo Springfield (box set)",
+    "Buffalo Springfield (compilation album)",
+    "Buffalo Springfield (disambiguation)",
+    "Buffalo Springfield Again"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Buffalo Springfield",
+    "page_url": "https://en.wikipedia.org/wiki/Buffalo_Springfield",
+    "retrieved_at": "2026-03-27T09:25:41Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Buffalo Springfield 1968 publicity shot.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_1968_publicity_shot.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buffalo_Springfield_1968_publicity_shot.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buffalo_Springfield_1968_publicity_shot.jpg",
+    "width": 741,
+    "height": 755,
+    "license": "Public domain",
+    "author": "\u003cp\u003eUnknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e\n\u003c/p\u003e\n\u003ctable class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\"\u003e\n\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd style=\"padding:5px\"\u003e\u003cdiv class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png\" decoding=\"async\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"\u003e\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/td\u003e\n\u003ctd style=\"width:100%\"\u003eThis  is a \u003ci\u003e\u003cb\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003eretouched picture\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/b\u003e\u003c/i\u003e, which means that it has been digitally altered from its original version.   Modifications made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dcameron814\" title=\"User:Dcameron814\"\u003eDcameron814\u003c/a\u003e.\n\u003cp\u003e\u003cspan class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3DDcameron814 4%3D 5%3D\"\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buffalo Springfield 1968 publicity shot.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_1968_publicity_shot.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buffalo_Springfield_1968_publicity_shot.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buffalo_Springfield_1968_publicity_shot.jpg",
+      "width": 741,
+      "height": 755,
+      "license": "Public domain",
+      "author": "\u003cp\u003eUnknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e\n\u003c/p\u003e\n\u003ctable class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\"\u003e\n\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd style=\"padding:5px\"\u003e\u003cdiv class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png\" decoding=\"async\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"\u003e\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/td\u003e\n\u003ctd style=\"width:100%\"\u003eThis  is a \u003ci\u003e\u003cb\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003eretouched picture\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/b\u003e\u003c/i\u003e, which means that it has been digitally altered from its original version.   Modifications made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dcameron814\" title=\"User:Dcameron814\"\u003eDcameron814\u003c/a\u003e.\n\u003cp\u003e\u003cspan class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3DDcameron814 4%3D 5%3D\"\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buffalo Springfield Promotional Photo.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_Promotional_Photo.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Buffalo_Springfield_Promotional_Photo.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Buffalo_Springfield_Promotional_Photo.png/960px-Buffalo_Springfield_Promotional_Photo.png",
+      "width": 1267,
+      "height": 592,
+      "license": "Public domain",
+      "author": "Atlantic Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buffalo Springfield in 1966.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_in_1966.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Buffalo_Springfield_in_1966.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Buffalo_Springfield_in_1966.png/960px-Buffalo_Springfield_in_1966.png",
+      "width": 1121,
+      "height": 663,
+      "license": "Public domain",
+      "author": "KRLA Beat/Beat Publications, Inc."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buffalo Springfield original lineup.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_original_lineup.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Buffalo_Springfield_original_lineup.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Buffalo_Springfield_original_lineup.jpg",
+      "width": 823,
+      "height": 536,
+      "license": "Public domain",
+      "author": "\u003cp\u003eUnknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e\n\u003c/p\u003e\n\u003ctable class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\"\u003e\n\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd style=\"padding:5px\"\u003e\u003cdiv class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png\" decoding=\"async\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"\u003e\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/td\u003e\n\u003ctd style=\"width:100%\"\u003eThis  is a \u003ci\u003e\u003cb\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003eretouched picture\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/b\u003e\u003c/i\u003e, which means that it has been digitally altered from its original version.   Modifications made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dcameron814\" title=\"User:Dcameron814\"\u003eDcameron814\u003c/a\u003e.\n\u003cp\u003e\u003cspan class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3DDcameron814 4%3D 5%3D\"\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buffalo Springfield posing 1967.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_posing_1967.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Buffalo_Springfield_posing_1967.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Buffalo_Springfield_posing_1967.jpg/960px-Buffalo_Springfield_posing_1967.jpg",
+      "width": 1222,
+      "height": 756,
+      "license": "Public domain",
+      "author": "\u003cp\u003eUnknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e\n\u003c/p\u003e\n\u003ctable class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\"\u003e\n\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd style=\"padding:5px\"\u003e\u003cdiv class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png\" decoding=\"async\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"\u003e\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/td\u003e\n\u003ctd style=\"width:100%\"\u003eThis  is a \u003ci\u003e\u003cb\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003eretouched picture\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/b\u003e\u003c/i\u003e, which means that it has been digitally altered from its original version.   Modifications made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dcameron814\" title=\"User:Dcameron814\"\u003eDcameron814\u003c/a\u003e.\n\u003cp\u003e\u003cspan class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3DDcameron814 4%3D 5%3D\"\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e"
+    }
   ]
 }

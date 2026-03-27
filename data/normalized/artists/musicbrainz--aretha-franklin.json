@@ -1,0 +1,21 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+  "name": "Aretha Franklin",
+  "musicbrainz_artist_id": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+  "source_genres": [
+    "deep soul",
+    "gospel",
+    "jazz",
+    "quiet storm",
+    "r\u0026b",
+    "soul",
+    "southern soul",
+    "aln-sh",
+    "rhythm \u0026 blues"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "soul"
+  ]
+}

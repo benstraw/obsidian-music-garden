@@ -1,7 +1,277 @@
 {
   "canonical_slug": "rap",
+  "display_title": "Rap",
+  "display_name": "Rap",
+  "parent_slug": "hip-hop",
+  "notes": "Use carefully; not always interchangeable with hip-hop.",
   "aliases": [
     "rap"
   ],
-  "pending": false
+  "pending": false,
+  "status": "ambiguous",
+  "candidates": [
+    "Rape",
+    "Rape statistics",
+    "Rapeseed",
+    "Raphael",
+    "Raphael Saadiq",
+    "Raphinha",
+    "Rapid eye movement sleep",
+    "Rapid transit",
+    "Rapping",
+    "Rapture"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 25,
+    "unique_artist_count": 6,
+    "unique_release_count": 10,
+    "unique_track_count": 17,
+    "first_played_at": "2026-02-26T03:51:41.423Z",
+    "last_played_at": "2026-03-19T02:08:24.430Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "eminem",
+      "name": "Eminem",
+      "play_count": 11,
+      "spotify_artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+      "spotify_url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    {
+      "canonical_slug": "kanye-west",
+      "name": "Kanye West",
+      "play_count": 6,
+      "spotify_artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+      "spotify_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "canonical_slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "play_count": 4,
+      "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+      "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+    },
+    {
+      "canonical_slug": "dr-dre",
+      "name": "Dr. Dre",
+      "play_count": 2,
+      "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    },
+    {
+      "canonical_slug": "jaÿ-z",
+      "name": "JAŸ-Z",
+      "play_count": 1,
+      "spotify_artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+      "spotify_url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+    },
+    {
+      "canonical_slug": "lil-wayne",
+      "name": "Lil Wayne",
+      "play_count": 1,
+      "spotify_artist_id": "55Aa2cqylxrFIXC767Z865",
+      "spotify_url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "eminem--the-death-of-slim-shady-coup-de-grâce",
+      "name": "The Death of Slim Shady (Coup De Grâce)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem"
+    },
+    {
+      "canonical_slug": "kanye-west--the-college-dropout",
+      "name": "The College Dropout",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "kanye-west",
+      "primary_artist_name": "Kanye West"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggystyle",
+      "name": "Doggystyle",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "dr-dre--2001",
+      "name": "2001",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre"
+    },
+    {
+      "canonical_slug": "eminem--kamikaze",
+      "name": "Kamikaze",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem"
+    },
+    {
+      "canonical_slug": "jaÿ-z--dead-presidents",
+      "name": "Dead Presidents",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jaÿ-z",
+      "primary_artist_name": "JAŸ-Z"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggumentary",
+      "name": "Doggumentary",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "lil-wayne--i-am-not-a-human-being-ii-deluxe",
+      "name": "I Am Not A Human Being II (Deluxe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lil-wayne",
+      "primary_artist_name": "Lil Wayne"
+    },
+    {
+      "canonical_slug": "eminem--the-marshall-mathers-lp",
+      "name": "The Marshall Mathers LP",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem"
+    },
+    {
+      "canonical_slug": "eminem--the-marshall-mathers-lp2-deluxe",
+      "name": "The Marshall Mathers LP2 (Deluxe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "eminem--houdini",
+      "name": "Houdini",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem",
+      "release_canonical_slug": "eminem--the-death-of-slim-shady-coup-de-grâce",
+      "release_name": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_track_id": "1CDQzbCz4KSQxHe7LMEgRM",
+      "spotify_url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "canonical_slug": "eminem--lucky-you-feat-joyner-lucas",
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem",
+      "release_canonical_slug": "eminem--kamikaze",
+      "release_name": "Kamikaze",
+      "spotify_track_id": "60SdxE8apGAxMiRrpbmLY0",
+      "spotify_url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+    },
+    {
+      "canonical_slug": "snoop-dogg--tha-shiznit",
+      "name": "Tha Shiznit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "2DhL7DtMmxmqrCUB2NAlLm",
+      "spotify_url": "https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm"
+    },
+    {
+      "canonical_slug": "kanye-west--all-falls-down",
+      "name": "All Falls Down",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kanye-west",
+      "primary_artist_name": "Kanye West",
+      "release_canonical_slug": "kanye-west--the-college-dropout",
+      "release_name": "The College Dropout",
+      "spotify_track_id": "5SkRLpaGtvYPhw02vZhQQ9",
+      "spotify_url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
+    },
+    {
+      "canonical_slug": "jaÿ-z--dead-presidents-album-version",
+      "name": "DEAD PRESIDENTS (ALBUM VERSION)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jaÿ-z",
+      "primary_artist_name": "JAŸ-Z",
+      "release_canonical_slug": "jaÿ-z--dead-presidents",
+      "release_name": "Dead Presidents",
+      "spotify_track_id": "0nzLXQufkRxo1aslz36gJp",
+      "spotify_url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp"
+    },
+    {
+      "canonical_slug": "snoop-dogg--gin-and-juice",
+      "name": "Gin and Juice",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "39QBkWKnap8wRSW4WB9OK0",
+      "spotify_url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
+    },
+    {
+      "canonical_slug": "kanye-west--graduation-day",
+      "name": "Graduation Day",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kanye-west",
+      "primary_artist_name": "Kanye West",
+      "release_canonical_slug": "kanye-west--the-college-dropout",
+      "release_name": "The College Dropout",
+      "spotify_track_id": "7wL7Lb8Q3aYyq6gmRL0PZq",
+      "spotify_url": "https://open.spotify.com/track/7wL7Lb8Q3aYyq6gmRL0PZq"
+    },
+    {
+      "canonical_slug": "lil-wayne--gunwalk",
+      "name": "Gunwalk",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lil-wayne",
+      "primary_artist_name": "Lil Wayne",
+      "release_canonical_slug": "lil-wayne--i-am-not-a-human-being-ii-deluxe",
+      "release_name": "I Am Not A Human Being II (Deluxe)",
+      "spotify_track_id": "4C74fzgOAALiqMqRmSDOxf",
+      "spotify_url": "https://open.spotify.com/track/4C74fzgOAALiqMqRmSDOxf"
+    },
+    {
+      "canonical_slug": "kanye-west--i-ll-fly-away",
+      "name": "I'll Fly Away",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kanye-west",
+      "primary_artist_name": "Kanye West",
+      "release_canonical_slug": "kanye-west--the-college-dropout",
+      "release_name": "The College Dropout",
+      "spotify_track_id": "6MgGapP3EPFm9kYUvYBTZR",
+      "spotify_url": "https://open.spotify.com/track/6MgGapP3EPFm9kYUvYBTZR"
+    },
+    {
+      "canonical_slug": "eminem--i-m-back",
+      "name": "I'm Back",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem",
+      "release_canonical_slug": "eminem--the-marshall-mathers-lp",
+      "release_name": "The Marshall Mathers LP",
+      "spotify_track_id": "3xVtc7PB4V3AqAfq4Iahli",
+      "spotify_url": "https://open.spotify.com/track/3xVtc7PB4V3AqAfq4Iahli"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:08:24.430Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/The%20Notorious%20B.I.G.",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/The%20Notorious%20B.I.G.",
+  "cache_key": "summaries/artist--the-notorious-b-i-g",
+  "fetched_at": "2026-03-27T09:28:16Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

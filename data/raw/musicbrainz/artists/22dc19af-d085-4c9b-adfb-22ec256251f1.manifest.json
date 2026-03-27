@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/22dc19af-d085-4c9b-adfb-22ec256251f1",
+  "request_url": "https://musicbrainz.org/ws/2/artist/22dc19af-d085-4c9b-adfb-22ec256251f1?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/22dc19af-d085-4c9b-adfb-22ec256251f1",
+  "fetched_at": "2026-03-27T09:33:44Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

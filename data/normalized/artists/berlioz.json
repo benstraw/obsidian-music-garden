@@ -2,8 +2,25 @@
   "source": "spotify",
   "source_artist_id": "3k3RY7kR8f0vp8Cq27P141",
   "name": "berlioz",
+  "spotify_url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
   "source_genres": [
     "jazz",
     "jazz house"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Berlioz (The Aristocats)",
+    "Berlioz (crater)",
+    "Berlioz (musician)",
+    "Berlioz Requiem",
+    "Berlioz Symphonie fantastique",
+    "Hector Berlioz",
+    "Hector Berlioz as critic and author",
+    "Jacques Berlioz",
+    "Jacques Berlioz (historian)",
+    "Sergio Berlioz"
   ]
 }

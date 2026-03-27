@@ -1,0 +1,60 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "brothers-osborne",
+  "name": "Brothers Osborne",
+  "status": "matched",
+  "page_title": "Brothers Osborne",
+  "summary": "Brothers Osborne is an American country music duo from Deale, Maryland. The duo consists of brothers TJ Osborne and John Osborne. They signed a recording contract with EMI Records Nashville in 2012 and began releasing music the following year. Their 2015 song \"Stay a Little Longer\" became a top five hit on the Billboard Hot Country Songs and Country Airplay charts, and their success led to the release of their debut studio album titled Pawn Shop the same year. Since then, Brothers Osborne have released the albums Port Saint Joe (2018), Skeletons (2020), and Brothers Osborne (2023).",
+  "canonical_url": "https://en.wikipedia.org/wiki/Brothers_Osborne",
+  "candidates": [
+    "Brothers Osborne",
+    "Brothers Osborne discography",
+    "Brothers Osborne (album)",
+    "Brothers Osborne (EP)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Brothers Osborne",
+    "page_url": "https://en.wikipedia.org/wiki/Brothers_Osborne",
+    "retrieved_at": "2026-03-27T09:25:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Brothers Osborne (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Brothers_Osborne_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brothers_Osborne_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brothers_Osborne_%28cropped%29.jpg/960px-Brothers_Osborne_%28cropped%29.jpg",
+    "width": 2448,
+    "height": 1819,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TenPoundHammer\" title=\"User:TenPoundHammer\"\u003eTenPoundHammer\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brothers Osborne (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brothers_Osborne_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brothers_Osborne_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brothers_Osborne_%28cropped%29.jpg/960px-Brothers_Osborne_%28cropped%29.jpg",
+      "width": 2448,
+      "height": 1819,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TenPoundHammer\" title=\"User:TenPoundHammer\"\u003eTenPoundHammer\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lucie Silvas in Utrecht 2006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lucie_Silvas_in_Utrecht_2006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lucie_Silvas_in_Utrecht_2006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lucie_Silvas_in_Utrecht_2006.jpg",
+      "width": 415,
+      "height": 570,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Luciefan\" class=\"extiw\" title=\"en:User:Luciefan\"\u003eLuciefan\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Luciefan\" class=\"extiw\" title=\"en:User talk:Luciefan\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Luciefan\" class=\"extiw\" title=\"wikipedia:User:Luciefan\"\u003eLuciefan\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "6v8FB84lnmJs434UJf2Mrm",
   "name": "Neil Young",
+  "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
   "source_genres": [
     "classic rock",
     "folk rock",
@@ -9,7 +10,106 @@
     "singer-songwriter"
   ],
   "canonical_genre_slugs": [
+    "classic-rock",
+    "country-rock",
     "folk-rock",
     "singer-songwriter"
+  ],
+  "status": "matched",
+  "page_title": "Neil Young",
+  "summary": "Neil Percival Young is a Canadian and American singer-songwriter. Son of journalist, sportswriter, and novelist Scott Young, Neil embarked on a music career in Winnipeg in the 1960s. Young moved to Los Angeles, forming the folk rock group Buffalo Springfield. His solo career, often backed by the band Crazy Horse, includes critically acclaimed albums such as Everybody Knows This Is Nowhere (1969), After the Gold Rush (1970), Harvest (1972), On the Beach (1974), and Rust Never Sleeps (1979). He was also a part-time member of Crosby, Stills, Nash \u0026 Young, with whom he recorded the chart-topping 1970 album Déjà Vu.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Neil_Young",
+  "candidates": [
+    "Neil Young",
+    "Neil Young (album)",
+    "Neil Young (footballer, born 1944)",
+    "Neil Young (judge)",
+    "Neil Young (soccer, born 1979)",
+    "Neil Young Archives",
+    "Neil Young Archives Volume II: 1972–1976",
+    "Neil Young Archives Volume III: 1976–1987",
+    "Neil Young discography and filmography",
+    "Neil Young: Heart of Gold"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neil Young",
+    "page_url": "https://en.wikipedia.org/wiki/Neil_Young",
+    "retrieved_at": "2026-03-27T09:27:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Csny-8-20-06.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Csny-8-20-06.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Csny-8-20-06.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Csny-8-20-06.jpg",
+    "width": 599,
+    "height": 228,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Lrheath\" class=\"extiw\" title=\"en:User:Lrheath\"\u003eLrheath\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Lrheath\" class=\"extiw\" title=\"en:User talk:Lrheath\"\u003etalk\u003c/a\u003e)",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Lrheath\" class=\"extiw\" title=\"wikipedia:User:Lrheath\"\u003eLrheath\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Csny-8-20-06.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Csny-8-20-06.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Csny-8-20-06.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Csny-8-20-06.jpg",
+      "width": 599,
+      "height": 228,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Lrheath\" class=\"extiw\" title=\"en:User:Lrheath\"\u003eLrheath\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Lrheath\" class=\"extiw\" title=\"en:User talk:Lrheath\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Lrheath\" class=\"extiw\" title=\"wikipedia:User:Lrheath\"\u003eLrheath\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DesertTrip2016-140 (29685063324) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DesertTrip2016-140_(29685063324)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/DesertTrip2016-140_%2829685063324%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DesertTrip2016-140_%2829685063324%29_%28cropped%29.jpg/960px-DesertTrip2016-140_%2829685063324%29_%28cropped%29.jpg",
+      "width": 1470,
+      "height": 2175,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maple Leaf (from roundel).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maple_Leaf_(from_roundel).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Maple_Leaf_%28from_roundel%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Maple_Leaf_%28from_roundel%29.svg/960px-Maple_Leaf_%28from_roundel%29.svg.png",
+      "width": 305,
+      "height": 343,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Roundel_of_the_Royal_Canadian_Air_Force_(1946-1965).svg\" class=\"mw-redirect\" title=\"File:Roundel of the Royal Canadian Air Force (1946-1965).svg\"\u003eRoundel_of_the_Royal_Canadian_Air_Force_(1946-1965).svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r\" title=\"User:F l a n k e r\"\u003eF l a n k e r\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eUser:Zscout370\u003c/a\u003e \u003csup\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Zscout370\" title=\"User talk:Zscout370\"\u003e(Return fire)\u003c/a\u003e\u003c/sup\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NeilYgretsch.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NeilYgretsch.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/NeilYgretsch.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NeilYgretsch.jpg/960px-NeilYgretsch.jpg",
+      "width": 1161,
+      "height": 1628,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bodoklecksel\" title=\"User:Bodoklecksel\"\u003eBodoklecksel\u003c/a\u003e"
+    }
   ]
 }

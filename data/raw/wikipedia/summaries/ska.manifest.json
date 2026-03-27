@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Ska",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Ska",
+  "cache_key": "summaries/ska",
+  "fetched_at": "2026-03-27T09:32:01Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

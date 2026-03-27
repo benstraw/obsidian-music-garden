@@ -1,0 +1,22 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+  "name": "Bob Marley \u0026 The Wailers",
+  "musicbrainz_artist_id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+  "source_genres": [
+    "dub",
+    "jamaican ska",
+    "reggae",
+    "rocksteady",
+    "roots reggae",
+    "ska",
+    "reggae music"
+  ],
+  "canonical_genre_slugs": [
+    "dub",
+    "reggae",
+    "rocksteady",
+    "roots-reggae",
+    "ska"
+  ]
+}

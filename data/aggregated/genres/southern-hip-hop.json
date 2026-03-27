@@ -1,4 +1,115 @@
 {
   "canonical_slug": "southern-hip-hop",
-  "pending": true
+  "display_title": "Southern Hip-Hop",
+  "display_name": "Southern Hip-Hop",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "southern hip hop"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Southern High Plains",
+    "Southern hip-hop",
+    "Southern siphon whelk"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 3,
+    "unique_artist_count": 2,
+    "unique_release_count": 3,
+    "unique_track_count": 3,
+    "first_played_at": "2026-03-06T04:41:06.053Z",
+    "last_played_at": "2026-03-11T03:21:46.265Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "outkast",
+      "name": "Outkast",
+      "play_count": 2,
+      "spotify_artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+      "spotify_url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+    },
+    {
+      "canonical_slug": "goodie-mob",
+      "name": "Goodie Mob",
+      "play_count": 1,
+      "spotify_artist_id": "3F2Y683ovlWT53WKCeq0oj",
+      "spotify_url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "outkast--atliens",
+      "name": "ATLiens",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast"
+    },
+    {
+      "canonical_slug": "outkast--big-boi-and-dre-present-outkast",
+      "name": "Big Boi \u0026 Dre Present...OutKast",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast"
+    },
+    {
+      "canonical_slug": "goodie-mob--soul-food",
+      "name": "Soul Food",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "goodie-mob",
+      "primary_artist_name": "Goodie Mob"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "goodie-mob--blood",
+      "name": "Blood",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "goodie-mob",
+      "primary_artist_name": "Goodie Mob",
+      "release_canonical_slug": "goodie-mob--soul-food",
+      "release_name": "Soul Food",
+      "spotify_track_id": "363z5eG2zgdEWveqkEo7Vm",
+      "spotify_url": "https://open.spotify.com/track/363z5eG2zgdEWveqkEo7Vm"
+    },
+    {
+      "canonical_slug": "outkast--the-whole-world-feat-killer-mike",
+      "name": "The Whole World (feat. Killer Mike)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--big-boi-and-dre-present-outkast",
+      "release_name": "Big Boi \u0026 Dre Present...OutKast",
+      "spotify_track_id": "074v54tSEWLbq3Hu5wf6uh",
+      "spotify_url": "https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh"
+    },
+    {
+      "canonical_slug": "outkast--wheelz-of-steel",
+      "name": "Wheelz of Steel",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "5qKqRkWnRTXNVWbEOOmGxk",
+      "spotify_url": "https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-11T03:21:46.265Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

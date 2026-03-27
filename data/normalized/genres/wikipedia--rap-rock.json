@@ -1,0 +1,88 @@
+{
+  "source": "wikipedia",
+  "source_genre": "rap rock",
+  "canonical_genre_slug": "rap-rock",
+  "status": "matched",
+  "page_title": "Rap rock",
+  "summary": "Rap rock is a music genre that developed from the early to mid-1980s, when hip hop DJs incorporated rock records into their routines and rappers began incorporating original and sampled rock instrumentation into hip hop music. Rap rock is considered to be rock music in which lyrics are rapped, rather than sung. The genre achieved its greatest success in the late 1990s and early 2000s.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Rap_rock",
+  "candidates": [
+    "Rap rock",
+    "Ray Crockett",
+    "Raga rock",
+    "Ricky Ray",
+    "Rapprochement",
+    "Rochelle Rao",
+    "Rapprocher",
+    "Red Rocket (film)",
+    "Ray Ricker",
+    "RAF Rackheath"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rap rock",
+    "page_url": "https://en.wikipedia.org/wiki/Rap_rock",
+    "retrieved_at": "2026-03-27T09:31:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beastie-boys.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Beastie-boys.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Beastie-boys.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Beastie-boys.jpg/960px-Beastie-boys.jpg",
+    "width": 2792,
+    "height": 1805,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beastie-boys.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beastie-boys.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Beastie-boys.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Beastie-boys.jpg/960px-Beastie-boys.jpg",
+      "width": 2792,
+      "height": 1805,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Death grips 2014.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Death_grips_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Death_grips_2014.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Death_grips_2014.jpg/960px-Death_grips_2014.jpg",
+      "width": 2048,
+      "height": 1536,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://thirdworlds.net\"\u003ehttps://thirdworlds.net\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kid Rock 091211-F-5214S-004.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kid_Rock_091211-F-5214S-004.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kid_Rock_091211-F-5214S-004.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kid_Rock_091211-F-5214S-004.jpg/960px-Kid_Rock_091211-F-5214S-004.jpg",
+      "width": 2848,
+      "height": 4288,
+      "license": "Public domain",
+      "author": "Tech. Sgt. Chris Stagner"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Urban Dance Squad.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Urban_Dance_Squad.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Urban_Dance_Squad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Urban_Dance_Squad.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/23237732@N00\"\u003eOlivier Duquesne\u003c/a\u003e"
+    }
+  ]
+}

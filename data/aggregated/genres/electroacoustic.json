@@ -1,4 +1,79 @@
 {
   "canonical_slug": "electroacoustic",
-  "pending": true
+  "display_title": "Electroacoustic",
+  "display_name": "Electroacoustic",
+  "parent_slug": "electronic",
+  "aliases": [
+    "electroacoustic"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Electro-Acoustic Ensemble",
+    "Electroacoustic",
+    "Electroacoustic Music Days",
+    "Electroacoustic guitar",
+    "Electroacoustic harp",
+    "Electroacoustic improvisation",
+    "Electroacoustic modulator",
+    "Electroacoustic music",
+    "Electroacoustic phenomena",
+    "Electroacoustics"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-12T16:54:06.655Z",
+    "last_played_at": "2026-03-12T16:54:06.655Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "mauricio-kagel",
+      "name": "Mauricio Kagel",
+      "play_count": 1,
+      "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+      "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
+      "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mauricio-kagel",
+      "primary_artist_name": "Mauricio Kagel"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "mauricio-kagel--match-für-3-spieler-pt-1",
+      "name": "Match für 3 Spieler - Pt. 1",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mauricio-kagel",
+      "primary_artist_name": "Mauricio Kagel",
+      "release_canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
+      "release_name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
+      "spotify_track_id": "4VDhJhQnw1GIfx878K53WL",
+      "spotify_url": "https://open.spotify.com/track/4VDhJhQnw1GIfx878K53WL"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-12T16:54:06.655Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

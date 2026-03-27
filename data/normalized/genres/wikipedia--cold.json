@@ -1,0 +1,100 @@
+{
+  "source": "wikipedia",
+  "source_genre": "cold",
+  "canonical_genre_slug": "cold",
+  "status": "matched",
+  "page_title": "Cold",
+  "summary": "Cold is the presence of low temperature, especially in the atmosphere. In common usage, cold is often a subjective perception. A lower bound to temperature is absolute zero, defined as 0.00 K on the Kelvin scale, an absolute thermodynamic temperature scale. This corresponds to −273.15 °C on the Celsius scale, −459.67 °F on the Fahrenheit scale, and 0.00 °R on the Rankine scale.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Cold",
+  "candidates": [
+    "Cold",
+    "Cold War",
+    "Cold fusion",
+    "Coldplay",
+    "Cole Palmer",
+    "Coldstream Guards",
+    "Cold War Kids",
+    "Cold Feet",
+    "Cold Case",
+    "Coldplay discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cold",
+    "page_url": "https://en.wikipedia.org/wiki/Cold",
+    "retrieved_at": "2026-03-27T09:30:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Adelie Penguins on iceberg.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Adelie_Penguins_on_iceberg.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Adelie_Penguins_on_iceberg.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adelie_Penguins_on_iceberg.jpg/960px-Adelie_Penguins_on_iceberg.jpg",
+    "width": 5616,
+    "height": 3744,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10004136@N05\"\u003eJason Auch\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adelie Penguins on iceberg.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adelie_Penguins_on_iceberg.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Adelie_Penguins_on_iceberg.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adelie_Penguins_on_iceberg.jpg/960px-Adelie_Penguins_on_iceberg.jpg",
+      "width": 5616,
+      "height": 3744,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10004136@N05\"\u003eJason Auch\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alphonse-Desjardins.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alphonse-Desjardins.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alphonse-Desjardins.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alphonse-Desjardins.jpg/960px-Alphonse-Desjardins.jpg",
+      "width": 3312,
+      "height": 2208,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Cephas\" title=\"User:Cephas\"\u003eCephas\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Antarctic iceberg, 2001 -2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Antarctic_iceberg,_2001_-2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Antarctic_iceberg%2C_2001_-2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Antarctic_iceberg%2C_2001_-2.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/28261360@N06\"\u003eGeorges Nijs\u003c/a\u003e from Diepenbeek, Belgium"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AntarcticaDomeCSnow.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AntarcticaDomeCSnow.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/AntarcticaDomeCSnow.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/AntarcticaDomeCSnow.jpg",
+      "width": 937,
+      "height": 688,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "Stephen Hudson"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Boomerang nebula.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Boomerang_nebula.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Boomerang_nebula.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boomerang_nebula.jpg/960px-Boomerang_nebula.jpg",
+      "width": 1590,
+      "height": 1590,
+      "license": "Public domain",
+      "author": "ESA/NASA"
+    }
+  ]
+}

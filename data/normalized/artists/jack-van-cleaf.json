@@ -1,5 +1,26 @@
 {
   "source": "spotify",
   "source_artist_id": "7nW46aJfNHxK9Y3M5Dhadk",
-  "name": "Jack Van Cleaf"
+  "name": "Jack Van Cleaf",
+  "spotify_url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk",
+  "status": "matched",
+  "page_title": "This Is Me, Jack Vance!",
+  "summary": "This is Me, Jack Vance! is a memoir by science fiction, fantasy, and mystery author Jack Vance published by Subterranean Press.",
+  "canonical_url": "https://en.wikipedia.org/wiki/This_Is_Me%2C_Jack_Vance!",
+  "candidates": [
+    "Jack Vance autobiography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "This Is Me, Jack Vance!",
+    "page_url": "https://en.wikipedia.org/wiki/This_Is_Me%2C_Jack_Vance!",
+    "retrieved_at": "2026-03-27T09:26:30Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/This_is_Me%2C_Jack_Vance%21_-_cover_page_of_book_by_Jack_Vance%2C_an_autobiography_and_memoir.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/This_is_Me%2C_Jack_Vance%21_-_cover_page_of_book_by_Jack_Vance%2C_an_autobiography_and_memoir.jpg",
+    "width": 316,
+    "height": 316
+  }
 }

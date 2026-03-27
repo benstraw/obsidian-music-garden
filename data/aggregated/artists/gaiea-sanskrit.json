@@ -2,6 +2,7 @@
   "canonical_slug": "gaiea-sanskrit",
   "name": "Gaiea Sanskrit",
   "spotify_artist_id": "4eK7eYjD5DyOb7BqV3jBdA",
+  "spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
   "source_genres": [
     "devotional"
   ],
@@ -22,5 +23,6 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "not_found",
+  "last_updated": "2026-03-27"
 }

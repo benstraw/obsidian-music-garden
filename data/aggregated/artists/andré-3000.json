@@ -2,6 +2,10 @@
   "canonical_slug": "andré-3000",
   "name": "André 3000",
   "spotify_artist_id": "74V3dE1a51skRkdII8y2C6",
+  "spotify_url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6",
+  "genres": [
+    "ambient-jazz"
+  ],
   "source_genres": [
     "ambient jazz"
   ],
@@ -22,5 +26,80 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "André 3000",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_3000",
+  "summary": "André Lauren Benjamin, known professionally as André 3000, is an American rapper, singer, record producer and actor. Born and raised in Atlanta, Georgia, he is one half of the hip-hop duo Outkast along with rapper Big Boi, which they formed in 1992. Often recognized for his early use of rap-singing, he is widely regarded as one of the greatest rappers of all time. In 2025, Benjamin was inducted into Rock and Roll Hall of Fame as a member of Outkast.",
+  "candidates": [
+    "André 3000",
+    "André 3000 discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "André 3000",
+    "page_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_3000",
+    "retrieved_at": "2026-03-27T09:24:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2014227233523 2014-08-15 Rock'n'Heim - Sven - 1D X - 328 - DV3P8951 mod (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_%28cropped%29.jpg/960px-2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_%28cropped%29.jpg",
+    "width": 1762,
+    "height": 2120,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Sven Mandel"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2014227233523 2014-08-15 Rock'n'Heim - Sven - 1D X - 328 - DV3P8951 mod (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_%28cropped%29.jpg/960px-2014227233523_2014-08-15_Rock%27n%27Heim_-_Sven_-_1D_X_-_328_-_DV3P8951_mod_%28cropped%29.jpg",
+      "width": 1762,
+      "height": 2120,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Sven Mandel"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Andre 3k sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andre_3k_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Andre_3k_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Andre_3k_sig.svg/960px-Andre_3k_sig.svg.png",
+      "width": 380,
+      "height": 313,
+      "license": "Public domain",
+      "author": "Respective commons pages (reuploaded as SVG)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Andre Benjamin crop.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andre_Benjamin_crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Andre_Benjamin_crop.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Andre_Benjamin_crop.jpg/960px-Andre_Benjamin_crop.jpg",
+      "width": 982,
+      "height": 1034,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gage\" title=\"User:Gage\"\u003eGage\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:André3000.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A93000.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Andr%C3%A93000.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Andr%C3%A93000.jpg",
+      "width": 344,
+      "height": 375,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jmaxjmax/\"\u003eJason S\u003c/a\u003e from Washington D.C., United States"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

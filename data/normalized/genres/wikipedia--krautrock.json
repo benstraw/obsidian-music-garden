@@ -1,0 +1,65 @@
+{
+  "source": "wikipedia",
+  "source_genre": "krautrock",
+  "canonical_genre_slug": "krautrock",
+  "status": "matched",
+  "page_title": "Krautrock",
+  "summary": "Krautrock is a broad genre of experimental rock and music scene that developed in West Germany in the late 1960s and early 1970s. Artists blend elements of psychedelic rock, avant-garde composition, and electronic music, among other eclectic sources. Common elements included hypnotic rhythms, extended improvisation, musique concrète techniques, and early synthesizers, while the music generally moved away from the rhythm \u0026 blues roots and song structure found in traditional Anglo-American rock music. Prominent groups associated with the krautrock label included Neu!, Can, Faust, Tangerine Dream, Kraftwerk, Cluster, Ash Ra Tempel, Popol Vuh, Amon Düül II and Harmonia.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Krautrock",
+  "candidates": [
+    "Krautrock",
+    "Krautrocksampler",
+    "Kraut Rocks",
+    "Kraft Hockeyville",
+    "Richard Kraut",
+    "Krat Rocks",
+    "Knute Rockne",
+    "Krum Rock",
+    "Kau Rock Nature Reserve",
+    "Knut Rocks"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Krautrock",
+    "page_url": "https://en.wikipedia.org/wiki/Krautrock",
+    "retrieved_at": "2026-03-27T09:31:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Can 1972 (Heinrich Klaffs Collection 102).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Can_1972_(Heinrich_Klaffs_Collection_102).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Can_1972_%28Heinrich_Klaffs_Collection_102%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Can_1972_%28Heinrich_Klaffs_Collection_102%29.jpg/960px-Can_1972_%28Heinrich_Klaffs_Collection_102%29.jpg",
+    "width": 1024,
+    "height": 680,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Heinrich Klaffs"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Can 1972 (Heinrich Klaffs Collection 102).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Can_1972_(Heinrich_Klaffs_Collection_102).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Can_1972_%28Heinrich_Klaffs_Collection_102%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Can_1972_%28Heinrich_Klaffs_Collection_102%29.jpg/960px-Can_1972_%28Heinrich_Klaffs_Collection_102%29.jpg",
+      "width": 1024,
+      "height": 680,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Heinrich Klaffs"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ludwig Binder Haus der Geschichte Studentenrevolte 1968 2001 03 0275.4264 (16900118449).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ludwig_Binder_Haus_der_Geschichte_Studentenrevolte_1968_2001_03_0275.4264_(16900118449).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ludwig_Binder_Haus_der_Geschichte_Studentenrevolte_1968_2001_03_0275.4264_%2816900118449%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ludwig_Binder_Haus_der_Geschichte_Studentenrevolte_1968_2001_03_0275.4264_%2816900118449%29.jpg/960px-Ludwig_Binder_Haus_der_Geschichte_Studentenrevolte_1968_2001_03_0275.4264_%2816900118449%29.jpg",
+      "width": 1024,
+      "height": 766,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/132468467@N06\"\u003eStiftung Haus der Geschichte\u003c/a\u003e"
+    }
+  ]
+}

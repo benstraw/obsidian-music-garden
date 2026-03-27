@@ -1,0 +1,56 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "bobby-shmurda",
+  "name": "Bobby Shmurda",
+  "status": "matched",
+  "page_title": "Bobby Shmurda",
+  "summary": "Ackquille Jean Pollard, known professionally as Bobby Shmurda, is an American rapper and songwriter. Along with Rowdy Rebel, Shmurda is considered a pioneer of Brooklyn drill music. He rose to international fame in 2014 when his single, \"Hot Nigga\", peaked at number six on the Billboard Hot 100. Its success led him to sign with Epic Records to release his debut extended play (EP), Shmurda She Wrote (2014).",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bobby_Shmurda",
+  "candidates": [
+    "Bobby Shmurda"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bobby Shmurda",
+    "page_url": "https://en.wikipedia.org/wiki/Bobby_Shmurda",
+    "retrieved_at": "2026-03-27T09:25:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bobbyshmurda2021.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bobbyshmurda2021.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bobbyshmurda2021.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bobbyshmurda2021.png",
+    "width": 647,
+    "height": 519,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Earport"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bobbyshmurda2021.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bobbyshmurda2021.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bobbyshmurda2021.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bobbyshmurda2021.png",
+      "width": 647,
+      "height": 519,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Earport"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Semi-protection-shackle.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Semi-protection-shackle.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Semi-protection-shackle.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Semi-protection-shackle.svg/960px-Semi-protection-shackle.svg.png",
+      "width": 512,
+      "height": 512,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
+    }
+  ]
+}

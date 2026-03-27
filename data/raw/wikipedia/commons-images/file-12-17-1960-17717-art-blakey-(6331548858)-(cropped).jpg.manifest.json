@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3A12-17-1960+17717+Art+Blakey+%286331548858%29+%28cropped%29.jpg",
+  "fetched_at": "2026-03-27T09:30:58Z",
+  "content_type": "application/json; charset=utf-8"
+}

@@ -2,6 +2,10 @@
   "canonical_slug": "the-dare",
   "name": "The Dare",
   "spotify_artist_id": "2mqiqsaX4LzFnUP7PmHGAb",
+  "spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb",
+  "genres": [
+    "electroclash"
+  ],
   "source_genres": [
     "electroclash"
   ],
@@ -22,5 +26,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "ambiguous",
+  "candidates": [
+    "The Dare",
+    "The Dare (Matlock Episode)",
+    "The Dare (Six Feet Under)",
+    "The Dare (film)",
+    "The Dare (musician)",
+    "The Daredevil",
+    "The Daredevil Men",
+    "The Daredevil Reporter",
+    "The Daredevils",
+    "They Dare Not Love"
+  ],
+  "last_updated": "2026-03-27"
 }

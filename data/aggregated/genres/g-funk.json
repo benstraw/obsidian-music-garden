@@ -1,4 +1,191 @@
 {
   "canonical_slug": "g-funk",
-  "pending": true
+  "display_title": "G-Funk",
+  "display_name": "G-Funk",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "g funk"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Art Garfunkel",
+    "G Fuel",
+    "G Funk Era",
+    "G-Funk (film)",
+    "G-Funk Classics, Vol. 1 \u0026 2",
+    "G-Funk Entertainment",
+    "G-Unit",
+    "G-Unit Records",
+    "G-Unit discography",
+    "G-funk"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 10,
+    "unique_artist_count": 3,
+    "unique_release_count": 4,
+    "unique_track_count": 8,
+    "first_played_at": "2026-02-21T16:26:31.588Z",
+    "last_played_at": "2026-03-19T01:55:24.030Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "dj-king-assassin",
+      "name": "DJ King Assassin",
+      "play_count": 4,
+      "spotify_artist_id": "35GnZFTAWk2RLgqLWlpPbE",
+      "spotify_url": "https://open.spotify.com/artist/35GnZFTAWk2RLgqLWlpPbE"
+    },
+    {
+      "canonical_slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "play_count": 4,
+      "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+      "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+    },
+    {
+      "canonical_slug": "dr-dre",
+      "name": "Dr. Dre",
+      "play_count": 2,
+      "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
+      "name": "Thugz 4 Life (Remastered)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "dj-king-assassin",
+      "primary_artist_name": "DJ King Assassin"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggystyle",
+      "name": "Doggystyle",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "dr-dre--2001",
+      "name": "2001",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggumentary",
+      "name": "Doggumentary",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "dj-king-assassin--livin-the-thug-life",
+      "name": "Livin the Thug Life",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dj-king-assassin",
+      "primary_artist_name": "DJ King Assassin",
+      "release_canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
+      "release_name": "Thugz 4 Life (Remastered)",
+      "spotify_track_id": "3SyCUl35q43Rvqfz8kCH2Q",
+      "spotify_url": "https://open.spotify.com/track/3SyCUl35q43Rvqfz8kCH2Q"
+    },
+    {
+      "canonical_slug": "snoop-dogg--tha-shiznit",
+      "name": "Tha Shiznit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "2DhL7DtMmxmqrCUB2NAlLm",
+      "spotify_url": "https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm"
+    },
+    {
+      "canonical_slug": "snoop-dogg--gin-and-juice",
+      "name": "Gin and Juice",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "39QBkWKnap8wRSW4WB9OK0",
+      "spotify_url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
+    },
+    {
+      "canonical_slug": "dj-king-assassin--newest-extended-version",
+      "name": "NeWest - Extended Version",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dj-king-assassin",
+      "primary_artist_name": "DJ King Assassin",
+      "release_canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
+      "release_name": "Thugz 4 Life (Remastered)",
+      "spotify_track_id": "6NkhflPByzfK6SclPmmNgQ",
+      "spotify_url": "https://open.spotify.com/track/6NkhflPByzfK6SclPmmNgQ"
+    },
+    {
+      "canonical_slug": "dr-dre--still-d-r-e",
+      "name": "Still D.R.E.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre",
+      "release_canonical_slug": "dr-dre--2001",
+      "release_name": "2001",
+      "spotify_track_id": "503OTo2dSqe7qk76rgsbep",
+      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "canonical_slug": "snoop-dogg--superman",
+      "name": "Superman",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggumentary",
+      "release_name": "Doggumentary",
+      "spotify_track_id": "5jcQZOQpMWFraXxn9hAQt0",
+      "spotify_url": "https://open.spotify.com/track/5jcQZOQpMWFraXxn9hAQt0"
+    },
+    {
+      "canonical_slug": "dr-dre--the-next-episode",
+      "name": "The Next Episode",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre",
+      "release_canonical_slug": "dr-dre--2001",
+      "release_name": "2001",
+      "spotify_track_id": "4LwU4Vp6od3Sb08CsP99GC",
+      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "canonical_slug": "dj-king-assassin--war-gamez-loc-01-remix",
+      "name": "War Gamez - Loc-01 Remix",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dj-king-assassin",
+      "primary_artist_name": "DJ King Assassin",
+      "release_canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
+      "release_name": "Thugz 4 Life (Remastered)",
+      "spotify_track_id": "6ao3aNeqSN1QEwxh9oJhuZ",
+      "spotify_url": "https://open.spotify.com/track/6ao3aNeqSN1QEwxh9oJhuZ"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:55:24.030Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Introspective",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Introspective",
+  "cache_key": "summaries/introspective",
+  "fetched_at": "2026-03-27T09:31:08Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

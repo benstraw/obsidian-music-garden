@@ -1,4 +1,35 @@
 {
   "canonical_slug": "alienation",
-  "pending": true
+  "display_title": "Alienation",
+  "display_name": "Alienation",
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Alienation",
+    "Alienation (Marxism)",
+    "Alienation (album)",
+    "Alienation (property law)",
+    "Alienation (speech)",
+    "Alienation (video game)",
+    "Alienation Office",
+    "Alienation from human society",
+    "Alienation of affections",
+    "Alienation zone"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

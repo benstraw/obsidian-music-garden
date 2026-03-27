@@ -2,9 +2,102 @@
   "source": "spotify",
   "source_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
   "name": "Aretha Franklin",
+  "spotify_url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok",
   "source_genres": [
     "classic soul",
     "motown",
     "soul"
+  ],
+  "canonical_genre_slugs": [
+    "funk",
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Aretha Franklin",
+  "summary": "Aretha Louise Franklin was an American singer, songwriter and pianist. Regarded as the \"Queen of Soul\", she was twice named by Rolling Stone magazine as the greatest singer of all time.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+  "candidates": [
+    "Aretha Franklin",
+    "Aretha Franklin Amphitheater",
+    "Aretha Franklin Greatest Hits",
+    "Aretha Franklin Sings the Great Diva Classics",
+    "Aretha Franklin discography",
+    "Aretha Franklin in Person With Her Quartet",
+    "Aretha Franklin: Live at Radio City Music Hall"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Aretha Franklin",
+    "page_url": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+    "retrieved_at": "2026-03-27T09:24:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Aretha-Franklin-MLKJR-Memorial.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Aretha-Franklin-MLKJR-Memorial.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Aretha-Franklin-MLKJR-Memorial.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Aretha-Franklin-MLKJR-Memorial.jpg",
+    "width": 450,
+    "height": 300,
+    "license": "Public domain",
+    "author": "Tami A. Heilemann-Office of Communications, US Dept. of Interior"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aretha-Franklin-MLKJR-Memorial.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aretha-Franklin-MLKJR-Memorial.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Aretha-Franklin-MLKJR-Memorial.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Aretha-Franklin-MLKJR-Memorial.jpg",
+      "width": 450,
+      "height": 300,
+      "license": "Public domain",
+      "author": "Tami A. Heilemann-Office of Communications, US Dept. of Interior"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aretha Franklin, The Gospel Tradition In Performance at the White House, 2015.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aretha_Franklin,_The_Gospel_Tradition_In_Performance_at_the_White_House,_2015.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aretha_Franklin%2C_The_Gospel_Tradition_In_Performance_at_the_White_House%2C_2015.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Aretha_Franklin%2C_The_Gospel_Tradition_In_Performance_at_the_White_House%2C_2015.jpg/960px-Aretha_Franklin%2C_The_Gospel_Tradition_In_Performance_at_the_White_House%2C_2015.jpg",
+      "width": 1867,
+      "height": 2800,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Pete_Souza\" class=\"extiw\" title=\"w:en:Pete Souza\"\u003e\u003cspan title=\"American photographer (born 1954)\"\u003ePete Souza\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aretha Franklin 1968.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aretha_Franklin_1968.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Aretha_Franklin_1968.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Aretha_Franklin_1968.jpg/960px-Aretha_Franklin_1968.jpg",
+      "width": 1019,
+      "height": 1200,
+      "license": "Public domain",
+      "author": "\u003cp\u003eAtlantic Records\n\u003c/p\u003e\n(Life time: Published before 1978 without a copyright notice)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aretha Franklin 1998.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aretha_Franklin_1998.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aretha_Franklin_1998.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Aretha_Franklin_1998.jpg/960px-Aretha_Franklin_1998.jpg",
+      "width": 1500,
+      "height": 2429,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36277035@N06\"\u003eKingkongphoto \u0026amp; www.celebrity-photos.com\u003c/a\u003e from Laurel  Maryland, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aretha Franklin 2015.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aretha_Franklin_2015.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Aretha_Franklin_2015.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Aretha_Franklin_2015.jpg",
+      "width": 345,
+      "height": 512,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35591378@N03\"\u003eThe White House\u003c/a\u003e from Washington, DC"
+    }
   ]
 }

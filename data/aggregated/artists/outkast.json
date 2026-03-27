@@ -2,8 +2,10 @@
   "canonical_slug": "outkast",
   "name": "Outkast",
   "spotify_artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+  "spotify_url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7",
   "genres": [
-    "hip-hop"
+    "hip-hop",
+    "southern-hip-hop"
   ],
   "source_genres": [
     "hip hop",
@@ -26,5 +28,99 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Outkast",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Outkast",
+  "summary": "Outkast were an American hip-hop duo formed in Atlanta, Georgia, in 1992, consisting of Big Boi and André 3000. Widely regarded as one of the greatest and most influential hip-hop acts of all time, the duo achieved both critical acclaim and commercial success from the mid-1990s to the mid-2000s, helping to popularize Southern hip-hop with their intricate lyricism, memorable melodies, and positive themes, while experimenting with a diverse range of genres such as funk, psychedelia, jazz, and techno.",
+  "candidates": [
+    "Outer space",
+    "Outkast",
+    "Outkast (film)",
+    "Outkast F.C.",
+    "Outkast discography",
+    "Outkast stankonia",
+    "Outkasted Outlawz",
+    "Outlast",
+    "Outpatient commitment",
+    "The Outpost (TV series)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Outkast",
+    "page_url": "https://en.wikipedia.org/wiki/Outkast",
+    "retrieved_at": "2026-03-27T09:27:32Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2014227235242 2014-08-15 Rock'n'Heim - Sven - 5D MK II - 250 - IMG 0063 mod.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg/960px-2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg",
+    "width": 4591,
+    "height": 3716,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Sven Mandel"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2014227235242 2014-08-15 Rock'n'Heim - Sven - 5D MK II - 250 - IMG 0063 mod.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg/960px-2014227235242_2014-08-15_Rock%27n%27Heim_-_Sven_-_5D_MK_II_-_250_-_IMG_0063_mod.jpg",
+      "width": 4591,
+      "height": 3716,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Sven Mandel"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BigBoi.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BigBoi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/BigBoi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BigBoi.jpg/960px-BigBoi.jpg",
+      "width": 1453,
+      "height": 1800,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Utoks\" title=\"User:Utoks\"\u003eUtoks\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:EC1835 C cut.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:EC1835_C_cut.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/EC1835_C_cut.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/EC1835_C_cut.jpg",
+      "width": 506,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Procolotor\" title=\"User:Procolotor\"\u003eProcolotor\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the United States.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+      "width": 1235,
+      "height": 650,
+      "license": "Public domain",
+      "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,63 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "the-avalanches",
+  "name": "The Avalanches",
+  "status": "matched",
+  "page_title": "The Avalanches",
+  "summary": "The Avalanches are an Australian electronic music group formed in Melbourne in 1997. They have released three studio albums, Since I Left You (2000), Wildflower (2016), and We Will Always Love You (2020), and perform live and recorded DJ sets. The group currently consists of Robbie Chater and Tony Di Blasi.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Avalanches",
+  "candidates": [
+    "The Avalanches",
+    "The Avalanches discography",
+    "The Avalanche (Sufjan Stevens album)",
+    "The Avalanche (Owen album)",
+    "The Avalanche (1919 film)",
+    "The Avalanche (1946 film)",
+    "The Avalanche Zone",
+    "The avalanche"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Avalanches",
+    "page_url": "https://en.wikipedia.org/wiki/The_Avalanches",
+    "retrieved_at": "2026-03-27T09:28:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:StrokesRosendal080622-2 (52144817677).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:StrokesRosendal080622-2_(52144817677).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/StrokesRosendal080622-2_%2852144817677%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/StrokesRosendal080622-2_%2852144817677%29.jpg/960px-StrokesRosendal080622-2_%2852144817677%29.jpg",
+      "width": 5544,
+      "height": 3110,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    }
+  ]
+}

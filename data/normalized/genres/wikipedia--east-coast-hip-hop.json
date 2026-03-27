@@ -1,0 +1,82 @@
+{
+  "source": "wikipedia",
+  "source_genre": "east coast hip hop",
+  "canonical_genre_slug": "east-coast-hip-hop",
+  "status": "matched",
+  "page_title": "East Coast hip-hop",
+  "summary": "East Coast hip-hop is a regional subgenre of hip-hop music that originated in New York City during the 1970s. Hip-hop is recognized to have originated and evolved first in the Bronx borough of New York City. In contrast to other styles, East Coast hip-hop music prioritizes complex lyrics for attentive listening rather than beats for dancing. The term \"East Coast hip-hop\" more specifically denotes hip-hop originating from the Northeastern United States. Southeastern states such as Georgia or Florida instead produce Southern hip-hop rather than East Coast hip-hop, although the District of Columbia, Virginia, and Maryland produce East Coast hip-hop.",
+  "canonical_url": "https://en.wikipedia.org/wiki/East_Coast_hip-hop",
+  "candidates": [
+    "East Coast hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "East Coast hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/East_Coast_hip-hop",
+    "retrieved_at": "2026-03-27T09:30:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nas-04.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nas-04.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nas-04.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nas-04.jpg",
+      "width": 948,
+      "height": 958,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:RZA 7 Shankbone 2009 Tao of Wu.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:RZA_7_Shankbone_2009_Tao_of_Wu.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/RZA_7_Shankbone_2009_Tao_of_Wu.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RZA_7_Shankbone_2009_Tao_of_Wu.jpg/960px-RZA_7_Shankbone_2009_Tao_of_Wu.jpg",
+      "width": 1980,
+      "height": 2425,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:David_Shankbone\" class=\"extiw\" title=\"w:en:David Shankbone\"\u003e\u003cspan title=\"photographer\"\u003eDavid Shankbone\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Choice Is Yours (Revisited).ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:WEHO2022-6 (52122368631).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:WEHO2022-6_(52122368631).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/WEHO2022-6_%2852122368631%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/WEHO2022-6_%2852122368631%29.jpg/960px-WEHO2022-6_%2852122368631%29.jpg",
+      "width": 2400,
+      "height": 1600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60479256@N08\"\u003eDVSROSS\u003c/a\u003e"
+    }
+  ]
+}

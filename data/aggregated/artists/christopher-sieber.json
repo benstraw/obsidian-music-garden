@@ -2,8 +2,60 @@
   "canonical_slug": "christopher-sieber",
   "name": "Christopher Sieber",
   "spotify_artist_id": "5peNY8vXtrXeevW4JWq797",
+  "spotify_url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797",
+  "genres": [
+    "soundtrack"
+  ],
   "source_genres": [
     "musicals"
   ],
-  "last_updated": "2026-03-26"
+  "status": "matched",
+  "wikipedia_title": "Christopher Sieber",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Sieber",
+  "summary": "Christopher Luverne Sieber is an American actor. Known primarily for his extensive roles on stage in musicals, he has received nominations for two Tony Awards, two Drama Desk Awards, and two Outer Critics Circle Awards.",
+  "candidates": [
+    "Christoph Siebert",
+    "Christopher Eberts",
+    "Christopher Gilbert",
+    "Christopher Hibbert",
+    "Christopher Seider",
+    "Christopher Severn",
+    "Christopher Sieber",
+    "Christopher Silber",
+    "Christopher Speer",
+    "Christopher Weber"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Christopher Sieber",
+    "page_url": "https://en.wikipedia.org/wiki/Christopher_Sieber",
+    "retrieved_at": "2026-03-27T09:25:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Christopher Sieber.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Christopher_Sieber.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Christopher_Sieber.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Christopher_Sieber.jpg/960px-Christopher_Sieber.jpg",
+    "width": 1116,
+    "height": 1474,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41207795@N02\"\u003eDrama League\u003c/a\u003e from USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Christopher Sieber.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Christopher_Sieber.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Christopher_Sieber.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Christopher_Sieber.jpg/960px-Christopher_Sieber.jpg",
+      "width": 1116,
+      "height": 1474,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41207795@N02\"\u003eDrama League\u003c/a\u003e from USA"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

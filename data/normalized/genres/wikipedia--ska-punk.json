@@ -1,0 +1,76 @@
+{
+  "source": "wikipedia",
+  "source_genre": "ska punk",
+  "canonical_genre_slug": "ska-punk",
+  "status": "matched",
+  "page_title": "Ska punk",
+  "summary": "Ska punk is a fusion genre that mixes ska with punk rock. Ska punk tends to feature brass instruments, especially horns such as trumpets, trombones and woodwind instruments like saxophones, making the genre distinct from other forms of punk rock. It is closely tied to third wave ska, which reached its zenith in the mid-1990s.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ska_punk",
+  "candidates": [
+    "Ska punk",
+    "Skatune Network",
+    "Skate punk",
+    "SKA Saint Petersburg",
+    "List of skate punk bands",
+    "SLC Punk!",
+    "Michael Skapinker",
+    "Seapunk",
+    "Skanpuk",
+    "Skafunkrastapunk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ska punk",
+    "page_url": "https://en.wikipedia.org/wiki/Ska_punk",
+    "retrieved_at": "2026-03-27T09:32:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:NoDoubtAtWorcester.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:NoDoubtAtWorcester.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NoDoubtAtWorcester.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NoDoubtAtWorcester.jpg/960px-NoDoubtAtWorcester.jpg",
+    "width": 3000,
+    "height": 2000,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/miss_c/\"\u003eCatherine Dugas\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NoDoubtAtWorcester.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NoDoubtAtWorcester.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NoDoubtAtWorcester.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NoDoubtAtWorcester.jpg/960px-NoDoubtAtWorcester.jpg",
+      "width": 3000,
+      "height": 2000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/miss_c/\"\u003eCatherine Dugas\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Opivy2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Opivy2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg",
+      "width": 400,
+      "height": 234,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Acid_maniac\" class=\"extiw\" title=\"wikipedia:User:Acid maniac\"\u003eAcid maniac\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Mighty Mighty Bosstones in concert.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Mighty_Mighty_Bosstones_in_concert.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Mighty_Mighty_Bosstones_in_concert.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Mighty_Mighty_Bosstones_in_concert.jpg/960px-The_Mighty_Mighty_Bosstones_in_concert.jpg",
+      "width": 3550,
+      "height": 2362,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thisisbossi/\"\u003ethisisbossi\u003c/a\u003e"
+    }
+  ]
+}

@@ -67,12 +67,23 @@
     "winter"
   ],
   "canonical_genre_slugs": [
+    "alternative-pop-rock",
     "alternative-rock",
     "ambient",
+    "ambient-pop",
+    "art-pop",
     "art-rock",
     "electronic",
+    "experimental",
+    "experimental-rock",
+    "idm",
+    "indie-electronic",
     "indie-rock",
-    "rock"
+    "leftfield",
+    "pop",
+    "post-rock",
+    "rock",
+    "rock-and-indie"
   ],
   "status": "matched",
   "page_title": "Radiohead",

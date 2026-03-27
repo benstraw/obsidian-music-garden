@@ -1,0 +1,97 @@
+{
+  "source": "wikipedia",
+  "source_genre": "expressionism",
+  "canonical_genre_slug": "expressionism",
+  "status": "matched",
+  "page_title": "Expressionism",
+  "summary": "Expressionism is a modernist movement, initially in poetry and painting, originating in Northern Europe around the beginning of the 20th century. Its typical trait is to present the world solely from a subjective perspective, distorting it radically for emotional effect in order to evoke moods or ideas. Expressionist artists have sought to express the meaning of emotional experience rather than physical reality.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Expressionism",
+  "candidates": [
+    "Expressionism",
+    "Expressionism (theatre)",
+    "Expressionism in Philosophy: Spinoza",
+    "Expressionism (architecture)",
+    "Expressionism (film)",
+    "Expressionism (music)",
+    "Expression (mathematics)",
+    "Expressions (Sarah Geronimo album)",
+    "Expressivism",
+    "Expressionist dance"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Expressionism",
+    "page_url": "https://en.wikipedia.org/wiki/Expressionism",
+    "retrieved_at": "2026-03-27T09:30:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Abraham Mintchine - Pierrot 1928.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Abraham_Mintchine_-_Pierrot_1928.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Abraham_Mintchine_-_Pierrot_1928.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Abraham_Mintchine_-_Pierrot_1928.jpg",
+    "width": 550,
+    "height": 847,
+    "license": "Public domain",
+    "author": "Abraham Mintchine (1898-1931)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Abraham Mintchine - Pierrot 1928.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Abraham_Mintchine_-_Pierrot_1928.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Abraham_Mintchine_-_Pierrot_1928.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Abraham_Mintchine_-_Pierrot_1928.jpg",
+      "width": 550,
+      "height": 847,
+      "license": "Public domain",
+      "author": "Abraham Mintchine (1898-1931)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:August Macke 005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:August_Macke_005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/August_Macke_005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/August_Macke_005.jpg/960px-August_Macke_005.jpg",
+      "width": 2024,
+      "height": 2056,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:August_Macke\" class=\"extiw\" title=\"w:en:August Macke\"\u003e\u003cspan title=\"German painter of the expressionist group Der Blaue Reiter (1887–1914)\"\u003eAugust Macke\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bundesarchiv B 145 Bild-P047336, Berlin, Mary Wigman-Studio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_B_145_Bild-P047336,_Berlin,_Mary_Wigman-Studio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bundesarchiv_B_145_Bild-P047336%2C_Berlin%2C_Mary_Wigman-Studio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bundesarchiv_B_145_Bild-P047336%2C_Berlin%2C_Mary_Wigman-Studio.jpg",
+      "width": 531,
+      "height": 800,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nSchütz, Klaus\u003c/div\u003e",
+      "attribution_text": "Bundesarchiv, B 145 Bild-P047336 / Schütz, Klaus / CC-BY-SA 3.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carcass of Beef by Chaim Soutine, c. 1925, Albright-Knox Art Gallery.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carcass_of_Beef_by_Chaim_Soutine,_c._1925,_Albright-Knox_Art_Gallery.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Carcass_of_Beef_by_Chaim_Soutine%2C_c._1925%2C_Albright-Knox_Art_Gallery.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Carcass_of_Beef_by_Chaim_Soutine%2C_c._1925%2C_Albright-Knox_Art_Gallery.jpg",
+      "width": 887,
+      "height": 1200,
+      "license": "Public domain",
+      "author": "Chaim Soutine"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chaïm Soutine - Vue de Céret.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cha%C3%AFm_Soutine_-_Vue_de_C%C3%A9ret.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Cha%C3%AFm_Soutine_-_Vue_de_C%C3%A9ret.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cha%C3%AFm_Soutine_-_Vue_de_C%C3%A9ret.jpg/960px-Cha%C3%AFm_Soutine_-_Vue_de_C%C3%A9ret.jpg",
+      "width": 4000,
+      "height": 2861,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Cha%C3%AFm_Soutine\" class=\"extiw\" title=\"w:en:Chaïm Soutine\"\u003e\u003cspan title=\"Belarusian-French painter (1893–1943)\"\u003eChaïm Soutine\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

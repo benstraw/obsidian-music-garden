@@ -2,6 +2,13 @@
   "canonical_slug": "rose-s-pawn-shop",
   "name": "Rose's Pawn Shop",
   "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+  "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3",
+  "genres": [
+    "alt-country",
+    "americana",
+    "bluegrass",
+    "southern-gothic"
+  ],
   "source_genres": [
     "alt country",
     "americana",
@@ -26,5 +33,65 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Rose's Pawn Shop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rose's_Pawn_Shop",
+  "summary": "Rose's Pawn Shop is an Americana, rock, folk and bluegrass band from Los Angeles, California. Their debut album, The Arsonist, was released in May 2006. The band tours several times each year throughout the United States.",
+  "candidates": [
+    "Rose's Pawn Shop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rose's Pawn Shop",
+    "page_url": "https://en.wikipedia.org/wiki/Rose's_Pawn_Shop",
+    "retrieved_at": "2026-03-27T09:27:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Text document with red question mark.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/960px-Text_document_with_red_question_mark.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

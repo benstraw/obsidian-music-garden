@@ -2,11 +2,62 @@
   "source": "spotify",
   "source_artist_id": "71Ur25Abq58vksqJINpGdx",
   "name": "Miles Davis Quintet",
+  "spotify_url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx",
   "source_genres": [
     "bebop",
     "cool jazz",
     "hard bop",
     "jazz",
     "jazz ballads"
+  ],
+  "canonical_genre_slugs": [
+    "bebop",
+    "cool-jazz",
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Miles Davis Quintet",
+  "summary": "The Miles Davis Quintet was an American jazz band from 1955 to early 1969 led by Miles Davis. The quintet underwent frequent personnel changes toward its metamorphosis into a different ensemble in 1969. Most references pertain to two distinct and relatively stable bands: the First Great Quintet from 1955 to 1958, and the Second Great Quintet from late 1964 to early 1969, Davis being the only constant throughout.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Miles_Davis_Quintet",
+  "candidates": [
+    "Miles Davis Quartet (album)",
+    "Miles Davis Quintet",
+    "Miles Davis Quintet (album)",
+    "Miles Davis Quintet 1965-'68",
+    "Miles Davis Quintet at Peacock Alley",
+    "Miles Davis Quintet: Freedom Jazz Dance: The Bootleg Series, Vol. 5"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Miles Davis Quintet",
+    "page_url": "https://en.wikipedia.org/wiki/Miles_Davis_Quintet",
+    "retrieved_at": "2026-03-27T09:27:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Miles Davis (Antibes Juan-les-Pins 1963).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Miles_Davis_(Antibes_Juan-les-Pins_1963).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Miles_Davis_%28Antibes_Juan-les-Pins_1963%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Miles_Davis_%28Antibes_Juan-les-Pins_1963%29.jpg",
+    "width": 640,
+    "height": 608,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mallory1180\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mallory1180 (page does not exist)\"\u003eMallory1180\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Miles Davis (Antibes Juan-les-Pins 1963).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Miles_Davis_(Antibes_Juan-les-Pins_1963).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Miles_Davis_%28Antibes_Juan-les-Pins_1963%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Miles_Davis_%28Antibes_Juan-les-Pins_1963%29.jpg",
+      "width": 640,
+      "height": 608,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mallory1180\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mallory1180 (page does not exist)\"\u003eMallory1180\u003c/a\u003e"
+    }
   ]
 }

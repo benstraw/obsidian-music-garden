@@ -2,8 +2,34 @@
   "source": "spotify",
   "source_artist_id": "2QsynagSdAqZj3U9HgDzjD",
   "name": "Bob Marley \u0026 The Wailers",
+  "spotify_url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
   "source_genres": [
     "reggae",
     "roots reggae"
-  ]
+  ],
+  "canonical_genre_slugs": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "status": "matched",
+  "page_title": "Bob Marley and the Wailers",
+  "summary": "Bob Marley and the Wailers were a Jamaican ska, rocksteady and reggae band. The founding members, in 1963, were Bob Marley, Peter Tosh, and Bunny Wailer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers",
+  "candidates": [
+    "Bob Marley \u0026 The Wailers",
+    "Bob Marley \u0026 The Wailers discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bob Marley and the Wailers",
+    "page_url": "https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers",
+    "retrieved_at": "2026-03-27T09:25:36Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bob-marley-wailers-crystal-palace.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bob-marley-wailers-crystal-palace.jpg/330px-Bob-marley-wailers-crystal-palace.jpg",
+    "width": 1008,
+    "height": 677
+  }
 }

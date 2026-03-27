@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Laurent%20Ferlet",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Laurent%20Ferlet",
+  "cache_key": "summaries/artist--laurent-ferlet",
+  "fetched_at": "2026-03-27T09:26:50Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

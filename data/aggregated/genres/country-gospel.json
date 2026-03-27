@@ -1,0 +1,259 @@
+{
+  "canonical_slug": "country-gospel",
+  "display_title": "Country Gospel",
+  "display_name": "Country Gospel",
+  "parent_slug": "country",
+  "aliases": [
+    "country christian",
+    "country gospel"
+  ],
+  "pending": false,
+  "status": "matched",
+  "wikipedia_title": "Christian country music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_country_music",
+  "summary": "Christian country music is music that is written to express either personal or a communal belief regarding Christian life, as well as to give a Christian alternative to mainstream secular music. Christian country music is a form of Christian music, and a subgenre of both Gospel music and Country music.",
+  "candidates": [
+    "Country Gospel (album)",
+    "Country gospel"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Christian country music",
+    "page_url": "https://en.wikipedia.org/wiki/Christian_country_music",
+    "retrieved_at": "2026-03-27T09:30:23Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 18,
+    "unique_artist_count": 2,
+    "unique_release_count": 15,
+    "unique_track_count": 17,
+    "first_played_at": "2026-02-13T02:19:12.032Z",
+    "last_played_at": "2026-03-09T00:01:20.747Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "peech",
+      "name": "Peech.",
+      "play_count": 16,
+      "spotify_artist_id": "0WQh63ofwTzWOy1ubiHMdk",
+      "spotify_url": "https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk"
+    },
+    {
+      "canonical_slug": "country-s-family-reunion",
+      "name": "Country's Family Reunion",
+      "play_count": 2,
+      "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+      "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
+      "name": "Celebration (Live / Vol. 1)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "country-s-family-reunion",
+      "primary_artist_name": "Country's Family Reunion"
+    },
+    {
+      "canonical_slug": "peech--forever-4-you",
+      "name": "Forever 4 You.",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--these-times-don-t-feel-right",
+      "name": "These Times Don't Feel Right",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--10-years",
+      "name": "10 Years",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--alone",
+      "name": "Alone",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--deep-end",
+      "name": "Deep End",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--don-t-miss-your-moment",
+      "name": "Don't Miss Your Moment",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--going-west",
+      "name": "Going West",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--mid-december",
+      "name": "Mid December",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    },
+    {
+      "canonical_slug": "peech--pain-baby",
+      "name": "Pain Baby",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech."
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "country-s-family-reunion--easy-loving-live",
+      "name": "Easy Loving - Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "country-s-family-reunion",
+      "primary_artist_name": "Country's Family Reunion",
+      "release_canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
+      "release_name": "Celebration (Live / Vol. 1)",
+      "spotify_track_id": "0Ngg6y9pTMkltXFSIAHfMI",
+      "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI"
+    },
+    {
+      "canonical_slug": "peech--alone",
+      "name": "Alone",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--alone",
+      "release_name": "Alone",
+      "spotify_track_id": "4u9qCNrxZzxKbKOnLh7SdO",
+      "spotify_url": "https://open.spotify.com/track/4u9qCNrxZzxKbKOnLh7SdO"
+    },
+    {
+      "canonical_slug": "peech--bombay",
+      "name": "Bombay",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--these-times-don-t-feel-right",
+      "release_name": "These Times Don't Feel Right",
+      "spotify_track_id": "6umI3k5Ec4i8I9XE4sSAPQ",
+      "spotify_url": "https://open.spotify.com/track/6umI3k5Ec4i8I9XE4sSAPQ"
+    },
+    {
+      "canonical_slug": "peech--deep-end",
+      "name": "Deep End",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--deep-end",
+      "release_name": "Deep End",
+      "spotify_track_id": "3oZKmaBE04zl5LykvERK5S",
+      "spotify_url": "https://open.spotify.com/track/3oZKmaBE04zl5LykvERK5S"
+    },
+    {
+      "canonical_slug": "peech--don-t-miss-your-moment",
+      "name": "Don't Miss Your Moment",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--don-t-miss-your-moment",
+      "release_name": "Don't Miss Your Moment",
+      "spotify_track_id": "3dIQ8swnHnpZLerv92ibCb",
+      "spotify_url": "https://open.spotify.com/track/3dIQ8swnHnpZLerv92ibCb"
+    },
+    {
+      "canonical_slug": "peech--going-west",
+      "name": "Going West",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--going-west",
+      "release_name": "Going West",
+      "spotify_track_id": "7asUNUGWYPbWqgMqVCB8Js",
+      "spotify_url": "https://open.spotify.com/track/7asUNUGWYPbWqgMqVCB8Js"
+    },
+    {
+      "canonical_slug": "peech--mid-december",
+      "name": "Mid December",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--mid-december",
+      "release_name": "Mid December",
+      "spotify_track_id": "1adBrX3SQqHuDJBZIUHIKN",
+      "spotify_url": "https://open.spotify.com/track/1adBrX3SQqHuDJBZIUHIKN"
+    },
+    {
+      "canonical_slug": "peech--pain-baby",
+      "name": "Pain Baby",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--pain-baby",
+      "release_name": "Pain Baby",
+      "spotify_track_id": "2x6fb0X9kQtTWjnA8C6wAb",
+      "spotify_url": "https://open.spotify.com/track/2x6fb0X9kQtTWjnA8C6wAb"
+    },
+    {
+      "canonical_slug": "peech--snowfall",
+      "name": "Snowfall",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--snowfall",
+      "release_name": "Snowfall",
+      "spotify_track_id": "4Ts94tFc3UVrBL7xMVsXn6",
+      "spotify_url": "https://open.spotify.com/track/4Ts94tFc3UVrBL7xMVsXn6"
+    },
+    {
+      "canonical_slug": "peech--tell-me",
+      "name": "Tell Me",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "peech",
+      "primary_artist_name": "Peech.",
+      "release_canonical_slug": "peech--tell-me",
+      "release_name": "Tell Me",
+      "spotify_track_id": "7IhvWuNCHe0UPipzxxFfwA",
+      "spotify_url": "https://open.spotify.com/track/7IhvWuNCHe0UPipzxxFfwA"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--country-gospel.json",
+      "url": "https://en.wikipedia.org/wiki/Christian_country_music",
+      "retrieved_at": "2026-03-27T09:30:23Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-09T00:01:20.747Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
+}

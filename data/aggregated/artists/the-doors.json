@@ -2,6 +2,12 @@
   "canonical_slug": "the-doors",
   "name": "The Doors",
   "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+  "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
+  "genres": [
+    "acid-rock",
+    "classic-rock",
+    "psychedelic-rock"
+  ],
   "source_genres": [
     "acid rock",
     "classic rock",
@@ -24,5 +30,95 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "The Doors",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Doors",
+  "summary": "The Doors were an American rock band formed in Los Angeles in 1965, comprising vocalist Jim Morrison, keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore. They were among the most influential and controversial rock acts of the 1960s, primarily due to Morrison's lyrics and voice, along with his erratic stage persona and legal issues. The group is widely regarded as representative of the era's counterculture.",
+  "candidates": [
+    "The Doors",
+    "The Doors (album)",
+    "The Doors (film)",
+    "The Doors (soundtrack)",
+    "The Doors Collection",
+    "The Doors discography",
+    "The Doors of His Face, the Lamps of His Mouth",
+    "The Doors of Perception",
+    "The Doors: Box Set",
+    "The Doors: Vinyl Box Set"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Doors",
+    "page_url": "https://en.wikipedia.org/wiki/The_Doors",
+    "retrieved_at": "2026-03-27T09:28:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Doors007 c.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Doors007_c.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Doors007_c.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Doors007_c.png",
+    "width": 894,
+    "height": 671,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:JustRadley\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:JustRadley (page does not exist)\"\u003eJustRadley\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Doors007 c.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Doors007_c.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Doors007_c.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Doors007_c.png",
+      "width": 894,
+      "height": 671,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:JustRadley\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:JustRadley (page does not exist)\"\u003eJustRadley\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Doors - Morrison Hotel.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Doors_-_Morrison_Hotel.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Doors_-_Morrison_Hotel.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Doors_-_Morrison_Hotel.jpg/960px-Doors_-_Morrison_Hotel.jpg",
+      "width": 1000,
+      "height": 857,
+      "license": "Public domain",
+      "author": "Henry Diltz / Elektra Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Doors electra publicity photo.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Doors_electra_publicity_photo.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Doors_electra_publicity_photo.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Doors_electra_publicity_photo.JPG/960px-Doors_electra_publicity_photo.JPG",
+      "width": 1526,
+      "height": 1132,
+      "license": "Public domain",
+      "author": "Joel Brodsky; Distributed by Elektra Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of California.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/960px-Flag_of_California.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cul\u003e\u003cli\u003e\u003cb\u003eOriginal: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Donald_Graeme_Kelley\" class=\"extiw\" title=\"w:Donald Graeme Kelley\"\u003eDonald Graeme Kelley\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/User:DevinCook\" class=\"extiw\" title=\"en:User:DevinCook\"\u003eDevin Cook\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Los Angeles County, California.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Los_Angeles_County,_California.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Flag_of_Los_Angeles_County%2C_California.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flag_of_Los_Angeles_County%2C_California.svg/960px-Flag_of_Los_Angeles_County%2C_California.svg.png",
+      "width": 1522,
+      "height": 913,
+      "license": "Public domain",
+      "author": "Unknown - Design commissioned by Los Angeles County governing entity\u003cbr\u003eVector flag created by \u003ca href=\"//commons.wikimedia.org/wiki/User:Offnfopt\" title=\"User:Offnfopt\"\u003eOffnfopt\u003c/a\u003e using \u003ca href=\"//commons.wikimedia.org/wiki/File:Seal_of_Los_Angeles_County,_California.svg\" title=\"File:Seal of Los Angeles County, California.svg\"\u003eelements\u003c/a\u003e from Los Angeles County governing entity"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

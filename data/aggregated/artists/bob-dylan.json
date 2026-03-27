@@ -2,7 +2,9 @@
   "canonical_slug": "bob-dylan",
   "name": "Bob Dylan",
   "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+  "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX",
   "genres": [
+    "country-rock",
     "folk",
     "folk-rock",
     "singer-songwriter"
@@ -30,5 +32,83 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Bob Dylan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+  "summary": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sold worldwide, he is one of the best-selling musicians. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.",
+  "candidates": [
+    "Bob Dylan",
+    "Bob Dylan (album)",
+    "Bob Dylan World Tour 1966",
+    "Bob Dylan at Budokan",
+    "Bob Dylan bibliography",
+    "Bob Dylan bootleg recordings",
+    "Bob Dylan discography",
+    "Bob Dylan's Greatest Hits",
+    "Bob Dylan's Greatest Hits Vol. II",
+    "Bob Dylan's recording sessions"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bob Dylan",
+    "page_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+    "retrieved_at": "2026-03-27T09:25:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Allen Ginsberg and Bob Dylan by Elsa Dorfman.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg/960px-Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg",
+    "width": 1480,
+    "height": 994,
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Elsa_Dorfman\" class=\"extiw\" title=\"w:en:Elsa Dorfman\"\u003e\u003cspan title=\"American photographer (1937-2020)\"\u003eElsa Dorfman\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Allen Ginsberg and Bob Dylan by Elsa Dorfman.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg/960px-Allen_Ginsberg_and_Bob_Dylan_by_Elsa_Dorfman.jpg",
+      "width": 1480,
+      "height": 994,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Elsa_Dorfman\" class=\"extiw\" title=\"w:en:Elsa Dorfman\"\u003e\u003cspan title=\"American photographer (1937-2020)\"\u003eElsa Dorfman\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan (1965).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_(1965).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Dylan_%281965%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Dylan_%281965%29.jpg/960px-Bob_Dylan_%281965%29.jpg",
+      "width": 1824,
+      "height": 2193,
+      "license": "Public domain",
+      "author": "Daniel Kramer (Albert Grossman Management)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan - Like a Rolling Stone.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan - The Times They Are a-Changin'.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan 1963 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_1963_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bob_Dylan_1963_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bob_Dylan_1963_%28cropped%29.jpg/960px-Bob_Dylan_1963_%28cropped%29.jpg",
+      "width": 996,
+      "height": 1276,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

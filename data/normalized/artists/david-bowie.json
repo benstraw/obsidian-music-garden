@@ -2,11 +2,108 @@
   "source": "spotify",
   "source_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
   "name": "David Bowie",
+  "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
   "source_genres": [
     "art rock",
     "glam rock"
   ],
   "canonical_genre_slugs": [
-    "art-rock"
+    "art-rock",
+    "glam-rock"
+  ],
+  "status": "matched",
+  "page_title": "David Bowie",
+  "summary": "David Robert Jones, known as David Bowie, was an English singer, songwriter and actor. Regarded as among the most influential musicians of the 20th century, Bowie received particular acclaim for his work in the 1970s. His career was marked by reinvention and visual presentation, and his music and stagecraft have had a significant impact on popular music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/David_Bowie",
+  "candidates": [
+    "David Bowie",
+    "David Bowie (1967 album)",
+    "David Bowie (1969 album)",
+    "David Bowie Is",
+    "David Bowie Narrates Prokofiev's Peter and the Wolf",
+    "David Bowie discography",
+    "David Bowie filmography",
+    "David Bowie videography",
+    "David Bowie's art collection",
+    "David Bowie: Finding Fame"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "David Bowie",
+    "page_url": "https://en.wikipedia.org/wiki/David_Bowie",
+    "retrieved_at": "2026-03-27T09:26:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Berliner Gedenktafel Hauptstr 155 (Schön) David Bowie.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Berliner_Gedenktafel_Hauptstr_155_(Sch%C3%B6n)_David_Bowie.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Berliner_Gedenktafel_Hauptstr_155_%28Sch%C3%B6n%29_David_Bowie.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Berliner_Gedenktafel_Hauptstr_155_%28Sch%C3%B6n%29_David_Bowie.jpg/960px-Berliner_Gedenktafel_Hauptstr_155_%28Sch%C3%B6n%29_David_Bowie.jpg",
+    "width": 3484,
+    "height": 2612,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:OTFW\" title=\"User:OTFW\"\u003eOTFW\u003c/a\u003e, Berlin"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Berliner Gedenktafel Hauptstr 155 (Schön) David Bowie.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Berliner_Gedenktafel_Hauptstr_155_(Sch%C3%B6n)_David_Bowie.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Berliner_Gedenktafel_Hauptstr_155_%28Sch%C3%B6n%29_David_Bowie.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Berliner_Gedenktafel_Hauptstr_155_%28Sch%C3%B6n%29_David_Bowie.jpg/960px-Berliner_Gedenktafel_Hauptstr_155_%28Sch%C3%B6n%29_David_Bowie.jpg",
+      "width": 3484,
+      "height": 2612,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:OTFW\" title=\"User:OTFW\"\u003eOTFW\u003c/a\u003e, Berlin"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bowie-DD-1974-3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bowie-DD-1974-3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bowie-DD-1974-3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bowie-DD-1974-3.jpg",
+      "width": 324,
+      "height": 428,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35838730@N05\"\u003eHunter Desportes\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bowie 1983 serious moonlight.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bowie_1983_serious_moonlight.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bowie_1983_serious_moonlight.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bowie_1983_serious_moonlight.jpg/960px-Bowie_1983_serious_moonlight.jpg",
+      "width": 1024,
+      "height": 1565,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Jeffchat1\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Jeffchat1 (page does not exist)\"\u003eJeffchat1\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David-Bowie Chicago 2002-08-08 photoby Adam-Bielawski-cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg",
+      "width": 342,
+      "height": 400,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Photobra\" title=\"User:Photobra\"\u003eAdam Bielawski\u003c/a\u003e"
+    }
   ]
 }

@@ -1,4 +1,225 @@
 {
   "canonical_slug": "blues",
-  "pending": true
+  "display_title": "Blues",
+  "display_name": "Blues",
+  "notes": "Broad umbrella for blues styles.",
+  "aliases": [
+    "blues",
+    "country blues",
+    "soul blues"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blues",
+  "summary": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Blues has incorporated spirituals, work songs, field hollers, shouts, chants, and rhymed simple narrative ballads from the African-American culture. The blues form is ubiquitous in jazz, rhythm and blues, and rock and roll, and is characterized by the call-and-response pattern, the blues scale, and specific chord progressions, of which the twelve-bar blues is the most common. Blue notes, usually thirds, fifths or sevenths flattened in pitch, are also an essential part of the sound. Blues shuffles or walking bass reinforce the trance-like rhythm and form a repetitive effect known as the groove.",
+  "candidates": [
+    "Blue screen of death",
+    "Blue's Clues",
+    "BlueStacks",
+    "Blues",
+    "Blues (Super Rugby)",
+    "Blues Brothers 2000",
+    "Blues Traveler",
+    "Bluesky",
+    "Bluestar (bus company)",
+    "The Bluest Eye"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blues",
+    "page_url": "https://en.wikipedia.org/wiki/Blues",
+    "retrieved_at": "2026-03-27T09:30:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Texarkana and Northern\" Boogie-woogie bassline.mid",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Texarkana and Northern\" Boogie-woogie bassline.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Texarkana and Northern\" Boogie-woogie bassline.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg/960px-%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg.png",
+      "width": 310,
+      "height": 68,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Boogie-woogie-bassline.PNG\" class=\"mw-redirect\" title=\"File:Boogie-woogie-bassline.PNG\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003e\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tarquin\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tarquin (page does not exist)\"\u003eTarquin\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:Joey-das-WBF\" title=\"User:Joey-das-WBF\"\u003eJohannes Rössel\u003c/a\u003e\u003c/div\u003e",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Joey-das-WBF\" title=\"User:Joey-das-WBF\"\u003eJohannes Rössel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:B.B. King, 2006-06-26.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:B.B._King,_2006-06-26.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/B.B._King%2C_2006-06-26.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/B.B._King%2C_2006-06-26.jpg",
+      "width": 515,
+      "height": 591,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Eric_Draper\" class=\"extiw\" title=\"w:en:Eric Draper\"\u003e\u003cspan title=\"American photographer\"\u003eEric Draper\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bessie Smith (1936) by Carl Van Vechten.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bessie_Smith_(1936)_by_Carl_Van_Vechten.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg/960px-Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+      "width": 4338,
+      "height": 5546,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Creator:Carl_Van_Vechten\" title=\"Creator:Carl Van Vechten\"\u003eCarl Van Vechten\u003c/a\u003e, restored by \u003ca href=\"//commons.wikimedia.org/wiki/User:Adam_Cuerden\" title=\"User:Adam Cuerden\"\u003eAdam Cuerden\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Black-American Heritage Flag.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Black-American_Heritage_Flag.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Black-American_Heritage_Flag.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Black-American_Heritage_Flag.png/960px-Black-American_Heritage_Flag.png",
+      "width": 10417,
+      "height": 6250,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Saturnsorbit\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Saturnsorbit (page does not exist)\"\u003eSaturnsorbit\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 8,
+    "unique_artist_count": 3,
+    "unique_release_count": 3,
+    "unique_track_count": 3,
+    "first_played_at": "2026-03-03T11:08:00.633Z",
+    "last_played_at": "2026-03-15T19:35:10.245Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "play_count": 6,
+      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+    },
+    {
+      "canonical_slug": "j-j-cale",
+      "name": "J.J. Cale",
+      "play_count": 1,
+      "spotify_artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
+      "spotify_url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+    },
+    {
+      "canonical_slug": "otis-redding",
+      "name": "Otis Redding",
+      "play_count": 1,
+      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb"
+    },
+    {
+      "canonical_slug": "otis-redding--dock-of-the-bay-sessions",
+      "name": "Dock of the Bay Sessions",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding"
+    },
+    {
+      "canonical_slug": "j-j-cale--naturally",
+      "name": "Naturally",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "j-j-cale",
+      "primary_artist_name": "J.J. Cale"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "release_name": "Keep 'Em on They Toes",
+      "spotify_track_id": "0f388trqcZyqGbPJUqGWpx",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
+    },
+    {
+      "canonical_slug": "j-j-cale--call-me-the-breeze",
+      "name": "Call Me The Breeze",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "j-j-cale",
+      "primary_artist_name": "J.J. Cale",
+      "release_canonical_slug": "j-j-cale--naturally",
+      "release_name": "Naturally",
+      "spotify_track_id": "5AQpbyFoQmkOVwmlhKN4ii",
+      "spotify_url": "https://open.spotify.com/track/5AQpbyFoQmkOVwmlhKN4ii"
+    },
+    {
+      "canonical_slug": "otis-redding--hard-to-handle",
+      "name": "Hard to Handle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding",
+      "release_canonical_slug": "otis-redding--dock-of-the-bay-sessions",
+      "release_name": "Dock of the Bay Sessions",
+      "spotify_track_id": "7FXuCkl1kfxwS5icDjTwbM",
+      "spotify_url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--blues.json",
+      "url": "https://en.wikipedia.org/wiki/Blues",
+      "retrieved_at": "2026-03-27T09:30:01Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--blues.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-15T19:35:10.245Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

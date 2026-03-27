@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Bossa%20nova",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Bossa%20nova",
+  "cache_key": "summaries/bossa-nova",
+  "fetched_at": "2026-03-27T09:30:04Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

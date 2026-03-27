@@ -1,0 +1,53 @@
+{
+  "source": "wikipedia",
+  "source_genre": "electroclash",
+  "canonical_genre_slug": "electroclash",
+  "status": "matched",
+  "page_title": "Electroclash",
+  "summary": "Electroclash is a genre of popular music that fuses 1980s electro, new wave and synth-pop with 1990s techno, retro-style electropop and electronic dance music. It emerged in the late 1990s and was pioneered by and associated with acts such as I-F, DJ Hell, Miss Kittin and The Hacker, and Fischerspooner.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Electroclash",
+  "candidates": [
+    "Electroclash",
+    "Electroclash Festival",
+    "Electrolaser",
+    "Electroplasticity",
+    "Electric Lash",
+    "Electron Lahar",
+    "Electrical Shock",
+    "Electron, Washington",
+    "Electrical short",
+    "Electrical shielding"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Electroclash",
+    "page_url": "https://en.wikipedia.org/wiki/Electroclash",
+    "retrieved_at": "2026-03-27T09:30:38Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fischerspooner NYC 2005.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fischerspooner_NYC_2005.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fischerspooner_NYC_2005.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fischerspooner_NYC_2005.jpg",
+    "width": 640,
+    "height": 480,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Flickr user Mai Le"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fischerspooner NYC 2005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fischerspooner_NYC_2005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fischerspooner_NYC_2005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fischerspooner_NYC_2005.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Flickr user Mai Le"
+    }
+  ]
+}

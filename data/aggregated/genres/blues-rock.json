@@ -1,4 +1,188 @@
 {
   "canonical_slug": "blues-rock",
-  "pending": true
+  "display_title": "Blues Rock",
+  "display_name": "Blues Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "blues rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Blues rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blues_rock",
+  "summary": "Blues rock is a fusion genre and form of rock and blues music that relies on the chords/scales and instrumental improvisation of blues. It is mostly an electric ensemble-style music with instrumentation similar to electric blues and rock. From its beginnings in the early to mid-1960s, blues rock has gone through several stylistic shifts and along the way it inspired and influenced hard rock, Southern rock, and early heavy metal.",
+  "candidates": [
+    "Blue Lock",
+    "Blue Lock season 1",
+    "Blue Lock season 2",
+    "Blue Stockings Society",
+    "Blue rock thrush",
+    "Blues Rock Casino",
+    "Blues rock",
+    "Bluestocking",
+    "Bluestockings (bookstore)",
+    "Ricky Blues"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blues rock",
+    "page_url": "https://en.wikipedia.org/wiki/Blues_rock",
+    "retrieved_at": "2026-03-27T09:30:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Eric \"slowhand\" Clapton.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_%22slowhand%22_Clapton.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eric_%22slowhand%22_Clapton.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eric_%22slowhand%22_Clapton.jpg/960px-Eric_%22slowhand%22_Clapton.jpg",
+    "width": 2362,
+    "height": 1898,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/8744852@N03\"\u003eStoned59\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eric \"slowhand\" Clapton.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_%22slowhand%22_Clapton.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eric_%22slowhand%22_Clapton.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eric_%22slowhand%22_Clapton.jpg/960px-Eric_%22slowhand%22_Clapton.jpg",
+      "width": 2362,
+      "height": 1898,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/8744852@N03\"\u003eStoned59\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 4,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 4,
+    "first_played_at": "2026-03-03T04:28:02.516Z",
+    "last_played_at": "2026-03-19T02:11:24.325Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "play_count": 3,
+      "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    {
+      "canonical_slug": "j-j-cale",
+      "name": "J.J. Cale",
+      "play_count": 1,
+      "spotify_artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
+      "spotify_url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "name": "Axis: Bold As Love",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix"
+    },
+    {
+      "canonical_slug": "j-j-cale--naturally",
+      "name": "Naturally",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "j-j-cale",
+      "primary_artist_name": "J.J. Cale"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "j-j-cale--call-me-the-breeze",
+      "name": "Call Me The Breeze",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "j-j-cale",
+      "primary_artist_name": "J.J. Cale",
+      "release_canonical_slug": "j-j-cale--naturally",
+      "release_name": "Naturally",
+      "spotify_track_id": "5AQpbyFoQmkOVwmlhKN4ii",
+      "spotify_url": "https://open.spotify.com/track/5AQpbyFoQmkOVwmlhKN4ii"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--castles-made-of-sand",
+      "name": "Castles Made of Sand",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "release_name": "Axis: Bold As Love",
+      "spotify_track_id": "3qebSLgUwaEqbwCM5sj5Kh",
+      "spotify_url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--spanish-castle-magic",
+      "name": "Spanish Castle Magic",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "release_name": "Axis: Bold As Love",
+      "spotify_track_id": "2KFE98Iw0X23sf4vJYcbLH",
+      "spotify_url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--you-got-me-floatin",
+      "name": "You Got Me Floatin'",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "release_name": "Axis: Bold As Love",
+      "spotify_track_id": "2Fu2CXFkfiKKXPGtbDDlvj",
+      "spotify_url": "https://open.spotify.com/track/2Fu2CXFkfiKKXPGtbDDlvj"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--blues-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Blues_rock",
+      "retrieved_at": "2026-03-27T09:30:02Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--blues-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Eric_%22slowhand%22_Clapton.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:11:24.325Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -2,6 +2,10 @@
   "canonical_slug": "baby-huey",
   "name": "Baby Huey",
   "spotify_artist_id": "3YFP5QHEKv8RZZsPminjdv",
+  "spotify_url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv",
+  "genres": [
+    "soul"
+  ],
   "source_genres": [
     "soul"
   ],
@@ -22,5 +26,48 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Baby Huey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Baby_Huey",
+  "summary": "Baby Huey is a gigantic and naïve duckling cartoon character. He was created by Martin Taras for Paramount Pictures' Famous Studios, and became a Paramount cartoon star during the 1950s. Huey first appeared in Quack-a-Doodle-Doo, a Paramount Noveltoon theatrical short produced in 1949 and released in 1950.",
+  "candidates": [
+    "Baby Hello",
+    "Baby Huey",
+    "Baby Huey \u0026 the Babysitters",
+    "Baby Huey (Jive Records)",
+    "Baby Huey (singer)",
+    "Baby Huey's Great Easter Adventure",
+    "Baby Nueva",
+    "Baby Queen",
+    "The Baby Huey Show",
+    "The Baby Huey Story: The Living Legend"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Baby Huey",
+    "page_url": "https://en.wikipedia.org/wiki/Baby_Huey",
+    "retrieved_at": "2026-03-27T09:24:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Babyhuey.JPG"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Babyhuey.JPG"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Isadore Sparber - Noveltoons - Quack-a-Doodle-Doo (1950) (restored raw HD version).webm",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Isadore_Sparber_-_Noveltoons_-_Quack-a-Doodle-Doo_(1950)_(restored_raw_HD_version).webm",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Isadore_Sparber_-_Noveltoons_-_Quack-a-Doodle-Doo_%281950%29_%28restored_raw_HD_version%29.webm",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Isadore_Sparber_-_Noveltoons_-_Quack-a-Doodle-Doo_%281950%29_%28restored_raw_HD_version%29.webm/640px--Isadore_Sparber_-_Noveltoons_-_Quack-a-Doodle-Doo_%281950%29_%28restored_raw_HD_version%29.webm.jpg",
+      "width": 1920,
+      "height": 1080,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Famous_Studios\" class=\"extiw\" title=\"w:Famous Studios\"\u003eFamous Studios\u003c/a\u003e (later known as Paramount Cartoon Studios before 1957) (1943–1967)"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

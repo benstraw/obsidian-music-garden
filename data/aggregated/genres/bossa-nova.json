@@ -1,4 +1,174 @@
 {
   "canonical_slug": "bossa-nova",
-  "pending": true
+  "display_title": "Bossa Nova",
+  "display_name": "Bossa Nova",
+  "aliases": [
+    "bossa nova"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Bossa nova",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bossa_nova",
+  "summary": "Bossa nova is a relaxed style of samba developed in the late 1950s and early 1960s in Rio de Janeiro, Brazil. It is mainly characterized by a calm syncopated rhythm with chords and fingerstyle mimicking the beat of a samba groove, as if it was a simplification and stylization on the guitar of the rhythm produced by a samba school band. Another defining characteristic of the style is the use of unconventional chords in some cases with complex progressions and \"ambiguous\" harmonies. A common misconception is that these complex chords and harmonies were derived from jazz, but samba guitar players have been using similar arrangement structures since the early 1920s, indicating a case of parallel evolution of styles rather than a simple transference from jazz to bossa nova. Nevertheless, bossa nova was influenced by jazz, both in the harmonies used and also by the instrumentation of songs, and today many bossa nova songs are considered jazz standards. The popularity of bossa nova has helped to renew samba and contributed to the modernization of Brazilian music in general.",
+  "candidates": [
+    "Bossa Nova (film)",
+    "Bossa Nova 2001",
+    "Bossa Nova Baby",
+    "Bossa Nova Bacchanal",
+    "Bossa Nova Hotel",
+    "Bossa Nova Pelos Passaros",
+    "Bossa Nova Robotics",
+    "Bossa Nova Stories",
+    "Bossa Nova U.S.A.",
+    "Bossa nova"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bossa nova",
+    "page_url": "https://en.wikipedia.org/wiki/Bossa_nova",
+    "retrieved_at": "2026-03-27T09:30:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Baden Powell no Teatro da Praia, 1972.tif",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Baden_Powell_no_Teatro_da_Praia,_1972.tif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Baden_Powell_no_Teatro_da_Praia%2C_1972.tif",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden_Powell_no_Teatro_da_Praia%2C_1972.tif/lossy-page1-960px-Baden_Powell_no_Teatro_da_Praia%2C_1972.tif.jpg",
+    "width": 5583,
+    "height": 4163,
+    "license": "Public domain",
+    "author": "\u003cdiv class=\"fn value\"\u003e\nUnknown\u003cspan style=\"display: none;\"\u003eUnknown \u003c/span\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Baden Powell no Teatro da Praia, 1972.tif",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Baden_Powell_no_Teatro_da_Praia,_1972.tif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Baden_Powell_no_Teatro_da_Praia%2C_1972.tif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Baden_Powell_no_Teatro_da_Praia%2C_1972.tif/lossy-page1-960px-Baden_Powell_no_Teatro_da_Praia%2C_1972.tif.jpg",
+      "width": 5583,
+      "height": 4163,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nUnknown\u003cspan style=\"display: none;\"\u003eUnknown \u003c/span\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Basic bossa nova guitar rhythm.PNG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Basic_bossa_nova_guitar_rhythm.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Basic_bossa_nova_guitar_rhythm.PNG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Basic_bossa_nova_guitar_rhythm.PNG",
+      "width": 368,
+      "height": 134,
+      "license": "Public domain",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Tarquin\" class=\"extiw\" title=\"wikipedia:User:Tarquin\"\u003eTarquin\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bossa-nova-rhythm1.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bossa-nova-rhythm1.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bossa-nova-rhythm1.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bossa-nova-rhythm1.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bossa-nova-rhythm1.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Bossa-nova-rhythm1.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bossa-nova-rhythm1.svg/960px-Bossa-nova-rhythm1.svg.png",
+      "width": 252,
+      "height": 52,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Olorulus\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Olorulus (page does not exist)\"\u003eAlexander Sapozhnikov\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Olorulus\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Olorulus (page does not exist)\"\u003eAlexander Sapozhnikov\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bossa nova dance pattern.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bossa_nova_dance_pattern.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bossa_nova_dance_pattern.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bossa_nova_dance_pattern.png/960px-Bossa_nova_dance_pattern.png",
+      "width": 1697,
+      "height": 217,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eUser:Hyacinth\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T12:09:58.043Z",
+    "last_played_at": "2026-03-03T12:09:58.043Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "trio-mocoto",
+      "name": "Trio Mocoto",
+      "play_count": 1,
+      "spotify_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
+      "spotify_url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "trio-mocoto--trio-mocotó",
+      "name": "Trio Mocotó",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "trio-mocoto",
+      "primary_artist_name": "Trio Mocoto"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "trio-mocoto--swinga-sambaby",
+      "name": "Swinga Sambaby",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "trio-mocoto",
+      "primary_artist_name": "Trio Mocoto",
+      "release_canonical_slug": "trio-mocoto--trio-mocotó",
+      "release_name": "Trio Mocotó",
+      "spotify_track_id": "3rlfQRL4gIRARv6vGawaj2",
+      "spotify_url": "https://open.spotify.com/track/3rlfQRL4gIRARv6vGawaj2"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bossa-nova.json",
+      "url": "https://en.wikipedia.org/wiki/Bossa_nova",
+      "retrieved_at": "2026-03-27T09:30:03Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--bossa-nova.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Baden_Powell_no_Teatro_da_Praia,_1972.tif",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T12:09:58.043Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

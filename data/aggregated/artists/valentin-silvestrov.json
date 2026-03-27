@@ -2,6 +2,7 @@
   "canonical_slug": "valentin-silvestrov",
   "name": "Valentin Silvestrov",
   "spotify_artist_id": "1bauOA5U5M3RwH2euX3Eq6",
+  "spotify_url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb2c8adcc618320814f0c551ec",
@@ -19,5 +20,44 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Valentyn Silvestrov",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Valentyn_Silvestrov",
+  "summary": "Valentin Vasylyovych Silvestrov is a Ukrainian composer and pianist who plays and writes contemporary classical music. He is a laureate of Shevchenko National Prize.",
+  "candidates": [
+    "Valentyn Silvestrov"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Valentyn Silvestrov",
+    "page_url": "https://en.wikipedia.org/wiki/Valentyn_Silvestrov",
+    "retrieved_at": "2026-03-27T09:28:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Valentinsilvestrov.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Valentinsilvestrov.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Valentinsilvestrov.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Valentinsilvestrov.JPG",
+    "width": 800,
+    "height": 762,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Smerus\" title=\"User:Smerus\"\u003eSmerus\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Valentinsilvestrov.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Valentinsilvestrov.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Valentinsilvestrov.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Valentinsilvestrov.JPG",
+      "width": 800,
+      "height": 762,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Smerus\" title=\"User:Smerus\"\u003eSmerus\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

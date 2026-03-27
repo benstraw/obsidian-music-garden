@@ -1,0 +1,88 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "little-feat",
+  "name": "Little Feat",
+  "status": "matched",
+  "page_title": "Little Feat",
+  "summary": "Little Feat is an American rock band from Los Angeles formed by lead vocalist and guitarist Lowell George, bassist Roy Estrada, keyboardist Bill Payne, and drummer Richie Hayward in 1969. The band's classic line-up, in place by late 1972, consisted of George, Payne, Hayward, bassist Kenny Gradney, guitarist and vocalist Paul Barrere, and percussionist Sam Clayton. George disbanded the group because of creative differences shortly before his death in 1979. Surviving members re-formed Little Feat in 1987 and the band continues to perform.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Little_Feat",
+  "candidates": [
+    "Little Feat",
+    "Little Feat discography",
+    "Little Feat (album)",
+    "Little feather",
+    "Sacheen Littlefeather",
+    "Little Ferry, New Jersey",
+    "Little League Baseball",
+    "Little Caesars Arena",
+    "Little Falls, New Jersey",
+    "Little League World Series"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Little Feat",
+    "page_url": "https://en.wikipedia.org/wiki/Little_Feat",
+    "retrieved_at": "2026-03-27T09:26:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox current red Americas.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Americas.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ambox_current_red_Americas.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ambox_current_red_Americas.svg/960px-Ambox_current_red_Americas.svg.png",
+    "width": 360,
+    "height": 290,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Americas.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Americas.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ambox_current_red_Americas.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ambox_current_red_Americas.svg/960px-Ambox_current_red_Americas.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LittleFeat Stockholm20090715.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LittleFeat_Stockholm20090715.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/LittleFeat_Stockholm20090715.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/LittleFeat_Stockholm20090715.jpg/960px-LittleFeat_Stockholm20090715.jpg",
+      "width": 1000,
+      "height": 603,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kotoviski\" title=\"User:Kotoviski\"\u003eKotoviski\u003c/a\u003e photographed by Henryk Kotowski"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Little Feat 1975.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Little_Feat_1975.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Little_Feat_1975.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Little_Feat_1975.JPG",
+      "width": 742,
+      "height": 347,
+      "license": "Public domain",
+      "author": "Warner Brothers Records."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Little Feat Paul Barrere and Lowell George.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Little_Feat_Paul_Barrere_and_Lowell_George.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Little_Feat_Paul_Barrere_and_Lowell_George.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Little_Feat_Paul_Barrere_and_Lowell_George.jpg",
+      "width": 417,
+      "height": 264,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
+    }
+  ]
+}

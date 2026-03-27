@@ -2,6 +2,15 @@
   "canonical_slug": "miles-davis",
   "name": "Miles Davis",
   "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+  "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+  "genres": [
+    "bebop",
+    "cool-jazz",
+    "free-jazz",
+    "hard-bop",
+    "jazz",
+    "jazz-fusion"
+  ],
   "source_genres": [
     "bebop",
     "cool jazz",

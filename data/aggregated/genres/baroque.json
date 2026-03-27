@@ -1,4 +1,134 @@
 {
   "canonical_slug": "baroque",
-  "pending": true
+  "display_title": "Baroque",
+  "display_name": "Baroque",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Baroque",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Baroque",
+  "summary": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. It followed Renaissance art and Mannerism and preceded the Rococo and Neoclassical styles. It was encouraged by the Catholic Church as a means to counter the simplicity and austerity of Protestant architecture, art, and music, though Lutheran Baroque art developed in parts of Europe as well.",
+  "candidates": [
+    "Baroque",
+    "Baroque (video game)",
+    "Baroque Churches of the Philippines",
+    "Baroque architecture",
+    "Baroque chess",
+    "Baroque guitar",
+    "Baroque music",
+    "Baroque painting",
+    "Baroque pop",
+    "Baroque sculpture"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Baroque",
+    "page_url": "https://en.wikipedia.org/wiki/Baroque",
+    "retrieved_at": "2026-03-27T09:29:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:046CupolaSPietro.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+    "width": 800,
+    "height": 600,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MarkusMark\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MarkusMark (page does not exist)\"\u003eMarkusMark\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:046CupolaSPietro.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MarkusMark\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MarkusMark (page does not exist)\"\u003eMarkusMark\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:100130 150006 Dresden Frauenkirche winter blue sky-2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/960px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg",
+      "width": 3075,
+      "height": 4559,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Netopyr\" title=\"User:Netopyr\"\u003eNetopyr\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1 Tessinska palatset trädgård 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1_Tessinska_palatset_tr%C3%A4dg%C3%A5rd_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/1_Tessinska_palatset_tr%C3%A4dg%C3%A5rd_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1_Tessinska_palatset_tr%C3%A4dg%C3%A5rd_2.jpg/960px-1_Tessinska_palatset_tr%C3%A4dg%C3%A5rd_2.jpg",
+      "width": 3872,
+      "height": 2592,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Boberger\" title=\"User:Boberger\"\u003eBoberger\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2019-08-02-3847-Saint Petersburg.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2019-08-02-3847-Saint_Petersburg.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/2019-08-02-3847-Saint_Petersburg.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2019-08-02-3847-Saint_Petersburg.jpg/960px-2019-08-02-3847-Saint_Petersburg.jpg",
+      "width": 4288,
+      "height": 2774,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Don-vip\" title=\"User:Don-vip\"\u003eDon-vip\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:20200403 Schweriner Schloss.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:20200403_Schweriner_Schloss.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/20200403_Schweriner_Schloss.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20200403_Schweriner_Schloss.jpg/960px-20200403_Schweriner_Schloss.jpg",
+      "width": 4000,
+      "height": 2667,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q102178970\" class=\"extiw\" title=\"d:Q102178970\"\u003e\u003cspan title=\"Ph.D. Universität Rostock 1993\"\u003eMatthias Bethke\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--baroque.json",
+      "url": "https://en.wikipedia.org/wiki/Baroque",
+      "retrieved_at": "2026-03-27T09:29:55Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--baroque.json",
+      "url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

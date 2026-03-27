@@ -1,0 +1,63 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "john-prine",
+  "name": "John Prine",
+  "status": "matched",
+  "page_title": "John Prine",
+  "summary": "John Edward Prine was an American singer-songwriter of country-folk music. Widely cited as one of the most influential songwriters of his generation, Prine was known for his signature blend of humorous lyrics about love, life, and current events, often with elements of social commentary and satire, as well as sweet songs and melancholy ballads. He was active as a composer, recording artist, live performer, and occasional actor from the early 1970s until his death.",
+  "canonical_url": "https://en.wikipedia.org/wiki/John_Prine",
+  "candidates": [
+    "John Prine",
+    "John Prine (album)",
+    "John Prine Live",
+    "A John Prine Christmas",
+    "John Prine - Live from Sessions at West 54th",
+    "John Prescott",
+    "John, Prince of Asturias",
+    "John Payne (actor)",
+    "John Pinette",
+    "John Arne Riise"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Prine",
+    "page_url": "https://en.wikipedia.org/wiki/John_Prine",
+    "retrieved_at": "2026-03-27T09:26:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:John Prine (2016) (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Prine_(2016)_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/John_Prine_%282016%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Prine_%282016%29_%28cropped%29.jpg/960px-John_Prine_%282016%29_%28cropped%29.jpg",
+    "width": 1673,
+    "height": 2037,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/80223459@N05\"\u003eYellowstone National Park\u003c/a\u003e, YPF/Matt Ludin"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Prine (2016) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Prine_(2016)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/John_Prine_%282016%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/John_Prine_%282016%29_%28cropped%29.jpg/960px-John_Prine_%282016%29_%28cropped%29.jpg",
+      "width": 1673,
+      "height": 2037,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/80223459@N05\"\u003eYellowstone National Park\u003c/a\u003e, YPF/Matt Ludin"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Prine by Ron Baker.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Prine_by_Ron_Baker.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/John_Prine_by_Ron_Baker.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/John_Prine_by_Ron_Baker.jpg",
+      "width": 580,
+      "height": 480,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Ron Baker  (\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/kingsnake\"\u003ehttps://www.flickr.com/photos/kingsnake\u003c/a\u003e)"
+    }
+  ]
+}

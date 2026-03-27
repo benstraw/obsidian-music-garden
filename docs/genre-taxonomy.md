@@ -32,3 +32,9 @@ It defines:
    - collisions where one normalized alias resolves to multiple slugs
 
 4. Curate the file until the unknown labels and collisions are intentional.
+
+## TODO
+
+- Keep working down the remaining unknown-label queue from `genre-report`.
+- Split non-genre junk and mood tags from real genre candidates so the report
+  stays focused on curation work that matters.

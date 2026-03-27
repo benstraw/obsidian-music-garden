@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Steel%20Pulse",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Steel%20Pulse",
+  "cache_key": "summaries/artist--steel-pulse",
+  "fetched_at": "2026-03-27T09:28:02Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

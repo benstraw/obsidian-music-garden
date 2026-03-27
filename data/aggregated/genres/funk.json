@@ -1,4 +1,377 @@
 {
   "canonical_slug": "funk",
-  "pending": true
+  "display_title": "Funk",
+  "display_name": "Funk",
+  "notes": "Motown is not strictly synonymous with funk, but it works as a practical umbrella until a richer soul/R\u0026B taxonomy exists.",
+  "aliases": [
+    "funk",
+    "motown"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Funk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Funk",
+  "summary": "Funk is a music genre that originated in African-American communities in the mid-1960s when musicians created a rhythmic, danceable new form of music through a mixture of various music genres that were popular among African-Americans in the mid-20th century. It deemphasizes melody and chord progressions and focuses on a strong rhythmic groove of a bassline played by an electric bassist and a drum part played by a percussionist, often at slower tempos than other popular music. Funk typically consists of a complex percussive groove with rhythm instruments playing interlocking grooves that create a \"hypnotic\" and \"danceable\" feel. Early funk, specifically James Brown, fused jazz and blues, and added a syncopated drum groove.",
+  "candidates": [
+    "Fred Funk",
+    "Funk",
+    "Funk Wav Bounces Vol. 1",
+    "Funk carioca",
+    "Funke Akindele",
+    "Funko",
+    "Funky (film)",
+    "Funkytown",
+    "Terry Funk",
+    "The Funk Brothers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Funk",
+    "page_url": "https://en.wikipedia.org/wiki/Funk",
+    "retrieved_at": "2026-03-27T09:30:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Anitta Heat Latin Music Awards 2021.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Anitta_Heat_Latin_Music_Awards_2021.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+    "width": 380,
+    "height": 668,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCAMlnH4jZoBVmzAPBGzLw0g\"\u003eGente RD\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anitta Heat Latin Music Awards 2021.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "width": 380,
+      "height": 668,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCAMlnH4jZoBVmzAPBGzLw0g\"\u003eGente RD\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bootsy Collins-04.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bootsy_Collins-04.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bootsy_Collins-04.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bootsy_Collins-04.jpg",
+      "width": 850,
+      "height": 850,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:MikaV\" class=\"extiw\" title=\"de:Benutzer:MikaV\"\u003eMikaV\u003c/a\u003e (\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:MikaV\" class=\"extiw\" title=\"de:Benutzer Diskussion:MikaV\"\u003eDiskussion\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chaka Khan.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chaka_Khan.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chaka_Khan.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chaka_Khan.jpg",
+      "width": 667,
+      "height": 1000,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Dwightmccann\" class=\"extiw\" title=\"wikipedia:User:Dwightmccann\"\u003eDwightmccann\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e.",
+      "attribution_text": "Dwight McCann / Chumash Casino Resort / www.DwightMcCann.com"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Wilson-photo-by-raymond-boyd.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Wilson-photo-by-raymond-boyd.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Charlie_Wilson-photo-by-raymond-boyd.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charlie_Wilson-photo-by-raymond-boyd.jpg/960px-Charlie_Wilson-photo-by-raymond-boyd.jpg",
+      "width": 2112,
+      "height": 3168,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:RaymondBoyd51\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:RaymondBoyd51 (page does not exist)\"\u003eRaymondBoyd51\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cissy Strut drum groove.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cissy_Strut_drum_groove.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cissy_Strut_drum_groove.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cissy_Strut_drum_groove.jpg",
+      "width": 741,
+      "height": 291,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Feloscho\" title=\"User:Feloscho\"\u003eFeloscho\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 19,
+    "unique_artist_count": 6,
+    "unique_release_count": 11,
+    "unique_track_count": 18,
+    "first_played_at": "2026-03-01T00:42:35.656Z",
+    "last_played_at": "2026-03-08T20:15:21.743Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "funkadelic",
+      "name": "Funkadelic",
+      "play_count": 10,
+      "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+      "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    },
+    {
+      "canonical_slug": "curtis-mayfield",
+      "name": "Curtis Mayfield",
+      "play_count": 5,
+      "spotify_artist_id": "2AV6XDIs32ofIJhkkDevjm",
+      "spotify_url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+    },
+    {
+      "canonical_slug": "aretha-franklin",
+      "name": "Aretha Franklin",
+      "play_count": 1,
+      "spotify_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "spotify_url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+    },
+    {
+      "canonical_slug": "charles-bradley",
+      "name": "Charles Bradley",
+      "play_count": 1,
+      "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
+      "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band",
+      "name": "Lafayette Afro Rock Band",
+      "play_count": 1,
+      "spotify_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
+      "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
+    },
+    {
+      "canonical_slug": "otis-redding",
+      "name": "Otis Redding",
+      "play_count": 1,
+      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "funkadelic--maggot-brain",
+      "name": "Maggot Brain",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
+      "name": "Superfly: Deluxe 25th Anniversary Edition",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield"
+    },
+    {
+      "canonical_slug": "funkadelic--america-eats-its-young",
+      "name": "America Eats Its Young",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "otis-redding--dock-of-the-bay-sessions",
+      "name": "Dock of the Bay Sessions",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding"
+    },
+    {
+      "canonical_slug": "funkadelic--funkadelic",
+      "name": "Funkadelic",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band--malik",
+      "name": "Malik",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+      "primary_artist_name": "Lafayette Afro Rock Band"
+    },
+    {
+      "canonical_slug": "charles-bradley--no-time-for-dreaming",
+      "name": "No Time For Dreaming",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "charles-bradley",
+      "primary_artist_name": "Charles Bradley"
+    },
+    {
+      "canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
+      "name": "Standing On The Verge Of Getting It On",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--superfly-original-soundtrack",
+      "name": "Superfly (Original Soundtrack)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
+      "name": "There's No Place Like America Today",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "curtis-mayfield--pusherman",
+      "name": "Pusherman",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield",
+      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
+      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
+      "spotify_track_id": "7zrPswSV1yxrill5OyCuaU",
+      "spotify_url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+    },
+    {
+      "canonical_slug": "funkadelic--back-in-our-minds",
+      "name": "Back In Our Minds",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "25XlPV3Khx2RVhwCBC6HNe",
+      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--billy-jack",
+      "name": "Billy Jack",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield",
+      "release_canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
+      "release_name": "There's No Place Like America Today",
+      "spotify_track_id": "58g78TAudwqiMzSJHrhjYB",
+      "spotify_url": "https://open.spotify.com/track/58g78TAudwqiMzSJHrhjYB"
+    },
+    {
+      "canonical_slug": "funkadelic--biological-speculation",
+      "name": "Biological Speculation",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--america-eats-its-young",
+      "release_name": "America Eats Its Young",
+      "spotify_track_id": "1S4igP7OpCUIEC5l75DssU",
+      "spotify_url": "https://open.spotify.com/track/1S4igP7OpCUIEC5l75DssU"
+    },
+    {
+      "canonical_slug": "funkadelic--can-you-get-to-that",
+      "name": "Can You Get To That",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "5lc9L9FeLBwlJPgEbq9uEw",
+      "spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band--darkest-light-remastered",
+      "name": "Darkest Light - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+      "primary_artist_name": "Lafayette Afro Rock Band",
+      "release_canonical_slug": "lafayette-afro-rock-band--malik",
+      "release_name": "Malik",
+      "spotify_track_id": "6eDVnsVgEAjMdcczx4mpoq",
+      "spotify_url": "https://open.spotify.com/track/6eDVnsVgEAjMdcczx4mpoq"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--freddie-s-dead",
+      "name": "Freddie's Dead",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield",
+      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
+      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
+      "spotify_track_id": "2ouFIPC3O1HNBcVTw1d9AN",
+      "spotify_url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "canonical_slug": "otis-redding--hard-to-handle",
+      "name": "Hard to Handle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding",
+      "release_canonical_slug": "otis-redding--dock-of-the-bay-sessions",
+      "release_name": "Dock of the Bay Sessions",
+      "spotify_track_id": "7FXuCkl1kfxwS5icDjTwbM",
+      "spotify_url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "canonical_slug": "funkadelic--hit-it-and-quit-it",
+      "name": "Hit It and Quit It",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "2w7R3CQgvl8PIKJlwtT9Mv",
+      "spotify_url": "https://open.spotify.com/track/2w7R3CQgvl8PIKJlwtT9Mv"
+    },
+    {
+      "canonical_slug": "funkadelic--i-ll-bet-you",
+      "name": "I'll Bet You",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--funkadelic",
+      "release_name": "Funkadelic",
+      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
+      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--funk.json",
+      "url": "https://en.wikipedia.org/wiki/Funk",
+      "retrieved_at": "2026-03-27T09:30:51Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--funk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T20:15:21.743Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Expressionism",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Expressionism",
+  "cache_key": "summaries/expressionism",
+  "fetched_at": "2026-03-27T09:30:46Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

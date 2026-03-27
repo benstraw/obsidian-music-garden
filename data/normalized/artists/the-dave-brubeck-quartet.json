@@ -2,8 +2,34 @@
   "source": "spotify",
   "source_artist_id": "4iRZAbYvBqnxrbs6K25aJ7",
   "name": "The Dave Brubeck Quartet",
+  "spotify_url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7",
   "source_genres": [
     "cool jazz",
     "jazz"
-  ]
+  ],
+  "canonical_genre_slugs": [
+    "cool-jazz",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Dave Brubeck",
+  "summary": "David Warren Brubeck was an American jazz pianist and composer. Often regarded as a foremost exponent of cool jazz, Brubeck's work is characterized by unusual time signatures and superimposing contrasting rhythms, meters, and tonalities, and combining different styles and genres, such as classical, jazz, and blues.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Dave_Brubeck",
+  "candidates": [
+    "The Dave Brubeck Quartet",
+    "The Dave Brubeck Quartet in Europe"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dave Brubeck",
+    "page_url": "https://en.wikipedia.org/wiki/Dave_Brubeck",
+    "retrieved_at": "2026-03-27T09:28:12Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dave_Brubeck_%281964%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Dave_Brubeck_%281964%29.jpg/330px-Dave_Brubeck_%281964%29.jpg",
+    "width": 1260,
+    "height": 1680
+  }
 }

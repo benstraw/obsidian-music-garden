@@ -2,6 +2,14 @@
   "canonical_slug": "gil-evans",
   "name": "Gil Evans",
   "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+  "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ",
+  "genres": [
+    "bebop",
+    "big-band",
+    "cool-jazz",
+    "hard-bop",
+    "jazz"
+  ],
   "source_genres": [
     "bebop",
     "big band",
@@ -31,5 +39,77 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Gil Evans",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gil_Evans",
+  "summary": "Ian Ernest Gilmore Evans was a Canadian–American jazz pianist, arranger, composer and bandleader. He is widely recognized as one of the greatest orchestrators in jazz, playing an important role in the development of cool jazz, modal jazz, free jazz, and jazz fusion. He is best known for his acclaimed collaborations with Miles Davis.",
+  "candidates": [
+    "Evan Gill",
+    "Gil Eanes",
+    "Gil Evans",
+    "Gil Evans \u0026 Ten",
+    "Gil Evans Live at the Royal Festival Hall London 1978",
+    "Gil Hanse",
+    "Gil Vainshtein",
+    "Iván Gil",
+    "The Gil Evans Orchestra Plays the Music of Jimi Hendrix",
+    "Yván Gil"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gil Evans",
+    "page_url": "https://en.wikipedia.org/wiki/Gil_Evans",
+    "retrieved_at": "2026-03-27T09:26:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gil Evans (1978).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gil_Evans_(1978).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gil_Evans_%281978%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gil_Evans_%281978%29.jpg",
+    "width": 283,
+    "height": 367,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Oleo\" title=\"User:Oleo\"\u003eOleo\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gil Evans (1978).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gil_Evans_(1978).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gil_Evans_%281978%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Gil_Evans_%281978%29.jpg",
+      "width": 283,
+      "height": 367,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Oleo\" title=\"User:Oleo\"\u003eOleo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gil Evans 1978 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gil_Evans_1978_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gil_Evans_1978_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gil_Evans_1978_2.jpg",
+      "width": 437,
+      "height": 289,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Thomas_Huther\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Thomas Huther (page does not exist)\"\u003eThomas Huther\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

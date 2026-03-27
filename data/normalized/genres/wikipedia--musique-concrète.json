@@ -1,0 +1,62 @@
+{
+  "source": "wikipedia",
+  "source_genre": "musique concrète",
+  "canonical_genre_slug": "musique-concrète",
+  "status": "matched",
+  "page_title": "Musique concrète",
+  "summary": "Musique concrète is a type of music composition that utilizes recorded sounds as raw material. Sounds are often modified through the application of audio signal processing and tape music techniques, and may be assembled into a form of sound collage. It can feature sounds derived from recordings of musical instruments, the human voice, and the natural environment, as well as those created using sound synthesis and computer-based digital signal processing. Compositions in this idiom are not restricted to the normal musical rules of melody, harmony, rhythm, and metre. The technique exploits acousmatic sound, such that sound identities can often be intentionally obscured or appear unconnected to their source cause.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
+  "candidates": [
+    "Musique concrète"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Musique concrète",
+    "page_url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
+    "retrieved_at": "2026-03-27T09:31:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:L430xH465 jpg Schaeffer big-2eb70.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:L430xH465 jpg Schaeffer big-2eb70.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Morphophone.JPG"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Phonogene.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Phonogene.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Phonogene.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Phonogene.jpg",
+      "width": 312,
+      "height": 406,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"en:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Semitransgenic\" class=\"extiw\" title=\"en:User talk:Semitransgenic\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"wikipedia:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pierre Henry in concert, 1952.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Psconcer.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Psconcer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Psconcer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Psconcer.jpg",
+      "width": 394,
+      "height": 293,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"en:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Semitransgenic\" class=\"extiw\" title=\"en:User talk:Semitransgenic\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"wikipedia:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ]
+}

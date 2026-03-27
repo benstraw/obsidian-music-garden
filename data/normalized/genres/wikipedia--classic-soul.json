@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "classic soul",
+  "canonical_genre_slug": "classic-soul",
+  "status": "matched",
+  "page_title": "Soul music",
+  "summary": "Soul music is a popular music genre that originated in African-American communities throughout the United States in the late 1950s and early 1960s. Catchy rhythms, stressed by handclaps and extemporaneous body movements, are an important hallmark of soul. Other characteristics are a call and response between the lead and backing vocalists, an especially tense vocal sound, and occasional improvisational additions, twirls, and auxiliary sounds. Soul music is known for reflecting African-American identity and stressing the importance of African-American culture.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Soul_music",
+  "candidates": [
+    "Classic soul",
+    "Classical Hollywood cinema",
+    "Classic Shell",
+    "Classical sculpture",
+    "Classic country",
+    "A Classic Tour",
+    "Classic Columbia, Okeh and Vocalion: Lester Young with Count Basie (1936–1940)",
+    "Classic World Productions",
+    "Classic Gold Digital Network",
+    "Classic Lolita Fashion"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soul music",
+    "page_url": "https://en.wikipedia.org/wiki/Soul_music",
+    "retrieved_at": "2026-03-27T09:30:13Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ray_Charles_%281967%29.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ray_Charles_%281967%29.png/330px-Ray_Charles_%281967%29.png",
+    "width": 696,
+    "height": 785
+  }
+}

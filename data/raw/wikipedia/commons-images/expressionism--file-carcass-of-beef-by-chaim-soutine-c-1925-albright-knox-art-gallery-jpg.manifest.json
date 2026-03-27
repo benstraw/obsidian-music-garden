@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3ACarcass+of+Beef+by+Chaim+Soutine%2C+c.+1925%2C+Albright-Knox+Art+Gallery.jpg",
+  "cache_key": "commons-images/expressionism--file-carcass-of-beef-by-chaim-soutine-c-1925-albright-knox-art-gallery-jpg",
+  "fetched_at": "2026-03-27T09:30:47Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

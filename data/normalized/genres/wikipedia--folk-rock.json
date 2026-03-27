@@ -1,0 +1,75 @@
+{
+  "source": "wikipedia",
+  "source_genre": "folk rock",
+  "canonical_genre_slug": "folk-rock",
+  "status": "matched",
+  "page_title": "Folk rock",
+  "summary": "Folk rock is a fusion genre of rock music with heavy influences from English and American folk music. It arose in the United States, Canada, and the United Kingdom in the mid-1960s. In the U.S., folk rock emerged from the folk music revival. Performers such as Bob Dylan and the Byrds—several of whose members had earlier played in folk ensembles—attempted to blend the sounds of rock with their pre-existing folk repertoire, adopting the use of electric instrumentation and drums in a way previously discouraged in the U.S. folk community. The term \"folk rock\" was initially used in the U.S. music press in June 1965 to describe the Byrds' music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Folk_rock",
+  "candidates": [
+    "Folk rock",
+    "Folk on the rocks",
+    "Nick Folk",
+    "Robert L. Folk",
+    "Robert Folk",
+    "Rick Folk",
+    "Folk process",
+    "Folk Roots, New Routes",
+    "Folk Roots (album)",
+    "Fort Rock–Christmas Lake Valley basin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Folk rock",
+    "page_url": "https://en.wikipedia.org/wiki/Folk_rock",
+    "retrieved_at": "2026-03-27T09:30:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beatles hide your love away.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles hide your love away.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles loser.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan in November 1963.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_in_November_1963.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+      "width": 734,
+      "height": 1107,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FairportCropredy2005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FairportCropredy2005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/FairportCropredy2005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/FairportCropredy2005.jpg",
+      "width": 746,
+      "height": 518,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Dr Photo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flowerpowerportfolio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flowerpowerportfolio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "width": 698,
+      "height": 361,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rightleftright\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rightleftright (page does not exist)\"\u003eRightleftright\u003c/a\u003e"
+    }
+  ]
+}

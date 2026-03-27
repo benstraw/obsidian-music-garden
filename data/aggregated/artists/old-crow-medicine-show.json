@@ -2,8 +2,13 @@
   "canonical_slug": "old-crow-medicine-show",
   "name": "Old Crow Medicine Show",
   "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+  "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi",
   "genres": [
-    "folk"
+    "alt-country",
+    "americana",
+    "bluegrass",
+    "folk",
+    "indie-folk"
   ],
   "source_genres": [
     "alt country",
@@ -30,5 +35,93 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Old Crow Medicine Show",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Crow_Medicine_Show",
+  "summary": "Old Crow Medicine Show is an Americana string band based in Nashville, Tennessee, that has been recording since 1998. They were inducted into the Grand Ole Opry on September 17, 2013. Their ninth album, Remedy, released in 2014, won the Grammy Award for Best Folk Album. The group's music has been called old-time, folk, and alternative country. Along with original songs, the band performs many pre-World War II blues and folk songs.",
+  "candidates": [
+    "Old Crow Medicine Show",
+    "Old Crow Medicine Show (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Old Crow Medicine Show",
+    "page_url": "https://en.wikipedia.org/wiki/Old_Crow_Medicine_Show",
+    "retrieved_at": "2026-03-27T09:27:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Boone Drug King Street downtown Boone NC August 2009.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Boone_Drug_King_Street_downtown_Boone_NC_August_2009.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Boone_Drug_King_Street_downtown_Boone_NC_August_2009.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Boone_Drug_King_Street_downtown_Boone_NC_August_2009.jpg",
+    "width": 954,
+    "height": 1741,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/28744394@N08\"\u003eJoe Giordano\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Boone Drug King Street downtown Boone NC August 2009.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Boone_Drug_King_Street_downtown_Boone_NC_August_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Boone_Drug_King_Street_downtown_Boone_NC_August_2009.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Boone_Drug_King_Street_downtown_Boone_NC_August_2009.jpg",
+      "width": 954,
+      "height": 1741,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/28744394@N08\"\u003eJoe Giordano\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chris \"Critter\" Fuqua Ketch Secor Our Community Place benefit show Little Grill Collective Harrisonburg VA January 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chris_%22Critter%22_Fuqua_Ketch_Secor_Our_Community_Place_benefit_show_Little_Grill_Collective_Harrisonburg_VA_January_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chris_%22Critter%22_Fuqua_Ketch_Secor_Our_Community_Place_benefit_show_Little_Grill_Collective_Harrisonburg_VA_January_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chris_%22Critter%22_Fuqua_Ketch_Secor_Our_Community_Place_benefit_show_Little_Grill_Collective_Harrisonburg_VA_January_2012.jpg/960px-Chris_%22Critter%22_Fuqua_Ketch_Secor_Our_Community_Place_benefit_show_Little_Grill_Collective_Harrisonburg_VA_January_2012.jpg",
+      "width": 2951,
+      "height": 1715,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Artaxerxes\" title=\"User:Artaxerxes\"\u003eMichael J. Farrand\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chris \"Critter\" Fuqua Old Crow Medicine Show 9-30 Club Washington DC August 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chris_%22Critter%22_Fuqua_Old_Crow_Medicine_Show_9-30_Club_Washington_DC_August_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Chris_%22Critter%22_Fuqua_Old_Crow_Medicine_Show_9-30_Club_Washington_DC_August_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Chris_%22Critter%22_Fuqua_Old_Crow_Medicine_Show_9-30_Club_Washington_DC_August_2012.jpg",
+      "width": 900,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/75861480@N04\"\u003eChunkyGlasses\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DocW Sculpture Boone.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DocW_Sculpture_Boone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/DocW_Sculpture_Boone.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/DocW_Sculpture_Boone.jpg",
+      "width": 380,
+      "height": 480,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Geologik\" title=\"User:Geologik\"\u003eGeologik\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kevin Hayes guitjo Old Crow Medicine Show Tivoli Theatre Chattanooga TN May 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kevin_Hayes_guitjo_Old_Crow_Medicine_Show_Tivoli_Theatre_Chattanooga_TN_May_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kevin_Hayes_guitjo_Old_Crow_Medicine_Show_Tivoli_Theatre_Chattanooga_TN_May_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kevin_Hayes_guitjo_Old_Crow_Medicine_Show_Tivoli_Theatre_Chattanooga_TN_May_2010.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Sean Russell"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

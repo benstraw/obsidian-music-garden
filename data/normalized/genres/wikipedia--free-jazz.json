@@ -1,0 +1,100 @@
+{
+  "source": "wikipedia",
+  "source_genre": "free jazz",
+  "canonical_genre_slug": "free-jazz",
+  "status": "matched",
+  "page_title": "Free jazz",
+  "summary": "Free jazz is a style of avant-garde jazz or an experimental approach to jazz improvisation that developed in the late 1950s and early 1960s, when musicians attempted to change or break down jazz conventions, such as regular tempos, tones, and chord changes. Musicians during this period believed that the bebop and modal jazz that had been played before them was too limiting, and became preoccupied with creating something new. The term \"free jazz\" was drawn from the 1960 Ornette Coleman recording Free Jazz: A Collective Improvisation. Europeans tend to favor the term \"free improvisation\". Others have used \"modern jazz\", \"creative music\", and \"art music\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Free_jazz",
+  "candidates": [
+    "Free jazz",
+    "Free Jazz: A Collective Improvisation",
+    "Free Jazz Festival",
+    "FreeJazzArt",
+    "Free Java implementations",
+    "Free Gaza Movement",
+    "Free Jam",
+    "James S. Free",
+    "Free Jammu",
+    "Free Jaffa"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Free jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Free_jazz",
+    "retrieved_at": "2026-03-27T09:30:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Abdullah Ibrahim 06N4688.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Abdullah_Ibrahim_06N4688.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abdullah_Ibrahim_06N4688.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abdullah_Ibrahim_06N4688.jpg",
+    "width": 900,
+    "height": 600,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nomo\" title=\"User:Nomo\"\u003eNomo\u003c/a\u003e / michael hoefner \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.zwo5.de\"\u003ehttp://www.zwo5.de\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Abdullah Ibrahim 06N4688.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Abdullah_Ibrahim_06N4688.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abdullah_Ibrahim_06N4688.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Abdullah_Ibrahim_06N4688.jpg",
+      "width": 900,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nomo\" title=\"User:Nomo\"\u003eNomo\u003c/a\u003e / michael hoefner \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.zwo5.de\"\u003ehttp://www.zwo5.de\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Archie shepp Warszawa 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Archie_shepp_Warszawa_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Archie_shepp_Warszawa_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Archie_shepp_Warszawa_2.jpg",
+      "width": 666,
+      "height": 1000,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kotoviski\" title=\"User:Kotoviski\"\u003eKotoviski\u003c/a\u003e photographed by Henryk Kotowski"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ornette Coleman 3.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ornette_Coleman_3.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ornette_Coleman_3.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ornette_Coleman_3.JPG/960px-Ornette_Coleman_3.JPG",
+      "width": 2112,
+      "height": 2816,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Davide Leonardi"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pharoah Sanders photo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pharoah_Sanders_photo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pharoah_Sanders_photo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pharoah_Sanders_photo.jpg",
+      "width": 713,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7369645@N06/\"\u003eDmitry Scherbie\u003c/a\u003e New York"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

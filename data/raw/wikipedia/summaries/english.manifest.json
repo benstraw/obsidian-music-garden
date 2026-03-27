@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/English",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/English",
+  "cache_key": "summaries/english",
+  "fetched_at": "2026-03-27T09:30:42Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

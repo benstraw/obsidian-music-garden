@@ -1,0 +1,89 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "johannes-brahms",
+  "name": "Johannes Brahms",
+  "status": "matched",
+  "page_title": "Johannes Brahms",
+  "summary": "Johannes Brahms was a German composer, virtuoso pianist, and conductor of the mid-Romantic period. His music is noted for its rhythmic vitality and freer treatment of dissonance, often set within studied yet expressive contrapuntal textures. He adapted the traditional structures and techniques of a wide historical range of earlier composers. His œuvre includes four symphonies, four concertos, a Requiem, much chamber music, and hundreds of folk-song arrangements and Lieder, among other works for symphony orchestra, piano, organ, and choir.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+  "candidates": [
+    "Johannes Brahms",
+    "Johannes Brahms Medal",
+    "Johannes Brassart",
+    "Johannes Pramsohler",
+    "Johannes Brahm's violin sonata No. 1, Op. 78",
+    "Johannes Brassicanus",
+    "Johannes Brandsma"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Johannes Brahms",
+    "page_url": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+    "retrieved_at": "2026-03-27T09:26:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brahms-Denkmal von Prof. Max Klinger.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brahms-Denkmal_von_Prof._Max_Klinger.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brahms-Denkmal_von_Prof._Max_Klinger.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Brahms-Denkmal_von_Prof._Max_Klinger.jpg",
+      "width": 759,
+      "height": 1209,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Max_Klinger\" class=\"extiw\" title=\"w:en:Max Klinger\"\u003e\u003cspan title=\"German painter, sculptor, printmaker, and writer (1857–1920)\"\u003eMax Klinger\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brahms - Hungarian Dance No. 1 (performed by the composer).oga",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brahms_-_Hungarian_Dance_No._1_(performed_by_the_composer).oga",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Brahms_-_Hungarian_Dance_No._1_%28performed_by_the_composer%29.oga",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Johannes Brahms"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brahms - Schumann-Heink - Wiegenlied (Berceuse) (1915).ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brahms_-_Schumann-Heink_-_Wiegenlied_(Berceuse)_(1915).ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Brahms_-_Schumann-Heink_-_Wiegenlied_%28Berceuse%29_%281915%29.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Brahms - Schumann-Heink"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brahms Signature.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brahms_Signature.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Brahms_Signature.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Brahms_Signature.svg/960px-Brahms_Signature.svg.png",
+      "width": 600,
+      "height": 140,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sanipache\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sanipache (page does not exist)\"\u003eSanipache\u003c/a\u003e"
+    }
+  ]
+}

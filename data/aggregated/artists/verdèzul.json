@@ -2,6 +2,7 @@
   "canonical_slug": "verdèzul",
   "name": "Verdèzul",
   "spotify_artist_id": "1zf7vVM2XaoaTD3hXWR1If",
+  "spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5ebde992585da11c3567cabaa5a",
@@ -19,5 +20,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "ambiguous",
+  "candidates": [
+    "Adrian Vermeule",
+    "Alex Vermeulen",
+    "Chris Vermeulen",
+    "Juan Verde",
+    "Jules Verne",
+    "Philippe Verdelot",
+    "Thierry Vermeulen",
+    "Venezuela",
+    "Verde Island Passage",
+    "Verden, Aller"
+  ],
+  "last_updated": "2026-03-27"
 }

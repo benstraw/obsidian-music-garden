@@ -271,6 +271,44 @@ Use this command while curating genre definitions and aliases.
 
 ---
 
+## aggregate-genre
+
+```bash
+./music-garden aggregate-genre --slug indie-rock
+```
+
+Rebuilds one canonical genre aggregate under `data/aggregated/genres/` by
+combining:
+
+- canonical taxonomy fields from `data/genre-taxonomy.json`
+- local canonicalized Spotify listening history from `data/plays/`
+- MusicBrainz identifiers already merged into canonical artist/release records
+- Wikipedia editorial summary and image metadata already merged into
+  `data/genres.json`
+
+The output record is deterministic and intended for later Obsidian markdown
+generation or downstream website consumption.
+
+---
+
+## aggregate-genres
+
+```bash
+./music-garden aggregate-genres
+```
+
+Batch rebuilds every known canonical genre aggregate in
+`data/aggregated/genres/`.
+
+Use this after:
+
+- substantial listening imports
+- MusicBrainz enrichment runs
+- Wikipedia genre enrichment runs
+- taxonomy curation changes
+
+---
+
 ## setlist
 
 ```bash
@@ -328,6 +366,19 @@ so this command can enrich both artist identity and genre metadata.
 
 ---
 
+## musicbrainz-backfill-artists
+
+```bash
+./music-garden musicbrainz-backfill-artists [--limit N] [--refresh]
+```
+
+Walks canonical artists in `data/genres.json` and runs MusicBrainz enrichment in
+batch. By default it skips artists that already have a MusicBrainz artist ID.
+
+Use `--refresh` to force re-enrichment of already matched artists.
+
+---
+
 ## musicbrainz-enrich-album
 
 ```bash
@@ -341,6 +392,47 @@ release-group identifiers into the canonical metadata store in `data/genres.json
 
 Release-group genres/tags are also normalized into canonical genre records
 under `data/normalized/genres/`.
+
+---
+
+## musicbrainz-backfill-albums
+
+```bash
+./music-garden musicbrainz-backfill-albums [--limit N] [--refresh]
+```
+
+Walks canonical releases in `data/genres.json` and runs MusicBrainz release-group
+enrichment in batch. By default it skips releases that already have a
+MusicBrainz release-group ID.
+
+Use `--refresh` to force re-enrichment of already matched releases.
+
+---
+
+## wikipedia-backfill-genres
+
+```bash
+./music-garden wikipedia-backfill-genres [--limit N] [--refresh]
+```
+
+Walks known canonical genre slugs and runs Wikipedia/Wikimedia enrichment in
+batch. By default it skips genre records that already have a matched Wikipedia
+page.
+
+Use `--refresh` to force re-enrichment of already matched genre pages.
+
+---
+
+## wikipedia-backfill-artists
+
+```bash
+./music-garden wikipedia-backfill-artists [--limit N] [--refresh]
+```
+
+Walks canonical artists and runs Wikipedia/Wikimedia enrichment in batch. By
+default it skips artist records that already have a matched Wikipedia page.
+
+Use `--refresh` to force re-enrichment of already matched artist pages.
 
 ---
 

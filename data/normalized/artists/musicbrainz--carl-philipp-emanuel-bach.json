@@ -1,0 +1,16 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
+  "name": "Carl Philipp Emanuel Bach",
+  "musicbrainz_artist_id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
+  "source_genres": [
+    "baroque",
+    "classical",
+    "classical period",
+    "composer",
+    "german composer"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ]
+}

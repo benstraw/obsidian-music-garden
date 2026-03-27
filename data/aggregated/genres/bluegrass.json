@@ -1,4 +1,217 @@
 {
   "canonical_slug": "bluegrass",
-  "pending": true
+  "display_title": "Bluegrass",
+  "display_name": "Bluegrass",
+  "parent_slug": "folk",
+  "aliases": [
+    "bluegrass",
+    "christian bluegrass",
+    "newgrass"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Blue Grass Airport",
+    "Blue Grass Army Depot",
+    "Bluegrass",
+    "Bluegrass Bowl",
+    "Bluegrass Cat",
+    "Bluegrass Companies",
+    "Bluegrass Parkway",
+    "Bluegrass music",
+    "Bluegrass music in Europe",
+    "Bluegrass region"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 8,
+    "unique_artist_count": 5,
+    "unique_release_count": 7,
+    "unique_track_count": 7,
+    "first_played_at": "2026-02-13T02:19:12.032Z",
+    "last_played_at": "2026-03-03T02:18:03.806Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "emmylou-harris",
+      "name": "Emmylou Harris",
+      "play_count": 3,
+      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+    },
+    {
+      "canonical_slug": "country-s-family-reunion",
+      "name": "Country's Family Reunion",
+      "play_count": 2,
+      "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+      "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+    },
+    {
+      "canonical_slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "play_count": 1,
+      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 1,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    },
+    {
+      "canonical_slug": "rose-s-pawn-shop",
+      "name": "Rose's Pawn Shop",
+      "play_count": 1,
+      "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+      "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
+      "name": "Celebration (Live / Vol. 1)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "country-s-family-reunion",
+      "primary_artist_name": "Country's Family Reunion"
+    },
+    {
+      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
+      "name": "Elite Hotel (Expanded \u0026 Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris"
+    },
+    {
+      "canonical_slug": "rose-s-pawn-shop--gravity-well",
+      "name": "Gravity Well",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "rose-s-pawn-shop",
+      "primary_artist_name": "Rose's Pawn Shop"
+    },
+    {
+      "canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
+      "name": "Pieces of the Sky (Expanded \u0026 Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris"
+    },
+    {
+      "canonical_slug": "emmylou-harris--quarter-moon-in-a-ten-cent-town-expanded-and-remastered",
+      "name": "Quarter Moon in a Ten Cent Town (Expanded \u0026 Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris"
+    },
+    {
+      "canonical_slug": "gillian-welch--time-the-revelator",
+      "name": "Time (The Revelator)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
+      "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "country-s-family-reunion--easy-loving-live",
+      "name": "Easy Loving - Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "country-s-family-reunion",
+      "primary_artist_name": "Country's Family Reunion",
+      "release_canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
+      "release_name": "Celebration (Live / Vol. 1)",
+      "spotify_track_id": "0Ngg6y9pTMkltXFSIAHfMI",
+      "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI"
+    },
+    {
+      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
+      "name": "Bluebird Wine - 2003 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
+      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
+      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
+      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "canonical_slug": "rose-s-pawn-shop--country-blues",
+      "name": "Country Blues",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "rose-s-pawn-shop",
+      "primary_artist_name": "Rose's Pawn Shop",
+      "release_canonical_slug": "rose-s-pawn-shop--gravity-well",
+      "release_name": "Gravity Well",
+      "spotify_track_id": "4902sigaZA0IflQ6FdWmtk",
+      "spotify_url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+    },
+    {
+      "canonical_slug": "emmylou-harris--i-ain-t-living-long-like-this-2003-remaster",
+      "name": "I Ain't Living Long Like This - 2003 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "emmylou-harris--quarter-moon-in-a-ten-cent-town-expanded-and-remastered",
+      "release_name": "Quarter Moon in a Ten Cent Town (Expanded \u0026 Remastered)",
+      "spotify_track_id": "2CdX58OHGUefqJYwcalK2q",
+      "spotify_url": "https://open.spotify.com/track/2CdX58OHGUefqJYwcalK2q"
+    },
+    {
+      "canonical_slug": "emmylou-harris--one-of-these-days",
+      "name": "One of These Days",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
+      "release_name": "Elite Hotel (Expanded \u0026 Remastered)",
+      "spotify_track_id": "5bdGM6A3QTdrngOtufCS2L",
+      "spotify_url": "https://open.spotify.com/track/5bdGM6A3QTdrngOtufCS2L"
+    },
+    {
+      "canonical_slug": "gillian-welch--revelator",
+      "name": "Revelator",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--time-the-revelator",
+      "release_name": "Time (The Revelator)",
+      "spotify_track_id": "3d3uCbMDDCzIJlbVNd18C3",
+      "spotify_url": "https://open.spotify.com/track/3d3uCbMDDCzIJlbVNd18C3"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--this-train-is-bound-for-glory",
+      "name": "This Train is Bound for Glory",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
+      "release_name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
+      "spotify_track_id": "7mfn1O2YQifrW5nZhAhCGL",
+      "spotify_url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T02:18:03.806Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

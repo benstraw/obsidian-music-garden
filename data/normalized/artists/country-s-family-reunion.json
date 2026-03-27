@@ -2,10 +2,17 @@
   "source": "spotify",
   "source_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
   "name": "Country's Family Reunion",
+  "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt",
   "source_genres": [
     "bluegrass",
     "christian bluegrass",
     "classic country",
     "country christian"
-  ]
+  ],
+  "canonical_genre_slugs": [
+    "bluegrass",
+    "country",
+    "country-gospel"
+  ],
+  "status": "not_found"
 }

@@ -1,4 +1,35 @@
 {
   "canonical_slug": "afropiano",
-  "pending": true
+  "display_title": "Afropiano",
+  "display_name": "Afropiano",
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Afro-Asian Ocean",
+    "Afro-Panamanians",
+    "Afrolimnophila",
+    "Afrolimnophila joana",
+    "Afropavo",
+    "Afrophantes",
+    "Altopiano delle Murge",
+    "Atropine",
+    "Autopiano",
+    "The Afro Painter"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

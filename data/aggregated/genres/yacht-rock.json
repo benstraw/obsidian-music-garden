@@ -1,4 +1,122 @@
 {
   "canonical_slug": "yacht-rock",
-  "pending": true
+  "display_title": "Yacht Rock",
+  "display_name": "Yacht Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "yacht rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Yacht rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yacht_rock",
+  "summary": "Yacht rock is a broad music style and aesthetic commonly associated with soft rock, one of the most commercially successful genres from the mid-1970s to the mid-1980s. Drawing on sources such as smooth soul, smooth jazz, R\u0026B, and disco, common stylistic traits include high-quality production, clean vocals, and a focus on light, catchy melodies. The term yacht rock was coined in 2005 by the makers of the online comedy video series Yacht Rock, who connected the music with the popular Southern Californian leisure activity of boating. It was considered a pejorative term by some music critics.",
+  "candidates": [
+    "Yacht Octopus",
+    "Yacht Rock",
+    "Yacht Rock (web series)",
+    "Yacht Rock Revue",
+    "Yacht Rocky",
+    "Yacht broker",
+    "Yacht on the Rocks",
+    "Yacht racing",
+    "Yacht rock",
+    "Yacht-Pocalypse Now"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Yacht rock",
+    "page_url": "https://en.wikipedia.org/wiki/Yacht_rock",
+    "retrieved_at": "2026-03-27T09:32:20Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2026-03-03T02:11:03.432Z",
+    "last_played_at": "2026-03-03T15:27:14.275Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "play_count": 1,
+      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+    },
+    {
+      "canonical_slug": "steely-dan",
+      "name": "Steely Dan",
+      "play_count": 1,
+      "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
+      "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "steely-dan--can-t-buy-a-thrill",
+      "name": "Can't Buy A Thrill",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--rumours-super-deluxe",
+      "name": "Rumours (Super Deluxe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "steely-dan--dirty-work",
+      "name": "Dirty Work",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--can-t-buy-a-thrill",
+      "release_name": "Can't Buy A Thrill",
+      "spotify_track_id": "3IvTwPCCjfZczCN2k4qPiH",
+      "spotify_url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--dreams-2004-remaster",
+      "name": "Dreams - 2004 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "release_canonical_slug": "fleetwood-mac--rumours-super-deluxe",
+      "release_name": "Rumours (Super Deluxe)",
+      "spotify_track_id": "0ofHAoxe9vBkTCp2UQIavz",
+      "spotify_url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--yacht-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Yacht_rock",
+      "retrieved_at": "2026-03-27T09:32:20Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T15:27:14.275Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

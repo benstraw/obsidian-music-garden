@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "apathetic",
+  "canonical_genre_slug": "apathetic",
+  "status": "matched",
+  "page_title": "Apathy",
+  "summary": "Apathy, also referred to as indifference, is a lack of feeling, emotion, interest, and/or concern about something. It is a state of indifference, and/or the suppression of emotions such as concern, excitement, motivation, or passion. An apathetic individual has an absence of interest in or concern about emotional, social, spiritual, philosophical, virtual, or physical life and the world. Apathy can also be defined as a person's lack of goal orientation. Apathy falls in the less extreme spectrum of diminished motivation, with abulia in the middle and akinetic mutism being more extreme than both apathy and abulia.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Apathy",
+  "candidates": [
+    "Apathetic",
+    "Apathetic EP",
+    "Apathetic agnostic",
+    "Apartheid",
+    "Apophatic theology",
+    "Apatheia",
+    "Aesthetics",
+    "Apache Iceberg",
+    "Akathisia",
+    "The Aesthetics of Resistance"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Apathy",
+    "page_url": "https://en.wikipedia.org/wiki/Apathy",
+    "retrieved_at": "2026-03-27T09:29:50Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/1280px-Challenge_vs_skill.svg.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Challenge_vs_skill.svg/330px-Challenge_vs_skill.svg.png",
+    "width": 1200,
+    "height": 1200
+  }
+}

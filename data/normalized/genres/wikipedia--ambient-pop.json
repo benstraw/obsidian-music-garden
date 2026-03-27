@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "ambient pop",
+  "canonical_genre_slug": "ambient-pop",
+  "status": "matched",
+  "page_title": "Ambient music",
+  "summary": "Ambient music is a genre of music that emphasizes tone and atmosphere over traditional musical structure or rhythm. Often \"peaceful\" sounding and lacking composition, beat, and/or structured melody, ambient music uses textural layers of sound that can reward both passive and active listening, and encourage a sense of calm or contemplation. The genre evokes an \"atmospheric\", \"visual\", or \"unobtrusive\" quality. Nature soundscapes may be included, and some works use sustained or repeated notes, as in drone music. Bearing elements associated with new-age music, instruments such as the piano, strings and flute may be emulated through a synthesizer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ambient_music",
+  "candidates": [
+    "Ambient pop",
+    "Ambient ionization",
+    "Ambient pressure",
+    "Ambient house",
+    "Ambient occlusion",
+    "Ambient noise level",
+    "Ambient optic array",
+    "Ambient construction",
+    "Ambient IoT",
+    "Ambient space (mathematics)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ambient music",
+    "page_url": "https://en.wikipedia.org/wiki/Ambient_music",
+    "retrieved_at": "2026-03-27T09:29:47Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/The_Apostle_%28148475115%29.jpeg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_Apostle_%28148475115%29.jpeg/330px-The_Apostle_%28148475115%29.jpeg",
+    "width": 2048,
+    "height": 1367
+  }
+}

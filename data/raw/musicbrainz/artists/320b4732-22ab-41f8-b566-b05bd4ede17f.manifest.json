@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/320b4732-22ab-41f8-b566-b05bd4ede17f",
+  "request_url": "https://musicbrainz.org/ws/2/artist/320b4732-22ab-41f8-b566-b05bd4ede17f?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/320b4732-22ab-41f8-b566-b05bd4ede17f",
+  "fetched_at": "2026-03-27T09:33:54Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

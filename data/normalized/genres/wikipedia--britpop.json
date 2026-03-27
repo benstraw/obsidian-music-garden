@@ -1,0 +1,101 @@
+{
+  "source": "wikipedia",
+  "source_genre": "britpop",
+  "canonical_genre_slug": "britpop",
+  "status": "matched",
+  "page_title": "Britpop",
+  "summary": "Britpop was a British music and cultural movement that emerged in the 1990s. Musically, it produced bright, catchy alternative rock that drew heavily on the traditions of 1960s guitar-based British pop, with lyrics that emphasised national identity and offered commentary on British culture and society. The movement was seen as a reaction against the darker lyrical themes and soundscapes of the American-led grunge and the more introspective shoegaze scene in Britain. It helped bring British alternative rock into the mainstream and became a key part of the broader Cool Britannia phenomenon, which echoed the spirit of the Swinging Sixties.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Britpop",
+  "candidates": [
+    "Britpop",
+    "Britpop (Robbie Williams album)",
+    "Britpop Tour",
+    "Britpop (A. G. Cook album)",
+    "The Brit Pop Blur Box",
+    "Britney Spears",
+    "Brittonic languages",
+    "Connie Britton",
+    "BritBox",
+    "Common Brittonic"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Britpop",
+    "page_url": "https://en.wikipedia.org/wiki/Britpop",
+    "retrieved_at": "2026-03-27T09:30:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Andy Partridge.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Andy_Partridge.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Andy_Partridge.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Andy_Partridge.jpg",
+    "width": 541,
+    "height": 353,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jlacpo/\"\u003eJean-Luc Ourlin\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Andy Partridge.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andy_Partridge.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Andy_Partridge.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Andy_Partridge.jpg",
+      "width": 541,
+      "height": 353,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jlacpo/\"\u003eJean-Luc Ourlin\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Coldplay Glasto24 290624 (26) (53836754632) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Coldplay_Glasto24_290624_(26)_(53836754632)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Coldplay_Glasto24_290624_%2826%29_%2853836754632%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coldplay_Glasto24_290624_%2826%29_%2853836754632%29_%28cropped%29.jpg/960px-Coldplay_Glasto24_290624_%2826%29_%2853836754632%29_%28cropped%29.jpg",
+      "width": 4817,
+      "height": 3211,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dmas-live-at-leeds-2017-1-copy.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dmas-live-at-leeds-2017-1-copy.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Dmas-live-at-leeds-2017-1-copy.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dmas-live-at-leeds-2017-1-copy.jpg/960px-Dmas-live-at-leeds-2017-1-copy.jpg",
+      "width": 1000,
+      "height": 667,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Alexgonzriv\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Alexgonzriv (page does not exist)\"\u003eAlexgonzriv\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kinks.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kinks.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Kinks.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Kinks.jpg",
+      "width": 317,
+      "height": 250,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Liamg.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Liamg.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Liamg.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Liamg.jpg",
+      "width": 357,
+      "height": 278,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "_e.t"
+    }
+  ]
+}

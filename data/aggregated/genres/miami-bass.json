@@ -1,4 +1,97 @@
 {
   "canonical_slug": "miami-bass",
-  "pending": true
+  "display_title": "Miami Bass",
+  "display_name": "Miami Bass",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "miami bass"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Miami bass",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Miami_bass",
+  "summary": "Miami bass is a subgenre of hip hop music that became popular in the 1980s and 1990s. The use of drums from the Roland TR-808, sustained kick drum, heavy bass, raised dance tempos, and frequently sexually explicit lyrical content differentiate it from other hip hop subgenres. Music author Richie Unterberger has characterized Miami bass as using rhythms with a \"stop-start flavor\" and \"hissy\" cymbals with lyrics that \"reflected the language of the streets, particularly Miami's historically black neighborhoods such as Liberty City, Goulds, and Overtown\".",
+  "candidates": [
+    "Miami Ballpark",
+    "Miami Baseball Team",
+    "Miami Basketball Team",
+    "Miami Boys",
+    "Miami Boys Choir",
+    "Miami East High School",
+    "Miami Fashion Week",
+    "Miami basketball",
+    "Miami bass",
+    "Miami, Missouri"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Miami bass",
+    "page_url": "https://en.wikipedia.org/wiki/Miami_bass",
+    "retrieved_at": "2026-03-27T09:31:20Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-14T18:31:38.761Z",
+    "last_played_at": "2026-03-14T18:31:38.761Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "world-class-wreckin-cru",
+      "name": "World Class Wreckin' Cru",
+      "play_count": 1,
+      "spotify_artist_id": "3xA7r14Rok7gwRmVbrNFd9",
+      "spotify_url": "https://open.spotify.com/artist/3xA7r14Rok7gwRmVbrNFd9"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "world-class-wreckin-cru--gold",
+      "name": "Gold",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "world-class-wreckin-cru",
+      "primary_artist_name": "World Class Wreckin' Cru"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "world-class-wreckin-cru--surgery-dr-dre",
+      "name": "Surgery (Dr. Dre)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "world-class-wreckin-cru",
+      "primary_artist_name": "World Class Wreckin' Cru",
+      "release_canonical_slug": "world-class-wreckin-cru--gold",
+      "release_name": "Gold",
+      "spotify_track_id": "7goBElcroZNLf3QoMSpJ1d",
+      "spotify_url": "https://open.spotify.com/track/7goBElcroZNLf3QoMSpJ1d"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--miami-bass.json",
+      "url": "https://en.wikipedia.org/wiki/Miami_bass",
+      "retrieved_at": "2026-03-27T09:31:20Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-14T18:31:38.761Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

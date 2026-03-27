@@ -1,4 +1,35 @@
 {
   "canonical_slug": "british",
-  "pending": true
+  "display_title": "British",
+  "display_name": "British",
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "British",
+    "British Airways",
+    "British Armed Forces",
+    "British Army",
+    "British Columbia",
+    "British Empire",
+    "British Indian Ocean Territory",
+    "British Museum",
+    "British Overseas Territories",
+    "British Raj"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

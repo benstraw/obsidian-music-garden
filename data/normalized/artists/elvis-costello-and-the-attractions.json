@@ -2,8 +2,33 @@
   "source": "spotify",
   "source_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
   "name": "Elvis Costello \u0026 The Attractions",
+  "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH",
   "source_genres": [
     "new wave",
     "power pop"
-  ]
+  ],
+  "canonical_genre_slugs": [
+    "new-wave",
+    "power-pop"
+  ],
+  "status": "matched",
+  "page_title": "Elvis Costello",
+  "summary": "Declan Patrick MacManus, known professionally as Elvis Costello, is an English singer, songwriter, record producer, author and television host. According to Rolling Stone, Costello \"reinvigorated the literate, lyrical traditions of Bob Dylan and Van Morrison with the raw energy and sass that were principal ethics of punk\", noting the \"construction of his songs, which set densely layered wordplay in an ever-expanding repertoire of styles\". He is the recipient of numerous accolades, including two Grammy Awards and two Ivor Novello Awards, and was inducted into the Rock and Roll Hall of Fame in 2003 into the Songwriters Hall of Fame in 2016.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Elvis_Costello",
+  "candidates": [
+    "Elvis Costello \u0026 The Attractions"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Elvis Costello",
+    "page_url": "https://en.wikipedia.org/wiki/Elvis_Costello",
+    "retrieved_at": "2026-03-27T09:26:09Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Elvis_Costello_%2851409611378%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Elvis_Costello_%2851409611378%29.jpg/330px-Elvis_Costello_%2851409611378%29.jpg",
+    "width": 3016,
+    "height": 4531
+  }
 }

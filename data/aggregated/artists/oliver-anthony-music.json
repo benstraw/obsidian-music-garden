@@ -2,6 +2,10 @@
   "canonical_slug": "oliver-anthony-music",
   "name": "Oliver Anthony Music",
   "spotify_artist_id": "6IkfE2JyVoKwBZXvuytKX3",
+  "spotify_url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3",
+  "genres": [
+    "country"
+  ],
   "source_genres": [
     "country"
   ],
@@ -22,5 +26,25 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Oliver Anthony",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Anthony",
+  "summary": "Christopher Anthony Lunsford, known professionally as Oliver Anthony, is an American singer and songwriter from Farmville, Virginia. In August 2023, he released the single \"Rich Men North of Richmond\" independently, which debuted atop the Billboard Hot 100 and made Lunsford the first artist to achieve this without any prior charting history in any form.",
+  "candidates": [
+    "Oliver Anthony Music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Oliver Anthony",
+    "page_url": "https://en.wikipedia.org/wiki/Oliver_Anthony",
+    "retrieved_at": "2026-03-27T09:27:28Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/OliverAnthony_PressClub_Daryl_Connor_Thompson_23-08-23_7993_8_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/OliverAnthony_PressClub_Daryl_Connor_Thompson_23-08-23_7993_8_%28cropped%29.jpg/330px-OliverAnthony_PressClub_Daryl_Connor_Thompson_23-08-23_7993_8_%28cropped%29.jpg",
+    "width": 2630,
+    "height": 2606
+  },
+  "last_updated": "2026-03-27"
 }

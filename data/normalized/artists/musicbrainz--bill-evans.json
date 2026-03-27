@@ -1,0 +1,26 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
+  "name": "Bill Evans",
+  "musicbrainz_artist_id": "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
+  "source_genres": [
+    "cool jazz",
+    "hard bop",
+    "jazz",
+    "modal jazz",
+    "post-bop",
+    "third stream",
+    "vocal jazz",
+    "1950s",
+    "1960s",
+    "1970s",
+    "american",
+    "jazz and blues",
+    "piano jazz"
+  ],
+  "canonical_genre_slugs": [
+    "cool-jazz",
+    "hard-bop",
+    "jazz"
+  ]
+}

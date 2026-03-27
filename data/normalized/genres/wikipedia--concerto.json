@@ -1,0 +1,88 @@
+{
+  "source": "wikipedia",
+  "source_genre": "concerto",
+  "canonical_genre_slug": "concerto",
+  "status": "matched",
+  "page_title": "Concerto",
+  "summary": "A concerto is, from the late Baroque era, mostly understood as an instrumental composition, written for one or more soloists accompanied by an orchestra or other ensemble. The typical three-movement structure, a slow movement preceded and followed by fast movements, became a standard from the early 18th century.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Concerto",
+  "candidates": [
+    "Concerto",
+    "Concerto delle donne",
+    "Concerto for Group and Orchestra",
+    "Concierto de Aranjuez",
+    "Concerto for Two Violins (Bach)",
+    "Concerto in F (Gershwin)",
+    "Concerto for Orchestra (Bartók)",
+    "Concerto: One Night in Central Park",
+    "Concerto Moon",
+    "Concerto for Orchestra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Concerto",
+    "page_url": "https://en.wikipedia.org/wiki/Concerto",
+    "retrieved_at": "2026-03-27T09:30:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A performance of a piano concerto.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_performance_of_a_piano_concerto.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_performance_of_a_piano_concerto.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_performance_of_a_piano_concerto.jpg/960px-A_performance_of_a_piano_concerto.jpg",
+    "width": 4032,
+    "height": 3024,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:PianoTiger106\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:PianoTiger106 (page does not exist)\"\u003ePianoTiger106\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A performance of a piano concerto.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_performance_of_a_piano_concerto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_performance_of_a_piano_concerto.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_performance_of_a_piano_concerto.jpg/960px-A_performance_of_a_piano_concerto.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:PianoTiger106\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:PianoTiger106 (page does not exist)\"\u003ePianoTiger106\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Classical concerto sonata form.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Classical_concerto_sonata_form.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Classical_concerto_sonata_form.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Classical_concerto_sonata_form.png/960px-Classical_concerto_sonata_form.png",
+      "width": 1038,
+      "height": 218,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:OFCM con Irvine Arditti en Bellas Artes (14401284806).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:OFCM_con_Irvine_Arditti_en_Bellas_Artes_(14401284806).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/OFCM_con_Irvine_Arditti_en_Bellas_Artes_%2814401284806%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/OFCM_con_Irvine_Arditti_en_Bellas_Artes_%2814401284806%29.jpg/960px-OFCM_con_Irvine_Arditti_en_Bellas_Artes_%2814401284806%29.jpg",
+      "width": 2244,
+      "height": 3300,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/113756879@N03\"\u003eSecretaría de Cultura Ciudad de México\u003c/a\u003e from México"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

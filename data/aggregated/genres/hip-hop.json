@@ -1,8 +1,10 @@
 {
   "canonical_slug": "hip-hop",
+  "display_title": "Hip-Hop",
+  "display_name": "Hip-Hop",
+  "notes": "Canonical umbrella slug for hip-hop as a culture/music label.",
   "aliases": [
     "hip hop",
-    "hip-hop",
     "hiphop"
   ],
   "pending": false,
@@ -31,5 +33,301 @@
     "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
   },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 148,
+    "unique_artist_count": 20,
+    "unique_release_count": 50,
+    "unique_track_count": 98,
+    "first_played_at": "2026-02-26T02:26:11.568Z",
+    "last_played_at": "2026-03-19T02:37:24.397Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "play_count": 27,
+      "spotify_artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+      "spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+    },
+    {
+      "canonical_slug": "kendrick-lamar",
+      "name": "Kendrick Lamar",
+      "play_count": 17,
+      "spotify_artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "canonical_slug": "wu-tang-clan",
+      "name": "Wu-Tang Clan",
+      "play_count": 13,
+      "spotify_artist_id": "34EP7KEpOjXcM2TCat1ISk",
+      "spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "canonical_slug": "nas",
+      "name": "Nas",
+      "play_count": 12,
+      "spotify_artist_id": "20qISvAhX20dpIbOOzGK3q",
+      "spotify_url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+    },
+    {
+      "canonical_slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "play_count": 11,
+      "spotify_artist_id": "03r4iKL2g2442PT9n2UKsx",
+      "spotify_url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+    },
+    {
+      "canonical_slug": "eminem",
+      "name": "Eminem",
+      "play_count": 11,
+      "spotify_artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+      "spotify_url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g",
+      "name": "The Notorious B.I.G.",
+      "play_count": 11,
+      "spotify_artist_id": "5me0Irg2ANcsgc93uaYrpb",
+      "spotify_url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+    },
+    {
+      "canonical_slug": "cypress-hill",
+      "name": "Cypress Hill",
+      "play_count": 10,
+      "spotify_artist_id": "4P0dddbxPil35MNN9G2MEX",
+      "spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+    },
+    {
+      "canonical_slug": "jurassic-5",
+      "name": "Jurassic 5",
+      "play_count": 9,
+      "spotify_artist_id": "6wFId9Jhuf9AKVzWboOj2B",
+      "spotify_url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
+    },
+    {
+      "canonical_slug": "black-star",
+      "name": "Black Star",
+      "play_count": 5,
+      "spotify_artist_id": "67ei8ib6PLT1w3OkhIb4fB",
+      "spotify_url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--we-got-it-from-here-thank-you-4-your-service",
+      "name": "We got it from Here... Thank You 4 Your service",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "nas--illmatic",
+      "name": "Illmatic",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "nas",
+      "primary_artist_name": "Nas"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--ready-to-die-the-remaster",
+      "name": "Ready to Die (The Remaster)",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G."
+    },
+    {
+      "canonical_slug": "cypress-hill--black-sunday",
+      "name": "Black Sunday",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill"
+    },
+    {
+      "canonical_slug": "eminem--the-death-of-slim-shady-coup-de-grâce",
+      "name": "The Death of Slim Shady (Coup De Grâce)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--the-low-end-theory",
+      "name": "The Low End Theory",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "beastie-boys--ill-communication",
+      "name": "Ill Communication",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "beastie-boys",
+      "primary_artist_name": "Beastie Boys"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--midnight-marauders",
+      "name": "Midnight Marauders",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
+      "name": "Mos Def \u0026 Talib Kweli Are Black Star",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "black-star",
+      "primary_artist_name": "Black Star"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "a-tribe-called-quest--we-the-people",
+      "name": "We The People....",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--we-got-it-from-here-thank-you-4-your-service",
+      "release_name": "We got it from Here... Thank You 4 Your service",
+      "spotify_track_id": "3wUX7HpXS382s1DHTRouVk",
+      "spotify_url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
+    },
+    {
+      "canonical_slug": "eminem--houdini",
+      "name": "Houdini",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "eminem",
+      "primary_artist_name": "Eminem",
+      "release_canonical_slug": "eminem--the-death-of-slim-shady-coup-de-grâce",
+      "release_name": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_track_id": "1CDQzbCz4KSQxHe7LMEgRM",
+      "spotify_url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
+    },
+    {
+      "canonical_slug": "cypress-hill--when-the-shit-goes-down",
+      "name": "When the Shit Goes Down",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "release_canonical_slug": "cypress-hill--black-sunday",
+      "release_name": "Black Sunday",
+      "spotify_track_id": "7aAZOl8GHF6ge391oY0Kmy",
+      "spotify_url": "https://open.spotify.com/track/7aAZOl8GHF6ge391oY0Kmy"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--machine-gun-funk-2005-remaster",
+      "name": "Machine Gun Funk - 2005 Remaster",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G.",
+      "release_canonical_slug": "the-notorious-b-i-g--ready-to-die-the-remaster",
+      "release_name": "Ready to Die (The Remaster)",
+      "spotify_track_id": "2bXI4Rbw1D7aVeHWLjn1Lb",
+      "spotify_url": "https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--buggin-out",
+      "name": "Buggin' Out",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-low-end-theory",
+      "release_name": "The Low End Theory",
+      "spotify_track_id": "6GAemDMWAXa8wZOBkO1gar",
+      "spotify_url": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--electric-relaxation",
+      "name": "Electric Relaxation",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-anthology",
+      "release_name": "The Anthology",
+      "spotify_track_id": "0eEXcw3JLVXcRxYrVYMy68",
+      "spotify_url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--find-a-way",
+      "name": "Find a Way",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-love-movement",
+      "release_name": "The Love Movement",
+      "spotify_track_id": "2MAaiV0bbeq4FpSwPe2rR8",
+      "spotify_url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--keisha-s-song-her-pain-feat-ashtro-bot",
+      "name": "Keisha's Song (Her Pain) (feat. Ashtro Bot)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--section-80",
+      "release_name": "Section.80",
+      "spotify_track_id": "7AaET28qSzlkFBcySHh4ES",
+      "spotify_url": "https://open.spotify.com/track/7AaET28qSzlkFBcySHh4ES"
+    },
+    {
+      "canonical_slug": "raekwon--knuckleheadz-feat-ghostface-killah-and-u-god",
+      "name": "Knuckleheadz (feat. Ghostface Killah \u0026 U-God)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "raekwon",
+      "primary_artist_name": "Raekwon",
+      "release_canonical_slug": "raekwon--only-built-4-cuban-linx",
+      "release_name": "Only Built 4 Cuban Linx...",
+      "spotify_track_id": "6f9gbZYbAqHq2rK1ZjZruf",
+      "spotify_url": "https://open.spotify.com/track/6f9gbZYbAqHq2rK1ZjZruf"
+    },
+    {
+      "canonical_slug": "nas--memory-lane-sittin-in-da-park",
+      "name": "Memory Lane (Sittin' in da Park)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "nas",
+      "primary_artist_name": "Nas",
+      "release_canonical_slug": "nas--illmatic",
+      "release_name": "Illmatic",
+      "spotify_track_id": "2W58HMaCbjcUfZnZaeHtcC",
+      "spotify_url": "https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Hip-hop",
+      "retrieved_at": "2026-03-27T08:21:45Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--hip-hop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Move-protection-shackle.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:37:24.397Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
   "last_updated": "2026-03-27"
 }

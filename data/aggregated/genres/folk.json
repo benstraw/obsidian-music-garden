@@ -1,7 +1,289 @@
 {
   "canonical_slug": "folk",
+  "display_title": "Folk",
+  "display_name": "Folk",
   "aliases": [
     "folk"
   ],
-  "pending": false
+  "pending": false,
+  "status": "ambiguous",
+  "candidates": [
+    "Folk",
+    "Folk costume",
+    "Folk music",
+    "Folk rock",
+    "Folk wrestling",
+    "Folkestone",
+    "Folklore",
+    "Folklore (Taylor Swift album)",
+    "Folklore of the United States",
+    "Folklore studies"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 33,
+    "unique_artist_count": 8,
+    "unique_release_count": 18,
+    "unique_track_count": 21,
+    "first_played_at": "2026-02-13T02:25:41.986Z",
+    "last_played_at": "2026-03-18T01:43:36.082Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "john-prine",
+      "name": "John Prine",
+      "play_count": 19,
+      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel",
+      "name": "Simon \u0026 Garfunkel",
+      "play_count": 6,
+      "spotify_artist_id": "70cRZdQywnSFp9pnc2WTCE",
+      "spotify_url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+    },
+    {
+      "canonical_slug": "emmylou-harris",
+      "name": "Emmylou Harris",
+      "play_count": 3,
+      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+    },
+    {
+      "canonical_slug": "bob-dylan",
+      "name": "Bob Dylan",
+      "play_count": 1,
+      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    {
+      "canonical_slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "play_count": 1,
+      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+    },
+    {
+      "canonical_slug": "mumford-and-sons",
+      "name": "Mumford \u0026 Sons",
+      "play_count": 1,
+      "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+      "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 1,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    },
+    {
+      "canonical_slug": "townes-van-zandt",
+      "name": "Townes Van Zandt",
+      "play_count": 1,
+      "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
+      "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "john-prine--in-spite-of-ourselves",
+      "name": "In Spite Of Ourselves",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "john-prine--john-prine",
+      "name": "John Prine",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bookends",
+      "name": "Bookends",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--live-1969",
+      "name": "Live 1969",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bridge-over-troubled-water",
+      "name": "Bridge Over Troubled Water",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel"
+    },
+    {
+      "canonical_slug": "john-prine--bruised-orange",
+      "name": "Bruised Orange",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "mumford-and-sons--delta",
+      "name": "Delta",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mumford-and-sons",
+      "primary_artist_name": "Mumford \u0026 Sons"
+    },
+    {
+      "canonical_slug": "john-prine--diamonds-in-the-rough",
+      "name": "Diamonds in the Rough",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
+      "name": "Elite Hotel (Expanded \u0026 Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris"
+    },
+    {
+      "canonical_slug": "john-prine--fair-and-square",
+      "name": "Fair and Square",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "john-prine--in-spite-of-ourselves",
+      "name": "In Spite of Ourselves",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--in-spite-of-ourselves",
+      "release_name": "In Spite Of Ourselves",
+      "spotify_track_id": "2K2eLVi9HJ84T1dkifkQ9O",
+      "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O"
+    },
+    {
+      "canonical_slug": "john-prine--i-know-one",
+      "name": "I Know One",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--in-spite-of-ourselves",
+      "release_name": "In Spite Of Ourselves",
+      "spotify_track_id": "20z4r2Jhk3yOCTGuRSRMTE",
+      "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bookends-theme-reprise",
+      "name": "Bookends Theme - Reprise",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel",
+      "release_canonical_slug": "simon-and-garfunkel--bookends",
+      "release_name": "Bookends",
+      "spotify_track_id": "0Q3GpBYKy5Mx97TNBJVibl",
+      "spotify_url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--old-friends-bookends-theme-live-in-toledo-oh-november-1969",
+      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel",
+      "release_canonical_slug": "simon-and-garfunkel--live-1969",
+      "release_name": "Live 1969",
+      "spotify_track_id": "5dKUMWNp0Y18VHkGGJCJR9",
+      "spotify_url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
+    },
+    {
+      "canonical_slug": "john-prine--spanish-pipedream",
+      "name": "Spanish Pipedream",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--john-prine",
+      "release_name": "John Prine",
+      "spotify_track_id": "7zrxGPR1UVK2iSK793vLPl",
+      "spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
+    },
+    {
+      "canonical_slug": "john-prine--angel-from-montgomery",
+      "name": "Angel from Montgomery",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--john-prine",
+      "release_name": "John Prine",
+      "spotify_track_id": "2qWKpYIleSvBT6aUMXoia5",
+      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bleecker-street",
+      "name": "Bleecker Street",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel",
+      "release_canonical_slug": "simon-and-garfunkel--wednesday-morning-3-a-m",
+      "release_name": "Wednesday Morning, 3 A.M.",
+      "spotify_track_id": "4c0ecVwn17owdwpIBL07wC",
+      "spotify_url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+    },
+    {
+      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
+      "name": "Bluebird Wine - 2003 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
+      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
+      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
+      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "canonical_slug": "john-prine--clocks-and-spoons",
+      "name": "Clocks and Spoons",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--diamonds-in-the-rough",
+      "release_name": "Diamonds in the Rough",
+      "spotify_track_id": "57M2Tzakrrj4pecyVet6kM",
+      "spotify_url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM"
+    },
+    {
+      "canonical_slug": "john-prine--fish-and-whistle",
+      "name": "Fish and Whistle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--bruised-orange",
+      "release_name": "Bruised Orange",
+      "spotify_track_id": "4qA8M5hJn45rtFyWH5Ixar",
+      "spotify_url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-18T01:43:36.082Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

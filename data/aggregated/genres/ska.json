@@ -1,4 +1,289 @@
 {
   "canonical_slug": "ska",
-  "pending": true
+  "display_title": "Ska",
+  "display_name": "Ska",
+  "parent_slug": "reggae",
+  "aliases": [
+    "ska"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Ska",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ska",
+  "summary": "Ska is a music genre that originated in Jamaica in the late 1950s and was the precursor to rocksteady and reggae. It combined elements of Caribbean mento and calypso with American jazz and rhythm and blues. Ska is characterized by a walking bass line accented with rhythms on the off beat. It was developed in Jamaica in the 1960s when Stranger Cole, Prince Buster, Clement \"Coxsone\" Dodd, and Duke Reid formed sound systems to play American rhythm and blues and then began recording their own songs. In the early 1960s, ska was the dominant music genre of Jamaica and was popular with British mods and with many skinheads.",
+  "candidates": [
+    "Alexander Skarsgård",
+    "Bill Skarsgård",
+    "Ska",
+    "Skagway, Alaska",
+    "Skam (TV series)",
+    "Skanderbeg",
+    "Skandha",
+    "Skardu",
+    "Skateboarding",
+    "Stellan Skarsgård"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ska",
+    "page_url": "https://en.wikipedia.org/wiki/Ska",
+    "retrieved_at": "2026-03-27T09:32:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Backbeat chop.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Backbeat_chop.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Backbeat_chop.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Backbeat_chop.png/960px-Backbeat_chop.png",
+    "width": 2152,
+    "height": 468,
+    "license": "Public domain",
+    "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Backbeat chop.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Backbeat_chop.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Backbeat_chop.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Backbeat_chop.png/960px-Backbeat_chop.png",
+      "width": 2152,
+      "height": 468,
+      "license": "Public domain",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bosstones.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bosstones.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bosstones.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bosstones.jpg/960px-Bosstones.jpg",
+      "width": 1500,
+      "height": 1125,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/13127104@N08/\"\u003elsiegert\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:D.P.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:D.P.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/D.P.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/D.P.jpg/960px-D.P.jpg",
+      "width": 1024,
+      "height": 768,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ciroduran/\"\u003eCiroduran\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dance Hall Crashers at The Masquerade in Atlanta, GA in 1998 (4847183491).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dance_Hall_Crashers_at_The_Masquerade_in_Atlanta,_GA_in_1998_(4847183491).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dance_Hall_Crashers_at_The_Masquerade_in_Atlanta%2C_GA_in_1998_%284847183491%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dance_Hall_Crashers_at_The_Masquerade_in_Atlanta%2C_GA_in_1998_%284847183491%29.jpg/960px-Dance_Hall_Crashers_at_The_Masquerade_in_Atlanta%2C_GA_in_1998_%284847183491%29.jpg",
+      "width": 1045,
+      "height": 1636,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/15914631@N00\"\u003eveganstraightedge\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fishbone-28.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fishbone-28.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fishbone-28.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fishbone-28.jpg/960px-Fishbone-28.jpg",
+      "width": 2256,
+      "height": 1500,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/auggie_tolosa/\"\u003eauggie tolosa\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 22,
+    "unique_artist_count": 1,
+    "unique_release_count": 3,
+    "unique_track_count": 18,
+    "first_played_at": "2026-03-03T01:21:14.093Z",
+    "last_played_at": "2026-03-19T01:47:54.056Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "sublime",
+      "name": "Sublime",
+      "play_count": 22,
+      "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+      "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "sublime--sublime",
+      "name": "Sublime",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "sublime--everything-under-the-sun",
+      "name": "Everything Under The Sun",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "sublime--right-back",
+      "name": "Right Back",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "6BukIakKj13FZWCugXCCda",
+      "spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda"
+    },
+    {
+      "canonical_slug": "sublime--d-j-s",
+      "name": "D.J.'s",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
+      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
+    },
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0vtJ9Dq53hfXE3KyP1yPni",
+      "spotify_url": "https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"
+    },
+    {
+      "canonical_slug": "sublime--badfish",
+      "name": "Badfish",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2fXLhLA7cPYEmQ1NbeAtBD",
+      "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
+    },
+    {
+      "canonical_slug": "sublime--don-t-push",
+      "name": "Don't Push",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "4FlWVsDRnYa28oJSAApL4t",
+      "spotify_url": "https://open.spotify.com/track/4FlWVsDRnYa28oJSAApL4t"
+    },
+    {
+      "canonical_slug": "sublime--ebin",
+      "name": "Ebin",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "1CHuPmcfltngwCIztkX4wv",
+      "spotify_url": "https://open.spotify.com/track/1CHuPmcfltngwCIztkX4wv"
+    },
+    {
+      "canonical_slug": "sublime--let-s-go-get-stoned",
+      "name": "Let's Go Get Stoned",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2qN7J3rwekpYjskmtOT6Ex",
+      "spotify_url": "https://open.spotify.com/track/2qN7J3rwekpYjskmtOT6Ex"
+    },
+    {
+      "canonical_slug": "sublime--live-at-e-s",
+      "name": "Live At E's",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2wNa2VUe6VY8JLBAMaxmLc",
+      "spotify_url": "https://open.spotify.com/track/2wNa2VUe6VY8JLBAMaxmLc"
+    },
+    {
+      "canonical_slug": "sublime--rivers-of-babylon",
+      "name": "Rivers Of Babylon",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "59FK9uQYzunUJOLky9K4yK",
+      "spotify_url": "https://open.spotify.com/track/59FK9uQYzunUJOLky9K4yK"
+    },
+    {
+      "canonical_slug": "sublime--roots-of-creation-demo",
+      "name": "Roots Of Creation - Demo",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--everything-under-the-sun",
+      "release_name": "Everything Under The Sun",
+      "spotify_track_id": "385maNWgHJ675jVKHFbobw",
+      "spotify_url": "https://open.spotify.com/track/385maNWgHJ675jVKHFbobw"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ska.json",
+      "url": "https://en.wikipedia.org/wiki/Ska",
+      "retrieved_at": "2026-03-27T09:32:00Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--ska.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Backbeat_chop.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:47:54.056Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

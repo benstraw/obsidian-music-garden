@@ -1,0 +1,15 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "02708fd6-0fe6-4738-a27d-0561ace8b4c6",
+  "name": "Black Star",
+  "musicbrainz_artist_id": "02708fd6-0fe6-4738-a27d-0561ace8b4c6",
+  "source_genres": [
+    "alternative hip hop",
+    "conscious hip hop",
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-hip-hop",
+    "hip-hop"
+  ]
+}

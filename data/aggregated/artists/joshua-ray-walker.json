@@ -2,6 +2,13 @@
   "canonical_slug": "joshua-ray-walker",
   "name": "Joshua Ray Walker",
   "spotify_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
+  "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr",
+  "genres": [
+    "alt-country",
+    "americana",
+    "outlaw-country",
+    "red-dirt"
+  ],
   "source_genres": [
     "alt country",
     "americana",
@@ -25,5 +32,6 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "not_found",
+  "last_updated": "2026-03-27"
 }

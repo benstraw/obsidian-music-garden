@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "5me0Irg2ANcsgc93uaYrpb",
   "name": "The Notorious B.I.G.",
+  "spotify_url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb",
   "source_genres": [
     "east coast hip hop",
     "gangster rap",
@@ -9,6 +10,67 @@
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
-    "hip-hop"
+    "east-coast-hip-hop",
+    "gangster-rap",
+    "hip-hop",
+    "old-school-hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "The Notorious B.I.G.",
+  "summary": "Christopher George Latore Wallace, better known by his stage names the Notorious B.I.G. or Biggie Smalls, was an American rapper and songwriter. Rooted in the East Coast hip-hop and gangsta rap traditions, he is widely considered one of the greatest rappers of all time. Wallace became known for his distinctive, laidback lyrical delivery, offsetting his lyrics' often grim content. His music was semi-autobiographical, telling of hardship and criminality but also of debauchery and celebration.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Notorious_B.I.G.",
+  "candidates": [
+    "The Notorious B.I.G.",
+    "The Notorious B.I.G. Duets: The Final Chapter",
+    "The Notorious B.I.G. discography",
+    "The Notorious K.I.M.",
+    "The Notorious R.B.G."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Notorious B.I.G.",
+    "page_url": "https://en.wikipedia.org/wiki/The_Notorious_B.I.G.",
+    "retrieved_at": "2026-03-27T09:28:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"King of New York\" Biggie Smalls.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"King of New York\" Biggie Smalls.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:112 feat The Notorious BIG-Only You Remix.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:B.I.G. sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:B.I.G._sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/B.I.G._sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/B.I.G._sig.svg/960px-B.I.G._sig.svg.png",
+      "width": 400,
+      "height": 141,
+      "license": "Public domain",
+      "author": "Respective commons pages (reuploaded as SVG)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Biggie Smalls 1997.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    }
   ]
 }

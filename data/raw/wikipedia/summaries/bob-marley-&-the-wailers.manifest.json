@@ -1,0 +1,6 @@
+{
+  "endpoint": "/page/summary/Bob%20Marley%20\u0026%20The%20Wailers",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Bob%20Marley%20\u0026%20The%20Wailers",
+  "fetched_at": "2026-03-27T09:25:37Z",
+  "content_type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\""
+}

@@ -1,0 +1,62 @@
+{
+  "source": "wikipedia",
+  "source_genre": "hypnotic",
+  "canonical_genre_slug": "hypnotic",
+  "status": "matched",
+  "page_title": "Hypnotic",
+  "summary": "A hypnotic, also known as a somnifacient or soporific, and commonly known as sleeping pills, are a class of psychoactive drugs whose primary function is to induce sleep and to treat insomnia (sleeplessness). Some hypnotics are also used to treat narcolepsy and hypersomnia by improving sleep at night and thereby reducing daytime sleepiness. Certain hypnotics can be used to treat non-restorative sleep and associated symptoms in conditions like fibromyalgia as well.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Hypnotic",
+  "candidates": [
+    "Hypnotic",
+    "Hypnotic (2023 film)",
+    "Hypnotic Ego-Strengthening Procedure",
+    "Hypnotic susceptibility",
+    "Hypnotic Eye",
+    "Hypnotic (song)",
+    "Hypnotic (2021 film)",
+    "Hypnotica (Benny Benassi album)",
+    "Hypnotico",
+    "Hypnotic Brass Ensemble"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hypnotic",
+    "page_url": "https://en.wikipedia.org/wiki/Hypnotic",
+    "retrieved_at": "2026-03-27T09:30:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A corrupt old man tries to seduce a woman by urging Wellcome L0034228.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg/960px-A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg",
+    "width": 2936,
+    "height": 3743,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A corrupt old man tries to seduce a woman by urging Wellcome L0034228.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg/960px-A_corrupt_old_man_tries_to_seduce_a_woman_by_urging_Wellcome_L0034228.jpg",
+      "width": 2936,
+      "height": 3743,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stilnoct2.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stilnoct2.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Stilnoct2.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Stilnoct2.JPG",
+      "width": 556,
+      "height": 472,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Entheta\" title=\"User:Entheta\"\u003eEntheta\u003c/a\u003e"
+    }
+  ]
+}

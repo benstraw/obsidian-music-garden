@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+  "request_url": "https://musicbrainz.org/ws/2/artist/58e235fc-f6ea-4614-9ed4-9855a5665ae1?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+  "fetched_at": "2026-03-27T09:33:32Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

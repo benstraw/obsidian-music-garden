@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Gnarls%20Barkley",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Gnarls%20Barkley",
+  "cache_key": "summaries/artist--gnarls-barkley",
+  "fetched_at": "2026-03-27T09:26:21Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

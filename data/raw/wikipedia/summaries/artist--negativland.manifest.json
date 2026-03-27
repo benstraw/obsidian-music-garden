@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Negativland",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Negativland",
+  "cache_key": "summaries/artist--negativland",
+  "fetched_at": "2026-03-27T09:27:22Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

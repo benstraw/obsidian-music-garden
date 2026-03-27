@@ -1,0 +1,26 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+  "name": "Common",
+  "musicbrainz_artist_id": "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+  "source_genres": [
+    "alternative hip hop",
+    "boom bap",
+    "chipmunk soul",
+    "conscious hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "jazz rap",
+    "neo soul",
+    "political hip hop",
+    "pop rap"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-hip-hop",
+    "boom-bap",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "jazz-rap",
+    "neo-soul"
+  ]
+}

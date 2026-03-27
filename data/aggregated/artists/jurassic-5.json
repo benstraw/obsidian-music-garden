@@ -2,6 +2,7 @@
   "canonical_slug": "jurassic-5",
   "name": "Jurassic 5",
   "spotify_artist_id": "6wFId9Jhuf9AKVzWboOj2B",
+  "spotify_url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
   "genres": [
     "hip-hop"
   ],
@@ -25,5 +26,53 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Jurassic 5",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jurassic_5",
+  "summary": "Jurassic 5 is an American alternative hip hop group formed by rappers Charles Stewart, Dante Givens (Akil), Courtenay Henderson, and Marc Stuart ; and disc jockeys Mark Potsic and Lucas Macfadden. \nThe six-piece crew came out of the Los Angeles venue Good Life. The group broke up in 2007, shortly after releasing the LP Feedback, citing \"musical differences,\" but returned to the stage in 2013 and released a new track in 2014. The members have continued to release music individually.",
+  "candidates": [
+    "Jurassic",
+    "Jurassic 5",
+    "Jurassic 5 (EP)",
+    "Jurassic 5 (album)",
+    "Jurassic Park",
+    "Jurassic Park (franchise)",
+    "Jurassic World",
+    "Jurassic World Dominion",
+    "Jurassic World Rebirth",
+    "Jurassic World: Fallen Kingdom"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jurassic 5",
+    "page_url": "https://en.wikipedia.org/wiki/Jurassic_5",
+    "retrieved_at": "2026-03-27T09:26:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jurassic Five 04.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jurassic_Five_04.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Jurassic_Five_04.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jurassic_Five_04.jpg/960px-Jurassic_Five_04.jpg",
+    "width": 1067,
+    "height": 710,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jurassic Five 04.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jurassic_Five_04.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Jurassic_Five_04.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jurassic_Five_04.jpg/960px-Jurassic_Five_04.jpg",
+      "width": 1067,
+      "height": 710,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

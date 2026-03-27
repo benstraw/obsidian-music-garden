@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Eminem",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Eminem",
+  "cache_key": "summaries/artist--eminem",
+  "fetched_at": "2026-03-27T09:26:10Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

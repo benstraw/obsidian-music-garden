@@ -1,0 +1,91 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "talking-heads",
+  "name": "Talking Heads",
+  "status": "matched",
+  "page_title": "Talking Heads",
+  "summary": "Talking Heads were an American rock band formed in New York City in 1975. It consisted of lead vocalist and guitarist David Byrne, drummer Chris Frantz, bassist Tina Weymouth, and guitarist and keyboardist Jerry Harrison. Described as one of the most acclaimed groups of the 1980s, Talking Heads helped to pioneer new wave music by combining elements of punk, art rock, funk, and world music with \"an anxious yet clean-cut image\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Talking_Heads",
+  "candidates": [
+    "Talking Heads",
+    "Talking Heads discography",
+    "Talking Heads: 77",
+    "Talking Heads (British TV series)",
+    "Talking Heads (Body of Proof)",
+    "Talking Heads Africa",
+    "Talking Heads (play)",
+    "Talking Heads (album)",
+    "Talking Heads '77 (Peach of Immortality album)",
+    "Talking Heads (Australian TV series)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Talking Heads",
+    "page_url": "https://en.wikipedia.org/wiki/Talking_Heads",
+    "retrieved_at": "2026-03-27T09:28:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harrison and Byrne-Talking Heads.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harrison_and_Byrne-Talking_Heads.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Harrison_and_Byrne-Talking_Heads.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Harrison_and_Byrne-Talking_Heads.jpg",
+      "width": 800,
+      "height": 573,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Michael Markos - michaelmarkos11@gmail.com",
+      "attribution_text": "Michael Markos"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stop Making Sense, Pantages Theater panel (2024) (5-3 cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stop_Making_Sense,_Pantages_Theater_panel_(2024)_(5-3_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Stop_Making_Sense%2C_Pantages_Theater_panel_%282024%29_%285-3_cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Stop_Making_Sense%2C_Pantages_Theater_panel_%282024%29_%285-3_cropped%29.jpg/960px-Stop_Making_Sense%2C_Pantages_Theater_panel_%282024%29_%285-3_cropped%29.jpg",
+      "width": 4080,
+      "height": 2449,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Cory Doctorow"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Talking Heads - Once in a Lifetime.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Talking Heads Remain In Light (1980 Sire publicity photo) (5-4 cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Talking_Heads_Remain_In_Light_(1980_Sire_publicity_photo)_(5-4_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29_%285-4_cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29_%285-4_cropped%29.jpg/960px-Talking_Heads_Remain_In_Light_%281980_Sire_publicity_photo%29_%285-4_cropped%29.jpg",
+      "width": 1054,
+      "height": 843,
+      "license": "Public domain",
+      "author": "Distributed by \u003ca href=\"https://en.wikipedia.org/wiki/Sire_Records\" class=\"extiw\" title=\"en:Sire Records\"\u003eSire Records\u003c/a\u003e. Photographer uncredited."
+    }
+  ]
+}

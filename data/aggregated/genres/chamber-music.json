@@ -1,4 +1,129 @@
 {
   "canonical_slug": "chamber-music",
-  "pending": true
+  "display_title": "Chamber Music",
+  "display_name": "Chamber Music",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Chamber music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chamber_music",
+  "summary": "Chamber music is a form of classical music that is composed for a small group of instruments—traditionally a group that could fit in a palace chamber or a large room. Most broadly, it includes any art music that is performed by a small number of performers, with one performer to a part. However, by convention, it usually does not include solo instrument performances.",
+  "candidates": [
+    "Chamber Music (Ballake Sissoko and Vincent Segal album)",
+    "Chamber Music (Coal Chamber album)",
+    "Chamber Music America",
+    "Chamber Music Charleston",
+    "Chamber Music Detroit",
+    "Chamber Music Northwest",
+    "Chamber Music Society",
+    "Chamber Music Society of Colombo",
+    "Chamber Music Society of Lincoln Center",
+    "Chamber music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chamber music",
+    "page_url": "https://en.wikipedia.org/wiki/Chamber_music",
+    "retrieved_at": "2026-03-27T09:30:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg/960px-Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+    "width": 3543,
+    "height": 2433,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Adolph_Menzel\" class=\"extiw\" title=\"w:en:Adolph Menzel\"\u003e\u003cspan title=\"German artist (1815–1905)\"\u003eAdolph von Menzel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg/960px-Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+      "width": 3543,
+      "height": 2433,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Adolph_Menzel\" class=\"extiw\" title=\"w:en:Adolph Menzel\"\u003e\u003cspan title=\"German artist (1815–1905)\"\u003eAdolph von Menzel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adolph von Menzel - Joseph Joachim + Clara Schumann (Zeichnung 1854).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adolph_von_Menzel_-_Joseph_Joachim_%2B_Clara_Schumann_(Zeichnung_1854).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Adolph_von_Menzel_-_Joseph_Joachim_%2B_Clara_Schumann_%28Zeichnung_1854%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Adolph_von_Menzel_-_Joseph_Joachim_%2B_Clara_Schumann_%28Zeichnung_1854%29.jpg/960px-Adolph_von_Menzel_-_Joseph_Joachim_%2B_Clara_Schumann_%28Zeichnung_1854%29.jpg",
+      "width": 1600,
+      "height": 1337,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Adolph_Menzel\" class=\"extiw\" title=\"w:en:Adolph Menzel\"\u003e\u003cspan title=\"German artist (1815–1905)\"\u003eAdolph von Menzel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AntiqueQuartet.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AntiqueQuartet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/AntiqueQuartet.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AntiqueQuartet.jpg/960px-AntiqueQuartet.jpg",
+      "width": 1267,
+      "height": 2172,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bartok 6th String Quartet.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bartok_6th_String_Quartet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bartok_6th_String_Quartet.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bartok_6th_String_Quartet.jpg/960px-Bartok_6th_String_Quartet.jpg",
+      "width": 1068,
+      "height": 782,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Ravpapa\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Ravpapa (page does not exist)\"\u003eRavpapa\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chamber-music.json",
+      "url": "https://en.wikipedia.org/wiki/Chamber_music",
+      "retrieved_at": "2026-03-27T09:30:08Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chamber-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

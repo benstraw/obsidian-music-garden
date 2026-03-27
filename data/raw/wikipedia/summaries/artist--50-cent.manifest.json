@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/50%20Cent",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/50%20Cent",
+  "cache_key": "summaries/artist--50-cent",
+  "fetched_at": "2026-03-27T09:23:31Z",
+  "status": "cached",
+  "content_type": "application/json"
+}

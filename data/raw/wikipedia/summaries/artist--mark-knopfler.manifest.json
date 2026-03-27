@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Mark%20Knopfler",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Mark%20Knopfler",
+  "cache_key": "summaries/artist--mark-knopfler",
+  "fetched_at": "2026-03-27T09:26:59Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

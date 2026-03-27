@@ -1,0 +1,62 @@
+{
+  "source": "wikipedia",
+  "source_genre": "classic rock",
+  "canonical_genre_slug": "classic-rock",
+  "status": "matched",
+  "page_title": "Classic rock",
+  "summary": "Classic rock is a radio format that developed from the album-oriented rock (AOR) format in the early-mid 1980s. In the United States, it comprises rock music ranging generally from the early-1960s to mid-1990s, primarily focusing on commercially successful blues rock and hard rock popularized in the 1970s–1980s AOR format. Classic rock's focus somewhat differs from the formats oldies and classic hits.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Classic_rock",
+  "candidates": [
+    "Classic rock",
+    "Classic Rock (Time-Life Music)",
+    "Classic Rock (magazine)",
+    "Classic Rock Roll of Honour Awards",
+    "Classic Rock 96FM (Hawkes Bay)",
+    "Classic Rock (album)",
+    "Classic Rock (Westwood One)",
+    "Classic Rock Society",
+    "Classic Rock series",
+    "Classic Rock Gold"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Classic rock",
+    "page_url": "https://en.wikipedia.org/wiki/Classic_rock",
+    "retrieved_at": "2026-03-27T09:30:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fleetwood Mac Billboard 1977.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+    "width": 960,
+    "height": 960,
+    "license": "Public domain",
+    "author": "Warner Bros. Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood Mac Billboard 1977.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+      "width": 960,
+      "height": 960,
+      "license": "Public domain",
+      "author": "Warner Bros. Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    }
+  ]
+}

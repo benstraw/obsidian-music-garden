@@ -1,0 +1,90 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "dr-dre",
+  "name": "Dr. Dre",
+  "status": "matched",
+  "page_title": "Dr. Dre",
+  "summary": "Andre Romell Young, known professionally as Dr. Dre, is an American rapper, record producer, record executive, and actor. He is the founder and CEO of Aftermath Entertainment and Beats Electronics, and co-founder of Death Row Records. Dre began his career as a member of the World Class Wreckin' Cru in 1984, and later found fame with the gangsta rap group N.W.A, which he formed in 1987 with Eazy-E, Ice Cube and Arabian Prince. The group popularized explicit lyrics in hip-hop to detail the violence of street life. N.W.A's debut album Straight Outta Compton (1989) was one of the most successful albums in the West Coast hip-hop scene, and is often credited for the rise in popularity of gangsta rap. During the early 1990s, Dre was credited as a key figure in the crafting and popularization of West Coast G-funk, a subgenre of hip-hop characterized by a synthesizer foundation and slow, heavy production.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Dr._Dre",
+  "candidates": [
+    "Dr. Dre",
+    "Dr. Dre discography",
+    "Dr. Dre production discography",
+    "Dr. Dre Presents: The Aftermath",
+    "Dr. Dre: The Biography",
+    "Dr. Dre 2001",
+    "Dr. Drew On Call",
+    "Dr. Drew",
+    "Dr. Drew Ordon",
+    "Dr. Dreidle"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dr. Dre",
+    "page_url": "https://en.wikipedia.org/wiki/Dr._Dre",
+    "retrieved_at": "2026-03-27T09:26:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beats by dre.PNG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Beats_by_dre.PNG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Beats_by_dre.PNG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Beats_by_dre.PNG",
+    "width": 503,
+    "height": 76,
+    "license": "Public domain",
+    "author": "Monster, LLC."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beats by dre.PNG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beats_by_dre.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Beats_by_dre.PNG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Beats_by_dre.PNG",
+      "width": 503,
+      "height": 76,
+      "license": "Public domain",
+      "author": "Monster, LLC."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:California Love (1995), by Tupac Shakur.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:California_Love_(1995),_by_Tupac_Shakur.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/California_Love_%281995%29%2C_by_Tupac_Shakur.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/California_Love_%281995%29%2C_by_Tupac_Shakur.png",
+      "width": 300,
+      "height": 262,
+      "license": "Public domain",
+      "author": "Death Row Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dr. Dre.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+      "width": 400,
+      "height": 594,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Ed Kavishe"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dr. Dre - Still D.R.E..ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dr. Dre 2013.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre_2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dr._Dre_2013.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dr._Dre_2013.jpg",
+      "width": 236,
+      "height": 351,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26701921@N00\"\u003eJustin Davis\u003c/a\u003e from San Jose, US"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "endpoint": "/page/summary/Crosby%2C%20Stills%2C%20Nash%20\u0026%20Young",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Crosby%2C%20Stills%2C%20Nash%20\u0026%20Young",
+  "fetched_at": "2026-03-27T09:25:54Z",
+  "content_type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\""
+}

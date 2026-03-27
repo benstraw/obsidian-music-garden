@@ -1,0 +1,27 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "22dc19af-d085-4c9b-adfb-22ec256251f1",
+  "name": "Buffalo Springfield",
+  "musicbrainz_artist_id": "22dc19af-d085-4c9b-adfb-22ec256251f1",
+  "source_genres": [
+    "baroque pop",
+    "country rock",
+    "folk pop",
+    "folk rock",
+    "hard rock",
+    "pop rock",
+    "psychedelic folk",
+    "psychedelic rock",
+    "rock",
+    "american",
+    "classic pop and rock"
+  ],
+  "canonical_genre_slugs": [
+    "baroque-pop",
+    "country-rock",
+    "folk-rock",
+    "pop",
+    "psychedelic-rock",
+    "rock"
+  ]
+}

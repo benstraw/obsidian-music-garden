@@ -2,10 +2,105 @@
   "source": "spotify",
   "source_artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
   "name": "Kanye West",
+  "spotify_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
   "source_genres": [
     "rap"
   ],
   "canonical_genre_slugs": [
     "rap"
+  ],
+  "status": "matched",
+  "page_title": "Kanye West",
+  "summary": "Ye is an American rapper, songwriter, and record producer. He has been listed among the greatest rappers of all time and referred to as one of the most prominent figures in hip-hop. His music, characterized by frequent stylistic shifts, has been credited with facilitating the emergence of rappers who did not conform to gangster rap conventions. He is also known for his controversial public persona, including his polarizing cultural and political commentary.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Kanye_West",
+  "candidates": [
+    "Kanye West",
+    "Kanye West (Botswana constituency)",
+    "Kanye West 2019 Coachella performance",
+    "Kanye West albums discography",
+    "Kanye West presidential campaigns",
+    "Kanye West production discography",
+    "Kanye West singles discography",
+    "Kanye West videography",
+    "Kanye West's fifth studio album",
+    "Kanye West's unrealized projects"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Kanye West",
+    "page_url": "https://en.wikipedia.org/wiki/Kanye_West",
+    "retrieved_at": "2026-03-27T09:26:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A coloured voting box.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_coloured_voting_box.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/A_coloured_voting_box.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A_coloured_voting_box.svg/960px-A_coloured_voting_box.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Resizia"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio-input-microphone.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "width": 128,
+      "height": 128,
+      "license": "GPL",
+      "license_url": "http://www.gnu.org/licenses/gpl.html",
+      "author": "DBGthekafu"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BULLY Swastika.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BULLY_Swastika.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/BULLY_Swastika.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BULLY_Swastika.svg/960px-BULLY_Swastika.svg.png",
+      "width": 600,
+      "height": 600,
+      "license": "Public domain",
+      "author": "Kanye West, vector by \u003ca href=\"//commons.wikimedia.org/wiki/User:DotXK\" title=\"User:DotXK\"\u003eDotXK\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BathingSuit1920s.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BathingSuit1920s.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/BathingSuit1920s.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/BathingSuit1920s.jpg",
+      "width": 768,
+      "height": 490,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
   ]
 }

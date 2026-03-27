@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Spoken%20word",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Spoken%20word",
+  "cache_key": "summaries/spoken-word",
+  "fetched_at": "2026-03-27T09:32:11Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

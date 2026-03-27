@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api.php",
+  "request_url": "https://en.wikipedia.org/w/api.php?action=opensearch\u0026format=json\u0026limit=10\u0026namespace=0\u0026search=The+Avalanches",
+  "fetched_at": "2026-03-27T09:28:10Z",
+  "content_type": "application/json; charset=utf-8"
+}

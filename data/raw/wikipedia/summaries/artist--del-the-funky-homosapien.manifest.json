@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Del%20the%20Funky%20Homosapien",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Del%20the%20Funky%20Homosapien",
+  "cache_key": "summaries/artist--del-the-funky-homosapien",
+  "fetched_at": "2026-03-27T09:26:04Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

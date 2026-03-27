@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/British",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/British",
+  "cache_key": "summaries/british",
+  "fetched_at": "2026-03-27T09:30:06Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

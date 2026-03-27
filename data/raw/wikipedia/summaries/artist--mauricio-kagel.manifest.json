@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Mauricio%20Kagel",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Mauricio%20Kagel",
+  "cache_key": "summaries/artist--mauricio-kagel",
+  "fetched_at": "2026-03-27T09:27:04Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

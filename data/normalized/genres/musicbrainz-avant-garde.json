@@ -1,4 +1,5 @@
 {
   "source": "musicbrainz",
-  "source_genre": "avant-garde"
+  "source_genre": "avant-garde",
+  "canonical_genre_slug": "experimental"
 }

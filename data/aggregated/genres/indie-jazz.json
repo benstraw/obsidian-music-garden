@@ -1,4 +1,76 @@
 {
   "canonical_slug": "indie-jazz",
-  "pending": true
+  "display_title": "Indie Jazz",
+  "display_name": "Indie Jazz",
+  "parent_slug": "jazz",
+  "aliases": [
+    "indie jazz"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Indian jazz",
+    "Indie Jankowski",
+    "Indigo Jazz and Blues Festival",
+    "Indo jazz",
+    "Indo-Jazz Fusions",
+    "Indy Jazz Fest",
+    "Inside (jazz)"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T13:08:31.707Z",
+    "last_played_at": "2026-03-03T13:08:31.707Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "shabaka",
+      "name": "Shabaka",
+      "play_count": 1,
+      "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+      "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "shabaka--afrikan-culture",
+      "name": "Afrikan Culture",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shabaka",
+      "primary_artist_name": "Shabaka"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "shabaka--black-meditation",
+      "name": "Black meditation",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shabaka",
+      "primary_artist_name": "Shabaka",
+      "release_canonical_slug": "shabaka--afrikan-culture",
+      "release_name": "Afrikan Culture",
+      "spotify_track_id": "0OK7oUUtjtUAVNxgXFtqsw",
+      "spotify_url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T13:08:31.707Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

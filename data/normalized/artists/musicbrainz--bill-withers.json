@@ -1,0 +1,20 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+  "name": "Bill Withers",
+  "musicbrainz_artist_id": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+  "source_genres": [
+    "deep soul",
+    "funk",
+    "motown",
+    "pop soul",
+    "smooth soul",
+    "soul",
+    "1970s",
+    "rhythm \u0026 blues"
+  ],
+  "canonical_genre_slugs": [
+    "funk",
+    "soul"
+  ]
+}

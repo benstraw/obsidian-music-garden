@@ -1,0 +1,20 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+  "name": "50 Cent",
+  "musicbrainz_artist_id": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+  "source_genres": [
+    "east coast hip hop",
+    "gangsta rap",
+    "hardcore hip hop",
+    "hip hop",
+    "pop rap",
+    "rap"
+  ],
+  "canonical_genre_slugs": [
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "rap"
+  ]
+}

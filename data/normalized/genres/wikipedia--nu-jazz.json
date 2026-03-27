@@ -1,0 +1,51 @@
+{
+  "source": "wikipedia",
+  "source_genre": "nu jazz",
+  "canonical_genre_slug": "nu-jazz",
+  "status": "matched",
+  "page_title": "Nu jazz",
+  "summary": "Nu jazz is a genre of jazz and electronic music. The music blends jazz elements with other musical styles, such as funk, electronic music, and free improvisation.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Nu_jazz",
+  "candidates": [
+    "Nu jazz",
+    "Nu gaze",
+    "Nur Jazlan Mohamed",
+    "Nu Jerzey Devil",
+    "New Jazz (Atlanta)",
+    "Nujabes",
+    "Nu jack swing",
+    "NEA Jazz Masters",
+    "New Jazz Conceptions",
+    "New Jazz Orchestra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Nu jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Nu_jazz",
+    "retrieved_at": "2026-03-27T09:31:28Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source": "wikipedia",
+  "source_genre": "funk",
+  "canonical_genre_slug": "funk",
+  "status": "matched",
+  "page_title": "Funk",
+  "summary": "Funk is a music genre that originated in African-American communities in the mid-1960s when musicians created a rhythmic, danceable new form of music through a mixture of various music genres that were popular among African-Americans in the mid-20th century. It deemphasizes melody and chord progressions and focuses on a strong rhythmic groove of a bassline played by an electric bassist and a drum part played by a percussionist, often at slower tempos than other popular music. Funk typically consists of a complex percussive groove with rhythm instruments playing interlocking grooves that create a \"hypnotic\" and \"danceable\" feel. Early funk, specifically James Brown, fused jazz and blues, and added a syncopated drum groove.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Funk",
+  "candidates": [
+    "Funk",
+    "Funk carioca",
+    "Terry Funk",
+    "Funko",
+    "Funkytown",
+    "Funky (film)",
+    "Funk Wav Bounces Vol. 1",
+    "Fred Funk",
+    "Funke Akindele",
+    "The Funk Brothers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Funk",
+    "page_url": "https://en.wikipedia.org/wiki/Funk",
+    "retrieved_at": "2026-03-27T09:30:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Anitta Heat Latin Music Awards 2021.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Anitta_Heat_Latin_Music_Awards_2021.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+    "width": 380,
+    "height": 668,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCAMlnH4jZoBVmzAPBGzLw0g\"\u003eGente RD\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anitta Heat Latin Music Awards 2021.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Anitta_Heat_Latin_Music_Awards_2021.jpg",
+      "width": 380,
+      "height": 668,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCAMlnH4jZoBVmzAPBGzLw0g\"\u003eGente RD\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bootsy Collins-04.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bootsy_Collins-04.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bootsy_Collins-04.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bootsy_Collins-04.jpg",
+      "width": 850,
+      "height": 850,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:MikaV\" class=\"extiw\" title=\"de:Benutzer:MikaV\"\u003eMikaV\u003c/a\u003e (\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:MikaV\" class=\"extiw\" title=\"de:Benutzer Diskussion:MikaV\"\u003eDiskussion\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chaka Khan.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chaka_Khan.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chaka_Khan.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chaka_Khan.jpg",
+      "width": 667,
+      "height": 1000,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Dwightmccann\" class=\"extiw\" title=\"wikipedia:User:Dwightmccann\"\u003eDwightmccann\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e.",
+      "attribution_text": "Dwight McCann / Chumash Casino Resort / www.DwightMcCann.com"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Wilson-photo-by-raymond-boyd.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Wilson-photo-by-raymond-boyd.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Charlie_Wilson-photo-by-raymond-boyd.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Charlie_Wilson-photo-by-raymond-boyd.jpg/960px-Charlie_Wilson-photo-by-raymond-boyd.jpg",
+      "width": 2112,
+      "height": 3168,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:RaymondBoyd51\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:RaymondBoyd51 (page does not exist)\"\u003eRaymondBoyd51\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cissy Strut drum groove.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cissy_Strut_drum_groove.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cissy_Strut_drum_groove.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cissy_Strut_drum_groove.jpg",
+      "width": 741,
+      "height": 291,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Feloscho\" title=\"User:Feloscho\"\u003eFeloscho\u003c/a\u003e"
+    }
+  ]
+}

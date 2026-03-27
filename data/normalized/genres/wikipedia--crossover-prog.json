@@ -1,0 +1,25 @@
+{
+  "source": "wikipedia",
+  "source_genre": "crossover prog",
+  "canonical_genre_slug": "crossover-prog",
+  "status": "matched",
+  "page_title": "Dog agility",
+  "summary": "Dog agility is a dog sport in which a handler directs a dog through an obstacle course in a race for both time and accuracy. Dogs run off leash with no food or toys as incentives, and the handler can touch neither dog nor obstacles. Communication is limited to voice commands, movement, and body signals, which demands a high level of training for the dog and precise coordination from the handler.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Dog_agility",
+  "candidates": [
+    "Crossover (dogs)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dog agility",
+    "page_url": "https://en.wikipedia.org/wiki/Dog_agility",
+    "retrieved_at": "2026-03-27T09:30:25Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chinese_Crested_hairless_agility.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chinese_Crested_hairless_agility.jpg/330px-Chinese_Crested_hairless_agility.jpg",
+    "width": 2048,
+    "height": 1350
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3ABasic+bossa+nova+guitar+rhythm.PNG",
+  "cache_key": "commons-images/bossa-nova--file-basic-bossa-nova-guitar-rhythm-png",
+  "fetched_at": "2026-03-27T09:30:04Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

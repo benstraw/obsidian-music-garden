@@ -1,4 +1,357 @@
 {
   "canonical_slug": "classic-rock",
-  "pending": true
+  "display_title": "Classic Rock",
+  "display_name": "Classic Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "classic rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Classic rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Classic_rock",
+  "summary": "Classic rock is a radio format that developed from the album-oriented rock (AOR) format in the early-mid 1980s. In the United States, it comprises rock music ranging generally from the early-1960s to mid-1990s, primarily focusing on commercially successful blues rock and hard rock popularized in the 1970s–1980s AOR format. Classic rock's focus somewhat differs from the formats oldies and classic hits.",
+  "candidates": [
+    "Classic Rock (Time-Life Music)",
+    "Classic Rock (Westwood One)",
+    "Classic Rock (album)",
+    "Classic Rock (magazine)",
+    "Classic Rock 96FM (Hawkes Bay)",
+    "Classic Rock Gold",
+    "Classic Rock Roll of Honour Awards",
+    "Classic Rock Society",
+    "Classic Rock series",
+    "Classic rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Classic rock",
+    "page_url": "https://en.wikipedia.org/wiki/Classic_rock",
+    "retrieved_at": "2026-03-27T09:30:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fleetwood Mac Billboard 1977.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+    "width": 960,
+    "height": 960,
+    "license": "Public domain",
+    "author": "Warner Bros. Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood Mac Billboard 1977.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+      "width": 960,
+      "height": 960,
+      "license": "Public domain",
+      "author": "Warner Bros. Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 61,
+    "unique_artist_count": 9,
+    "unique_release_count": 27,
+    "unique_track_count": 45,
+    "first_played_at": "2026-02-13T01:48:42.202Z",
+    "last_played_at": "2026-03-25T18:02:01.875Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "neil-young",
+      "name": "Neil Young",
+      "play_count": 16,
+      "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+      "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young",
+      "name": "Crosby, Stills, Nash \u0026 Young",
+      "play_count": 14,
+      "spotify_artist_id": "1CYsQCypByMVgnv17qsSbQ",
+      "spotify_url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+    },
+    {
+      "canonical_slug": "pink-floyd",
+      "name": "Pink Floyd",
+      "play_count": 12,
+      "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "canonical_slug": "the-beatles",
+      "name": "The Beatles",
+      "play_count": 10,
+      "spotify_artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+      "spotify_url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "canonical_slug": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "play_count": 3,
+      "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    {
+      "canonical_slug": "the-doors",
+      "name": "The Doors",
+      "play_count": 3,
+      "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+      "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "canonical_slug": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "play_count": 1,
+      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+    },
+    {
+      "canonical_slug": "steely-dan",
+      "name": "Steely Dan",
+      "play_count": 1,
+      "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
+      "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+    },
+    {
+      "canonical_slug": "the-animals",
+      "name": "The Animals",
+      "play_count": 1,
+      "spotify_artist_id": "3ICflSq6ZgYAIrm2CTkfVP",
+      "spotify_url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "name": "A Saucerful of Secrets",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "name": "Harvest (50th Anniversary Edition)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--american-dream",
+      "name": "American Dream",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+    },
+    {
+      "canonical_slug": "neil-young--barn",
+      "name": "Barn",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "the-beatles--rubber-soul-remastered-2009",
+      "name": "Rubber Soul (Remastered 2009)",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles"
+    },
+    {
+      "canonical_slug": "pink-floyd--meddle",
+      "name": "Meddle",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "name": "Axis: Bold As Love",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--4-way-street",
+      "name": "4 Way Street",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--deja-vu",
+      "name": "Deja Vu",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+    },
+    {
+      "canonical_slug": "the-beatles--revolver-remastered",
+      "name": "Revolver (Remastered)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--clear-blue-skies",
+      "name": "Clear Blue Skies",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--american-dream",
+      "release_name": "American Dream",
+      "spotify_track_id": "5aBo35KynwE90mboBMWKQI",
+      "spotify_url": "https://open.spotify.com/track/5aBo35KynwE90mboBMWKQI"
+    },
+    {
+      "canonical_slug": "neil-young--heading-west",
+      "name": "Heading West",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--barn",
+      "release_name": "Barn",
+      "spotify_track_id": "6XtmeG61N9gqY5RFmhQqYH",
+      "spotify_url": "https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH"
+    },
+    {
+      "canonical_slug": "neil-young--words-between-the-lines-of-age",
+      "name": "Words (Between the Lines of Age)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "65L89liJNDrskT7XTDEKbA",
+      "spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
+    },
+    {
+      "canonical_slug": "the-beatles--michelle-remastered-2009",
+      "name": "Michelle - Remastered 2009",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles",
+      "release_canonical_slug": "the-beatles--rubber-soul-remastered-2009",
+      "release_name": "Rubber Soul (Remastered 2009)",
+      "spotify_track_id": "5By7Pzgl6TMuVJG168VWzS",
+      "spotify_url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
+    },
+    {
+      "canonical_slug": "pink-floyd--fearless",
+      "name": "Fearless",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
+      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
+      "canonical_slug": "neil-young--out-on-the-weekend",
+      "name": "Out on the Weekend",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "15Z3JEayO4OEcbJQsasWHh",
+      "spotify_url": "https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh"
+    },
+    {
+      "canonical_slug": "the-doors--the-soft-parade",
+      "name": "The Soft Parade",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors",
+      "release_canonical_slug": "the-doors--the-soft-parade",
+      "release_name": "The Soft Parade",
+      "spotify_track_id": "0YMzPd9mYx4txOuCnhYUGU",
+      "spotify_url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--this-old-house",
+      "name": "This Old House",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--american-dream",
+      "release_name": "American Dream",
+      "spotify_track_id": "3QqRShyg7ABnLZbX3jwFSm",
+      "spotify_url": "https://open.spotify.com/track/3QqRShyg7ABnLZbX3jwFSm"
+    },
+    {
+      "canonical_slug": "the-beatles--you-won-t-see-me-remastered-2009",
+      "name": "You Won't See Me - Remastered 2009",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles",
+      "release_canonical_slug": "the-beatles--rubber-soul-remastered-2009",
+      "release_name": "Rubber Soul (Remastered 2009)",
+      "spotify_track_id": "4LLBKnNCrSRrSjSTuiwjE9",
+      "spotify_url": "https://open.spotify.com/track/4LLBKnNCrSRrSjSTuiwjE9"
+    },
+    {
+      "canonical_slug": "pink-floyd--a-pillow-of-winds",
+      "name": "A Pillow of Winds",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
+      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--classic-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Classic_rock",
+      "retrieved_at": "2026-03-27T09:30:12Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--classic-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-25T18:02:01.875Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist",
+  "request_url": "https://musicbrainz.org/ws/2/artist?fmt=json\u0026limit=5\u0026query=artist%3A%22Allen+Toussaint%22",
+  "cache_key": "artist-search/allen-toussaint",
+  "fetched_at": "2026-03-27T09:33:11Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

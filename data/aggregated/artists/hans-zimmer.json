@@ -2,6 +2,10 @@
   "canonical_slug": "hans-zimmer",
   "name": "Hans Zimmer",
   "spotify_artist_id": "0YC192cP3KPCRWx8zr8MfZ",
+  "spotify_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
+  "genres": [
+    "soundtrack"
+  ],
   "source_genres": [
     "score",
     "soundtrack"
@@ -23,5 +27,100 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Hans Zimmer",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+  "summary": "Hans Florian Zimmer is a German film composer and music producer. He has received numerous accolades, including two Academy Awards, a BAFTA Award, three Golden Globe Awards, and five Grammy Awards as well as nominations for seven Emmy Awards. Zimmer was also named on the list of Top 100 Living Geniuses, published by The Daily Telegraph in 2007.",
+  "candidates": [
+    "Hans Dammers",
+    "Hans Lammers",
+    "Hans Remmer",
+    "Hans Riemer (American politician)",
+    "Hans Zimmer",
+    "Hans Zimmer \u0026 James Newton Howard",
+    "Hans Zimmer discography",
+    "Hans Zimmermann",
+    "Hans Zimmermann (architect, born 1831)",
+    "Hans Zimmermann (disambiguation)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hans Zimmer",
+    "page_url": "https://en.wikipedia.org/wiki/Hans_Zimmer",
+    "retrieved_at": "2026-03-27T09:26:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Boulevard-der-stars-IMG 0906x.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Boulevard-der-stars-IMG_0906x.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boulevard-der-stars-IMG_0906x.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boulevard-der-stars-IMG_0906x.JPG/960px-Boulevard-der-stars-IMG_0906x.JPG",
+    "width": 4200,
+    "height": 3220,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Thomas Schmidt (netAction)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Boulevard-der-stars-IMG 0906x.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Boulevard-der-stars-IMG_0906x.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boulevard-der-stars-IMG_0906x.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Boulevard-der-stars-IMG_0906x.JPG/960px-Boulevard-der-stars-IMG_0906x.JPG",
+      "width": 4200,
+      "height": 3220,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Thomas Schmidt (netAction)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:De-Hans Florian Zimmer.flac",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:De-Hans_Florian_Zimmer.flac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/De-Hans_Florian_Zimmer.flac",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Gute_Laune\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Gute Laune (page does not exist)\"\u003eGute Laune\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hans-Zimmer-profile.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hans-Zimmer-profile.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hans-Zimmer-profile.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hans-Zimmer-profile.jpg",
+      "width": 512,
+      "height": 680,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/collidervideo\"\u003eColliderVideo\u003c/a\u003e. Uploader cropped.",
+      "attribution_text": "ColliderVideo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hans Zimmer crop.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hans_Zimmer_crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hans_Zimmer_crop.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Hans_Zimmer_crop.jpg",
+      "width": 535,
+      "height": 664,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:JNH_et_HZ.jpg\" title=\"File:JNH et HZ.jpg\"\u003eJNH et HZ.jpg\u003c/a\u003e: \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/15518101@N03\"\u003eYann de la marne\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"https://en.wikipedia.org/wiki/User:Ianmacm\" class=\"extiw\" title=\"en:User:Ianmacm\"\u003eIanmacm\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hans Zimmer in 2022.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hans_Zimmer_in_2022.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hans_Zimmer_in_2022.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hans_Zimmer_in_2022.jpg/960px-Hans_Zimmer_in_2022.jpg",
+      "width": 3955,
+      "height": 2910,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

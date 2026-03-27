@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "34EP7KEpOjXcM2TCat1ISk",
   "name": "Wu-Tang Clan",
+  "spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk",
   "source_genres": [
     "east coast hip hop",
     "gangster rap",
@@ -10,6 +11,93 @@
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
-    "hip-hop"
+    "east-coast-hip-hop",
+    "gangster-rap",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "old-school-hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Wu-Tang Clan",
+  "summary": "Wu-Tang Clan is an American hip hop collective formed in Staten Island, New York City, in 1992. Its members include RZA, GZA, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, Masta Killa, and, until his death in 2004, Ol' Dirty Bastard. Close affiliate Cappadonna later became an official member. They are credited for revitalizing East Coast hip hop and are widely regarded as one of the greatest hip hop groups of all time.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Wu-Tang_Clan",
+  "candidates": [
+    "The Wu-Tang Manual",
+    "Wu-Tang Chamber Music",
+    "Wu-Tang Clan",
+    "Wu-Tang Clan Ain't Nothing ta Fuck Wit",
+    "Wu-Tang Clan affiliates",
+    "Wu-Tang Clan anthology",
+    "Wu-Tang Clan discography",
+    "Wu-Tang Clan videography",
+    "Wu-Tang Clan: Of Mics and Men",
+    "Wu-tang (dance)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wu-Tang Clan",
+    "page_url": "https://en.wikipedia.org/wiki/Wu-Tang_Clan",
+    "retrieved_at": "2026-03-27T09:28:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of New York City.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_New_York_City.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/960px-Flag_of_New_York_City.svg.png",
+    "width": 500,
+    "height": 300,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of New York City.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_New_York_City.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_New_York_City.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_New_York_City.svg/960px-Flag_of_New_York_City.svg.png",
+      "width": 500,
+      "height": 300,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Semi-protection-shackle.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Semi-protection-shackle.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Semi-protection-shackle.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Semi-protection-shackle.svg/960px-Semi-protection-shackle.svg.png",
+      "width": 512,
+      "height": 512,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
+    }
   ]
 }

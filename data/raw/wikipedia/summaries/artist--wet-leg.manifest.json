@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Wet%20Leg",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Wet%20Leg",
+  "cache_key": "summaries/artist--wet-leg",
+  "fetched_at": "2026-03-27T09:28:22Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

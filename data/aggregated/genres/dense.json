@@ -1,4 +1,53 @@
 {
   "canonical_slug": "dense",
-  "pending": true
+  "display_title": "Dense",
+  "display_name": "Dense",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Density",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Density",
+  "summary": "Density is the ratio of a substance's mass to its volume. The symbol most often used for density is ρ, although the Latin letter D can also be used: \n\nwhere ρ is the density, m is the mass, and V is the volume. In some cases, density is loosely defined as its weight per unit volume, although this is scientifically inaccurate – this quantity is more specifically called specific weight.",
+  "candidates": [
+    "Dense",
+    "Dense breast tissue",
+    "Dense granule",
+    "Dense graph",
+    "Dense plasma focus",
+    "Dense set",
+    "Dense subgraph",
+    "Densely packed decimal",
+    "Densetsu no Starfy (video game)",
+    "Densey Clyne"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Density",
+    "page_url": "https://en.wikipedia.org/wiki/Density",
+    "retrieved_at": "2026-03-27T09:30:30Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--dense.json",
+      "url": "https://en.wikipedia.org/wiki/Density",
+      "retrieved_at": "2026-03-27T09:30:30Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

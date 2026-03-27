@@ -2,9 +2,111 @@
   "source": "spotify",
   "source_artist_id": "08GQAI4eElDnROBrJRGE0X",
   "name": "Fleetwood Mac",
+  "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
   "source_genres": [
     "classic rock",
     "soft rock",
     "yacht rock"
+  ],
+  "canonical_genre_slugs": [
+    "classic-rock",
+    "soft-rock",
+    "yacht-rock"
+  ],
+  "status": "matched",
+  "page_title": "Fleetwood Mac",
+  "summary": "Fleetwood Mac were a British and American rock band formed in London in 1967 by singer and guitarist Peter Green. He named the band by combining the surnames of drummer Mick Fleetwood, the only constant member of the band throughout its history, and bassist John McVie, who joined the band soon after it was formed. Fleetwood Mac have sold more than 120 million records worldwide, making them one of the world's best-selling musical acts.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+  "candidates": [
+    "Fleetwood Mac",
+    "Fleetwood Mac (1968 album)",
+    "Fleetwood Mac (1975 album)",
+    "Fleetwood Mac (disambiguation)",
+    "Fleetwood Mac Greatest Hits",
+    "Fleetwood Mac Tour",
+    "Fleetwood Mac discography",
+    "Fleetwood Mac in Chicago",
+    "Fleetwood Mac: Live in Boston",
+    "Fleetwood Mac: Opus Collection"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Fleetwood Mac",
+    "page_url": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+    "retrieved_at": "2026-03-27T09:26:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:FleetMacTulsa031018-71 (45183773542).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:FleetMacTulsa031018-71_(45183773542).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/FleetMacTulsa031018-71_%2845183773542%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/FleetMacTulsa031018-71_%2845183773542%29.jpg/960px-FleetMacTulsa031018-71_%2845183773542%29.jpg",
+    "width": 2820,
+    "height": 1880,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FleetMacTulsa031018-71 (45183773542).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FleetMacTulsa031018-71_(45183773542).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/FleetMacTulsa031018-71_%2845183773542%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/FleetMacTulsa031018-71_%2845183773542%29.jpg/960px-FleetMacTulsa031018-71_%2845183773542%29.jpg",
+      "width": 2820,
+      "height": 1880,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FleetMacTulsa031018-81 (30294522547).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FleetMacTulsa031018-81_(30294522547).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/FleetMacTulsa031018-81_%2830294522547%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/FleetMacTulsa031018-81_%2830294522547%29.jpg/960px-FleetMacTulsa031018-81_%2830294522547%29.jpg",
+      "width": 4647,
+      "height": 2597,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood Mac 2009.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fleetwood_Mac_2009.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fleetwood_Mac_2009.jpg",
+      "width": 600,
+      "height": 354,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Weatherman90\" class=\"extiw\" title=\"wikipedia:User:Weatherman90\"\u003eWeatherman90\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Weatherman90\" class=\"extiw\" title=\"wikipedia:User:Weatherman90\"\u003eWeatherman90\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood Mac Billboard 1977.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Billboard_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fleetwood_Mac_Billboard_1977.jpg",
+      "width": 960,
+      "height": 960,
+      "license": "Public domain",
+      "author": "Warner Bros. Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood Mac Danny Kirwan 11.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_Mac_Danny_Kirwan_11.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Fleetwood_Mac_Danny_Kirwan_11.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fleetwood_Mac_Danny_Kirwan_11.jpg/960px-Fleetwood_Mac_Danny_Kirwan_11.jpg",
+      "width": 1860,
+      "height": 2500,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:W.W.Thaler\" title=\"User:W.W.Thaler\"\u003eW.W.Thaler - H. Weber, Hildesheim\u003c/a\u003e"
+    }
   ]
 }

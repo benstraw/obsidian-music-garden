@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "2hGh5VOeeqimQFxqXvfCUf",
   "name": "John Coltrane",
+  "spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf",
   "source_genres": [
     "bebop",
     "cool jazz",
@@ -9,5 +10,96 @@
     "hard bop",
     "jazz",
     "jazz ballads"
+  ],
+  "canonical_genre_slugs": [
+    "bebop",
+    "cool-jazz",
+    "free-jazz",
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "John Coltrane",
+  "summary": "John William Coltrane was an American jazz saxophonist, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+  "candidates": [
+    "John Coleraine Hanbury Barcroft",
+    "John Coltrane",
+    "John Coltrane Home",
+    "John Coltrane House",
+    "John Coltrane Infinity",
+    "John Coltrane and Johnny Hartman",
+    "John Coltrane discography",
+    "John Coltrane sessionography",
+    "John Coltrane with the Red Garland Trio",
+    "The John Coltrane Quartet Plays"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Coltrane",
+    "page_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+    "retrieved_at": "2026-03-27T09:26:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:ColtraneH.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:ColtraneH.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/ColtraneH.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/960px-ColtraneH.jpg",
+    "width": 5152,
+    "height": 4037,
+    "license": "Public domain",
+    "author": "Photocaption not digitized"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ColtraneH.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:ColtraneH.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/ColtraneH.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ColtraneH.jpg/960px-ColtraneH.jpg",
+      "width": 5152,
+      "height": 4037,
+      "license": "Public domain",
+      "author": "Photocaption not digitized"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Coltranechurch1k.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Coltranechurch1k.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Coltranechurch1k.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Coltranechurch1k.jpg/960px-Coltranechurch1k.jpg",
+      "width": 1999,
+      "height": 1228,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Freimut_Bahlo\" title=\"User:Freimut Bahlo\"\u003eFreimut Bahlo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Giant Steps.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gloriole blur.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gloriole_blur.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Gloriole_blur.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gloriole_blur.svg/960px-Gloriole_blur.svg.png",
+      "width": 32,
+      "height": 28,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eEubulides\u003c/a\u003e"
+    }
   ]
 }

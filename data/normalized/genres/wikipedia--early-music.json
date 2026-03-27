@@ -1,0 +1,97 @@
+{
+  "source": "wikipedia",
+  "source_genre": "early music",
+  "canonical_genre_slug": "early-music",
+  "status": "matched",
+  "page_title": "Early music",
+  "summary": "Early music generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1750) or Ancient music. Originating in Europe, early music is a broad musical era for the beginning of Western classical music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Early_music",
+  "candidates": [
+    "Early music",
+    "Early music festivals",
+    "Early music of the British Isles",
+    "Early music revival",
+    "Early Music (journal)",
+    "Early Music Consort",
+    "Early Music (Lachrymæ Antiquæ)",
+    "Early Music History",
+    "Early Music New York",
+    "Early-music.com"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Early music",
+    "page_url": "https://en.wikipedia.org/wiki/Early_music",
+    "retrieved_at": "2026-03-27T09:30:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Akademie für Alte Musik Berlin 3608.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG/960px-Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+    "width": 3264,
+    "height": 2448,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Amadalvarez\" title=\"User:Amadalvarez\"\u003eAmadalvarez\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Akademie für Alte Musik Berlin 3608.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG/960px-Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Amadalvarez\" title=\"User:Amadalvarez\"\u003eAmadalvarez\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Francesco Francia - Madonna and Saints (detail) - WGA08174.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Francesco_Francia_-_Madonna_and_Saints_(detail)_-_WGA08174.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Francesco_Francia_-_Madonna_and_Saints_%28detail%29_-_WGA08174.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Francesco_Francia_-_Madonna_and_Saints_%28detail%29_-_WGA08174.jpg/960px-Francesco_Francia_-_Madonna_and_Saints_%28detail%29_-_WGA08174.jpg",
+      "width": 1030,
+      "height": 730,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Francesco_Francia\" class=\"extiw\" title=\"w:en:Francesco Francia\"\u003e\u003cspan title=\"Italian painter (1450-1517)\"\u003eFrancesco Francia\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    }
+  ]
+}

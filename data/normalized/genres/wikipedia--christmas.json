@@ -1,0 +1,97 @@
+{
+  "source": "wikipedia",
+  "source_genre": "christmas",
+  "canonical_genre_slug": "christmas",
+  "status": "matched",
+  "page_title": "Christmas",
+  "summary": "Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. A liturgical feast central to Christianity, Christmas preparation begins on the First Sunday of Advent. Advent is followed by Christmastide, which historically in the West lasts twelve days and culminates on Twelfth Night. Christmas Day is a public holiday in many countries and is observed by a majority of Christians; it is also celebrated culturally by many non-Christians and forms an integral part of the annual holiday season.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Christmas",
+  "candidates": [
+    "Christmas",
+    "Christmas Island",
+    "A Christmas Carol",
+    "Christmas and holiday season",
+    "List of Christmas films",
+    "Christmas tree",
+    "Christmas truce",
+    "Christmas Eve",
+    "Christmas controversies",
+    "Christmas music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Christmas",
+    "page_url": "https://en.wikipedia.org/wiki/Christmas",
+    "retrieved_at": "2026-03-27T09:30:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:046CupolaSPietro.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+    "width": 800,
+    "height": 600,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MarkusMark\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MarkusMark (page does not exist)\"\u003eMarkusMark\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:046CupolaSPietro.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MarkusMark\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MarkusMark (page does not exist)\"\u003eMarkusMark\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1962 Entrance Hall (Official White House) Christmas tree - Jack and Jacqueline Kennedy.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1962_Entrance_Hall_(Official_White_House)_Christmas_tree_-_Jack_and_Jacqueline_Kennedy.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/1962_Entrance_Hall_%28Official_White_House%29_Christmas_tree_-_Jack_and_Jacqueline_Kennedy.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1962_Entrance_Hall_%28Official_White_House%29_Christmas_tree_-_Jack_and_Jacqueline_Kennedy.jpg/960px-1962_Entrance_Hall_%28Official_White_House%29_Christmas_tree_-_Jack_and_Jacqueline_Kennedy.jpg",
+      "width": 3000,
+      "height": 2960,
+      "license": "Public domain",
+      "author": "Robert Knudsen (White House)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adolph Tidemand Norsk juleskik.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adolph_Tidemand_Norsk_juleskik.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Adolph_Tidemand_Norsk_juleskik.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Adolph_Tidemand_Norsk_juleskik.jpg",
+      "width": 445,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Adolph_Tidemand\" class=\"extiw\" title=\"w:en:Adolph Tidemand\"\u003e\u003cspan title=\"Norwegian painter (1814-1876)\"\u003eAdolph Tidemand\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adoration of the sheperds - Matthias Stomer.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_sheperds_-_Matthias_Stomer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Adoration_of_the_sheperds_-_Matthias_Stomer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Adoration_of_the_sheperds_-_Matthias_Stomer.jpg/960px-Adoration_of_the_sheperds_-_Matthias_Stomer.jpg",
+      "width": 8136,
+      "height": 5504,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Paris_Orlando\" title=\"User:Paris Orlando\"\u003eParis Orlando\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bezbozhnik u stanka - Run along, Lord, 1931, n. 22.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bezbozhnik_u_stanka_-_Run_along,_Lord,_1931,_n._22.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bezbozhnik_u_stanka_-_Run_along%2C_Lord%2C_1931%2C_n._22.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bezbozhnik_u_stanka_-_Run_along%2C_Lord%2C_1931%2C_n._22.jpg/960px-Bezbozhnik_u_stanka_-_Run_along%2C_Lord%2C_1931%2C_n._22.jpg",
+      "width": 4310,
+      "height": 5970,
+      "license": "Public domain",
+      "author": "staff of Bezbozhnik"
+    }
+  ]
+}

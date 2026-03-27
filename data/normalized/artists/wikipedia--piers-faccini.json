@@ -1,0 +1,49 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "piers-faccini",
+  "name": "Piers Faccini",
+  "status": "matched",
+  "page_title": "Piers Faccini",
+  "summary": "Piers Damian G. Faccini is an English singer, painter, and songwriter.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Piers_Faccini",
+  "candidates": [
+    "Piers Faccini",
+    "Pietro Faccini",
+    "Roberto Pieraccini",
+    "Giovanni Pieraccini",
+    "Carmen Pieraccini",
+    "Pieraccini"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Piers Faccini",
+    "page_url": "https://en.wikipedia.org/wiki/Piers_Faccini",
+    "retrieved_at": "2026-03-27T09:27:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Piersfaccini.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Piersfaccini.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Piersfaccini.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Piersfaccini.jpg/960px-Piersfaccini.jpg",
+    "width": 1600,
+    "height": 1063,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sixlocal\" title=\"User:Sixlocal\"\u003eSixlocal\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Piersfaccini.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Piersfaccini.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Piersfaccini.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Piersfaccini.jpg/960px-Piersfaccini.jpg",
+      "width": 1600,
+      "height": 1063,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sixlocal\" title=\"User:Sixlocal\"\u003eSixlocal\u003c/a\u003e"
+    }
+  ]
+}

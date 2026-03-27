@@ -1,4 +1,44 @@
 {
   "canonical_slug": "jazz-ballads",
-  "pending": true
+  "display_title": "Jazz Ballads",
+  "display_name": "Jazz Ballads",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Sentimental ballad",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sentimental_ballad",
+  "summary": "A sentimental ballad is an emotional style of music that often deals with romantic and intimate relationships, and to a lesser extent, loneliness, death, war, drug abuse, politics and religion, usually in a poignant but solemn manner. Ballads are generally melodic enough to capture the listener's attention.",
+  "candidates": [
+    "Jazz ballads"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sentimental ballad",
+    "page_url": "https://en.wikipedia.org/wiki/Sentimental_ballad",
+    "retrieved_at": "2026-03-27T09:31:12Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-ballads.json",
+      "url": "https://en.wikipedia.org/wiki/Sentimental_ballad",
+      "retrieved_at": "2026-03-27T09:31:12Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

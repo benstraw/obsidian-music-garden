@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AChorus+%2B+delay+%28electric+guitar%29+stereo.ogg",
+  "cache_key": "commons-images/dream-pop--file-chorus-delay-electric-guitar-stereo-ogg",
+  "fetched_at": "2026-03-27T09:30:34Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

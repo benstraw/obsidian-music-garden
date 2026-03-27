@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/ec21cced-2d22-4883-9ee3-f642e6e52f58",
+  "request_url": "https://musicbrainz.org/ws/2/artist/ec21cced-2d22-4883-9ee3-f642e6e52f58?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/ec21cced-2d22-4883-9ee3-f642e6e52f58",
+  "fetched_at": "2026-03-27T09:33:12Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,4 +1,364 @@
 {
   "canonical_slug": "bebop",
-  "pending": true
+  "display_title": "Bebop",
+  "display_name": "Bebop",
+  "parent_slug": "jazz",
+  "aliases": [
+    "bebop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Bebop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bebop",
+  "summary": "Bebop or bop is a style of jazz developed in the early to mid-1940s in the United States. It is characterized by a fast tempo, complex chord progressions—with rapid chord changes, changes of key, and substitute chords—along with virtuosic improvisation based on a combination of harmonic structure, scales, and occasional references to the melody.",
+  "candidates": [
+    "BeBopBeBopBeBopBeBop",
+    "Bebop",
+    "Bebop \u0026 Beyond",
+    "Bebop (software)",
+    "Bebop Deluxe",
+    "Bebop Lives!",
+    "Bebop Moptop",
+    "Bebop Revisited!",
+    "Bebop and Rocksteady",
+    "Bebop scale"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bebop",
+    "page_url": "https://en.wikipedia.org/wiki/Bebop",
+    "retrieved_at": "2026-03-27T09:29:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Bebop-rebop\" early bop phrase.mid",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.mid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%22Bebop-rebop%22_early_bop_phrase.mid",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Bebop-rebop\" early bop phrase.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%22Bebop-rebop%22_early_bop_phrase.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Bebop-rebop\" early bop phrase.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%22Bebop-rebop%22_early_bop_phrase.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%22Bebop-rebop%22_early_bop_phrase.png/960px-%22Bebop-rebop%22_early_bop_phrase.png",
+      "width": 1103,
+      "height": 225,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:52nd Street, New York, by Gottlieb, 1948.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:52nd_Street,_New_York,_by_Gottlieb,_1948.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/52nd_Street%2C_New_York%2C_by_Gottlieb%2C_1948.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/52nd_Street%2C_New_York%2C_by_Gottlieb%2C_1948.jpg/960px-52nd_Street%2C_New_York%2C_by_Gottlieb%2C_1948.jpg",
+      "width": 4391,
+      "height": 3307,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Parker, Tommy Potter, Miles Davis, Max Roach (Gottlieb 06941).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Max_Roach_(Gottlieb_06941).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Max_Roach_%28Gottlieb_06941%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Max_Roach_%28Gottlieb_06941%29.jpg",
+      "width": 912,
+      "height": 1256,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dizzy Gillespie at the Downbeat Club, ca 1947.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dizzy_Gillespie_at_the_Downbeat_Club,_ca_1947.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Dizzy_Gillespie_at_the_Downbeat_Club%2C_ca_1947.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dizzy_Gillespie_at_the_Downbeat_Club%2C_ca_1947.jpg/960px-Dizzy_Gillespie_at_the_Downbeat_Club%2C_ca_1947.jpg",
+      "width": 2081,
+      "height": 4893,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 18,
+    "unique_artist_count": 6,
+    "unique_release_count": 9,
+    "unique_track_count": 10,
+    "first_played_at": "2026-02-26T02:46:11.482Z",
+    "last_played_at": "2026-03-19T01:35:34.990Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "miles-davis",
+      "name": "Miles Davis",
+      "play_count": 13,
+      "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    {
+      "canonical_slug": "bill-evans",
+      "name": "Bill Evans",
+      "play_count": 1,
+      "spotify_artist_id": "4jXfFzeP66Zy67HM2mvIIF",
+      "spotify_url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    {
+      "canonical_slug": "gil-evans",
+      "name": "Gil Evans",
+      "play_count": 1,
+      "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+      "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+    },
+    {
+      "canonical_slug": "john-coltrane",
+      "name": "John Coltrane",
+      "play_count": 1,
+      "spotify_artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+      "spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    {
+      "canonical_slug": "miles-davis-quintet",
+      "name": "Miles Davis Quintet",
+      "play_count": 1,
+      "spotify_artist_id": "71Ur25Abq58vksqJINpGdx",
+      "spotify_url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+    },
+    {
+      "canonical_slug": "ornette-coleman",
+      "name": "Ornette Coleman",
+      "play_count": 1,
+      "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
+      "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "miles-davis--in-a-silent-way",
+      "name": "In A Silent Way",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "miles-davis-quintet--blue-moods",
+      "name": "Blue Moods",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis-quintet",
+      "primary_artist_name": "Miles Davis Quintet"
+    },
+    {
+      "canonical_slug": "miles-davis--get-up-with-it",
+      "name": "Get Up With It",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "john-coltrane--giant-steps-mono",
+      "name": "Giant Steps (Mono)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-coltrane",
+      "primary_artist_name": "John Coltrane"
+    },
+    {
+      "canonical_slug": "gil-evans--sketches-of-spain",
+      "name": "Sketches of Spain",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-evans",
+      "primary_artist_name": "Gil Evans"
+    },
+    {
+      "canonical_slug": "miles-davis--someday-my-prince-will-come",
+      "name": "Someday My Prince Will Come",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
+      "name": "The Shape Of Jazz To Come",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman"
+    },
+    {
+      "canonical_slug": "miles-davis--volume-2-vol-2",
+      "name": "Volume 2 (Vol. 2)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "bill-evans--you-must-believe-in-spring-remastered-version",
+      "name": "You Must Believe In Spring (Remastered Version)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bill-evans",
+      "primary_artist_name": "Bill Evans"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "miles-davis--in-a-silent-way",
+      "name": "In a Silent Way",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--in-a-silent-way",
+      "release_name": "In A Silent Way",
+      "spotify_track_id": "54a3lHJAwce1dOKrsDPEHv",
+      "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
+    },
+    {
+      "canonical_slug": "miles-davis--shhh-peaceful",
+      "name": "Shhh / Peaceful",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--in-a-silent-way",
+      "release_name": "In A Silent Way",
+      "spotify_track_id": "267lVml7gJ9xefwgO6E2Ag",
+      "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
+    },
+    {
+      "canonical_slug": "miles-davis--drad-dog-feat-hank-mobley-wynton-kelly-paul-chambers-and-jimmy-cobb",
+      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--someday-my-prince-will-come",
+      "release_name": "Someday My Prince Will Come",
+      "spotify_track_id": "6uvcEIzqz9mhRcEhrsODgf",
+      "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
+    },
+    {
+      "canonical_slug": "bill-evans--gary-s-theme-remastered-2003",
+      "name": "Gary's Theme - Remastered 2003",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bill-evans",
+      "primary_artist_name": "Bill Evans",
+      "release_canonical_slug": "bill-evans--you-must-believe-in-spring-remastered-version",
+      "release_name": "You Must Believe In Spring (Remastered Version)",
+      "spotify_track_id": "3f9KhpRN6mMYoVnpuozgHD",
+      "spotify_url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
+    },
+    {
+      "canonical_slug": "miles-davis--i-waited-for-you-remastered-1998",
+      "name": "I Waited For You - Remastered 1998",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--volume-2-vol-2",
+      "release_name": "Volume 2 (Vol. 2)",
+      "spotify_track_id": "5h7ww9vWMlfYJ2cPhmt9pz",
+      "spotify_url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "canonical_slug": "ornette-coleman--lonely-woman",
+      "name": "Lonely Woman",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman",
+      "release_canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
+      "release_name": "The Shape Of Jazz To Come",
+      "spotify_track_id": "23aDP04QX8MAHA99FLaPtN",
+      "spotify_url": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN"
+    },
+    {
+      "canonical_slug": "john-coltrane--naima-mono",
+      "name": "Naima - Mono",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-coltrane",
+      "primary_artist_name": "John Coltrane",
+      "release_canonical_slug": "john-coltrane--giant-steps-mono",
+      "release_name": "Giant Steps (Mono)",
+      "spotify_track_id": "5cAwEKmadsW4nCYe9QUvgU",
+      "spotify_url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
+    },
+    {
+      "canonical_slug": "miles-davis-quintet--nature-boy",
+      "name": "Nature Boy",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis-quintet",
+      "primary_artist_name": "Miles Davis Quintet",
+      "release_canonical_slug": "miles-davis-quintet--blue-moods",
+      "release_name": "Blue Moods",
+      "spotify_track_id": "2tYCyhnQ3EYIK0YlsGExMa",
+      "spotify_url": "https://open.spotify.com/track/2tYCyhnQ3EYIK0YlsGExMa"
+    },
+    {
+      "canonical_slug": "miles-davis--red-china-blues",
+      "name": "Red China Blues",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--get-up-with-it",
+      "release_name": "Get Up With It",
+      "spotify_track_id": "0AEXHSEdAohlHhYIt6tcUf",
+      "spotify_url": "https://open.spotify.com/track/0AEXHSEdAohlHhYIt6tcUf"
+    },
+    {
+      "canonical_slug": "gil-evans--will-o-the-wisp",
+      "name": "Will O' the Wisp",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-evans",
+      "primary_artist_name": "Gil Evans",
+      "release_canonical_slug": "gil-evans--sketches-of-spain",
+      "release_name": "Sketches of Spain",
+      "spotify_track_id": "3lpRlIEa9gnUXFHjDgI97p",
+      "spotify_url": "https://open.spotify.com/track/3lpRlIEa9gnUXFHjDgI97p"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bebop.json",
+      "url": "https://en.wikipedia.org/wiki/Bebop",
+      "retrieved_at": "2026-03-27T09:29:57Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--bebop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.mid",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:35:34.990Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

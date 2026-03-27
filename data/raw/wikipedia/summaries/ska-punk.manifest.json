@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Ska%20punk",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Ska%20punk",
+  "cache_key": "summaries/ska-punk",
+  "fetched_at": "2026-03-27T09:32:02Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

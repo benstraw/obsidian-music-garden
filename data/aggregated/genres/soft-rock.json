@@ -1,4 +1,184 @@
 {
   "canonical_slug": "soft-rock",
-  "pending": true
+  "display_title": "Soft Rock",
+  "display_name": "Soft Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "soft rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Soft rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Soft_rock",
+  "summary": "Soft rock is a form of rock music that originated in the late 1960s in the United States and the United Kingdom which smoothed over the edges of singer-songwriter and pop rock, relying on simple, melodic songs with big, lush productions. Soft rock was prevalent on the radio throughout the 1970s and eventually metamorphosed into a form of the synthesized music of adult contemporary in the 1980s.",
+  "candidates": [
+    "Sob Rock",
+    "Soft Focus with Jena Friedman",
+    "Soft Rock",
+    "Soft Rock (album)",
+    "Soft Rocked By Me",
+    "Soft focus",
+    "Soft robotics",
+    "Soft rock",
+    "Soft/Rock",
+    "The Soft Pack"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soft rock",
+    "page_url": "https://en.wikipedia.org/wiki/Soft_rock",
+    "retrieved_at": "2026-03-27T09:32:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox current red Asia Australia.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+    "width": 360,
+    "height": 290,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Asia Australia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 4,
+    "unique_artist_count": 2,
+    "unique_release_count": 3,
+    "unique_track_count": 4,
+    "first_played_at": "2026-02-16T02:08:58.308Z",
+    "last_played_at": "2026-03-03T02:11:03.432Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "mark-knopfler",
+      "name": "Mark Knopfler",
+      "play_count": 3,
+      "spotify_artist_id": "0FI0kxP0BWurTz8cB8BBug",
+      "spotify_url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+    },
+    {
+      "canonical_slug": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "play_count": 1,
+      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "mark-knopfler--all-the-roadrunning",
+      "name": "All The Roadrunning",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "mark-knopfler",
+      "primary_artist_name": "Mark Knopfler"
+    },
+    {
+      "canonical_slug": "mark-knopfler--real-live-roadrunning",
+      "name": "Real Live Roadrunning",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mark-knopfler",
+      "primary_artist_name": "Mark Knopfler"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--rumours-super-deluxe",
+      "name": "Rumours (Super Deluxe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "mark-knopfler--beyond-my-wildest-dreams",
+      "name": "Beyond My Wildest Dreams",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mark-knopfler",
+      "primary_artist_name": "Mark Knopfler",
+      "release_canonical_slug": "mark-knopfler--all-the-roadrunning",
+      "release_name": "All The Roadrunning",
+      "spotify_track_id": "3SlOROUWa6OQe77oID5nix",
+      "spotify_url": "https://open.spotify.com/track/3SlOROUWa6OQe77oID5nix"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--dreams-2004-remaster",
+      "name": "Dreams - 2004 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "release_canonical_slug": "fleetwood-mac--rumours-super-deluxe",
+      "release_name": "Rumours (Super Deluxe)",
+      "spotify_track_id": "0ofHAoxe9vBkTCp2UQIavz",
+      "spotify_url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "canonical_slug": "mark-knopfler--love-and-happiness",
+      "name": "Love and Happiness",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mark-knopfler",
+      "primary_artist_name": "Mark Knopfler",
+      "release_canonical_slug": "mark-knopfler--all-the-roadrunning",
+      "release_name": "All The Roadrunning",
+      "spotify_track_id": "0cnFQVdwqvAkq3MinhdCf0",
+      "spotify_url": "https://open.spotify.com/track/0cnFQVdwqvAkq3MinhdCf0"
+    },
+    {
+      "canonical_slug": "mark-knopfler--our-shangri-la-live-at-gibson-amphitheatre-june-28th-2006",
+      "name": "Our Shangri-La - Live At Gibson Amphitheatre / June 28th 2006",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mark-knopfler",
+      "primary_artist_name": "Mark Knopfler",
+      "release_canonical_slug": "mark-knopfler--real-live-roadrunning",
+      "release_name": "Real Live Roadrunning",
+      "spotify_track_id": "6r4e2Yjlt4opFysenbx08o",
+      "spotify_url": "https://open.spotify.com/track/6r4e2Yjlt4opFysenbx08o"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--soft-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Soft_rock",
+      "retrieved_at": "2026-03-27T09:32:03Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--soft-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T02:11:03.432Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

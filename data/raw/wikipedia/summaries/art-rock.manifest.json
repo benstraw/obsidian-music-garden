@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Art%20rock",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Art%20rock",
+  "cache_key": "summaries/art-rock",
+  "fetched_at": "2026-03-27T09:29:52Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

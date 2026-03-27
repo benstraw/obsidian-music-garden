@@ -1,0 +1,94 @@
+{
+  "source": "wikipedia",
+  "source_genre": "ballet",
+  "canonical_genre_slug": "ballet",
+  "status": "matched",
+  "page_title": "Ballet",
+  "summary": "Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. It has since become a widespread and highly technical form of dance with its own vocabulary. Ballet has been influential globally and has defined the foundational techniques which are used in many other dance genres and cultures. Various schools around the world have incorporated their own cultures. As a result, ballet has evolved in distinct ways.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ballet",
+  "candidates": [
+    "Ballet",
+    "Ballets Russes",
+    "Ballet dancer",
+    "Ballet Mécanique",
+    "Ballet and fashion",
+    "Ballet Russe de Monte-Carlo",
+    "Ballet company",
+    "Ballet Shoes (film)",
+    "Les Ballets Persans",
+    "Ballet flat"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ballet",
+    "page_url": "https://en.wikipedia.org/wiki/Ballet",
+    "retrieved_at": "2026-03-27T09:29:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Agrippina Vaganova -Esmeralda 1910.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Agrippina_Vaganova_-Esmeralda_1910.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Agrippina_Vaganova_-Esmeralda_1910.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Agrippina_Vaganova_-Esmeralda_1910.jpg",
+    "width": 957,
+    "height": 1233,
+    "license": "Public domain",
+    "author": "Unknown\u003cbr\u003e\u003csmall\u003e〔The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Mrlopez2681\" class=\"extiw\" title=\"wikipedia:User:Mrlopez2681\"\u003eMrlopez2681\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e.〕\u003c/small\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Agrippina Vaganova -Esmeralda 1910.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Agrippina_Vaganova_-Esmeralda_1910.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Agrippina_Vaganova_-Esmeralda_1910.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Agrippina_Vaganova_-Esmeralda_1910.jpg",
+      "width": 957,
+      "height": 1233,
+      "license": "Public domain",
+      "author": "Unknown\u003cbr\u003e\u003csmall\u003e〔The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Mrlopez2681\" class=\"extiw\" title=\"wikipedia:User:Mrlopez2681\"\u003eMrlopez2681\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e.〕\u003c/small\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anna Pavlova 1912.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anna_Pavlova_1912.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Anna_Pavlova_1912.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Anna_Pavlova_1912.jpg",
+      "width": 900,
+      "height": 1408,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:August Bournonville by E. Lange.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:August_Bournonville_by_E._Lange.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/August_Bournonville_by_E._Lange.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/August_Bournonville_by_E._Lange.jpg/960px-August_Bournonville_by_E._Lange.jpg",
+      "width": 1024,
+      "height": 1605,
+      "license": "Public domain",
+      "author": "E. Lange"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ballet de la nuit 1653.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ballet_de_la_nuit_1653.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ballet_de_la_nuit_1653.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ballet_de_la_nuit_1653.jpg/960px-Ballet_de_la_nuit_1653.jpg",
+      "width": 1020,
+      "height": 1566,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Henri_de_Gissey\" class=\"extiw\" title=\"w:en:Henri de Gissey\"\u003e\u003cspan title=\"French artist (1621-1673)\"\u003eHenri de Gissey\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ballets Russes - Apollo musagète.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ballets_Russes_-_Apollo_musag%C3%A8te.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ballets_Russes_-_Apollo_musag%C3%A8te.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Ballets_Russes_-_Apollo_musag%C3%A8te.jpg",
+      "width": 640,
+      "height": 474,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ]
+}

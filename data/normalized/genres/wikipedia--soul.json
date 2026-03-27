@@ -1,0 +1,97 @@
+{
+  "source": "wikipedia",
+  "source_genre": "soul",
+  "canonical_genre_slug": "soul",
+  "status": "matched",
+  "page_title": "Soul",
+  "summary": "In religion and philosophy, the soul is the immaterial aspect or essence of a living being. It is typically believed to be immortal and to exist apart from the material world. Anthropologists and psychologists have found that most humans believe in the existence of a soul or spirit, and that they have cross-culturally distinguished between soul and body.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Soul",
+  "candidates": [
+    "Soul",
+    "Soulja Boy",
+    "Soul music",
+    "Soul (2020 film)",
+    "Soulcalibur",
+    "Soul Eater",
+    "Mariam Soulakiotis",
+    "Soul food",
+    "Jean-de-Dieu Soult",
+    "David Soul"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soul",
+    "page_url": "https://en.wikipedia.org/wiki/Soul",
+    "retrieved_at": "2026-03-27T09:32:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:4DModel.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:4DModel.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/4DModel.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/4DModel.jpg/960px-4DModel.jpg",
+    "width": 1683,
+    "height": 1160,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:4DModel.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:4DModel.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/4DModel.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/4DModel.jpg/960px-4DModel.jpg",
+      "width": 1683,
+      "height": 1160,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aristotelian Soul.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aristotelian_Soul.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Aristotelian_Soul.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Aristotelian_Soul.png",
+      "width": 913,
+      "height": 505,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chiswick_Chap\" title=\"User:Chiswick Chap\"\u003eIan Alexander\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Atman.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Atman.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Atman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Atman.jpg/960px-Atman.jpg",
+      "width": 1140,
+      "height": 1084,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Vijay K. Jain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Avicenna-miniatur.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Avicenna-miniatur.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Avicenna-miniatur.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Avicenna-miniatur.jpg",
+      "width": 801,
+      "height": 1249,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duncan MacDougall physician.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duncan_MacDougall_physician.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Duncan_MacDougall_physician.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Duncan_MacDougall_physician.png",
+      "width": 355,
+      "height": 436,
+      "license": "Public domain",
+      "author": "\u003cspan lang=\"en\"\u003eAnonymous\u003c/span\u003e\u003cspan style=\"display:none\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ]
+}

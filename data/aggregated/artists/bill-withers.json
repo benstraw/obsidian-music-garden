@@ -2,6 +2,10 @@
   "canonical_slug": "bill-withers",
   "name": "Bill Withers",
   "spotify_artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+  "spotify_url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+  "genres": [
+    "soul"
+  ],
   "source_genres": [
     "soul"
   ],
@@ -27,5 +31,97 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Bill Withers",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Withers",
+  "summary": "William Harrison Withers Jr. was an American soul and R\u0026B singer and songwriter. Born in Slab Fork, West Virginia, and raised in Beckley, West Virginia, he is known for having several hits over a career spanning 18 years, including \"Ain't No Sunshine\" (1971), \"Grandma's Hands\" (1971), \"Use Me\" (1972), \"Lean on Me\" (1972), \"Lovely Day\" (1977) and \"Just the Two of Us\" (1980). Withers won three Grammy Awards out of nine total nominations.",
+  "candidates": [
+    "Bill Watterson",
+    "Bill Wilkerson (business executive)",
+    "Bill Winters",
+    "Bill Winters (gridiron football)",
+    "Bill Withers",
+    "Bill Withers (politician)",
+    "Bill Withers (snooker player)",
+    "Bill Withers discography",
+    "Bill Withers' Greatest Hits",
+    "Bill Withers/ Al Green/ Viola Wills"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bill Withers",
+    "page_url": "https://en.wikipedia.org/wiki/Bill_Withers",
+    "retrieved_at": "2026-03-27T09:24:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bill Withers - Just As I Am, 1971 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Withers_-_Just_As_I_Am,_1971_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bill_Withers_-_Just_As_I_Am%2C_1971_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bill_Withers_-_Just_As_I_Am%2C_1971_%28cropped%29.jpg/960px-Bill_Withers_-_Just_As_I_Am%2C_1971_%28cropped%29.jpg",
+    "width": 1197,
+    "height": 766,
+    "license": "Public domain",
+    "author": "Sussex Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Withers - Just As I Am, 1971 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Withers_-_Just_As_I_Am,_1971_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bill_Withers_-_Just_As_I_Am%2C_1971_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bill_Withers_-_Just_As_I_Am%2C_1971_%28cropped%29.jpg/960px-Bill_Withers_-_Just_As_I_Am%2C_1971_%28cropped%29.jpg",
+      "width": 1197,
+      "height": 766,
+      "license": "Public domain",
+      "author": "Sussex Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Withers 1976.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Withers_1976.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bill_Withers_1976.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bill_Withers_1976.JPG",
+      "width": 741,
+      "height": 920,
+      "license": "Public domain",
+      "author": "Columbia Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Withers at the Rock and Roll Hall of Fame 02.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Withers_at_the_Rock_and_Roll_Hall_of_Fame_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bill_Withers_at_the_Rock_and_Roll_Hall_of_Fame_02.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bill_Withers_at_the_Rock_and_Roll_Hall_of_Fame_02.jpg/960px-Bill_Withers_at_the_Rock_and_Roll_Hall_of_Fame_02.jpg",
+      "width": 2376,
+      "height": 3168,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "onetwothreefourfive"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Withers tribute concert (2008-08-09) - Bill Withers and Kori Withers 3163.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Withers_tribute_concert_(2008-08-09)_-_Bill_Withers_and_Kori_Withers_3163.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bill_Withers_tribute_concert_%282008-08-09%29_-_Bill_Withers_and_Kori_Withers_3163.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bill_Withers_tribute_concert_%282008-08-09%29_-_Bill_Withers_and_Kori_Withers_3163.jpg/960px-Bill_Withers_tribute_concert_%282008-08-09%29_-_Bill_Withers_and_Kori_Withers_3163.jpg",
+      "width": 1825,
+      "height": 2281,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "annulla"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lean on me by bill withers side-A 1985 US reissue.tif",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lean_on_me_by_bill_withers_side-A_1985_US_reissue.tif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lean_on_me_by_bill_withers_side-A_1985_US_reissue.tif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lean_on_me_by_bill_withers_side-A_1985_US_reissue.tif/lossless-page1-500px-Lean_on_me_by_bill_withers_side-A_1985_US_reissue.tif.png",
+      "width": 600,
+      "height": 600,
+      "license": "Public domain",
+      "author": "Eric Records"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

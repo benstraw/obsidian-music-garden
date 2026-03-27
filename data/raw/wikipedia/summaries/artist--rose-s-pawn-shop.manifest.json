@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Rose%27s%20Pawn%20Shop",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Rose%27s%20Pawn%20Shop",
+  "cache_key": "summaries/artist--rose-s-pawn-shop",
+  "fetched_at": "2026-03-27T09:27:47Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

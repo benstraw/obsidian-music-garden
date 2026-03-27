@@ -1,0 +1,16 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+  "name": "Bleachers",
+  "musicbrainz_artist_id": "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+  "source_genres": [
+    "alternative rock",
+    "indie rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "indie-rock",
+    "rock"
+  ]
+}

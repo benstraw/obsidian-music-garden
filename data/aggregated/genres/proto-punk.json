@@ -1,4 +1,79 @@
 {
   "canonical_slug": "proto-punk",
-  "pending": true
+  "display_title": "Proto-Punk",
+  "display_name": "Proto-Punk",
+  "parent_slug": "rock",
+  "aliases": [
+    "proto punk"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Proto-Munda language",
+    "Proto-Muskogean",
+    "Proto-Panoan",
+    "Proto-Puroik language",
+    "Proto-Tungusic",
+    "Proto-Turkic language",
+    "Proto-cuneiform",
+    "Proto-punk",
+    "Proton-M",
+    "Protopone"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-01T02:18:46.227Z",
+    "last_played_at": "2026-03-08T19:43:21.144Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "can--vitamin-c-2004-remastered-version",
+      "name": "Vitamin C - 2004 Remastered Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
+      "release_name": "Ege Bamyasi (Remastered Version)",
+      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
+      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T19:43:21.144Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

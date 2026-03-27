@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AKendrick+Lamar+%40+Grosse+Freiheit+36%2C+Hamburg+%289498448120%29+%28cropped%29.jpg",
+  "fetched_at": "2026-03-27T09:32:19Z",
+  "content_type": "application/json; charset=utf-8"
+}

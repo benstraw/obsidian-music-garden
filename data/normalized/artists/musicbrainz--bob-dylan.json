@@ -1,0 +1,39 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "72c536dc-7137-4477-a521-567eeb840fa8",
+  "name": "Bob Dylan",
+  "musicbrainz_artist_id": "72c536dc-7137-4477-a521-567eeb840fa8",
+  "source_genres": [
+    "blues",
+    "blues rock",
+    "classic rock",
+    "contemporary folk",
+    "country",
+    "country rock",
+    "folk",
+    "folk rock",
+    "gospel",
+    "jazz",
+    "pop rock",
+    "rock",
+    "roots rock",
+    "singer-songwriter",
+    "traditional pop",
+    "bob dylan - where are you now my blue eyed son",
+    "greenwich village scene",
+    "singer/songwriter"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "blues-rock",
+    "classic-rock",
+    "country",
+    "country-rock",
+    "folk",
+    "folk-rock",
+    "jazz",
+    "pop",
+    "rock",
+    "singer-songwriter"
+  ]
+}

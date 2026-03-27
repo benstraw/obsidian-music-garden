@@ -2,6 +2,10 @@
   "canonical_slug": "dj-king-assassin",
   "name": "DJ King Assassin",
   "spotify_artist_id": "35GnZFTAWk2RLgqLWlpPbE",
+  "spotify_url": "https://open.spotify.com/artist/35GnZFTAWk2RLgqLWlpPbE",
+  "genres": [
+    "g-funk"
+  ],
   "source_genres": [
     "g-funk"
   ],
@@ -22,5 +26,56 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "DJ King Assassin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/DJ_King_Assassin",
+  "summary": "Craig Venegas Alvarado, known by his stage name DJ King Assassin, is an American disc jockey, producer, and engineer from Los Angeles, California.",
+  "candidates": [
+    "DJ King Assassin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "DJ King Assassin",
+    "page_url": "https://en.wikipedia.org/wiki/DJ_King_Assassin",
+    "retrieved_at": "2026-03-27T09:25:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dj king assassin wikipedia (43856777621).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dj_king_assassin_wikipedia_(43856777621).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dj_king_assassin_wikipedia_%2843856777621%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dj_king_assassin_wikipedia_%2843856777621%29.jpg",
+    "width": 625,
+    "height": 959,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39554177@N04\"\u003eDJKINGASSASSIN\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dj king assassin wikipedia (43856777621).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dj_king_assassin_wikipedia_(43856777621).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dj_king_assassin_wikipedia_%2843856777621%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dj_king_assassin_wikipedia_%2843856777621%29.jpg",
+      "width": 625,
+      "height": 959,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39554177@N04\"\u003eDJKINGASSASSIN\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

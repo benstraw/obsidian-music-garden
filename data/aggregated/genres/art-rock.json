@@ -1,7 +1,328 @@
 {
   "canonical_slug": "art-rock",
+  "display_title": "Art Rock",
+  "display_name": "Art Rock",
+  "parent_slug": "rock",
   "aliases": [
     "art rock"
   ],
-  "pending": false
+  "pending": false,
+  "status": "matched",
+  "wikipedia_title": "Art rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Art_rock",
+  "summary": "Art rock is a subgenre of rock music that aims to separate the genre from popular entertainment, with the term typically being applied as the middle ground between mainstream and experimental rock. Art rock primarily draws influences from the wider art world and academia; which includes contemporary art, art music, avant-garde art, experimental music, avant-garde music, alongside classical music and jazz.",
+  "candidates": [
+    "Art Monk",
+    "Art Robinson",
+    "Art Rock Circus",
+    "Art Rooney",
+    "Art Rooney II",
+    "Art Ross",
+    "Art of rock relief in ancient Iran",
+    "Art rock",
+    "Artrocker",
+    "Artrocker (magazine)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Art rock",
+    "page_url": "https://en.wikipedia.org/wiki/Art_rock",
+    "retrieved_at": "2026-03-27T09:29:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Brian Wilson Pet Sounds 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_Pet_Sounds_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+    "width": 921,
+    "height": 647,
+    "license": "Public domain",
+    "author": "Cashbox"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brian Wilson Pet Sounds 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_Pet_Sounds_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+      "width": 921,
+      "height": 647,
+      "license": "Public domain",
+      "author": "Cashbox"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DarkSideOfTheMoon1973.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DarkSideOfTheMoon1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DarkSideOfTheMoon1973.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DarkSideOfTheMoon1973.jpg/960px-DarkSideOfTheMoon1973.jpg",
+      "width": 1000,
+      "height": 690,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TimDuncan\" title=\"User:TimDuncan\"\u003eTimDuncan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Bowie 1975.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Bowie_1975.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_Bowie_1975.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_Bowie_1975.jpg",
+      "width": 717,
+      "height": 871,
+      "license": "Public domain",
+      "author": "RCA Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Phil Spector with MFQ 1965.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Phil_Spector_with_MFQ_1965.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Phil_Spector_with_MFQ_1965.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Phil_Spector_with_MFQ_1965.png",
+      "width": 663,
+      "height": 508,
+      "license": "Public domain",
+      "author": "Původní publikace : KRLA Beat, Beat Publications, 6. listopadu 1965, roč. 1, č. 34, s. 12."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Velvet Underground 1968 by Billy Name.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Velvet_Underground_1968_by_Billy_Name.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Velvet_Underground_1968_by_Billy_Name.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Velvet_Underground_1968_by_Billy_Name.png",
+      "width": 546,
+      "height": 820,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Billy_Name\" class=\"extiw\" title=\"en:Billy Name\"\u003eName, Billy\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 17,
+    "unique_artist_count": 4,
+    "unique_release_count": 6,
+    "unique_track_count": 14,
+    "first_played_at": "2026-03-01T02:18:46.227Z",
+    "last_played_at": "2026-03-25T18:02:01.875Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "pink-floyd",
+      "name": "Pink Floyd",
+      "play_count": 12,
+      "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    },
+    {
+      "canonical_slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "play_count": 2,
+      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 1,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "name": "A Saucerful of Secrets",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "pink-floyd--meddle",
+      "name": "Meddle",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN"
+    },
+    {
+      "canonical_slug": "frank-zappa--hot-rats",
+      "name": "Hot Rats",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa"
+    },
+    {
+      "canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
+      "name": "The Piper at the Gates of Dawn",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "david-bowie--young-americans-2016-remaster",
+      "name": "Young Americans (2016 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "pink-floyd--fearless",
+      "name": "Fearless",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
+      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
+      "canonical_slug": "frank-zappa--peaches-en-regalia",
+      "name": "Peaches En Regalia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa",
+      "release_canonical_slug": "frank-zappa--hot-rats",
+      "release_name": "Hot Rats",
+      "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
+      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+    },
+    {
+      "canonical_slug": "can--vitamin-c-2004-remastered-version",
+      "name": "Vitamin C - 2004 Remastered Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
+      "release_name": "Ege Bamyasi (Remastered Version)",
+      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
+      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    },
+    {
+      "canonical_slug": "pink-floyd--a-pillow-of-winds",
+      "name": "A Pillow of Winds",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
+      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+    },
+    {
+      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "name": "A Saucerful of Secrets",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "release_name": "A Saucerful of Secrets",
+      "spotify_track_id": "0OtkNB4TnTzrlid4zipYDV",
+      "spotify_url": "https://open.spotify.com/track/0OtkNB4TnTzrlid4zipYDV"
+    },
+    {
+      "canonical_slug": "pink-floyd--corporal-clegg",
+      "name": "Corporal Clegg",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "release_name": "A Saucerful of Secrets",
+      "spotify_track_id": "0GML1aXwt0GJH8XRvcH7Fl",
+      "spotify_url": "https://open.spotify.com/track/0GML1aXwt0GJH8XRvcH7Fl"
+    },
+    {
+      "canonical_slug": "david-bowie--fame-2016-remaster",
+      "name": "Fame - 2016 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--young-americans-2016-remaster",
+      "release_name": "Young Americans (2016 Remaster)",
+      "spotify_track_id": "1PehfITh0TTRx3LkDdV4h3",
+      "spotify_url": "https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3"
+    },
+    {
+      "canonical_slug": "pink-floyd--jugband-blues",
+      "name": "Jugband Blues",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "release_name": "A Saucerful of Secrets",
+      "spotify_track_id": "7L1n9EL0Sh0LMOyxDI7rxr",
+      "spotify_url": "https://open.spotify.com/track/7L1n9EL0Sh0LMOyxDI7rxr"
+    },
+    {
+      "canonical_slug": "pink-floyd--let-there-be-more-light",
+      "name": "Let There Be More Light",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "release_name": "A Saucerful of Secrets",
+      "spotify_track_id": "5xUz3xvyPPrNfnBrh9IOZa",
+      "spotify_url": "https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa"
+    },
+    {
+      "canonical_slug": "pink-floyd--matilda-mother",
+      "name": "Matilda Mother",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
+      "release_name": "The Piper at the Gates of Dawn",
+      "spotify_track_id": "6SlI8JYwFaESqre47wrQZz",
+      "spotify_url": "https://open.spotify.com/track/6SlI8JYwFaESqre47wrQZz"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--art-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Art_rock",
+      "retrieved_at": "2026-03-27T09:29:52Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--art-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_Pet_Sounds_2.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-25T18:02:01.875Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

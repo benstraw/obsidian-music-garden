@@ -1,0 +1,18 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "5db6febe-4179-459c-8d31-37cfc8d191a9",
+  "name": "Cross Canadian Ragweed",
+  "musicbrainz_artist_id": "5db6febe-4179-459c-8d31-37cfc8d191a9",
+  "source_genres": [
+    "country",
+    "folk",
+    "red dirt",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "country",
+    "folk",
+    "red-dirt",
+    "rock"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "source": "wikipedia",
+  "source_genre": "power pop",
+  "canonical_genre_slug": "power-pop",
+  "status": "matched",
+  "page_title": "Power pop",
+  "summary": "Power pop is a subgenre of rock music and a form of pop rock based on the early music of bands such as the Who, the Beatles, the Beach Boys, and the Byrds. It typically incorporates melodic hooks, vocal harmonies, an energetic performance, and cheerful-sounding music underpinned by a sense of yearning, longing, despair, or self-empowerment. The sound is primarily rooted in pop and rock traditions of the early-to-mid 1960s, although some artists have occasionally drawn from later styles such as punk, new wave, glam rock, pub rock, college rock, and neo-psychedelia.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Power_pop",
+  "candidates": [
+    "Power pop",
+    "PowerPC",
+    "Power over Ethernet",
+    "Power supply unit (computer)",
+    "Power Pros",
+    "Power Pack",
+    "Power conferences",
+    "Power-to-weight ratio",
+    "The Power of Love (Jennifer Rush song)",
+    "PowerPC 600"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Power pop",
+    "page_url": "https://en.wikipedia.org/wiki/Power_pop",
+    "retrieved_at": "2026-03-27T09:31:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cheaptrick1.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cheaptrick1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+    "width": 394,
+    "height": 296,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Malco23\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Malco23 (page does not exist)\"\u003eMalco23\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cheaptrick1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cheaptrick1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+      "width": 394,
+      "height": 296,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Malco23\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Malco23 (page does not exist)\"\u003eMalco23\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Go All the Way.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:I Want To Hold Your Hand (Beatles song - sample).ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sullivan Beach Boys (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sullivan_Beach_Boys_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sullivan_Beach_Boys_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sullivan_Beach_Boys_%28cropped%29.jpg",
+      "width": 393,
+      "height": 274,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ]
+}

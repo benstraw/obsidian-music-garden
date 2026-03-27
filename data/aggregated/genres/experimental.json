@@ -1,4 +1,205 @@
 {
   "canonical_slug": "experimental",
-  "pending": true
+  "display_title": "Experimental",
+  "display_name": "Experimental",
+  "notes": "Broad editorial bucket for intentionally boundary-pushing work.",
+  "aliases": [
+    "avant garde",
+    "experimental"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Experiment",
+    "Experimental Mechanized Force",
+    "Experimental animation",
+    "Experimental cancer treatment",
+    "Experimental evolution",
+    "Experimental film",
+    "Experimental music",
+    "Experimental political science",
+    "Experimental psychology",
+    "Experimental rock"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 8,
+    "unique_artist_count": 6,
+    "unique_release_count": 6,
+    "unique_track_count": 6,
+    "first_played_at": "2026-03-01T02:18:46.227Z",
+    "last_played_at": "2026-03-12T16:54:06.655Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    },
+    {
+      "canonical_slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "play_count": 2,
+      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    {
+      "canonical_slug": "mauricio-kagel",
+      "name": "Mauricio Kagel",
+      "play_count": 1,
+      "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+      "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
+    },
+    {
+      "canonical_slug": "negativland",
+      "name": "Negativland",
+      "play_count": 1,
+      "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+      "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
+    },
+    {
+      "canonical_slug": "ornette-coleman",
+      "name": "Ornette Coleman",
+      "play_count": 1,
+      "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
+      "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+    },
+    {
+      "canonical_slug": "sun-ra",
+      "name": "Sun Ra",
+      "play_count": 1,
+      "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+      "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN"
+    },
+    {
+      "canonical_slug": "frank-zappa--hot-rats",
+      "name": "Hot Rats",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa"
+    },
+    {
+      "canonical_slug": "negativland--escape-from-noise",
+      "name": "Escape from Noise",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland"
+    },
+    {
+      "canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
+      "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mauricio-kagel",
+      "primary_artist_name": "Mauricio Kagel"
+    },
+    {
+      "canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
+      "name": "The Shape Of Jazz To Come",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman"
+    },
+    {
+      "canonical_slug": "sun-ra--we-travel-the-spaceways",
+      "name": "We Travel the Spaceways",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "frank-zappa--peaches-en-regalia",
+      "name": "Peaches En Regalia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa",
+      "release_canonical_slug": "frank-zappa--hot-rats",
+      "release_name": "Hot Rats",
+      "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
+      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+    },
+    {
+      "canonical_slug": "can--vitamin-c-2004-remastered-version",
+      "name": "Vitamin C - 2004 Remastered Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
+      "release_name": "Ege Bamyasi (Remastered Version)",
+      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
+      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    },
+    {
+      "canonical_slug": "negativland--endscape",
+      "name": "Endscape",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "4jM4ZrBOBuCE5sRsXuk8iH",
+      "spotify_url": "https://open.spotify.com/track/4jM4ZrBOBuCE5sRsXuk8iH"
+    },
+    {
+      "canonical_slug": "ornette-coleman--lonely-woman",
+      "name": "Lonely Woman",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman",
+      "release_canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
+      "release_name": "The Shape Of Jazz To Come",
+      "spotify_track_id": "23aDP04QX8MAHA99FLaPtN",
+      "spotify_url": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN"
+    },
+    {
+      "canonical_slug": "mauricio-kagel--match-für-3-spieler-pt-1",
+      "name": "Match für 3 Spieler - Pt. 1",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mauricio-kagel",
+      "primary_artist_name": "Mauricio Kagel",
+      "release_canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
+      "release_name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
+      "spotify_track_id": "4VDhJhQnw1GIfx878K53WL",
+      "spotify_url": "https://open.spotify.com/track/4VDhJhQnw1GIfx878K53WL"
+    },
+    {
+      "canonical_slug": "sun-ra--tapestry-from-an-asteroid",
+      "name": "Tapestry from an Asteroid",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--we-travel-the-spaceways",
+      "release_name": "We Travel the Spaceways",
+      "spotify_track_id": "0EjtZmOLT6WLShJRHCFWVU",
+      "spotify_url": "https://open.spotify.com/track/0EjtZmOLT6WLShJRHCFWVU"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-12T16:54:06.655Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

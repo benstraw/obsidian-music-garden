@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "newgrass",
+  "canonical_genre_slug": "newgrass",
+  "status": "matched",
+  "page_title": "Bluegrass music",
+  "summary": "Bluegrass music is a genre of American roots music that developed in the 1940s in the Appalachian region of the United States. The genre derives its name from the band Bill Monroe and the Blue Grass Boys. Bluegrass has roots in African American genres like blues and jazz and North European genres, such as Irish ballads and dance tunes. Unlike country, it is traditionally played exclusively on acoustic instruments such as the fiddle, mandolin, banjo, guitar and upright bass. It was further developed by musicians who played with Monroe, including 5-string banjo player Earl Scruggs and guitarist Lester Flatt. Bill Monroe once described bluegrass music as, \"It's a part of Methodist, Holiness and Baptist traditions. It's blues and jazz, and it has a high lonesome sound.\"",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bluegrass_music",
+  "candidates": [
+    "Newgrass",
+    "New Grass Revival",
+    "New Grass Revival discography",
+    "New Grass",
+    "New Grass Revival (1986 album)",
+    "New Grass Revival (1972 album)",
+    "Newgrange",
+    "New Ross",
+    "Negro",
+    "New Masses"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bluegrass music",
+    "page_url": "https://en.wikipedia.org/wiki/Bluegrass_music",
+    "retrieved_at": "2026-03-27T09:31:28Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bluegrass_Band.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bluegrass_Band.jpg/330px-Bluegrass_Band.jpg",
+    "width": 1920,
+    "height": 1080
+  }
+}

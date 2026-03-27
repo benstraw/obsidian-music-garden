@@ -1,4 +1,79 @@
 {
   "canonical_slug": "dub",
-  "pending": true
+  "display_title": "Dub",
+  "display_name": "Dub",
+  "parent_slug": "reggae",
+  "aliases": [
+    "dub"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Daniel Dubois",
+    "Dub",
+    "Dubai",
+    "Dubai International Airport",
+    "Dubbing",
+    "Dublin",
+    "Dublin Airport",
+    "Dublin and Monaghan bombings",
+    "Dubrovnik",
+    "The Dubliners"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T15:39:19.952Z",
+    "last_played_at": "2026-03-03T15:39:19.952Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "steel-pulse",
+      "name": "Steel Pulse",
+      "play_count": 1,
+      "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "steel-pulse--earth-crisis",
+      "name": "Earth Crisis",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "steel-pulse--steppin-out",
+      "name": "Steppin' Out",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--earth-crisis",
+      "release_name": "Earth Crisis",
+      "spotify_track_id": "7cxJUcO4HTrJ2jniaKOAaw",
+      "spotify_url": "https://open.spotify.com/track/7cxJUcO4HTrJ2jniaKOAaw"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T15:39:19.952Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

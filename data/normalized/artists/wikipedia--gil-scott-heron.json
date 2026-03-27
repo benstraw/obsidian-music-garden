@@ -1,0 +1,75 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "gil-scott-heron",
+  "name": "Gil Scott-Heron",
+  "status": "matched",
+  "page_title": "Gil Scott-Heron",
+  "summary": "Gilbert Scott-Heron was an American jazz poet, singer, musician and author, known for his work as a spoken-word performer in the 1970s and 1980s. His collaborative efforts with musician Brian Jackson fused jazz, blues and soul with lyrics relative to social and political issues of the time, delivered in both rapping and melismatic vocal styles. He referred to himself as a \"bluesologist\", his own term for \"a scientist who is concerned with the origin of the blues\". His poem \"The Revolution Will Not Be Televised\", delivered over a jazz-soul beat, is considered a major influence on hip hop music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Gil_Scott-Heron",
+  "candidates": [
+    "Gil Scott-Heron"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gil Scott-Heron",
+    "page_url": "https://en.wikipedia.org/wiki/Gil_Scott-Heron",
+    "retrieved_at": "2026-03-27T09:26:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:ChicoGsh.png"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ChicoGsh.png"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gil Scott-Heron.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gil_Scott-Heron.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gil_Scott-Heron.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gil_Scott-Heron.jpg",
+      "width": 560,
+      "height": 672,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/24844537@N00\"\u003emikael altemark\u003c/a\u003e from STOCKHOLM, SWEDEN"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gil Scott-Heron.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gil_Scott-Heron.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gil_Scott-Heron.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gil_Scott-Heron.jpg",
+      "width": 560,
+      "height": 672,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/24844537@N00\"\u003emikael altemark\u003c/a\u003e from STOCKHOLM, SWEDEN"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gill Scott Heron 2009 Regency.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gill_Scott_Heron_2009_Regency.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gill_Scott_Heron_2009_Regency.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gill_Scott_Heron_2009_Regency.jpg",
+      "width": 333,
+      "height": 500,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Adam_Turner\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Adam Turner (page does not exist)\"\u003eAdam Turner\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ]
+}

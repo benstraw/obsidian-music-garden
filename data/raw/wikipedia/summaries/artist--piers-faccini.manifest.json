@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Piers%20Faccini",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Piers%20Faccini",
+  "cache_key": "summaries/artist--piers-faccini",
+  "fetched_at": "2026-03-27T09:27:42Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,4 +1,290 @@
 {
   "canonical_slug": "roots-reggae",
-  "pending": true
+  "display_title": "Roots Reggae",
+  "display_name": "Roots Reggae",
+  "parent_slug": "reggae",
+  "aliases": [
+    "roots reggae"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Roots reggae",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roots_reggae",
+  "summary": "Roots reggae is a subgenre of reggae that deals with the everyday lives and aspirations of Africans and those in the African Diaspora, including the spiritual side of Rastafari, black liberation, revolution and the honouring of God, called Jah by Rastafarians. It is identified with the life of the ghetto sufferer, and the rural poor. Lyrical themes include spirituality and religion, struggles by artists, poverty, black pride, social issues, resistance to fascism, capitalism, corrupt government and racial oppression. A spiritual repatriation to Africa is a common theme in roots reggae.",
+  "candidates": [
+    "Roots Reggae Library",
+    "Roots reggae"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Roots reggae",
+    "page_url": "https://en.wikipedia.org/wiki/Roots_reggae",
+    "retrieved_at": "2026-03-27T09:31:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of Ethiopia (1897-1936; 1941-1974).svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg/960px-Flag_of_Ethiopia_%281897%E2%80%931974%29.svg.png",
+    "width": 900,
+    "height": 600,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Oren_neu_dag\" title=\"User:Oren neu dag\"\u003eOren neu dag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Ethiopia (1897-1936; 1941-1974).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg/960px-Flag_of_Ethiopia_%281897%E2%80%931974%29.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Oren_neu_dag\" title=\"User:Oren neu dag\"\u003eOren neu dag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Ethiopia (1897–1974).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Ethiopia_%281897%E2%80%931974%29.svg/960px-Flag_of_Ethiopia_%281897%E2%80%931974%29.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Oren_neu_dag\" title=\"User:Oren neu dag\"\u003eOren neu dag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Jamaica.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Jamaica.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/960px-Flag_of_Jamaica.svg.png",
+      "width": 1200,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:table;width:auto;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;padding:2px 4px 2px 0px;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:W3C_grn.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/W3C_grn.svg/40px-W3C_grn.svg.png\" decoding=\"async\" width=\"24\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/W3C_grn.svg/60px-W3C_grn.svg.png 2x\" data-file-width=\"288\" data-file-height=\"174\"\u003e\u003c/a\u003e\u003c/span\u003e The \u003ca href=\"//commons.wikimedia.org/wiki/Help:SVG\" title=\"Help:SVG\"\u003eSVG\u003c/a\u003e code is \u003cspan class=\"plainlinks\" style=\"background:var(--background-color-success-subtle, #dff2eb); color: inherit;\"\u003e\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://validator.w3.org/check?uri=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FSpecial%3AFilepath%2FFlag_of_Jamaica.svg\u0026amp;doctype=Inline\"\u003evalid\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:SKopp\" title=\"User:SKopp\"\u003eSKopp\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited by \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Madden\" title=\"User:Madden\"\u003eMadden\u003c/a\u003e and others.\u003c/div\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 25,
+    "unique_artist_count": 2,
+    "unique_release_count": 7,
+    "unique_track_count": 12,
+    "first_played_at": "2026-02-16T01:47:58.417Z",
+    "last_played_at": "2026-03-17T00:18:06.752Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "play_count": 24,
+      "spotify_artist_id": "2QsynagSdAqZj3U9HgDzjD",
+      "spotify_url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+    },
+    {
+      "canonical_slug": "steel-pulse",
+      "name": "Steel Pulse",
+      "play_count": 1,
+      "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "name": "Confrontation",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
+      "name": "Songs Of Freedom Rarities",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--survival",
+      "name": "Survival",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--uprising",
+      "name": "Uprising",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--catch-a-fire",
+      "name": "Catch A Fire",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    },
+    {
+      "canonical_slug": "steel-pulse--earth-crisis",
+      "name": "Earth Crisis",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--kaya",
+      "name": "Kaya",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--jump-nyabinghi",
+      "name": "Jump Nyabinghi",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "release_name": "Confrontation",
+      "spotify_track_id": "6tZ2akfNBG9EQlvhEPYV2Q",
+      "spotify_url": "https://open.spotify.com/track/6tZ2akfNBG9EQlvhEPYV2Q"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--iron-lion-zion",
+      "name": "Iron Lion Zion",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
+      "release_name": "Songs Of Freedom Rarities",
+      "spotify_track_id": "0oz9leJwzlmmRKWe3Pgjh4",
+      "spotify_url": "https://open.spotify.com/track/0oz9leJwzlmmRKWe3Pgjh4"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--zimbabwe",
+      "name": "Zimbabwe",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--survival",
+      "release_name": "Survival",
+      "spotify_track_id": "5ApfJDLibIoWL0mRZ5uOKu",
+      "spotify_url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--babylon-system",
+      "name": "Babylon System",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--survival",
+      "release_name": "Survival",
+      "spotify_track_id": "6xbtDXk8utIS8rOWD0X9XA",
+      "spotify_url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--buffalo-soldier",
+      "name": "Buffalo Soldier",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "release_name": "Confrontation",
+      "spotify_track_id": "7BfW1eoDh27W69nxsmRicb",
+      "spotify_url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--coming-in-from-the-cold",
+      "name": "Coming In From The Cold",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--uprising",
+      "release_name": "Uprising",
+      "spotify_track_id": "6lmLUNd7mcyYqKcg6EIAOu",
+      "spotify_url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--could-you-be-loved",
+      "name": "Could You Be Loved",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--uprising",
+      "release_name": "Uprising",
+      "spotify_track_id": "5O4erNlJ74PIF6kGol1ZrC",
+      "spotify_url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--give-thanks-and-praises",
+      "name": "Give Thanks \u0026 Praises",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "release_name": "Confrontation",
+      "spotify_track_id": "7kldRiZk6Wan2uFfb9qfX9",
+      "spotify_url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--is-this-love",
+      "name": "Is This Love",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--kaya",
+      "release_name": "Kaya",
+      "spotify_track_id": "6JRLFiX9NJSoRRKxowlBYr",
+      "spotify_url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "canonical_slug": "steel-pulse--steppin-out",
+      "name": "Steppin' Out",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--earth-crisis",
+      "release_name": "Earth Crisis",
+      "spotify_track_id": "7cxJUcO4HTrJ2jniaKOAaw",
+      "spotify_url": "https://open.spotify.com/track/7cxJUcO4HTrJ2jniaKOAaw"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--roots-reggae.json",
+      "url": "https://en.wikipedia.org/wiki/Roots_reggae",
+      "retrieved_at": "2026-03-27T09:31:55Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--roots-reggae.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia_(1897%E2%80%931974).svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-17T00:18:06.752Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

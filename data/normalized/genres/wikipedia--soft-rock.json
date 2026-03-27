@@ -1,0 +1,53 @@
+{
+  "source": "wikipedia",
+  "source_genre": "soft rock",
+  "canonical_genre_slug": "soft-rock",
+  "status": "matched",
+  "page_title": "Soft rock",
+  "summary": "Soft rock is a form of rock music that originated in the late 1960s in the United States and the United Kingdom which smoothed over the edges of singer-songwriter and pop rock, relying on simple, melodic songs with big, lush productions. Soft rock was prevalent on the radio throughout the 1970s and eventually metamorphosed into a form of the synthesized music of adult contemporary in the 1980s.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Soft_rock",
+  "candidates": [
+    "Soft rock",
+    "Soft Rock",
+    "Soft Rock (album)",
+    "Soft Rocked By Me",
+    "Soft/Rock",
+    "Soft robotics",
+    "Soft focus",
+    "The Soft Pack",
+    "Soft Focus with Jena Friedman",
+    "Sob Rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soft rock",
+    "page_url": "https://en.wikipedia.org/wiki/Soft_rock",
+    "retrieved_at": "2026-03-27T09:32:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox current red Asia Australia.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+    "width": 360,
+    "height": 290,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Asia Australia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    }
+  ]
+}

@@ -2,12 +2,108 @@
   "source": "spotify",
   "source_artist_id": "20qISvAhX20dpIbOOzGK3q",
   "name": "Nas",
+  "spotify_url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q",
   "source_genres": [
     "east coast hip hop",
     "hip hop",
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
-    "hip-hop"
+    "east-coast-hip-hop",
+    "hip-hop",
+    "old-school-hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Nas",
+  "summary": "Nasir bin Olu Dara Jones, known mononymously as Nas, is an American rapper, entrepreneur, and record producer. Rooted in East Coast hip-hop, he is regarded as one of the greatest rappers of all time. The son of jazz musician Olu Dara, Nas began his musical career in 1989 under the moniker \"Nasty Nas\", and recorded demos under the wing of fellow East Coast rapper Large Professor. Nas made his recording debut on Professor's group, Main Source's 1991 song \"Live at the Barbeque\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Nas",
+  "candidates": [
+    "Gamal Abdel Nasser",
+    "Hassan Nasrallah",
+    "NASA",
+    "NASCAR",
+    "NASCAR Cup Series",
+    "NASCAR O'Reilly Auto Parts Series",
+    "Nas",
+    "Nasdaq",
+    "Nasdaq-100",
+    "Nashville, Tennessee"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Nas",
+    "page_url": "https://en.wikipedia.org/wiki/Nas",
+    "retrieved_at": "2026-03-27T09:27:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of the United States.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+    "width": 1235,
+    "height": 650,
+    "license": "Public domain",
+    "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the United States.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+      "width": 1235,
+      "height": 650,
+      "license": "Public domain",
+      "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NAS performing at the 2015 Sugar Mountain festival, Melbourne, Australia.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NAS_performing_at_the_2015_Sugar_Mountain_festival,_Melbourne,_Australia.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NAS_performing_at_the_2015_Sugar_Mountain_festival%2C_Melbourne%2C_Australia.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NAS_performing_at_the_2015_Sugar_Mountain_festival%2C_Melbourne%2C_Australia.jpg/960px-NAS_performing_at_the_2015_Sugar_Mountain_festival%2C_Melbourne%2C_Australia.jpg",
+      "width": 1536,
+      "height": 2048,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nichollas_Harrison\" title=\"User:Nichollas Harrison\"\u003eNichollas Harrison\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nas-01-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nas-01-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nas-01-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nas-01-mika.jpg/960px-Nas-01-mika.jpg",
+      "width": 1122,
+      "height": 1134,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nas-04.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nas-04.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nas-04.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nas-04.jpg",
+      "width": 948,
+      "height": 958,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
+    }
   ]
 }

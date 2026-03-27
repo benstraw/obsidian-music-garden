@@ -1,4 +1,104 @@
 {
   "canonical_slug": "honky-tonk",
-  "pending": true
+  "display_title": "Honky-Tonk",
+  "display_name": "Honky-Tonk",
+  "parent_slug": "country",
+  "aliases": [
+    "honky tonk"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Honky Tonk Angels",
+    "Honky Tonk Badonkadonk",
+    "Honky Tonk Freeway",
+    "Honky Tonk Heroes",
+    "Honky Tonk Time Machine",
+    "Honky Tonk Women",
+    "Honky Tonkin' About",
+    "Honky-tonk",
+    "Honkytonk Revival",
+    "The Honky Tonk Man"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 4,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2026-02-13T01:51:42.135Z",
+    "last_played_at": "2026-03-06T16:44:28.676Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "david-allan-coe",
+      "name": "David Allan Coe",
+      "play_count": 3,
+      "spotify_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
+      "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+    },
+    {
+      "canonical_slug": "cal-smith",
+      "name": "Cal Smith",
+      "play_count": 1,
+      "spotify_artist_id": "3yFnqoyp1e54tZEY4ykvNB",
+      "spotify_url": "https://open.spotify.com/artist/3yFnqoyp1e54tZEY4ykvNB"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "david-allan-coe--once-upon-a-rhyme",
+      "name": "Once Upon a Rhyme",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "david-allan-coe",
+      "primary_artist_name": "David Allan Coe"
+    },
+    {
+      "canonical_slug": "cal-smith--cal-smith",
+      "name": "Cal Smith",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "cal-smith",
+      "primary_artist_name": "Cal Smith"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "david-allan-coe--you-never-even-called-me-by-my-name",
+      "name": "You Never Even Called Me by My Name",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "david-allan-coe",
+      "primary_artist_name": "David Allan Coe",
+      "release_canonical_slug": "david-allan-coe--once-upon-a-rhyme",
+      "release_name": "Once Upon a Rhyme",
+      "spotify_track_id": "2mV4xg3mvO5aXPLMoD7WrR",
+      "spotify_url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
+    },
+    {
+      "canonical_slug": "cal-smith--the-lord-knows-i-m-drinking",
+      "name": "The Lord Knows I'm Drinking",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "cal-smith",
+      "primary_artist_name": "Cal Smith",
+      "release_canonical_slug": "cal-smith--cal-smith",
+      "release_name": "Cal Smith",
+      "spotify_track_id": "7GnEclCTKejiDnrb487GE8",
+      "spotify_url": "https://open.spotify.com/track/7GnEclCTKejiDnrb487GE8"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-06T16:44:28.676Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

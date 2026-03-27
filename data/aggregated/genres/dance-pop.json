@@ -1,7 +1,39 @@
 {
   "canonical_slug": "dance-pop",
+  "display_title": "Dance Pop",
+  "display_name": "Dance Pop",
+  "parent_slug": "pop",
   "aliases": [
     "dance pop"
   ],
-  "pending": false
+  "pending": false,
+  "status": "ambiguous",
+  "candidates": [
+    "Dance Moms",
+    "Dance Monkey",
+    "Dance forms of Tamil Nadu",
+    "Dance in Australia",
+    "Dance in India",
+    "Dance in Thailand",
+    "Dance of Death (album)",
+    "Dance of the Vampires (musical)",
+    "Dance-pop",
+    "Dance/Pop Songs"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

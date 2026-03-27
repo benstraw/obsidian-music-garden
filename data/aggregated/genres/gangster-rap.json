@@ -1,4 +1,255 @@
 {
   "canonical_slug": "gangster-rap",
-  "pending": true
+  "display_title": "Gangster Rap",
+  "display_name": "Gangster Rap",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "gangster rap"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "A Gangster and a Gentleman",
+    "Gangsta rap",
+    "Gangsta's Paradise",
+    "Gangster Gangaraju",
+    "Gangster Ka",
+    "Gangster Land",
+    "Gangster Returns",
+    "Gangster Tripping",
+    "Gangster's Paradise: Jerusalema",
+    "Gangster: A Love Story"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 30,
+    "unique_artist_count": 4,
+    "unique_release_count": 9,
+    "unique_track_count": 21,
+    "first_played_at": "2026-02-26T03:29:41.387Z",
+    "last_played_at": "2026-03-19T01:55:24.030Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "wu-tang-clan",
+      "name": "Wu-Tang Clan",
+      "play_count": 13,
+      "spotify_artist_id": "34EP7KEpOjXcM2TCat1ISk",
+      "spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g",
+      "name": "The Notorious B.I.G.",
+      "play_count": 11,
+      "spotify_artist_id": "5me0Irg2ANcsgc93uaYrpb",
+      "spotify_url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+    },
+    {
+      "canonical_slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "play_count": 4,
+      "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+      "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+    },
+    {
+      "canonical_slug": "dr-dre",
+      "name": "Dr. Dre",
+      "play_count": 2,
+      "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--ready-to-die-the-remaster",
+      "name": "Ready to Die (The Remaster)",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G."
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggystyle",
+      "name": "Doggystyle",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "dr-dre--2001",
+      "name": "2001",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--chamber-music",
+      "name": "Chamber Music",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--life-after-death-2014-remastered-edition",
+      "name": "Life After Death (2014 Remastered Edition)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G."
+    },
+    {
+      "canonical_slug": "wu-tang-clan--wu-tang-forever",
+      "name": "Wu-Tang Forever",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggumentary",
+      "name": "Doggumentary",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--greatest-hits",
+      "name": "Greatest Hits",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G."
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-notorious-b-i-g--machine-gun-funk-2005-remaster",
+      "name": "Machine Gun Funk - 2005 Remaster",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G.",
+      "release_canonical_slug": "the-notorious-b-i-g--ready-to-die-the-remaster",
+      "release_name": "Ready to Die (The Remaster)",
+      "spotify_track_id": "2bXI4Rbw1D7aVeHWLjn1Lb",
+      "spotify_url": "https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--c-r-e-a-m-cash-rules-everything-around-me",
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "119c93MHjrDLJTApCVGpvx",
+      "spotify_url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--hypnotize-2014-remaster",
+      "name": "Hypnotize - 2014 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G.",
+      "release_canonical_slug": "the-notorious-b-i-g--life-after-death-2014-remastered-edition",
+      "release_name": "Life After Death (2014 Remastered Edition)",
+      "spotify_track_id": "7KwZNVEaqikRSBSpyhXK2j",
+      "spotify_url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--protect-ya-neck",
+      "name": "Protect Ya Neck",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "1Sgj10byiGzPpI2IrXSFEn",
+      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--shame-on-a-nigga",
+      "name": "Shame On a Nigga",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "7IwURvEfVcdxUCjLKUu6sv",
+      "spotify_url": "https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--sound-the-horns",
+      "name": "Sound The Horns",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--chamber-music",
+      "release_name": "Chamber Music",
+      "spotify_track_id": "234QpD9ilHoJjnhCVd2fOW",
+      "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW"
+    },
+    {
+      "canonical_slug": "snoop-dogg--tha-shiznit",
+      "name": "Tha Shiznit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "2DhL7DtMmxmqrCUB2NAlLm",
+      "spotify_url": "https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--bring-da-ruckus",
+      "name": "Bring Da Ruckus",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "1v5cgIyffYtfEx0swttdoE",
+      "spotify_url": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--da-mystery-of-chessboxin",
+      "name": "Da Mystery of Chessboxin'",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "4xOTVtbCPcfxMs2hSt9D6i",
+      "spotify_url": "https://open.spotify.com/track/4xOTVtbCPcfxMs2hSt9D6i"
+    },
+    {
+      "canonical_slug": "the-notorious-b-i-g--get-money-feat-junior-m-a-f-i-a-2007-remaster",
+      "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-notorious-b-i-g",
+      "primary_artist_name": "The Notorious B.I.G.",
+      "release_canonical_slug": "the-notorious-b-i-g--greatest-hits",
+      "release_name": "Greatest Hits",
+      "spotify_track_id": "3PA9dH8cT0wR5UW4XkC44Y",
+      "spotify_url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:55:24.030Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

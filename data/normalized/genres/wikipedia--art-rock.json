@@ -1,0 +1,96 @@
+{
+  "source": "wikipedia",
+  "source_genre": "art rock",
+  "canonical_genre_slug": "art-rock",
+  "status": "matched",
+  "page_title": "Art rock",
+  "summary": "Art rock is a subgenre of rock music that aims to separate the genre from popular entertainment, with the term typically being applied as the middle ground between mainstream and experimental rock. Art rock primarily draws influences from the wider art world and academia; which includes contemporary art, art music, avant-garde art, experimental music, avant-garde music, alongside classical music and jazz.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Art_rock",
+  "candidates": [
+    "Art rock",
+    "Art Rock Circus",
+    "Artrocker",
+    "Art of rock relief in ancient Iran",
+    "Artrocker (magazine)",
+    "Art Robinson",
+    "Art Ross",
+    "Art Rooney",
+    "Art Rooney II",
+    "Art Monk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Art rock",
+    "page_url": "https://en.wikipedia.org/wiki/Art_rock",
+    "retrieved_at": "2026-03-27T09:29:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Brian Wilson Pet Sounds 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_Pet_Sounds_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+    "width": 921,
+    "height": 647,
+    "license": "Public domain",
+    "author": "Cashbox"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brian Wilson Pet Sounds 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_Pet_Sounds_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Brian_Wilson_Pet_Sounds_2.jpg",
+      "width": 921,
+      "height": 647,
+      "license": "Public domain",
+      "author": "Cashbox"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DarkSideOfTheMoon1973.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DarkSideOfTheMoon1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DarkSideOfTheMoon1973.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DarkSideOfTheMoon1973.jpg/960px-DarkSideOfTheMoon1973.jpg",
+      "width": 1000,
+      "height": 690,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TimDuncan\" title=\"User:TimDuncan\"\u003eTimDuncan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Bowie 1975.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Bowie_1975.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_Bowie_1975.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/David_Bowie_1975.jpg",
+      "width": 717,
+      "height": 871,
+      "license": "Public domain",
+      "author": "RCA Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Phil Spector with MFQ 1965.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Phil_Spector_with_MFQ_1965.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Phil_Spector_with_MFQ_1965.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Phil_Spector_with_MFQ_1965.png",
+      "width": 663,
+      "height": 508,
+      "license": "Public domain",
+      "author": "Původní publikace : KRLA Beat, Beat Publications, 6. listopadu 1965, roč. 1, č. 34, s. 12."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Velvet Underground 1968 by Billy Name.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Velvet_Underground_1968_by_Billy_Name.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Velvet_Underground_1968_by_Billy_Name.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Velvet_Underground_1968_by_Billy_Name.png",
+      "width": 546,
+      "height": 820,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Billy_Name\" class=\"extiw\" title=\"en:Billy Name\"\u003eName, Billy\u003c/a\u003e"
+    }
+  ]
+}

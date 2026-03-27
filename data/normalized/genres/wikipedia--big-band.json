@@ -1,0 +1,98 @@
+{
+  "source": "wikipedia",
+  "source_genre": "big band",
+  "canonical_genre_slug": "big-band",
+  "status": "matched",
+  "page_title": "Big band",
+  "summary": "A big band is a type of musical ensemble of jazz music that usually consists of ten or more musicians with four sections: saxophones, trumpets, trombones, and a rhythm section. Big bands originated during the early 1910s and dominated jazz in the early 1940s when swing was most popular. The term \"big band\" is also used to describe a genre of music, although this was not the only style of music played by big bands.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Big_band",
+  "candidates": [
+    "Big band",
+    "Big Band and Jazz Hall of Fame",
+    "Big Band Reflections of Cole Porter",
+    "Big band remote",
+    "Big Band Jazz de México",
+    "Big Band (Charlie Parker album)",
+    "Big Band and Quartet in Concert",
+    "Big Band Bossa Nova (Quincy Jones album)",
+    "Big Band Bossa Nova (Stan Getz album)",
+    "Big Band Specials"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Big band",
+    "page_url": "https://en.wikipedia.org/wiki/Big_band",
+    "retrieved_at": "2026-03-27T09:29:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:BennyGoodmanandBandStageDoorCanteen.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanandBandStageDoorCanteen.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+    "width": 448,
+    "height": 336,
+    "license": "Public domain",
+    "author": "Film screenshot"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BennyGoodmanandBandStageDoorCanteen.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanandBandStageDoorCanteen.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+      "width": 448,
+      "height": 336,
+      "license": "Public domain",
+      "author": "Film screenshot"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glen miller.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glen_miller.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Glen_miller.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Glen_miller.jpg",
+      "width": 588,
+      "height": 659,
+      "license": "Public domain",
+      "author": "US Army photographer"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Grand Central Big Band.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Grand_Central_Big_Band.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grand_Central_Big_Band.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grand_Central_Big_Band.jpg/960px-Grand_Central_Big_Band.jpg",
+      "width": 2272,
+      "height": 1704,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MareeBrodzinski\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MareeBrodzinski (page does not exist)\"\u003eMareeBrodzinski\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:HONK! 2022 performers.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:HONK!_2022_performers.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HONK%21_2022_performers.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HONK%21_2022_performers.jpg/960px-HONK%21_2022_performers.jpg",
+      "width": 4608,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sdkb\" title=\"User:Sdkb\"\u003eSdkb\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jazz ensemble - seating diagram.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jazz_ensemble_-_seating_diagram.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Jazz_ensemble_-_seating_diagram.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jazz_ensemble_-_seating_diagram.svg/960px-Jazz_ensemble_-_seating_diagram.svg.png",
+      "width": 1300,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Matthew D. Wilson (\u003ca href=\"//commons.wikimedia.org/wiki/User:LtPowers\" title=\"User:LtPowers\"\u003eLtPowers\u003c/a\u003e)"
+    }
+  ]
+}

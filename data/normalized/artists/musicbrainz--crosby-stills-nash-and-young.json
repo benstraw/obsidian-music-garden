@@ -1,0 +1,24 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "46a782ea-4308-476b-abd1-a91b197f3037",
+  "name": "Crosby, Stills, Nash \u0026 Young",
+  "musicbrainz_artist_id": "46a782ea-4308-476b-abd1-a91b197f3037",
+  "source_genres": [
+    "acoustic rock",
+    "country rock",
+    "folk pop",
+    "folk rock",
+    "pop rock",
+    "rock",
+    "soft rock",
+    "singer/songwriter"
+  ],
+  "canonical_genre_slugs": [
+    "country-rock",
+    "folk-rock",
+    "pop",
+    "rock",
+    "singer-songwriter",
+    "soft-rock"
+  ]
+}

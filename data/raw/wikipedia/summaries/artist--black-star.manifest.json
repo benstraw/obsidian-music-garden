@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Black%20Star",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Black%20Star",
+  "cache_key": "summaries/artist--black-star",
+  "fetched_at": "2026-03-27T09:25:34Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

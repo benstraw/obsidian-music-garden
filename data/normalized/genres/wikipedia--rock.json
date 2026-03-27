@@ -1,0 +1,93 @@
+{
+  "source": "wikipedia",
+  "source_genre": "rock",
+  "canonical_genre_slug": "rock",
+  "status": "matched",
+  "page_title": "Rock music",
+  "summary": "Rock music is a genre of popular music that originated in the United States as \"rock and roll\" in the late 1940s and early 1950s, developing into a range of styles from the mid-1960s, primarily in the United States and United Kingdom. It has its roots beginning as classic rock and roll, a style that drew from the African-American musical genres of blues and rhythm and blues, as well as from country music. Rock also drew strongly from genres such as electric blues and folk, and incorporated influences from jazz and other styles. Rock is typically centered on the electric guitar, usually as part of a rock group with electric bass guitar, drums, and one or more singers.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Rock_music",
+  "candidates": [
+    "Rock music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rock music",
+    "page_url": "https://en.wikipedia.org/wiki/Rock_music",
+    "retrieved_at": "2026-03-27T09:31:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Aerosmith 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerosmith_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Aerosmith_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Aerosmith_2.jpg",
+    "width": 683,
+    "height": 1024,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/daigooliva/\"\u003edaigooliva\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aerosmith 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerosmith_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Aerosmith_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Aerosmith_2.jpg",
+      "width": 683,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/daigooliva/\"\u003edaigooliva\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Americas.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Americas.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ambox_current_red_Americas.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ambox_current_red_Americas.svg/960px-Ambox_current_red_Americas.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blondie (Debbie Harry) One.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blondie_(Debbie_Harry)_One.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Blondie_%28Debbie_Harry%29_One.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Blondie_%28Debbie_Harry%29_One.jpg",
+      "width": 232,
+      "height": 343,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bundesarchiv Bild 183-1988-0719-38, Bruce Springsteen, Konzert in der DDR.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1988-0719-38,_Bruce_Springsteen,_Konzert_in_der_DDR.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.jpg",
+      "width": 506,
+      "height": 797,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nUhlemann, Thomas\u003c/div\u003e",
+      "attribution_text": "Bundesarchiv, Bild 183-1988-0719-38 / Uhlemann, Thomas / CC-BY-SA 3.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carlos Santana 123176.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carlos_Santana_123176.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carlos_Santana_123176.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carlos_Santana_123176.jpg",
+      "width": 500,
+      "height": 364,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/54178245@N00\"\u003eDavid Gans\u003c/a\u003e"
+    }
+  ]
+}

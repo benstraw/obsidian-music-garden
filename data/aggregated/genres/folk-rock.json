@@ -1,7 +1,349 @@
 {
   "canonical_slug": "folk-rock",
+  "display_title": "Folk Rock",
+  "display_name": "Folk Rock",
+  "parent_slug": "rock",
   "aliases": [
     "folk rock"
   ],
-  "pending": false
+  "pending": false,
+  "status": "matched",
+  "wikipedia_title": "Folk rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Folk_rock",
+  "summary": "Folk rock is a fusion genre of rock music with heavy influences from English and American folk music. It arose in the United States, Canada, and the United Kingdom in the mid-1960s. In the U.S., folk rock emerged from the folk music revival. Performers such as Bob Dylan and the Byrds—several of whose members had earlier played in folk ensembles—attempted to blend the sounds of rock with their pre-existing folk repertoire, adopting the use of electric instrumentation and drums in a way previously discouraged in the U.S. folk community. The term \"folk rock\" was initially used in the U.S. music press in June 1965 to describe the Byrds' music.",
+  "candidates": [
+    "Folk Roots (album)",
+    "Folk Roots, New Routes",
+    "Folk on the rocks",
+    "Folk process",
+    "Folk rock",
+    "Fort Rock–Christmas Lake Valley basin",
+    "Nick Folk",
+    "Rick Folk",
+    "Robert Folk",
+    "Robert L. Folk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Folk rock",
+    "page_url": "https://en.wikipedia.org/wiki/Folk_rock",
+    "retrieved_at": "2026-03-27T09:30:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beatles hide your love away.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles hide your love away.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles loser.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan in November 1963.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_in_November_1963.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+      "width": 734,
+      "height": 1107,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FairportCropredy2005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FairportCropredy2005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/FairportCropredy2005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/FairportCropredy2005.jpg",
+      "width": 746,
+      "height": 518,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Dr Photo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flowerpowerportfolio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flowerpowerportfolio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "width": 698,
+      "height": 361,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rightleftright\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rightleftright (page does not exist)\"\u003eRightleftright\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 40,
+    "unique_artist_count": 6,
+    "unique_release_count": 21,
+    "unique_track_count": 27,
+    "first_played_at": "2026-02-13T01:48:42.202Z",
+    "last_played_at": "2026-03-17T00:28:36.877Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "neil-young",
+      "name": "Neil Young",
+      "play_count": 16,
+      "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+      "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young",
+      "name": "Crosby, Stills, Nash \u0026 Young",
+      "play_count": 14,
+      "spotify_artist_id": "1CYsQCypByMVgnv17qsSbQ",
+      "spotify_url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel",
+      "name": "Simon \u0026 Garfunkel",
+      "play_count": 6,
+      "spotify_artist_id": "70cRZdQywnSFp9pnc2WTCE",
+      "spotify_url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+    },
+    {
+      "canonical_slug": "buffalo-springfield",
+      "name": "Buffalo Springfield",
+      "play_count": 2,
+      "spotify_artist_id": "3eskO5m0H4yiF64vRySBjr",
+      "spotify_url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+    },
+    {
+      "canonical_slug": "bob-dylan",
+      "name": "Bob Dylan",
+      "play_count": 1,
+      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    {
+      "canonical_slug": "mumford-and-sons",
+      "name": "Mumford \u0026 Sons",
+      "play_count": 1,
+      "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+      "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "name": "Harvest (50th Anniversary Edition)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--american-dream",
+      "name": "American Dream",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+    },
+    {
+      "canonical_slug": "neil-young--barn",
+      "name": "Barn",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--4-way-street",
+      "name": "4 Way Street",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bookends",
+      "name": "Bookends",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--deja-vu",
+      "name": "Deja Vu",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--live-1969",
+      "name": "Live 1969",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel"
+    },
+    {
+      "canonical_slug": "neil-young--after-the-gold-rush-2009-remaster",
+      "name": "After the Gold Rush (2009 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "neil-young--american-stars-n-bars",
+      "name": "American Stars 'N Bars",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bridge-over-troubled-water",
+      "name": "Bridge Over Troubled Water",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--clear-blue-skies",
+      "name": "Clear Blue Skies",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--american-dream",
+      "release_name": "American Dream",
+      "spotify_track_id": "5aBo35KynwE90mboBMWKQI",
+      "spotify_url": "https://open.spotify.com/track/5aBo35KynwE90mboBMWKQI"
+    },
+    {
+      "canonical_slug": "neil-young--heading-west",
+      "name": "Heading West",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--barn",
+      "release_name": "Barn",
+      "spotify_track_id": "6XtmeG61N9gqY5RFmhQqYH",
+      "spotify_url": "https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH"
+    },
+    {
+      "canonical_slug": "neil-young--words-between-the-lines-of-age",
+      "name": "Words (Between the Lines of Age)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "65L89liJNDrskT7XTDEKbA",
+      "spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bookends-theme-reprise",
+      "name": "Bookends Theme - Reprise",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel",
+      "release_canonical_slug": "simon-and-garfunkel--bookends",
+      "release_name": "Bookends",
+      "spotify_track_id": "0Q3GpBYKy5Mx97TNBJVibl",
+      "spotify_url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--old-friends-bookends-theme-live-in-toledo-oh-november-1969",
+      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel",
+      "release_canonical_slug": "simon-and-garfunkel--live-1969",
+      "release_name": "Live 1969",
+      "spotify_track_id": "5dKUMWNp0Y18VHkGGJCJR9",
+      "spotify_url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
+    },
+    {
+      "canonical_slug": "neil-young--out-on-the-weekend",
+      "name": "Out on the Weekend",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "15Z3JEayO4OEcbJQsasWHh",
+      "spotify_url": "https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--this-old-house",
+      "name": "This Old House",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--american-dream",
+      "release_name": "American Dream",
+      "spotify_track_id": "3QqRShyg7ABnLZbX3jwFSm",
+      "spotify_url": "https://open.spotify.com/track/3QqRShyg7ABnLZbX3jwFSm"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--almost-cut-my-hair",
+      "name": "Almost Cut My Hair",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--deja-vu",
+      "release_name": "Deja Vu",
+      "spotify_track_id": "0gCJkpD0RhF2rjiALLHBQL",
+      "spotify_url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
+    },
+    {
+      "canonical_slug": "neil-young--are-you-ready-for-the-country",
+      "name": "Are You Ready for the Country?",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "3LJy93lXURXqAIFU33GIS4",
+      "spotify_url": "https://open.spotify.com/track/3LJy93lXURXqAIFU33GIS4"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel--bleecker-street",
+      "name": "Bleecker Street",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "simon-and-garfunkel",
+      "primary_artist_name": "Simon \u0026 Garfunkel",
+      "release_canonical_slug": "simon-and-garfunkel--wednesday-morning-3-a-m",
+      "release_name": "Wednesday Morning, 3 A.M.",
+      "spotify_track_id": "4c0ecVwn17owdwpIBL07wC",
+      "spotify_url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--folk-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Folk_rock",
+      "retrieved_at": "2026-03-27T09:30:49Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--folk-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Folk_rock",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-17T00:28:36.877Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

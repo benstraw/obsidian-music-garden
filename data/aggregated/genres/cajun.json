@@ -1,4 +1,79 @@
 {
   "canonical_slug": "cajun",
-  "pending": true
+  "display_title": "Cajun",
+  "display_name": "Cajun",
+  "parent_slug": "folk",
+  "aliases": [
+    "cajun"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Cajun Dance Party",
+    "Cajun English",
+    "Cajun Field",
+    "Cajun French Music Association",
+    "Cajun Navy",
+    "Cajun cuisine",
+    "Cajun music",
+    "CajunBot",
+    "Cajundome",
+    "Cajuns"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-01T01:38:43.173Z",
+    "last_played_at": "2026-03-01T01:38:43.173Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "allen-toussaint",
+      "name": "Allen Toussaint",
+      "play_count": 1,
+      "spotify_artist_id": "63aP18bg2ABSOqSNQcAMNy",
+      "spotify_url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "allen-toussaint--southern-nights",
+      "name": "Southern Nights",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "allen-toussaint",
+      "primary_artist_name": "Allen Toussaint"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "allen-toussaint--southern-nights-2003-remaster",
+      "name": "Southern Nights - 2003 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "allen-toussaint",
+      "primary_artist_name": "Allen Toussaint",
+      "release_canonical_slug": "allen-toussaint--southern-nights",
+      "release_name": "Southern Nights",
+      "spotify_track_id": "3Z6aY997cM7QK28xjEF5EJ",
+      "spotify_url": "https://open.spotify.com/track/3Z6aY997cM7QK28xjEF5EJ"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-01T01:38:43.173Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

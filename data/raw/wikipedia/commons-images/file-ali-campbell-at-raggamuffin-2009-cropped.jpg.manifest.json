@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AAli+Campbell+at+Raggamuffin+2009+cropped.jpg",
+  "fetched_at": "2026-03-27T09:31:51Z",
+  "content_type": "application/json; charset=utf-8"
+}

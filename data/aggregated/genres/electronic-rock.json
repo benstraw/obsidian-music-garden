@@ -1,4 +1,90 @@
 {
   "canonical_slug": "electronic-rock",
-  "pending": true
+  "display_title": "Electronic Rock",
+  "display_name": "Electronic Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "electronic rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Electronic rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Electronic_rock",
+  "summary": "Electronic rock is a music genre that involves a combination of rock music and electronic music, featuring instruments typically found within both genres. It originates from the late 1960s when rock bands began incorporating electronic instrumentation into their music. Electronic rock acts usually fuse elements from other music styles, including punk rock, industrial rock, hip hop, techno and synth-pop, which has helped spur subgenres such as indietronica, dance-punk and electroclash.",
+  "candidates": [
+    "Electronic Recording Machine, Accounting",
+    "Electronic Road Pricing",
+    "Electronic lock",
+    "Electronic packaging",
+    "Electronic process of law",
+    "Electronic process of law in Brazil",
+    "Electronic rock",
+    "Electronic rock (disambiguation)",
+    "Electronic ticket",
+    "Electronic-rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Electronic rock",
+    "page_url": "https://en.wikipedia.org/wiki/Electronic_rock",
+    "retrieved_at": "2026-03-27T09:30:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Vermona Synthesizer Harmonikamuseum Zwota.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg/960px-Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+    "width": 4032,
+    "height": 3024,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ChickSR\" title=\"User:ChickSR\"\u003eChickSR\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Vermona Synthesizer Harmonikamuseum Zwota.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg/960px-Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ChickSR\" title=\"User:ChickSR\"\u003eChickSR\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--electronic-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Electronic_rock",
+      "retrieved_at": "2026-03-27T09:30:40Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--electronic-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

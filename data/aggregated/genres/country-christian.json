@@ -1,4 +1,35 @@
 {
   "canonical_slug": "country-christian",
-  "pending": true
+  "display_title": "Country Christian",
+  "display_name": "Country Christian",
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Count Christian Detlev von Reventlow",
+    "Count Christian Günther Bernstorff",
+    "Count Christian Karl Reinhard of Leiningen-Dagsburg-Falkenburg",
+    "Count Christian af Rosenborg (1932-1997)",
+    "Count Christian of Rosenborg",
+    "Country Christian School",
+    "Country Christmas (Johnny Cash album)",
+    "Country Christmas (Loretta Lynn album)",
+    "Country Christmas Eve",
+    "Coventry Christian Schools"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

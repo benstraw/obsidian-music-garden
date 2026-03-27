@@ -1,4 +1,131 @@
 {
   "canonical_slug": "winter",
-  "pending": true
+  "display_title": "Winter",
+  "display_name": "Winter",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Winter",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Winter",
+  "summary": "Winter is the coldest and darkest season of the year in temperate and polar climates. It occurs after autumn and before spring, when the hemisphere is oriented away from the Sun as a result of the tilt of Earth's axis. Different cultures define different dates as the start of winter, and some use a definition based on weather.",
+  "candidates": [
+    "1984 Winter Olympics",
+    "2026 Winter Olympics",
+    "2026 Winter Paralympics",
+    "Shelley Winters",
+    "The Winter's Tale",
+    "Winnipeg",
+    "Winter",
+    "Winter (singer)",
+    "Winter Olympic Games",
+    "Winter War"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Winter",
+    "page_url": "https://en.wikipedia.org/wiki/Winter",
+    "retrieved_at": "2026-03-27T09:32:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2018 January in Helsinki (46315524324).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2018_January_in_Helsinki_(46315524324).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2018_January_in_Helsinki_%2846315524324%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2018_January_in_Helsinki_%2846315524324%29.jpg/960px-2018_January_in_Helsinki_%2846315524324%29.jpg",
+    "width": 3258,
+    "height": 2147,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37583176@N00\"\u003eNinara\u003c/a\u003e from Helsinki, Finland"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2018 January in Helsinki (46315524324).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2018_January_in_Helsinki_(46315524324).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/2018_January_in_Helsinki_%2846315524324%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2018_January_in_Helsinki_%2846315524324%29.jpg/960px-2018_January_in_Helsinki_%2846315524324%29.jpg",
+      "width": 3258,
+      "height": 2147,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37583176@N00\"\u003eNinara\u003c/a\u003e from Helsinki, Finland"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cumulus clouds in fair weather.jpeg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cumulus_clouds_in_fair_weather.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cumulus_clouds_in_fair_weather.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cumulus_clouds_in_fair_weather.jpeg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Michael Jastremski"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Earth-satellite-seasons.gif",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Earth-satellite-seasons.gif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Earth-satellite-seasons.gif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Earth-satellite-seasons.gif",
+      "width": 540,
+      "height": 270,
+      "license": "Public domain",
+      "author": "\u003cul\u003e\u003cli\u003e\u003cb\u003eOriginal: \u003c/b\u003e NASA\u003c/li\u003e\n\u003cli\u003e\u003cb\u003eDerivative work: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/User:Reisio\" class=\"extiw\" title=\"en:User:Reisio\"\u003eUser:Reisio\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frost Fair of 1683.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frost_Fair_of_1683.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Frost_Fair_of_1683.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Frost_Fair_of_1683.JPG/960px-Frost_Fair_of_1683.JPG",
+      "width": 1181,
+      "height": 1260,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nWilliam Warten, stationer at the signe of the Talbott under the Mitre Tavern in Fleet street London\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hendrick Avercamp - IJsvermaak bij een stad.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hendrick_Avercamp_-_IJsvermaak_bij_een_stad.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hendrick_Avercamp_-_IJsvermaak_bij_een_stad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hendrick_Avercamp_-_IJsvermaak_bij_een_stad.jpg/960px-Hendrick_Avercamp_-_IJsvermaak_bij_een_stad.jpg",
+      "width": 2303,
+      "height": 1232,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Hendrick_Avercamp\" class=\"extiw\" title=\"w:en:Hendrick Avercamp\"\u003e\u003cspan title=\"Dutch painter (1585–1634)\"\u003eHendrick Avercamp\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--winter.json",
+      "url": "https://en.wikipedia.org/wiki/Winter",
+      "retrieved_at": "2026-03-27T09:32:19Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--winter.json",
+      "url": "https://commons.wikimedia.org/wiki/File:2018_January_in_Helsinki_(46315524324).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

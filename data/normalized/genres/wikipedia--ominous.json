@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "ominous",
+  "canonical_genre_slug": "ominous",
+  "status": "matched",
+  "page_title": "Omen",
+  "summary": "An omen is a phenomenon that is believed to foretell the future, often signifying the advent of change. It was commonly believed in ancient history, and still believed by some today, that omens bring divine messages from the gods.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Omen",
+  "candidates": [
+    "Ominous",
+    "Ominous Horizons: A Paladin's Calling",
+    "Ominous Decade",
+    "The Ominous Parallels",
+    "Ominous From The Cosmic Inferno",
+    "Ominous Bloodline",
+    "Ominous Like O",
+    "Ominous laugh",
+    "Ominous Press",
+    "Omnibus Public Land Management Act of 2009"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Omen",
+    "page_url": "https://en.wikipedia.org/wiki/Omen",
+    "retrieved_at": "2026-03-27T09:31:30Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Nuremberg_chronicles_-_Omens_%28CLIr%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nuremberg_chronicles_-_Omens_%28CLIr%29.jpg/330px-Nuremberg_chronicles_-_Omens_%28CLIr%29.jpg",
+    "width": 1596,
+    "height": 1650
+  }
+}

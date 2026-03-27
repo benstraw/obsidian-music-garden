@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api.php",
+  "request_url": "https://en.wikipedia.org/w/api.php?action=query\u0026format=json\u0026imlimit=10\u0026prop=images\u0026titles=Beastie+Boys",
+  "fetched_at": "2026-03-27T09:24:56Z",
+  "content_type": "application/json; charset=utf-8"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Talking%20Heads",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Talking%20Heads",
+  "cache_key": "summaries/artist--talking-heads",
+  "fetched_at": "2026-03-27T09:28:08Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

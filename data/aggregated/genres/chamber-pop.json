@@ -1,4 +1,101 @@
 {
   "canonical_slug": "chamber-pop",
-  "pending": true
+  "display_title": "Chamber Pop",
+  "display_name": "Chamber Pop",
+  "parent_slug": "pop",
+  "aliases": [
+    "chamber pop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Chamber pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chamber_pop",
+  "summary": "Chamber pop is a music genre that combines rock music with the intricate use of strings, horns, piano, and vocal harmonies, and other components drawn from the orchestral and lounge pop of the 1960s, with an emphasis on melody and texture.",
+  "candidates": [
+    "2024 Mexican Chamber of Deputies election",
+    "Chamber of Commerce Building (Manhattan)",
+    "Chamber of Deputies (Italy)",
+    "Chamber of Deputies (Luxembourg)",
+    "Chamber of Deputies (Mexico)",
+    "Chamber of Deputies (Romania)",
+    "Chamber of Reflection",
+    "Chamber of Representatives (Belgium)",
+    "Chamber of commerce",
+    "Chamber pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chamber pop",
+    "page_url": "https://en.wikipedia.org/wiki/Chamber_pop",
+    "retrieved_at": "2026-03-27T09:30:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Found a Little Baby - Plush.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Found a Little Baby - Plush.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The High Llamas (5928653004).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_High_Llamas_(5928653004).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/The_High_Llamas_%285928653004%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/The_High_Llamas_%285928653004%29.jpg/960px-The_High_Llamas_%285928653004%29.jpg",
+      "width": 2500,
+      "height": 1667,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11718030@N07\"\u003eAlterna2 http://www.alterna2.com\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wonderful - Beach Boys Smile.ogg"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chamber-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Chamber_pop",
+      "retrieved_at": "2026-03-27T09:30:09Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chamber-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Chamber_pop",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

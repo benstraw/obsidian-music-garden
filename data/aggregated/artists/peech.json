@@ -2,6 +2,10 @@
   "canonical_slug": "peech",
   "name": "Peech.",
   "spotify_artist_id": "0WQh63ofwTzWOy1ubiHMdk",
+  "spotify_url": "https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk",
+  "genres": [
+    "country-gospel"
+  ],
   "source_genres": [
     "country christian"
   ],
@@ -22,5 +26,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Pee-Che-Kir",
+    "Pee-Chee folder",
+    "Peech Boys",
+    "Peechankai",
+    "Peechay Tou Dekho",
+    "Peechelba",
+    "Peechelba East railway line",
+    "Peechi Dam",
+    "Peechi-Vazhani Wildlife Sanctuary",
+    "The PeeChees"
+  ],
+  "last_updated": "2026-03-27"
 }

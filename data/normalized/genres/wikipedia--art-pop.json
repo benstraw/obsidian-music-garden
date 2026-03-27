@@ -1,0 +1,85 @@
+{
+  "source": "wikipedia",
+  "source_genre": "art pop",
+  "canonical_genre_slug": "art-pop",
+  "status": "matched",
+  "page_title": "Art pop",
+  "summary": "Art pop is a loosely defined style of pop music that emerged in the mid-1960s, influenced by art theories as well as ideas from other art mediums, such as fashion, fine art, cinema, contemporary art and avant-garde literature. The genre draws on pop art's integration of high and low culture, and emphasizes imagery, style, and gesture over personal expression. Art pop musicians may deviate from traditional pop audiences and rock music conventions, instead exploring postmodern approaches and ideas such as pop's status as commercial art, notions of artifice and the self, and questions of historical authenticity.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Art_pop",
+  "candidates": [
+    "Art pop",
+    "Art Pope",
+    "Art Pop (album)",
+    "Art pop (disambiguation)",
+    "Artpop",
+    "Artpop (song)",
+    "Artpop Ball",
+    "Art into Pop",
+    "Arthropod",
+    "Art Nouveau"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Art pop",
+    "page_url": "https://en.wikipedia.org/wiki/Art_pop",
+    "retrieved_at": "2026-03-27T09:29:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beach Boys - Good Vibrations.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beach Boys - Good Vibrations.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Björk - Hurricane Festival.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rk_-_Hurricane_Festival.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bj%C3%B6rk_-_Hurricane_Festival.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bj%C3%B6rk_-_Hurricane_Festival.jpg/960px-Bj%C3%B6rk_-_Hurricane_Festival.jpg",
+      "width": 1024,
+      "height": 756,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/49503102897@N01\"\u003eZach Klein\u003c/a\u003e from New York, New York, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brian Eno - TopPop 1974 03.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Eno_-_TopPop_1974_03.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Brian_Eno_-_TopPop_1974_03.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Brian_Eno_-_TopPop_1974_03.png",
+      "width": 495,
+      "height": 495,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Algemene_Vereniging_Radio_Omroep\" class=\"extiw\" title=\"en:Algemene Vereniging Radio Omroep\"\u003eAVRO\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bryan Ferry (Roxy Music) - TopPop 1973 3.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bryan_Ferry_(Roxy_Music)_-_TopPop_1973_3.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bryan_Ferry_%28Roxy_Music%29_-_TopPop_1973_3.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bryan_Ferry_%28Roxy_Music%29_-_TopPop_1973_3.png",
+      "width": 500,
+      "height": 500,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Algemene_Vereniging_Radio_Omroep\" class=\"extiw\" title=\"en:Algemene Vereniging Radio Omroep\"\u003eAVRO\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Bowie - TopPop 1974 08.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Bowie_-_TopPop_1974_08.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/David_Bowie_-_TopPop_1974_08.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/David_Bowie_-_TopPop_1974_08.png",
+      "width": 500,
+      "height": 499,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Algemene_Vereniging_Radio_Omroep\" class=\"extiw\" title=\"en:Algemene Vereniging Radio Omroep\"\u003eAVRO\u003c/a\u003e"
+    }
+  ]
+}

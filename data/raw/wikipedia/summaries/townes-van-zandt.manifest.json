@@ -1,0 +1,6 @@
+{
+  "endpoint": "/page/summary/Townes%20Van%20Zandt",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Townes%20Van%20Zandt",
+  "fetched_at": "2026-03-27T09:28:18Z",
+  "content_type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\""
+}

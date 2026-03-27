@@ -1,0 +1,21 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+  "name": "A Tribe Called Quest",
+  "musicbrainz_artist_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+  "source_genres": [
+    "alternative hip hop",
+    "boom bap",
+    "conscious hip hop",
+    "east coast hip hop",
+    "hip hop",
+    "jazz rap"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-hip-hop",
+    "boom-bap",
+    "east-coast-hip-hop",
+    "hip-hop",
+    "jazz-rap"
+  ]
+}

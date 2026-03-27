@@ -2,6 +2,12 @@
   "canonical_slug": "country-s-family-reunion",
   "name": "Country's Family Reunion",
   "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+  "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt",
+  "genres": [
+    "bluegrass",
+    "country",
+    "country-gospel"
+  ],
   "source_genres": [
     "bluegrass",
     "christian bluegrass",
@@ -25,5 +31,6 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "not_found",
+  "last_updated": "2026-03-27"
 }

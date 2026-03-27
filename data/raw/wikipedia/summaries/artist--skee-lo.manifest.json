@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Skee-Lo",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Skee-Lo",
+  "cache_key": "summaries/artist--skee-lo",
+  "fetched_at": "2026-03-27T09:27:52Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

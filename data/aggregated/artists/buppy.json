@@ -2,6 +2,7 @@
   "canonical_slug": "buppy",
   "name": "Buppy.",
   "spotify_artist_id": "3ycfZfYaqEN0PpZ2nB89k4",
+  "spotify_url": "https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb531e3b503ee067d9806c8b72",
@@ -19,5 +20,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Bumpy (singer)",
+    "Bumpy Johnson",
+    "Bumpy Ride",
+    "Bupaya Pagoda",
+    "Buppah Rahtree",
+    "Buppy",
+    "Bupyeong District",
+    "Bupyeong High School",
+    "Bupyeong Station",
+    "Sonny Bupp"
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,19 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "487d56d6-e4e3-4ab0-83f3-3e87c8a1e279",
+  "name": "DJ King Assassin",
+  "musicbrainz_artist_id": "487d56d6-e4e3-4ab0-83f3-3e87c8a1e279",
+  "source_genres": [
+    "hip hop",
+    "compton",
+    "detroit",
+    "east palo alto",
+    "oceanside",
+    "sacramento",
+    "south central los angeles",
+    "vallejo"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ]
+}

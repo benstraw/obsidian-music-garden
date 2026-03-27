@@ -1,0 +1,86 @@
+{
+  "source": "wikipedia",
+  "source_genre": "roots rock",
+  "canonical_genre_slug": "roots-rock",
+  "status": "matched",
+  "page_title": "Roots rock",
+  "summary": "Roots rock is a genre of rock music that looks back to rock's origins in folk, blues, and country music. First emerging in the late 1960s, it is seen as a response to the perceived excesses of the then dominant psychedelic and the developing progressive rock. Because roots music (Americana) is often used to mean folk and world musical forms, roots rock is sometimes used in a broad sense to describe any rock music that incorporates elements of this music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Roots_rock",
+  "candidates": [
+    "Roots rock",
+    "Roots Rocking Zimbabwe",
+    "Roots Rock Riot",
+    "Roots, Rock, Reggae",
+    "Roots rock reggae",
+    "Rootstock",
+    "Robot Rock (song)",
+    "Roots folk",
+    "Ross Rocklynne",
+    "Robot Rock (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Roots rock",
+    "page_url": "https://en.wikipedia.org/wiki/Roots_rock",
+    "retrieved_at": "2026-03-27T09:31:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bob Dylan in November 1963.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_in_November_1963.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+    "width": 734,
+    "height": 1107,
+    "license": "Public domain",
+    "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Dylan in November 1963.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_in_November_1963.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Bob_Dylan_in_November_1963.jpg",
+      "width": 734,
+      "height": 1107,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duane Allman.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duane_Allman.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Duane_Allman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duane_Allman.jpg/960px-Duane_Allman.jpg",
+      "width": 3262,
+      "height": 4472,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56181125@N00\"\u003eEd Berman\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood mac peter green 5.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_mac_peter_green_5.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fleetwood_mac_peter_green_5.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fleetwood_mac_peter_green_5.jpg/960px-Fleetwood_mac_peter_green_5.jpg",
+      "width": 1823,
+      "height": 2500,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:W.W.Thaler\" title=\"User:W.W.Thaler\"\u003eW.W.Thaler - H. Weber, Hildesheim\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

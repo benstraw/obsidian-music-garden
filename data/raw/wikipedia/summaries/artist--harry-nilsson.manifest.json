@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Harry%20Nilsson",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Harry%20Nilsson",
+  "cache_key": "summaries/artist--harry-nilsson",
+  "fetched_at": "2026-03-27T09:26:25Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

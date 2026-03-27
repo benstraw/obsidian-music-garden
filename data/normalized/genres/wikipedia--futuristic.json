@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "futuristic",
+  "canonical_genre_slug": "futuristic",
+  "status": "matched",
+  "page_title": "Future",
+  "summary": "The future is the time after the past and present. Its arrival is considered inevitable due to the existence of time and the laws of physics. Due to the apparent nature of reality and the unavoidability of the future, everything that currently exists and will exist can be categorized as either permanent, meaning that it will exist forever, or temporary, meaning that it will end. In the Occidental view, which uses a linear conception of time, the future is the portion of the projected timeline that is anticipated to occur. In special relativity, the future is considered absolute future, or the future light cone.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Future",
+  "candidates": [
+    "Futuristic",
+    "Futuristic discography",
+    "Futuristic (rapper)",
+    "Futuristic Polar Bears",
+    "Futuristic Dragon",
+    "Futuristic Violence and Fancy Suits",
+    "Futuristic Retro Champions",
+    "Futuristic Love (Elroy)",
+    "Futuristic Technological Concepts",
+    "Futuristic Mob"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Future",
+    "page_url": "https://en.wikipedia.org/wiki/Future",
+    "retrieved_at": "2026-03-27T09:30:53Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zeitpyramide_2023_B.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zeitpyramide_2023_B.jpg/330px-Zeitpyramide_2023_B.jpg",
+    "width": 4032,
+    "height": 3024
+  }
+}

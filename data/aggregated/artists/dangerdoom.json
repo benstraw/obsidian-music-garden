@@ -2,6 +2,7 @@
   "canonical_slug": "dangerdoom",
   "name": "DANGERDOOM",
   "spotify_artist_id": "0b3fYxnG6tlR0zLtBJd8DF",
+  "spotify_url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF",
   "images": [
     {
       "url": "https://i.scdn.co/image/135934b2b384817e7727d303c23a22dfe84ace90",
@@ -24,5 +25,18 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Danger (comics)",
+    "Danger Dolls",
+    "Danger Doom",
+    "Danger Room",
+    "Danger Tomorrow",
+    "Danger Woman",
+    "Danger dog",
+    "Danger from the Deep",
+    "Dangerookipawaa Freestyle",
+    "Doug Danger"
+  ],
+  "last_updated": "2026-03-27"
 }

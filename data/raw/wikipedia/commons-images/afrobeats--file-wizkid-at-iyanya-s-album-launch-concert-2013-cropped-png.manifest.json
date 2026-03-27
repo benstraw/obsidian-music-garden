@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AWizkid+at+Iyanya%27s+album+launch+concert%2C+2013+%28Cropped%29.png",
+  "cache_key": "commons-images/afrobeats--file-wizkid-at-iyanya-s-album-launch-concert-2013-cropped-png",
+  "fetched_at": "2026-03-27T09:29:32Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

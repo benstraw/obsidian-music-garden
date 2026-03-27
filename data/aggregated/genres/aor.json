@@ -1,4 +1,102 @@
 {
   "canonical_slug": "aor",
-  "pending": true
+  "display_title": "AOR",
+  "display_name": "AOR",
+  "parent_slug": "rock",
+  "notes": "Album-oriented rock / adult-oriented rock umbrella.",
+  "aliases": [
+    "aor"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Aor",
+    "Aoraki / Mount Cook",
+    "Aoraki / Mount Cook National Park",
+    "Aorist (Ancient Greek)",
+    "Aorta",
+    "Aortic aneurysm",
+    "Aortic dissection",
+    "Aortic regurgitation",
+    "Aortic stenosis",
+    "Aortic valve replacement"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 3,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 3,
+    "first_played_at": "2026-03-16T16:22:44Z",
+    "last_played_at": "2026-03-16T23:27:47.925Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "maurice-white",
+      "name": "Maurice White",
+      "play_count": 3,
+      "spotify_artist_id": "6T46cZo3M8wXq5eOoXbZBx",
+      "spotify_url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "maurice-white--maurice-white",
+      "name": "Maurice White",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "maurice-white",
+      "primary_artist_name": "Maurice White"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "maurice-white--i-need-you",
+      "name": "I Need You",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "maurice-white",
+      "primary_artist_name": "Maurice White",
+      "release_canonical_slug": "maurice-white--maurice-white",
+      "release_name": "Maurice White",
+      "spotify_track_id": "2z0bWcFtSYWgszc1Dbj7o0",
+      "spotify_url": "https://open.spotify.com/track/2z0bWcFtSYWgszc1Dbj7o0"
+    },
+    {
+      "canonical_slug": "maurice-white--lady-is-love",
+      "name": "Lady Is Love",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "maurice-white",
+      "primary_artist_name": "Maurice White",
+      "release_canonical_slug": "maurice-white--maurice-white",
+      "release_name": "Maurice White",
+      "spotify_track_id": "1qSxV5uxGIsPtb2AfmpYg8",
+      "spotify_url": "https://open.spotify.com/track/1qSxV5uxGIsPtb2AfmpYg8"
+    },
+    {
+      "canonical_slug": "maurice-white--stand-by-me",
+      "name": "Stand By Me",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "maurice-white",
+      "primary_artist_name": "Maurice White",
+      "release_canonical_slug": "maurice-white--maurice-white",
+      "release_name": "Maurice White",
+      "spotify_track_id": "78ed1StERMVBNocbSEQpCF",
+      "spotify_url": "https://open.spotify.com/track/78ed1StERMVBNocbSEQpCF"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-16T23:27:47.925Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -2,6 +2,7 @@
   "canonical_slug": "stephen-wilson-jr",
   "name": "Stephen Wilson Jr.",
   "spotify_artist_id": "4DSDa4HvAWqvb3dMHUOAfd",
+  "spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb2e25871e208b1befa79b4c44",
@@ -19,5 +20,24 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "matched",
+  "wikipedia_title": "Stephen Wilson Jr.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.",
+  "summary": "Stephen Wilson Jr. is an American country and rock singer, guitarist, and songwriter.",
+  "candidates": [
+    "Stephen Wilson",
+    "Stephen Wilson (athlete)",
+    "Stephen Wilson (boxer)",
+    "Stephen Wilson (historian)",
+    "Stephen Wilson Bethel",
+    "Stephen Wilson Furness",
+    "Stephen Wilson Jr."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stephen Wilson Jr.",
+    "page_url": "https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.",
+    "retrieved_at": "2026-03-27T09:28:04Z"
+  },
+  "last_updated": "2026-03-27"
 }

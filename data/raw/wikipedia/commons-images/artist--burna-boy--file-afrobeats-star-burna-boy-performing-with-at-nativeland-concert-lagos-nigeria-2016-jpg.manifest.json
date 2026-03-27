@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AAfrobeats+star+Burna+Boy+performing+with+at+Nativeland+Concert%2C+Lagos%2C+Nigeria+2016.jpg",
+  "cache_key": "commons-images/artist--burna-boy--file-afrobeats-star-burna-boy-performing-with-at-nativeland-concert-lagos-nigeria-2016-jpg",
+  "fetched_at": "2026-03-27T09:25:44Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

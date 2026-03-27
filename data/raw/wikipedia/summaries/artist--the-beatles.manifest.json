@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/The%20Beatles",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/The%20Beatles",
+  "cache_key": "summaries/artist--the-beatles",
+  "fetched_at": "2026-03-27T09:28:11Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

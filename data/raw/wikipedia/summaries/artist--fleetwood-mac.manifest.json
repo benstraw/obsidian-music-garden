@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Fleetwood%20Mac",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Fleetwood%20Mac",
+  "cache_key": "summaries/artist--fleetwood-mac",
+  "fetched_at": "2026-03-27T09:26:14Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

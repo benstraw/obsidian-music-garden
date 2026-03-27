@@ -2,6 +2,10 @@
   "canonical_slug": "junior-m-a-f-i-a",
   "name": "Junior M.A.F.I.A.",
   "spotify_artist_id": "3r0OeTcOw37N9juMYyyw39",
+  "spotify_url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39",
+  "genres": [
+    "east-coast-hip-hop"
+  ],
   "source_genres": [
     "east coast hip hop"
   ],
@@ -22,5 +26,19 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Junior M.A.F.I.A.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Junior_M.A.F.I.A.",
+  "summary": "Junior M.A.F.I.A. was an American hip hop group from Bedford–Stuyvesant, Brooklyn, New York City. The backronym M.A.F.I.A. stands for Masters At Finding Intelligent Attitudes. They were formed and mentored by New York rapper The Notorious B.I.G. In 1995, they released their debut album, Conspiracy. The success of the group's singles \"Player's Anthem\" and \"Get Money\" helped launch the career of Lil' Kim as a solo artist.",
+  "candidates": [
+    "Junior M.A.F.I.A.",
+    "Junior M.A.F.I.A. discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Junior M.A.F.I.A.",
+    "page_url": "https://en.wikipedia.org/wiki/Junior_M.A.F.I.A.",
+    "retrieved_at": "2026-03-27T09:26:39Z"
+  },
+  "last_updated": "2026-03-27"
 }

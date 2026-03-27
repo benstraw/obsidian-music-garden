@@ -1,0 +1,32 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "9beb62b2-88db-4cea-801e-162cd344ee53",
+  "name": "Beastie Boys",
+  "musicbrainz_artist_id": "9beb62b2-88db-4cea-801e-162cd344ee53",
+  "source_genres": [
+    "alternative hip hop",
+    "alternative rock",
+    "east coast hip hop",
+    "experimental hip hop",
+    "funk",
+    "hardcore hip hop",
+    "hardcore punk",
+    "hip hop",
+    "rap rock",
+    "rock",
+    "mid-school hip hop",
+    "new york hardcore",
+    "rap"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-hip-hop",
+    "alternative-rock",
+    "east-coast-hip-hop",
+    "funk",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "rap",
+    "rap-rock",
+    "rock"
+  ]
+}

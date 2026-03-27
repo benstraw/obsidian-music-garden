@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Junior%20M.A.F.I.A.",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Junior%20M.A.F.I.A.",
+  "cache_key": "summaries/artist--junior-m-a-f-i-a",
+  "fetched_at": "2026-03-27T09:26:42Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

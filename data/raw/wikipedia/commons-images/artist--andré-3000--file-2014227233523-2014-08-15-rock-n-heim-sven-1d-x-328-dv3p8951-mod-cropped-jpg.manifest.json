@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3A2014227233523+2014-08-15+Rock%27n%27Heim+-+Sven+-+1D+X+-+328+-+DV3P8951+mod+%28cropped%29.jpg",
+  "cache_key": "commons-images/artist--andré-3000--file-2014227233523-2014-08-15-rock-n-heim-sven-1d-x-328-dv3p8951-mod-cropped-jpg",
+  "fetched_at": "2026-03-27T09:24:52Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

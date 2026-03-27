@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
   "name": "Miles Davis",
+  "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
   "source_genres": [
     "bebop",
     "cool jazz",
@@ -10,6 +11,14 @@
     "jazz",
     "jazz ballads",
     "jazz fusion"
+  ],
+  "canonical_genre_slugs": [
+    "bebop",
+    "cool-jazz",
+    "free-jazz",
+    "hard-bop",
+    "jazz",
+    "jazz-fusion"
   ],
   "status": "matched",
   "page_title": "Miles Davis",

@@ -2,6 +2,14 @@
   "canonical_slug": "sun-ra",
   "name": "Sun Ra",
   "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+  "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX",
+  "genres": [
+    "experimental",
+    "experimental-jazz",
+    "free-jazz",
+    "hard-bop",
+    "jazz"
+  ],
   "source_genres": [
     "avant-garde",
     "experimental jazz",
@@ -31,5 +39,78 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Sun Ra",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Ra",
+  "summary": "Le Sony'r Ra, better known as Sun Ra, was an American jazz composer, bandleader, piano and synthesizer player, and poet known for his experimental music, \"cosmic\" philosophy, prolific output, and theatrical performances. For much of his career, Ra led The Arkestra, an ensemble with an ever-changing name and flexible line-up.",
+  "candidates": [
+    "Sun Ra",
+    "Sun Ra and his Solar Arkestra Visits Planet Earth",
+    "Sun Ra discography",
+    "Sun Racing Plate Handicap Chase",
+    "Sun Racket",
+    "Sun Raster",
+    "Sun Ray",
+    "Sun Ray (disambiguation)",
+    "Sun Ray, Florida",
+    "SunRail"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sun Ra",
+    "page_url": "https://en.wikipedia.org/wiki/Sun_Ra",
+    "retrieved_at": "2026-03-27T09:28:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:SunRa in 1992 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:SunRa_in_1992_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SunRa_in_1992_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SunRa_in_1992_%28cropped%29.jpg",
+    "width": 530,
+    "height": 466,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Pandelis_karayorgis\" class=\"extiw\" title=\"wikipedia:User:Pandelis karayorgis\"\u003ePandelis karayorgis\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Pandelis_karayorgis\" class=\"extiw\" title=\"wikipedia:User:Pandelis karayorgis\"\u003ePandelis karayorgis\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:SunRa in 1992 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:SunRa_in_1992_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SunRa_in_1992_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/SunRa_in_1992_%28cropped%29.jpg",
+      "width": 530,
+      "height": 466,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Pandelis_karayorgis\" class=\"extiw\" title=\"wikipedia:User:Pandelis karayorgis\"\u003ePandelis karayorgis\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Pandelis_karayorgis\" class=\"extiw\" title=\"wikipedia:User:Pandelis karayorgis\"\u003ePandelis karayorgis\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sun Ra (1973 publicity photo - Impulse ABC Dunhill).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sun_Ra_(1973_publicity_photo_-_Impulse_ABC_Dunhill).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sun_Ra_%281973_publicity_photo_-_Impulse_ABC_Dunhill%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sun_Ra_%281973_publicity_photo_-_Impulse_ABC_Dunhill%29.jpg/960px-Sun_Ra_%281973_publicity_photo_-_Impulse_ABC_Dunhill%29.jpg",
+      "width": 1402,
+      "height": 2048,
+      "license": "Public domain",
+      "author": "Distributed by Impulse! Records and ABC/Dunhill Records. Photographer uncredited on the publicity photo itself; most likely Francis Ing, who is credited for the photography on \u003ci\u003eAstro Black\u003c/i\u003e (see Discogs link above)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sun ra arkestra.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sun_ra_arkestra.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sun_ra_arkestra.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sun_ra_arkestra.jpg/960px-Sun_ra_arkestra.jpg",
+      "width": 3918,
+      "height": 1991,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Andy Newcombe"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

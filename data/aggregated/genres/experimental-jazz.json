@@ -1,4 +1,181 @@
 {
   "canonical_slug": "experimental-jazz",
-  "pending": true
+  "display_title": "Experimental Jazz",
+  "display_name": "Experimental Jazz",
+  "parent_slug": "jazz",
+  "aliases": [
+    "experimental jazz"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Avant-garde jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
+  "summary": "Avant-garde jazz is a style of music and improvisation that combines avant-garde art music and composition with jazz. It originated in the early 1950s and developed through the late 1960s. One of the earliest developments within avant-garde jazz was that of free jazz, and the two terms were originally synonymous. Much avant-garde jazz is stylistically distinct, however, in that it lacks free jazz's thoroughly improvised nature and is either fully or partially composed.",
+  "candidates": [
+    "Experimental jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Avant-garde jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
+    "retrieved_at": "2026-03-27T09:30:43Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 5,
+    "unique_artist_count": 4,
+    "unique_release_count": 5,
+    "unique_track_count": 5,
+    "first_played_at": "2026-03-03T13:08:31.707Z",
+    "last_played_at": "2026-03-11T05:48:16.307Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "nala-sinephro",
+      "name": "Nala Sinephro",
+      "play_count": 2,
+      "spotify_artist_id": "2h5syT5XdsQgKLq8Yn1klO",
+      "spotify_url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+    },
+    {
+      "canonical_slug": "ornette-coleman",
+      "name": "Ornette Coleman",
+      "play_count": 1,
+      "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
+      "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+    },
+    {
+      "canonical_slug": "shabaka",
+      "name": "Shabaka",
+      "play_count": 1,
+      "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+      "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+    },
+    {
+      "canonical_slug": "sun-ra",
+      "name": "Sun Ra",
+      "play_count": 1,
+      "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+      "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "shabaka--afrikan-culture",
+      "name": "Afrikan Culture",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shabaka",
+      "primary_artist_name": "Shabaka"
+    },
+    {
+      "canonical_slug": "nala-sinephro--endlessness",
+      "name": "Endlessness",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "nala-sinephro",
+      "primary_artist_name": "Nala Sinephro"
+    },
+    {
+      "canonical_slug": "nala-sinephro--space-1-8",
+      "name": "Space 1.8",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "nala-sinephro",
+      "primary_artist_name": "Nala Sinephro"
+    },
+    {
+      "canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
+      "name": "The Shape Of Jazz To Come",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman"
+    },
+    {
+      "canonical_slug": "sun-ra--we-travel-the-spaceways",
+      "name": "We Travel the Spaceways",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "shabaka--black-meditation",
+      "name": "Black meditation",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shabaka",
+      "primary_artist_name": "Shabaka",
+      "release_canonical_slug": "shabaka--afrikan-culture",
+      "release_name": "Afrikan Culture",
+      "spotify_track_id": "0OK7oUUtjtUAVNxgXFtqsw",
+      "spotify_url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
+    },
+    {
+      "canonical_slug": "nala-sinephro--continuum-3",
+      "name": "Continuum 3",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "nala-sinephro",
+      "primary_artist_name": "Nala Sinephro",
+      "release_canonical_slug": "nala-sinephro--endlessness",
+      "release_name": "Endlessness",
+      "spotify_track_id": "0AXfx8KBcjY3TlrHmApvNr",
+      "spotify_url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
+    },
+    {
+      "canonical_slug": "ornette-coleman--lonely-woman",
+      "name": "Lonely Woman",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman",
+      "release_canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
+      "release_name": "The Shape Of Jazz To Come",
+      "spotify_track_id": "23aDP04QX8MAHA99FLaPtN",
+      "spotify_url": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN"
+    },
+    {
+      "canonical_slug": "nala-sinephro--space-4",
+      "name": "Space 4",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "nala-sinephro",
+      "primary_artist_name": "Nala Sinephro",
+      "release_canonical_slug": "nala-sinephro--space-1-8",
+      "release_name": "Space 1.8",
+      "spotify_track_id": "11lcWjr6YXEH0EOCcU7Pfp",
+      "spotify_url": "https://open.spotify.com/track/11lcWjr6YXEH0EOCcU7Pfp"
+    },
+    {
+      "canonical_slug": "sun-ra--tapestry-from-an-asteroid",
+      "name": "Tapestry from an Asteroid",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--we-travel-the-spaceways",
+      "release_name": "We Travel the Spaceways",
+      "spotify_track_id": "0EjtZmOLT6WLShJRHCFWVU",
+      "spotify_url": "https://open.spotify.com/track/0EjtZmOLT6WLShJRHCFWVU"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--experimental-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
+      "retrieved_at": "2026-03-27T09:30:43Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-11T05:48:16.307Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

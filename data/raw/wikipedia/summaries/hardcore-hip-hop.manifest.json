@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Hardcore%20hip-hop",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Hardcore%20hip-hop",
+  "cache_key": "summaries/hardcore-hip-hop",
+  "fetched_at": "2026-03-27T09:30:59Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

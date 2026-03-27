@@ -1,0 +1,92 @@
+{
+  "source": "wikipedia",
+  "source_genre": "west coast hip hop",
+  "canonical_genre_slug": "west-coast-hip-hop",
+  "status": "matched",
+  "page_title": "West Coast hip-hop",
+  "summary": "West Coast hip-hop is a regional genre of hip-hop music that encompasses any artists or music that originated in the West Coast of the United States. West Coast hip-hop began to dominate from a radio play and sales standpoint during the early to-mid 1990s with the birth of G-funk and the emergence of record labels such as Suge Knight and Dr. Dre's Death Row Records, Ice Cube's Lench Mob Records, the continued success of Eazy-E's Ruthless Records, Dr. Dre's Aftermath Entertainment, and many others. Though the term \"West Coast hip hop\" may also be used to describe Northwest hip-hop and other movements from the Western U.S., it is primarily associated with the state of California, especially Los Angeles and the San Francisco Bay Area.",
+  "canonical_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+  "candidates": [
+    "West Coast hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "West Coast hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+    "retrieved_at": "2026-03-27T09:32:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dr. Dre.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+    "width": 400,
+    "height": 594,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ed Kavishe"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dr. Dre.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+      "width": 400,
+      "height": 594,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Ed Kavishe"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eazy E headshot.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eazy_E_headshot.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg",
+      "width": 164,
+      "height": 213,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Edward Reyes (see \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39141866@N04\"\u003ehere\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kendrick Lamar @ Grosse Freiheit 36, Hamburg (9498448120) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kendrick_Lamar_@_Grosse_Freiheit_36,_Hamburg_(9498448120)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kendrick_Lamar_%40_Grosse_Freiheit_36%2C_Hamburg_%289498448120%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kendrick_Lamar_%40_Grosse_Freiheit_36%2C_Hamburg_%289498448120%29_%28cropped%29.jpg/960px-Kendrick_Lamar_%40_Grosse_Freiheit_36%2C_Hamburg_%289498448120%29_%28cropped%29.jpg",
+      "width": 1302,
+      "height": 1855,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "hds"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MC Hammer 2010 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MC_Hammer_2010_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MC_Hammer_2010_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MC_Hammer_2010_%28cropped%29.jpg",
+      "width": 365,
+      "height": 548,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23294020@N03\"\u003ePhilip Nelson\u003c/a\u003e from San Antonio, TX, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Snoop Dogg 2019 by Glenn Francis.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg/960px-Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+      "width": 2858,
+      "height": 4286,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\"\u003eToglenn\u003c/a\u003e"
+    }
+  ]
+}

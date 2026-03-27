@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Cross%20Canadian%20Ragweed",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Cross%20Canadian%20Ragweed",
+  "cache_key": "summaries/artist--cross-canadian-ragweed",
+  "fetched_at": "2026-03-27T09:25:55Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

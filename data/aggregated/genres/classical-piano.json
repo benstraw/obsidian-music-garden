@@ -1,4 +1,240 @@
 {
   "canonical_slug": "classical-piano",
-  "pending": true
+  "display_title": "Classical Piano",
+  "display_name": "Classical Piano",
+  "parent_slug": "classical",
+  "aliases": [
+    "classical piano"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Piano",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Piano",
+  "summary": "A piano is a keyboard instrument that produces sound when its keys are depressed, activating an action mechanism where hammers strike strings. Modern pianos have a row of 88 black and white keys—with the exception of the Bosendörfer and Stuart \u0026 Sons pianos—and tuned to a chromatic scale in equal temperament. A musician who specializes in piano is called a pianist.",
+  "candidates": [
+    "Classical Painting",
+    "Classical Pantheist",
+    "Classical canon",
+    "Classical painting",
+    "Classical pantheism",
+    "Classical piano",
+    "Classical piano in Cuba",
+    "Classical planet",
+    "Classical planet (IAU)",
+    "Classical plant breeding"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Piano",
+    "page_url": "https://en.wikipedia.org/wiki/Piano",
+    "retrieved_at": "2026-03-27T09:30:14Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Steinway_Vienna_002.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Steinway_Vienna_002.JPG/330px-Steinway_Vienna_002.JPG",
+    "width": 2561,
+    "height": 3044
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 8,
+    "unique_artist_count": 4,
+    "unique_release_count": 7,
+    "unique_track_count": 7,
+    "first_played_at": "2026-02-28T23:52:25.049Z",
+    "last_played_at": "2026-03-04T01:52:43.403Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "play_count": 5,
+      "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+      "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    },
+    {
+      "canonical_slug": "carl-philipp-emanuel-bach",
+      "name": "Carl Philipp Emanuel Bach",
+      "play_count": 1,
+      "spotify_artist_id": "3meioy7GWDwpwmjv2LPyAb",
+      "spotify_url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+    },
+    {
+      "canonical_slug": "edvard-grieg",
+      "name": "Edvard Grieg",
+      "play_count": 1,
+      "spotify_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
+      "spotify_url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+    },
+    {
+      "canonical_slug": "johannes-brahms",
+      "name": "Johannes Brahms",
+      "play_count": 1,
+      "spotify_artist_id": "5wTAi7QkpP6kp8a54lmTOq",
+      "spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
+      "name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johannes-brahms",
+      "primary_artist_name": "Johannes Brahms"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+      "name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "edvard-grieg--grieg-lyric-pieces",
+      "name": "Grieg: Lyric Pieces",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "edvard-grieg",
+      "primary_artist_name": "Edvard Grieg"
+    },
+    {
+      "canonical_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
+      "name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
+      "primary_artist_name": "Carl Philipp Emanuel Bach"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "johann-sebastian-bach--der-himmel-lacht-die-erde-jubiliert-bwv-31-no-4-fürst-des-lebens-starker-streiter-live",
+      "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, Fürst des Lebens! starker Streiter - Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "release_name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "spotify_track_id": "6ORIEgFjR7h1YBWmGyTf3C",
+      "spotify_url": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "2CI5exhYgmUhVMR8Mrunk4",
+      "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
+    },
+    {
+      "canonical_slug": "johannes-brahms--intermezzo-no-2-in-b-flat-minor-op-117-andante-non-troppo-e-con-molta-espressione-remastered",
+      "name": "Intermezzo No. 2 in B-Flat Minor, Op. 117 - Andante non troppo e con molta espressione - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johannes-brahms",
+      "primary_artist_name": "Johannes Brahms",
+      "release_canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
+      "release_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
+      "spotify_track_id": "3IioJBugNl60myrfwIm1sz",
+      "spotify_url": "https://open.spotify.com/track/3IioJBugNl60myrfwIm1sz"
+    },
+    {
+      "canonical_slug": "edvard-grieg--lyric-pieces-book-7-op-62-no-4-brooklet",
+      "name": "Lyric Pieces, Book 7, Op. 62: No. 4, Brooklet",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "edvard-grieg",
+      "primary_artist_name": "Edvard Grieg",
+      "release_canonical_slug": "edvard-grieg--grieg-lyric-pieces",
+      "release_name": "Grieg: Lyric Pieces",
+      "spotify_track_id": "6Ht2XGwq8pfy2SRkD1wTqk",
+      "spotify_url": "https://open.spotify.com/track/6Ht2XGwq8pfy2SRkD1wTqk"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-iv-sarabande",
+      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+      "release_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
+      "spotify_track_id": "73xACzrJ509NZ3jq8Z5WV4",
+      "spotify_url": "https://open.spotify.com/track/73xACzrJ509NZ3jq8Z5WV4"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--prelude-and-fugue-no-2-in-c-minor-bwv-847-prelude",
+      "name": "Prelude \u0026 Fugue No. 2 in C Minor, BWV 847: Prelude",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "release_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "spotify_track_id": "4AMJBOgveh7OVHJKTZPwVh",
+      "spotify_url": "https://open.spotify.com/track/4AMJBOgveh7OVHJKTZPwVh"
+    },
+    {
+      "canonical_slug": "carl-philipp-emanuel-bach--sonata-in-a-minor-no-1-wq-49-württembergische-sonate-ii-andante-remastered",
+      "name": "Sonata in A Minor No. 1, Wq. 49 \" Württembergische Sonate\": II. Andante - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
+      "primary_artist_name": "Carl Philipp Emanuel Bach",
+      "release_canonical_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
+      "release_name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
+      "spotify_track_id": "51jJ6SHC7E4aQcrRyFIaov",
+      "spotify_url": "https://open.spotify.com/track/51jJ6SHC7E4aQcrRyFIaov"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--classical-piano.json",
+      "url": "https://en.wikipedia.org/wiki/Piano",
+      "retrieved_at": "2026-03-27T09:30:14Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--classical-piano.json",
+      "url": "https://en.wikipedia.org/wiki/Piano",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-04T01:52:43.403Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

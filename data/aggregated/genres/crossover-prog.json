@@ -1,4 +1,58 @@
 {
   "canonical_slug": "crossover-prog",
-  "pending": true
+  "display_title": "Crossover Prog",
+  "display_name": "Crossover Prog",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Dog agility",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dog_agility",
+  "summary": "Dog agility is a dog sport in which a handler directs a dog through an obstacle course in a race for both time and accuracy. Dogs run off leash with no food or toys as incentives, and the handler can touch neither dog nor obstacles. Communication is limited to voice commands, movement, and body signals, which demands a high level of training for the dog and precise coordination from the handler.",
+  "candidates": [
+    "Crossover (dogs)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dog agility",
+    "page_url": "https://en.wikipedia.org/wiki/Dog_agility",
+    "retrieved_at": "2026-03-27T09:30:25Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chinese_Crested_hairless_agility.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chinese_Crested_hairless_agility.jpg/330px-Chinese_Crested_hairless_agility.jpg",
+    "width": 2048,
+    "height": 1350
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--crossover-prog.json",
+      "url": "https://en.wikipedia.org/wiki/Dog_agility",
+      "retrieved_at": "2026-03-27T09:30:25Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--crossover-prog.json",
+      "url": "https://en.wikipedia.org/wiki/Dog_agility",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -2,6 +2,12 @@
   "canonical_slug": "funkadelic",
   "name": "Funkadelic",
   "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+  "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+  "genres": [
+    "funk",
+    "funk-rock",
+    "psychedelic-rock"
+  ],
   "source_genres": [
     "funk",
     "funk rock",
@@ -29,5 +35,47 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Funkadelic",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Funkadelic",
+  "summary": "Funkadelic was an American funk rock band formed in Plainfield, New Jersey, in 1968 and active until 1982. As one of the two flagship groups of George Clinton's P-Funk collective, they helped pioneer the funk music culture of the 1970s. Funkadelic initially formed as a backing band for Clinton's vocal group the Parliaments, but eventually pursued a heavier, psychedelic rock-oriented sound in their own recordings. They released acclaimed albums such as Maggot Brain (1971) and One Nation Under a Groove (1978).",
+  "candidates": [
+    "Funkadelia",
+    "Funkadelic",
+    "Funkadelic (album)",
+    "Funkadelic Relic",
+    "Funkadelic discography",
+    "Funkalicious"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Funkadelic",
+    "page_url": "https://en.wikipedia.org/wiki/Funkadelic",
+    "retrieved_at": "2026-03-27T09:26:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Funkadelic 1972.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Funkadelic_1972.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Funkadelic_1972.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Funkadelic_1972.png",
+    "width": 579,
+    "height": 591,
+    "license": "Public domain",
+    "author": "Author unknown"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Funkadelic 1972.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Funkadelic_1972.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Funkadelic_1972.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Funkadelic_1972.png",
+      "width": 579,
+      "height": 591,
+      "license": "Public domain",
+      "author": "Author unknown"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

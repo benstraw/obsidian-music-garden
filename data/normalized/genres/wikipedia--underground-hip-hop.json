@@ -1,0 +1,56 @@
+{
+  "source": "wikipedia",
+  "source_genre": "underground hip hop",
+  "canonical_genre_slug": "underground-hip-hop",
+  "status": "matched",
+  "page_title": "Underground hip-hop",
+  "summary": "Underground hip-hop is a scene and style of hip-hop music that is defined as being countercultural in nature, existing outside of and in contrast to the sounds, style and aesthetics of mainstream hip-hop. Despite this, underground artists have often reached widespread success and popularity through internet virality, critical acclaim, or appearances on the Billboard charts.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Underground_hip-hop",
+  "candidates": [
+    "Underground hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Underground hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Underground_hip-hop",
+    "retrieved_at": "2026-03-27T09:32:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Lil B Nuemos 2012.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_B_Nuemos_2012.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+    "width": 800,
+    "height": 600,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51590834@N05\"\u003etaffy dale\u003c/a\u003e from Seattle, Washington"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil B Nuemos 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_B_Nuemos_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51590834@N05\"\u003etaffy dale\u003c/a\u003e from Seattle, Washington"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MF Doom (2011 portrait illustration from tour poster).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MF_Doom_(2011_portrait_illustration_from_tour_poster).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg/960px-MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg",
+      "width": 1317,
+      "height": 1974,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Illustrator uncredited. Published by \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thearches/\"\u003eTheArches\u003c/a\u003e."
+    }
+  ]
+}

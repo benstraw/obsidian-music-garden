@@ -1,0 +1,51 @@
+{
+  "source": "wikipedia",
+  "source_genre": "soul blues",
+  "canonical_genre_slug": "soul-blues",
+  "status": "matched",
+  "page_title": "Soul blues",
+  "summary": "Soul blues is a style of blues music developed in the late 1960s and early 1970s that combines elements of soul music and urban contemporary music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Soul_blues",
+  "candidates": [
+    "Soul blues",
+    "Soul Blues (album)",
+    "Soul Quest Overdrive",
+    "Soul Quest",
+    "Soul Burst",
+    "Soul Quest (Keiko Matsui album)",
+    "Soul Buster",
+    "Soul Bleed",
+    "Some Blues But Not the Kind That's Blue",
+    "Some Blues"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soul blues",
+    "page_url": "https://en.wikipedia.org/wiki/Soul_blues",
+    "retrieved_at": "2026-03-27T09:32:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

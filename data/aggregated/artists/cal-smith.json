@@ -2,6 +2,11 @@
   "canonical_slug": "cal-smith",
   "name": "Cal Smith",
   "spotify_artist_id": "3yFnqoyp1e54tZEY4ykvNB",
+  "spotify_url": "https://open.spotify.com/artist/3yFnqoyp1e54tZEY4ykvNB",
+  "genres": [
+    "country",
+    "honky-tonk"
+  ],
   "source_genres": [
     "classic country",
     "honky tonk",
@@ -24,5 +29,51 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Cal Smith",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cal_Smith",
+  "summary": "Calvin Grant Shofner, known professionally as Cal Smith, was an American country musician.",
+  "candidates": [
+    "Cal Mitchell",
+    "Cal Smith",
+    "Caleb Smith (baseball)",
+    "Cam Smith (baseball)",
+    "Cam Smith (cornerback)",
+    "Carl Smith (musician)",
+    "Carly Smithson",
+    "Cat Smith",
+    "Cat-sìth",
+    "Chad Smith"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cal Smith",
+    "page_url": "https://en.wikipedia.org/wiki/Cal_Smith",
+    "retrieved_at": "2026-03-27T09:25:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cal Smith.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cal_Smith.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cal_Smith.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cal_Smith.png",
+    "width": 357,
+    "height": 359,
+    "license": "Public domain",
+    "author": "MCA Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cal Smith.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cal_Smith.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cal_Smith.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cal_Smith.png",
+      "width": 357,
+      "height": 359,
+      "license": "Public domain",
+      "author": "MCA Records"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

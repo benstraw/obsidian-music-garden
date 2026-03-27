@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/John%20Coltrane",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/John%20Coltrane",
+  "cache_key": "summaries/artist--john-coltrane",
+  "fetched_at": "2026-03-27T09:26:35Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,0 +1,18 @@
+{
+  "source": "wikipedia",
+  "source_genre": "male vocalist",
+  "canonical_genre_slug": "male-vocalist",
+  "status": "matched",
+  "page_title": "Lead vocalist",
+  "summary": "The lead vocalist in popular music is typically the member of a group or band whose voice is the most prominent melody in a performance where multiple voices may be heard. The lead singer sets their voice against the accompaniment parts of the ensemble as the dominant sound. In vocal group performances, notably in soul and gospel music, and early rock and roll, the lead singer takes the main vocal melody, with a chorus or harmony vocals provided by other band members as backing vocalists. Lead vocalists typically incorporate some movement or gestures into their performance, and some may participate in dance routines during the show, particularly in pop music. Some lead vocalists also play an instrument during the show, either in an accompaniment role, or playing a lead instrument/instrumental solo role when they are not singing.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lead_vocalist",
+  "candidates": [
+    "Main vocalist"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lead vocalist",
+    "page_url": "https://en.wikipedia.org/wiki/Lead_vocalist",
+    "retrieved_at": "2026-03-27T09:31:19Z"
+  }
+}

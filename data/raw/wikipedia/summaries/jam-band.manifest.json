@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Jam%20band",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Jam%20band",
+  "cache_key": "summaries/jam-band",
+  "fetched_at": "2026-03-27T09:31:10Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

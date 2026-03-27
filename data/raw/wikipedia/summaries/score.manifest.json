@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Score",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Score",
+  "cache_key": "summaries/score",
+  "fetched_at": "2026-03-27T09:32:00Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

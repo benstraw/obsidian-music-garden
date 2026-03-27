@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AAdolph+Menzel+-+Fl%C3%B6tenkonzert+Friedrichs+des+Gro%C3%9Fen+in+Sanssouci+-+Google+Art+Project.jpg",
+  "cache_key": "commons-images/chamber-music--file-adolph-menzel-flötenkonzert-friedrichs-des-großen-in-sanssouci-google-art-project-jpg",
+  "fetched_at": "2026-03-27T09:25:49Z",
+  "status": "cached",
+  "content_type": "application/json"
+}

@@ -1,4 +1,151 @@
 {
   "canonical_slug": "new-wave",
-  "pending": true
+  "display_title": "New Wave",
+  "display_name": "New Wave",
+  "parent_slug": "rock",
+  "aliases": [
+    "new wave"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "New Wave (Against Me! album)",
+    "New Wave (Polish political party)",
+    "New Wave (science fiction)",
+    "New Wave – The Other Cyprus",
+    "New Waverly, Texas",
+    "New Waves",
+    "New wave",
+    "New wave music",
+    "New wave of British heavy metal",
+    "New wave of traditional heavy metal"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 7,
+    "unique_artist_count": 2,
+    "unique_release_count": 4,
+    "unique_track_count": 5,
+    "first_played_at": "2026-03-01T02:15:17.124Z",
+    "last_played_at": "2026-03-14T18:12:15.736Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "talking-heads",
+      "name": "Talking Heads",
+      "play_count": 4,
+      "spotify_artist_id": "2x9SpqnPi8rlE9pjHBwmSC",
+      "spotify_url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions",
+      "name": "Elvis Costello \u0026 The Attractions",
+      "play_count": 3,
+      "spotify_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
+      "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "name": "Armed Forces (Remastered 2020)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions"
+    },
+    {
+      "canonical_slug": "talking-heads--remain-in-light-deluxe-version",
+      "name": "Remain in Light (Deluxe Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads"
+    },
+    {
+      "canonical_slug": "talking-heads--remain-in-light",
+      "name": "Remain in Light",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads"
+    },
+    {
+      "canonical_slug": "talking-heads--speaking-in-tongues-deluxe-version",
+      "name": "Speaking in Tongues (Deluxe Version)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
+    {
+      "canonical_slug": "talking-heads--born-under-punches-the-heat-goes-on-2005-remaster",
+      "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads",
+      "release_canonical_slug": "talking-heads--remain-in-light-deluxe-version",
+      "release_name": "Remain in Light (Deluxe Version)",
+      "spotify_track_id": "4eBCTzBsSjYgrLH5clQf2x",
+      "spotify_url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
+    },
+    {
+      "canonical_slug": "talking-heads--crosseyed-and-painless-2005-remaster",
+      "name": "Crosseyed and Painless - 2005 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads",
+      "release_canonical_slug": "talking-heads--remain-in-light-deluxe-version",
+      "release_name": "Remain in Light (Deluxe Version)",
+      "spotify_track_id": "0yhwdmbgkKdE1plV8xWdrd",
+      "spotify_url": "https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd"
+    },
+    {
+      "canonical_slug": "talking-heads--once-in-a-lifetime",
+      "name": "Once in a Lifetime",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads",
+      "release_canonical_slug": "talking-heads--remain-in-light",
+      "release_name": "Remain in Light",
+      "spotify_track_id": "1Tr4K5MU5XYE44umXGDndd",
+      "spotify_url": "https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd"
+    },
+    {
+      "canonical_slug": "talking-heads--this-must-be-the-place-naive-melody-2005-remaster",
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads",
+      "release_canonical_slug": "talking-heads--speaking-in-tongues-deluxe-version",
+      "release_name": "Speaking in Tongues (Deluxe Version)",
+      "spotify_track_id": "6aBUnkXuCEQQHAlTokv9or",
+      "spotify_url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-14T18:12:15.736Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

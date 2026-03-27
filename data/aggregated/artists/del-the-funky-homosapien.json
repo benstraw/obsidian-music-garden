@@ -2,6 +2,7 @@
   "canonical_slug": "del-the-funky-homosapien",
   "name": "Del The Funky Homosapien",
   "spotify_artist_id": "0YsLR3SQd5QTXAhGIGX7cl",
+  "spotify_url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl",
   "images": [
     {
       "url": "https://i.scdn.co/image/37ddb345143488175cef180b553253a467ec5362",
@@ -24,5 +25,70 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Del the Funky Homosapien",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Del_the_Funky_Homosapien",
+  "summary": "Teren Delvon Jones, better known by his stage name Del the Funky Homosapien or Sir DZL, is an American rapper.",
+  "candidates": [
+    "Del the Funky Homosapien",
+    "Del the Funky Homosapien discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Del the Funky Homosapien",
+    "page_url": "https://en.wikipedia.org/wiki/Del_the_Funky_Homosapien",
+    "retrieved_at": "2026-03-27T09:26:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Del the Funky Homosapien.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Del_the_Funky_Homosapien.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Del_the_Funky_Homosapien.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Del_the_Funky_Homosapien.jpg",
+    "width": 300,
+    "height": 400,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Entertheinferno\" class=\"extiw\" title=\"wikipedia:User:Entertheinferno\"\u003eEntertheinferno\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e (original uploader)",
+    "attribution_text": "Created by Justin Penner for \u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.entertheinferno.ca\"\u003eEnter the Inferno\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Del the Funky Homosapien.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Del_the_Funky_Homosapien.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Del_the_Funky_Homosapien.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Del_the_Funky_Homosapien.jpg",
+      "width": 300,
+      "height": 400,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Entertheinferno\" class=\"extiw\" title=\"wikipedia:User:Entertheinferno\"\u003eEntertheinferno\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e (original uploader)",
+      "attribution_text": "Created by Justin Penner for \u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.entertheinferno.ca\"\u003eEnter the Inferno\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Del the Funky Homosapien sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Del_the_Funky_Homosapien_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Del_the_Funky_Homosapien_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Del_the_Funky_Homosapien_sig.svg/960px-Del_the_Funky_Homosapien_sig.svg.png",
+      "width": 400,
+      "height": 347,
+      "license": "Public domain",
+      "author": "Del the Funky Homosapien"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FunkeeHomosapienACL08.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FunkeeHomosapienACL08.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/FunkeeHomosapienACL08.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/FunkeeHomosapienACL08.jpg/960px-FunkeeHomosapienACL08.jpg",
+      "width": 1012,
+      "height": 1532,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mwaehner\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mwaehner (page does not exist)\"\u003eMwaehner\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -2,8 +2,26 @@
   "source": "spotify",
   "source_artist_id": "5QNm7E7RU2m64l6Gliu8Oy",
   "name": "HARDY",
+  "spotify_url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy",
   "source_genres": [
     "country",
     "country rock"
+  ],
+  "canonical_genre_slugs": [
+    "country",
+    "country-rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Françoise Hardy",
+    "Greg Hardy",
+    "Hardy Boyz",
+    "Hardy–Weinberg principle",
+    "Jeff Hardy",
+    "Matt Hardy",
+    "Oliver Hardy",
+    "The Hardy Boys",
+    "Thomas Hardy",
+    "Tom Hardy"
   ]
 }

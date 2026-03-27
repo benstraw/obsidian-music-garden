@@ -1,0 +1,165 @@
+{
+  "canonical_slug": "musique-concrete",
+  "display_title": "Musique Concrète",
+  "display_name": "Musique Concrète",
+  "parent_slug": "electronic",
+  "aliases": [
+    "musique concrete",
+    "musique concrète"
+  ],
+  "pending": false,
+  "status": "matched",
+  "wikipedia_title": "Musique concrète",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
+  "summary": "Musique concrète is a type of music composition that utilizes recorded sounds as raw material. Sounds are often modified through the application of audio signal processing and tape music techniques, and may be assembled into a form of sound collage. It can feature sounds derived from recordings of musical instruments, the human voice, and the natural environment, as well as those created using sound synthesis and computer-based digital signal processing. Compositions in this idiom are not restricted to the normal musical rules of melody, harmony, rhythm, and metre. The technique exploits acousmatic sound, such that sound identities can often be intentionally obscured or appear unconnected to their source cause.",
+  "candidates": [
+    "Musique concrète"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Musique concrète",
+    "page_url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
+    "retrieved_at": "2026-03-27T09:31:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:L430xH465 jpg Schaeffer big-2eb70.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:L430xH465 jpg Schaeffer big-2eb70.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Morphophone.JPG"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Phonogene.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Phonogene.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Phonogene.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Phonogene.jpg",
+      "width": 312,
+      "height": 406,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"en:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Semitransgenic\" class=\"extiw\" title=\"en:User talk:Semitransgenic\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"wikipedia:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pierre Henry in concert, 1952.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Psconcer.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Psconcer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Psconcer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Psconcer.jpg",
+      "width": 394,
+      "height": 293,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"en:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Semitransgenic\" class=\"extiw\" title=\"en:User talk:Semitransgenic\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Semitransgenic\" class=\"extiw\" title=\"wikipedia:User:Semitransgenic\"\u003eSemitransgenic\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2026-03-03T14:30:00.780Z",
+    "last_played_at": "2026-03-12T16:54:06.655Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "mauricio-kagel",
+      "name": "Mauricio Kagel",
+      "play_count": 1,
+      "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+      "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
+    },
+    {
+      "canonical_slug": "negativland",
+      "name": "Negativland",
+      "play_count": 1,
+      "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+      "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "negativland--escape-from-noise",
+      "name": "Escape from Noise",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland"
+    },
+    {
+      "canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
+      "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mauricio-kagel",
+      "primary_artist_name": "Mauricio Kagel"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "negativland--endscape",
+      "name": "Endscape",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "4jM4ZrBOBuCE5sRsXuk8iH",
+      "spotify_url": "https://open.spotify.com/track/4jM4ZrBOBuCE5sRsXuk8iH"
+    },
+    {
+      "canonical_slug": "mauricio-kagel--match-für-3-spieler-pt-1",
+      "name": "Match für 3 Spieler - Pt. 1",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mauricio-kagel",
+      "primary_artist_name": "Mauricio Kagel",
+      "release_canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
+      "release_name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
+      "spotify_track_id": "4VDhJhQnw1GIfx878K53WL",
+      "spotify_url": "https://open.spotify.com/track/4VDhJhQnw1GIfx878K53WL"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--musique-concrete.json",
+      "url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
+      "retrieved_at": "2026-03-27T09:31:24Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--musique-concrete.json",
+      "url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-12T16:54:06.655Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
+}

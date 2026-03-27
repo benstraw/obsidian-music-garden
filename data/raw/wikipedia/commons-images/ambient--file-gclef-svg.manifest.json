@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AGClef.svg",
+  "cache_key": "commons-images/ambient--file-gclef-svg",
+  "fetched_at": "2026-03-27T08:35:32Z",
+  "status": "cached",
+  "content_type": "application/json"
+}

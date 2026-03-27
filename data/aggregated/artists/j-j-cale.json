@@ -2,6 +2,12 @@
   "canonical_slug": "j-j-cale",
   "name": "J.J. Cale",
   "spotify_artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
+  "spotify_url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN",
+  "genres": [
+    "blues",
+    "blues-rock",
+    "country-rock"
+  ],
   "source_genres": [
     "blues",
     "blues rock",
@@ -24,5 +30,34 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "JJ Cale",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/JJ_Cale",
+  "summary": "John Weldon \"JJ\" Cale was an American guitarist, singer, and songwriter. Though he avoided the limelight, his influence as a musical artist has been acknowledged by figures such as Neil Young, Mark Knopfler, Waylon Jennings, and Eric Clapton, who described him as one of the most important artists in rock history. He is one of the originators of the Tulsa sound, a loose genre drawing on blues, rockabilly, country, and jazz.",
+  "candidates": [
+    "J. Caleb Boggs",
+    "J. Caleb Clanton",
+    "J. J. Cale discography",
+    "J. J. McAlester",
+    "J.J. Barea",
+    "J.J. Cale",
+    "J.J. Lehto",
+    "J.J. Malone",
+    "J.J. Vallow",
+    "J.J. Yeley"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "JJ Cale",
+    "page_url": "https://en.wikipedia.org/wiki/JJ_Cale",
+    "retrieved_at": "2026-03-27T09:26:28Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/J.J._CALE_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/J.J._CALE_%28cropped%29.jpg/330px-J.J._CALE_%28cropped%29.jpg",
+    "width": 990,
+    "height": 1086
+  },
+  "last_updated": "2026-03-27"
 }

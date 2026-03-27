@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/f6486fc7-90ef-48ad-8ca3-905af1354afe",
+  "request_url": "https://musicbrainz.org/ws/2/artist/f6486fc7-90ef-48ad-8ca3-905af1354afe?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/f6486fc7-90ef-48ad-8ca3-905af1354afe",
+  "fetched_at": "2026-03-27T09:33:56Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

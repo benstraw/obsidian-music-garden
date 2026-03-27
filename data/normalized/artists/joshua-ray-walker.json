@@ -2,10 +2,18 @@
   "source": "spotify",
   "source_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
   "name": "Joshua Ray Walker",
+  "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr",
   "source_genres": [
     "alt country",
     "americana",
     "outlaw country",
     "red dirt"
-  ]
+  ],
+  "canonical_genre_slugs": [
+    "alt-country",
+    "americana",
+    "outlaw-country",
+    "red-dirt"
+  ],
+  "status": "not_found"
 }

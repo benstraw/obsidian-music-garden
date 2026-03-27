@@ -1,0 +1,91 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "igor-stravinsky",
+  "name": "Igor Stravinsky",
+  "status": "matched",
+  "page_title": "Igor Stravinsky",
+  "summary": "Igor Fyodorovich Stravinsky was a Russian composer and conductor with French and American citizenship. He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+  "candidates": [
+    "Igor Stravinsky",
+    "Igor Stravinsky's The Soldier's Tale",
+    "Igor Stravinsky discography",
+    "Igor Straminsky",
+    "Igor Stravinskiy (ship)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Igor Stravinsky",
+    "page_url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+    "retrieved_at": "2026-03-27T09:26:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alexandra Danilova and Serge Lifar in Apollon Musagete.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg/960px-Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg",
+    "width": 1024,
+    "height": 1398,
+    "license": "Public domain",
+    "author": "Unknown"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alexandra Danilova and Serge Lifar in Apollon Musagete.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg/960px-Alexandra_Danilova_and_Serge_Lifar_in_Apollon_Musagete.jpg",
+      "width": 1024,
+      "height": 1398,
+      "license": "Public domain",
+      "author": "Unknown"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ballets Russes Apollon 1928.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ballets_Russes_Apollon_1928.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ballets_Russes_Apollon_1928.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ballets_Russes_Apollon_1928.jpg",
+      "width": 662,
+      "height": 775,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dushkin LCCN2014717914 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dushkin_LCCN2014717914_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Dushkin_LCCN2014717914_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dushkin_LCCN2014717914_%28cropped%29.jpg/960px-Dushkin_LCCN2014717914_%28cropped%29.jpg",
+      "width": 2338,
+      "height": 3442,
+      "license": "Public domain",
+      "author": "Bain News Service, publisher"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "source": "wikipedia",
+  "source_genre": "acid jazz",
+  "canonical_genre_slug": "acid-jazz",
+  "status": "matched",
+  "page_title": "Acid jazz",
+  "summary": "Acid jazz is a music genre that combines elements of funk, soul, and hip hop. Acid jazz originated in clubs in London during the 1980s with the rare groove movement and spread to the United States, Western Europe, Latin America and Japan. Acts included The Brand New Heavies, Incognito, James Taylor Quartet, Us3, and Jamiroquai from the UK, and Guru, Buckshot LeFonque and Digable Planets from the U.S. The rise of electronic club music in the middle to late 1990s led to a decline in interest, and in the twenty-first century, acid jazz became indistinct as a genre. Many acts that might have been defined as acid jazz are seen as jazz-funk, or nu jazz.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Acid_jazz",
+  "candidates": [
+    "Acid jazz",
+    "Acid Jazz Records",
+    "Acid Jazzed Evening",
+    "Acid Jazz (wrestler)",
+    "AC Jazz (Nitro Girl)",
+    "Acid (Japanese band)",
+    "Ac jazz",
+    "Acid azide",
+    "Air (jazz rock band)",
+    "Adidja Nzeyimana"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Acid jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Acid_jazz",
+    "retrieved_at": "2026-03-27T09:29:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Edit-clear.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+    "width": 48,
+    "height": 48,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gilles Peterson 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gilles_Peterson_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gilles_Peterson_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gilles_Peterson_01.jpg/960px-Gilles_Peterson_01.jpg",
+      "width": 1800,
+      "height": 1350,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/40425668@N00\"\u003eLaughlin Elkind\u003c/a\u003e from Santa Cruz"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guru (rapper).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guru_(rapper).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Guru_%28rapper%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Guru_%28rapper%29.jpg/960px-Guru_%28rapper%29.jpg",
+      "width": 1134,
+      "height": 1624,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:BarbD\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:BarbD (page does not exist)\"\u003eBarbara Mürdter\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Brand New Heavies By Daniel Åhs Karlsson.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Brand_New_Heavies_By_Daniel_%C3%85hs_Karlsson.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/The_Brand_New_Heavies_By_Daniel_%C3%85hs_Karlsson.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Brand_New_Heavies_By_Daniel_%C3%85hs_Karlsson.jpg/960px-The_Brand_New_Heavies_By_Daniel_%C3%85hs_Karlsson.jpg",
+      "width": 4800,
+      "height": 3200,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Daniel%C3%A5hskarlsson\" title=\"User:Danielåhskarlsson\"\u003eDaniel Åhs Karlsson\u003c/a\u003e"
+    }
+  ]
+}

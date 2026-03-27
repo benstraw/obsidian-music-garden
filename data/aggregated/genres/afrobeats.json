@@ -1,4 +1,166 @@
 {
   "canonical_slug": "afrobeats",
-  "pending": true
+  "display_title": "Afrobeats",
+  "display_name": "Afrobeats",
+  "notes": "Contemporary pop umbrella distinct from classic afrobeat.",
+  "aliases": [
+    "afrobeats"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Afrobeats",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Afrobeats",
+  "summary": "Afrobeats, not to be confused with Afrobeat or Afroswing, is an umbrella term to describe popular music from West Africa and the diaspora that initially developed in Nigeria, Ghana, and the UK in the 2000s and 2010s. Afrobeats is less of a style per se, and more of a descriptor for the fusion of sounds flowing out of Nigeria and Ghana. Genres such as hiplife, jùjú music, highlife, azonto music, and naija beats, among others, were amalgamated under the \"Afrobeats\" umbrella.",
+  "candidates": [
+    "AfroBasket 2007",
+    "AfroBasket 2009",
+    "AfroBasket 2011",
+    "AfroBasket 2013",
+    "AfroBasket 2015",
+    "AfroBasket 2015 squads",
+    "AfroBasket 2017 qualification",
+    "Afrobeat",
+    "Afrobeats",
+    "Afrobeats: The Backstory"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Afrobeats",
+    "page_url": "https://en.wikipedia.org/wiki/Afrobeats",
+    "retrieved_at": "2026-03-27T09:29:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Burna Boy (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Burna_Boy_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Burna_Boy_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Burna_Boy_%28cropped%29.jpg",
+    "width": 372,
+    "height": 282,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ameyaw Debrah"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Burna Boy (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Burna_Boy_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Burna_Boy_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Burna_Boy_%28cropped%29.jpg",
+      "width": 372,
+      "height": 282,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Ameyaw Debrah"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Davido.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Davido.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Davido.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Davido.jpg",
+      "width": 553,
+      "height": 500,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=Ameyaw_Debrah\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"Ameyaw Debrah (page does not exist)\"\u003eAmeyaw Debrah\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fuse ODG.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fuse_ODG.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Fuse_ODG.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Fuse_ODG.jpg",
+      "width": 750,
+      "height": 500,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Ameyaw Debrah"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wizkid at Iyanya's album launch concert, 2013 (Cropped).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wizkid_at_Iyanya%27s_album_launch_concert,_2013_(Cropped).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wizkid_at_Iyanya%27s_album_launch_concert%2C_2013_%28Cropped%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wizkid_at_Iyanya%27s_album_launch_concert%2C_2013_%28Cropped%29.png",
+      "width": 291,
+      "height": 312,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "TCD PHOTOGRAPHY/The TCD Concept Ltd"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T02:24:03.192Z",
+    "last_played_at": "2026-03-03T02:24:03.192Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "burna-boy",
+      "name": "Burna Boy",
+      "play_count": 1,
+      "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+      "spotify_url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "burna-boy--african-giant",
+      "name": "African Giant",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "burna-boy",
+      "primary_artist_name": "Burna Boy"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "burna-boy--gbona",
+      "name": "Gbona",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "burna-boy",
+      "primary_artist_name": "Burna Boy",
+      "release_canonical_slug": "burna-boy--african-giant",
+      "release_name": "African Giant",
+      "spotify_track_id": "7rpWDu9GPlLxbLorYKVys7",
+      "spotify_url": "https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--afrobeats.json",
+      "url": "https://en.wikipedia.org/wiki/Afrobeats",
+      "retrieved_at": "2026-03-27T09:29:31Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--afrobeats.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Burna_Boy_(cropped).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T02:24:03.192Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

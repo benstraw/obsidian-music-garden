@@ -1,4 +1,179 @@
 {
   "canonical_slug": "red-dirt",
-  "pending": true
+  "display_title": "Red Dirt",
+  "display_name": "Red Dirt",
+  "parent_slug": "country",
+  "aliases": [
+    "red dirt"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Red Dirt (Fear the Walking Dead)",
+    "Red Dirt (film)",
+    "Red Dirt Girl",
+    "Red Dirt Rising",
+    "Red Dirt Road",
+    "Red Dirt Road (song)",
+    "Red Dirt Skinners",
+    "Red Dirt – Red Heart",
+    "Red dirt",
+    "Red dirt music"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 10,
+    "unique_artist_count": 5,
+    "unique_release_count": 5,
+    "unique_track_count": 5,
+    "first_played_at": "2026-03-03T10:54:21.035Z",
+    "last_played_at": "2026-03-15T19:35:10.245Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "play_count": 6,
+      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+    },
+    {
+      "canonical_slug": "cross-canadian-ragweed",
+      "name": "Cross Canadian Ragweed",
+      "play_count": 1,
+      "spotify_artist_id": "5Vz7hlMWR4OFye64dYoGm0",
+      "spotify_url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
+    },
+    {
+      "canonical_slug": "flatland-cavalry",
+      "name": "Flatland Cavalry",
+      "play_count": 1,
+      "spotify_artist_id": "4SfGzWmeoNPKIOmiyc7Pav",
+      "spotify_url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+    },
+    {
+      "canonical_slug": "joshua-ray-walker",
+      "name": "Joshua Ray Walker",
+      "play_count": 1,
+      "spotify_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
+      "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
+    },
+    {
+      "canonical_slug": "zach-bryan",
+      "name": "Zach Bryan",
+      "play_count": 1,
+      "spotify_artist_id": "40ZNYROS4zLfyyBSs2PGe2",
+      "spotify_url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb"
+    },
+    {
+      "canonical_slug": "flatland-cavalry--flatland-forever",
+      "name": "Flatland Forever",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "flatland-cavalry",
+      "primary_artist_name": "Flatland Cavalry"
+    },
+    {
+      "canonical_slug": "cross-canadian-ragweed--live-and-loud-at-the-wormy-dog-saloon",
+      "name": "Live \u0026 Loud At The Wormy Dog Saloon",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "cross-canadian-ragweed",
+      "primary_artist_name": "Cross Canadian Ragweed"
+    },
+    {
+      "canonical_slug": "joshua-ray-walker--wish-you-were-here",
+      "name": "Wish You Were Here",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "joshua-ray-walker",
+      "primary_artist_name": "Joshua Ray Walker"
+    },
+    {
+      "canonical_slug": "zach-bryan--with-heaven-on-top",
+      "name": "With Heaven On Top",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "zach-bryan",
+      "primary_artist_name": "Zach Bryan"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "release_name": "Keep 'Em on They Toes",
+      "spotify_track_id": "0f388trqcZyqGbPJUqGWpx",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
+    },
+    {
+      "canonical_slug": "cross-canadian-ragweed--boys-from-oklahoma",
+      "name": "Boys From Oklahoma",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "cross-canadian-ragweed",
+      "primary_artist_name": "Cross Canadian Ragweed",
+      "release_canonical_slug": "cross-canadian-ragweed--live-and-loud-at-the-wormy-dog-saloon",
+      "release_name": "Live \u0026 Loud At The Wormy Dog Saloon",
+      "spotify_track_id": "60ZfWcLKGGNVepG0BzpEcB",
+      "spotify_url": "https://open.spotify.com/track/60ZfWcLKGGNVepG0BzpEcB"
+    },
+    {
+      "canonical_slug": "flatland-cavalry--humble-folks",
+      "name": "Humble Folks",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "flatland-cavalry",
+      "primary_artist_name": "Flatland Cavalry",
+      "release_canonical_slug": "flatland-cavalry--flatland-forever",
+      "release_name": "Flatland Forever",
+      "spotify_track_id": "3PbBy0wwIOkW7HUaIvfQQ5",
+      "spotify_url": "https://open.spotify.com/track/3PbBy0wwIOkW7HUaIvfQQ5"
+    },
+    {
+      "canonical_slug": "joshua-ray-walker--lot-lizard",
+      "name": "Lot Lizard",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "joshua-ray-walker",
+      "primary_artist_name": "Joshua Ray Walker",
+      "release_canonical_slug": "joshua-ray-walker--wish-you-were-here",
+      "release_name": "Wish You Were Here",
+      "spotify_track_id": "4gDFVgkXx8H1zmlmhjw9u1",
+      "spotify_url": "https://open.spotify.com/track/4gDFVgkXx8H1zmlmhjw9u1"
+    },
+    {
+      "canonical_slug": "zach-bryan--miles",
+      "name": "Miles",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "zach-bryan",
+      "primary_artist_name": "Zach Bryan",
+      "release_canonical_slug": "zach-bryan--with-heaven-on-top",
+      "release_name": "With Heaven On Top",
+      "spotify_track_id": "2UNnF7q0GfzVPpcJAOktKU",
+      "spotify_url": "https://open.spotify.com/track/2UNnF7q0GfzVPpcJAOktKU"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-15T19:35:10.245Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

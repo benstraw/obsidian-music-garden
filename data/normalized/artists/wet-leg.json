@@ -2,11 +2,85 @@
   "source": "spotify",
   "source_artist_id": "2TwOrUcYnAlIiKmVQkkoSZ",
   "name": "Wet Leg",
+  "spotify_url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ",
   "source_genres": [
     "indie",
     "indie rock"
   ],
   "canonical_genre_slugs": [
+    "indie",
     "indie-rock"
+  ],
+  "status": "matched",
+  "page_title": "Wet Leg",
+  "summary": "Wet Leg are an English indie rock band from the Isle of Wight, founded in 2019 by Rhian Teasdale and Hester Chambers (guitar). The band also includes Josh Mobaraki, Ellis Durand (bass) and Henry Holmes (drums).",
+  "canonical_url": "https://en.wikipedia.org/wiki/Wet_Leg",
+  "candidates": [
+    "Wet Leg",
+    "Wet Leg (album)",
+    "Wet Nellie",
+    "Wet Season (film)",
+    "Wet Wet Wet",
+    "Wet Wet Wet discography",
+    "Wet feet, dry feet policy",
+    "Wet season",
+    "Wetland",
+    "Wetlook"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wet Leg",
+    "page_url": "https://en.wikipedia.org/wiki/Wet_Leg",
+    "retrieved_at": "2026-03-27T09:28:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Wet Leg (52031506992).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Wet_Leg_(52031506992).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Wet_Leg_%2852031506992%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wet_Leg_%2852031506992%29.jpg/960px-Wet_Leg_%2852031506992%29.jpg",
+    "width": 1920,
+    "height": 1280,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/64654599@N00\"\u003ePaul Hudson\u003c/a\u003e from United Kingdom"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wet Leg (52031506992).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wet_Leg_(52031506992).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Wet_Leg_%2852031506992%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wet_Leg_%2852031506992%29.jpg/960px-Wet_Leg_%2852031506992%29.jpg",
+      "width": 1920,
+      "height": 1280,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/64654599@N00\"\u003ePaul Hudson\u003c/a\u003e from United Kingdom"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wet Leg O2 Academy Brixton 2025-05-24 -29.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wet_Leg_O2_Academy_Brixton_2025-05-24_-29.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Wet_Leg_O2_Academy_Brixton_2025-05-24_-29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wet_Leg_O2_Academy_Brixton_2025-05-24_-29.jpg/960px-Wet_Leg_O2_Academy_Brixton_2025-05-24_-29.jpg",
+      "width": 6000,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sol_Procter-Tarabanov\" title=\"User:Sol Procter-Tarabanov\"\u003eSol Procter-Tarabanov\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wet Leg at The Truman 2022-12-06.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wet_Leg_at_The_Truman_2022-12-06.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Wet_Leg_at_The_Truman_2022-12-06.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Wet_Leg_at_The_Truman_2022-12-06.jpg/960px-Wet_Leg_at_The_Truman_2022-12-06.jpg",
+      "width": 1265,
+      "height": 903,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Szarka\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Szarka (page does not exist)\"\u003eSzarka\u003c/a\u003e"
+    }
   ]
 }

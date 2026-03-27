@@ -2,6 +2,12 @@
   "canonical_slug": "flatland-cavalry",
   "name": "Flatland Cavalry",
   "spotify_artist_id": "4SfGzWmeoNPKIOmiyc7Pav",
+  "spotify_url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav",
+  "genres": [
+    "country",
+    "red-dirt",
+    "texas-country"
+  ],
   "source_genres": [
     "country",
     "red dirt",
@@ -24,5 +30,44 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Flatland Cavalry",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Flatland_Cavalry",
+  "summary": "Flatland Cavalry is a country and Americana band from Lubbock, Texas. The band's original members were vocalist Cleto Cordero, drummer Jason Albers, bassist Jonathan Saenz, guitarist Reid Dillon, and violinist Laura Jane. Jane departed the band in July 2018 and was replaced by Wesley Hall.",
+  "candidates": [
+    "Flatland Cavalry"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Flatland Cavalry",
+    "page_url": "https://en.wikipedia.org/wiki/Flatland_Cavalry",
+    "retrieved_at": "2026-03-27T09:26:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flatland Cavalry.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flatland_Cavalry.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flatland_Cavalry.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flatland_Cavalry.jpg/960px-Flatland_Cavalry.jpg",
+    "width": 4624,
+    "height": 3472,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nichos\" title=\"User:Nichos\"\u003eNichos\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flatland Cavalry.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flatland_Cavalry.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Flatland_Cavalry.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flatland_Cavalry.jpg/960px-Flatland_Cavalry.jpg",
+      "width": 4624,
+      "height": 3472,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nichos\" title=\"User:Nichos\"\u003eNichos\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -2,7 +2,72 @@
   "source": "spotify",
   "source_artist_id": "2dfKG7aNtsTiPXBkXqQbVa",
   "name": "Ivan Conti",
+  "spotify_url": "https://open.spotify.com/artist/2dfKG7aNtsTiPXBkXqQbVa",
   "source_genres": [
     "brazilian jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Ivan Conti",
+  "summary": "Ivan Miguel Conti Maranhão, also known as Mamão, was a Brazilian drummer, percussionist and composer. He gained prominence as a member of the influential jazz-funk band Azymuth, which he co-founded in 1972.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ivan_Conti",
+  "candidates": [
+    "Ivan Conti",
+    "Ivan Corwin",
+    "Ivan Cotroneo",
+    "Ivan Konev",
+    "Ivan Kostić (Serbian politician)",
+    "Ivan Kostić (footballer, born 1989)",
+    "Ivan Kostić (footballer, born 1995)",
+    "Ivan Monighetti",
+    "Ivan Mortimer Linforth",
+    "Ivan Santini"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ivan Conti",
+    "page_url": "https://en.wikipedia.org/wiki/Ivan_Conti",
+    "retrieved_at": "2026-03-27T09:26:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ivan Conti, Samba (153053622)(retouched)(cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ivan_Conti,_Samba_(153053622)(retouched)(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ivan_Conti%2C_Samba_%28153053622%29%28retouched%29%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ivan_Conti%2C_Samba_%28153053622%29%28retouched%29%28cropped%29.jpg/960px-Ivan_Conti%2C_Samba_%28153053622%29%28retouched%29%28cropped%29.jpg",
+    "width": 1883,
+    "height": 1881,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Virgilinojuca\" title=\"User:Virgilinojuca\"\u003eVirgilinojuca\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ivan Conti, Samba (153053622)(retouched)(cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ivan_Conti,_Samba_(153053622)(retouched)(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ivan_Conti%2C_Samba_%28153053622%29%28retouched%29%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ivan_Conti%2C_Samba_%28153053622%29%28retouched%29%28cropped%29.jpg/960px-Ivan_Conti%2C_Samba_%28153053622%29%28retouched%29%28cropped%29.jpg",
+      "width": 1883,
+      "height": 1881,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Virgilinojuca\" title=\"User:Virgilinojuca\"\u003eVirgilinojuca\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ivan Conti - 2019 interview screenshot.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ivan_Conti_-_2019_interview_screenshot.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Ivan_Conti_-_2019_interview_screenshot.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ivan_Conti_-_2019_interview_screenshot.png/960px-Ivan_Conti_-_2019_interview_screenshot.png",
+      "width": 974,
+      "height": 917,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Radio Boise KRBX",
+      "attribution_text": "Radio Boise KRBX"
+    }
   ]
 }

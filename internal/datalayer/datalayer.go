@@ -118,9 +118,68 @@ type AggregatedTrackRecord struct {
 	LastUpdated                string `json:"last_updated,omitempty"`
 }
 
+// AggregatedSourceReference documents where a major field in the aggregate came from.
+type AggregatedSourceReference struct {
+	Role        string `json:"role"`
+	Source      string `json:"source"`
+	Path        string `json:"path,omitempty"`
+	URL         string `json:"url,omitempty"`
+	RetrievedAt string `json:"retrieved_at,omitempty"`
+	UpdatedAt   string `json:"updated_at,omitempty"`
+	Note        string `json:"note,omitempty"`
+}
+
+// GenreListeningStats summarizes local listening history for one canonical genre.
+type GenreListeningStats struct {
+	Source             string `json:"source"`
+	PlayCount          int    `json:"play_count"`
+	UniqueArtistCount  int    `json:"unique_artist_count"`
+	UniqueReleaseCount int    `json:"unique_release_count"`
+	UniqueTrackCount   int    `json:"unique_track_count"`
+	FirstPlayedAt      string `json:"first_played_at,omitempty"`
+	LastPlayedAt       string `json:"last_played_at,omitempty"`
+}
+
+// AggregatedGenreArtist summarizes one artist within a genre aggregate.
+type AggregatedGenreArtist struct {
+	CanonicalSlug       string `json:"canonical_slug"`
+	Name                string `json:"name"`
+	PlayCount           int    `json:"play_count"`
+	SpotifyArtistID     string `json:"spotify_artist_id,omitempty"`
+	MusicBrainzArtistID string `json:"musicbrainz_artist_id,omitempty"`
+	SpotifyURL          string `json:"spotify_url,omitempty"`
+}
+
+// AggregatedGenreRelease summarizes one release within a genre aggregate.
+type AggregatedGenreRelease struct {
+	CanonicalSlug              string `json:"canonical_slug"`
+	Name                       string `json:"name"`
+	PlayCount                  int    `json:"play_count"`
+	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
+	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
+	SpotifyAlbumID             string `json:"spotify_album_id,omitempty"`
+	MusicBrainzReleaseID       string `json:"musicbrainz_release_id,omitempty"`
+	MusicBrainzReleaseGroupID  string `json:"musicbrainz_release_group_id,omitempty"`
+}
+
+// AggregatedGenreTrack summarizes one track within a genre aggregate.
+type AggregatedGenreTrack struct {
+	CanonicalSlug              string `json:"canonical_slug"`
+	Name                       string `json:"name"`
+	PlayCount                  int    `json:"play_count"`
+	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
+	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
+	ReleaseCanonicalSlug       string `json:"release_canonical_slug,omitempty"`
+	ReleaseName                string `json:"release_name,omitempty"`
+	SpotifyTrackID             string `json:"spotify_track_id,omitempty"`
+	MusicBrainzTrackID         string `json:"musicbrainz_track_id,omitempty"`
+	SpotifyURL                 string `json:"spotify_url,omitempty"`
+}
+
 // AggregatedGenreRecord is the persisted canonical genre record.
 type AggregatedGenreRecord struct {
 	CanonicalSlug   string                         `json:"canonical_slug"`
+	DisplayTitle    string                         `json:"display_title,omitempty"`
 	DisplayName     string                         `json:"display_name,omitempty"`
 	ParentSlug      string                         `json:"parent_slug,omitempty"`
 	Notes           string                         `json:"notes,omitempty"`
@@ -134,6 +193,11 @@ type AggregatedGenreRecord struct {
 	Attribution     *genres.GenreSourceAttribution `json:"attribution,omitempty"`
 	Image           *genres.GenreImageRecord       `json:"image,omitempty"`
 	ImageCandidates []genres.GenreImageRecord      `json:"image_candidates,omitempty"`
+	ListeningStats  GenreListeningStats            `json:"listening_stats"`
+	TopArtists      []AggregatedGenreArtist        `json:"top_artists,omitempty"`
+	TopReleases     []AggregatedGenreRelease       `json:"top_releases,omitempty"`
+	TopTracks       []AggregatedGenreTrack         `json:"top_tracks,omitempty"`
+	SourceRefs      []AggregatedSourceReference    `json:"source_refs,omitempty"`
 	LastUpdated     string                         `json:"last_updated,omitempty"`
 }
 
@@ -285,8 +349,8 @@ func filepathJoinRaw(dataRoot, source, kind string, fetchedAt time.Time, stem st
 	return filepath.Join(dataRoot, "raw", source, kind, fmt.Sprintf("%s-%s.json", ts, stem))
 }
 
-// SyncAggregatedStore rewrites aggregated artist/release/genre records from the canonical store.
-func SyncAggregatedStore(dataRoot string, store *genres.Store) error {
+// SyncAggregatedStore rewrites aggregated artist/release/track/genre records from the canonical store.
+func SyncAggregatedStore(dataRoot string, store *genres.Store, plays []models.Play) error {
 	if err := EnsureLayout(dataRoot); err != nil {
 		return err
 	}
@@ -302,7 +366,7 @@ func SyncAggregatedStore(dataRoot string, store *genres.Store) error {
 	if err := writeAggregatedTracks(filepath.Join(dataRoot, "aggregated", "tracks"), store); err != nil {
 		return err
 	}
-	if err := writeAggregatedGenres(filepath.Join(dataRoot, "aggregated", "genres"), store); err != nil {
+	if err := writeAggregatedGenres(filepath.Join(dataRoot, "aggregated", "genres"), dataRoot, store, plays); err != nil {
 		return err
 	}
 	return nil
@@ -492,7 +556,7 @@ func writeAggregatedTracks(dir string, store *genres.Store) error {
 	return nil
 }
 
-func writeAggregatedGenres(dir string, store *genres.Store) error {
+func writeAggregatedGenres(dir, dataRoot string, store *genres.Store, plays []models.Play) error {
 	aliasBuckets := map[string][]string{}
 	for alias, canonical := range store.GenreAliases {
 		aliasBuckets[canonical] = append(aliasBuckets[canonical], alias)
@@ -517,32 +581,136 @@ func writeAggregatedGenres(dir string, store *genres.Store) error {
 	sort.Strings(slugs)
 
 	for _, slug := range slugs {
-		aliases := dedupeStrings(aliasBuckets[slug])
-		sort.Strings(aliases)
-		payload := AggregatedGenreRecord{
-			CanonicalSlug: slug,
-			Aliases:       aliases,
-			Pending:       seenPending[slug],
-		}
-		if record, ok := genres.GenreEditorial(store, slug); ok {
-			payload.DisplayName = record.DisplayName
-			payload.ParentSlug = record.ParentSlug
-			payload.Notes = record.Notes
-			payload.Status = record.Status
-			payload.WikipediaTitle = record.WikipediaTitle
-			payload.WikipediaURL = record.WikipediaURL
-			payload.Summary = record.Summary
-			payload.Candidates = append([]string(nil), record.Candidates...)
-			payload.Attribution = record.Attribution
-			payload.Image = record.Image
-			payload.ImageCandidates = append([]genres.GenreImageRecord(nil), record.ImageCandidates...)
-			payload.LastUpdated = record.LastUpdated
+		payload, err := BuildAggregatedGenreRecord(dataRoot, store, plays, slug, aliasBuckets[slug], seenPending[slug])
+		if err != nil {
+			return err
 		}
 		if err := writeJSON(filepath.Join(dir, slug+".json"), payload); err != nil {
 			return err
 		}
 	}
 	return nil
+}
+
+// BuildAggregatedGenreRecord merges taxonomy, editorial data, and local listening data
+// into one deterministic canonical genre record.
+func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []models.Play, slug string, aliases []string, pending bool) (AggregatedGenreRecord, error) {
+	slug = strings.TrimSpace(slug)
+	if slug == "" {
+		return AggregatedGenreRecord{}, fmt.Errorf("empty genre slug")
+	}
+
+	aliases = dedupeStrings(aliases)
+	sort.Strings(aliases)
+	payload := AggregatedGenreRecord{
+		CanonicalSlug: slug,
+		DisplayTitle:  humanizeSlug(slug),
+		DisplayName:   humanizeSlug(slug),
+		Aliases:       aliases,
+		Pending:       pending,
+		ListeningStats: GenreListeningStats{
+			Source: "spotify-local-plays",
+		},
+	}
+
+	if record, ok := genres.GenreEditorial(store, slug); ok {
+		payload.DisplayTitle = firstNonEmpty(record.DisplayName, payload.DisplayTitle)
+		payload.DisplayName = firstNonEmpty(record.DisplayName, payload.DisplayName)
+		payload.ParentSlug = record.ParentSlug
+		payload.Notes = record.Notes
+		payload.Status = record.Status
+		payload.WikipediaTitle = record.WikipediaTitle
+		payload.WikipediaURL = record.WikipediaURL
+		payload.Summary = record.Summary
+		payload.Candidates = append([]string(nil), record.Candidates...)
+		payload.Attribution = record.Attribution
+		payload.Image = record.Image
+		payload.ImageCandidates = append([]genres.GenreImageRecord(nil), record.ImageCandidates...)
+		payload.LastUpdated = record.LastUpdated
+	}
+
+	artistCounts := map[string]int{}
+	releaseCounts := map[string]int{}
+	trackCounts := map[string]int{}
+	seenArtists := map[string]bool{}
+	seenReleases := map[string]bool{}
+	seenTracks := map[string]bool{}
+
+	for _, play := range plays {
+		artist, ok := artistRecordForPlay(store, play)
+		if !ok || !containsString(artist.Genres, slug) {
+			continue
+		}
+		payload.ListeningStats.PlayCount++
+		if payload.ListeningStats.FirstPlayedAt == "" || play.PlayedAt < payload.ListeningStats.FirstPlayedAt {
+			payload.ListeningStats.FirstPlayedAt = play.PlayedAt
+		}
+		if payload.ListeningStats.LastPlayedAt == "" || play.PlayedAt > payload.ListeningStats.LastPlayedAt {
+			payload.ListeningStats.LastPlayedAt = play.PlayedAt
+		}
+
+		if artist.Slug != "" {
+			artistCounts[artist.Slug]++
+			seenArtists[artist.Slug] = true
+		}
+
+		releaseSlug := firstNonEmpty(play.ReleaseSlug, releaseSlugForPlay(store, play))
+		if releaseSlug != "" {
+			releaseCounts[releaseSlug]++
+			seenReleases[releaseSlug] = true
+		}
+
+		trackSlug := firstNonEmpty(play.TrackSlug, trackSlugForPlay(store, play))
+		if trackSlug != "" {
+			trackCounts[trackSlug]++
+			seenTracks[trackSlug] = true
+		}
+	}
+
+	payload.ListeningStats.UniqueArtistCount = len(seenArtists)
+	payload.ListeningStats.UniqueReleaseCount = len(seenReleases)
+	payload.ListeningStats.UniqueTrackCount = len(seenTracks)
+	payload.TopArtists = topGenreArtists(store, artistCounts, 10)
+	payload.TopReleases = topGenreReleases(store, releaseCounts, 10)
+	payload.TopTracks = topGenreTracks(store, trackCounts, 10)
+	payload.SourceRefs = genreSourceRefs(dataRoot, payload, len(aliases) > 0 || payload.DisplayTitle != "" || payload.ParentSlug != "" || payload.Notes != "")
+	payload.LastUpdated = maxTimestamp(payload.LastUpdated, payload.ListeningStats.LastPlayedAt)
+	return payload, nil
+}
+
+// RebuildAggregatedGenre rewrites one canonical genre record from upstream data.
+func RebuildAggregatedGenre(dataRoot string, store *genres.Store, plays []models.Play, slug string) (string, error) {
+	if err := EnsureLayout(dataRoot); err != nil {
+		return "", err
+	}
+	aliases, pending, ok := genreAliasesForSlug(store, slug)
+	if !ok {
+		return "", fmt.Errorf("unknown canonical genre slug %q", slug)
+	}
+	payload, err := BuildAggregatedGenreRecord(dataRoot, store, plays, slug, aliases, pending)
+	if err != nil {
+		return "", err
+	}
+	path := filepath.Join(dataRoot, "aggregated", "genres", slug+".json")
+	if err := writeJSON(path, payload); err != nil {
+		return "", err
+	}
+	return path, nil
+}
+
+// RebuildAllAggregatedGenres rewrites every known canonical genre record.
+func RebuildAllAggregatedGenres(dataRoot string, store *genres.Store, plays []models.Play) (int, error) {
+	if err := EnsureLayout(dataRoot); err != nil {
+		return 0, err
+	}
+	count := 0
+	for _, slug := range knownGenreSlugs(store) {
+		if _, err := RebuildAggregatedGenre(dataRoot, store, plays, slug); err != nil {
+			return count, err
+		}
+		count++
+	}
+	return count, nil
 }
 
 func writeJSON(path string, v any) error {
@@ -564,4 +732,357 @@ func dedupeStrings(values []string) []string {
 		result = append(result, value)
 	}
 	return result
+}
+
+func containsString(values []string, target string) bool {
+	for _, value := range values {
+		if value == target {
+			return true
+		}
+	}
+	return false
+}
+
+func genreAliasesForSlug(store *genres.Store, target string) ([]string, bool, bool) {
+	aliases := []string{}
+	for alias, canonical := range store.GenreAliases {
+		if canonical == target {
+			aliases = append(aliases, alias)
+		}
+	}
+	pending := false
+	for _, label := range store.PendingGenreAliases {
+		if genres.Slug(label) == target {
+			pending = true
+			break
+		}
+	}
+	if len(aliases) == 0 {
+		if _, ok := genres.GenreEditorial(store, target); !ok && !pending {
+			return nil, false, false
+		}
+	}
+	return dedupeStrings(aliases), pending, true
+}
+
+func knownGenreSlugs(store *genres.Store) []string {
+	set := map[string]bool{}
+	for _, slug := range store.GenreAliases {
+		if slug != "" {
+			set[slug] = true
+		}
+	}
+	for _, label := range store.PendingGenreAliases {
+		if slug := genres.Slug(label); slug != "" {
+			set[slug] = true
+		}
+	}
+	for slug := range store.GenreRecords {
+		if slug != "" {
+			set[slug] = true
+		}
+	}
+	slugs := make([]string, 0, len(set))
+	for slug := range set {
+		slugs = append(slugs, slug)
+	}
+	sort.Strings(slugs)
+	return slugs
+}
+
+func artistRecordForPlay(store *genres.Store, play models.Play) (genres.ArtistRecord, bool) {
+	if play.ArtistSlug != "" {
+		record, ok := store.Artists[play.ArtistSlug]
+		if ok {
+			return record, true
+		}
+	}
+	if play.ArtistID != "" {
+		if slug, ok := store.ArtistSourceIndex["spotify:"+play.ArtistID]; ok {
+			record, ok := store.Artists[slug]
+			return record, ok
+		}
+	}
+	return genres.ArtistRecord{}, false
+}
+
+func releaseSlugForPlay(store *genres.Store, play models.Play) string {
+	if play.ReleaseSlug != "" {
+		return play.ReleaseSlug
+	}
+	if play.AlbumID != "" {
+		if slug := store.ReleaseSourceIndex["spotify:"+play.AlbumID]; slug != "" {
+			return slug
+		}
+	}
+	if play.ArtistSlug != "" && play.AlbumName != "" {
+		slug := genres.Slug(play.ArtistSlug + "--" + play.AlbumName)
+		if _, ok := store.Releases[slug]; ok {
+			return slug
+		}
+	}
+	return ""
+}
+
+func trackSlugForPlay(store *genres.Store, play models.Play) string {
+	if play.TrackSlug != "" {
+		return play.TrackSlug
+	}
+	if play.TrackID != "" {
+		if slug := store.TrackSourceIndex["spotify:"+play.TrackID]; slug != "" {
+			return slug
+		}
+	}
+	if play.ArtistSlug != "" && play.TrackName != "" {
+		slug := genres.Slug(play.ArtistSlug + "--" + play.TrackName)
+		if _, ok := store.Tracks[slug]; ok {
+			return slug
+		}
+	}
+	return ""
+}
+
+func topGenreArtists(store *genres.Store, counts map[string]int, limit int) []AggregatedGenreArtist {
+	type bucket struct {
+		slug  string
+		count int
+		name  string
+	}
+	items := make([]bucket, 0, len(counts))
+	for slug, count := range counts {
+		record, ok := store.Artists[slug]
+		if !ok {
+			continue
+		}
+		items = append(items, bucket{slug: slug, count: count, name: record.Name})
+	}
+	sort.Slice(items, func(i, j int) bool {
+		if items[i].count != items[j].count {
+			return items[i].count > items[j].count
+		}
+		if items[i].name != items[j].name {
+			return items[i].name < items[j].name
+		}
+		return items[i].slug < items[j].slug
+	})
+	if len(items) > limit {
+		items = items[:limit]
+	}
+	result := make([]AggregatedGenreArtist, 0, len(items))
+	for _, item := range items {
+		record := store.Artists[item.slug]
+		result = append(result, AggregatedGenreArtist{
+			CanonicalSlug:       item.slug,
+			Name:                record.Name,
+			PlayCount:           item.count,
+			SpotifyArtistID:     record.SpotifyArtistID,
+			MusicBrainzArtistID: record.MusicBrainzArtistID,
+			SpotifyURL:          record.SpotifyURL,
+		})
+	}
+	return result
+}
+
+func topGenreReleases(store *genres.Store, counts map[string]int, limit int) []AggregatedGenreRelease {
+	type bucket struct {
+		slug  string
+		count int
+		name  string
+	}
+	items := make([]bucket, 0, len(counts))
+	for slug, count := range counts {
+		record, ok := store.Releases[slug]
+		if !ok {
+			continue
+		}
+		items = append(items, bucket{slug: slug, count: count, name: record.Name})
+	}
+	sort.Slice(items, func(i, j int) bool {
+		if items[i].count != items[j].count {
+			return items[i].count > items[j].count
+		}
+		if items[i].name != items[j].name {
+			return items[i].name < items[j].name
+		}
+		return items[i].slug < items[j].slug
+	})
+	if len(items) > limit {
+		items = items[:limit]
+	}
+	result := make([]AggregatedGenreRelease, 0, len(items))
+	for _, item := range items {
+		record := store.Releases[item.slug]
+		result = append(result, AggregatedGenreRelease{
+			CanonicalSlug:              item.slug,
+			Name:                       record.Name,
+			PlayCount:                  item.count,
+			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
+			PrimaryArtistName:          record.PrimaryArtistName,
+			SpotifyAlbumID:             record.SpotifyAlbumID,
+			MusicBrainzReleaseID:       record.MusicBrainzReleaseID,
+			MusicBrainzReleaseGroupID:  record.MusicBrainzReleaseGroupID,
+		})
+	}
+	return result
+}
+
+func topGenreTracks(store *genres.Store, counts map[string]int, limit int) []AggregatedGenreTrack {
+	type bucket struct {
+		slug  string
+		count int
+		name  string
+	}
+	items := make([]bucket, 0, len(counts))
+	for slug, count := range counts {
+		record, ok := store.Tracks[slug]
+		if !ok {
+			continue
+		}
+		items = append(items, bucket{slug: slug, count: count, name: record.Name})
+	}
+	sort.Slice(items, func(i, j int) bool {
+		if items[i].count != items[j].count {
+			return items[i].count > items[j].count
+		}
+		if items[i].name != items[j].name {
+			return items[i].name < items[j].name
+		}
+		return items[i].slug < items[j].slug
+	})
+	if len(items) > limit {
+		items = items[:limit]
+	}
+	result := make([]AggregatedGenreTrack, 0, len(items))
+	for _, item := range items {
+		record := store.Tracks[item.slug]
+		result = append(result, AggregatedGenreTrack{
+			CanonicalSlug:              item.slug,
+			Name:                       record.Name,
+			PlayCount:                  item.count,
+			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
+			PrimaryArtistName:          record.PrimaryArtistName,
+			ReleaseCanonicalSlug:       record.ReleaseSlug,
+			ReleaseName:                record.ReleaseName,
+			SpotifyTrackID:             record.SpotifyTrackID,
+			MusicBrainzTrackID:         record.MusicBrainzTrackID,
+			SpotifyURL:                 record.SpotifyURL,
+		})
+	}
+	return result
+}
+
+func genreSourceRefs(_ string, record AggregatedGenreRecord, includeTaxonomy bool) []AggregatedSourceReference {
+	refs := []AggregatedSourceReference{}
+	if includeTaxonomy {
+		refs = append(refs, AggregatedSourceReference{
+			Role:   "canonical_taxonomy",
+			Source: "music-garden",
+			Path:   filepath.ToSlash(filepath.Join("genre-taxonomy.json")),
+			Note:   "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy.",
+		})
+	}
+	if record.ListeningStats.PlayCount > 0 {
+		refs = append(refs, AggregatedSourceReference{
+			Role:      "listening_stats",
+			Source:    "spotify",
+			Path:      filepath.ToSlash(filepath.Join("plays")),
+			UpdatedAt: record.ListeningStats.LastPlayedAt,
+			Note:      "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history.",
+		})
+	}
+	if record.WikipediaURL != "" || record.Summary != "" {
+		ref := AggregatedSourceReference{
+			Role:        "editorial_summary",
+			Source:      "wikipedia",
+			Path:        filepath.ToSlash(filepath.Join("normalized", "genres", "wikipedia--"+record.CanonicalSlug+".json")),
+			URL:         record.WikipediaURL,
+			RetrievedAt: "",
+			UpdatedAt:   record.LastUpdated,
+			Note:        "Editorial summary and page metadata come from Wikipedia normalization.",
+		}
+		if record.Attribution != nil {
+			ref.URL = firstNonEmpty(record.Attribution.PageURL, ref.URL)
+			ref.RetrievedAt = record.Attribution.RetrievedAt
+		}
+		refs = append(refs, ref)
+	}
+	hasMusicBrainz := false
+	for _, artist := range record.TopArtists {
+		if artist.MusicBrainzArtistID != "" {
+			hasMusicBrainz = true
+			break
+		}
+	}
+	if !hasMusicBrainz {
+		for _, release := range record.TopReleases {
+			if release.MusicBrainzReleaseID != "" || release.MusicBrainzReleaseGroupID != "" {
+				hasMusicBrainz = true
+				break
+			}
+		}
+	}
+	if hasMusicBrainz {
+		refs = append(refs, AggregatedSourceReference{
+			Role:   "cross_source_enrichment",
+			Source: "musicbrainz",
+			Path:   filepath.ToSlash(filepath.Join("normalized")),
+			Note:   "Top artists and releases carry MusicBrainz identifiers when enrichment is available.",
+		})
+	}
+	if record.Image != nil {
+		ref := AggregatedSourceReference{
+			Role:   "image_metadata",
+			Source: firstNonEmpty(record.Image.Source, "wikimedia-commons"),
+			URL:    record.Image.FilePageURL,
+			Path:   filepath.ToSlash(filepath.Join("normalized", "genres", "wikipedia--"+record.CanonicalSlug+".json")),
+			Note:   "Image metadata is carried forward for later review before downstream use.",
+		}
+		if record.Attribution != nil && ref.URL == "" {
+			ref.URL = record.Attribution.PageURL
+		}
+		refs = append(refs, ref)
+	}
+	sort.Slice(refs, func(i, j int) bool {
+		if refs[i].Role != refs[j].Role {
+			return refs[i].Role < refs[j].Role
+		}
+		if refs[i].Source != refs[j].Source {
+			return refs[i].Source < refs[j].Source
+		}
+		return refs[i].Path < refs[j].Path
+	})
+	return refs
+}
+
+func maxTimestamp(values ...string) string {
+	best := ""
+	for _, value := range values {
+		if strings.TrimSpace(value) == "" {
+			continue
+		}
+		if best == "" || value > best {
+			best = value
+		}
+	}
+	return best
+}
+
+func humanizeSlug(slug string) string {
+	parts := strings.Split(strings.TrimSpace(slug), "-")
+	for i, part := range parts {
+		if part == "" {
+			continue
+		}
+		parts[i] = strings.ToUpper(part[:1]) + part[1:]
+	}
+	return strings.Join(parts, " ")
+}
+
+func firstNonEmpty(values ...string) string {
+	for _, value := range values {
+		if strings.TrimSpace(value) != "" {
+			return value
+		}
+	}
+	return ""
 }

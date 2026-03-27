@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/72c536dc-7137-4477-a521-567eeb840fa8",
+  "request_url": "https://musicbrainz.org/ws/2/artist/72c536dc-7137-4477-a521-567eeb840fa8?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/72c536dc-7137-4477-a521-567eeb840fa8",
+  "fetched_at": "2026-03-27T09:33:34Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

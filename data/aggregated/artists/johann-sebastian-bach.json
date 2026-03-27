@@ -2,6 +2,13 @@
   "canonical_slug": "johann-sebastian-bach",
   "name": "Johann Sebastian Bach",
   "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+  "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+  "genres": [
+    "classical",
+    "classical-piano",
+    "concerto",
+    "early-music"
+  ],
   "source_genres": [
     "baroque",
     "classical",
@@ -26,5 +33,100 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Johann Sebastian Bach",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "summary": "Johann Sebastian Bach was a German composer and musician of the late Baroque period. He is known for his prolific output across a variety of instruments and forms, including the orchestral Brandenburg Concertos; solo instrumental works such as the Cello Suites and Sonatas and Partitas for Solo Violin; keyboard works such as the Goldberg Variations and The Well-Tempered Clavier; organ works such as the Schübler Chorales and the Toccata and Fugue in D minor; and choral works such as the St. Matthew Passion and the Mass in B minor. He is known for his mastery of counterpoint, as heard in The Musical Offering and The Art of Fugue. Felix Mendelssohn precipitated the Bach Revival with a performance of the St. Matthew Passion in 1829. Ever since, Bach has been acclaimed as one of the greatest composers of classical music.",
+  "candidates": [
+    "Johann Sebastian Bach",
+    "Johann Sebastian Bach (Spitta)",
+    "Johann Sebastian Bach (TV series)",
+    "Johann Sebastian Bach (painter)",
+    "Johann Sebastian Bach Institute",
+    "Johann Sebastian Bach compositions",
+    "Johann Sebastian Bach's Nekrolog",
+    "Johann Sebastian Bach's choir and orchestra",
+    "Johann Sebastian Bach: His Life, Art, and Work",
+    "Johann Sebastian Bachlava the Doctor"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Johann Sebastian Bach",
+    "page_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "retrieved_at": "2026-03-27T09:26:32Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:17b Bach-Bild von 'Gebel', vor 1798.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:17b_Bach-Bild_von_%27Gebel%27,_vor_1798.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/17b_Bach-Bild_von_%27Gebel%27%2C_vor_1798.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/17b_Bach-Bild_von_%27Gebel%27%2C_vor_1798.jpg/960px-17b_Bach-Bild_von_%27Gebel%27%2C_vor_1798.jpg",
+    "width": 2457,
+    "height": 3152,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Bachhaus.eisenach\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Bachhaus.eisenach (page does not exist)\"\u003eBachhaus.eisenach\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:17b Bach-Bild von 'Gebel', vor 1798.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:17b_Bach-Bild_von_%27Gebel%27,_vor_1798.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/17b_Bach-Bild_von_%27Gebel%27%2C_vor_1798.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/17b_Bach-Bild_von_%27Gebel%27%2C_vor_1798.jpg/960px-17b_Bach-Bild_von_%27Gebel%27%2C_vor_1798.jpg",
+      "width": 2457,
+      "height": 3152,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Bachhaus.eisenach\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Bachhaus.eisenach (page does not exist)\"\u003eBachhaus.eisenach\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Altes Bachdenkmal (Leipzig) - Holzstich.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Altes_Bachdenkmal_(Leipzig)_-_Holzstich.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Altes_Bachdenkmal_%28Leipzig%29_-_Holzstich.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Altes_Bachdenkmal_%28Leipzig%29_-_Holzstich.jpg/960px-Altes_Bachdenkmal_%28Leipzig%29_-_Holzstich.jpg",
+      "width": 1801,
+      "height": 2525,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Saippuakauppias\" title=\"User:Saippuakauppias\"\u003eSaippuakauppias\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anàlisi contrapuntística fragment BWV 632 Herr Jesu Christ, dich zu uns wend'.ogv",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:An%C3%A0lisi_contrapunt%C3%ADstica_fragment_BWV_632_Herr_Jesu_Christ,_dich_zu_uns_wend%27.ogv",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/An%C3%A0lisi_contrapunt%C3%ADstica_fragment_BWV_632_Herr_Jesu_Christ%2C_dich_zu_uns_wend%27.ogv",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/An%C3%A0lisi_contrapunt%C3%ADstica_fragment_BWV_632_Herr_Jesu_Christ%2C_dich_zu_uns_wend%27.ogv/640px--An%C3%A0lisi_contrapunt%C3%ADstica_fragment_BWV_632_Herr_Jesu_Christ%2C_dich_zu_uns_wend%27.ogv.jpg",
+      "width": 1920,
+      "height": 1080,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andiport\" class=\"mw-redirect\" title=\"User:Andiport\"\u003eAndiport\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arnstadt Bachkirche Wender-Orgel.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arnstadt_Bachkirche_Wender-Orgel.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Arnstadt_Bachkirche_Wender-Orgel.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Arnstadt_Bachkirche_Wender-Orgel.jpg",
+      "width": 774,
+      "height": 736,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mtag\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mtag (page does not exist)\"\u003eMtag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

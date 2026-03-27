@@ -1,0 +1,96 @@
+{
+  "source": "wikipedia",
+  "source_genre": "blues",
+  "canonical_genre_slug": "blues",
+  "status": "matched",
+  "page_title": "Blues",
+  "summary": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Blues has incorporated spirituals, work songs, field hollers, shouts, chants, and rhymed simple narrative ballads from the African-American culture. The blues form is ubiquitous in jazz, rhythm and blues, and rock and roll, and is characterized by the call-and-response pattern, the blues scale, and specific chord progressions, of which the twelve-bar blues is the most common. Blue notes, usually thirds, fifths or sevenths flattened in pitch, are also an essential part of the sound. Blues shuffles or walking bass reinforce the trance-like rhythm and form a repetitive effect known as the groove.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Blues",
+  "candidates": [
+    "Blues",
+    "Bluesky",
+    "Blue screen of death",
+    "The Bluest Eye",
+    "Blue's Clues",
+    "Blues (Super Rugby)",
+    "Blues Traveler",
+    "Bluestar (bus company)",
+    "Blues Brothers 2000",
+    "BlueStacks"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blues",
+    "page_url": "https://en.wikipedia.org/wiki/Blues",
+    "retrieved_at": "2026-03-27T09:30:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Texarkana and Northern\" Boogie-woogie bassline.mid",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Texarkana and Northern\" Boogie-woogie bassline.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Texarkana and Northern\" Boogie-woogie bassline.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg/960px-%22Texarkana_and_Northern%22_Boogie-woogie_bassline.svg.png",
+      "width": 310,
+      "height": 68,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Boogie-woogie-bassline.PNG\" class=\"mw-redirect\" title=\"File:Boogie-woogie-bassline.PNG\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003e\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tarquin\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tarquin (page does not exist)\"\u003eTarquin\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:Joey-das-WBF\" title=\"User:Joey-das-WBF\"\u003eJohannes Rössel\u003c/a\u003e\u003c/div\u003e",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Joey-das-WBF\" title=\"User:Joey-das-WBF\"\u003eJohannes Rössel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:B.B. King, 2006-06-26.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:B.B._King,_2006-06-26.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/B.B._King%2C_2006-06-26.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/B.B._King%2C_2006-06-26.jpg",
+      "width": 515,
+      "height": 591,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Eric_Draper\" class=\"extiw\" title=\"w:en:Eric Draper\"\u003e\u003cspan title=\"American photographer\"\u003eEric Draper\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bessie Smith (1936) by Carl Van Vechten.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bessie_Smith_(1936)_by_Carl_Van_Vechten.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg/960px-Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+      "width": 4338,
+      "height": 5546,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Creator:Carl_Van_Vechten\" title=\"Creator:Carl Van Vechten\"\u003eCarl Van Vechten\u003c/a\u003e, restored by \u003ca href=\"//commons.wikimedia.org/wiki/User:Adam_Cuerden\" title=\"User:Adam Cuerden\"\u003eAdam Cuerden\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Black-American Heritage Flag.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Black-American_Heritage_Flag.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Black-American_Heritage_Flag.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Black-American_Heritage_Flag.png/960px-Black-American_Heritage_Flag.png",
+      "width": 10417,
+      "height": 6250,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Saturnsorbit\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Saturnsorbit (page does not exist)\"\u003eSaturnsorbit\u003c/a\u003e"
+    }
+  ]
+}

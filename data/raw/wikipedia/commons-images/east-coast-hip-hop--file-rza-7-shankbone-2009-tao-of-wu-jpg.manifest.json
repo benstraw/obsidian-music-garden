@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3ARZA+7+Shankbone+2009+Tao+of+Wu.jpg",
+  "cache_key": "commons-images/east-coast-hip-hop--file-rza-7-shankbone-2009-tao-of-wu-jpg",
+  "fetched_at": "2026-03-27T09:30:37Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

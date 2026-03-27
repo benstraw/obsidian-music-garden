@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://en.wikipedia.org/w/api.php?action=opensearch\u0026format=json\u0026limit=10\u0026namespace=0\u0026search=Fleetwood+Mac",
+  "cache_key": "search/artist--fleetwood-mac",
+  "fetched_at": "2026-03-27T09:26:14Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

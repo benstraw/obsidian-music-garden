@@ -1,0 +1,94 @@
+{
+  "source": "wikipedia",
+  "source_genre": "southern gothic",
+  "canonical_genre_slug": "southern-gothic",
+  "status": "matched",
+  "page_title": "Southern Gothic",
+  "summary": "Southern Gothic is an artistic subgenre of fiction, music, film, theatre, and television that is heavily influenced by Gothic elements and set in the American South. Southern Gothic fiction highlights violence and cruelty as features of Southern culture, often through characters whose place in the social order exposes them to such treatment. Common motifs include racism, gender and sexual difference, poverty and disability. Where Gothic literature depicted the intrusion of the barbaric past into the Enlightenment, Southern Gothic depicts the persistence of social trauma in the reconstructed South. The genre arose in reaction to romantic portrayals influenced by Lost Cause myths and the ideology of American exceptionalism.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Southern_Gothic",
+  "candidates": [
+    "Southern Gothic",
+    "Southern Gothic (2007 film)",
+    "Southern Gothic Productions",
+    "Southern Gothic (album)",
+    "Southern Gothic (disambiguation)",
+    "The Southern Gothic",
+    "Southern thick billed lark",
+    "Southern Gothenburg archipelago"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Southern Gothic",
+    "page_url": "https://en.wikipedia.org/wiki/Southern_Gothic",
+    "retrieved_at": "2026-03-27T09:32:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bethlehem PA graveyard and steel mill 1935.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bethlehem_PA_graveyard_and_steel_mill_1935.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bethlehem_PA_graveyard_and_steel_mill_1935.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bethlehem_PA_graveyard_and_steel_mill_1935.jpg",
+    "width": 775,
+    "height": 612,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Walker_Evans\" class=\"extiw\" title=\"w:en:Walker Evans\"\u003e\u003cspan title=\"American photographer and photojournalist (1903-1975)\"\u003eWalker Evans\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bethlehem PA graveyard and steel mill 1935.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bethlehem_PA_graveyard_and_steel_mill_1935.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bethlehem_PA_graveyard_and_steel_mill_1935.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bethlehem_PA_graveyard_and_steel_mill_1935.jpg",
+      "width": 775,
+      "height": 612,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Walker_Evans\" class=\"extiw\" title=\"w:en:Walker Evans\"\u003e\u003cspan title=\"American photographer and photojournalist (1903-1975)\"\u003eWalker Evans\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Marlon Brando and Vivien Leigh in A Streetcar Named Desire.jpeg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Marlon_Brando_and_Vivien_Leigh_in_A_Streetcar_Named_Desire.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Marlon_Brando_and_Vivien_Leigh_in_A_Streetcar_Named_Desire.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Marlon_Brando_and_Vivien_Leigh_in_A_Streetcar_Named_Desire.jpeg/960px-Marlon_Brando_and_Vivien_Leigh_in_A_Streetcar_Named_Desire.jpeg",
+      "width": 2885,
+      "height": 2239,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Seward Plantation House, Independence, Texas.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Seward_Plantation_House,_Independence,_Texas.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Seward_Plantation_House%2C_Independence%2C_Texas.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Seward_Plantation_House%2C_Independence%2C_Texas.jpg/960px-Seward_Plantation_House%2C_Independence%2C_Texas.jpg",
+      "width": 1024,
+      "height": 736,
+      "license": "Public domain",
+      "author": "James I. Campbell"
+    }
+  ]
+}

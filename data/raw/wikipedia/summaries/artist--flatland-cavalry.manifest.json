@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Flatland%20Cavalry",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Flatland%20Cavalry",
+  "cache_key": "summaries/artist--flatland-cavalry",
+  "fetched_at": "2026-03-27T09:26:13Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

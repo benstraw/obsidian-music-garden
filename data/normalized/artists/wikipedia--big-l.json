@@ -1,0 +1,63 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "big-l",
+  "name": "Big L",
+  "status": "matched",
+  "page_title": "Big L",
+  "summary": "Lamont Coleman, known professionally as Big L, was an American rapper and record producer. Emerging from Harlem in New York City in 1992, Big L became known among underground hip-hop fans for his freestyling ability. He was eventually signed to Columbia Records, where, in 1995, he released his debut studio album, Lifestylez ov da Poor \u0026 Dangerous. He was fatally shot in a drive-by shooting in Harlem in 1999.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Big_L",
+  "candidates": [
+    "Big L",
+    "Big Little Lies (TV series)",
+    "The Big Lebowski",
+    "Big Love",
+    "Big lie",
+    "The Big Lez Show",
+    "Big Loud",
+    "Big Love (Fleetwood Mac song)",
+    "Big Lots",
+    "Big L discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Big L",
+    "page_url": "https://en.wikipedia.org/wiki/Big_L",
+    "retrieved_at": "2026-03-27T09:24:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Big L on 4-1-1995.jpeg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big L on 4-1-1995.jpeg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big L signature.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_L_signature.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Big_L_signature.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Big_L_signature.png",
+      "width": 424,
+      "height": 147,
+      "license": "Public domain",
+      "author": "Lamont Coleman (Big L)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ebonics-BigL.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ]
+}

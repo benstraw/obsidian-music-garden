@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Boom%20bap",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Boom%20bap",
+  "cache_key": "summaries/boom-bap",
+  "fetched_at": "2026-03-27T09:30:03Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,0 +1,76 @@
+{
+  "source": "wikipedia",
+  "source_genre": "country rock",
+  "canonical_genre_slug": "country-rock",
+  "status": "matched",
+  "page_title": "Country rock",
+  "summary": "Country rock is a music genre that fuses rock and country. It was developed by rock musicians who began to record country-flavored records and country musicians who implemented rock flavor into country records in the late 1960s and early 1970s. These musicians recorded records blending rock with country themes, vocal styles, and additional instrumentation, most characteristically pedal steel guitars. Country rock began in the late 60s with artists like the Nitty Gritty Dirt Band, International Submarine Band, The Flying Burrito Brothers, The Byrds, Bob Dylan, Bob Seger and Poco, reaching its greatest popularity in the 1970s with artists such as Eagles, Grateful Dead, Gram Parsons and New Riders of the Purple Sage. Country rock also influenced artists in other genres, including The Band, the Grateful Dead, Creedence Clearwater Revival, The Rolling Stones, and George Harrison's solo work, as well as playing a part in the development of Southern rock.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Country_rock",
+  "candidates": [
+    "Country rock",
+    "Country rock (geology)",
+    "Country Cricket New South Wales",
+    "Country Road Group",
+    "Country risk",
+    "A Country Doctor (short story)",
+    "Country Road (band)",
+    "Country Roads Board",
+    "Country Dick Montana",
+    "Country Road (song)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Country rock",
+    "page_url": "https://en.wikipedia.org/wiki/Country_rock",
+    "retrieved_at": "2026-03-27T09:30:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dickey Betts Pistoia Blues Festival 2008.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dickey_Betts_Pistoia_Blues_Festival_2008.jpg/960px-Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+    "width": 2592,
+    "height": 3888,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/simone13\"\u003eSImone berna\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dickey Betts Pistoia Blues Festival 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dickey_Betts_Pistoia_Blues_Festival_2008.jpg/960px-Dickey_Betts_Pistoia_Blues_Festival_2008.jpg",
+      "width": 2592,
+      "height": 3888,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/simone13\"\u003eSImone berna\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Emmylou Harris 2006 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Emmylou_Harris_2006_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Emmylou_Harris_2006_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Emmylou_Harris_2006_2.jpg",
+      "width": 599,
+      "height": 518,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "C. Kuhl / www.chriskuhl.com/music. \u003ca href=\"https://nl.wikipedia.org/wiki/Gebruiker:Ckuhl\" class=\"extiw\" title=\"nl:Gebruiker:Ckuhl\"\u003enl:Gebruiker:Ckuhl\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gram Parsons.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gram_Parsons.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gram_Parsons.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gram_Parsons.jpg",
+      "width": 645,
+      "height": 482,
+      "license": "Public domain",
+      "author": "Reprise Records"
+    }
+  ]
+}

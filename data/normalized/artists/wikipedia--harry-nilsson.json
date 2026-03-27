@@ -1,0 +1,96 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "harry-nilsson",
+  "name": "Harry Nilsson",
+  "status": "matched",
+  "page_title": "Harry Nilsson",
+  "summary": "Harry Edward Nilsson III, sometimes credited as Nilsson, was an American singer-songwriter who reached the peak of his success in the early 1970s. His work is characterized by pioneering vocal overdub experiments, a return to the Great American Songbook, and fusions of Caribbean sounds. Nilsson was one of the few major pop-rock recording artists to achieve significant commercial success without performing major public concerts or touring regularly.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Harry_Nilsson",
+  "candidates": [
+    "Harry Nilsson",
+    "Harry Nilsson discography",
+    "Harry Nilsson (footballer)",
+    "Harry Wilson (footballer, born 1997)",
+    "Harry Sisson (influencer)",
+    "Harry Nelson Pillsbury",
+    "Harry Wilson (businessman)",
+    "Harry Wilson (rugby union, born 1999)",
+    "Harry Nelson (author)",
+    "Harry Wilson (halfback)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Harry Nilsson",
+    "page_url": "https://en.wikipedia.org/wiki/Harry_Nilsson",
+    "retrieved_at": "2026-03-27T09:26:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Harry Nilsson.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Harry_Nilsson.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Harry_Nilsson.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Harry_Nilsson.png",
+    "width": 489,
+    "height": 440,
+    "license": "Public domain",
+    "author": "RCA Victor"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harry Nilsson.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harry_Nilsson.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Harry_Nilsson.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Harry_Nilsson.png",
+      "width": 489,
+      "height": 440,
+      "license": "Public domain",
+      "author": "RCA Victor"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harry Nilsson (1973).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harry_Nilsson_(1973).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Harry_Nilsson_%281973%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Harry_Nilsson_%281973%29.png/960px-Harry_Nilsson_%281973%29.png",
+      "width": 1272,
+      "height": 1746,
+      "license": "Public domain",
+      "author": "RCA Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harry Nilsson (1974) (tall).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harry_Nilsson_(1974)_(tall).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Harry_Nilsson_%281974%29_%28tall%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Harry_Nilsson_%281974%29_%28tall%29.png/960px-Harry_Nilsson_%281974%29_%28tall%29.png",
+      "width": 1052,
+      "height": 1402,
+      "license": "Public domain",
+      "author": "RCA Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MoonflatCurzonPlace.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MoonflatCurzonPlace.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/MoonflatCurzonPlace.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MoonflatCurzonPlace.JPG/960px-MoonflatCurzonPlace.JPG",
+      "width": 3456,
+      "height": 2592,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Egghead06\" title=\"User:Egghead06\"\u003eEgghead06\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nilsson-everybodys-talkin-rca-victor-US-vinyl-1969-rerelease.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nilsson-everybodys-talkin-rca-victor-US-vinyl-1969-rerelease.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nilsson-everybodys-talkin-rca-victor-US-vinyl-1969-rerelease.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nilsson-everybodys-talkin-rca-victor-US-vinyl-1969-rerelease.jpg",
+      "width": 784,
+      "height": 780,
+      "license": "Public domain",
+      "author": "RCA Records"
+    }
+  ]
+}

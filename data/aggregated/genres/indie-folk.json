@@ -1,4 +1,165 @@
 {
   "canonical_slug": "indie-folk",
-  "pending": true
+  "display_title": "Indie Folk",
+  "display_name": "Indie Folk",
+  "parent_slug": "folk",
+  "aliases": [
+    "indie folk"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Indie folk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Indie_folk",
+  "summary": "Indie folk is an alternative genre of music that arose in the 1990s among musicians from indie rock scenes influenced by folk music.",
+  "candidates": [
+    "Indian folk music",
+    "Indie Book Awards Book of the Year – Children's",
+    "Indie Book Awards Book of the Year – Debut Fiction",
+    "Indie Book Awards Book of the Year – Fiction",
+    "Indie Book Awards Book of the Year – Non-Fiction",
+    "Indie Rock Road Trip",
+    "Indie folk",
+    "Indie rock",
+    "Indie role-playing game",
+    "List of Indian folk dances"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Indie folk",
+    "page_url": "https://en.wikipedia.org/wiki/Indie_folk",
+    "retrieved_at": "2026-03-27T09:31:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fleetfoxes08.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetfoxes08.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fleetfoxes08.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fleetfoxes08.jpg/960px-Fleetfoxes08.jpg",
+    "width": 1998,
+    "height": 1318,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Danishdrummer\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Danishdrummer (page does not exist)\"\u003eDanishdrummer\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetfoxes08.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetfoxes08.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fleetfoxes08.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fleetfoxes08.jpg/960px-Fleetfoxes08.jpg",
+      "width": 1998,
+      "height": 1318,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Danishdrummer\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Danishdrummer (page does not exist)\"\u003eDanishdrummer\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Phoebe Bridgers (42690581094).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Phoebe_Bridgers_(42690581094).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Phoebe_Bridgers_%2842690581094%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Phoebe_Bridgers_%2842690581094%29.jpg/960px-Phoebe_Bridgers_%2842690581094%29.jpg",
+      "width": 4700,
+      "height": 3133,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46192164@N06\"\u003eDavid Lee\u003c/a\u003e from Redmond, WA, USA"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2026-03-03T01:52:33.290Z",
+    "last_played_at": "2026-03-03T02:37:33.420Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "mumford-and-sons",
+      "name": "Mumford \u0026 Sons",
+      "play_count": 1,
+      "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+      "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 1,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "mumford-and-sons--delta",
+      "name": "Delta",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mumford-and-sons",
+      "primary_artist_name": "Mumford \u0026 Sons"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
+      "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "mumford-and-sons--forever",
+      "name": "Forever",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mumford-and-sons",
+      "primary_artist_name": "Mumford \u0026 Sons",
+      "release_canonical_slug": "mumford-and-sons--delta",
+      "release_name": "Delta",
+      "spotify_track_id": "5VemD3t5rwdj4zZlpiX8xh",
+      "spotify_url": "https://open.spotify.com/track/5VemD3t5rwdj4zZlpiX8xh"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--this-train-is-bound-for-glory",
+      "name": "This Train is Bound for Glory",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
+      "release_name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
+      "spotify_track_id": "7mfn1O2YQifrW5nZhAhCGL",
+      "spotify_url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--indie-folk.json",
+      "url": "https://en.wikipedia.org/wiki/Indie_folk",
+      "retrieved_at": "2026-03-27T09:31:05Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--indie-folk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Fleetfoxes08.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T02:37:33.420Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

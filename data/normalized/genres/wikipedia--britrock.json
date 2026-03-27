@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "britrock",
+  "canonical_genre_slug": "britrock",
+  "status": "matched",
+  "page_title": "British rock music",
+  "summary": "British rock describes a wide variety of forms of music made in the United Kingdom. Since around 1964, with the \"British Invasion\" of the United States spearheaded by the Beatles, British rock music has had a considerable impact on the development of American music and rock music across the world.",
+  "canonical_url": "https://en.wikipedia.org/wiki/British_rock_music",
+  "candidates": [
+    "Britrock",
+    "Britrock Must Be Destroyed",
+    "Briaroaks, Texas",
+    "Brannock Device",
+    "BitLocker",
+    "Dean Buntrock",
+    "Bris Rock",
+    "Bobby Buntrock",
+    "Biorock",
+    "Karen Britto"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "British rock music",
+    "page_url": "https://en.wikipedia.org/wiki/British_rock_music",
+    "retrieved_at": "2026-03-27T09:30:07Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Beatles_ad_1965_just_the_beatles_crop.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Beatles_ad_1965_just_the_beatles_crop.jpg/330px-Beatles_ad_1965_just_the_beatles_crop.jpg",
+    "width": 1156,
+    "height": 839
+  }
+}

@@ -2,6 +2,11 @@
   "canonical_slug": "hardy",
   "name": "HARDY",
   "spotify_artist_id": "5QNm7E7RU2m64l6Gliu8Oy",
+  "spotify_url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy",
+  "genres": [
+    "country",
+    "country-rock"
+  ],
   "source_genres": [
     "country",
     "country rock"
@@ -23,5 +28,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "ambiguous",
+  "candidates": [
+    "Françoise Hardy",
+    "Greg Hardy",
+    "Hardy Boyz",
+    "Hardy–Weinberg principle",
+    "Jeff Hardy",
+    "Matt Hardy",
+    "Oliver Hardy",
+    "The Hardy Boys",
+    "Thomas Hardy",
+    "Tom Hardy"
+  ],
+  "last_updated": "2026-03-27"
 }

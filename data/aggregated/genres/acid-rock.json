@@ -1,4 +1,309 @@
 {
   "canonical_slug": "acid-rock",
-  "pending": true
+  "display_title": "Acid Rock",
+  "display_name": "Acid Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "acid rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Acid rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Acid_rock",
+  "summary": "Acid rock is a loosely defined type of rock music that evolved out of the mid-1960s garage punk movement and helped launch the psychedelic subculture. While the term has sometimes been used interchangeably with \"psychedelic rock\", acid rock also specifically refers to a more musically intense, rawer, or heavier subgenre or sibling of psychedelic rock. Named after lysergic acid diethylamide (LSD), the style is generally defined by heavy, distorted guitars and often contains lyrics with drug references and long improvised jams.",
+  "candidates": [
+    "Acid Monkey",
+    "Acid Row",
+    "Acid Tracks",
+    "Acid brick",
+    "Acid folk",
+    "Acid rock",
+    "Acid rock (geology)",
+    "Acid rock drainage",
+    "Acidic rock",
+    "Ad-Rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Acid rock",
+    "page_url": "https://en.wikipedia.org/wiki/Acid_rock",
+    "retrieved_at": "2026-03-27T09:29:28Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A female demonstrator offers a flower to military police on guard at the Pentagon during an anti-Vietnam demonstration. Arlington, Virginia, USA.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington,_Virginia,_USA.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington%2C_Virginia%2C_USA.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington%2C_Virginia%2C_USA.jpg/960px-A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington%2C_Virginia%2C_USA.jpg",
+    "width": 2400,
+    "height": 2384,
+    "license": "Public domain",
+    "author": "By S.Sgt. Albert R. Simpson. Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A female demonstrator offers a flower to military police on guard at the Pentagon during an anti-Vietnam demonstration. Arlington, Virginia, USA.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington,_Virginia,_USA.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington%2C_Virginia%2C_USA.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington%2C_Virginia%2C_USA.jpg/960px-A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington%2C_Virginia%2C_USA.jpg",
+      "width": 2400,
+      "height": 2384,
+      "license": "Public domain",
+      "author": "By S.Sgt. Albert R. Simpson. Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:In-a-Gadda-Da-Vida sample.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jefferson Airplane early 1966.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jefferson_Airplane_early_1966.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jefferson_Airplane_early_1966.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jefferson_Airplane_early_1966.jpg/960px-Jefferson_Airplane_early_1966.jpg",
+      "width": 963,
+      "height": 488,
+      "license": "Public domain",
+      "author": "KRLA/Beat Publications-page 2  Photo by Chuck Boyd of Beat.  The newspaper was produced for KRLA Radio, Los Angeles, in the mid-1960s."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jimi Hendrix 1967 uncropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jimi_Hendrix_1967_uncropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jimi_Hendrix_1967_uncropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jimi_Hendrix_1967_uncropped.jpg/960px-Jimi_Hendrix_1967_uncropped.jpg",
+      "width": 2601,
+      "height": 1939,
+      "license": "Public domain",
+      "author": "Original photographer unknown"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 10,
+    "unique_artist_count": 3,
+    "unique_release_count": 7,
+    "unique_track_count": 9,
+    "first_played_at": "2026-02-13T01:44:42.669Z",
+    "last_played_at": "2026-03-19T02:11:24.325Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "play_count": 4,
+      "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+      "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+    },
+    {
+      "canonical_slug": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "play_count": 3,
+      "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    {
+      "canonical_slug": "the-doors",
+      "name": "The Doors",
+      "play_count": 3,
+      "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+      "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "name": "Axis: Bold As Love",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix"
+    },
+    {
+      "canonical_slug": "the-doors--the-soft-parade",
+      "name": "The Soft Parade",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors"
+    },
+    {
+      "canonical_slug": "grateful-dead--blues-for-allah-2013-remaster",
+      "name": "Blues for Allah (2013 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead"
+    },
+    {
+      "canonical_slug": "grateful-dead--europe-72-live-2001-remaster",
+      "name": "Europe '72 (Live; 2001 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead"
+    },
+    {
+      "canonical_slug": "grateful-dead--reckoning-live",
+      "name": "Reckoning (Live)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead"
+    },
+    {
+      "canonical_slug": "the-doors--the-doors",
+      "name": "The Doors",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors"
+    },
+    {
+      "canonical_slug": "grateful-dead--workingman-s-dead",
+      "name": "Workingman's Dead",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-doors--the-soft-parade",
+      "name": "The Soft Parade",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors",
+      "release_canonical_slug": "the-doors--the-soft-parade",
+      "release_name": "The Soft Parade",
+      "spotify_track_id": "0YMzPd9mYx4txOuCnhYUGU",
+      "spotify_url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+    },
+    {
+      "canonical_slug": "the-doors--alabama-song-whisky-bar",
+      "name": "Alabama Song (Whisky Bar)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors",
+      "release_canonical_slug": "the-doors--the-doors",
+      "release_name": "The Doors",
+      "spotify_track_id": "0JNZGIavoUrdup1NsgJOQs",
+      "spotify_url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
+    },
+    {
+      "canonical_slug": "grateful-dead--casey-jones-2013-remaster",
+      "name": "Casey Jones - 2013 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--workingman-s-dead",
+      "release_name": "Workingman's Dead",
+      "spotify_track_id": "7LbfuQVct78YoghmoPtsQ8",
+      "spotify_url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
+    },
+    {
+      "canonical_slug": "grateful-dead--cassidy-live",
+      "name": "Cassidy - Live",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--reckoning-live",
+      "release_name": "Reckoning (Live)",
+      "spotify_track_id": "3Ytea3b7VXXkVTN2mRpjvB",
+      "spotify_url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--castles-made-of-sand",
+      "name": "Castles Made of Sand",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "release_name": "Axis: Bold As Love",
+      "spotify_track_id": "3qebSLgUwaEqbwCM5sj5Kh",
+      "spotify_url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
+    },
+    {
+      "canonical_slug": "grateful-dead--franklin-s-tower-2013-remaster",
+      "name": "Franklin's Tower - 2013 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--blues-for-allah-2013-remaster",
+      "release_name": "Blues for Allah (2013 Remaster)",
+      "spotify_track_id": "3PgIhd4XmwtmV2XGU5qhzZ",
+      "spotify_url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
+    },
+    {
+      "canonical_slug": "grateful-dead--ramble-on-rose-live-at-the-strand-lyceum-london-england-5-26-72-2001-remaster",
+      "name": "Ramble on Rose (Live at the Strand Lyceum, London, England, 5/26/72) - 2001 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--europe-72-live-2001-remaster",
+      "release_name": "Europe '72 (Live; 2001 Remaster)",
+      "spotify_track_id": "24ei2BLeVEpGWLZ2qfLXJO",
+      "spotify_url": "https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--spanish-castle-magic",
+      "name": "Spanish Castle Magic",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "release_name": "Axis: Bold As Love",
+      "spotify_track_id": "2KFE98Iw0X23sf4vJYcbLH",
+      "spotify_url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--you-got-me-floatin",
+      "name": "You Got Me Floatin'",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "release_name": "Axis: Bold As Love",
+      "spotify_track_id": "2Fu2CXFkfiKKXPGtbDDlvj",
+      "spotify_url": "https://open.spotify.com/track/2Fu2CXFkfiKKXPGtbDDlvj"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--acid-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Acid_rock",
+      "retrieved_at": "2026-03-27T09:29:28Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--acid-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:A_female_demonstrator_offers_a_flower_to_military_police_on_guard_at_the_Pentagon_during_an_anti-Vietnam_demonstration._Arlington,_Virginia,_USA.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:11:24.325Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

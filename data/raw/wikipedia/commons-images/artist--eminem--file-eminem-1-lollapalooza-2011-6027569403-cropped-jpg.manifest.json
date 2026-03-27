@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AEminem+1+-+Lollapalooza+2011+%286027569403%29+%28cropped%29.jpg",
+  "cache_key": "commons-images/artist--eminem--file-eminem-1-lollapalooza-2011-6027569403-cropped-jpg",
+  "fetched_at": "2026-03-27T09:26:11Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

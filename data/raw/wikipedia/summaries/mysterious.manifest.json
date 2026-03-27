@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Mysterious",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Mysterious",
+  "cache_key": "summaries/mysterious",
+  "fetched_at": "2026-03-27T09:31:25Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

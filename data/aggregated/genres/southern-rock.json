@@ -1,4 +1,165 @@
 {
   "canonical_slug": "southern-rock",
-  "pending": true
+  "display_title": "Southern Rock",
+  "display_name": "Southern Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "southern rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Southern rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_rock",
+  "summary": "Southern rock is a subgenre of rock music and a genre of Americana. It developed in the Southern United States from rock and roll, country and blues, and is focused generally on electric guitars and vocals.",
+  "candidates": [
+    "Southern Rock Allstars",
+    "Southern Rock Gold",
+    "Southern Rock Masters",
+    "Southern Rock Opera",
+    "Southern Rocks",
+    "Southern Rocky Mountain Front",
+    "Southern Rocky Mountain wolf",
+    "Southern Rocky Mountains",
+    "Southern rock",
+    "Southern rock lizard"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Southern rock",
+    "page_url": "https://en.wikipedia.org/wiki/Southern_rock",
+    "retrieved_at": "2026-03-27T09:32:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Duane Allman.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Duane_Allman.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Duane_Allman.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duane_Allman.jpg/960px-Duane_Allman.jpg",
+    "width": 3262,
+    "height": 4472,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56181125@N00\"\u003eEd Berman\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duane Allman.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duane_Allman.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Duane_Allman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Duane_Allman.jpg/960px-Duane_Allman.jpg",
+      "width": 3262,
+      "height": 4472,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/56181125@N00\"\u003eEd Berman\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wiki letter w cropped.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wiki_letter_w_cropped.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/960px-Wiki_letter_w_cropped.svg.png",
+      "width": 44,
+      "height": 31,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "derivative work by \u003ca href=\"//commons.wikimedia.org/wiki/User:Thumperward\" title=\"User:Thumperward\"\u003eThumperward\u003c/a\u003e / * \u003ca href=\"//commons.wikimedia.org/wiki/File:Wiki_letter_w.svg\" title=\"File:Wiki letter w.svg\"\u003eFile:Wiki letter w.svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:Jarkko_Piiroinen\" title=\"User:Jarkko Piiroinen\"\u003eJarkko Piiroinen\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-01T01:12:35.597Z",
+    "last_played_at": "2026-03-01T01:12:35.597Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "little-feat",
+      "name": "Little Feat",
+      "play_count": 1,
+      "spotify_artist_id": "0ZIwOAzDuGPspzK7yiTc4S",
+      "spotify_url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "little-feat--feats-don-t-fail-me-now",
+      "name": "Feats Don't Fail Me Now",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "little-feat",
+      "primary_artist_name": "Little Feat"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "little-feat--spanish-moon",
+      "name": "Spanish Moon",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "little-feat",
+      "primary_artist_name": "Little Feat",
+      "release_canonical_slug": "little-feat--feats-don-t-fail-me-now",
+      "release_name": "Feats Don't Fail Me Now",
+      "spotify_track_id": "24eRthJ3VWBI7B9cuFBdMG",
+      "spotify_url": "https://open.spotify.com/track/24eRthJ3VWBI7B9cuFBdMG"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--southern-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Southern_rock",
+      "retrieved_at": "2026-03-27T09:32:09Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--southern-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Duane_Allman.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-01T01:12:35.597Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

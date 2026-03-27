@@ -2,6 +2,11 @@
   "canonical_slug": "slick-rick",
   "name": "Slick Rick",
   "spotify_artist_id": "1W9qOBYRTfP7HcizWN43G1",
+  "spotify_url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1",
+  "genres": [
+    "east-coast-hip-hop",
+    "old-school-hip-hop"
+  ],
   "source_genres": [
     "east coast hip hop",
     "old school hip hop"
@@ -23,5 +28,91 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Slick Rick",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Slick_Rick",
+  "summary": "Ricky Martin Lloyd Walters, better known as Slick Rick, is a British-American rapper and record producer. He rose to prominence as part of Doug E. Fresh \u0026 the Get Fresh Crew in the mid-1980s. His songs \"The Show\" and \"La Di Da Di\" are considered early hip-hop classics. \"La Di Da Di\" is one of the most sampled songs in history.",
+  "candidates": [
+    "Eric Slick",
+    "Slacker rock",
+    "Slick Chick (pinball)",
+    "Slick Chicks",
+    "Slick Ric",
+    "Slick Rick",
+    "Slick Rick discography",
+    "Slick Rock Falls",
+    "Slick Rock, Colorado",
+    "Slickrock Trail"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Slick Rick",
+    "page_url": "https://en.wikipedia.org/wiki/Slick_Rick",
+    "retrieved_at": "2026-03-27T09:27:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Out4Fame-Festival 2016 - Slick Rick - 2.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Out4Fame-Festival_2016_-_Slick_Rick_-_2.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Out4Fame-Festival_2016_-_Slick_Rick_-_2.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Out4Fame-Festival_2016_-_Slick_Rick_-_2.JPG/960px-Out4Fame-Festival_2016_-_Slick_Rick_-_2.JPG",
+      "width": 3802,
+      "height": 2535,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Dominik Lippe (\u003ca href=\"//commons.wikimedia.org/wiki/User:Lipstar\" title=\"User:Lipstar\"\u003eLipstar\u003c/a\u003e) und Yannic Lippe"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Slick Rick - Children's Story.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Slick Rick - The Ruler.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Slick_Rick_-_The_Ruler.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Slick_Rick_-_The_Ruler.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Slick_Rick_-_The_Ruler.jpg/960px-Slick_Rick_-_The_Ruler.jpg",
+      "width": 1504,
+      "height": 2000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bihammond/\"\u003eBrett Hammond\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Slick Rick performs at Halftime of the WNBA Playoffs.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Slick_Rick_performs_at_Halftime_of_the_WNBA_Playoffs.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Slick_Rick_performs_at_Halftime_of_the_WNBA_Playoffs.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Slick_Rick_performs_at_Halftime_of_the_WNBA_Playoffs.jpg/960px-Slick_Rick_performs_at_Halftime_of_the_WNBA_Playoffs.jpg",
+      "width": 2292,
+      "height": 3024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:WOWyerrr\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:WOWyerrr (page does not exist)\"\u003eWOWyerrr\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

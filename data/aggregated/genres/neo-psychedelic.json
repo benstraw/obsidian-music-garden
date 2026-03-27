@@ -1,4 +1,75 @@
 {
   "canonical_slug": "neo-psychedelic",
-  "pending": true
+  "display_title": "Neo-Psychedelic",
+  "display_name": "Neo-Psychedelic",
+  "parent_slug": "rock",
+  "aliases": [
+    "neo psychedelic"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "NAT (psychedelic)",
+    "NET (psychedelic)",
+    "NHT (psychedelic)",
+    "NMT (psychedelic)",
+    "Neo-psychedelia",
+    "Non-psychedelic 5-HT2A agonist"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-08T19:21:51.573Z",
+    "last_played_at": "2026-03-08T19:21:51.573Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "the-flaming-lips",
+      "name": "The Flaming Lips",
+      "play_count": 1,
+      "spotify_artist_id": "16eRpMNXSQ15wuJoeqguaB",
+      "spotify_url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots",
+      "name": "Yoshimi Battles the Pink Robots",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-flaming-lips",
+      "primary_artist_name": "The Flaming Lips"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots-pt-1",
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-flaming-lips",
+      "primary_artist_name": "The Flaming Lips",
+      "release_canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots",
+      "release_name": "Yoshimi Battles the Pink Robots",
+      "spotify_track_id": "0ccCwNzXvr1Yoz91vKz31Z",
+      "spotify_url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T19:21:51.573Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

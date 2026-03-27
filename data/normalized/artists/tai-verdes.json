@@ -1,5 +1,54 @@
 {
   "source": "spotify",
   "source_artist_id": "2kCO8LXN1usaOPL3iEE28I",
-  "name": "Tai Verdes"
+  "name": "Tai Verdes",
+  "spotify_url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I",
+  "status": "matched",
+  "page_title": "Tai Verdes",
+  "summary": "Tyler James Colon, known professionally as Tai Verdes, is an American singer. He grew up in Southern California where he played guitar, piano, and ukulele. Playing on the basketball team during his attendance at Babson College, he maintained his love for music and eventually dropped out. He was also featured on and won season 6 of Are You the One?. He worked at a phone store during the COVID-19 pandemic, but this still helped further his musical passion and during the same time, he released his breakout single \"Stuck in the Middle\" in June 2020. The song went viral on TikTok. He responded to his newfound success saying the song \"doesn't just turn into a million dollars and a nice car. It turns into waiting-which I think I've gotten pretty good at.\"",
+  "canonical_url": "https://en.wikipedia.org/wiki/Tai_Verdes",
+  "candidates": [
+    "Joey Tavernese",
+    "Suzanna Taverne",
+    "TV Verdes Mares",
+    "TV Verdes Mares Cariri",
+    "Tai Verdes",
+    "Taisen Deshimaru",
+    "Tasher Desh",
+    "Tavernes",
+    "Tavernes Blanques",
+    "Tavernes de la Valldigna"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tai Verdes",
+    "page_url": "https://en.wikipedia.org/wiki/Tai_Verdes",
+    "retrieved_at": "2026-03-27T09:28:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Tai Verdes 2020.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Tai_Verdes_2020.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tai_Verdes_2020.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tai_Verdes_2020.jpg/960px-Tai_Verdes_2020.jpg",
+    "width": 4000,
+    "height": 6000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Egeltzer\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Egeltzer (page does not exist)\"\u003eEgeltzer\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tai Verdes 2020.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Tai_Verdes_2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tai_Verdes_2020.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Tai_Verdes_2020.jpg/960px-Tai_Verdes_2020.jpg",
+      "width": 4000,
+      "height": 6000,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Egeltzer\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Egeltzer (page does not exist)\"\u003eEgeltzer\u003c/a\u003e"
+    }
+  ]
 }

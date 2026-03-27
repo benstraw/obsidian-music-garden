@@ -1,0 +1,6 @@
+{
+  "endpoint": "/page/summary/Buffalo%20Springfield",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Buffalo%20Springfield",
+  "fetched_at": "2026-03-27T09:25:41Z",
+  "content_type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\""
+}

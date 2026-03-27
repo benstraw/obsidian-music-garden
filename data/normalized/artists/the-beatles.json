@@ -2,8 +2,105 @@
   "source": "spotify",
   "source_artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
   "name": "The Beatles",
+  "spotify_url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
   "source_genres": [
     "classic rock",
     "psychedelic rock"
+  ],
+  "canonical_genre_slugs": [
+    "classic-rock",
+    "psychedelic-rock"
+  ],
+  "status": "matched",
+  "page_title": "The Beatles",
+  "summary": "The Beatles were an English rock band formed in Liverpool in 1960. The core lineup of the band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are widely regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. The band also explored music styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Beatles",
+  "candidates": [
+    "The Beatles",
+    "The Beatles (album)",
+    "The Beatles Anthology (TV series)",
+    "The Beatles albums discography",
+    "The Beatles in Hamburg",
+    "The Beatles in India",
+    "The Beatles in film",
+    "The Beatles timeline",
+    "The Beatles – A Four-Film Cinematic Event",
+    "The Beatles: Get Back"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Beatles",
+    "page_url": "https://en.wikipedia.org/wiki/The_Beatles",
+    "retrieved_at": "2026-03-27T09:28:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:3 Savile Row.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:3_Savile_Row.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/3_Savile_Row.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/3_Savile_Row.jpg/960px-3_Savile_Row.jpg",
+    "width": 2146,
+    "height": 3872,
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Misterweiss\" class=\"extiw\" title=\"wikipedia:User:Misterweiss\"\u003eMisterweiss\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:3 Savile Row.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:3_Savile_Row.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/3_Savile_Row.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/3_Savile_Row.jpg/960px-3_Savile_Row.jpg",
+      "width": 2146,
+      "height": 3872,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Misterweiss\" class=\"extiw\" title=\"wikipedia:User:Misterweiss\"\u003eMisterweiss\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Abbey Rd Studios.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Abbey_Rd_Studios.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Abbey_Rd_Studios.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Abbey_Rd_Studios.jpg/960px-Abbey_Rd_Studios.jpg",
+      "width": 3200,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Misterweiss\" class=\"extiw\" title=\"wikipedia:User:Misterweiss\"\u003eMisterweiss\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alistar and Alfio from The Cairos cross Abbey Road with Jesse Davidson and Dj Sammy T.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alistar_and_Alfio_from_The_Cairos_cross_Abbey_Road_with_Jesse_Davidson_and_Dj_Sammy_T.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Alistar_and_Alfio_from_The_Cairos_cross_Abbey_Road_with_Jesse_Davidson_and_Dj_Sammy_T.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Alistar_and_Alfio_from_The_Cairos_cross_Abbey_Road_with_Jesse_Davidson_and_Dj_Sammy_T.jpg",
+      "width": 960,
+      "height": 720,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Zefereli\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Zefereli (page does not exist)\"\u003eZefereli\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio-input-microphone.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "width": 128,
+      "height": 128,
+      "license": "GPL",
+      "license_url": "http://www.gnu.org/licenses/gpl.html",
+      "author": "DBGthekafu"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatlemania fan - Press and Sun-Bulletin (1964).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatlemania_fan_-_Press_and_Sun-Bulletin_(1964).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Beatlemania_fan_-_Press_and_Sun-Bulletin_%281964%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Beatlemania_fan_-_Press_and_Sun-Bulletin_%281964%29.jpg/960px-Beatlemania_fan_-_Press_and_Sun-Bulletin_%281964%29.jpg",
+      "width": 2499,
+      "height": 2403,
+      "license": "Public domain",
+      "author": "Associated Press"
+    }
   ]
 }

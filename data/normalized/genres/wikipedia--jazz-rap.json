@@ -1,0 +1,51 @@
+{
+  "source": "wikipedia",
+  "source_genre": "jazz rap",
+  "canonical_genre_slug": "jazz-rap",
+  "status": "matched",
+  "page_title": "Jazz rap",
+  "summary": "Jazz rap is a fusion of jazz and hip hop music, as well as an alternative hip-hop subgenre, that developed in the late 1980s and early 1990s. An article on AllMusic explains that the genre \"was an attempt to fuse African-American music of the past with a newly dominant form of the present, paying tribute to and reinvigorating the former while expanding the horizons of the latter.\" The rhythm was rooted in hip hop over which repetitive phrases of jazz instrumentation, such as the trumpet, double bass, etc., were placed. The groups involved in the formation of jazz rap included A Tribe Called Quest, Digable Planets, De La Soul, Gang Starr, and Jungle Brothers.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jazz_rap",
+  "candidates": [
+    "Jazz rap",
+    "Jazz Age",
+    "Maxi Jazz",
+    "Jazzar Pasha",
+    "Jazz Raycole",
+    "Jazz Aviation",
+    "Jazz Richards",
+    "Jazz improvisation",
+    "Jazz band",
+    "Jazz Age Lawn Party"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz rap",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_rap",
+    "retrieved_at": "2026-03-27T09:31:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

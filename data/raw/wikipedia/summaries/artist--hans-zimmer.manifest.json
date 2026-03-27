@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Hans%20Zimmer",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Hans%20Zimmer",
+  "cache_key": "summaries/artist--hans-zimmer",
+  "fetched_at": "2026-03-27T09:26:23Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AGoodie+Mob+Backwoods+Backstage+85+South+Show+Live+%40+One+Music+Fest.png",
+  "cache_key": "commons-images/artist--goodie-mob--file-goodie-mob-backwoods-backstage-85-south-show-live-one-music-fest-png",
+  "fetched_at": "2026-03-27T09:26:22Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

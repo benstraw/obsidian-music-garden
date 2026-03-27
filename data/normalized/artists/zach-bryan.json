@@ -2,8 +2,95 @@
   "source": "spotify",
   "source_artist_id": "40ZNYROS4zLfyyBSs2PGe2",
   "name": "Zach Bryan",
+  "spotify_url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2",
   "source_genres": [
     "country",
     "red dirt"
+  ],
+  "canonical_genre_slugs": [
+    "country",
+    "red-dirt"
+  ],
+  "status": "matched",
+  "page_title": "Zach Bryan",
+  "summary": "Zachary Lane Bryan is an American country singer-songwriter from Oologah, Oklahoma. After two self-produced studio albums, DeAnn (2019) and Elisabeth (2020), he signed with Warner Records to release his third album and major label debut American Heartbreak (2022), which peaked at number five on the Billboard 200 and was led by the Billboard Hot 100-top ten single \"Something in the Orange\". His self-titled fourth album (2023) debuted atop the Billboard 200, while its lead single, \"I Remember Everything\", peaked atop the Billboard Hot 100, Hot Country Songs, and Hot Rock \u0026 Alternative Songs charts simultaneously, also earning him a Grammy Award for Best Country Duo/Group Performance. His fifth studio album, The Great American Bar Scene (2024), peaked at number two on the Billboard 200 and spawned the Billboard Hot 100 top-ten single \"Pink Skies\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Zach_Bryan",
+  "candidates": [
+    "Bruno Zach",
+    "Zac Brown Band",
+    "Zach Banks-Calderín",
+    "Zach Banner",
+    "Zach Braff",
+    "Zach Brown",
+    "Zach Bryan",
+    "Zach Bryan (album)",
+    "Zach Bryan discography",
+    "Zach Randolph"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Zach Bryan",
+    "page_url": "https://en.wikipedia.org/wiki/Zach_Bryan",
+    "retrieved_at": "2026-03-27T09:28:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Zach Bryan Melbourne.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Zach_Bryan_Melbourne.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Zach_Bryan_Melbourne.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zach_Bryan_Melbourne.jpg/960px-Zach_Bryan_Melbourne.jpg",
+    "width": 1125,
+    "height": 1478,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "MAx Kermit"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Zach Bryan Melbourne.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Zach_Bryan_Melbourne.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Zach_Bryan_Melbourne.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zach_Bryan_Melbourne.jpg/960px-Zach_Bryan_Melbourne.jpg",
+      "width": 1125,
+      "height": 1478,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "MAx Kermit"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Zach Bryan Navy.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Zach_Bryan_Navy.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zach_Bryan_Navy.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zach_Bryan_Navy.png",
+      "width": 742,
+      "height": 802,
+      "license": "Public domain",
+      "author": "Navy Office of Community Outreach (NAVCO)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Zach Bryan performing at Crypto.com Arena on 23 Aug 2023 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Zach_Bryan_performing_at_Crypto.com_Arena_on_23_Aug_2023_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zach_Bryan_performing_at_Crypto.com_Arena_on_23_Aug_2023_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Zach_Bryan_performing_at_Crypto.com_Arena_on_23_Aug_2023_%28cropped%29.jpg",
+      "width": 592,
+      "height": 556,
+      "license": "Attribution",
+      "author": "Katrina Paisano",
+      "attribution_text": "Photo by Katrina Paisano, taken on 23 August 2023 at Crypto.com Arena."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Zach Bryan sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Zach_Bryan_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Zach_Bryan_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zach_Bryan_sig.svg/960px-Zach_Bryan_sig.svg.png",
+      "width": 400,
+      "height": 323,
+      "license": "Public domain",
+      "author": "Zach Bryan"
+    }
   ]
 }

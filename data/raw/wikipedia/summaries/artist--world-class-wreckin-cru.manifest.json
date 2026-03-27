@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/World%20Class%20Wreckin%27%20Cru",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/World%20Class%20Wreckin%27%20Cru",
+  "cache_key": "summaries/artist--world-class-wreckin-cru",
+  "fetched_at": "2026-03-27T09:28:24Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

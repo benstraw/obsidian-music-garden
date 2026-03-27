@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/f509b122-bc44-4995-ba2c-d8558c16593a",
+  "request_url": "https://musicbrainz.org/ws/2/artist/f509b122-bc44-4995-ba2c-d8558c16593a?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/f509b122-bc44-4995-ba2c-d8558c16593a",
+  "fetched_at": "2026-03-27T09:34:02Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

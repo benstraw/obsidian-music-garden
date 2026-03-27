@@ -2,6 +2,11 @@
   "canonical_slug": "charles-bradley",
   "name": "Charles Bradley",
   "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
+  "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf",
+  "genres": [
+    "funk",
+    "soul"
+  ],
   "source_genres": [
     "funk",
     "retro soul",
@@ -24,5 +29,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Charles Bradley",
+    "Charles Bradley (basketball)",
+    "Charles Bradley (bowls)",
+    "Charles Bradley (footballer)",
+    "Charles Bradley (medical doctor)",
+    "Charles Bradley (preacher)",
+    "Charles Bradley (sailor)",
+    "Charles Bradley (singer)",
+    "Charles Bradley Isham",
+    "Charles Bradley Templeton"
+  ],
+  "last_updated": "2026-03-27"
 }

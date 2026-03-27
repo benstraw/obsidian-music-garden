@@ -2,6 +2,10 @@
   "canonical_slug": "tonez",
   "name": "Tonez",
   "spotify_artist_id": "5pvsRwXcUfr3oUVVbgrv5P",
+  "spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P",
+  "genres": [
+    "uk-garage"
+  ],
   "source_genres": [
     "uk garage"
   ],
@@ -22,5 +26,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "ambiguous",
+  "candidates": [
+    "Franchot Tone",
+    "Ivan Toney",
+    "James Toney",
+    "Tone (linguistics)",
+    "Tone Loc",
+    "Tone letter",
+    "Tone Žnidaršič",
+    "Tones and I",
+    "Tonezza del Cimone",
+    "Tony Blair"
+  ],
+  "last_updated": "2026-03-27"
 }

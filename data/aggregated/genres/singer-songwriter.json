@@ -1,8 +1,278 @@
 {
   "canonical_slug": "singer-songwriter",
+  "display_title": "Singer-Songwriter",
+  "display_name": "Singer-Songwriter",
+  "notes": "Form/scene label used as a stable editorial bucket.",
   "aliases": [
-    "singer songwriter",
-    "singer-songwriter"
+    "singer songwriter"
   ],
-  "pending": false
+  "pending": false,
+  "status": "ambiguous",
+  "candidates": [
+    "Singer, Songwriter \u0026 Legendary Performer",
+    "Singer-Songwriter (album)",
+    "Singer-songwriter",
+    "Singers Songwriters Legends",
+    "Singers and Songwriters (Time-Life Music)"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 48,
+    "unique_artist_count": 7,
+    "unique_release_count": 23,
+    "unique_track_count": 30,
+    "first_played_at": "2026-02-13T01:48:42.202Z",
+    "last_played_at": "2026-03-18T01:43:36.082Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "john-prine",
+      "name": "John Prine",
+      "play_count": 19,
+      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+    },
+    {
+      "canonical_slug": "neil-young",
+      "name": "Neil Young",
+      "play_count": 16,
+      "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+      "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    {
+      "canonical_slug": "leonard-cohen",
+      "name": "Leonard Cohen",
+      "play_count": 7,
+      "spotify_artist_id": "5l8VQNuIg0turYE1VtM9zV",
+      "spotify_url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+    },
+    {
+      "canonical_slug": "emmylou-harris",
+      "name": "Emmylou Harris",
+      "play_count": 3,
+      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+    },
+    {
+      "canonical_slug": "bob-dylan",
+      "name": "Bob Dylan",
+      "play_count": 1,
+      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    {
+      "canonical_slug": "harry-nilsson",
+      "name": "Harry Nilsson",
+      "play_count": 1,
+      "spotify_artist_id": "3RTzAwFprBqiskp550eSJX",
+      "spotify_url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+    },
+    {
+      "canonical_slug": "townes-van-zandt",
+      "name": "Townes Van Zandt",
+      "play_count": 1,
+      "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
+      "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "john-prine--in-spite-of-ourselves",
+      "name": "In Spite Of Ourselves",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "name": "Harvest (50th Anniversary Edition)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "neil-young--barn",
+      "name": "Barn",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "john-prine--john-prine",
+      "name": "John Prine",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    },
+    {
+      "canonical_slug": "leonard-cohen--songs-of-leonard-cohen",
+      "name": "Songs Of Leonard Cohen",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "leonard-cohen",
+      "primary_artist_name": "Leonard Cohen"
+    },
+    {
+      "canonical_slug": "leonard-cohen--ten-new-songs",
+      "name": "Ten New Songs",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "leonard-cohen",
+      "primary_artist_name": "Leonard Cohen"
+    },
+    {
+      "canonical_slug": "harry-nilsson--aerial-ballet",
+      "name": "Aerial Ballet",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "harry-nilsson",
+      "primary_artist_name": "Harry Nilsson"
+    },
+    {
+      "canonical_slug": "neil-young--after-the-gold-rush-2009-remaster",
+      "name": "After the Gold Rush (2009 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "neil-young--american-stars-n-bars",
+      "name": "American Stars 'N Bars",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young"
+    },
+    {
+      "canonical_slug": "john-prine--bruised-orange",
+      "name": "Bruised Orange",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "john-prine--in-spite-of-ourselves",
+      "name": "In Spite of Ourselves",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--in-spite-of-ourselves",
+      "release_name": "In Spite Of Ourselves",
+      "spotify_track_id": "2K2eLVi9HJ84T1dkifkQ9O",
+      "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O"
+    },
+    {
+      "canonical_slug": "john-prine--i-know-one",
+      "name": "I Know One",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--in-spite-of-ourselves",
+      "release_name": "In Spite Of Ourselves",
+      "spotify_track_id": "20z4r2Jhk3yOCTGuRSRMTE",
+      "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
+    },
+    {
+      "canonical_slug": "neil-young--heading-west",
+      "name": "Heading West",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--barn",
+      "release_name": "Barn",
+      "spotify_track_id": "6XtmeG61N9gqY5RFmhQqYH",
+      "spotify_url": "https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH"
+    },
+    {
+      "canonical_slug": "neil-young--words-between-the-lines-of-age",
+      "name": "Words (Between the Lines of Age)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "65L89liJNDrskT7XTDEKbA",
+      "spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
+    },
+    {
+      "canonical_slug": "leonard-cohen--a-thousand-kisses-deep",
+      "name": "A Thousand Kisses Deep",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "leonard-cohen",
+      "primary_artist_name": "Leonard Cohen",
+      "release_canonical_slug": "leonard-cohen--ten-new-songs",
+      "release_name": "Ten New Songs",
+      "spotify_track_id": "1izTPgfFEyvc0hl7uYAzGt",
+      "spotify_url": "https://open.spotify.com/track/1izTPgfFEyvc0hl7uYAzGt"
+    },
+    {
+      "canonical_slug": "neil-young--out-on-the-weekend",
+      "name": "Out on the Weekend",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "15Z3JEayO4OEcbJQsasWHh",
+      "spotify_url": "https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh"
+    },
+    {
+      "canonical_slug": "john-prine--spanish-pipedream",
+      "name": "Spanish Pipedream",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--john-prine",
+      "release_name": "John Prine",
+      "spotify_track_id": "7zrxGPR1UVK2iSK793vLPl",
+      "spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
+    },
+    {
+      "canonical_slug": "john-prine--angel-from-montgomery",
+      "name": "Angel from Montgomery",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "release_canonical_slug": "john-prine--john-prine",
+      "release_name": "John Prine",
+      "spotify_track_id": "2qWKpYIleSvBT6aUMXoia5",
+      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+    },
+    {
+      "canonical_slug": "neil-young--are-you-ready-for-the-country",
+      "name": "Are You Ready for the Country?",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "release_name": "Harvest (50th Anniversary Edition)",
+      "spotify_track_id": "3LJy93lXURXqAIFU33GIS4",
+      "spotify_url": "https://open.spotify.com/track/3LJy93lXURXqAIFU33GIS4"
+    },
+    {
+      "canonical_slug": "leonard-cohen--avalanche",
+      "name": "Avalanche",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "leonard-cohen",
+      "primary_artist_name": "Leonard Cohen",
+      "release_canonical_slug": "leonard-cohen--songs-of-love-and-hate",
+      "release_name": "Songs of Love and Hate",
+      "spotify_track_id": "3t4qyMVnN9o0ZJhsUaa465",
+      "spotify_url": "https://open.spotify.com/track/3t4qyMVnN9o0ZJhsUaa465"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-18T01:43:36.082Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,4 +1,219 @@
 {
   "canonical_slug": "concerto",
-  "pending": true
+  "display_title": "Concerto",
+  "display_name": "Concerto",
+  "parent_slug": "classical",
+  "aliases": [
+    "concerto"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Concerto",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Concerto",
+  "summary": "A concerto is, from the late Baroque era, mostly understood as an instrumental composition, written for one or more soloists accompanied by an orchestra or other ensemble. The typical three-movement structure, a slow movement preceded and followed by fast movements, became a standard from the early 18th century.",
+  "candidates": [
+    "Concerto",
+    "Concerto Moon",
+    "Concerto delle donne",
+    "Concerto for Group and Orchestra",
+    "Concerto for Orchestra",
+    "Concerto for Orchestra (Bartók)",
+    "Concerto for Two Violins (Bach)",
+    "Concerto in F (Gershwin)",
+    "Concerto: One Night in Central Park",
+    "Concierto de Aranjuez"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Concerto",
+    "page_url": "https://en.wikipedia.org/wiki/Concerto",
+    "retrieved_at": "2026-03-27T09:30:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A performance of a piano concerto.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_performance_of_a_piano_concerto.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_performance_of_a_piano_concerto.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_performance_of_a_piano_concerto.jpg/960px-A_performance_of_a_piano_concerto.jpg",
+    "width": 4032,
+    "height": 3024,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:PianoTiger106\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:PianoTiger106 (page does not exist)\"\u003ePianoTiger106\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A performance of a piano concerto.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_performance_of_a_piano_concerto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_performance_of_a_piano_concerto.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_performance_of_a_piano_concerto.jpg/960px-A_performance_of_a_piano_concerto.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:PianoTiger106\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:PianoTiger106 (page does not exist)\"\u003ePianoTiger106\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Classical concerto sonata form.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Classical_concerto_sonata_form.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Classical_concerto_sonata_form.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Classical_concerto_sonata_form.png/960px-Classical_concerto_sonata_form.png",
+      "width": 1038,
+      "height": 218,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:OFCM con Irvine Arditti en Bellas Artes (14401284806).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:OFCM_con_Irvine_Arditti_en_Bellas_Artes_(14401284806).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/OFCM_con_Irvine_Arditti_en_Bellas_Artes_%2814401284806%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/OFCM_con_Irvine_Arditti_en_Bellas_Artes_%2814401284806%29.jpg/960px-OFCM_con_Irvine_Arditti_en_Bellas_Artes_%2814401284806%29.jpg",
+      "width": 2244,
+      "height": 3300,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/113756879@N03\"\u003eSecretaría de Cultura Ciudad de México\u003c/a\u003e from México"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 5,
+    "unique_artist_count": 1,
+    "unique_release_count": 4,
+    "unique_track_count": 4,
+    "first_played_at": "2026-02-28T23:52:25.049Z",
+    "last_played_at": "2026-03-04T01:52:43.403Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "play_count": 5,
+      "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+      "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+      "name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "johann-sebastian-bach--der-himmel-lacht-die-erde-jubiliert-bwv-31-no-4-fürst-des-lebens-starker-streiter-live",
+      "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, Fürst des Lebens! starker Streiter - Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "release_name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "spotify_track_id": "6ORIEgFjR7h1YBWmGyTf3C",
+      "spotify_url": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "2CI5exhYgmUhVMR8Mrunk4",
+      "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-iv-sarabande",
+      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+      "release_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
+      "spotify_track_id": "73xACzrJ509NZ3jq8Z5WV4",
+      "spotify_url": "https://open.spotify.com/track/73xACzrJ509NZ3jq8Z5WV4"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--prelude-and-fugue-no-2-in-c-minor-bwv-847-prelude",
+      "name": "Prelude \u0026 Fugue No. 2 in C Minor, BWV 847: Prelude",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "release_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "spotify_track_id": "4AMJBOgveh7OVHJKTZPwVh",
+      "spotify_url": "https://open.spotify.com/track/4AMJBOgveh7OVHJKTZPwVh"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--concerto.json",
+      "url": "https://en.wikipedia.org/wiki/Concerto",
+      "retrieved_at": "2026-03-27T09:30:18Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--concerto.json",
+      "url": "https://commons.wikimedia.org/wiki/File:A_performance_of_a_piano_concerto.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-04T01:52:43.403Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

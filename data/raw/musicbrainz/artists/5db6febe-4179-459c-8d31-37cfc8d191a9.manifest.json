@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/5db6febe-4179-459c-8d31-37cfc8d191a9",
+  "request_url": "https://musicbrainz.org/ws/2/artist/5db6febe-4179-459c-8d31-37cfc8d191a9?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/5db6febe-4179-459c-8d31-37cfc8d191a9",
+  "fetched_at": "2026-03-27T09:34:14Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

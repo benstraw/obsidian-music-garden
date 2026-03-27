@@ -1,4 +1,219 @@
 {
   "canonical_slug": "big-band",
-  "pending": true
+  "display_title": "Big Band",
+  "display_name": "Big Band",
+  "parent_slug": "jazz",
+  "aliases": [
+    "big band",
+    "swing music"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Big band",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Big_band",
+  "summary": "A big band is a type of musical ensemble of jazz music that usually consists of ten or more musicians with four sections: saxophones, trumpets, trombones, and a rhythm section. Big bands originated during the early 1910s and dominated jazz in the early 1940s when swing was most popular. The term \"big band\" is also used to describe a genre of music, although this was not the only style of music played by big bands.",
+  "candidates": [
+    "Big Band (Charlie Parker album)",
+    "Big Band Bossa Nova (Quincy Jones album)",
+    "Big Band Bossa Nova (Stan Getz album)",
+    "Big Band Jazz de México",
+    "Big Band Reflections of Cole Porter",
+    "Big Band Specials",
+    "Big Band and Jazz Hall of Fame",
+    "Big Band and Quartet in Concert",
+    "Big band",
+    "Big band remote"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Big band",
+    "page_url": "https://en.wikipedia.org/wiki/Big_band",
+    "retrieved_at": "2026-03-27T09:29:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:BennyGoodmanandBandStageDoorCanteen.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanandBandStageDoorCanteen.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+    "width": 448,
+    "height": 336,
+    "license": "Public domain",
+    "author": "Film screenshot"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BennyGoodmanandBandStageDoorCanteen.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanandBandStageDoorCanteen.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/BennyGoodmanandBandStageDoorCanteen.jpg",
+      "width": 448,
+      "height": 336,
+      "license": "Public domain",
+      "author": "Film screenshot"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glen miller.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glen_miller.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Glen_miller.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Glen_miller.jpg",
+      "width": 588,
+      "height": 659,
+      "license": "Public domain",
+      "author": "US Army photographer"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Grand Central Big Band.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Grand_Central_Big_Band.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Grand_Central_Big_Band.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Grand_Central_Big_Band.jpg/960px-Grand_Central_Big_Band.jpg",
+      "width": 2272,
+      "height": 1704,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MareeBrodzinski\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MareeBrodzinski (page does not exist)\"\u003eMareeBrodzinski\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:HONK! 2022 performers.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:HONK!_2022_performers.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/HONK%21_2022_performers.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HONK%21_2022_performers.jpg/960px-HONK%21_2022_performers.jpg",
+      "width": 4608,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sdkb\" title=\"User:Sdkb\"\u003eSdkb\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jazz ensemble - seating diagram.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jazz_ensemble_-_seating_diagram.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Jazz_ensemble_-_seating_diagram.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jazz_ensemble_-_seating_diagram.svg/960px-Jazz_ensemble_-_seating_diagram.svg.png",
+      "width": 1300,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Matthew D. Wilson (\u003ca href=\"//commons.wikimedia.org/wiki/User:LtPowers\" title=\"User:LtPowers\"\u003eLtPowers\u003c/a\u003e)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 3,
+    "unique_artist_count": 2,
+    "unique_release_count": 3,
+    "unique_track_count": 3,
+    "first_played_at": "2026-03-11T00:00:24.746Z",
+    "last_played_at": "2026-03-11T00:32:24.606Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "duke-ellington",
+      "name": "Duke Ellington",
+      "play_count": 2,
+      "spotify_artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+      "spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+    },
+    {
+      "canonical_slug": "gil-evans",
+      "name": "Gil Evans",
+      "play_count": 1,
+      "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+      "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "name": "Duke Ellington \u0026 John Coltrane",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington"
+    },
+    {
+      "canonical_slug": "duke-ellington--money-jungle",
+      "name": "Money Jungle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington"
+    },
+    {
+      "canonical_slug": "gil-evans--sketches-of-spain",
+      "name": "Sketches of Spain",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-evans",
+      "primary_artist_name": "Gil Evans"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "duke-ellington--fleurette-africaine-african-flower-remastered",
+      "name": "Fleurette Africaine (African Flower) - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--money-jungle",
+      "release_name": "Money Jungle",
+      "spotify_track_id": "4Keh41jYFaVPP5C82DxmTG",
+      "spotify_url": "https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG"
+    },
+    {
+      "canonical_slug": "duke-ellington--stevie",
+      "name": "Stevie",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6Ylpg33fqhQfJrXLwSxnzh",
+      "spotify_url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
+    },
+    {
+      "canonical_slug": "gil-evans--will-o-the-wisp",
+      "name": "Will O' the Wisp",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-evans",
+      "primary_artist_name": "Gil Evans",
+      "release_canonical_slug": "gil-evans--sketches-of-spain",
+      "release_name": "Sketches of Spain",
+      "spotify_track_id": "3lpRlIEa9gnUXFHjDgI97p",
+      "spotify_url": "https://open.spotify.com/track/3lpRlIEa9gnUXFHjDgI97p"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--big-band.json",
+      "url": "https://en.wikipedia.org/wiki/Big_band",
+      "retrieved_at": "2026-03-27T09:29:59Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--big-band.json",
+      "url": "https://commons.wikimedia.org/wiki/File:BennyGoodmanandBandStageDoorCanteen.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-11T00:32:24.606Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

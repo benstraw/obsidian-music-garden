@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Cold",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Cold",
+  "cache_key": "summaries/cold",
+  "fetched_at": "2026-03-27T09:30:17Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

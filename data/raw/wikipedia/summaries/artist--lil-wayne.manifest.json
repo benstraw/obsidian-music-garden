@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Lil%20Wayne",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Lil%20Wayne",
+  "cache_key": "summaries/artist--lil-wayne",
+  "fetched_at": "2026-03-27T09:26:52Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "47odibUtrN3lnWx0p0pk2P",
   "name": "Ornette Coleman",
+  "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P",
   "source_genres": [
     "avant-garde",
     "bebop",
@@ -9,5 +10,101 @@
     "free jazz",
     "hard bop",
     "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "bebop",
+    "experimental",
+    "experimental-jazz",
+    "free-jazz",
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Ornette Coleman",
+  "summary": "Randolph Denard Ornette Coleman was an American jazz saxophonist, trumpeter, violinist, and composer. He is best known as a principal founder of the free jazz genre, a term derived from his 1960 album Free Jazz: A Collective Improvisation. His pioneering works often abandoned the harmony-based composition, tonality, chord changes, and fixed rhythm found in earlier jazz idioms. Instead, Coleman emphasized an experimental approach to improvisation rooted in ensemble playing and blues phrasing. Thom Jurek of AllMusic called him \"one of the most beloved and polarizing figures in jazz history\", noting that while \"now celebrated as a fearless innovator and a genius, he was initially regarded by peers and critics as rebellious, disruptive, and even a fraud.\"",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ornette_Coleman",
+  "candidates": [
+    "Ornette Coleman",
+    "Ornette Coleman discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ornette Coleman",
+    "page_url": "https://en.wikipedia.org/wiki/Ornette_Coleman",
+    "retrieved_at": "2026-03-27T09:27:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ellerbie Coleman Nix.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ellerbie_Coleman_Nix.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ellerbie_Coleman_Nix.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ellerbie_Coleman_Nix.jpg/960px-Ellerbie_Coleman_Nix.jpg",
+    "width": 2532,
+    "height": 1775,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Craig Howell"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ellerbie Coleman Nix.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ellerbie_Coleman_Nix.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ellerbie_Coleman_Nix.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ellerbie_Coleman_Nix.jpg/960px-Ellerbie_Coleman_Nix.jpg",
+      "width": 2532,
+      "height": 1775,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Craig Howell"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ornette-Coleman-2008-Heidelberg-schindelbeck.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ornette-Coleman-2008-Heidelberg-schindelbeck.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ornette-Coleman-2008-Heidelberg-schindelbeck.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ornette-Coleman-2008-Heidelberg-schindelbeck.jpg",
+      "width": 392,
+      "height": 530,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "Frank Schindelbeck. Photography by www.schindelbeck.org"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ornette Coleman-140911-0002-96WP.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ornette_Coleman-140911-0002-96WP.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ornette_Coleman-140911-0002-96WP.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Ornette_Coleman-140911-0002-96WP.jpg",
+      "width": 683,
+      "height": 1024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:JPRoche\" title=\"User:JPRoche\"\u003eJPRoche\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ornette Coleman.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ornette_Coleman.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ornette_Coleman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ornette_Coleman.jpg",
+      "width": 497,
+      "height": 700,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/70951710@N00\"\u003eGeert Vandepoele\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ornette Coleman trumpet.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ornette_Coleman_trumpet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ornette_Coleman_trumpet.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ornette_Coleman_trumpet.jpg",
+      "width": 701,
+      "height": 912,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    }
   ]
 }

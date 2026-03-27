@@ -1,5 +1,19 @@
 {
   "source": "spotify",
   "source_artist_id": "2eam0iDomRHGBypaDQLwWI",
-  "name": "Bleachers"
+  "name": "Bleachers",
+  "spotify_url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI",
+  "status": "ambiguous",
+  "candidates": [
+    "Bleacher",
+    "Bleacher Creatures",
+    "Bleacher Report",
+    "Bleachers (album)",
+    "Bleachers (band)",
+    "Bleachers (disambiguation)",
+    "Bleachers (novel)",
+    "Bleachers' Association",
+    "In the Bleachers",
+    "List of Bleach soundtracks"
+  ]
 }

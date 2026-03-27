@@ -1,4 +1,134 @@
 {
   "canonical_slug": "oxford",
-  "pending": true
+  "display_title": "Oxford",
+  "display_name": "Oxford",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Oxford",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oxford",
+  "summary": "Oxford is a cathedral city and non-metropolitan district in Oxfordshire, England, of which it is the county town.",
+  "candidates": [
+    "Oxford",
+    "Oxford Brookes University",
+    "Oxford English Dictionary",
+    "Oxford High School shooting",
+    "Oxford Street",
+    "Oxford United F.C.",
+    "Oxford University Press",
+    "Oxford, Mississippi",
+    "Oxford–AstraZeneca COVID-19 vaccine",
+    "University of Oxford"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Oxford",
+    "page_url": "https://en.wikipedia.org/wiki/Oxford",
+    "retrieved_at": "2026-03-27T09:31:32Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1 oxford aerial panorama 2016.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1_oxford_aerial_panorama_2016.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1_oxford_aerial_panorama_2016.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1_oxford_aerial_panorama_2016.jpg/960px-1_oxford_aerial_panorama_2016.jpg",
+    "width": 15050,
+    "height": 5051,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\"\u003eChensiyuan\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1 oxford aerial panorama 2016.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1_oxford_aerial_panorama_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1_oxford_aerial_panorama_2016.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1_oxford_aerial_panorama_2016.jpg/960px-1_oxford_aerial_panorama_2016.jpg",
+      "width": 15050,
+      "height": 5051,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\"\u003eChensiyuan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bridge of Sighs with Lampost, Oxford, July 25, 2023.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bridge_of_Sighs_with_Lampost,_Oxford,_July_25,_2023.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bridge_of_Sighs_with_Lampost%2C_Oxford%2C_July_25%2C_2023.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bridge_of_Sighs_with_Lampost%2C_Oxford%2C_July_25%2C_2023.jpg/960px-Bridge_of_Sighs_with_Lampost%2C_Oxford%2C_July_25%2C_2023.jpg",
+      "width": 3213,
+      "height": 4016,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Jps3\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Jps3 (page does not exist)\"\u003eJps3\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carfaxtower fromcornmarket.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carfaxtower_fromcornmarket.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Carfaxtower_fromcornmarket.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Carfaxtower_fromcornmarket.jpg/960px-Carfaxtower_fromcornmarket.jpg",
+      "width": 2592,
+      "height": 1944,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "ozeye"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cathedral oxford.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cathedral_oxford.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cathedral_oxford.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cathedral_oxford.jpg/960px-Cathedral_oxford.jpg",
+      "width": 1000,
+      "height": 1504,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Newton2\" class=\"extiw\" title=\"w:User:Newton2\"\u003eNewton2\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Christ Church Cathedral Interior 1, Oxford, UK - Diliff.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Christ_Church_Cathedral_Interior_1,_Oxford,_UK_-_Diliff.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Christ_Church_Cathedral_Interior_1%2C_Oxford%2C_UK_-_Diliff.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Christ_Church_Cathedral_Interior_1%2C_Oxford%2C_UK_-_Diliff.jpg/960px-Christ_Church_Cathedral_Interior_1%2C_Oxford%2C_UK_-_Diliff.jpg",
+      "width": 7863,
+      "height": 5630,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\"\u003eDiliff\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--oxford.json",
+      "url": "https://en.wikipedia.org/wiki/Oxford",
+      "retrieved_at": "2026-03-27T09:31:32Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--oxford.json",
+      "url": "https://commons.wikimedia.org/wiki/File:1_oxford_aerial_panorama_2016.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

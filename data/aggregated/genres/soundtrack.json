@@ -1,4 +1,220 @@
 {
   "canonical_slug": "soundtrack",
-  "pending": true
+  "display_title": "Soundtrack",
+  "display_name": "Soundtrack",
+  "notes": "Functional editorial bucket for soundtrack and score releases.",
+  "aliases": [
+    "musicals",
+    "score",
+    "soundtrack"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Soundtrack",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Soundtrack",
+  "summary": "A soundtrack is a recorded audio signal accompanying and synchronised to the images of a book, drama, motion picture, radio program, television program, or video game; colloquially, a commercially released soundtrack album of music as featured in the soundtrack of a film, video, or television presentation; or the physical area of a film that contains the synchronised recorded sound.",
+  "candidates": [
+    "SoundTrack Cologne",
+    "Soundtrack",
+    "Soundtrack (TV series)",
+    "Soundtrack 1",
+    "Soundtrack album",
+    "Soundtrack from Twin Peaks",
+    "Soundtrack to a Coup d'Etat",
+    "Soundtrack to the Apocalypse",
+    "Soundtracks for the Blind",
+    "Soundtracks of Grand Theft Auto: San Andreas"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soundtrack",
+    "page_url": "https://en.wikipedia.org/wiki/Soundtrack",
+    "retrieved_at": "2026-03-27T09:32:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:USN16mmSoundtrack.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:USN16mmSoundtrack.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USN16mmSoundtrack.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/USN16mmSoundtrack.jpg/960px-USN16mmSoundtrack.jpg",
+    "width": 1288,
+    "height": 1128,
+    "license": "Public domain",
+    "author": "U. S. Navy. Photographed by \u003ca href=\"https://en.wikipedia.org/wiki/User:Cmacd123\" class=\"extiw\" title=\"en:User:Cmacd123\"\u003eCmacd123\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:USN16mmSoundtrack.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:USN16mmSoundtrack.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USN16mmSoundtrack.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/USN16mmSoundtrack.jpg/960px-USN16mmSoundtrack.jpg",
+      "width": 1288,
+      "height": 1128,
+      "license": "Public domain",
+      "author": "U. S. Navy. Photographed by \u003ca href=\"https://en.wikipedia.org/wiki/User:Cmacd123\" class=\"extiw\" title=\"en:User:Cmacd123\"\u003eCmacd123\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Video-x-generic.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Video-x-generic.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Video-x-generic.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Video-x-generic.svg/960px-Video-x-generic.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://jimmac.eu/\"\u003eJakub Steiner\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 5,
+    "unique_artist_count": 3,
+    "unique_release_count": 4,
+    "unique_track_count": 5,
+    "first_played_at": "2026-03-03T12:16:36.951Z",
+    "last_played_at": "2026-03-14T18:26:20.855Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "christian-borle",
+      "name": "Christian Borle",
+      "play_count": 2,
+      "spotify_artist_id": "3mXvO1rdMCgdOYNiWeduWG",
+      "spotify_url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+    },
+    {
+      "canonical_slug": "christopher-sieber",
+      "name": "Christopher Sieber",
+      "play_count": 2,
+      "spotify_artist_id": "5peNY8vXtrXeevW4JWq797",
+      "spotify_url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
+    },
+    {
+      "canonical_slug": "hans-zimmer",
+      "name": "Hans Zimmer",
+      "play_count": 1,
+      "spotify_artist_id": "0YC192cP3KPCRWx8zr8MfZ",
+      "spotify_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "christian-borle--monty-python-s-spamalot",
+      "name": "Monty Python's Spamalot",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "christian-borle",
+      "primary_artist_name": "Christian Borle"
+    },
+    {
+      "canonical_slug": "christopher-sieber--death-becomes-her-original-broadway-cast-recording",
+      "name": "Death Becomes Her (Original Broadway Cast Recording)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "christopher-sieber",
+      "primary_artist_name": "Christopher Sieber"
+    },
+    {
+      "canonical_slug": "christopher-sieber--monty-python-s-spamalot",
+      "name": "Monty Python's Spamalot",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "christopher-sieber",
+      "primary_artist_name": "Christopher Sieber"
+    },
+    {
+      "canonical_slug": "hans-zimmer--the-da-vinci-code",
+      "name": "The Da Vinci Code",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "hans-zimmer",
+      "primary_artist_name": "Hans Zimmer"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "hans-zimmer--beneath-alrischa",
+      "name": "Beneath Alrischa",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "hans-zimmer",
+      "primary_artist_name": "Hans Zimmer",
+      "release_canonical_slug": "hans-zimmer--the-da-vinci-code",
+      "release_name": "The Da Vinci Code",
+      "spotify_track_id": "2Or7dR85K5TvJGjQFliVZc",
+      "spotify_url": "https://open.spotify.com/track/2Or7dR85K5TvJGjQFliVZc"
+    },
+    {
+      "canonical_slug": "christian-borle--historian-s-introduction-to-act-ii-from-spamalot-original-broadway-cast-recording",
+      "name": "Historian's Introduction to Act II - From \"Spamalot\" Original Broadway Cast Recording",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "christian-borle",
+      "primary_artist_name": "Christian Borle",
+      "release_canonical_slug": "christian-borle--monty-python-s-spamalot",
+      "release_name": "Monty Python's Spamalot",
+      "spotify_track_id": "6n2oGJrmwMC23hzMCximPE",
+      "spotify_url": "https://open.spotify.com/track/6n2oGJrmwMC23hzMCximPE"
+    },
+    {
+      "canonical_slug": "christian-borle--monks-chant-he-is-not-dead-yet-from-spamalot-original-broadway-cast-recording",
+      "name": "Monks Chant / He Is Not Dead Yet - From \"Spamalot\" Original Broadway Cast Recording",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "christian-borle",
+      "primary_artist_name": "Christian Borle",
+      "release_canonical_slug": "christian-borle--monty-python-s-spamalot",
+      "release_name": "Monty Python's Spamalot",
+      "spotify_track_id": "3tl5aGjKkwfZDA3PkiGSRC",
+      "spotify_url": "https://open.spotify.com/track/3tl5aGjKkwfZDA3PkiGSRC"
+    },
+    {
+      "canonical_slug": "christopher-sieber--the-plan",
+      "name": "The Plan",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "christopher-sieber",
+      "primary_artist_name": "Christopher Sieber",
+      "release_canonical_slug": "christopher-sieber--death-becomes-her-original-broadway-cast-recording",
+      "release_name": "Death Becomes Her (Original Broadway Cast Recording)",
+      "spotify_track_id": "6STQ489QSDRSAnH9weT9L8",
+      "spotify_url": "https://open.spotify.com/track/6STQ489QSDRSAnH9weT9L8"
+    },
+    {
+      "canonical_slug": "christopher-sieber--the-song-that-goes-like-this-from-spamalot-original-broadway-cast-recording",
+      "name": "The Song That Goes Like This - From \"Spamalot\" Original Broadway Cast Recording",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "christopher-sieber",
+      "primary_artist_name": "Christopher Sieber",
+      "release_canonical_slug": "christopher-sieber--monty-python-s-spamalot",
+      "release_name": "Monty Python's Spamalot",
+      "spotify_track_id": "3LwfZ5u7kBI79r8saMvFIb",
+      "spotify_url": "https://open.spotify.com/track/3LwfZ5u7kBI79r8saMvFIb"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--soundtrack.json",
+      "url": "https://en.wikipedia.org/wiki/Soundtrack",
+      "retrieved_at": "2026-03-27T09:32:08Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--soundtrack.json",
+      "url": "https://commons.wikimedia.org/wiki/File:USN16mmSoundtrack.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-14T18:26:20.855Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

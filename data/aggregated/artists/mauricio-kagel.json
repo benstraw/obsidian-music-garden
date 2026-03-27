@@ -2,6 +2,13 @@
   "canonical_slug": "mauricio-kagel",
   "name": "Mauricio Kagel",
   "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+  "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth",
+  "genres": [
+    "contemporary-classical",
+    "electroacoustic",
+    "experimental",
+    "musique-concrete"
+  ],
   "source_genres": [
     "avant-garde",
     "contemporary classical",
@@ -31,5 +38,90 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Mauricio Kagel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mauricio_Kagel",
+  "summary": "Mauricio Raúl Kagel was an Argentine-German composer and academic teacher.",
+  "candidates": [
+    "Mauricio Kagel",
+    "Mauricio Kagel Music Prize",
+    "Mauricio Magalhaes Prado",
+    "Maurício Gugelmin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mauricio Kagel",
+    "page_url": "https://en.wikipedia.org/wiki/Mauricio_Kagel",
+    "retrieved_at": "2026-03-27T09:27:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Argentina.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/960px-Flag_of_Argentina.svg.png",
+      "width": 800,
+      "height": 500,
+      "license": "Public domain",
+      "author": "Manuel Belgrano"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Germany.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/960px-Flag_of_Germany.svg.png",
+      "width": 1000,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:SKopp\" title=\"User:SKopp\"\u003eUser:SKopp\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Madden\" title=\"User:Madden\"\u003eUser:Madden\u003c/a\u003e, and other users"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Magtape1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Magtape1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Magtape1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Magtape1.jpg",
+      "width": 400,
+      "height": 488,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Daniel P. B. Smith."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

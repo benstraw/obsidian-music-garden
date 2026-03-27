@@ -1,4 +1,103 @@
 {
   "canonical_slug": "post-britpop",
-  "pending": true
+  "display_title": "Post Britpop",
+  "display_name": "Post Britpop",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Post-Britpop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Post-Britpop",
+  "summary": "Post-Britpop is an alternative rock subgenre and is the period in the late 1990s and early 2000s, following Britpop, when the media were identifying a \"new generation\" or \"second wave\" of guitar bands influenced by acts like Oasis and Blur, but with less overt British concerns in their lyrics and making more use of American rock and indie influences, as well as experimental music. Bands in the post-Britpop era that had been established acts, but gained greater prominence after the decline of Britpop, such as Radiohead and the Verve, and new acts such as Keane, Snow Patrol, Stereophonics, Feeder, and particularly Travis and Coldplay, achieved much wider international success than most of the Britpop groups that had preceded them, and were some of the most commercially successful acts of the late 1990s and early 2000s.",
+  "candidates": [
+    "Post-Britpop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Post-Britpop",
+    "page_url": "https://en.wikipedia.org/wiki/Post-Britpop",
+    "retrieved_at": "2026-03-27T09:31:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Coldplay - December 2008.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Coldplay_-_December_2008.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coldplay_-_December_2008.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coldplay_-_December_2008.jpg",
+    "width": 893,
+    "height": 724,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/31125717@N04\"\u003eKarl Axon\u003c/a\u003e from Liverpool, England",
+    "attribution_text": "Karl Axon"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Coldplay - December 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Coldplay_-_December_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coldplay_-_December_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Coldplay_-_December_2008.jpg",
+      "width": 893,
+      "height": 724,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/31125717@N04\"\u003eKarl Axon\u003c/a\u003e from Liverpool, England",
+      "attribution_text": "Karl Axon"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kelly Jones Stereophonics 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kelly_Jones_Stereophonics_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kelly_Jones_Stereophonics_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kelly_Jones_Stereophonics_1.jpg",
+      "width": 640,
+      "height": 427,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/alexconst/\"\u003eAleksey.const\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Travis-Wiltern-21Nov2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Travis-Wiltern-21Nov2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Travis-Wiltern-21Nov2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Travis-Wiltern-21Nov2007.jpg/960px-Travis-Wiltern-21Nov2007.jpg",
+      "width": 1280,
+      "height": 960,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/61614489@N00\"\u003eLiane Chan\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--post-britpop.json",
+      "url": "https://en.wikipedia.org/wiki/Post-Britpop",
+      "retrieved_at": "2026-03-27T09:31:35Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--post-britpop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Coldplay_-_December_2008.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

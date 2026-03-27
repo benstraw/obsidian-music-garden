@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Allen%20Toussaint",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Allen%20Toussaint",
+  "cache_key": "summaries/artist--allen-toussaint",
+  "fetched_at": "2026-03-27T09:24:51Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

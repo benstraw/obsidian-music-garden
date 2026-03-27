@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Britrock",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Britrock",
+  "cache_key": "summaries/britrock",
+  "fetched_at": "2026-03-27T09:30:08Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -2,6 +2,7 @@
   "canonical_slug": "danger-mouse",
   "name": "Danger Mouse",
   "spotify_artist_id": "2dBj3prW7gP9bCCOIQeDUf",
+  "spotify_url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb02b986f57904bca3190d8f2b",
@@ -19,5 +20,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Danger Mouse",
+    "Danger Mouse \u0026 Daniele Luppi",
+    "Danger Mouse (1981 TV series)",
+    "Danger Mouse (1981 TV series) series 1",
+    "Danger Mouse (2015 TV series)",
+    "Danger Mouse (musician)",
+    "Danger Mouse DVD releases",
+    "Danger Mouse and Sparklehorse Present: Dark Night of the Soul",
+    "Danger Mouse discography",
+    "List of Danger Mouse (2015 TV series) episodes"
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,0 +1,75 @@
+{
+  "source": "wikipedia",
+  "source_genre": "cool jazz",
+  "canonical_genre_slug": "cool-jazz",
+  "status": "matched",
+  "page_title": "Cool jazz",
+  "summary": "Cool jazz is a style and genre of modern jazz music inspired by bebop and big band that arose in the United States after World War II. It is characterized by relaxed tempos and a lighter tone than that used in the fast and complex bebop style. Cool jazz often employs formal arrangements and incorporates elements of classical music. Broadly, the genre refers to a number of post-war jazz styles employing a more subdued approach than that of contemporaneous jazz idioms. As Paul Tanner, Maurice Gerow, and David Megill suggest, \"the tonal sonorities of these conservative players could be compared to pastel colors, while the solos of [Dizzy] Gillespie and his followers could be compared to fiery red colors.\"",
+  "canonical_url": "https://en.wikipedia.org/wiki/Cool_jazz",
+  "candidates": [
+    "Cool jazz",
+    "Cool Jazz and Coconuts",
+    "Cool Japan",
+    "Cool-jams",
+    "Jan Daemen Cool",
+    "Cool James",
+    "Cool James and Black Teacher",
+    "Cork Jazz Festival",
+    "Collazzone",
+    "COTA Jazz Festival"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cool jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Cool_jazz",
+    "retrieved_at": "2026-03-27T09:30:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Chet Baker (1929–1988).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Chet_Baker_(1929%E2%80%931988).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+    "width": 839,
+    "height": 1257,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Michiel_Hendryckx\" title=\"User:Michiel Hendryckx\"\u003eMichiel Hendryckx\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chet Baker (1929–1988).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chet_Baker_(1929%E2%80%931988).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+      "width": 839,
+      "height": 1257,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Michiel_Hendryckx\" title=\"User:Michiel Hendryckx\"\u003eMichiel Hendryckx\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dave Brubeck Quartet 1962.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Brubeck_Quartet_1962.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dave_Brubeck_Quartet_1962.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dave_Brubeck_Quartet_1962.jpg/960px-Dave_Brubeck_Quartet_1962.jpg",
+      "width": 995,
+      "height": 659,
+      "license": "Public domain",
+      "author": "Associated Booking Corporation (management)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

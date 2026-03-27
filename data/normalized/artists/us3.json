@@ -2,9 +2,37 @@
   "source": "spotify",
   "source_artist_id": "4LtIfuFeAamus9OOItuWDD",
   "name": "Us3",
+  "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD",
   "source_genres": [
     "acid jazz",
     "jazz funk",
     "jazz rap"
-  ]
+  ],
+  "canonical_genre_slugs": [
+    "acid-jazz",
+    "jazz-funk",
+    "jazz-rap"
+  ],
+  "status": "matched",
+  "page_title": "Us3",
+  "summary": "Us3 is a British jazz rap group founded by London-based producer Geoff Wilkinson in 1992.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Us3",
+  "candidates": [
+    "US 3",
+    "US 30 Diner",
+    "US 31–Island Lake Outlet Bridge",
+    "US 31–Pentwater River Bridge",
+    "US 3rd Army",
+    "US 3rd Infantry Division",
+    "US 3rd Infantry Regiment",
+    "US-32",
+    "US3 carriers",
+    "Us3"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Us3",
+    "page_url": "https://en.wikipedia.org/wiki/Us3",
+    "retrieved_at": "2026-03-27T09:28:19Z"
+  }
 }

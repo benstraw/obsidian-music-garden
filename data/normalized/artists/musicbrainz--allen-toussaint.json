@@ -1,0 +1,22 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "ec21cced-2d22-4883-9ee3-f642e6e52f58",
+  "name": "Allen Toussaint",
+  "musicbrainz_artist_id": "ec21cced-2d22-4883-9ee3-f642e6e52f58",
+  "source_genres": [
+    "blues",
+    "funk",
+    "jazz",
+    "new orleans r\u0026b",
+    "r\u0026b",
+    "soul",
+    "southern soul",
+    "rhythm and blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "funk",
+    "jazz",
+    "soul"
+  ]
+}

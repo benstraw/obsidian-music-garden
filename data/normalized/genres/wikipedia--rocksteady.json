@@ -1,0 +1,77 @@
+{
+  "source": "wikipedia",
+  "source_genre": "rocksteady",
+  "canonical_genre_slug": "rocksteady",
+  "status": "matched",
+  "page_title": "Rocksteady",
+  "summary": "Rocksteady is a music genre that originated in Jamaica around 1966. A successor of ska and a precursor to reggae, rocksteady was the dominant style of music in Jamaica for nearly two years, performed by many of the artists who helped establish reggae, including harmony groups such as the Techniques, the Paragons, the Heptones and the Gaylads; soulful singers such as Alton Ellis, Delroy Wilson, Bob Andy, Ken Boothe and Phyllis Dillon; musicians such as Jackie Mittoo, Lynn Taitt and Tommy McCook. The term rocksteady comes from a popular (slower) dance style which is the subject in the Alton Ellis song \"Rocksteady\" and matched the new sound. Some rocksteady songs became hits outside Jamaica, as with ska, helping to secure the international base reggae music has today.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Rocksteady",
+  "candidates": [
+    "Rocksteady",
+    "Rocksteady Studios",
+    "Rocksteady (disambiguation)",
+    "Rocksteady (Big Head Todd and the Monsters album)",
+    "Rocksteady (Ninja Turtles)",
+    "Rocksteady (Remy Shand song)",
+    "Rocksteady 7",
+    "Rock Steady (album)",
+    "Rock Steady Crew",
+    "Rock Steady (All Saints song)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rocksteady",
+    "page_url": "https://en.wikipedia.org/wiki/Rocksteady",
+    "retrieved_at": "2026-03-27T09:31:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ska-Rock Steady on D and Em64.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ska-Rock_Steady_on_D_and_Em64.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ska-Rock_Steady_on_D_and_Em64.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at the \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"en:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ska-Rock Steady on D and Em64.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ska-Rock_Steady_on_D_and_Em64.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ska-Rock_Steady_on_D_and_Em64.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ska-Rock_Steady_on_D_and_Em64.png",
+      "width": 865,
+      "height": 210,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at the \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"en:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,4 +1,228 @@
 {
   "canonical_slug": "early-music",
-  "pending": true
+  "display_title": "Early Music",
+  "display_name": "Early Music",
+  "parent_slug": "classical",
+  "aliases": [
+    "early music"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Early music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Early_music",
+  "summary": "Early music generally comprises Medieval music (500–1400) and Renaissance music (1400–1600), but can also include Baroque music (1600–1750) or Ancient music. Originating in Europe, early music is a broad musical era for the beginning of Western classical music.",
+  "candidates": [
+    "Early Music (Lachrymæ Antiquæ)",
+    "Early Music (journal)",
+    "Early Music Consort",
+    "Early Music History",
+    "Early Music New York",
+    "Early music",
+    "Early music festivals",
+    "Early music of the British Isles",
+    "Early music revival",
+    "Early-music.com"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Early music",
+    "page_url": "https://en.wikipedia.org/wiki/Early_music",
+    "retrieved_at": "2026-03-27T09:30:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Akademie für Alte Musik Berlin 3608.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG/960px-Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+    "width": 3264,
+    "height": 2448,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Amadalvarez\" title=\"User:Amadalvarez\"\u003eAmadalvarez\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Akademie für Alte Musik Berlin 3608.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG/960px-Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Amadalvarez\" title=\"User:Amadalvarez\"\u003eAmadalvarez\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Francesco Francia - Madonna and Saints (detail) - WGA08174.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Francesco_Francia_-_Madonna_and_Saints_(detail)_-_WGA08174.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Francesco_Francia_-_Madonna_and_Saints_%28detail%29_-_WGA08174.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Francesco_Francia_-_Madonna_and_Saints_%28detail%29_-_WGA08174.jpg/960px-Francesco_Francia_-_Madonna_and_Saints_%28detail%29_-_WGA08174.jpg",
+      "width": 1030,
+      "height": 730,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Francesco_Francia\" class=\"extiw\" title=\"w:en:Francesco Francia\"\u003e\u003cspan title=\"Italian painter (1450-1517)\"\u003eFrancesco Francia\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 5,
+    "unique_artist_count": 1,
+    "unique_release_count": 4,
+    "unique_track_count": 4,
+    "first_played_at": "2026-02-28T23:52:25.049Z",
+    "last_played_at": "2026-03-04T01:52:43.403Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "play_count": 5,
+      "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+      "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+      "name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "johann-sebastian-bach--der-himmel-lacht-die-erde-jubiliert-bwv-31-no-4-fürst-des-lebens-starker-streiter-live",
+      "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, Fürst des Lebens! starker Streiter - Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "release_name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "spotify_track_id": "6ORIEgFjR7h1YBWmGyTf3C",
+      "spotify_url": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "2CI5exhYgmUhVMR8Mrunk4",
+      "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-iv-sarabande",
+      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+      "release_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
+      "spotify_track_id": "73xACzrJ509NZ3jq8Z5WV4",
+      "spotify_url": "https://open.spotify.com/track/73xACzrJ509NZ3jq8Z5WV4"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--prelude-and-fugue-no-2-in-c-minor-bwv-847-prelude",
+      "name": "Prelude \u0026 Fugue No. 2 in C Minor, BWV 847: Prelude",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "release_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "spotify_track_id": "4AMJBOgveh7OVHJKTZPwVh",
+      "spotify_url": "https://open.spotify.com/track/4AMJBOgveh7OVHJKTZPwVh"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--early-music.json",
+      "url": "https://en.wikipedia.org/wiki/Early_music",
+      "retrieved_at": "2026-03-27T09:30:34Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--early-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Akademie_f%C3%BCr_Alte_Musik_Berlin_3608.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-04T01:52:43.403Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

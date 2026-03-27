@@ -1,4 +1,177 @@
 {
   "canonical_slug": "glam-rock",
-  "pending": true
+  "display_title": "Glam Rock",
+  "display_name": "Glam Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "glam rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Glam rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Glam_rock",
+  "summary": "Glam rock is a subgenre of rock music that developed in the United Kingdom in the early 1970s and was primarily defined by the hairstyles, makeup, and flamboyant clothing of its musicians, particularly platform shoes and glitter. Glam artists drew on diverse sources, ranging from bubblegum pop and 1950s rock and roll to cabaret, science fiction, and complex art rock. The flamboyant clothing and visual styles of performers were often camp or androgynous and have been described as playing with other gender roles.",
+  "candidates": [
+    "Glam rock",
+    "Glamrock Chica",
+    "Glen Rock (boulder)",
+    "Glen Rock High School",
+    "Glen Rock Public Schools",
+    "Glen Rock, New Jersey",
+    "Glen Rock, Pennsylvania",
+    "Glen Rock–Boro Hall station",
+    "Glen Rock–Main Line station",
+    "Goat Rocks"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Glam rock",
+    "page_url": "https://en.wikipedia.org/wiki/Glam_rock",
+    "retrieved_at": "2026-03-27T09:30:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Boy George At Ronnie Scotts.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Boy_George_At_Ronnie_Scotts.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boy_George_At_Ronnie_Scotts.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boy_George_At_Ronnie_Scotts.jpg",
+    "width": 824,
+    "height": 705,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jessica_Hansson\" title=\"User:Jessica Hansson\"\u003eJessica Hansson\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Boy George At Ronnie Scotts.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Boy_George_At_Ronnie_Scotts.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boy_George_At_Ronnie_Scotts.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Boy_George_At_Ronnie_Scotts.jpg",
+      "width": 824,
+      "height": 705,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jessica_Hansson\" title=\"User:Jessica Hansson\"\u003eJessica Hansson\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David-Bowie Early.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David-Bowie_Early.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/David-Bowie_Early.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/David-Bowie_Early.jpg",
+      "width": 652,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.rikwalton.com/bowie72\"\u003eRik Walton\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Bowie Madame Tussauds London.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Bowie_Madame_Tussauds_London.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/David_Bowie_Madame_Tussauds_London.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/David_Bowie_Madame_Tussauds_London.jpg/960px-David_Bowie_Madame_Tussauds_London.jpg",
+      "width": 4805,
+      "height": 6120,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Hubert555\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Hubert555 (page does not exist)\"\u003eHubert555\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Marc Bolan In Concert 1973.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Marc_Bolan_In_Concert_1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Marc_Bolan_In_Concert_1973.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Marc_Bolan_In_Concert_1973.jpg",
+      "width": 855,
+      "height": 1134,
+      "license": "Public domain",
+      "author": "ABC Television"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Noddy Holder - Slade - 1973.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Noddy_Holder_-_Slade_-_1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Noddy_Holder_-_Slade_-_1973.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Noddy_Holder_-_Slade_-_1973.jpg/960px-Noddy_Holder_-_Slade_-_1973.jpg",
+      "width": 1660,
+      "height": 2498,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.jimsummariaphoto.com/\"\u003eJim Summaria\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T11:48:07.771Z",
+    "last_played_at": "2026-03-03T11:48:07.771Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 1,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "david-bowie--young-americans-2016-remaster",
+      "name": "Young Americans (2016 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "david-bowie--fame-2016-remaster",
+      "name": "Fame - 2016 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--young-americans-2016-remaster",
+      "release_name": "Young Americans (2016 Remaster)",
+      "spotify_track_id": "1PehfITh0TTRx3LkDdV4h3",
+      "spotify_url": "https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--glam-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Glam_rock",
+      "retrieved_at": "2026-03-27T09:30:54Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--glam-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Boy_George_At_Ronnie_Scotts.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T11:48:07.771Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

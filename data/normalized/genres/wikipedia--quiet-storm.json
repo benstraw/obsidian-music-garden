@@ -1,0 +1,51 @@
+{
+  "source": "wikipedia",
+  "source_genre": "quiet storm",
+  "canonical_genre_slug": "quiet-storm",
+  "status": "matched",
+  "page_title": "Quiet storm",
+  "summary": "Quiet storm is a radio format and genre of R\u0026B, performed in a smooth, romantic, jazz-influenced style. It was named after the title song on Smokey Robinson's 1975 album A Quiet Storm.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Quiet_storm",
+  "candidates": [
+    "Quiet storm",
+    "Quiet Storm (wrestler)",
+    "Quiet Storm (Aly \u0026 Fila album)",
+    "Quiet Storm (song)",
+    "Quiet Storm (Silk album)",
+    "Quiet Storm Records",
+    "Quiet Storm (Peabo Bryson album)",
+    "Quiet Storm (Cockney Rejects album)",
+    "Quiet Storm (Rod Wave song)",
+    "Quiet storm (disambiguation)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Quiet storm",
+    "page_url": "https://en.wikipedia.org/wiki/Quiet_storm",
+    "retrieved_at": "2026-03-27T09:31:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Gillian%20Welch",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Gillian%20Welch",
+  "cache_key": "summaries/artist--gillian-welch",
+  "fetched_at": "2026-03-27T09:26:20Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,0 +1,103 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "pink-floyd",
+  "name": "Pink Floyd",
+  "status": "matched",
+  "page_title": "Pink Floyd",
+  "summary": "Pink Floyd are an English rock band formed in London in 1965 by Syd Barrett, Nick Mason (drums), Roger Waters and Richard Wright, with David Gilmour joining at the end of 1967. Gaining an early following as one of the first British psychedelic groups, they were distinguished by their extended compositions, sonic experiments, philosophical lyrics, and elaborate live performances, and became a leading progressive rock band.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
+  "candidates": [
+    "Pink Floyd",
+    "Pink Floyd: Live at Pompeii",
+    "Pink Floyd – The Wall",
+    "Pink Floyd bootleg recordings",
+    "Pink Floyd discography",
+    "Pink Floyd live performances",
+    "Pink Floyd in Venice: A Concert for Europe",
+    "Pink Floyd pigs",
+    "Pink Floyd: Their Mortal Remains",
+    "Pink Floyd (flamingo)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pink Floyd",
+    "page_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
+    "retrieved_at": "2026-03-27T09:27:43Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Astoria (Péniche).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Astoria_(P%C3%A9niche).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Astoria_%28P%C3%A9niche%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Astoria_%28P%C3%A9niche%29.jpg/960px-Astoria_%28P%C3%A9niche%29.jpg",
+    "width": 1578,
+    "height": 1189,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "English Wikipedia user \u003ca href=\"https://en.wikipedia.org/wiki/User:Motmit\" class=\"extiw\" title=\"wikipedia:User:Motmit\"\u003eMotmit\u003c/a\u003e",
+    "attribution_text": "Motmit"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Astoria (Péniche).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Astoria_(P%C3%A9niche).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Astoria_%28P%C3%A9niche%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Astoria_%28P%C3%A9niche%29.jpg/960px-Astoria_%28P%C3%A9niche%29.jpg",
+      "width": 1578,
+      "height": 1189,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "English Wikipedia user \u003ca href=\"https://en.wikipedia.org/wiki/User:Motmit\" class=\"extiw\" title=\"wikipedia:User:Motmit\"\u003eMotmit\u003c/a\u003e",
+      "attribution_text": "Motmit"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Battersea Power Station in London.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station_in_London.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Battersea_Power_Station_in_London.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Battersea_Power_Station_in_London.jpg/960px-Battersea_Power_Station_in_London.jpg",
+      "width": 3210,
+      "height": 2159,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/43078695@N00\"\u003eGaetan Lee\u003c/a\u003e from London, UK"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Black Strat.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Black_Strat.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Black_Strat.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_Strat.jpg/960px-Black_Strat.jpg",
+      "width": 1959,
+      "height": 3836,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:TheTankman\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:TheTankman (page does not exist)\"\u003eTheTankman\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BoomBox Toronto2015 4.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BoomBox_Toronto2015_4.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/BoomBox_Toronto2015_4.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BoomBox_Toronto2015_4.JPG/960px-BoomBox_Toronto2015_4.JPG",
+      "width": 4016,
+      "height": 6016,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mykola_Swarnyk\" title=\"User:Mykola Swarnyk\"\u003eMykola Swarnyk\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    }
+  ]
+}

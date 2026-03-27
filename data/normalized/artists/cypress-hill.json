@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "4P0dddbxPil35MNN9G2MEX",
   "name": "Cypress Hill",
+  "spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX",
   "source_genres": [
     "hip hop",
     "old school hip hop",
@@ -9,6 +10,105 @@
     "west coast hip hop"
   ],
   "canonical_genre_slugs": [
-    "hip-hop"
+    "hip-hop",
+    "old-school-hip-hop",
+    "rap-rock",
+    "west-coast-hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Cypress Hill",
+  "summary": "Cypress Hill is an American hip-hop group formed in South Gate, California in 1988. One of the first Latin American groups to gain mainstream recognition in hip-hop, they have sold over 20 million albums worldwide, and have obtained multi-platinum and platinum certifications. The group has been critically acclaimed for their first five albums. They are considered to be among the main progenitors of West Coast hip-hop and 1990s hip-hop. All of the group members advocate for medical and recreational use of cannabis in the United States. In 2019, Cypress Hill became the first hip-hop group to have a star on the Hollywood Walk of Fame.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Cypress_Hill",
+  "candidates": [
+    "Cypress Hill",
+    "Cypress Hill (album)",
+    "Cypress Hill III: Temples of Boom",
+    "Cypress Hill IV",
+    "Cypress Hill discography",
+    "Cypress Hills (Canada)",
+    "Cypress Hills Cemetery",
+    "Cypress Hills Interprovincial Park",
+    "Cypress Hills Massacre",
+    "Cypress Hills National Cemetery"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cypress Hill",
+    "page_url": "https://en.wikipedia.org/wiki/Cypress_Hill",
+    "retrieved_at": "2026-03-27T09:25:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cypress Hill-mika.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cypress_Hill-mika.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cypress_Hill-mika.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cypress_Hill-mika.jpg/960px-Cypress_Hill-mika.jpg",
+    "width": 1356,
+    "height": 905,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cypress Hill-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cypress_Hill-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cypress_Hill-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cypress_Hill-mika.jpg/960px-Cypress_Hill-mika.jpg",
+      "width": 1356,
+      "height": 905,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cypress Hill - Le Cabaret Vert 2017 - 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cypress_Hill_-_Le_Cabaret_Vert_2017_-_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Cypress_Hill_-_Le_Cabaret_Vert_2017_-_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Cypress_Hill_-_Le_Cabaret_Vert_2017_-_2.jpg/960px-Cypress_Hill_-_Le_Cabaret_Vert_2017_-_2.jpg",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Pamputt\" title=\"User:Pamputt\"\u003ePamputt\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cypress Hill - Sen Dog - Nova Rock - 2016-06-11-17-21-39.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cypress_Hill_-_Sen_Dog_-_Nova_Rock_-_2016-06-11-17-21-39.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cypress_Hill_-_Sen_Dog_-_Nova_Rock_-_2016-06-11-17-21-39.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cypress_Hill_-_Sen_Dog_-_Nova_Rock_-_2016-06-11-17-21-39.jpg/960px-Cypress_Hill_-_Sen_Dog_-_Nova_Rock_-_2016-06-11-17-21-39.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Biha\" title=\"User:Biha\"\u003eBiha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cypress Hill @ Metro City (29 9 2010) (5106185273).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cypress_Hill_@_Metro_City_(29_9_2010)_(5106185273).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cypress_Hill_%40_Metro_City_%2829_9_2010%29_%285106185273%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cypress_Hill_%40_Metro_City_%2829_9_2010%29_%285106185273%29.jpg",
+      "width": 724,
+      "height": 481,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35612611@N07\"\u003eStuart Sevastos\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cypress Hill at Vegoose 2007 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cypress_Hill_at_Vegoose_2007_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Cypress_Hill_at_Vegoose_2007_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cypress_Hill_at_Vegoose_2007_01.jpg/960px-Cypress_Hill_at_Vegoose_2007_01.jpg",
+      "width": 3488,
+      "height": 2616,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Scott Penner"
+    }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Little%20Simz",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Little%20Simz",
+  "cache_key": "summaries/artist--little-simz",
+  "fetched_at": "2026-03-27T09:26:55Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

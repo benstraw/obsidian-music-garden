@@ -1,0 +1,62 @@
+{
+  "source": "wikipedia",
+  "source_genre": "soundtrack",
+  "canonical_genre_slug": "soundtrack",
+  "status": "matched",
+  "page_title": "Soundtrack",
+  "summary": "A soundtrack is a recorded audio signal accompanying and synchronised to the images of a book, drama, motion picture, radio program, television program, or video game; colloquially, a commercially released soundtrack album of music as featured in the soundtrack of a film, video, or television presentation; or the physical area of a film that contains the synchronised recorded sound.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Soundtrack",
+  "candidates": [
+    "Soundtrack",
+    "Soundtrack album",
+    "Soundtrack 1",
+    "Soundtracks for the Blind",
+    "Soundtrack to a Coup d'Etat",
+    "Soundtracks of Grand Theft Auto: San Andreas",
+    "Soundtrack (TV series)",
+    "SoundTrack Cologne",
+    "Soundtrack from Twin Peaks",
+    "Soundtrack to the Apocalypse"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soundtrack",
+    "page_url": "https://en.wikipedia.org/wiki/Soundtrack",
+    "retrieved_at": "2026-03-27T09:32:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:USN16mmSoundtrack.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:USN16mmSoundtrack.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USN16mmSoundtrack.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/USN16mmSoundtrack.jpg/960px-USN16mmSoundtrack.jpg",
+    "width": 1288,
+    "height": 1128,
+    "license": "Public domain",
+    "author": "U. S. Navy. Photographed by \u003ca href=\"https://en.wikipedia.org/wiki/User:Cmacd123\" class=\"extiw\" title=\"en:User:Cmacd123\"\u003eCmacd123\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:USN16mmSoundtrack.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:USN16mmSoundtrack.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/USN16mmSoundtrack.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/USN16mmSoundtrack.jpg/960px-USN16mmSoundtrack.jpg",
+      "width": 1288,
+      "height": 1128,
+      "license": "Public domain",
+      "author": "U. S. Navy. Photographed by \u003ca href=\"https://en.wikipedia.org/wiki/User:Cmacd123\" class=\"extiw\" title=\"en:User:Cmacd123\"\u003eCmacd123\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Video-x-generic.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Video-x-generic.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Video-x-generic.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Video-x-generic.svg/960px-Video-x-generic.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://jimmac.eu/\"\u003eJakub Steiner\u003c/a\u003e"
+    }
+  ]
+}

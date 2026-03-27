@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Big%20L",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Big%20L",
+  "cache_key": "summaries/artist--big-l",
+  "fetched_at": "2026-03-27T09:24:57Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

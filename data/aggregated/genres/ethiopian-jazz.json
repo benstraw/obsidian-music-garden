@@ -1,4 +1,46 @@
 {
   "canonical_slug": "ethiopian-jazz",
-  "pending": true
+  "display_title": "Ethiopian Jazz",
+  "display_name": "Ethiopian Jazz",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Ethio-jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ethio-jazz",
+  "summary": "Ethiopian jazz, also referred to as Ethio-jazz, is a blend of traditional Ethiopian music with jazz, combining the pentatonic scale-based melodies of Amharic music with the 12-tone scale and instrumentation of western music. Over time the genre has gained popularity outside Ethiopia and grown to include elements from other genres such as afrofunk, soul, and Latin rhythms. The genre originated in the 1950s with Armenian refugees such as musician Nerses Nalbandian, who created a fusion of Ethiopian and Western music while working at the National Theatre. Ethiopian jazz was revolutionized by Mulatu Astatke in the late 1950s. Mulatu is considered the father of Ethio-jazz music.",
+  "candidates": [
+    "Ethiopian Jackal",
+    "Ethiopian jazz",
+    "Ethiopian-Japanese relations"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ethio-jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Ethio-jazz",
+    "retrieved_at": "2026-03-27T09:30:42Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ethiopian-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Ethio-jazz",
+      "retrieved_at": "2026-03-27T09:30:42Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

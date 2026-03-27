@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Mumford%20\u0026%20Sons",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Mumford%20\u0026%20Sons",
+  "cache_key": "summaries/artist--mumford-and-sons",
+  "fetched_at": "2026-03-27T09:27:08Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

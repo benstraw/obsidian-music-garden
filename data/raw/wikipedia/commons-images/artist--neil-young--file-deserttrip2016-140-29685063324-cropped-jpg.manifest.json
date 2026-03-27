@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3ADesertTrip2016-140+%2829685063324%29+%28cropped%29.jpg",
+  "cache_key": "commons-images/artist--neil-young--file-deserttrip2016-140-29685063324-cropped-jpg",
+  "fetched_at": "2026-03-27T09:27:23Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

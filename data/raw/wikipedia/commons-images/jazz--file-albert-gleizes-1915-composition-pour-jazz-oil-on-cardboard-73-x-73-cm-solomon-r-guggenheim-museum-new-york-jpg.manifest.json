@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AAlbert+Gleizes%2C+1915%2C+Composition+pour+Jazz%2C+oil+on+cardboard%2C+73+x+73+cm%2C+Solomon+R.+Guggenheim+Museum%2C+New+York.jpg",
+  "cache_key": "commons-images/jazz--file-albert-gleizes-1915-composition-pour-jazz-oil-on-cardboard-73-x-73-cm-solomon-r-guggenheim-museum-new-york-jpg",
+  "fetched_at": "2026-03-27T09:31:12Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

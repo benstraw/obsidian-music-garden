@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/4ec3b7d8-efbb-4672-8067-5e72bd8dba3e",
+  "request_url": "https://musicbrainz.org/ws/2/artist/4ec3b7d8-efbb-4672-8067-5e72bd8dba3e?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/4ec3b7d8-efbb-4672-8067-5e72bd8dba3e",
+  "fetched_at": "2026-03-27T09:33:38Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

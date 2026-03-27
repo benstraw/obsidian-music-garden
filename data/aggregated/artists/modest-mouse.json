@@ -2,8 +2,10 @@
   "canonical_slug": "modest-mouse",
   "name": "Modest Mouse",
   "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+  "spotify_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT",
   "genres": [
     "alternative-rock",
+    "indie",
     "indie-rock"
   ],
   "source_genres": [
@@ -28,5 +30,96 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Modest Mouse",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Modest_Mouse",
+  "summary": "Modest Mouse is an American rock band formed in 1993 in Issaquah, Washington, and currently based in Portland, Oregon. The founding members were lead singer/guitarist Isaac Brock, drummer Jeremiah Green and bassist Eric Judy. They achieved critical acclaim for their albums The Lonesome Crowded West (1997) and The Moon \u0026 Antarctica (2000) and found mainstream success with the release of Good News for People Who Love Bad News (2004) and its singles \"Float On\" and \"Ocean Breathes Salty\".",
+  "candidates": [
+    "Modest Mouse",
+    "Modest Mouse discography",
+    "Modest Mussorgsky",
+    "Modest Sosenko",
+    "Modeste, Ouest",
+    "Modesto Seara Vázquez"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Modest Mouse",
+    "page_url": "https://en.wikipedia.org/wiki/Modest_Mouse",
+    "retrieved_at": "2026-03-27T09:27:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2021 Shaky Knees - Modest Mouse (3).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2021_Shaky_Knees_-_Modest_Mouse_(3).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2021_Shaky_Knees_-_Modest_Mouse_%283%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021_Shaky_Knees_-_Modest_Mouse_%283%29.jpg/960px-2021_Shaky_Knees_-_Modest_Mouse_%283%29.jpg",
+    "width": 4608,
+    "height": 3456,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Thomson200\" title=\"User:Thomson200\"\u003eThomson200\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2021 Shaky Knees - Modest Mouse (3).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2021_Shaky_Knees_-_Modest_Mouse_(3).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2021_Shaky_Knees_-_Modest_Mouse_%283%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2021_Shaky_Knees_-_Modest_Mouse_%283%29.jpg/960px-2021_Shaky_Knees_-_Modest_Mouse_%283%29.jpg",
+      "width": 4608,
+      "height": 3456,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Thomson200\" title=\"User:Thomson200\"\u003eThomson200\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Benny Massarella.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Benny_Massarella.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Benny_Massarella.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Benny_Massarella.jpg/960px-Benny_Massarella.jpg",
+      "width": 4160,
+      "height": 6240,
+      "license": "Public domain",
+      "author": "J James Joiner"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cold War Kids at the Fonda (8831832082).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cold_War_Kids_at_the_Fonda_(8831832082).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cold_War_Kids_at_the_Fonda_%288831832082%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cold_War_Kids_at_the_Fonda_%288831832082%29.jpg/960px-Cold_War_Kids_at_the_Fonda_%288831832082%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42757699@N04\"\u003eNeon Tommy\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Daveybrozowskidrummerpercussionist.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Daveybrozowskidrummerpercussionist.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Daveybrozowskidrummerpercussionist.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Daveybrozowskidrummerpercussionist.JPG/960px-Daveybrozowskidrummerpercussionist.JPG",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Oxnard79\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Oxnard79 (page does not exist)\"\u003eOxnard79\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flickr - moses namkung - Modest Mouse 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_moses_namkung_-_Modest_Mouse_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flickr_-_moses_namkung_-_Modest_Mouse_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flickr_-_moses_namkung_-_Modest_Mouse_3.jpg/960px-Flickr_-_moses_namkung_-_Modest_Mouse_3.jpg",
+      "width": 4272,
+      "height": 2848,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36416130@N03\"\u003eMoses\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

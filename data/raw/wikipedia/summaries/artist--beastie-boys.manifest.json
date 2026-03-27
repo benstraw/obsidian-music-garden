@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Beastie%20Boys",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Beastie%20Boys",
+  "cache_key": "summaries/artist--beastie-boys",
+  "fetched_at": "2026-03-27T09:24:55Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

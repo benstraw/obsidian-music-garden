@@ -1,0 +1,16 @@
+{
+  "source": "musicbrainz",
+  "source_artist_id": "66c03e40-2337-4952-8b27-afcbc68a6e5a",
+  "name": "Baby Huey",
+  "musicbrainz_artist_id": "66c03e40-2337-4952-8b27-afcbc68a6e5a",
+  "source_genres": [
+    "funk",
+    "rock",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "funk",
+    "rock",
+    "soul"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "source": "wikipedia",
+  "source_genre": "jazz",
+  "canonical_genre_slug": "jazz",
+  "status": "matched",
+  "page_title": "Jazz",
+  "summary": "Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries. Its roots are in blues, ragtime, European harmony, African rhythmic rituals, spirituals, hymns, marches, vaudeville song, and dance music. Since the 1920s Jazz Age, it has been recognized as a major form of musical expression in traditional and popular music. Jazz is characterized by swing and blue notes, complex chords, call and response vocals, polyrhythms and improvisation.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jazz",
+  "candidates": [
+    "Jazz",
+    "Jazz fusion",
+    "Jazzar Pasha",
+    "Jazz (Queen album)",
+    "Jazz Age",
+    "The Jazz Singer",
+    "The Jazz Singer (1980 film)",
+    "Jazz (wrestler)",
+    "Jazz (Transformers)",
+    "Maxi Jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz",
+    "retrieved_at": "2026-03-27T09:31:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:3-2 son clave.mid",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:3-2_son_clave.mid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/3-2_son_clave.mid",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eUser:Hyacinth\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:3-2 son clave.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:3-2_son_clave.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/3-2_son_clave.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eUser:Hyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Al Jolson - publicity.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Jolson_-_publicity.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Al_Jolson_-_publicity.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Al_Jolson_-_publicity.JPG",
+      "width": 667,
+      "height": 833,
+      "license": "Public domain",
+      "author": "Film studio"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Albert Gleizes, 1915, Composition pour Jazz, oil on cardboard, 73 x 73 cm, Solomon R. Guggenheim Museum, New York.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Albert_Gleizes,_1915,_Composition_pour_Jazz,_oil_on_cardboard,_73_x_73_cm,_Solomon_R._Guggenheim_Museum,_New_York.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Albert_Gleizes%2C_1915%2C_Composition_pour_Jazz%2C_oil_on_cardboard%2C_73_x_73_cm%2C_Solomon_R._Guggenheim_Museum%2C_New_York.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Albert_Gleizes%2C_1915%2C_Composition_pour_Jazz%2C_oil_on_cardboard%2C_73_x_73_cm%2C_Solomon_R._Guggenheim_Museum%2C_New_York.jpg/960px-Albert_Gleizes%2C_1915%2C_Composition_pour_Jazz%2C_oil_on_cardboard%2C_73_x_73_cm%2C_Solomon_R._Guggenheim_Museum%2C_New_York.jpg",
+      "width": 3993,
+      "height": 3999,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Albert_Gleizes\" class=\"extiw\" title=\"w:en:Albert Gleizes\"\u003e\u003cspan title=\"French painter (1881–1953)\"\u003eAlbert Gleizes\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alice Coltrane 1972.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alice_Coltrane_1972.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Alice_Coltrane_1972.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Alice_Coltrane_1972.jpg",
+      "width": 564,
+      "height": 682,
+      "license": "Public domain",
+      "author": "Unknown photographer"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Americas.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Americas.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ambox_current_red_Americas.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ambox_current_red_Americas.svg/960px-Ambox_current_red_Americas.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    }
+  ]
+}

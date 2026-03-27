@@ -1,0 +1,63 @@
+{
+  "source": "wikipedia",
+  "source_genre": "indie folk",
+  "canonical_genre_slug": "indie-folk",
+  "status": "matched",
+  "page_title": "Indie folk",
+  "summary": "Indie folk is an alternative genre of music that arose in the 1990s among musicians from indie rock scenes influenced by folk music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Indie_folk",
+  "candidates": [
+    "Indie folk",
+    "Indie rock",
+    "Indie role-playing game",
+    "List of Indian folk dances",
+    "Indian folk music",
+    "Indie Rock Road Trip",
+    "Indie Book Awards Book of the Year – Fiction",
+    "Indie Book Awards Book of the Year – Non-Fiction",
+    "Indie Book Awards Book of the Year – Debut Fiction",
+    "Indie Book Awards Book of the Year – Children's"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Indie folk",
+    "page_url": "https://en.wikipedia.org/wiki/Indie_folk",
+    "retrieved_at": "2026-03-27T09:31:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fleetfoxes08.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetfoxes08.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fleetfoxes08.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fleetfoxes08.jpg/960px-Fleetfoxes08.jpg",
+    "width": 1998,
+    "height": 1318,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Danishdrummer\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Danishdrummer (page does not exist)\"\u003eDanishdrummer\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetfoxes08.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetfoxes08.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fleetfoxes08.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fleetfoxes08.jpg/960px-Fleetfoxes08.jpg",
+      "width": 1998,
+      "height": 1318,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Danishdrummer\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Danishdrummer (page does not exist)\"\u003eDanishdrummer\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Phoebe Bridgers (42690581094).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Phoebe_Bridgers_(42690581094).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Phoebe_Bridgers_%2842690581094%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Phoebe_Bridgers_%2842690581094%29.jpg/960px-Phoebe_Bridgers_%2842690581094%29.jpg",
+      "width": 4700,
+      "height": 3133,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46192164@N06\"\u003eDavid Lee\u003c/a\u003e from Redmond, WA, USA"
+    }
+  ]
+}

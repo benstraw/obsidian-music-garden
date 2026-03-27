@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Post%20Rock",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Post%20Rock",
+  "cache_key": "summaries/post-rock",
+  "fetched_at": "2026-03-27T09:31:37Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

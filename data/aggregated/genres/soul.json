@@ -1,4 +1,381 @@
 {
   "canonical_slug": "soul",
-  "pending": true
+  "display_title": "Soul",
+  "display_name": "Soul",
+  "notes": "Broad umbrella for soul styles.",
+  "aliases": [
+    "classic soul",
+    "quiet storm",
+    "retro soul",
+    "soul"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Soul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Soul",
+  "summary": "In religion and philosophy, the soul is the immaterial aspect or essence of a living being. It is typically believed to be immortal and to exist apart from the material world. Anthropologists and psychologists have found that most humans believe in the existence of a soul or spirit, and that they have cross-culturally distinguished between soul and body.",
+  "candidates": [
+    "David Soul",
+    "Jean-de-Dieu Soult",
+    "Mariam Soulakiotis",
+    "Soul",
+    "Soul (2020 film)",
+    "Soul Eater",
+    "Soul food",
+    "Soul music",
+    "Soulcalibur",
+    "Soulja Boy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Soul",
+    "page_url": "https://en.wikipedia.org/wiki/Soul",
+    "retrieved_at": "2026-03-27T09:32:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:4DModel.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:4DModel.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/4DModel.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/4DModel.jpg/960px-4DModel.jpg",
+    "width": 1683,
+    "height": 1160,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:4DModel.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:4DModel.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/4DModel.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/4DModel.jpg/960px-4DModel.jpg",
+      "width": 1683,
+      "height": 1160,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aristotelian Soul.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aristotelian_Soul.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Aristotelian_Soul.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Aristotelian_Soul.png",
+      "width": 913,
+      "height": 505,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chiswick_Chap\" title=\"User:Chiswick Chap\"\u003eIan Alexander\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Atman.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Atman.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Atman.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Atman.jpg/960px-Atman.jpg",
+      "width": 1140,
+      "height": 1084,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Vijay K. Jain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Avicenna-miniatur.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Avicenna-miniatur.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Avicenna-miniatur.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Avicenna-miniatur.jpg",
+      "width": 801,
+      "height": 1249,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duncan MacDougall physician.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duncan_MacDougall_physician.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Duncan_MacDougall_physician.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Duncan_MacDougall_physician.png",
+      "width": 355,
+      "height": 436,
+      "license": "Public domain",
+      "author": "\u003cspan lang=\"en\"\u003eAnonymous\u003c/span\u003e\u003cspan style=\"display:none\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 19,
+    "unique_artist_count": 7,
+    "unique_release_count": 10,
+    "unique_track_count": 16,
+    "first_played_at": "2026-03-01T01:35:13.187Z",
+    "last_played_at": "2026-03-14T18:31:38.761Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "bill-withers",
+      "name": "Bill Withers",
+      "play_count": 6,
+      "spotify_artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+      "spotify_url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+    },
+    {
+      "canonical_slug": "curtis-mayfield",
+      "name": "Curtis Mayfield",
+      "play_count": 5,
+      "spotify_artist_id": "2AV6XDIs32ofIJhkkDevjm",
+      "spotify_url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+    },
+    {
+      "canonical_slug": "baby-huey",
+      "name": "Baby Huey",
+      "play_count": 4,
+      "spotify_artist_id": "3YFP5QHEKv8RZZsPminjdv",
+      "spotify_url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+    },
+    {
+      "canonical_slug": "aretha-franklin",
+      "name": "Aretha Franklin",
+      "play_count": 1,
+      "spotify_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "spotify_url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+    },
+    {
+      "canonical_slug": "charles-bradley",
+      "name": "Charles Bradley",
+      "play_count": 1,
+      "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
+      "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+    },
+    {
+      "canonical_slug": "otis-redding",
+      "name": "Otis Redding",
+      "play_count": 1,
+      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+    },
+    {
+      "canonical_slug": "world-class-wreckin-cru",
+      "name": "World Class Wreckin' Cru",
+      "play_count": 1,
+      "spotify_artist_id": "3xA7r14Rok7gwRmVbrNFd9",
+      "spotify_url": "https://open.spotify.com/artist/3xA7r14Rok7gwRmVbrNFd9"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "bill-withers--still-bill",
+      "name": "Still Bill",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers"
+    },
+    {
+      "canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
+      "name": "The Baby Huey Story: The Living Legend",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "baby-huey",
+      "primary_artist_name": "Baby Huey"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
+      "name": "Superfly: Deluxe 25th Anniversary Edition",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield"
+    },
+    {
+      "canonical_slug": "bill-withers--just-as-i-am",
+      "name": "Just As I Am",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers"
+    },
+    {
+      "canonical_slug": "otis-redding--dock-of-the-bay-sessions",
+      "name": "Dock of the Bay Sessions",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding"
+    },
+    {
+      "canonical_slug": "world-class-wreckin-cru--gold",
+      "name": "Gold",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "world-class-wreckin-cru",
+      "primary_artist_name": "World Class Wreckin' Cru"
+    },
+    {
+      "canonical_slug": "charles-bradley--no-time-for-dreaming",
+      "name": "No Time For Dreaming",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "charles-bradley",
+      "primary_artist_name": "Charles Bradley"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--superfly-original-soundtrack",
+      "name": "Superfly (Original Soundtrack)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
+      "name": "There's No Place Like America Today",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield"
+    },
+    {
+      "canonical_slug": "aretha-franklin--young-gifted-and-black",
+      "name": "Young, Gifted and Black",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "aretha-franklin",
+      "primary_artist_name": "Aretha Franklin"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "baby-huey--hard-times",
+      "name": "Hard Times",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "baby-huey",
+      "primary_artist_name": "Baby Huey",
+      "release_canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
+      "release_name": "The Baby Huey Story: The Living Legend",
+      "spotify_track_id": "7ycU5Bxfn2fIZjXJypfdRM",
+      "spotify_url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--pusherman",
+      "name": "Pusherman",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield",
+      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
+      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
+      "spotify_track_id": "7zrPswSV1yxrill5OyCuaU",
+      "spotify_url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+    },
+    {
+      "canonical_slug": "bill-withers--use-me",
+      "name": "Use Me",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers",
+      "release_canonical_slug": "bill-withers--still-bill",
+      "release_name": "Still Bill",
+      "spotify_track_id": "4gRA0i5sxx3jAhHaVjPnUN",
+      "spotify_url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--billy-jack",
+      "name": "Billy Jack",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield",
+      "release_canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
+      "release_name": "There's No Place Like America Today",
+      "spotify_track_id": "58g78TAudwqiMzSJHrhjYB",
+      "spotify_url": "https://open.spotify.com/track/58g78TAudwqiMzSJHrhjYB"
+    },
+    {
+      "canonical_slug": "baby-huey--california-dreamin",
+      "name": "California Dreamin'",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "baby-huey",
+      "primary_artist_name": "Baby Huey",
+      "release_canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
+      "release_name": "The Baby Huey Story: The Living Legend",
+      "spotify_track_id": "1HzIPQceSx4GYLUyag9EPm",
+      "spotify_url": "https://open.spotify.com/track/1HzIPQceSx4GYLUyag9EPm"
+    },
+    {
+      "canonical_slug": "curtis-mayfield--freddie-s-dead",
+      "name": "Freddie's Dead",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "curtis-mayfield",
+      "primary_artist_name": "Curtis Mayfield",
+      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
+      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
+      "spotify_track_id": "2ouFIPC3O1HNBcVTw1d9AN",
+      "spotify_url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "canonical_slug": "bill-withers--grandma-s-hands",
+      "name": "Grandma's Hands",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers",
+      "release_canonical_slug": "bill-withers--just-as-i-am",
+      "release_name": "Just As I Am",
+      "spotify_track_id": "1qfDfZAvrkSAFrAR2FTQDv",
+      "spotify_url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "canonical_slug": "otis-redding--hard-to-handle",
+      "name": "Hard to Handle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding",
+      "release_canonical_slug": "otis-redding--dock-of-the-bay-sessions",
+      "release_name": "Dock of the Bay Sessions",
+      "spotify_track_id": "7FXuCkl1kfxwS5icDjTwbM",
+      "spotify_url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "canonical_slug": "bill-withers--harlem",
+      "name": "Harlem",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers",
+      "release_canonical_slug": "bill-withers--just-as-i-am",
+      "release_name": "Just As I Am",
+      "spotify_track_id": "6JumfGk4f9E5KLT086I75s",
+      "spotify_url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s"
+    },
+    {
+      "canonical_slug": "bill-withers--lonely-town-lonely-street",
+      "name": "Lonely Town, Lonely Street",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers",
+      "release_canonical_slug": "bill-withers--still-bill",
+      "release_name": "Still Bill",
+      "spotify_track_id": "3oiVJNFAQQ77Yp3rXWGsVp",
+      "spotify_url": "https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--soul.json",
+      "url": "https://en.wikipedia.org/wiki/Soul",
+      "retrieved_at": "2026-03-27T09:32:04Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--soul.json",
+      "url": "https://commons.wikimedia.org/wiki/File:4DModel.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-14T18:31:38.761Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

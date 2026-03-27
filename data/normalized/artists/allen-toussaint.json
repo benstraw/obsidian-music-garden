@@ -2,7 +2,89 @@
   "source": "spotify",
   "source_artist_id": "63aP18bg2ABSOqSNQcAMNy",
   "name": "Allen Toussaint",
+  "spotify_url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy",
   "source_genres": [
     "cajun"
+  ],
+  "canonical_genre_slugs": [
+    "cajun"
+  ],
+  "status": "matched",
+  "page_title": "Allen Toussaint",
+  "summary": "Allen Richard Toussaint was an American musician, songwriter, arranger, and record producer. He was an influential figure in New Orleans rhythm and blues from the 1950s to the end of the century, described as \"one of popular music's great backroom figures.\" Many musicians recorded Toussaint's compositions. He was a producer for hundreds of recordings: the best known are \"Right Place, Wrong Time\", by longtime friend Dr. John, and \"Lady Marmalade\" by Labelle.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Allen_Toussaint",
+  "candidates": [
+    "Allen Toussaint",
+    "Allen Toussaint discography",
+    "Toussaint Allen"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Allen Toussaint",
+    "page_url": "https://en.wikipedia.org/wiki/Allen_Toussaint",
+    "retrieved_at": "2026-03-27T09:24:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:AllenToussaintFreretStFestival2009DSBNOLA (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:AllenToussaintFreretStFestival2009DSBNOLA_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/AllenToussaintFreretStFestival2009DSBNOLA_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AllenToussaintFreretStFestival2009DSBNOLA_%28cropped%29.jpg/960px-AllenToussaintFreretStFestival2009DSBNOLA_%28cropped%29.jpg",
+    "width": 1453,
+    "height": 2173,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Flickr photographer \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/derek_b/\"\u003edsb nola / Derek Bridges\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AllenToussaintFreretStFestival2009DSBNOLA (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AllenToussaintFreretStFestival2009DSBNOLA_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/AllenToussaintFreretStFestival2009DSBNOLA_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AllenToussaintFreretStFestival2009DSBNOLA_%28cropped%29.jpg/960px-AllenToussaintFreretStFestival2009DSBNOLA_%28cropped%29.jpg",
+      "width": 1453,
+      "height": 2173,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Flickr photographer \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/derek_b/\"\u003edsb nola / Derek Bridges\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AllenToussaint Stockholm20090715.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AllenToussaint_Stockholm20090715.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/AllenToussaint_Stockholm20090715.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AllenToussaint_Stockholm20090715.jpg/960px-AllenToussaint_Stockholm20090715.jpg",
+      "width": 1000,
+      "height": 1000,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kotoviski\" title=\"User:Kotoviski\"\u003eKotoviski\u003c/a\u003e photographed by Henryk Kotowski"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mess of Love.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
   ]
 }

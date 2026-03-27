@@ -1,0 +1,71 @@
+{
+  "source": "wikipedia",
+  "source_genre": "dream pop",
+  "canonical_genre_slug": "dream-pop",
+  "status": "matched",
+  "page_title": "Dream pop",
+  "summary": "Dream pop is a subgenre of alternative rock and neo-psychedelia that emphasizes atmosphere and sonic texture as strongly as it does pop melody. Common characteristics include breathy vocals, dense productions, and effects such as reverb, echo, tremolo, and chorus. It often overlaps with the related genre of shoegaze, and the two genre terms have at times been used interchangeably.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Dream_pop",
+  "candidates": [
+    "Dream pop",
+    "Dream pop artists",
+    "Dream (pop group)",
+    "The Dream of Pope Sergius",
+    "DreamWorks Animation",
+    "Dream of the Red Chamber",
+    "Dream (YouTuber)",
+    "Dream SMP",
+    "Dream of the Rarebit Fiend",
+    "Dream Productions"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dream pop",
+    "page_url": "https://en.wikipedia.org/wiki/Dream_pop",
+    "retrieved_at": "2026-03-27T09:30:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Chorus + delay (electric guitar) stereo.ogg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Chorus_%2B_delay_(electric_guitar)_stereo.ogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chorus_%2B_delay_%28electric_guitar%29_stereo.ogg",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Skimel\" title=\"User:Skimel\"\u003eSkimel\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chorus + delay (electric guitar) stereo.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chorus_%2B_delay_(electric_guitar)_stereo.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chorus_%2B_delay_%28electric_guitar%29_stereo.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Skimel\" title=\"User:Skimel\"\u003eSkimel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cocteau Twins - Los Angeles Times (1985).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cocteau_Twins_-_Los_Angeles_Times_(1985).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cocteau_Twins_-_Los_Angeles_Times_%281985%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cocteau_Twins_-_Los_Angeles_Times_%281985%29.jpg/960px-Cocteau_Twins_-_Los_Angeles_Times_%281985%29.jpg",
+      "width": 1515,
+      "height": 2232,
+      "license": "Public domain",
+      "author": "Associated Press"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ]
+}

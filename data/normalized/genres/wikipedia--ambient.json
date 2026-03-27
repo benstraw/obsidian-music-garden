@@ -1,0 +1,90 @@
+{
+  "source": "wikipedia",
+  "source_genre": "ambient",
+  "canonical_genre_slug": "ambient",
+  "status": "matched",
+  "page_title": "Ambient music",
+  "summary": "Ambient music is a genre of music that emphasizes tone and atmosphere over traditional musical structure or rhythm. Often \"peaceful\" sounding and lacking composition, beat, and/or structured melody, ambient music uses textural layers of sound that can reward both passive and active listening, and encourage a sense of calm or contemplation. The genre evokes an \"atmospheric\", \"visual\", or \"unobtrusive\" quality. Nature soundscapes may be included, and some works use sustained or repeated notes, as in drone music. Bearing elements associated with new-age music, instruments such as the piano, strings and flute may be emulated through a synthesizer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ambient_music",
+  "candidates": [
+    "Ambient music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ambient music",
+    "page_url": "https://en.wikipedia.org/wiki/Ambient_music",
+    "retrieved_at": "2026-03-27T09:29:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Brian Eno - TopPop 1974 11.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Eno_-_TopPop_1974_11.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Brian_Eno_-_TopPop_1974_11.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Brian_Eno_-_TopPop_1974_11.png",
+    "width": 500,
+    "height": 489,
+    "license": "CC BY-SA 3.0 nl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Algemene_Vereniging_Radio_Omroep\" class=\"extiw\" title=\"en:Algemene Vereniging Radio Omroep\"\u003eAVRO\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brian Eno - TopPop 1974 11.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Eno_-_TopPop_1974_11.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Brian_Eno_-_TopPop_1974_11.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Brian_Eno_-_TopPop_1974_11.png",
+      "width": 500,
+      "height": 489,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Algemene_Vereniging_Radio_Omroep\" class=\"extiw\" title=\"en:Algemene Vereniging Radio Omroep\"\u003eAVRO\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Erik Satie en 1909.PNG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Erik_Satie_en_1909.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erik_Satie_en_1909.PNG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Erik_Satie_en_1909.PNG",
+      "width": 660,
+      "height": 944,
+      "license": "Public domain",
+      "author": "Inconnu - Erik Satie (1865-1925) en 1909"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Minimoog Voyager XL, owned by Brian Eno.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Minimoog_Voyager_XL,_owned_by_Brian_Eno.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Minimoog_Voyager_XL%2C_owned_by_Brian_Eno.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Minimoog_Voyager_XL%2C_owned_by_Brian_Eno.jpg/960px-Minimoog_Voyager_XL%2C_owned_by_Brian_Eno.jpg",
+      "width": 4368,
+      "height": 2912,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27351743@N08\"\u003eGina Collecchia\u003c/a\u003e"
+    }
+  ]
+}

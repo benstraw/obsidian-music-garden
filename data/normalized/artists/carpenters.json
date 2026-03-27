@@ -2,8 +2,26 @@
   "source": "spotify",
   "source_artist_id": "1eEfMU2AhEo7XnKgL7c304",
   "name": "Carpenters",
+  "spotify_url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304",
   "source_genres": [
     "adult standards",
     "christmas"
+  ],
+  "canonical_genre_slugs": [
+    "adult-standards",
+    "christmas"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Carpenter Gothic",
+    "Carpenters (album)",
+    "Carpenters Arms",
+    "Carpenters Estate",
+    "Carpenters for Christmas",
+    "Carpenters with the Royal Philharmonic Orchestra",
+    "Carpenters' Hall",
+    "Carpentersville Middle School",
+    "Carpentersville, Illinois",
+    "Carpentry"
   ]
 }

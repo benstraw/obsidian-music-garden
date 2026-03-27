@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "5s6TJEuHTr9GR894wc6VfP",
   "name": "Emmylou Harris",
+  "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP",
   "source_genres": [
     "alt country",
     "americana",
@@ -12,7 +13,107 @@
     "singer-songwriter"
   ],
   "canonical_genre_slugs": [
+    "alt-country",
+    "americana",
+    "bluegrass",
+    "country",
+    "country-rock",
     "folk",
     "singer-songwriter"
+  ],
+  "status": "matched",
+  "page_title": "Emmylou Harris",
+  "summary": "Emmylou Harris is an American singer, songwriter, musician, bandleader, and activist. She is considered one of the leading music artists behind the country rock genre in the 1970s and the Americana genre in the 1990s. Her music united both country and rock audiences in live performance settings. Her characteristic voice, musical style and songwriting have been acclaimed by critics and fellow recording artists.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Emmylou_Harris",
+  "candidates": [
+    "Emmylou Harris",
+    "Emmylou Harris albums discography",
+    "Emmylou Harris appearances",
+    "Emmylou Harris collaborations A–F",
+    "Emmylou Harris collaborations G–K",
+    "Emmylou Harris collaborations L–Q",
+    "Emmylou Harris collaborations R–Z",
+    "Emmylou Harris discography",
+    "Emmylou Harris singles discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Emmylou Harris",
+    "page_url": "https://en.wikipedia.org/wiki/Emmylou_Harris",
+    "retrieved_at": "2026-03-27T09:26:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:19810800-05-LindaRonstadt.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:19810800-05-LindaRonstadt.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/19810800-05-LindaRonstadt.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/19810800-05-LindaRonstadt.jpg/960px-19810800-05-LindaRonstadt.jpg",
+    "width": 1432,
+    "height": 2116,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Circacies\" title=\"User:Circacies\"\u003eCircacies\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:19810800-05-LindaRonstadt.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:19810800-05-LindaRonstadt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/19810800-05-LindaRonstadt.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/19810800-05-LindaRonstadt.jpg/960px-19810800-05-LindaRonstadt.jpg",
+      "width": 1432,
+      "height": 2116,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Circacies\" title=\"User:Circacies\"\u003eCircacies\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dolly Parton with square red earrings.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dolly_Parton_with_square_red_earrings.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dolly_Parton_with_square_red_earrings.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dolly_Parton_with_square_red_earrings.jpg",
+      "width": 543,
+      "height": 839,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eagledj\" title=\"User:Eagledj\"\u003eEagledj\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:EmmylouHarrisGreenbeltPicnic.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:EmmylouHarrisGreenbeltPicnic.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/EmmylouHarrisGreenbeltPicnic.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/EmmylouHarrisGreenbeltPicnic.jpg",
+      "width": 682,
+      "height": 1024,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Penguinstorm\" class=\"extiw\" title=\"en:User:Penguinstorm\"\u003ePenguinstorm\u003c/a\u003e at en.wikipedia",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Penguinstorm\" class=\"extiw\" title=\"wikipedia:User:Penguinstorm\"\u003ePenguinstorm\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:EmmylouHarris PhilMadiera 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:EmmylouHarris_PhilMadiera_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/EmmylouHarris_PhilMadiera_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/EmmylouHarris_PhilMadiera_2008.jpg/960px-EmmylouHarris_PhilMadiera_2008.jpg",
+      "width": 2175,
+      "height": 2492,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "armadilo60"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Emmylou Harris' signature.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Emmylou_Harris%27_signature.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emmylou_Harris%27_signature.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Emmylou_Harris%27_signature.png",
+      "width": 766,
+      "height": 419,
+      "license": "Public domain",
+      "author": "Emmylou Harris/scanned and edited by \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Kursebi\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Kursebi (page does not exist)\"\u003eKursebi\u003c/a\u003e"
+    }
   ]
 }

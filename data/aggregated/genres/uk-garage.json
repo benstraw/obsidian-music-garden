@@ -1,4 +1,111 @@
 {
   "canonical_slug": "uk-garage",
-  "pending": true
+  "display_title": "UK Garage",
+  "display_name": "UK Garage",
+  "parent_slug": "electronic",
+  "aliases": [
+    "uk garage"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "UK garage",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/UK_garage",
+  "summary": "UK garage, abbreviated as UKG, is a genre of electronic music which originated in England in the early to mid-1990s. It is defined by percussive, shuffled rhythms with syncopated hi-hats, cymbals, and snares, and may include either 4/4 house kick patterns or more irregular \"2-step\" rhythms. Garage tracks also commonly feature \"chopped up\" and time-stretched or pitch-shifted vocal samples complementing the underlying rhythmic structure at a tempo usually around 130 BPM. The genre was influenced by garage house, jungle, Jamaican soundsystem, ragga, dancehall, gospel music, R\u0026B, and rave culture.",
+  "candidates": [
+    "UK - Argentina relations",
+    "UK garage",
+    "US garage",
+    "Ugaragol",
+    "Ukara Ekpe",
+    "Ukaragma"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "UK garage",
+    "page_url": "https://en.wikipedia.org/wiki/UK_garage",
+    "retrieved_at": "2026-03-27T09:32:15Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 4,
+    "unique_artist_count": 1,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2026-03-21T17:29:44.871Z",
+    "last_played_at": "2026-03-21T18:24:13.598Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "tonez",
+      "name": "Tonez",
+      "play_count": 4,
+      "spotify_artist_id": "5pvsRwXcUfr3oUVVbgrv5P",
+      "spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "tonez--fade",
+      "name": "Fade",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tonez",
+      "primary_artist_name": "Tonez"
+    },
+    {
+      "canonical_slug": "tonez--thiccfreqness-remixed-vol-1",
+      "name": "Thiccfreqness Remixed Vol. 1",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tonez",
+      "primary_artist_name": "Tonez"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "tonez--fade",
+      "name": "FADE",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tonez",
+      "primary_artist_name": "Tonez",
+      "release_canonical_slug": "tonez--fade",
+      "release_name": "Fade",
+      "spotify_track_id": "2eFAwERVKXsecxPriMnBIF",
+      "spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF"
+    },
+    {
+      "canonical_slug": "tonez--fade-broshi-remix",
+      "name": "Fade - Broshi Remix",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tonez",
+      "primary_artist_name": "Tonez",
+      "release_canonical_slug": "tonez--thiccfreqness-remixed-vol-1",
+      "release_name": "Thiccfreqness Remixed Vol. 1",
+      "spotify_track_id": "4qDNBFq7x89GHic0pGg1BA",
+      "spotify_url": "https://open.spotify.com/track/4qDNBFq7x89GHic0pGg1BA"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--uk-garage.json",
+      "url": "https://en.wikipedia.org/wiki/UK_garage",
+      "retrieved_at": "2026-03-27T09:32:15Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-21T18:24:13.598Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

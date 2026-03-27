@@ -1,0 +1,90 @@
+{
+  "source": "wikipedia",
+  "source_genre": "progressive rock",
+  "canonical_genre_slug": "progressive-rock",
+  "status": "matched",
+  "page_title": "Progressive rock",
+  "summary": "Progressive rock is a broad genre of rock music that primarily developed in the United Kingdom through the mid- to late 1960s. Initially termed \"progressive pop\", the style emerged from psychedelic bands who abandoned standard pop or rock traditions in favour of instrumental and compositional techniques more commonly associated with jazz, folk, or classical music, while retaining the instrumentation typical of rock music. Additional elements contributed to its \"progressive\" label: lyrics were more poetic, technology was harnessed for new sounds, music approached the condition of \"art\", and the studio, rather than the stage, became the focus of musical activity, which often involved creating music for listening rather than dancing.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Progressive_rock",
+  "candidates": [
+    "Progressive rock",
+    "Progressive rock (radio format)",
+    "Progressive Rock in the 21st Century",
+    "Progressive Socialist Party",
+    "Progressive Socialist Party of Ukraine",
+    "Progressive jackpot",
+    "Progressive Social Networks",
+    "Progressive Socialist Organizations of the Mediterranean",
+    "Progressive folk",
+    "Progressive Records"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Progressive rock",
+    "page_url": "https://en.wikipedia.org/wiki/Progressive_rock",
+    "retrieved_at": "2026-03-27T09:31:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+    "width": 3639,
+    "height": 2400,
+    "license": "Public domain",
+    "author": "Capitol Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+      "width": 3639,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "Capitol Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DarkSideOfTheMoon1973.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DarkSideOfTheMoon1973.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/DarkSideOfTheMoon1973.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DarkSideOfTheMoon1973.jpg/960px-DarkSideOfTheMoon1973.jpg",
+      "width": 1000,
+      "height": 690,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:TimDuncan\" title=\"User:TimDuncan\"\u003eTimDuncan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dream Theater - A Change of Seasons (excerpt).ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Emerson, Lake \u0026 Palmer 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Emerson,_Lake_%26_Palmer_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Emerson%2C_Lake_%26_Palmer_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Emerson%2C_Lake_%26_Palmer_01.jpg/960px-Emerson%2C_Lake_%26_Palmer_01.jpg",
+      "width": 3655,
+      "height": 2167,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gorupdebesanez\" title=\"User:Gorupdebesanez\"\u003eGorupdebesanez\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flowerpowerportfolio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flowerpowerportfolio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "width": 698,
+      "height": 361,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rightleftright\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rightleftright (page does not exist)\"\u003eRightleftright\u003c/a\u003e"
+    }
+  ]
+}

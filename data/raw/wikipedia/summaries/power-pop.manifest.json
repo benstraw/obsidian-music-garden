@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Power%20pop",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Power%20pop",
+  "cache_key": "summaries/power-pop",
+  "fetched_at": "2026-03-27T09:31:38Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

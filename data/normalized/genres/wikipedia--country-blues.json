@@ -1,0 +1,51 @@
+{
+  "source": "wikipedia",
+  "source_genre": "country blues",
+  "canonical_genre_slug": "country-blues",
+  "status": "matched",
+  "page_title": "Country blues",
+  "summary": "Country blues is one of the earliest forms of blues music, but also refers to a blend of country music and blues. The mainly solo vocal with acoustic fingerstyle guitar accompaniment developed in the rural Southern United States in the early 20th century. It stands in contrast primarily to the urban blues style, especially in the pre-war era.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Country_blues",
+  "candidates": [
+    "Country blues",
+    "The Country Blues",
+    "Country Blues",
+    "The Country Blues (book)",
+    "The Country Blues of John Lee Hooker",
+    "Country club",
+    "Country Bones",
+    "Country Club Estates, Georgia",
+    "Country Club (song)",
+    "In the Country of the Blue Nile"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Country blues",
+    "page_url": "https://en.wikipedia.org/wiki/Country_blues",
+    "retrieved_at": "2026-03-27T09:30:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

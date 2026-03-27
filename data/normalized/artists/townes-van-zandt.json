@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "3ZWab2LEVkNKiBPIClTwof",
   "name": "Townes Van Zandt",
+  "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof",
   "source_genres": [
     "alt country",
     "americana",
@@ -11,7 +12,67 @@
     "southern gothic"
   ],
   "canonical_genre_slugs": [
+    "alt-country",
+    "americana",
     "folk",
-    "singer-songwriter"
+    "outlaw-country",
+    "singer-songwriter",
+    "southern-gothic"
+  ],
+  "status": "matched",
+  "page_title": "Townes Van Zandt",
+  "summary": "John Townes Van Zandt was an American singer-songwriter. He wrote numerous songs, such as \"Pancho and Lefty\", \"If I Needed You\", \"Snake Mountain Blues\", \"Our Mother the Mountain\", \"Waitin' Round to Die\", and \"To Live's to Fly\". His musical style has often been described as melancholic and features rich, poetic lyrics. During his early years, Van Zandt was respected for his guitar playing and fingerpicking ability.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Townes_Van_Zandt",
+  "candidates": [
+    "Townes Van Zandt",
+    "Townes Van Zandt (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Townes Van Zandt",
+    "page_url": "https://en.wikipedia.org/wiki/Townes_Van_Zandt",
+    "retrieved_at": "2026-03-27T09:28:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:TVZ headstone.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:TVZ_headstone.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/TVZ_headstone.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TVZ_headstone.jpg/960px-TVZ_headstone.jpg",
+    "width": 1600,
+    "height": 1200,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:In_defense\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:In defense (page does not exist)\"\u003eIn defense\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:TVZ headstone.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:TVZ_headstone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/TVZ_headstone.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TVZ_headstone.jpg/960px-TVZ_headstone.jpg",
+      "width": 1600,
+      "height": 1200,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:In_defense\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:In defense (page does not exist)\"\u003eIn defense\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Townes Van Zandt.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Townes_Van_Zandt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Townes_Van_Zandt.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Townes_Van_Zandt.jpg",
+      "width": 643,
+      "height": 443,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Schorle\" title=\"User:Schorle\"\u003eSchorle\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Towneshwhw.jpg"
+    }
   ]
 }

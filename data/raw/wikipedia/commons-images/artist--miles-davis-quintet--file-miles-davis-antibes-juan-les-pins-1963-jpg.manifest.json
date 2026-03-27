@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AMiles+Davis+%28Antibes+Juan-les-Pins+1963%29.jpg",
+  "cache_key": "commons-images/artist--miles-davis-quintet--file-miles-davis-antibes-juan-les-pins-1963-jpg",
+  "fetched_at": "2026-03-27T09:27:05Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

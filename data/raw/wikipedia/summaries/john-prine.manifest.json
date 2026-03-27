@@ -1,0 +1,6 @@
+{
+  "endpoint": "/page/summary/John%20Prine",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/John%20Prine",
+  "fetched_at": "2026-03-27T09:26:36Z",
+  "content_type": "application/json; charset=utf-8; profile=\"https://www.mediawiki.org/wiki/Specs/Summary/1.5.0\""
+}

@@ -1,4 +1,153 @@
 {
   "canonical_slug": "afrobeat",
-  "pending": true
+  "display_title": "Afrobeat",
+  "display_name": "Afrobeat",
+  "notes": "Fela-rooted genre label; keep separate from newer afropop and afrobeats.",
+  "aliases": [
+    "afrobeat"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Afrobeat",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Afrobeat",
+  "summary": "Afrobeat is a West African music genre, fusing influences from Nigerian and Ghanaian music with American funk, jazz, and soul influences. With a focus on chanted vocals, complex intersecting rhythms, and percussion, the style was pioneered in the 1960s by Nigerian multi-instrumentalist and bandleader Fela Kuti, who popularised it both within and outside Nigeria. At the height of his popularity, he was referred to as one of Africa's most \"challenging and charismatic music performers.\"",
+  "candidates": [
+    "Afro Beat Fest",
+    "AfroBasket 2013",
+    "Afrobeat",
+    "Afrobeat (book)",
+    "Afrobeata",
+    "Afrobeata firma",
+    "Afrobeata magnifica",
+    "Afrobeats",
+    "Afrobeats: The Backstory",
+    "Afro–Latin Americans"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Afrobeat",
+    "page_url": "https://en.wikipedia.org/wiki/Afrobeat",
+    "retrieved_at": "2026-03-27T09:29:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fela Kuti (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fela_Kuti_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fela_Kuti_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fela_Kuti_%28cropped%29.jpg",
+    "width": 192,
+    "height": 263,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003cul\u003e\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Klausness\" title=\"User:Klausness\"\u003eKlausness\u003c/a\u003e (\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Klausness\" title=\"User talk:Klausness\"\u003e\u003cspan class=\"signature-talk\"\u003e✍\u003c/span\u003e\u003c/a\u003e)\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:WA%C3%8FPA_FELA_KUTI.JPG\" title=\"File:WAÏPA FELA KUTI.JPG\"\u003eWAÏPA_FELA_KUTI.JPG\u003c/a\u003e: MOI MEME\u003c/li\u003e\u003c/ul\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fela Kuti (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fela_Kuti_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fela_Kuti_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fela_Kuti_%28cropped%29.jpg",
+      "width": 192,
+      "height": 263,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003cul\u003e\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Klausness\" title=\"User:Klausness\"\u003eKlausness\u003c/a\u003e (\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Klausness\" title=\"User talk:Klausness\"\u003e\u003cspan class=\"signature-talk\"\u003e✍\u003c/span\u003e\u003c/a\u003e)\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:WA%C3%8FPA_FELA_KUTI.JPG\" title=\"File:WAÏPA FELA KUTI.JPG\"\u003eWAÏPA_FELA_KUTI.JPG\u003c/a\u003e: MOI MEME\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sean Kuti \u0026 Egypt 80 at NH7 Weekender.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sean_Kuti_%26_Egypt_80_at_NH7_Weekender.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sean_Kuti_%26_Egypt_80_at_NH7_Weekender.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sean_Kuti_%26_Egypt_80_at_NH7_Weekender.jpg/960px-Sean_Kuti_%26_Egypt_80_at_NH7_Weekender.jpg",
+      "width": 2464,
+      "height": 1632,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "OML Entertainment Pvt. Ltd."
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T02:24:03.192Z",
+    "last_played_at": "2026-03-03T02:24:03.192Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "burna-boy",
+      "name": "Burna Boy",
+      "play_count": 1,
+      "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+      "spotify_url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "burna-boy--african-giant",
+      "name": "African Giant",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "burna-boy",
+      "primary_artist_name": "Burna Boy"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "burna-boy--gbona",
+      "name": "Gbona",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "burna-boy",
+      "primary_artist_name": "Burna Boy",
+      "release_canonical_slug": "burna-boy--african-giant",
+      "release_name": "African Giant",
+      "spotify_track_id": "7rpWDu9GPlLxbLorYKVys7",
+      "spotify_url": "https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--afrobeat.json",
+      "url": "https://en.wikipedia.org/wiki/Afrobeat",
+      "retrieved_at": "2026-03-27T09:29:30Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--afrobeat.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Fela_Kuti_(cropped).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T02:24:03.192Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

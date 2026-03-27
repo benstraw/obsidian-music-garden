@@ -1,4 +1,172 @@
 {
   "canonical_slug": "samba",
-  "pending": true
+  "display_title": "Samba",
+  "display_name": "Samba",
+  "aliases": [
+    "samba"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Samba",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Samba",
+  "summary": "Samba is a broad term for many of the rhythms that compose the better known Brazilian music genres that originated in the Afro-Brazilian communities of Bahia in the late 19th century and early 20th century, It is a name or prefix used for several rhythmic variants, such as samba urbano carioca, samba de roda, among many other forms of samba, mostly originated in the Rio de Janeiro and Bahia states. Having its roots in West African musical traditions, especially those linked to the primitive rural samba of the colonial and imperial periods, is considered one of the most important cultural phenomena in Brazil and one of the country symbols. Present in the Portuguese language at least since the 19th century, the word \"samba\" was originally used to designate a \"popular dance\". Over time, its meaning has been extended to a \"batuque-like circle dance\", a dance style, and also to a \"music genre\". This process of establishing itself as a musical genre began in the 1910s and it had its inaugural landmark in the song \"Pelo Telefone\", launched in 1917. Despite being identified by its creators, the public, and the Brazilian music industry as \"samba\", this pioneering style was much more connected from the rhythmic and instrumental point of view to maxixe than to samba itself.",
+  "candidates": [
+    "Christopher Samba",
+    "Samba",
+    "Samba de Amigo: Party Central",
+    "Samba school",
+    "Sambal",
+    "Sambal language",
+    "Sambalpur",
+    "Sambalpuri culture",
+    "Sambar deer",
+    "Sambas Malay"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Samba",
+    "page_url": "https://en.wikipedia.org/wiki/Samba",
+    "retrieved_at": "2026-03-27T09:31:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:01 jorgearagao.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:01_jorgearagao.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/01_jorgearagao.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/01_jorgearagao.jpg/960px-01_jorgearagao.jpg",
+    "width": 1040,
+    "height": 571,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Olimor\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Olimor (page does not exist)\"\u003eOlimor\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:01 jorgearagao.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:01_jorgearagao.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/01_jorgearagao.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/01_jorgearagao.jpg/960px-01_jorgearagao.jpg",
+      "width": 1040,
+      "height": 571,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Olimor\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Olimor (page does not exist)\"\u003eOlimor\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:26 Prêmio da Música Brasileira (18525382718).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_(18525382718).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818525382718%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818525382718%29.jpg/960px-26_Pr%C3%AAmio_da_M%C3%BAsica_Brasileira_%2818525382718%29.jpg",
+      "width": 1665,
+      "height": 2500,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/131810405@N06\"\u003e26° Prêmio da Música Brasileira\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Agora é Cinza-Mario Reis-Bide e Marçal1933.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Agora_%C3%A9_Cinza-Mario_Reis-Bide_e_Mar%C3%A7al1933.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Agora_%C3%A9_Cinza-Mario_Reis-Bide_e_Mar%C3%A7al1933.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Bide e Marçal (Alcebíades Maia Barcelos e Armando Vieira Marçal)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ary Barroso 1939.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ary_Barroso_1939.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ary_Barroso_1939.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ary_Barroso_1939.jpg",
+      "width": 850,
+      "height": 1494,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Batuque.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Batuque.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Batuque.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Batuque.jpg/960px-Batuque.jpg",
+      "width": 1600,
+      "height": 1205,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Johann_Moritz_Rugendas\" class=\"extiw\" title=\"w:en:Johann Moritz Rugendas\"\u003e\u003cspan title=\"German artist (1802-1858)\"\u003eJohann Moritz Rugendas\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-03T12:09:58.043Z",
+    "last_played_at": "2026-03-03T12:09:58.043Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "trio-mocoto",
+      "name": "Trio Mocoto",
+      "play_count": 1,
+      "spotify_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
+      "spotify_url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "trio-mocoto--trio-mocotó",
+      "name": "Trio Mocotó",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "trio-mocoto",
+      "primary_artist_name": "Trio Mocoto"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "trio-mocoto--swinga-sambaby",
+      "name": "Swinga Sambaby",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "trio-mocoto",
+      "primary_artist_name": "Trio Mocoto",
+      "release_canonical_slug": "trio-mocoto--trio-mocotó",
+      "release_name": "Trio Mocotó",
+      "spotify_track_id": "3rlfQRL4gIRARv6vGawaj2",
+      "spotify_url": "https://open.spotify.com/track/3rlfQRL4gIRARv6vGawaj2"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--samba.json",
+      "url": "https://en.wikipedia.org/wiki/Samba",
+      "retrieved_at": "2026-03-27T09:31:58Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--samba.json",
+      "url": "https://commons.wikimedia.org/wiki/File:01_jorgearagao.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T12:09:58.043Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

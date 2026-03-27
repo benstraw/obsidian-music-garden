@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/J.J.%20Cale",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/J.J.%20Cale",
+  "cache_key": "summaries/artist--j-j-cale",
+  "fetched_at": "2026-03-27T09:26:29Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

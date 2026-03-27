@@ -2,8 +2,13 @@
   "canonical_slug": "frank-zappa",
   "name": "Frank Zappa",
   "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+  "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN",
   "genres": [
-    "art-rock"
+    "art-rock",
+    "experimental",
+    "jazz-fusion",
+    "progressive-rock",
+    "psychedelic-rock"
   ],
   "source_genres": [
     "art rock",
@@ -35,5 +40,101 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Frank Zappa",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Zappa",
+  "summary": "Frank Vincent Zappa was an American composer, songwriter, guitarist, conductor, actor, satirist, filmmaker, and activist. In a career spanning more than 30 years, Zappa composed rock, pop, jazz, jazz fusion, orchestral and musique concrète works; he additionally produced nearly all the 60-plus albums he released with his band the Mothers of Invention and as a solo artist. His discography is characterized by nonconformity, improvisation, sonic experimentation, musical virtuosity and satire of American culture. Zappa also directed feature-length films and music videos, and designed album covers. He is considered one of the most innovative and stylistically diverse musicians of his generation.",
+  "candidates": [
+    "Frank Zappa",
+    "Frank Zappa \u0026 The Mothers",
+    "Frank Zappa Meets the Mothers of Prevention",
+    "Frank Zappa Plays the Music of Frank Zappa: A Memorial Tribute",
+    "Frank Zappa discography",
+    "Frank Zappa for President",
+    "Frank Zappa in popular culture",
+    "The Frank Zappa AAAFNRAA Birthday Bundle",
+    "The Frank Zappa AAAFNRAAA Birthday Bundle",
+    "The Frank Zappa AAAFNRAAAAAM Birthday Bundle 2011"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Frank Zappa",
+    "page_url": "https://en.wikipedia.org/wiki/Frank_Zappa",
+    "retrieved_at": "2026-03-27T09:26:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cscr-featured.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+    "width": 466,
+    "height": 443,
+    "license": "LGPL",
+    "license_url": "http://www.gnu.org/licenses/lgpl.html",
+    "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Doberan Zappa-Denkmal3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Doberan_Zappa-Denkmal3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Doberan_Zappa-Denkmal3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Doberan_Zappa-Denkmal3.jpg/960px-Doberan_Zappa-Denkmal3.jpg",
+      "width": 3686,
+      "height": 5406,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:An-d\" title=\"User:An-d\"\u003eAn-d\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:FRANK ZAPPA3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:FRANK_ZAPPA3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/FRANK_ZAPPA3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/FRANK_ZAPPA3.jpg",
+      "width": 520,
+      "height": 332,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frank-Zappa-Straße in Berlin.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frank-Zappa-Stra%C3%9Fe_in_Berlin.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Frank-Zappa-Stra%C3%9Fe_in_Berlin.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Frank-Zappa-Stra%C3%9Fe_in_Berlin.jpg/960px-Frank-Zappa-Stra%C3%9Fe_in_Berlin.jpg",
+      "width": 2280,
+      "height": 1272,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ich\" title=\"User:Ich\"\u003eIch\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frank-Zappa in glory.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frank-Zappa_in_glory.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Frank-Zappa_in_glory.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Frank-Zappa_in_glory.jpg/960px-Frank-Zappa_in_glory.jpg",
+      "width": 3492,
+      "height": 2339,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Heinrich Klaffs"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

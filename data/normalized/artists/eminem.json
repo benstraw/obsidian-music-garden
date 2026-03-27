@@ -2,6 +2,7 @@
   "source": "spotify",
   "source_artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
   "name": "Eminem",
+  "spotify_url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
   "source_genres": [
     "hip hop",
     "rap"
@@ -9,5 +10,101 @@
   "canonical_genre_slugs": [
     "hip-hop",
     "rap"
+  ],
+  "status": "matched",
+  "page_title": "Eminem",
+  "summary": "Marshall Bruce Mathers III, known professionally as Eminem, is an American rapper, songwriter, record producer and record executive. Widely regarded as one of the greatest and most influential rappers of all time, he is often credited with popularizing hip-hop in Middle America and breaking down racial barriers for the acceptance of white rappers in the genre. While much of his transgressive art during the late 1990s and early 2000s made him a controversial figure, Eminem has become a representation of popular angst of lower income America and is noted for his conscious rap—which includes political criticism and social commentary—and rap flow.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Eminem",
+  "candidates": [
+    "Eminem",
+    "Eminem Presents: The Anger Management Tour",
+    "Eminem Presents: The Re-Up",
+    "Eminem albums discography",
+    "Eminem production discography",
+    "Eminem relapse",
+    "Eminem singles discography",
+    "Eminem videography",
+    "Eminem's seventh studio album",
+    "The Eminem Show"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Eminem",
+    "page_url": "https://en.wikipedia.org/wiki/Eminem",
+    "retrieved_at": "2026-03-27T09:26:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:EMINEM rapping Anger management tour 2003.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:EMINEM_rapping_Anger_management_tour_2003.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EMINEM_rapping_Anger_management_tour_2003.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EMINEM_rapping_Anger_management_tour_2003.jpg",
+    "width": 420,
+    "height": 300,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Scott Kinmartin"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:EMINEM rapping Anger management tour 2003.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:EMINEM_rapping_Anger_management_tour_2003.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EMINEM_rapping_Anger_management_tour_2003.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/EMINEM_rapping_Anger_management_tour_2003.jpg",
+      "width": 420,
+      "height": 300,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Scott Kinmartin"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eminem-01-mika (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eminem-01-mika_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Eminem-01-mika_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Eminem-01-mika_%28cropped%29.jpg",
+      "width": 552,
+      "height": 713,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eminem.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eminem.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Eminem.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Eminem.png",
+      "width": 496,
+      "height": 710,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Snowdrop Productions"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eminem 1 - Lollapalooza 2011 (6027569403) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eminem_1_-_Lollapalooza_2011_(6027569403)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Eminem_1_-_Lollapalooza_2011_%286027569403%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Eminem_1_-_Lollapalooza_2011_%286027569403%29_%28cropped%29.jpg/960px-Eminem_1_-_Lollapalooza_2011_%286027569403%29_%28cropped%29.jpg",
+      "width": 1736,
+      "height": 1337,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/68778862@N00\"\u003e- EMR -\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eminem Up in Smoke Tour.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eminem_Up_in_Smoke_Tour.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Eminem_Up_in_Smoke_Tour.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Eminem_Up_in_Smoke_Tour.png",
+      "width": 204,
+      "height": 296,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Johnny Wilbank from Austin, USA"
+    }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Big%20band",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Big%20band",
+  "cache_key": "summaries/big-band",
+  "fetched_at": "2026-03-27T09:29:59Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

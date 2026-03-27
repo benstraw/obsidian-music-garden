@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Zach%20Bryan",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Zach%20Bryan",
+  "cache_key": "summaries/artist--zach-bryan",
+  "fetched_at": "2026-03-27T09:28:25Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

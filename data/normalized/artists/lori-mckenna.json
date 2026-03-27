@@ -2,8 +2,52 @@
   "source": "spotify",
   "source_artist_id": "1OV5mEATxtVma7fleFaUyl",
   "name": "Lori McKenna",
+  "spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl",
   "source_genres": [
     "alt country",
     "americana"
+  ],
+  "canonical_genre_slugs": [
+    "alt-country",
+    "americana"
+  ],
+  "status": "matched",
+  "page_title": "Lori McKenna",
+  "summary": "Lorraine McKenna is an American folk, Americana, and country music singer-songwriter. In 2016, she was nominated for the Grammy Award for Song of the Year and won Best Country Song for co-writing the hit single \"Girl Crush\" performed by Little Big Town. In 2017, she again won Best Country Song at the 59th Annual Grammy Awards for writing \"Humble and Kind\" performed by Tim McGraw. \nMcKenna along with Lady Gaga, Natalie Hemby and Hillary Lindsey wrote the second single off the soundtrack to the 2018 film A Star Is Born called \"Always Remember Us This Way.” McKenna performed backing vocals along with Lindsey and Hemby, and the song received a nomination for Song of the Year at the 62nd Annual Grammy Awards.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lori_McKenna",
+  "candidates": [
+    "Lori McKenna"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lori McKenna",
+    "page_url": "https://en.wikipedia.org/wiki/Lori_McKenna",
+    "retrieved_at": "2026-03-27T09:26:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:LoriMcKennaNewBedfordSummerfest2006 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:LoriMcKennaNewBedfordSummerfest2006_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LoriMcKennaNewBedfordSummerfest2006_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LoriMcKennaNewBedfordSummerfest2006_%28cropped%29.jpg",
+    "width": 527,
+    "height": 847,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/38008469@N00\"\u003eThom C\u003c/a\u003e from Blackstone Valley, United States"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LoriMcKennaNewBedfordSummerfest2006 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LoriMcKennaNewBedfordSummerfest2006_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LoriMcKennaNewBedfordSummerfest2006_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/LoriMcKennaNewBedfordSummerfest2006_%28cropped%29.jpg",
+      "width": 527,
+      "height": 847,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/38008469@N00\"\u003eThom C\u003c/a\u003e from Blackstone Valley, United States"
+    }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "source": "wikipedia",
+  "source_genre": "baroque pop",
+  "canonical_genre_slug": "baroque-pop",
+  "status": "matched",
+  "page_title": "Baroque pop",
+  "summary": "Baroque pop is a fusion genre that combines rock music with particular elements of classical music. It emerged in the mid-1960s as artists pursued a majestic, orchestral sound and is identifiable for its appropriation of Baroque compositional styles and dramatic or melancholic gestures. Harpsichords figure prominently, while oboes, French horns, and string quartets are also common.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Baroque_pop",
+  "candidates": [
+    "Baroque pop",
+    "Baroque painting",
+    "Baroque fortifications in the Black Forest",
+    "Baroque orchestra",
+    "Baroque pearl",
+    "Baroque Palace, Timișoara",
+    "Baroque Hoedown",
+    "Baroque Palace of Oradea",
+    "Baroque Works",
+    "Baroque Period"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Baroque pop",
+    "page_url": "https://en.wikipedia.org/wiki/Baroque_pop",
+    "retrieved_at": "2026-03-27T09:29:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+    "width": 3639,
+    "height": 2400,
+    "license": "Public domain",
+    "author": "Capitol Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+      "width": 3639,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "Capitol Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DivineComedy20070810 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DivineComedy20070810_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/DivineComedy20070810_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/DivineComedy20070810_01.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Original Uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Michig\" class=\"extiw\" title=\"en:User:Michig\"\u003eMichig\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Michig\" class=\"extiw\" title=\"en:User talk:Michig\"\u003etalk\u003c/a\u003e) at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harp02.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harp02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Harp02.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Harp02.jpg",
+      "width": 400,
+      "height": 333,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Mark Thomas"
+    }
+  ]
+}

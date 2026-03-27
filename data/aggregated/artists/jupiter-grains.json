@@ -2,6 +2,7 @@
   "canonical_slug": "jupiter-grains",
   "name": "Jupiter Grains",
   "spotify_artist_id": "6uq3FetPGtr1PNJ4bOzF85",
+  "spotify_url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab67616d0000b2735cae4d353ae3aad3a06802cb",
@@ -19,5 +20,10 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Jupiter Brain",
+    "Jupiter Raised by the Nymph Adrasteia"
+  ],
+  "last_updated": "2026-03-27"
 }

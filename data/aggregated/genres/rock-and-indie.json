@@ -1,4 +1,28 @@
 {
   "canonical_slug": "rock-and-indie",
-  "pending": true
+  "display_title": "Rock and Indie",
+  "display_name": "Rock and Indie",
+  "parent_slug": "rock",
+  "notes": "Loose source bucket retained as an editorial category when labels are underspecified.",
+  "aliases": [
+    "rock and indie"
+  ],
+  "pending": true,
+  "status": "not_found",
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

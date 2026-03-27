@@ -1,4 +1,67 @@
 {
   "canonical_slug": "musicals",
-  "pending": true
+  "display_title": "Musicals",
+  "display_name": "Musicals",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Musical theatre",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Musical_theatre",
+  "summary": "Musical theatre is a form of theatrical performance that combines songs, spoken dialogue, acting and dance. The story and emotional content of a musical – humor, pathos, love, anger – are communicated through words, music, movement and technical aspects of the entertainment as an integrated whole. Although musical theatre overlaps with other theatrical forms like opera and dance, it may be distinguished by the equal importance given to the music as compared with the dialogue, movement and other elements. Since the early 20th century, musical theatre stage works have generally been called, simply, musicals.",
+  "candidates": [
+    "Musical saw",
+    "Musical selections in The Wizard of Oz",
+    "Musical syntax",
+    "Musical system of ancient Greece",
+    "MusicalSplaining",
+    "Musicals",
+    "Musicals \u0026 Moving On",
+    "Musicals by Galt MacDermot",
+    "Musicals in Ahoy",
+    "Musicals of Larry Norman"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Musical theatre",
+    "page_url": "https://en.wikipedia.org/wiki/Musical_theatre",
+    "retrieved_at": "2026-03-27T09:31:23Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Crookfinale.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Crookfinale.jpg/330px-Crookfinale.jpg",
+    "width": 2800,
+    "height": 1867
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--musicals.json",
+      "url": "https://en.wikipedia.org/wiki/Musical_theatre",
+      "retrieved_at": "2026-03-27T09:31:23Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--musicals.json",
+      "url": "https://en.wikipedia.org/wiki/Musical_theatre",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

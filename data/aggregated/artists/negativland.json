@@ -2,6 +2,13 @@
   "canonical_slug": "negativland",
   "name": "Negativland",
   "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+  "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW",
+  "genres": [
+    "experimental",
+    "musique-concrete",
+    "plunderphonics",
+    "spoken-word"
+  ],
   "source_genres": [
     "avant-garde",
     "experimental",
@@ -31,5 +38,53 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Negativland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Negativland",
+  "summary": "Negativland is an American experimental music band that originated in the San Francisco Bay Area in the late 1970s. The core of the band consists of Mark Hosler, David Wills, Peter Conheim and Jon Leidecker. Negativland has released a number of albums ranging from pure sound collage to more musical expositions. These have mostly been released on their own label, Seeland Records. In the late 1980s and early 1990s, they produced several recordings for SST Records, most notably Escape from Noise, Helter Stupid and U2. Negativland were sued by the band U2's record label, Island Records, and by SST Records, which brought them widespread publicity and notoriety. The band, along with the Church of the SubGenius parody religion and other \"creative\" types, were among those given a free website by the University of North Carolina back in 1994 just to see what these creative types would do with a website. Negativland coined the term culture jamming in 1984. Don Joyce added it to the album JamCon '84 in the form of \"culture jammer\". The band took their name from a Neu! track, with their record label Seeland Records also being named after another Neu! track.",
+  "candidates": [
+    "Negative and non-negative in binary",
+    "Negative and non-negative numbers",
+    "Negative and positive",
+    "Negative and positive atheism",
+    "Negative and positive rights",
+    "Negative angle",
+    "Negative index of refraction",
+    "Negative-index metamaterial",
+    "Negativland",
+    "Negativland (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Negativland",
+    "page_url": "https://en.wikipedia.org/wiki/Negativland",
+    "retrieved_at": "2026-03-27T09:27:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Negativland performance.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Negativland_performance.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Negativland_performance.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Negativland_performance.jpg/960px-Negativland_performance.jpg",
+    "width": 3840,
+    "height": 2160,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41894169422@N01\"\u003eNelson Pavlosky\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Negativland performance.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Negativland_performance.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Negativland_performance.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Negativland_performance.jpg/960px-Negativland_performance.jpg",
+      "width": 3840,
+      "height": 2160,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41894169422@N01\"\u003eNelson Pavlosky\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

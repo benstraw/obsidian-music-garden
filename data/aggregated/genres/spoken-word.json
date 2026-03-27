@@ -1,4 +1,238 @@
 {
   "canonical_slug": "spoken-word",
-  "pending": true
+  "display_title": "Spoken Word",
+  "display_name": "Spoken Word",
+  "aliases": [
+    "spoken word"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Spoken word",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spoken_word",
+  "summary": "Spoken word is an oral poetic performance art that is based mainly on the poem's as well as the performer's aesthetic qualities. It is a 20th-century continuation of an ancient oral artistic tradition, most notably the Greek oral-formulaic tradition, which produced the oldest works in the Western tradition, that focuses on the aesthetics of recitation and word play, such as the performer's live intonation and voice inflection. Spoken word is a catch-all term that includes any kind of poetry recited aloud, including poetry readings, poetry slams, jazz poetry, pianologues, musical readings, and hip hop music, and can include comedy routines and prose monologues. Unlike written poetry, the quality of spoken word is shaped less by the visual aesthetics on a page, and more from phonaesthetics or the aesthetics of sound.",
+  "candidates": [
+    "Spoken Word (film)",
+    "Spoken Word (song)",
+    "Spoken Word Canada",
+    "Spoken Word Youth Choir",
+    "Spoken Words (album)",
+    "Spoken word",
+    "Spoken word album",
+    "Spoken word in Ghana",
+    "Spoken word recognition",
+    "Spoken words"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Spoken word",
+    "page_url": "https://en.wikipedia.org/wiki/Spoken_word",
+    "retrieved_at": "2026-03-27T09:32:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Books-aj.svg aj ashton 01.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Books-aj.svg_aj_ashton_01.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Books-aj.svg_aj_ashton_01.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Books-aj.svg_aj_ashton_01.png",
+    "width": 128,
+    "height": 128,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/AJ\"\u003eAJ\u003c/a\u003e on \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/\"\u003eopenclipart.org\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Books-aj.svg aj ashton 01.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Books-aj.svg_aj_ashton_01.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Books-aj.svg_aj_ashton_01.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Books-aj.svg_aj_ashton_01.png",
+      "width": 128,
+      "height": 128,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/AJ\"\u003eAJ\u003c/a\u003e on \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/\"\u003eopenclipart.org\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Erika Renee Land at the Newberry Library.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Erika_Renee_Land_at_the_Newberry_Library.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Erika_Renee_Land_at_the_Newberry_Library.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Erika_Renee_Land_at_the_Newberry_Library.png/960px-Erika_Renee_Land_at_the_Newberry_Library.png",
+      "width": 1056,
+      "height": 1228,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Iameland\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Iameland (page does not exist)\"\u003eIameland\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Globe of letters.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Globe_of_letters.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Globe_of_letters.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/960px-Globe_of_letters.svg.png",
+      "width": 128,
+      "height": 128,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Seahen\" title=\"User:Seahen\"\u003eSeahen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mumbi Macharia Spoken Word Poet.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mumbi_Macharia_Spoken_Word_Poet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mumbi_Macharia_Spoken_Word_Poet.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mumbi_Macharia_Spoken_Word_Poet.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Kenyanshilling\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Kenyanshilling (page does not exist)\"\u003eKenyanshilling\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Poetry slam judges 9050262.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Poetry_slam_judges_9050262.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Poetry_slam_judges_9050262.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Poetry_slam_judges_9050262.jpg/960px-Poetry_slam_judges_9050262.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "GFDL 1.2",
+      "license_url": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Slowking4\" title=\"User:Slowking4\"\u003eslowking4\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 4,
+    "unique_artist_count": 3,
+    "unique_release_count": 3,
+    "unique_track_count": 4,
+    "first_played_at": "2026-03-01T01:48:13.102Z",
+    "last_played_at": "2026-03-03T15:08:09.738Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "gil-scott-heron",
+      "name": "Gil Scott-Heron",
+      "play_count": 2,
+      "spotify_artist_id": "0kEfub5RzlZOB2zGomqVSU",
+      "spotify_url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+    },
+    {
+      "canonical_slug": "negativland",
+      "name": "Negativland",
+      "play_count": 1,
+      "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+      "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
+    },
+    {
+      "canonical_slug": "omari-hardwick",
+      "name": "Omari Hardwick",
+      "play_count": 1,
+      "spotify_artist_id": "42G5kgQURgn9sOZHtOdji5",
+      "spotify_url": "https://open.spotify.com/artist/42G5kgQURgn9sOZHtOdji5"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "name": "Pieces of a Man",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron"
+    },
+    {
+      "canonical_slug": "omari-hardwick--buffaloes-and-butterflies",
+      "name": "BuffalOes \u0026 Butterflies",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "omari-hardwick",
+      "primary_artist_name": "Omari Hardwick"
+    },
+    {
+      "canonical_slug": "negativland--escape-from-noise",
+      "name": "Escape from Noise",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "negativland--endscape",
+      "name": "Endscape",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "4jM4ZrBOBuCE5sRsXuk8iH",
+      "spotify_url": "https://open.spotify.com/track/4jM4ZrBOBuCE5sRsXuk8iH"
+    },
+    {
+      "canonical_slug": "gil-scott-heron--home-is-where-the-hatred-is",
+      "name": "Home Is Where the Hatred Is",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "3pmp40HtLapVQ8L89Mz1vh",
+      "spotify_url": "https://open.spotify.com/track/3pmp40HtLapVQ8L89Mz1vh"
+    },
+    {
+      "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
+      "name": "The Revolution Will Not Be Televised",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
+      "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
+    },
+    {
+      "canonical_slug": "omari-hardwick--what-you-say",
+      "name": "What You Say",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "omari-hardwick",
+      "primary_artist_name": "Omari Hardwick",
+      "release_canonical_slug": "omari-hardwick--buffaloes-and-butterflies",
+      "release_name": "BuffalOes \u0026 Butterflies",
+      "spotify_track_id": "4ix8gioHd82QWwW4qy8pdl",
+      "spotify_url": "https://open.spotify.com/track/4ix8gioHd82QWwW4qy8pdl"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--spoken-word.json",
+      "url": "https://en.wikipedia.org/wiki/Spoken_word",
+      "retrieved_at": "2026-03-27T09:32:11Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--spoken-word.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Books-aj.svg_aj_ashton_01.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T15:08:09.738Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

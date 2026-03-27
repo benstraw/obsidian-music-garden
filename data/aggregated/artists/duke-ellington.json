@@ -2,6 +2,12 @@
   "canonical_slug": "duke-ellington",
   "name": "Duke Ellington",
   "spotify_artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+  "spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A",
+  "genres": [
+    "big-band",
+    "cool-jazz",
+    "jazz"
+  ],
   "source_genres": [
     "big band",
     "cool jazz",
@@ -31,5 +37,96 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Duke Ellington",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Duke_Ellington",
+  "summary": "Edward Kennedy \"Duke\" Ellington was an American jazz pianist, composer, and leader of his eponymous jazz orchestra from 1924 through the rest of his life. Ralph J. Gleason called him \"America's most important composer.\"",
+  "candidates": [
+    "Duke Ellington",
+    "Duke Ellington \u0026 John Coltrane",
+    "Duke Ellington Bridge",
+    "Duke Ellington Circle",
+    "Duke Ellington House",
+    "Duke Ellington Meets Coleman Hawkins",
+    "Duke Ellington School of the Arts",
+    "Duke Ellington at Fargo, 1940 Live",
+    "Duke Ellington at the Bal Masque",
+    "Duke Ellington discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Duke Ellington",
+    "page_url": "https://en.wikipedia.org/wiki/Duke_Ellington",
+    "retrieved_at": "2026-03-27T09:26:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2009 DC Proof.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2009_DC_Proof.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2009_DC_Proof.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2009_DC_Proof.png/960px-2009_DC_Proof.png",
+    "width": 1078,
+    "height": 1081,
+    "license": "Public domain",
+    "author": "United States Mint"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2009 DC Proof.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2009_DC_Proof.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/2009_DC_Proof.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2009_DC_Proof.png/960px-2009_DC_Proof.png",
+      "width": 1078,
+      "height": 1081,
+      "license": "Public domain",
+      "author": "United States Mint"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duke Ellington - publicity.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_-_publicity.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Duke_Ellington_-_publicity.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/960px-Duke_Ellington_-_publicity.JPG",
+      "width": 1049,
+      "height": 1279,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duke Ellington 1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Duke_Ellington_1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Duke_Ellington_1.JPG/960px-Duke_Ellington_1.JPG",
+      "width": 1641,
+      "height": 2808,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Hans Bernhard (\u003ca href=\"//commons.wikimedia.org/wiki/User:Schnobby\" title=\"User:Schnobby\"\u003eSchnobby\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duke Ellington Signature.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_Signature.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Duke_Ellington_Signature.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Duke_Ellington_Signature.png",
+      "width": 800,
+      "height": 381,
+      "license": "Public domain",
+      "author": "Edward Kennedy \"Duke\" Ellington"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duke Ellington St. Louis Toodle-Oo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_St._Louis_Toodle-Oo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Duke_Ellington_St._Louis_Toodle-Oo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Duke_Ellington_St._Louis_Toodle-Oo.jpg",
+      "width": 500,
+      "height": 484,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Freimut_Bahlo\" title=\"User:Freimut Bahlo\"\u003eFreimut Bahlo\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,4 +1,160 @@
 {
   "canonical_slug": "power-pop",
-  "pending": true
+  "display_title": "Power Pop",
+  "display_name": "Power Pop",
+  "parent_slug": "pop",
+  "aliases": [
+    "power pop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Power pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Power_pop",
+  "summary": "Power pop is a subgenre of rock music and a form of pop rock based on the early music of bands such as the Who, the Beatles, the Beach Boys, and the Byrds. It typically incorporates melodic hooks, vocal harmonies, an energetic performance, and cheerful-sounding music underpinned by a sense of yearning, longing, despair, or self-empowerment. The sound is primarily rooted in pop and rock traditions of the early-to-mid 1960s, although some artists have occasionally drawn from later styles such as punk, new wave, glam rock, pub rock, college rock, and neo-psychedelia.",
+  "candidates": [
+    "Power Pack",
+    "Power Pros",
+    "Power conferences",
+    "Power over Ethernet",
+    "Power pop",
+    "Power supply unit (computer)",
+    "Power-to-weight ratio",
+    "PowerPC",
+    "PowerPC 600",
+    "The Power of Love (Jennifer Rush song)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Power pop",
+    "page_url": "https://en.wikipedia.org/wiki/Power_pop",
+    "retrieved_at": "2026-03-27T09:31:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cheaptrick1.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cheaptrick1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+    "width": 394,
+    "height": 296,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Malco23\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Malco23 (page does not exist)\"\u003eMalco23\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cheaptrick1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cheaptrick1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cheaptrick1.jpg",
+      "width": 394,
+      "height": 296,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Malco23\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Malco23 (page does not exist)\"\u003eMalco23\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Go All the Way.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:I Want To Hold Your Hand (Beatles song - sample).ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sullivan Beach Boys (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sullivan_Beach_Boys_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sullivan_Beach_Boys_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sullivan_Beach_Boys_%28cropped%29.jpg",
+      "width": 393,
+      "height": 274,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 3,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-13T23:51:29.373Z",
+    "last_played_at": "2026-03-14T18:12:15.736Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions",
+      "name": "Elvis Costello \u0026 The Attractions",
+      "play_count": 3,
+      "spotify_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
+      "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "name": "Armed Forces (Remastered 2020)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--power-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Power_pop",
+      "retrieved_at": "2026-03-27T09:31:37Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--power-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Cheaptrick1.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-14T18:12:15.736Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

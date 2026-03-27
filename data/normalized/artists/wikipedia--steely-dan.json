@@ -1,0 +1,85 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "steely-dan",
+  "name": "Steely Dan",
+  "status": "matched",
+  "page_title": "Steely Dan",
+  "summary": "Steely Dan is an American rock band formed in Annandale-on-Hudson, New York, in 1971 by Walter Becker and Donald Fagen. Originally having a traditional band lineup, Becker and Fagen chose to stop performing live by the end of 1974 and continued Steely Dan as a studio-only duo, using a revolving cast of session musicians. Rolling Stone magazine named them \"the perfect musical antiheroes for the seventies\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Steely_Dan",
+  "candidates": [
+    "Steely Dan",
+    "Steely Dan discography",
+    "Steely Dan (JoJo's Bizarre Adventure)",
+    "Steely Dan - Peg",
+    "Steely Dan: The Definitive Collection",
+    "Steel and tin cans",
+    "Danielle Steel",
+    "Steel Panther",
+    "Steelpan",
+    "Dawn Steele"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Steely Dan",
+    "page_url": "https://en.wikipedia.org/wiki/Steely_Dan",
+    "retrieved_at": "2026-03-27T09:28:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Steely Dan - Donald Fagen - Luzern 2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Steely_Dan_-_Donald_Fagen_-_Luzern_2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Steely_Dan_-_Donald_Fagen_-_Luzern_2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Steely_Dan_-_Donald_Fagen_-_Luzern_2007.jpg",
+      "width": 900,
+      "height": 675,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/user:Sposato\" class=\"extiw\" title=\"en:user:Sposato\"\u003eStephan Neuner\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Steely Dan 1977.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Steely_Dan_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Steely_Dan_1977.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Steely_Dan_1977.jpg/960px-Steely_Dan_1977.jpg",
+      "width": 1600,
+      "height": 1067,
+      "license": "Public domain",
+      "author": "Distributed by ABC Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Doobie Brothers - Jeff Skunk Baxter.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Doobie_Brothers_-_Jeff_Skunk_Baxter.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Doobie_Brothers_-_Jeff_Skunk_Baxter.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/The_Doobie_Brothers_-_Jeff_Skunk_Baxter.jpg",
+      "width": 600,
+      "height": 399,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43547797@N00\"\u003eCarl Lender\u003c/a\u003e"
+    }
+  ]
+}

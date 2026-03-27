@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Grateful%20Dead",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Grateful%20Dead",
+  "cache_key": "summaries/artist--grateful-dead",
+  "fetched_at": "2026-03-27T09:26:22Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -1,4 +1,325 @@
 {
   "canonical_slug": "jazz-rap",
-  "pending": true
+  "display_title": "Jazz Rap",
+  "display_name": "Jazz Rap",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "jazz rap"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Jazz rap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_rap",
+  "summary": "Jazz rap is a fusion of jazz and hip hop music, as well as an alternative hip-hop subgenre, that developed in the late 1980s and early 1990s. An article on AllMusic explains that the genre \"was an attempt to fuse African-American music of the past with a newly dominant form of the present, paying tribute to and reinvigorating the former while expanding the horizons of the latter.\" The rhythm was rooted in hip hop over which repetitive phrases of jazz instrumentation, such as the trumpet, double bass, etc., were placed. The groups involved in the formation of jazz rap included A Tribe Called Quest, Digable Planets, De La Soul, Gang Starr, and Jungle Brothers.",
+  "candidates": [
+    "Jazz Age",
+    "Jazz Age Lawn Party",
+    "Jazz Aviation",
+    "Jazz Raycole",
+    "Jazz Richards",
+    "Jazz band",
+    "Jazz improvisation",
+    "Jazz rap",
+    "Jazzar Pasha",
+    "Maxi Jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz rap",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_rap",
+    "retrieved_at": "2026-03-27T09:31:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 46,
+    "unique_artist_count": 6,
+    "unique_release_count": 12,
+    "unique_track_count": 24,
+    "first_played_at": "2026-02-26T02:26:11.568Z",
+    "last_played_at": "2026-03-19T02:33:23.842Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "play_count": 27,
+      "spotify_artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+      "spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+    },
+    {
+      "canonical_slug": "de-la-soul",
+      "name": "De La Soul",
+      "play_count": 11,
+      "spotify_artist_id": "1Z8ODXyhEBi3WynYw0Rya6",
+      "spotify_url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+    },
+    {
+      "canonical_slug": "black-star",
+      "name": "Black Star",
+      "play_count": 5,
+      "spotify_artist_id": "67ei8ib6PLT1w3OkhIb4fB",
+      "spotify_url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+    },
+    {
+      "canonical_slug": "common",
+      "name": "Common",
+      "play_count": 1,
+      "spotify_artist_id": "2GHclqNVjqGuiE5mA7BEoc",
+      "spotify_url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs",
+      "name": "People Under The Stairs",
+      "play_count": 1,
+      "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+      "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
+    },
+    {
+      "canonical_slug": "us3",
+      "name": "Us3",
+      "play_count": 1,
+      "spotify_artist_id": "4LtIfuFeAamus9OOItuWDD",
+      "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "a-tribe-called-quest--we-got-it-from-here-thank-you-4-your-service",
+      "name": "We got it from Here... Thank You 4 Your service",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--the-low-end-theory",
+      "name": "The Low End Theory",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "de-la-soul--3-feet-high-and-rising",
+      "name": "3 Feet High and Rising",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul"
+    },
+    {
+      "canonical_slug": "de-la-soul--de-la-soul-is-dead",
+      "name": "De La Soul is Dead",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--midnight-marauders",
+      "name": "Midnight Marauders",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
+      "name": "Mos Def \u0026 Talib Kweli Are Black Star",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "black-star",
+      "primary_artist_name": "Black Star"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--the-anthology",
+      "name": "The Anthology",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--the-love-movement",
+      "name": "The Love Movement",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest"
+    },
+    {
+      "canonical_slug": "de-la-soul--aoi-bionix",
+      "name": "AOI: Bionix",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul"
+    },
+    {
+      "canonical_slug": "us3--hand-on-the-torch",
+      "name": "Hand On The Torch",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "us3",
+      "primary_artist_name": "Us3"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "a-tribe-called-quest--we-the-people",
+      "name": "We The People....",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--we-got-it-from-here-thank-you-4-your-service",
+      "release_name": "We got it from Here... Thank You 4 Your service",
+      "spotify_track_id": "3wUX7HpXS382s1DHTRouVk",
+      "spotify_url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
+    },
+    {
+      "canonical_slug": "de-la-soul--bitties-in-the-bk-lounge",
+      "name": "Bitties in the BK Lounge",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul",
+      "release_canonical_slug": "de-la-soul--de-la-soul-is-dead",
+      "release_name": "De La Soul is Dead",
+      "spotify_track_id": "5Oau0nwi1toumk4lShjlRn",
+      "spotify_url": "https://open.spotify.com/track/5Oau0nwi1toumk4lShjlRn"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--buggin-out",
+      "name": "Buggin' Out",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-low-end-theory",
+      "release_name": "The Low End Theory",
+      "spotify_track_id": "6GAemDMWAXa8wZOBkO1gar",
+      "spotify_url": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--electric-relaxation",
+      "name": "Electric Relaxation",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-anthology",
+      "release_name": "The Anthology",
+      "spotify_track_id": "0eEXcw3JLVXcRxYrVYMy68",
+      "spotify_url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--find-a-way",
+      "name": "Find a Way",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-love-movement",
+      "release_name": "The Love Movement",
+      "spotify_track_id": "2MAaiV0bbeq4FpSwPe2rR8",
+      "spotify_url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--award-tour-feat-trugoy-the-dove",
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--midnight-marauders",
+      "release_name": "Midnight Marauders",
+      "spotify_track_id": "5YTM7OgQDt9EJAYcfHLniJ",
+      "spotify_url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "canonical_slug": "black-star--definition",
+      "name": "Definition",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "black-star",
+      "primary_artist_name": "Black Star",
+      "release_canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
+      "release_name": "Mos Def \u0026 Talib Kweli Are Black Star",
+      "spotify_track_id": "4C7Ss9bTPOWJMh3rarF1mN",
+      "spotify_url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
+    },
+    {
+      "canonical_slug": "de-la-soul--eye-know",
+      "name": "Eye Know",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul",
+      "release_canonical_slug": "de-la-soul--3-feet-high-and-rising",
+      "release_name": "3 Feet High and Rising",
+      "spotify_track_id": "4xQMFoD33vx6stB1UzfA6s",
+      "spotify_url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
+    },
+    {
+      "canonical_slug": "de-la-soul--me-myself-and-i",
+      "name": "Me Myself and I",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul",
+      "release_canonical_slug": "de-la-soul--3-feet-high-and-rising",
+      "release_name": "3 Feet High and Rising",
+      "spotify_track_id": "792UwI6utk5DMQUT1KXa5E",
+      "spotify_url": "https://open.spotify.com/track/792UwI6utk5DMQUT1KXa5E"
+    },
+    {
+      "canonical_slug": "black-star--respiration",
+      "name": "Respiration",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "black-star",
+      "primary_artist_name": "Black Star",
+      "release_canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
+      "release_name": "Mos Def \u0026 Talib Kweli Are Black Star",
+      "spotify_track_id": "5mxVKAuunOKqcBfR5ivbRf",
+      "spotify_url": "https://open.spotify.com/track/5mxVKAuunOKqcBfR5ivbRf"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-rap.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_rap",
+      "retrieved_at": "2026-03-27T09:31:16Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-rap.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:33:23.842Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

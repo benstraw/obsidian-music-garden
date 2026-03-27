@@ -1,0 +1,34 @@
+{
+  "source": "wikipedia",
+  "source_genre": "anxious",
+  "canonical_genre_slug": "anxious",
+  "status": "matched",
+  "page_title": "Anxiety",
+  "summary": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Anxiety is different from fear in that fear is defined as the emotional response to a present threat, whereas anxiety is the anticipation of a future one. It is often accompanied by nervous behaviour such as pacing back and forth, somatic complaints, and rumination.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Anxiety",
+  "candidates": [
+    "Anxious",
+    "Anxious People",
+    "Anxious-preoccupied attachment",
+    "Anxious (band)",
+    "Anxious People (film)",
+    "Anxious (album)",
+    "Anxious Oswald Greene",
+    "Anxious Bay",
+    "Anxious People (TV series)",
+    "The Anxious City"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Anxiety",
+    "page_url": "https://en.wikipedia.org/wiki/Anxiety",
+    "retrieved_at": "2026-03-27T09:29:48Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/330px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+    "width": 3223,
+    "height": 4000
+  }
+}

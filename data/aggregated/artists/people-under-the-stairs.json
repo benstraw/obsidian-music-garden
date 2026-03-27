@@ -2,6 +2,12 @@
   "canonical_slug": "people-under-the-stairs",
   "name": "People Under The Stairs",
   "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+  "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh",
+  "genres": [
+    "alternative-hip-hop",
+    "jazz-rap",
+    "underground-hip-hop"
+  ],
   "source_genres": [
     "alternative hip hop",
     "jazz rap",
@@ -24,5 +30,46 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "People Under the Stairs",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/People_Under_the_Stairs",
+  "summary": "People Under the Stairs was an American hip hop duo from Los Angeles, California, formed in 1997 and disbanded in 2019. Since their inception, the group consisted solely of Christopher Portugal and Michael Turner. The group employed a DIY work ethic of sampling, MCing, DJing, and producing all of their output.",
+  "candidates": [
+    "People Under the Stairs",
+    "People Under the Stairs discography",
+    "The People Under the Stairs"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "People Under the Stairs",
+    "page_url": "https://en.wikipedia.org/wiki/People_Under_the_Stairs",
+    "retrieved_at": "2026-03-27T09:27:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:People Under The Stairs.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:People_Under_The_Stairs.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/People_Under_The_Stairs.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/People_Under_The_Stairs.jpg/960px-People_Under_The_Stairs.jpg",
+    "width": 3705,
+    "height": 3688,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Piecelock70\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Piecelock70 (page does not exist)\"\u003ePiecelock70\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:People Under The Stairs.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:People_Under_The_Stairs.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/People_Under_The_Stairs.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/People_Under_The_Stairs.jpg/960px-People_Under_The_Stairs.jpg",
+      "width": 3705,
+      "height": 3688,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Piecelock70\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Piecelock70 (page does not exist)\"\u003ePiecelock70\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

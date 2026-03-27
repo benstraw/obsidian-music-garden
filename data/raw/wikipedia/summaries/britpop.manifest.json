@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Britpop",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Britpop",
+  "cache_key": "summaries/britpop",
+  "fetched_at": "2026-03-27T09:30:06Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

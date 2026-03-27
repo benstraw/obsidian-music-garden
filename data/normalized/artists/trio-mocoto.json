@@ -2,9 +2,20 @@
   "source": "spotify",
   "source_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
   "name": "Trio Mocoto",
+  "spotify_url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP",
   "source_genres": [
     "bossa nova",
     "brazilian jazz",
     "samba"
+  ],
+  "canonical_genre_slugs": [
+    "bossa-nova",
+    "jazz",
+    "samba"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Trio Mocotó",
+    "Trio Rococo"
   ]
 }

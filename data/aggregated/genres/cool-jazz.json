@@ -1,4 +1,356 @@
 {
   "canonical_slug": "cool-jazz",
-  "pending": true
+  "display_title": "Cool Jazz",
+  "display_name": "Cool Jazz",
+  "parent_slug": "jazz",
+  "aliases": [
+    "cool jazz"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Cool jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cool_jazz",
+  "summary": "Cool jazz is a style and genre of modern jazz music inspired by bebop and big band that arose in the United States after World War II. It is characterized by relaxed tempos and a lighter tone than that used in the fast and complex bebop style. Cool jazz often employs formal arrangements and incorporates elements of classical music. Broadly, the genre refers to a number of post-war jazz styles employing a more subdued approach than that of contemporaneous jazz idioms. As Paul Tanner, Maurice Gerow, and David Megill suggest, \"the tonal sonorities of these conservative players could be compared to pastel colors, while the solos of [Dizzy] Gillespie and his followers could be compared to fiery red colors.\"",
+  "candidates": [
+    "COTA Jazz Festival",
+    "Collazzone",
+    "Cool James",
+    "Cool James and Black Teacher",
+    "Cool Japan",
+    "Cool Jazz and Coconuts",
+    "Cool jazz",
+    "Cool-jams",
+    "Cork Jazz Festival",
+    "Jan Daemen Cool"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cool jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Cool_jazz",
+    "retrieved_at": "2026-03-27T09:30:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Chet Baker (1929–1988).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Chet_Baker_(1929%E2%80%931988).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+    "width": 839,
+    "height": 1257,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Michiel_Hendryckx\" title=\"User:Michiel Hendryckx\"\u003eMichiel Hendryckx\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chet Baker (1929–1988).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chet_Baker_(1929%E2%80%931988).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+      "width": 839,
+      "height": 1257,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Michiel_Hendryckx\" title=\"User:Michiel Hendryckx\"\u003eMichiel Hendryckx\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dave Brubeck Quartet 1962.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Brubeck_Quartet_1962.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dave_Brubeck_Quartet_1962.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dave_Brubeck_Quartet_1962.jpg/960px-Dave_Brubeck_Quartet_1962.jpg",
+      "width": 995,
+      "height": 659,
+      "license": "Public domain",
+      "author": "Associated Booking Corporation (management)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 20,
+    "unique_artist_count": 7,
+    "unique_release_count": 11,
+    "unique_track_count": 12,
+    "first_played_at": "2026-02-26T02:46:11.482Z",
+    "last_played_at": "2026-03-19T01:35:34.990Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "miles-davis",
+      "name": "Miles Davis",
+      "play_count": 13,
+      "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    {
+      "canonical_slug": "duke-ellington",
+      "name": "Duke Ellington",
+      "play_count": 2,
+      "spotify_artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+      "spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+    },
+    {
+      "canonical_slug": "bill-evans",
+      "name": "Bill Evans",
+      "play_count": 1,
+      "spotify_artist_id": "4jXfFzeP66Zy67HM2mvIIF",
+      "spotify_url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+    },
+    {
+      "canonical_slug": "gil-evans",
+      "name": "Gil Evans",
+      "play_count": 1,
+      "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+      "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+    },
+    {
+      "canonical_slug": "john-coltrane",
+      "name": "John Coltrane",
+      "play_count": 1,
+      "spotify_artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+      "spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    {
+      "canonical_slug": "miles-davis-quintet",
+      "name": "Miles Davis Quintet",
+      "play_count": 1,
+      "spotify_artist_id": "71Ur25Abq58vksqJINpGdx",
+      "spotify_url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+    },
+    {
+      "canonical_slug": "the-dave-brubeck-quartet",
+      "name": "The Dave Brubeck Quartet",
+      "play_count": 1,
+      "spotify_artist_id": "4iRZAbYvBqnxrbs6K25aJ7",
+      "spotify_url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "miles-davis--in-a-silent-way",
+      "name": "In A Silent Way",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "miles-davis-quintet--blue-moods",
+      "name": "Blue Moods",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis-quintet",
+      "primary_artist_name": "Miles Davis Quintet"
+    },
+    {
+      "canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "name": "Duke Ellington \u0026 John Coltrane",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington"
+    },
+    {
+      "canonical_slug": "miles-davis--get-up-with-it",
+      "name": "Get Up With It",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "john-coltrane--giant-steps-mono",
+      "name": "Giant Steps (Mono)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-coltrane",
+      "primary_artist_name": "John Coltrane"
+    },
+    {
+      "canonical_slug": "the-dave-brubeck-quartet--jazz-impressions-of-japan",
+      "name": "Jazz Impressions Of Japan",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-dave-brubeck-quartet",
+      "primary_artist_name": "The Dave Brubeck Quartet"
+    },
+    {
+      "canonical_slug": "duke-ellington--money-jungle",
+      "name": "Money Jungle",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington"
+    },
+    {
+      "canonical_slug": "gil-evans--sketches-of-spain",
+      "name": "Sketches of Spain",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "gil-evans",
+      "primary_artist_name": "Gil Evans"
+    },
+    {
+      "canonical_slug": "miles-davis--someday-my-prince-will-come",
+      "name": "Someday My Prince Will Come",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "miles-davis--volume-2-vol-2",
+      "name": "Volume 2 (Vol. 2)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "miles-davis--in-a-silent-way",
+      "name": "In a Silent Way",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--in-a-silent-way",
+      "release_name": "In A Silent Way",
+      "spotify_track_id": "54a3lHJAwce1dOKrsDPEHv",
+      "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
+    },
+    {
+      "canonical_slug": "miles-davis--shhh-peaceful",
+      "name": "Shhh / Peaceful",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--in-a-silent-way",
+      "release_name": "In A Silent Way",
+      "spotify_track_id": "267lVml7gJ9xefwgO6E2Ag",
+      "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
+    },
+    {
+      "canonical_slug": "miles-davis--drad-dog-feat-hank-mobley-wynton-kelly-paul-chambers-and-jimmy-cobb",
+      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--someday-my-prince-will-come",
+      "release_name": "Someday My Prince Will Come",
+      "spotify_track_id": "6uvcEIzqz9mhRcEhrsODgf",
+      "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
+    },
+    {
+      "canonical_slug": "duke-ellington--fleurette-africaine-african-flower-remastered",
+      "name": "Fleurette Africaine (African Flower) - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--money-jungle",
+      "release_name": "Money Jungle",
+      "spotify_track_id": "4Keh41jYFaVPP5C82DxmTG",
+      "spotify_url": "https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG"
+    },
+    {
+      "canonical_slug": "bill-evans--gary-s-theme-remastered-2003",
+      "name": "Gary's Theme - Remastered 2003",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "bill-evans",
+      "primary_artist_name": "Bill Evans",
+      "release_canonical_slug": "bill-evans--you-must-believe-in-spring-remastered-version",
+      "release_name": "You Must Believe In Spring (Remastered Version)",
+      "spotify_track_id": "3f9KhpRN6mMYoVnpuozgHD",
+      "spotify_url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
+    },
+    {
+      "canonical_slug": "miles-davis--i-waited-for-you-remastered-1998",
+      "name": "I Waited For You - Remastered 1998",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--volume-2-vol-2",
+      "release_name": "Volume 2 (Vol. 2)",
+      "spotify_track_id": "5h7ww9vWMlfYJ2cPhmt9pz",
+      "spotify_url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "canonical_slug": "john-coltrane--naima-mono",
+      "name": "Naima - Mono",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "john-coltrane",
+      "primary_artist_name": "John Coltrane",
+      "release_canonical_slug": "john-coltrane--giant-steps-mono",
+      "release_name": "Giant Steps (Mono)",
+      "spotify_track_id": "5cAwEKmadsW4nCYe9QUvgU",
+      "spotify_url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
+    },
+    {
+      "canonical_slug": "miles-davis-quintet--nature-boy",
+      "name": "Nature Boy",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis-quintet",
+      "primary_artist_name": "Miles Davis Quintet",
+      "release_canonical_slug": "miles-davis-quintet--blue-moods",
+      "release_name": "Blue Moods",
+      "spotify_track_id": "2tYCyhnQ3EYIK0YlsGExMa",
+      "spotify_url": "https://open.spotify.com/track/2tYCyhnQ3EYIK0YlsGExMa"
+    },
+    {
+      "canonical_slug": "miles-davis--red-china-blues",
+      "name": "Red China Blues",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--get-up-with-it",
+      "release_name": "Get Up With It",
+      "spotify_track_id": "0AEXHSEdAohlHhYIt6tcUf",
+      "spotify_url": "https://open.spotify.com/track/0AEXHSEdAohlHhYIt6tcUf"
+    },
+    {
+      "canonical_slug": "duke-ellington--stevie",
+      "name": "Stevie",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6Ylpg33fqhQfJrXLwSxnzh",
+      "spotify_url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--cool-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Cool_jazz",
+      "retrieved_at": "2026-03-27T09:30:20Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--cool-jazz.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Chet_Baker_(1929%E2%80%931988).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:35:34.990Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

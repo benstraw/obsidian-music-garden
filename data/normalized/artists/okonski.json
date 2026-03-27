@@ -1,5 +1,19 @@
 {
   "source": "spotify",
   "source_artist_id": "0UyhOIzQ8yAuLmVlEw1Lo5",
-  "name": "Okonski"
+  "name": "Okonski",
+  "spotify_url": "https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5",
+  "status": "ambiguous",
+  "candidates": [
+    "Amy Okonkwo",
+    "Arthur Okonkwo",
+    "Chiké Okonkwo",
+    "Ime Okon",
+    "Kenneth Okonkwo",
+    "Mirosław Okoński",
+    "Okonoko, West Virginia",
+    "Okonokos",
+    "Okonomiyaki",
+    "Zbigniew Okoński"
+  ]
 }

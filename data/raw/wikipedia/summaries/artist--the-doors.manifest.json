@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/The%20Doors",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/The%20Doors",
+  "cache_key": "summaries/artist--the-doors",
+  "fetched_at": "2026-03-27T09:28:13Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

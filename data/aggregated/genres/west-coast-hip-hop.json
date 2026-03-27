@@ -1,4 +1,352 @@
 {
   "canonical_slug": "west-coast-hip-hop",
-  "pending": true
+  "display_title": "West Coast Hip-Hop",
+  "display_name": "West Coast Hip-Hop",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "west coast hip hop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "West Coast hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+  "summary": "West Coast hip-hop is a regional genre of hip-hop music that encompasses any artists or music that originated in the West Coast of the United States. West Coast hip-hop began to dominate from a radio play and sales standpoint during the early to-mid 1990s with the birth of G-funk and the emergence of record labels such as Suge Knight and Dr. Dre's Death Row Records, Ice Cube's Lench Mob Records, the continued success of Eazy-E's Ruthless Records, Dr. Dre's Aftermath Entertainment, and many others. Though the term \"West Coast hip hop\" may also be used to describe Northwest hip-hop and other movements from the Western U.S., it is primarily associated with the state of California, especially Los Angeles and the San Francisco Bay Area.",
+  "candidates": [
+    "West Coast hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "West Coast hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+    "retrieved_at": "2026-03-27T09:32:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dr. Dre.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+    "width": 400,
+    "height": 594,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ed Kavishe"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dr. Dre.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Dre.jpg",
+      "width": 400,
+      "height": 594,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Ed Kavishe"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eazy E headshot.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eazy_E_headshot.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg",
+      "width": 164,
+      "height": 213,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Edward Reyes (see \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39141866@N04\"\u003ehere\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kendrick Lamar @ Grosse Freiheit 36, Hamburg (9498448120) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kendrick_Lamar_@_Grosse_Freiheit_36,_Hamburg_(9498448120)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kendrick_Lamar_%40_Grosse_Freiheit_36%2C_Hamburg_%289498448120%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kendrick_Lamar_%40_Grosse_Freiheit_36%2C_Hamburg_%289498448120%29_%28cropped%29.jpg/960px-Kendrick_Lamar_%40_Grosse_Freiheit_36%2C_Hamburg_%289498448120%29_%28cropped%29.jpg",
+      "width": 1302,
+      "height": 1855,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "hds"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MC Hammer 2010 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MC_Hammer_2010_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MC_Hammer_2010_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MC_Hammer_2010_%28cropped%29.jpg",
+      "width": 365,
+      "height": 548,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23294020@N03\"\u003ePhilip Nelson\u003c/a\u003e from San Antonio, TX, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Snoop Dogg 2019 by Glenn Francis.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg/960px-Snoop_Dogg_2019_by_Glenn_Francis.jpg",
+      "width": 2858,
+      "height": 4286,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\"\u003eToglenn\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 33,
+    "unique_artist_count": 4,
+    "unique_release_count": 12,
+    "unique_track_count": 25,
+    "first_played_at": "2026-03-03T10:43:31.248Z",
+    "last_played_at": "2026-03-19T02:37:24.397Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "kendrick-lamar",
+      "name": "Kendrick Lamar",
+      "play_count": 17,
+      "spotify_artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "canonical_slug": "cypress-hill",
+      "name": "Cypress Hill",
+      "play_count": 10,
+      "spotify_artist_id": "4P0dddbxPil35MNN9G2MEX",
+      "spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+    },
+    {
+      "canonical_slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "play_count": 4,
+      "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+      "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+    },
+    {
+      "canonical_slug": "dr-dre",
+      "name": "Dr. Dre",
+      "play_count": 2,
+      "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "cypress-hill--black-sunday",
+      "name": "Black Sunday",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--damn",
+      "name": "DAMN.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--section-80",
+      "name": "Section.80",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar"
+    },
+    {
+      "canonical_slug": "cypress-hill--cypress-hill",
+      "name": "Cypress Hill",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggystyle",
+      "name": "Doggystyle",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
+      "name": "To Pimp A Butterfly",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--good-kid-m-a-a-d-city-deluxe",
+      "name": "good kid, m.A.A.d city (Deluxe)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar"
+    },
+    {
+      "canonical_slug": "dr-dre--2001",
+      "name": "2001",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre"
+    },
+    {
+      "canonical_slug": "snoop-dogg--doggumentary",
+      "name": "Doggumentary",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--gnx",
+      "name": "GNX",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "cypress-hill--when-the-shit-goes-down",
+      "name": "When the Shit Goes Down",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "release_canonical_slug": "cypress-hill--black-sunday",
+      "release_name": "Black Sunday",
+      "spotify_track_id": "7aAZOl8GHF6ge391oY0Kmy",
+      "spotify_url": "https://open.spotify.com/track/7aAZOl8GHF6ge391oY0Kmy"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--keisha-s-song-her-pain-feat-ashtro-bot",
+      "name": "Keisha's Song (Her Pain) (feat. Ashtro Bot)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--section-80",
+      "release_name": "Section.80",
+      "spotify_track_id": "7AaET28qSzlkFBcySHh4ES",
+      "spotify_url": "https://open.spotify.com/track/7AaET28qSzlkFBcySHh4ES"
+    },
+    {
+      "canonical_slug": "cypress-hill--how-i-could-just-kill-a-man",
+      "name": "How I Could Just Kill a Man",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "release_canonical_slug": "cypress-hill--cypress-hill",
+      "release_name": "Cypress Hill",
+      "spotify_track_id": "6l4wMAXzI8RxIysQMYZY0w",
+      "spotify_url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
+    },
+    {
+      "canonical_slug": "snoop-dogg--tha-shiznit",
+      "name": "Tha Shiznit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "2DhL7DtMmxmqrCUB2NAlLm",
+      "spotify_url": "https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--alright",
+      "name": "Alright",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
+      "release_name": "To Pimp A Butterfly",
+      "spotify_track_id": "3iVcZ5G6tvkXZkZKlMpIUs",
+      "spotify_url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--feel",
+      "name": "FEEL.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--damn",
+      "release_name": "DAMN.",
+      "spotify_track_id": "2LTlO3NuNVN70lp2ZbVswF",
+      "spotify_url": "https://open.spotify.com/track/2LTlO3NuNVN70lp2ZbVswF"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--god",
+      "name": "GOD.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--damn",
+      "release_name": "DAMN.",
+      "spotify_track_id": "5p3NP9mQblDsVJLdfNZJ3I",
+      "spotify_url": "https://open.spotify.com/track/5p3NP9mQblDsVJLdfNZJ3I"
+    },
+    {
+      "canonical_slug": "snoop-dogg--gin-and-juice",
+      "name": "Gin and Juice",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--doggystyle",
+      "release_name": "Doggystyle",
+      "spotify_track_id": "39QBkWKnap8wRSW4WB9OK0",
+      "spotify_url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
+    },
+    {
+      "canonical_slug": "cypress-hill--hand-on-the-pump",
+      "name": "Hand On the Pump",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "release_canonical_slug": "cypress-hill--cypress-hill",
+      "release_name": "Cypress Hill",
+      "spotify_track_id": "1TeVeYATRojNVCH7q1APiv",
+      "spotify_url": "https://open.spotify.com/track/1TeVeYATRojNVCH7q1APiv"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--hiiipower",
+      "name": "HiiiPower",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--section-80",
+      "release_name": "Section.80",
+      "spotify_track_id": "4WEuEfFiczWxblHyuucSBL",
+      "spotify_url": "https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--west-coast-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+      "retrieved_at": "2026-03-27T09:32:17Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--west-coast-hip-hop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Dr._Dre.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:37:24.397Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

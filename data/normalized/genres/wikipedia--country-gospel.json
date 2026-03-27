@@ -1,0 +1,19 @@
+{
+  "source": "wikipedia",
+  "source_genre": "country gospel",
+  "canonical_genre_slug": "country-gospel",
+  "status": "matched",
+  "page_title": "Christian country music",
+  "summary": "Christian country music is music that is written to express either personal or a communal belief regarding Christian life, as well as to give a Christian alternative to mainstream secular music. Christian country music is a form of Christian music, and a subgenre of both Gospel music and Country music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Christian_country_music",
+  "candidates": [
+    "Country gospel",
+    "Country Gospel (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Christian country music",
+    "page_url": "https://en.wikipedia.org/wiki/Christian_country_music",
+    "retrieved_at": "2026-03-27T09:30:23Z"
+  }
+}

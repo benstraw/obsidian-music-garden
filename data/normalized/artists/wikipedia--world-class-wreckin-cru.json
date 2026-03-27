@@ -1,0 +1,39 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "world-class-wreckin-cru",
+  "name": "World Class Wreckin' Cru",
+  "status": "matched",
+  "page_title": "World Class Wreckin' Cru",
+  "summary": "World Class Wreckin' Cru was an American electro group, during the 1980s in the Los Angeles area, that contributed to rap's development. Two of its members, Dr. Dre and DJ Yella, attained greater fame as members of N.W.A, which pioneered gangsta rap. A song by the Cru had also featured R\u0026B singer Michel'le.",
+  "canonical_url": "https://en.wikipedia.org/wiki/World_Class_Wreckin'_Cru",
+  "candidates": [
+    "World Class Wreckin' Cru"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "World Class Wreckin' Cru",
+    "page_url": "https://en.wikipedia.org/wiki/World_Class_Wreckin'_Cru",
+    "retrieved_at": "2026-03-27T09:28:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:World Class Wreckin' Cru.jpeg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:World Class Wreckin' Cru.jpeg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yella - Slice (Album cover).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yella_-_Slice_(Album_cover).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Yella_-_Slice_%28Album_cover%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Yella_-_Slice_%28Album_cover%29.jpg",
+      "width": 799,
+      "height": 778,
+      "license": "Public domain",
+      "author": "\u003cp\u003eKru-Cut Records \u003cbr\u003e\n\u003c/p\u003e\nDarryl Davis (Cover artist)"
+    }
+  ]
+}

@@ -2,6 +2,12 @@
   "canonical_slug": "trio-mocoto",
   "name": "Trio Mocoto",
   "spotify_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
+  "spotify_url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP",
+  "genres": [
+    "bossa-nova",
+    "jazz",
+    "samba"
+  ],
   "source_genres": [
     "bossa nova",
     "brazilian jazz",
@@ -24,5 +30,10 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Trio Mocotó",
+    "Trio Rococo"
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -1,4 +1,133 @@
 {
   "canonical_slug": "underground-hip-hop",
-  "pending": true
+  "display_title": "Underground Hip-Hop",
+  "display_name": "Underground Hip-Hop",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "underground hip hop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Underground hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Underground_hip-hop",
+  "summary": "Underground hip-hop is a scene and style of hip-hop music that is defined as being countercultural in nature, existing outside of and in contrast to the sounds, style and aesthetics of mainstream hip-hop. Despite this, underground artists have often reached widespread success and popularity through internet virality, critical acclaim, or appearances on the Billboard charts.",
+  "candidates": [
+    "Underground hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Underground hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Underground_hip-hop",
+    "retrieved_at": "2026-03-27T09:32:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Lil B Nuemos 2012.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_B_Nuemos_2012.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+    "width": 800,
+    "height": 600,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51590834@N05\"\u003etaffy dale\u003c/a\u003e from Seattle, Washington"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil B Nuemos 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_B_Nuemos_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51590834@N05\"\u003etaffy dale\u003c/a\u003e from Seattle, Washington"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MF Doom (2011 portrait illustration from tour poster).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MF_Doom_(2011_portrait_illustration_from_tour_poster).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg/960px-MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg",
+      "width": 1317,
+      "height": 1974,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Illustrator uncredited. Published by \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thearches/\"\u003eTheArches\u003c/a\u003e."
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-13T19:15:55.675Z",
+    "last_played_at": "2026-03-13T19:15:55.675Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "people-under-the-stairs",
+      "name": "People Under The Stairs",
+      "play_count": 1,
+      "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+      "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "people-under-the-stairs--o-s-t",
+      "name": "O.S.T.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under The Stairs"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "people-under-the-stairs--acid-raindrops",
+      "name": "Acid Raindrops",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under The Stairs",
+      "release_canonical_slug": "people-under-the-stairs--o-s-t",
+      "release_name": "O.S.T.",
+      "spotify_track_id": "5vh9GfhmvKwEGN7uCwtGwp",
+      "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--underground-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Underground_hip-hop",
+      "retrieved_at": "2026-03-27T09:32:16Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--underground-hip-hop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Lil_B_Nuemos_2012.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-13T19:15:55.675Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

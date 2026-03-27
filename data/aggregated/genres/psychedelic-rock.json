@@ -1,4 +1,376 @@
 {
   "canonical_slug": "psychedelic-rock",
-  "pending": true
+  "display_title": "Psychedelic Rock",
+  "display_name": "Psychedelic Rock",
+  "parent_slug": "rock",
+  "aliases": [
+    "psychedelic rock"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Psychedelic rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Psychedelic_rock",
+  "summary": "Psychedelic rock is a subgenre of rock music that originally emerged during the mid-1960s, inspired by psychedelic culture and primarily centered around the influence of psychoactive and hallucinogenic drugs. The music incorporated new electronic sound effects and recording techniques, extended instrumental solos, and improvisation. Many psychedelic groups differ in style, with the label often applied spuriously.",
+  "candidates": [
+    "Psychedelic folk",
+    "Psychedelic rock",
+    "Psychedelic rock gecko",
+    "Psychedelic rock in Australia and New Zealand",
+    "Psychedelic rock in Latin America",
+    "The Psychedelic Folk Virgins"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Psychedelic rock",
+    "page_url": "https://en.wikipedia.org/wiki/Psychedelic_rock",
+    "retrieved_at": "2026-03-27T09:31:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1967 Mantra-Rock Dance Avalon poster.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/960px-1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+    "width": 1772,
+    "height": 2935,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Harvey W. Cohen"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1967 Mantra-Rock Dance Avalon poster.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1967_Mantra-Rock_Dance_Avalon_poster.jpg/960px-1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "width": 1772,
+      "height": 2935,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Harvey W. Cohen"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Byrds - Eight Miles High.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flowerpowerportfolio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flowerpowerportfolio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "width": 698,
+      "height": 361,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rightleftright\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rightleftright (page does not exist)\"\u003eRightleftright\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guitar 1.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guitar_1.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Guitar_1.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Guitar_1.svg/960px-Guitar_1.svg.png",
+      "width": 709,
+      "height": 886,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/maxim2\"\u003emaxim2\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 46,
+    "unique_artist_count": 8,
+    "unique_release_count": 21,
+    "unique_track_count": 39,
+    "first_played_at": "2026-02-13T01:44:42.669Z",
+    "last_played_at": "2026-03-25T18:02:01.875Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "pink-floyd",
+      "name": "Pink Floyd",
+      "play_count": 12,
+      "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "canonical_slug": "funkadelic",
+      "name": "Funkadelic",
+      "play_count": 10,
+      "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+      "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    },
+    {
+      "canonical_slug": "the-beatles",
+      "name": "The Beatles",
+      "play_count": 10,
+      "spotify_artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+      "spotify_url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "canonical_slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "play_count": 4,
+      "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+      "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+    },
+    {
+      "canonical_slug": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "play_count": 3,
+      "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    {
+      "canonical_slug": "the-doors",
+      "name": "The Doors",
+      "play_count": 3,
+      "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+      "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    },
+    {
+      "canonical_slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "play_count": 2,
+      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "name": "A Saucerful of Secrets",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "funkadelic--maggot-brain",
+      "name": "Maggot Brain",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic"
+    },
+    {
+      "canonical_slug": "the-beatles--rubber-soul-remastered-2009",
+      "name": "Rubber Soul (Remastered 2009)",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles"
+    },
+    {
+      "canonical_slug": "pink-floyd--meddle",
+      "name": "Meddle",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "name": "Axis: Bold As Love",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix"
+    },
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN"
+    },
+    {
+      "canonical_slug": "frank-zappa--hot-rats",
+      "name": "Hot Rats",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa"
+    },
+    {
+      "canonical_slug": "the-beatles--revolver-remastered",
+      "name": "Revolver (Remastered)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles"
+    },
+    {
+      "canonical_slug": "the-doors--the-soft-parade",
+      "name": "The Soft Parade",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors"
+    },
+    {
+      "canonical_slug": "the-beatles--abbey-road-remastered",
+      "name": "Abbey Road (Remastered)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-beatles--michelle-remastered-2009",
+      "name": "Michelle - Remastered 2009",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles",
+      "release_canonical_slug": "the-beatles--rubber-soul-remastered-2009",
+      "release_name": "Rubber Soul (Remastered 2009)",
+      "spotify_track_id": "5By7Pzgl6TMuVJG168VWzS",
+      "spotify_url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
+    },
+    {
+      "canonical_slug": "pink-floyd--fearless",
+      "name": "Fearless",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
+      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
+      "canonical_slug": "frank-zappa--peaches-en-regalia",
+      "name": "Peaches En Regalia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa",
+      "release_canonical_slug": "frank-zappa--hot-rats",
+      "release_name": "Hot Rats",
+      "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
+      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+    },
+    {
+      "canonical_slug": "the-doors--the-soft-parade",
+      "name": "The Soft Parade",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors",
+      "release_canonical_slug": "the-doors--the-soft-parade",
+      "release_name": "The Soft Parade",
+      "spotify_track_id": "0YMzPd9mYx4txOuCnhYUGU",
+      "spotify_url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+    },
+    {
+      "canonical_slug": "can--vitamin-c-2004-remastered-version",
+      "name": "Vitamin C - 2004 Remastered Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
+      "release_name": "Ege Bamyasi (Remastered Version)",
+      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
+      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+    },
+    {
+      "canonical_slug": "the-beatles--you-won-t-see-me-remastered-2009",
+      "name": "You Won't See Me - Remastered 2009",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-beatles",
+      "primary_artist_name": "The Beatles",
+      "release_canonical_slug": "the-beatles--rubber-soul-remastered-2009",
+      "release_name": "Rubber Soul (Remastered 2009)",
+      "spotify_track_id": "4LLBKnNCrSRrSjSTuiwjE9",
+      "spotify_url": "https://open.spotify.com/track/4LLBKnNCrSRrSjSTuiwjE9"
+    },
+    {
+      "canonical_slug": "pink-floyd--a-pillow-of-winds",
+      "name": "A Pillow of Winds",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
+      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+    },
+    {
+      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "name": "A Saucerful of Secrets",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
+      "release_name": "A Saucerful of Secrets",
+      "spotify_track_id": "0OtkNB4TnTzrlid4zipYDV",
+      "spotify_url": "https://open.spotify.com/track/0OtkNB4TnTzrlid4zipYDV"
+    },
+    {
+      "canonical_slug": "the-doors--alabama-song-whisky-bar",
+      "name": "Alabama Song (Whisky Bar)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-doors",
+      "primary_artist_name": "The Doors",
+      "release_canonical_slug": "the-doors--the-doors",
+      "release_name": "The Doors",
+      "spotify_track_id": "0JNZGIavoUrdup1NsgJOQs",
+      "spotify_url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
+    },
+    {
+      "canonical_slug": "funkadelic--back-in-our-minds",
+      "name": "Back In Our Minds",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "25XlPV3Khx2RVhwCBC6HNe",
+      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--psychedelic-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Psychedelic_rock",
+      "retrieved_at": "2026-03-27T09:31:42Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--psychedelic-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:1967_Mantra-Rock_Dance_Avalon_poster.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-25T18:02:01.875Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

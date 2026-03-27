@@ -1,0 +1,27 @@
+{
+  "source": "wikipedia",
+  "source_genre": "dense",
+  "canonical_genre_slug": "dense",
+  "status": "matched",
+  "page_title": "Density",
+  "summary": "Density is the ratio of a substance's mass to its volume. The symbol most often used for density is ρ, although the Latin letter D can also be used: \n\nwhere ρ is the density, m is the mass, and V is the volume. In some cases, density is loosely defined as its weight per unit volume, although this is scientifically inaccurate – this quantity is more specifically called specific weight.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Density",
+  "candidates": [
+    "Dense",
+    "Dense plasma focus",
+    "Dense granule",
+    "Dense breast tissue",
+    "Dense set",
+    "Densely packed decimal",
+    "Densetsu no Starfy (video game)",
+    "Dense subgraph",
+    "Dense graph",
+    "Densey Clyne"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Density",
+    "page_url": "https://en.wikipedia.org/wiki/Density",
+    "retrieved_at": "2026-03-27T09:30:30Z"
+  }
+}

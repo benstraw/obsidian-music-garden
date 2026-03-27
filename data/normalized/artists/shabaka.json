@@ -2,9 +2,105 @@
   "source": "spotify",
   "source_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
   "name": "Shabaka",
+  "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js",
   "source_genres": [
     "ambient jazz",
     "experimental jazz",
     "indie jazz"
+  ],
+  "canonical_genre_slugs": [
+    "ambient-jazz",
+    "experimental-jazz",
+    "indie-jazz"
+  ],
+  "status": "matched",
+  "page_title": "Shabaka",
+  "summary": "Neferkare Shabaka, or Shabako was the third Kushite pharaoh of the Twenty-fifth Dynasty of Egypt, who reigned from 705 to 690 BC. The Greek sources call him Sabakōn (Σαβακῶν) or, more likely, given current understanding of the order of kings and the stated reign-lengths, Sebikhōs (Σεβιχὼς). He ruled from the city of Napata, located deep in Nubia, modern-day Sudan. His burial at el-Kurru.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Shabaka",
+  "candidates": [
+    "Betty Shabazz",
+    "Sha Bakar Dawood",
+    "Shabab Al Ahli Club",
+    "Shabaka",
+    "Shabaka (domain name)",
+    "Shabaka (window)",
+    "Shabaka Hutchings",
+    "Shabaka Stone",
+    "Shabana Azmi",
+    "Shabbat"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Shabaka",
+    "page_url": "https://en.wikipedia.org/wiki/Shabaka",
+    "retrieved_at": "2026-03-27T09:27:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Abydos-Bold-hieroglyph-S12.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Abydos-Bold-hieroglyph-S12.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Abydos-Bold-hieroglyph-S12.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Abydos-Bold-hieroglyph-S12.png",
+    "width": 95,
+    "height": 58,
+    "license": "Public domain",
+    "author": "George Douros"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Abydos-Bold-hieroglyph-S12.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Abydos-Bold-hieroglyph-S12.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Abydos-Bold-hieroglyph-S12.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Abydos-Bold-hieroglyph-S12.png",
+      "width": 95,
+      "height": 58,
+      "license": "Public domain",
+      "author": "George Douros"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cartouche au nom du pharaon Chabaka (Ägyptisches Museum Berlin AM 31235).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cartouche_au_nom_du_pharaon_Chabaka_(%C3%84gyptisches_Museum_Berlin_AM_31235).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cartouche_au_nom_du_pharaon_Chabaka_%28%C3%84gyptisches_Museum_Berlin_AM_31235%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cartouche_au_nom_du_pharaon_Chabaka_%28%C3%84gyptisches_Museum_Berlin_AM_31235%29.jpg/960px-Cartouche_au_nom_du_pharaon_Chabaka_%28%C3%84gyptisches_Museum_Berlin_AM_31235%29.jpg",
+      "width": 1581,
+      "height": 2896,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Tangopaso\" title=\"User:Tangopaso\"\u003eTangopaso\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Donation Stela of Shabaqo MET 55.144.6 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Donation_Stela_of_Shabaqo_MET_55.144.6_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Donation_Stela_of_Shabaqo_MET_55.144.6_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Donation_Stela_of_Shabaqo_MET_55.144.6_01.jpg/960px-Donation_Stela_of_Shabaqo_MET_55.144.6_01.jpg",
+      "width": 1429,
+      "height": 2000,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hiero Ca1.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hiero_Ca1.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hiero_Ca1.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hiero_Ca1.svg/960px-Hiero_Ca1.svg.png",
+      "width": 17,
+      "height": 50,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bryan_Derksen\" title=\"User:Bryan Derksen\"\u003eBryan Derksen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hiero Ca2.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hiero_Ca2.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Hiero_Ca2.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hiero_Ca2.svg/960px-Hiero_Ca2.svg.png",
+      "width": 21,
+      "height": 50,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bryan_Derksen\" title=\"User:Bryan Derksen\"\u003eBryan Derksen\u003c/a\u003e"
+    }
   ]
 }

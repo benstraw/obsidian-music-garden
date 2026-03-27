@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Ambient%20pop",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Ambient%20pop",
+  "cache_key": "summaries/ambient-pop",
+  "fetched_at": "2026-03-27T09:29:48Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

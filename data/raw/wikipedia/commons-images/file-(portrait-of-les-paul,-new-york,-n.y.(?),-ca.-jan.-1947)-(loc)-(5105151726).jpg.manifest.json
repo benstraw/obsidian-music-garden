@@ -1,0 +1,6 @@
+{
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3A%28Portrait+of+Les+Paul%2C+New+York%2C+N.Y.%28%3F%29%2C+ca.+Jan.+1947%29+%28LOC%29+%285105151726%29.jpg",
+  "fetched_at": "2026-03-27T09:30:45Z",
+  "content_type": "application/json; charset=utf-8"
+}

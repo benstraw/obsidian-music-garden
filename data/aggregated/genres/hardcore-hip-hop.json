@@ -1,4 +1,257 @@
 {
   "canonical_slug": "hardcore-hip-hop",
-  "pending": true
+  "display_title": "Hardcore Hip-Hop",
+  "display_name": "Hardcore Hip-Hop",
+  "parent_slug": "hip-hop",
+  "aliases": [
+    "hardcore hip hop"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Hardcore hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hardcore_hip-hop",
+  "summary": "Hardcore hip-hop is a subgenre of hip-hop that developed through the East Coast hip-hop scene in the 1980s. Pioneered by such artists as Run-DMC, Schoolly D, Boogie Down Productions and Public Enemy, it is generally characterized by anger, aggression and confrontation.",
+  "candidates": [
+    "Hardcore hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hardcore hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Hardcore_hip-hop",
+    "retrieved_at": "2026-03-27T09:30:58Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 22,
+    "unique_artist_count": 4,
+    "unique_release_count": 8,
+    "unique_track_count": 16,
+    "first_played_at": "2026-02-26T03:29:41.387Z",
+    "last_played_at": "2026-03-19T02:03:24.391Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "wu-tang-clan",
+      "name": "Wu-Tang Clan",
+      "play_count": 13,
+      "spotify_artist_id": "34EP7KEpOjXcM2TCat1ISk",
+      "spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "canonical_slug": "public-enemy",
+      "name": "Public Enemy",
+      "play_count": 4,
+      "spotify_artist_id": "6Mo9PoU6svvhgEum7wh2Nd",
+      "spotify_url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+    },
+    {
+      "canonical_slug": "raekwon",
+      "name": "Raekwon",
+      "play_count": 4,
+      "spotify_artist_id": "2yQf6b8hxahZaT5dHlWaB1",
+      "spotify_url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+    },
+    {
+      "canonical_slug": "big-l",
+      "name": "Big L",
+      "play_count": 1,
+      "spotify_artist_id": "30fiiwr2EeZp1tAhzYCmyM",
+      "spotify_url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "raekwon--only-built-4-cuban-linx",
+      "name": "Only Built 4 Cuban Linx...",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "raekwon",
+      "primary_artist_name": "Raekwon"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--chamber-music",
+      "name": "Chamber Music",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
+      "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--wu-tang-forever",
+      "name": "Wu-Tang Forever",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan"
+    },
+    {
+      "canonical_slug": "public-enemy--fear-of-a-black-planet",
+      "name": "Fear Of A Black Planet",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy"
+    },
+    {
+      "canonical_slug": "public-enemy--he-got-game-original-motion-picture-soundtrack",
+      "name": "He Got Game (Original Motion Picture Soundtrack)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy"
+    },
+    {
+      "canonical_slug": "big-l--lifestylez-ov-da-poor-and-dangerous",
+      "name": "Lifestylez Ov Da Poor \u0026 Dangerous",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "big-l",
+      "primary_artist_name": "Big L"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "raekwon--knuckleheadz-feat-ghostface-killah-and-u-god",
+      "name": "Knuckleheadz (feat. Ghostface Killah \u0026 U-God)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "raekwon",
+      "primary_artist_name": "Raekwon",
+      "release_canonical_slug": "raekwon--only-built-4-cuban-linx",
+      "release_name": "Only Built 4 Cuban Linx...",
+      "spotify_track_id": "6f9gbZYbAqHq2rK1ZjZruf",
+      "spotify_url": "https://open.spotify.com/track/6f9gbZYbAqHq2rK1ZjZruf"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--c-r-e-a-m-cash-rules-everything-around-me",
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "119c93MHjrDLJTApCVGpvx",
+      "spotify_url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--protect-ya-neck",
+      "name": "Protect Ya Neck",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "1Sgj10byiGzPpI2IrXSFEn",
+      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--shame-on-a-nigga",
+      "name": "Shame On a Nigga",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "7IwURvEfVcdxUCjLKUu6sv",
+      "spotify_url": "https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--sound-the-horns",
+      "name": "Sound The Horns",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--chamber-music",
+      "release_name": "Chamber Music",
+      "spotify_track_id": "234QpD9ilHoJjnhCVd2fOW",
+      "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--bring-da-ruckus",
+      "name": "Bring Da Ruckus",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "1v5cgIyffYtfEx0swttdoE",
+      "spotify_url": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE"
+    },
+    {
+      "canonical_slug": "public-enemy--bring-the-noise",
+      "name": "Bring The Noise",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "release_canonical_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
+      "release_name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+      "spotify_track_id": "5BiuxSuxOZ9CcQ6SqICsDv",
+      "spotify_url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--da-mystery-of-chessboxin",
+      "name": "Da Mystery of Chessboxin'",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "4xOTVtbCPcfxMs2hSt9D6i",
+      "spotify_url": "https://open.spotify.com/track/4xOTVtbCPcfxMs2hSt9D6i"
+    },
+    {
+      "canonical_slug": "public-enemy--he-got-game",
+      "name": "He Got Game",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "release_canonical_slug": "public-enemy--he-got-game-original-motion-picture-soundtrack",
+      "release_name": "He Got Game (Original Motion Picture Soundtrack)",
+      "spotify_track_id": "48zajk3g8P3BMT7F9BbDoD",
+      "spotify_url": "https://open.spotify.com/track/48zajk3g8P3BMT7F9BbDoD"
+    },
+    {
+      "canonical_slug": "raekwon--ice-cream-feat-ghostface-killah-method-man-and-cappadonna",
+      "name": "Ice Cream (feat. Ghostface Killah, Method Man \u0026 Cappadonna)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "raekwon",
+      "primary_artist_name": "Raekwon",
+      "release_canonical_slug": "raekwon--only-built-4-cuban-linx",
+      "release_name": "Only Built 4 Cuban Linx...",
+      "spotify_track_id": "6SI4JD7iyQ0rrudhCNtMv0",
+      "spotify_url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--hardcore-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Hardcore_hip-hop",
+      "retrieved_at": "2026-03-27T09:30:58Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T02:03:24.391Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

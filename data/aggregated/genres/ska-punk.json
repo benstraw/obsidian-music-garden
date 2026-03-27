@@ -1,4 +1,266 @@
 {
   "canonical_slug": "ska-punk",
-  "pending": true
+  "display_title": "Ska Punk",
+  "display_name": "Ska Punk",
+  "parent_slug": "ska",
+  "aliases": [
+    "ska punk"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Ska punk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ska_punk",
+  "summary": "Ska punk is a fusion genre that mixes ska with punk rock. Ska punk tends to feature brass instruments, especially horns such as trumpets, trombones and woodwind instruments like saxophones, making the genre distinct from other forms of punk rock. It is closely tied to third wave ska, which reached its zenith in the mid-1990s.",
+  "candidates": [
+    "List of skate punk bands",
+    "Michael Skapinker",
+    "SKA Saint Petersburg",
+    "SLC Punk!",
+    "Seapunk",
+    "Ska punk",
+    "Skafunkrastapunk",
+    "Skanpuk",
+    "Skate punk",
+    "Skatune Network"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ska punk",
+    "page_url": "https://en.wikipedia.org/wiki/Ska_punk",
+    "retrieved_at": "2026-03-27T09:32:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:NoDoubtAtWorcester.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:NoDoubtAtWorcester.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NoDoubtAtWorcester.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NoDoubtAtWorcester.jpg/960px-NoDoubtAtWorcester.jpg",
+    "width": 3000,
+    "height": 2000,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/miss_c/\"\u003eCatherine Dugas\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NoDoubtAtWorcester.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NoDoubtAtWorcester.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/NoDoubtAtWorcester.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/NoDoubtAtWorcester.jpg/960px-NoDoubtAtWorcester.jpg",
+      "width": 3000,
+      "height": 2000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/miss_c/\"\u003eCatherine Dugas\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Opivy2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Opivy2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg",
+      "width": 400,
+      "height": 234,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Acid_maniac\" class=\"extiw\" title=\"wikipedia:User:Acid maniac\"\u003eAcid maniac\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Mighty Mighty Bosstones in concert.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Mighty_Mighty_Bosstones_in_concert.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Mighty_Mighty_Bosstones_in_concert.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Mighty_Mighty_Bosstones_in_concert.jpg/960px-The_Mighty_Mighty_Bosstones_in_concert.jpg",
+      "width": 3550,
+      "height": 2362,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thisisbossi/\"\u003ethisisbossi\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 22,
+    "unique_artist_count": 1,
+    "unique_release_count": 3,
+    "unique_track_count": 18,
+    "first_played_at": "2026-03-03T01:21:14.093Z",
+    "last_played_at": "2026-03-19T01:47:54.056Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "sublime",
+      "name": "Sublime",
+      "play_count": 22,
+      "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+      "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "sublime--sublime",
+      "name": "Sublime",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    },
+    {
+      "canonical_slug": "sublime--everything-under-the-sun",
+      "name": "Everything Under The Sun",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "sublime--right-back",
+      "name": "Right Back",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "6BukIakKj13FZWCugXCCda",
+      "spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda"
+    },
+    {
+      "canonical_slug": "sublime--d-j-s",
+      "name": "D.J.'s",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
+      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
+    },
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0vtJ9Dq53hfXE3KyP1yPni",
+      "spotify_url": "https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"
+    },
+    {
+      "canonical_slug": "sublime--badfish",
+      "name": "Badfish",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2fXLhLA7cPYEmQ1NbeAtBD",
+      "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
+    },
+    {
+      "canonical_slug": "sublime--don-t-push",
+      "name": "Don't Push",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "4FlWVsDRnYa28oJSAApL4t",
+      "spotify_url": "https://open.spotify.com/track/4FlWVsDRnYa28oJSAApL4t"
+    },
+    {
+      "canonical_slug": "sublime--ebin",
+      "name": "Ebin",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "1CHuPmcfltngwCIztkX4wv",
+      "spotify_url": "https://open.spotify.com/track/1CHuPmcfltngwCIztkX4wv"
+    },
+    {
+      "canonical_slug": "sublime--let-s-go-get-stoned",
+      "name": "Let's Go Get Stoned",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2qN7J3rwekpYjskmtOT6Ex",
+      "spotify_url": "https://open.spotify.com/track/2qN7J3rwekpYjskmtOT6Ex"
+    },
+    {
+      "canonical_slug": "sublime--live-at-e-s",
+      "name": "Live At E's",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2wNa2VUe6VY8JLBAMaxmLc",
+      "spotify_url": "https://open.spotify.com/track/2wNa2VUe6VY8JLBAMaxmLc"
+    },
+    {
+      "canonical_slug": "sublime--rivers-of-babylon",
+      "name": "Rivers Of Babylon",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "59FK9uQYzunUJOLky9K4yK",
+      "spotify_url": "https://open.spotify.com/track/59FK9uQYzunUJOLky9K4yK"
+    },
+    {
+      "canonical_slug": "sublime--roots-of-creation-demo",
+      "name": "Roots Of Creation - Demo",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--everything-under-the-sun",
+      "release_name": "Everything Under The Sun",
+      "spotify_track_id": "385maNWgHJ675jVKHFbobw",
+      "spotify_url": "https://open.spotify.com/track/385maNWgHJ675jVKHFbobw"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ska-punk.json",
+      "url": "https://en.wikipedia.org/wiki/Ska_punk",
+      "retrieved_at": "2026-03-27T09:32:02Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--ska-punk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:NoDoubtAtWorcester.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:47:54.056Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

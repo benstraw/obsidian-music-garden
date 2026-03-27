@@ -2,6 +2,12 @@
   "canonical_slug": "sublime",
   "name": "Sublime",
   "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+  "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
+  "genres": [
+    "reggae",
+    "ska",
+    "ska-punk"
+  ],
   "source_genres": [
     "reggae rock",
     "ska",
@@ -24,5 +30,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Sublime",
+    "Sublime (album)",
+    "Sublime (band)",
+    "Sublime (literary)",
+    "Sublime (philosophy)",
+    "Sublime Frequencies",
+    "Sublime Porte",
+    "Sublime Text",
+    "Sublime discography",
+    "Sublime with Rome"
+  ],
+  "last_updated": "2026-03-27"
 }

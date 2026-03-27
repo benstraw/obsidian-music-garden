@@ -1,0 +1,9 @@
+{
+  "source": "musicbrainz",
+  "endpoint": "/artist/e40728b2-181e-45fc-a19a-c24e998b1d1f",
+  "request_url": "https://musicbrainz.org/ws/2/artist/e40728b2-181e-45fc-a19a-c24e998b1d1f?fmt=json\u0026inc=genres%2Btags",
+  "cache_key": "artists/e40728b2-181e-45fc-a19a-c24e998b1d1f",
+  "fetched_at": "2026-03-27T09:34:06Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

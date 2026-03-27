@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3ABusta+Rhymes+%2852380599657%29+%28cropped%29.jpg",
+  "cache_key": "commons-images/artist--busta-rhymes--file-busta-rhymes-52380599657-cropped-jpg",
+  "fetched_at": "2026-03-27T09:25:45Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

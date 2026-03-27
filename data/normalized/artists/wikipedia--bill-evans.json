@@ -1,0 +1,97 @@
+{
+  "source": "wikipedia",
+  "source_artist_id": "bill-evans",
+  "name": "Bill Evans",
+  "status": "matched",
+  "page_title": "Bill Evans",
+  "summary": "William John Evans was an American jazz pianist and composer who worked primarily as the leader of his trio. His extensive use of impressionist harmony, block chords, innovative chord voicings, and trademark rhythmically independent \"singing\" melodic lines continue to influence jazz pianists today.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bill_Evans",
+  "candidates": [
+    "Bill Evans",
+    "Bill Evans (bluegrass)",
+    "Bill Evans (saxophonist)",
+    "Bill Evans discography",
+    "Bill Evans (dancer)",
+    "Bill Evans (meteorologist)",
+    "Bill Evans at Town Hall",
+    "Bill Evans Award",
+    "Bill Evans (basketball coach)",
+    "Bill Evans Trio with Symphony Orchestra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bill Evans",
+    "page_url": "https://en.wikipedia.org/wiki/Bill_Evans",
+    "retrieved_at": "2026-03-27T09:24:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bill-Evans-1964.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill-Evans-1964.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bill-Evans-1964.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bill-Evans-1964.jpg",
+    "width": 540,
+    "height": 524,
+    "license": "Public domain",
+    "author": "Seppo Heinonen / Lehtikuva"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill-Evans-1964.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill-Evans-1964.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bill-Evans-1964.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bill-Evans-1964.jpg",
+      "width": 540,
+      "height": 524,
+      "license": "Public domain",
+      "author": "Seppo Heinonen / Lehtikuva"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Evans's \"What Is This Thing Called Love\" Viennese trichord.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Evans%27s_%22What_Is_This_Thing_Called_Love%22_Viennese_trichord.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bill_Evans%27s_%22What_Is_This_Thing_Called_Love%22_Viennese_trichord.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eUser:Hyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Evans's \"What Is This Thing Called Love\" Viennese trichord.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Evans%27s_%22What_Is_This_Thing_Called_Love%22_Viennese_trichord.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bill_Evans%27s_%22What_Is_This_Thing_Called_Love%22_Viennese_trichord.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bill_Evans%27s_%22What_Is_This_Thing_Called_Love%22_Viennese_trichord.png",
+      "width": 588,
+      "height": 507,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eUser:Hyacinth\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"en:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Evans's tombstone.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Evans%27s_tombstone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bill_Evans%27s_tombstone.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bill_Evans%27s_tombstone.jpg",
+      "width": 845,
+      "height": 401,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fauban\" title=\"User:Fauban\"\u003eFauban\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Evans.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Evans.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bill_Evans.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bill_Evans.jpg",
+      "width": 504,
+      "height": 567,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    }
+  ]
+}

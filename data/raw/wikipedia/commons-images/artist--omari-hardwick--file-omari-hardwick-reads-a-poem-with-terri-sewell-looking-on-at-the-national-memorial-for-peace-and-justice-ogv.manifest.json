@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/api.php",
+  "request_url": "https://commons.wikimedia.org/w/api.php?action=query\u0026format=json\u0026iiprop=url%7Cextmetadata%7Cdimensions\u0026iiurlwidth=640\u0026prop=imageinfo\u0026titles=File%3AOmari+Hardwick+reads+a+poem+with+Terri+Sewell+looking+on+at+the+National+Memorial+for+Peace+and+Justice.ogv",
+  "cache_key": "commons-images/artist--omari-hardwick--file-omari-hardwick-reads-a-poem-with-terri-sewell-looking-on-at-the-national-memorial-for-peace-and-justice-ogv",
+  "fetched_at": "2026-03-27T09:27:30Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

@@ -2,10 +2,76 @@
   "source": "spotify",
   "source_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
   "name": "David Allan Coe",
+  "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6",
   "source_genres": [
     "classic country",
     "country",
     "honky tonk",
     "outlaw country"
+  ],
+  "canonical_genre_slugs": [
+    "country",
+    "honky-tonk",
+    "outlaw-country"
+  ],
+  "status": "matched",
+  "page_title": "David Allan Coe",
+  "summary": "David Allan Coe is an American singer and songwriter. Coe took up music after spending much of his early life in reform schools and prisons, and first became notable for busking in Nashville. He initially played mostly in the blues style, before transitioning to country music, becoming a major part of the 1970s outlaw country scene. His biggest hits include \"You Never Even Called Me by My Name\", \"Longhaired Redneck\", \"The Ride\", \"Mona Lisa Lost Her Smile\", and \"She Used to Love Me a Lot\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/David_Allan_Coe",
+  "candidates": [
+    "David Allan Bednar",
+    "David Allan Cates",
+    "David Allan Coe",
+    "David Allan Coe Tattoo Album",
+    "David Allan Coe discography",
+    "David Allan Evans",
+    "David Allan Robertson",
+    "David Allan Stewart",
+    "David Allan Young",
+    "David Allen Green"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "David Allan Coe",
+    "page_url": "https://en.wikipedia.org/wiki/David_Allan_Coe",
+    "retrieved_at": "2026-03-27T09:26:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:David Allan Coe.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Allan_Coe.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/David_Allan_Coe.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/David_Allan_Coe.jpg/960px-David_Allan_Coe.jpg",
+    "width": 2341,
+    "height": 2927,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/93331813@N00\"\u003eMatthew Woitunski\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Allan Coe.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Allan_Coe.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/David_Allan_Coe.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/David_Allan_Coe.jpg/960px-David_Allan_Coe.jpg",
+      "width": 2341,
+      "height": 2927,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/93331813@N00\"\u003eMatthew Woitunski\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Allan Coe (5454565631).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Allan_Coe_(5454565631).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/David_Allan_Coe_%285454565631%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/David_Allan_Coe_%285454565631%29.jpg/960px-David_Allan_Coe_%285454565631%29.jpg",
+      "width": 2951,
+      "height": 2361,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93331813@N00\"\u003eMatthew Woitunski\u003c/a\u003e from Amesbury, MA, USA"
+    }
   ]
 }

@@ -2,6 +2,7 @@
   "canonical_slug": "songs-of-disappearance",
   "name": "Songs of Disappearance",
   "spotify_artist_id": "3fmjIu8f1q5tzSxycTsi33",
+  "spotify_url": "https://open.spotify.com/artist/3fmjIu8f1q5tzSxycTsi33",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab67616d0000b273b6468146ac875d16f3df40a7",
@@ -19,5 +20,45 @@
       "width": 64
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Songs of Disappearance",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Songs_of_Disappearance",
+  "summary": "Songs of Disappearance is a series of albums by Bowerbird Collective.",
+  "candidates": [
+    "Songs of Disappearance",
+    "Songs of Disappearance: Australian Bird Calls"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Songs of Disappearance",
+    "page_url": "https://en.wikipedia.org/wiki/Songs_of_Disappearance",
+    "retrieved_at": "2026-03-27T09:27:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-dev-cdrom-audio.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-dev-cdrom-audio.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gnome-dev-cdrom-audio.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/960px-Gnome-dev-cdrom-audio.svg.png",
+    "width": 64,
+    "height": 64,
+    "license": "LGPL",
+    "license_url": "http://www.gnu.org/licenses/lgpl.html",
+    "author": "David Vignoni"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-dev-cdrom-audio.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-dev-cdrom-audio.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gnome-dev-cdrom-audio.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gnome-dev-cdrom-audio.svg/960px-Gnome-dev-cdrom-audio.svg.png",
+      "width": 64,
+      "height": 64,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "David Vignoni"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

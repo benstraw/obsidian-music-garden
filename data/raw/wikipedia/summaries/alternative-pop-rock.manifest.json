@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Alternative%20Pop%2FRock",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Alternative%20Pop%2FRock",
+  "cache_key": "summaries/alternative-pop-rock",
+  "fetched_at": "2026-03-27T09:29:43Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

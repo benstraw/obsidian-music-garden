@@ -2,6 +2,7 @@
   "canonical_slug": "lil-wayne",
   "name": "Lil Wayne",
   "spotify_artist_id": "55Aa2cqylxrFIXC767Z865",
+  "spotify_url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865",
   "genres": [
     "hip-hop",
     "rap"
@@ -27,5 +28,97 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "matched",
+  "wikipedia_title": "Lil Wayne",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lil_Wayne",
+  "summary": "Dwayne Michael Carter Jr., known professionally as Lil Wayne, is an American rapper, singer and record producer. He is often regarded as one of the most influential hip-hop artists of his generation, as well as one of the greatest rappers of all time. Born and raised in New Orleans, he was discovered by hometown rapper Birdman in 1993 and signed with his record label, Cash Money Records, at age eleven. He emerged as the label's flagship artist until his departure in 2018.",
+  "candidates": [
+    "Dwayne Li",
+    "Lil Wayne",
+    "Lil Wayne (song)",
+    "Lil Wayne albums discography",
+    "Lil Wayne singles discography",
+    "Lil Wayne videography",
+    "Lil Wyte",
+    "Lil Zane",
+    "Lil wayne she will",
+    "Lil' Kanye West"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lil Wayne",
+    "page_url": "https://en.wikipedia.org/wiki/Lil_Wayne",
+    "retrieved_at": "2026-03-27T09:26:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of the United States.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+    "width": 1235,
+    "height": 650,
+    "license": "Public domain",
+    "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the United States.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+      "width": 1235,
+      "height": 650,
+      "license": "Public domain",
+      "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LIL' WAYNE.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LIL%27_WAYNE.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/LIL%27_WAYNE.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/LIL%27_WAYNE.jpg/960px-LIL%27_WAYNE.jpg",
+      "width": 2800,
+      "height": 1874,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/8083635@N03\"\u003eVincent \u0026amp; Bella Productions\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil Skies Fillmore Auditorium 05.01.19 (47708563412).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_Skies_Fillmore_Auditorium_05.01.19_(47708563412).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lil_Skies_Fillmore_Auditorium_05.01.19_%2847708563412%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lil_Skies_Fillmore_Auditorium_05.01.19_%2847708563412%29.jpg/960px-Lil_Skies_Fillmore_Auditorium_05.01.19_%2847708563412%29.jpg",
+      "width": 1280,
+      "height": 1920,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7806965@N07\"\u003eJulio Enriquez\u003c/a\u003e from Denver,CO, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil Wayne.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_Wayne.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lil_Wayne.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lil_Wayne.jpg/960px-Lil_Wayne.jpg",
+      "width": 5728,
+      "height": 3828,
+      "license": "Public domain",
+      "author": "RJ"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

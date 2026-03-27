@@ -1,0 +1,76 @@
+{
+  "source": "wikipedia",
+  "source_genre": "pop rock",
+  "canonical_genre_slug": "pop-rock",
+  "status": "matched",
+  "page_title": "Pop rock",
+  "summary": "Pop rock is rock music with greater emphasis on conventional songwriting and recording craft, and less emphasis on attitude than standard rock music. Originating in the late 1950s as an alternative to normal rock and roll, early pop rock was influenced by the beat, arrangements, and original style of rock and roll. It is categorized both as a distinct music genre and as continuous categories of pop and rock. The detractors of pop rock often deride it as a slick, commercial product and less authentic than rock music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Pop_rock",
+  "candidates": [
+    "Pop rock",
+    "Pop Rocks",
+    "Pop Rocks (film)",
+    "Pop Rock (horse)",
+    "Pop rock band",
+    "Pop Rocks (EP)",
+    "Pop Rock (Brooke Candy song)",
+    "Pop rock (disambiguation)",
+    "Poproč, Košice-okolie District",
+    "PopRocks"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pop rock",
+    "page_url": "https://en.wikipedia.org/wiki/Pop_rock",
+    "retrieved_at": "2026-03-27T09:31:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Panic at the Disco (Hurricane 2008).JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Panic_at_the_Disco_(Hurricane_2008).JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Panic_at_the_Disco_%28Hurricane_2008%29.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panic_at_the_Disco_%28Hurricane_2008%29.JPG/960px-Panic_at_the_Disco_%28Hurricane_2008%29.JPG",
+    "width": 1600,
+    "height": 1200,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Tetris_L\" title=\"User:Tetris L\"\u003eTetris L\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Panic at the Disco (Hurricane 2008).JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Panic_at_the_Disco_(Hurricane_2008).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Panic_at_the_Disco_%28Hurricane_2008%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panic_at_the_Disco_%28Hurricane_2008%29.JPG/960px-Panic_at_the_Disco_%28Hurricane_2008%29.JPG",
+      "width": 1600,
+      "height": 1200,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Tetris_L\" title=\"User:Tetris L\"\u003eTetris L\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Paul McCartney with Linda McCartney - Wings - 1976.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg/960px-Paul_McCartney_with_Linda_McCartney_-_Wings_-_1976.jpg",
+      "width": 2968,
+      "height": 2000,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.jimsummariaphoto.com/\"\u003eJim Summaria\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Monkees 1966.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Monkees_1966.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Monkees_1966.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Monkees_1966.JPG/960px-The_Monkees_1966.JPG",
+      "width": 1450,
+      "height": 1919,
+      "license": "Public domain",
+      "author": "NBC Television.  The photo was also used to answer fan mail during the height of their popularity.  The card had no copyright marks either."
+    }
+  ]
+}

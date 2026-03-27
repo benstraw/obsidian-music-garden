@@ -1,4 +1,259 @@
 {
   "canonical_slug": "jazz-fusion",
-  "pending": true
+  "display_title": "Jazz Fusion",
+  "display_name": "Jazz Fusion",
+  "parent_slug": "jazz",
+  "aliases": [
+    "jazz fusion"
+  ],
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Jazz fusion",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+  "summary": "Jazz fusion is a popular music genre that developed in the late 1960s when musicians combined jazz harmony and improvisation with rock music, funk, and rhythm and blues. Electric guitars and basses, amplifiers, and keyboard instruments that were popular in rock began to be used by jazz musicians, particularly those who had grown up listening to rock and roll.",
+  "candidates": [
+    "Jazz fusion",
+    "Jazzhus Montmartre",
+    "Jazzvisions"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz fusion",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+    "retrieved_at": "2026-03-27T09:31:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox current red Asia Australia.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+    "width": 360,
+    "height": 290,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Asia Australia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JohnMcLaughlin.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JohnMcLaughlin.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/JohnMcLaughlin.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/JohnMcLaughlin.jpg",
+      "width": 320,
+      "height": 405,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sduraybito\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sduraybito (page does not exist)\"\u003eSduraybito\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Larry Coryell 1979.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Larry_Coryell_1979.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Larry_Coryell_1979.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Larry_Coryell_1979.jpg",
+      "width": 420,
+      "height": 635,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Miles Davis 24.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Miles_Davis_24.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Miles_Davis_24.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Miles_Davis_24.jpg/960px-Miles_Davis_24.jpg",
+      "width": 1614,
+      "height": 1187,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Oliver Nurock @ \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/ohjaygee/\"\u003eohjaygee\u003c/a\u003e Johannesburg/ Cape Town, South Africa"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 15,
+    "unique_artist_count": 2,
+    "unique_release_count": 5,
+    "unique_track_count": 6,
+    "first_played_at": "2026-02-26T02:46:11.482Z",
+    "last_played_at": "2026-03-19T01:35:34.990Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "miles-davis",
+      "name": "Miles Davis",
+      "play_count": 13,
+      "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    {
+      "canonical_slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "play_count": 2,
+      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "miles-davis--in-a-silent-way",
+      "name": "In A Silent Way",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "frank-zappa--hot-rats",
+      "name": "Hot Rats",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa"
+    },
+    {
+      "canonical_slug": "miles-davis--get-up-with-it",
+      "name": "Get Up With It",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "miles-davis--someday-my-prince-will-come",
+      "name": "Someday My Prince Will Come",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    },
+    {
+      "canonical_slug": "miles-davis--volume-2-vol-2",
+      "name": "Volume 2 (Vol. 2)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "miles-davis--in-a-silent-way",
+      "name": "In a Silent Way",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--in-a-silent-way",
+      "release_name": "In A Silent Way",
+      "spotify_track_id": "54a3lHJAwce1dOKrsDPEHv",
+      "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
+    },
+    {
+      "canonical_slug": "miles-davis--shhh-peaceful",
+      "name": "Shhh / Peaceful",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--in-a-silent-way",
+      "release_name": "In A Silent Way",
+      "spotify_track_id": "267lVml7gJ9xefwgO6E2Ag",
+      "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
+    },
+    {
+      "canonical_slug": "frank-zappa--peaches-en-regalia",
+      "name": "Peaches En Regalia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa",
+      "release_canonical_slug": "frank-zappa--hot-rats",
+      "release_name": "Hot Rats",
+      "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
+      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+    },
+    {
+      "canonical_slug": "miles-davis--drad-dog-feat-hank-mobley-wynton-kelly-paul-chambers-and-jimmy-cobb",
+      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--someday-my-prince-will-come",
+      "release_name": "Someday My Prince Will Come",
+      "spotify_track_id": "6uvcEIzqz9mhRcEhrsODgf",
+      "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
+    },
+    {
+      "canonical_slug": "miles-davis--i-waited-for-you-remastered-1998",
+      "name": "I Waited For You - Remastered 1998",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--volume-2-vol-2",
+      "release_name": "Volume 2 (Vol. 2)",
+      "spotify_track_id": "5h7ww9vWMlfYJ2cPhmt9pz",
+      "spotify_url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "canonical_slug": "miles-davis--red-china-blues",
+      "name": "Red China Blues",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--get-up-with-it",
+      "release_name": "Get Up With It",
+      "spotify_track_id": "0AEXHSEdAohlHhYIt6tcUf",
+      "spotify_url": "https://open.spotify.com/track/0AEXHSEdAohlHhYIt6tcUf"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-fusion.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+      "retrieved_at": "2026-03-27T09:31:13Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-fusion.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-19T01:35:34.990Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

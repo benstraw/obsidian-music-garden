@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Roots%20reggae",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Roots%20reggae",
+  "cache_key": "summaries/roots-reggae",
+  "fetched_at": "2026-03-27T09:31:56Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

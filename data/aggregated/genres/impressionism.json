@@ -1,4 +1,129 @@
 {
   "canonical_slug": "impressionism",
-  "pending": true
+  "display_title": "Impressionism",
+  "display_name": "Impressionism",
+  "pending": true,
+  "status": "matched",
+  "wikipedia_title": "Impressionism",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Impressionism",
+  "summary": "Impressionism was a 19th-century art movement characterized by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities, ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience. Impressionism originated with a group of Paris-based artists whose independent exhibitions brought them to prominence during the 1870s and 1880s.",
+  "candidates": [
+    "Impression management",
+    "Impression, Sunrise",
+    "Impressionism",
+    "Impressionism (disambiguation)",
+    "Impressionism (literature)",
+    "Impressionism (play)",
+    "Impressionism in music",
+    "Impressionist (entertainment)",
+    "Impressions in Blood",
+    "The Impressions"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Impressionism",
+    "page_url": "https://en.wikipedia.org/wiki/Impressionism",
+    "retrieved_at": "2026-03-27T09:31:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Un Bar aux Folies-Bergère\" by Édouard Manet (1882).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg/960px-%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg",
+    "width": 12580,
+    "height": 9236,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:%C3%89douard_Manet\" class=\"extiw\" title=\"w:en:Édouard Manet\"\u003e\u003cspan title=\"French painter (1832–1883)\"\u003eÉdouard Manet\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Un Bar aux Folies-Bergère\" by Édouard Manet (1882).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg/960px-%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg",
+      "width": 12580,
+      "height": 9236,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:%C3%89douard_Manet\" class=\"extiw\" title=\"w:en:Édouard Manet\"\u003e\u003cspan title=\"French painter (1832–1883)\"\u003eÉdouard Manet\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A Sunday on La Grande Jatte, Georges Seurat, 1884.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/960px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png",
+      "width": 2990,
+      "height": 2009,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Georges_Seurat\" class=\"extiw\" title=\"w:en:Georges Seurat\"\u003e\u003cspan title=\"French painter (1859-1891)\"\u003eGeorges Seurat\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alfred Sisley 001.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alfred_Sisley_001.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Alfred_Sisley_001.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alfred_Sisley_001.jpg/960px-Alfred_Sisley_001.jpg",
+      "width": 2536,
+      "height": 1889,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Alfred_Sisley\" class=\"extiw\" title=\"w:en:Alfred Sisley\"\u003e\u003cspan title=\"French, British painter (1839–1899)\"\u003eAlfred Sisley\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arthur Streeton - Golden summer, Eaglemont - Google Art Project.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arthur_Streeton_-_Golden_summer,_Eaglemont_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Arthur_Streeton_-_Golden_summer%2C_Eaglemont_-_Google_Art_Project.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Arthur_Streeton_-_Golden_summer%2C_Eaglemont_-_Google_Art_Project.jpg/960px-Arthur_Streeton_-_Golden_summer%2C_Eaglemont_-_Google_Art_Project.jpg",
+      "width": 5077,
+      "height": 2659,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Arthur_Streeton\" class=\"extiw\" title=\"w:en:Arthur Streeton\"\u003e\u003cspan title=\"Australian landscape impressionist (1867-1943)\"\u003eArthur Streeton\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bailarina Degas Washington.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bailarina_Degas_Washington.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bailarina_Degas_Washington.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bailarina_Degas_Washington.jpg/960px-Bailarina_Degas_Washington.jpg",
+      "width": 1420,
+      "height": 3233,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MiguelHermoso\" title=\"User:MiguelHermoso\"\u003eMiguel Hermoso Cuesta\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--impressionism.json",
+      "url": "https://en.wikipedia.org/wiki/Impressionism",
+      "retrieved_at": "2026-03-27T09:31:00Z",
+      "updated_at": "2026-03-27",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--impressionism.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

@@ -2,6 +2,7 @@
   "canonical_slug": "gayle",
   "name": "GAYLE",
   "spotify_artist_id": "2VSHKHBTiXWplO8lxcnUC9",
+  "spotify_url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9",
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb3f9b6ba687bc60385c7c34b5",
@@ -19,5 +20,18 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-18"
+  "status": "ambiguous",
+  "candidates": [
+    "Chris Gayle",
+    "Crystal Gayle",
+    "Dwight Gayle",
+    "Gayle (singer)",
+    "Gayle Benson",
+    "Gayle King",
+    "Gayle Rubin",
+    "Gaylen Hansen",
+    "Marcus Gayle",
+    "Michelle Gayle"
+  ],
+  "last_updated": "2026-03-27"
 }

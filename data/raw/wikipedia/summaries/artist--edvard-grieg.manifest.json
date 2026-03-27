@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/Edvard%20Grieg",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/Edvard%20Grieg",
+  "cache_key": "summaries/artist--edvard-grieg",
+  "fetched_at": "2026-03-27T09:26:08Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

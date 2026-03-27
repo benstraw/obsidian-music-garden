@@ -1,0 +1,97 @@
+{
+  "source": "wikipedia",
+  "source_genre": "bebop",
+  "canonical_genre_slug": "bebop",
+  "status": "matched",
+  "page_title": "Bebop",
+  "summary": "Bebop or bop is a style of jazz developed in the early to mid-1940s in the United States. It is characterized by a fast tempo, complex chord progressions—with rapid chord changes, changes of key, and substitute chords—along with virtuosic improvisation based on a combination of harmonic structure, scales, and occasional references to the melody.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bebop",
+  "candidates": [
+    "Bebop",
+    "Bebop and Rocksteady",
+    "Bebop scale",
+    "Bebop Lives!",
+    "Bebop Moptop",
+    "Bebop Revisited!",
+    "BeBopBeBopBeBopBeBop",
+    "Bebop (software)",
+    "Bebop Deluxe",
+    "Bebop \u0026 Beyond"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bebop",
+    "page_url": "https://en.wikipedia.org/wiki/Bebop",
+    "retrieved_at": "2026-03-27T09:29:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Bebop-rebop\" early bop phrase.mid",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.mid",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%22Bebop-rebop%22_early_bop_phrase.mid",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Bebop-rebop\" early bop phrase.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%22Bebop-rebop%22_early_bop_phrase.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Bebop-rebop\" early bop phrase.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Bebop-rebop%22_early_bop_phrase.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%22Bebop-rebop%22_early_bop_phrase.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%22Bebop-rebop%22_early_bop_phrase.png/960px-%22Bebop-rebop%22_early_bop_phrase.png",
+      "width": 1103,
+      "height": 225,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:52nd Street, New York, by Gottlieb, 1948.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:52nd_Street,_New_York,_by_Gottlieb,_1948.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/52nd_Street%2C_New_York%2C_by_Gottlieb%2C_1948.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/52nd_Street%2C_New_York%2C_by_Gottlieb%2C_1948.jpg/960px-52nd_Street%2C_New_York%2C_by_Gottlieb%2C_1948.jpg",
+      "width": 4391,
+      "height": 3307,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Parker, Tommy Potter, Miles Davis, Max Roach (Gottlieb 06941).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Max_Roach_(Gottlieb_06941).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Max_Roach_%28Gottlieb_06941%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Max_Roach_%28Gottlieb_06941%29.jpg",
+      "width": 912,
+      "height": 1256,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dizzy Gillespie at the Downbeat Club, ca 1947.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dizzy_Gillespie_at_the_Downbeat_Club,_ca_1947.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Dizzy_Gillespie_at_the_Downbeat_Club%2C_ca_1947.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dizzy_Gillespie_at_the_Downbeat_Club%2C_ca_1947.jpg/960px-Dizzy_Gillespie_at_the_Downbeat_Club%2C_ca_1947.jpg",
+      "width": 2081,
+      "height": 4893,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

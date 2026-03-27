@@ -1,0 +1,9 @@
+{
+  "source": "wikipedia",
+  "endpoint": "/page/summary/De%20La%20Soul",
+  "request_url": "https://en.wikipedia.org/api/rest_v1/page/summary/De%20La%20Soul",
+  "cache_key": "summaries/artist--de-la-soul",
+  "fetched_at": "2026-03-27T09:26:03Z",
+  "status": "fetched",
+  "content_type": "application/json"
+}

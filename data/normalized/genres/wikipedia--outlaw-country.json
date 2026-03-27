@@ -1,0 +1,48 @@
+{
+  "source": "wikipedia",
+  "source_genre": "outlaw country",
+  "canonical_genre_slug": "outlaw-country",
+  "status": "matched",
+  "page_title": "Outlaw country",
+  "summary": "Outlaw country is a subgenre of American country music created by a small group of artists active in the 1970s and early 1980s, known collectively as the outlaw movement, who fought for and won their creative freedom outside of the Nashville establishment that dictated the sound of most country music of the era. Johnny Cash, Willie Nelson, Waylon Jennings, Kris Kristofferson, David Allan Coe and Jerry Jeff Walker were among the movement's most commercially successful members.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Outlaw_country",
+  "candidates": [
+    "Outlaw country",
+    "Outlaw Country (SiriusXM)",
+    "Outlaw Country (2012 film)",
+    "Outlaw Country (1949 film)",
+    "Outlaw Country (Legends of Tomorrow)",
+    "Outlaw country (disambiguation)",
+    "Outlaw Country (disambiguation)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Outlaw country",
+    "page_url": "https://en.wikipedia.org/wiki/Outlaw_country",
+    "retrieved_at": "2026-03-27T09:31:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Kris Willie Waylon.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Kris_Willie_Waylon.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kris_Willie_Waylon.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kris_Willie_Waylon.jpg/960px-Kris_Willie_Waylon.jpg",
+    "width": 978,
+    "height": 669,
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Bozotexino\" class=\"extiw\" title=\"en:User:Bozotexino\"\u003eBozotexino\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kris Willie Waylon.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kris_Willie_Waylon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kris_Willie_Waylon.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kris_Willie_Waylon.jpg/960px-Kris_Willie_Waylon.jpg",
+      "width": 978,
+      "height": 669,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Bozotexino\" class=\"extiw\" title=\"en:User:Bozotexino\"\u003eBozotexino\u003c/a\u003e"
+    }
+  ]
+}

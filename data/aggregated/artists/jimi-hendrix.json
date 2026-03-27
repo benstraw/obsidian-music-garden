@@ -2,6 +2,13 @@
   "canonical_slug": "jimi-hendrix",
   "name": "Jimi Hendrix",
   "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+  "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4",
+  "genres": [
+    "acid-rock",
+    "blues-rock",
+    "classic-rock",
+    "psychedelic-rock"
+  ],
   "source_genres": [
     "acid rock",
     "blues rock",
@@ -25,5 +32,84 @@
       "width": 160
     }
   ],
-  "last_updated": "2026-03-26"
+  "status": "matched",
+  "wikipedia_title": "Jimi Hendrix",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+  "summary": "James Marshall \"Jimi\" Hendrix was an American guitarist, singer, and songwriter. He is widely regarded as one of the greatest and most influential guitarists of all time. He was inducted into the Rock and Roll Hall of Fame in 1992 as a part of his band, the Jimi Hendrix Experience; the institution describes him as \"arguably the greatest instrumentalist in the history of rock music\".",
+  "candidates": [
+    "Jimi Hendrix",
+    "Jimi Hendrix (film)",
+    "Jimi Hendrix Park",
+    "Jimi Hendrix discography",
+    "Jimi Hendrix posthumous discography",
+    "Jimi Hendrix videography",
+    "Jimi Hendrix's unfinished fourth studio album",
+    "Jimi Hendrix: An Illustrated Experience",
+    "The Jimi Hendrix Concerts",
+    "The Jimi Hendrix Experience (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jimi Hendrix",
+    "page_url": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+    "retrieved_at": "2026-03-27T09:26:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Bold as Love\" by the Jimi Hendrix Experience.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Bold as Love\" by the Jimi Hendrix Experience.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1968 King Vox Wah pedal.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1968_King_Vox_Wah_pedal.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1968_King_Vox_Wah_pedal.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1968_King_Vox_Wah_pedal.JPG",
+      "width": 769,
+      "height": 1659,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:GabeMc\" title=\"User:GabeMc\"\u003eGabeMc\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bertran Philander Ross Hendrix and Zenora \"Nora\" Rose Hendrix.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg",
+      "width": 344,
+      "height": 500,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Denis Bourez - Madame Tussauds, London (8747018021).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Denis_Bourez_-_Madame_Tussauds,_London_(8747018021).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Denis_Bourez_-_Madame_Tussauds%2C_London_%288747018021%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Denis_Bourez_-_Madame_Tussauds%2C_London_%288747018021%29.jpg/960px-Denis_Bourez_-_Madame_Tussauds%2C_London_%288747018021%29.jpg",
+      "width": 3456,
+      "height": 4608,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39281458@N05\"\u003eDenis Bourez\u003c/a\u003e from France"
+    }
+  ],
+  "last_updated": "2026-03-27"
 }

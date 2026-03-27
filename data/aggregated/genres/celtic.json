@@ -1,4 +1,90 @@
 {
   "canonical_slug": "celtic",
-  "pending": true
+  "display_title": "Celtic",
+  "display_name": "Celtic",
+  "parent_slug": "folk",
+  "aliases": [
+    "celtic"
+  ],
+  "pending": true,
+  "status": "ambiguous",
+  "candidates": [
+    "Celtic",
+    "Celtic Britons",
+    "Celtic Christianity",
+    "Celtic F.C.",
+    "Celtic Tiger",
+    "Celtic Woman",
+    "Celtic deities",
+    "Celtic languages",
+    "Celtic nations",
+    "Celtics–Lakers rivalry"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 2,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 2,
+    "first_played_at": "2026-03-03T13:43:23.794Z",
+    "last_played_at": "2026-03-03T14:37:31.400Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "the-royal-scots-dragoon-guards",
+      "name": "The Royal Scots Dragoon Guards",
+      "play_count": 2,
+      "spotify_artist_id": "4QtPvWkKXNZ5NJ4KRaKWql",
+      "spotify_url": "https://open.spotify.com/artist/4QtPvWkKXNZ5NJ4KRaKWql"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "the-royal-scots-dragoon-guards--auld-lang-syne",
+      "name": "Auld Lang Syne",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-royal-scots-dragoon-guards",
+      "primary_artist_name": "The Royal Scots Dragoon Guards"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-royal-scots-dragoon-guards--amazing-grace",
+      "name": "Amazing Grace",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-royal-scots-dragoon-guards",
+      "primary_artist_name": "The Royal Scots Dragoon Guards",
+      "release_canonical_slug": "the-royal-scots-dragoon-guards--auld-lang-syne",
+      "release_name": "Auld Lang Syne",
+      "spotify_track_id": "6I3NxBRBsqbJEJ3JmMYqvE",
+      "spotify_url": "https://open.spotify.com/track/6I3NxBRBsqbJEJ3JmMYqvE"
+    },
+    {
+      "canonical_slug": "the-royal-scots-dragoon-guards--colonel-robertson-massacre-of-glencoe",
+      "name": "Colonel Robertson (Massacre of Glencoe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-royal-scots-dragoon-guards",
+      "primary_artist_name": "The Royal Scots Dragoon Guards",
+      "release_canonical_slug": "the-royal-scots-dragoon-guards--auld-lang-syne",
+      "release_name": "Auld Lang Syne",
+      "spotify_track_id": "59J6cCRGdLxyKz4svtMJig",
+      "spotify_url": "https://open.spotify.com/track/59J6cCRGdLxyKz4svtMJig"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-03T14:37:31.400Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-27"
 }
