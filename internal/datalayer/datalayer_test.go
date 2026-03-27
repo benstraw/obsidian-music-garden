@@ -50,6 +50,12 @@ func TestWriteRawSpotifyRecentlyPlayed(t *testing.T) {
 func TestSyncAggregatedStore(t *testing.T) {
 	root := t.TempDir()
 	store := genres.NewStore()
+	genres.ApplyTaxonomy(store, &genres.Taxonomy{
+		Version: 1,
+		Genres: []genres.GenreDefinition{
+			{Slug: "indie-rock", DisplayName: "Indie Rock", Aliases: []string{"indie rock"}},
+		},
+	})
 	genres.Update(store, "artist1", "Artist One", "https://open.spotify.com/artist/artist1", []string{"indie rock"}, nil)
 	genres.ResolvePlay(store, models.Play{
 		TrackID:    "track1",

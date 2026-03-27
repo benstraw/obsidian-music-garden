@@ -11,7 +11,7 @@ internal/
   auth/auth.go                  OAuth2 flow, token save/load/refresh
   client/client.go              Authenticated HTTP GET, 429 retry/backoff
   fetch/fetch.go                Current source adapters: Spotify + setlist.fm → source-shaped model structs
-  genres/genres.go              Canonical artist/release store + genre alias normalization
+  genres/genres.go              Canonical artist/release store + taxonomy-backed genre resolution
   models/models.go              Play, TopTrack, TopArtist, Setlist, SetlistSet structs
   plays/plays.go                plays load/save/merge/dedup + sharded storage
   render/render.go              Weekly note, artist stubs, persona rendering
@@ -19,6 +19,7 @@ templates/
   persona.md.tmpl               Go template for Music Taste context pack
   weekly.md.tmpl                Structure reference (rendering is in Go code)
 data/
+  genre-taxonomy.json           Human-edited canonical genre definitions
   raw/
     spotify/                    Unchanged Spotify API snapshots (recently-played, artists, top-artists)
     musicbrainz/                Reserved for future raw MusicBrainz snapshots
@@ -35,7 +36,7 @@ data/
     genres/                     Canonical genre records, one file per slug
   plays/                        Sharded play history — YYYY/YYYY-WNN.json (git-committed via Actions)
   plays.json.bak                Legacy file renamed on first post-upgrade collect (can be deleted)
-  genres.json                   Canonical artist/release metadata + genre aliases + Spotify images
+  genres.json                   Canonical artist/release metadata + pending unknown labels + editorial enrichment
 ```
 
 ## Data Flow
@@ -60,6 +61,8 @@ main.runCollect()
   │       renames plays.json → plays.json.bak
   │
   ├─ genres.Load(genresPath)
+  ├─ genres.LoadTaxonomy(data/genre-taxonomy.json)
+  ├─ genres.ApplyTaxonomy(store, taxonomy)
   ├─ genres.ResolvePlay(store, play)
   │    └─ resolves canonical artist_slug + release_slug
   │       preserves Spotify IDs and reserves MusicBrainz fields for later resolution
@@ -71,7 +74,7 @@ main.runCollect()
   │    └─ routes each play to its ISO week file, merge+dedup per file
   │
   ├─ fetch.GetArtistsBatch(c, uncachedArtistIDs)
-  │    └─ normalizes source genres through the canonical alias table
+  │    └─ normalizes source genres through the curated taxonomy file
   │       stores canonical artist metadata, source genres, and Spotify profile images
   ├─ datalayer.WriteRawSpotifyArtists(...)
   │    └─ stores unchanged Spotify artist batch responses under data/raw/spotify/artists/
@@ -302,10 +305,10 @@ the full history.
 lookup, but downstream notes, caches, and future source integrations do not
 need Spotify to remain the canonical namespace.
 
-**Curated canonical genres** — Source genres are normalized through a repo-owned
-alias table. Unknown source genres are recorded for review rather than silently
-becoming new canonical genres. This prevents each upstream source from defining
-genre identity independently.
+**Curated canonical genres** — Source genres are normalized through the
+human-edited `data/genre-taxonomy.json` file. Unknown source genres are
+recorded for review rather than silently becoming new canonical genres. This
+prevents each upstream source from defining genre identity independently.
 
 **Weekly note rendered in Go, persona via template** — The weekly note has
 many conditional sections with complex formatting logic. Building it with

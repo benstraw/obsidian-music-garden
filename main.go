@@ -88,6 +88,8 @@ func main() {
 		runWikipediaEnrichGenre(args, paths)
 	case "wikipedia-enrich-artist":
 		runWikipediaEnrichArtist(args, paths)
+	case "genre-report":
+		runGenreReport(args, paths)
 	case "doctor":
 		os.Exit(runDoctor(paths))
 	case "version", "--version":
@@ -119,6 +121,7 @@ Usage:
   music-garden musicbrainz-enrich-album       Enrich one canonical release from a Spotify album seed
   music-garden wikipedia-enrich-genre         Enrich one canonical genre slug from Wikipedia/Wikimedia
   music-garden wikipedia-enrich-artist        Enrich one canonical artist slug from Wikipedia/Wikimedia
+  music-garden genre-report                   Report canonical genre mappings, unknown labels, and collisions
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
 
@@ -366,7 +369,12 @@ func loadGenreStore(paths runtimePaths) *genres.Store {
 	store, err := genres.Load(paths.genresPath)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: load metadata store: %v\n", err)
-		return genres.NewStore()
+		store = genres.NewStore()
+	}
+	if taxonomy, err := genres.LoadTaxonomy(defaultGenreTaxonomyPath(paths)); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: load genre taxonomy: %v\n", err)
+	} else {
+		genres.ApplyTaxonomy(store, taxonomy)
 	}
 	return store
 }
@@ -1336,6 +1344,14 @@ func defaultGenreMappingPath(paths runtimePaths) string {
 	return filepath.Join(paths.dataRoot, "genre-page-mapping.json")
 }
 
+func defaultGenreTaxonomyPath(paths runtimePaths) string {
+	cwdPath := filepath.Join(paths.cwd, "data", "genre-taxonomy.json")
+	if info, err := os.Stat(cwdPath); err == nil && !info.IsDir() {
+		return cwdPath
+	}
+	return filepath.Join(paths.dataRoot, "genre-taxonomy.json")
+}
+
 func defaultArtistMappingPath(paths runtimePaths) string {
 	cwdPath := filepath.Join(paths.cwd, "data", "artist-page-mapping.json")
 	if info, err := os.Stat(cwdPath); err == nil && !info.IsDir() {
@@ -1425,6 +1441,22 @@ func unresolvedStatus(candidates []mwclient.SearchResult) string {
 		return "not_found"
 	}
 	return "ambiguous"
+}
+
+func runGenreReport(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("genre-report", flag.ExitOnError)
+	taxonomyPath := fs.String("taxonomy", defaultGenreTaxonomyPath(paths), "canonical genre taxonomy path")
+	_ = fs.Parse(args)
+
+	taxonomy, err := genres.LoadTaxonomy(*taxonomyPath)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "genre taxonomy error:", err)
+		os.Exit(1)
+	}
+
+	store := loadGenreStore(paths)
+	report := genres.BuildGenreReport(taxonomy, store.PendingGenreAliases)
+	fmt.Print(report.ReportString())
 }
 
 func collectWikipediaImageCandidates(paths runtimePaths, client *mwclient.Client, pageTitle, stem string) []mwclient.ImageInfo {

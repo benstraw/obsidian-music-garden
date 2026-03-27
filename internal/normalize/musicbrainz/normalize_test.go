@@ -9,6 +9,10 @@ import (
 
 func TestNormalizeArtist_setsMusicBrainzIDAndGenres(t *testing.T) {
 	store := genres.NewStore()
+	genres.ApplyTaxonomy(store, &genres.Taxonomy{
+		Version: 1,
+		Genres:  []genres.GenreDefinition{{Slug: "ambient", DisplayName: "Ambient", Aliases: []string{"ambient"}}},
+	})
 
 	normalized, record := NormalizeArtist(store, ArtistSeed{
 		SpotifyArtistID: "spotify-artist-1",
@@ -35,6 +39,10 @@ func TestNormalizeArtist_setsMusicBrainzIDAndGenres(t *testing.T) {
 
 func TestNormalizeRelease_setsReleaseGroupAndGenres(t *testing.T) {
 	store := genres.NewStore()
+	genres.ApplyTaxonomy(store, &genres.Taxonomy{
+		Version: 1,
+		Genres:  []genres.GenreDefinition{{Slug: "electronic", DisplayName: "Electronic", Aliases: []string{"electronic"}}},
+	})
 
 	normalized, releaseRecord, artistRecord, genreRecords := NormalizeRelease(store, ReleaseSeed{
 		SpotifyAlbumID:       "spotify-album-1",

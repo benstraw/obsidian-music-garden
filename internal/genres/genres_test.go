@@ -9,6 +9,22 @@ import (
 	"github.com/benstraw/music-garden/internal/models"
 )
 
+func applyTestTaxonomy(store *Store) {
+	ApplyTaxonomy(store, &Taxonomy{
+		Version: 1,
+		Genres: []GenreDefinition{
+			{Slug: "alternative-rock", DisplayName: "Alternative Rock", Aliases: []string{"alternative rock"}},
+			{Slug: "art-rock", DisplayName: "Art Rock", Aliases: []string{"art rock"}},
+			{Slug: "ambient", DisplayName: "Ambient", Aliases: []string{"ambient"}},
+			{Slug: "electronic", DisplayName: "Electronic", Aliases: []string{"electronic"}},
+			{Slug: "rock", DisplayName: "Rock", Aliases: []string{"rock"}},
+			{Slug: "indie-rock", DisplayName: "Indie Rock", Aliases: []string{"indie rock"}},
+			{Slug: "pop", DisplayName: "Pop", Aliases: []string{"pop"}},
+			{Slug: "dance-pop", DisplayName: "Dance Pop", Aliases: []string{"dance pop"}},
+		},
+	})
+}
+
 func TestLoad_missingFile(t *testing.T) {
 	store, err := Load("/nonexistent/genres.json")
 	if err != nil {
@@ -33,6 +49,7 @@ func TestLoad_legacyMapMigratesToStore(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Load: %v", err)
 	}
+	applyTestTaxonomy(store)
 
 	slug := store.ArtistSourceIndex["spotify:abc123"]
 	record := store.Artists[slug]
@@ -49,6 +66,7 @@ func TestSaveLoad_roundtrip(t *testing.T) {
 	path := filepath.Join(dir, "genres.json")
 
 	store := NewStore()
+	applyTestTaxonomy(store)
 	Update(store, "abc123", "Radiohead", "https://open.spotify.com/artist/abc123", []string{"alternative rock", "art rock"}, nil)
 
 	if err := Save(path, store); err != nil {
@@ -80,6 +98,7 @@ func TestSave_indented(t *testing.T) {
 	path := filepath.Join(dir, "genres.json")
 
 	store := NewStore()
+	applyTestTaxonomy(store)
 	Update(store, "x", "Test", "", []string{"rock"}, nil)
 	if err := Save(path, store); err != nil {
 		t.Fatalf("Save: %v", err)
@@ -94,6 +113,7 @@ func TestSave_indented(t *testing.T) {
 
 func TestUpdate(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	record := Update(store, "id1", "Artist One", "https://open.spotify.com/artist/id1", []string{"pop", "dance pop"}, nil)
 
 	if record.Name != "Artist One" {
@@ -112,6 +132,7 @@ func TestUpdate(t *testing.T) {
 
 func TestResolvePlay_addsCanonicalIDs(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	play := ResolvePlay(store, models.Play{
 		Source:           "spotify",
 		TrackID:          "track1",
@@ -136,6 +157,7 @@ func TestResolvePlay_addsCanonicalIDs(t *testing.T) {
 
 func TestCanonicalizeTopArtist_tracksPendingGenres(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	artist := CanonicalizeTopArtist(store, models.TopArtist{
 		ID:     "a1",
 		Name:   "Artist A",
@@ -152,6 +174,7 @@ func TestCanonicalizeTopArtist_tracksPendingGenres(t *testing.T) {
 
 func TestUpdateImages_preservesGenresAndReplacesImages(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	Update(store, "id1", "Artist One", "", []string{"ambient", "electronic"}, []models.ArtistImage{{URL: "https://old", Height: 64, Width: 64}})
 
 	newImages := []models.ArtistImage{
@@ -171,6 +194,7 @@ func TestUpdateImages_preservesGenresAndReplacesImages(t *testing.T) {
 
 func TestMissingImagesArtistIDs(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	Update(store, "b", "Has images", "", nil, []models.ArtistImage{{URL: "https://img"}})
 	Update(store, "a", "Missing images", "", nil, nil)
 	Update(store, "c", "Also missing images", "", nil, []models.ArtistImage{})
@@ -186,6 +210,7 @@ func TestMissingImagesArtistIDs(t *testing.T) {
 
 func TestGenresForPlays(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	Update(store, "a1", "Artist A", "", []string{"rock", "indie rock"}, nil)
 	Update(store, "a2", "Artist B", "", []string{"pop"}, nil)
 	plays := []models.Play{
@@ -212,6 +237,7 @@ func TestGenresForPlays(t *testing.T) {
 
 func TestUncachedArtistIDs(t *testing.T) {
 	store := NewStore()
+	applyTestTaxonomy(store)
 	Update(store, "a1", "Cached", "", []string{"rock"}, nil)
 	plays := []models.Play{
 		{ArtistID: "a1", ArtistName: "Cached"},

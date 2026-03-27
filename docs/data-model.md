@@ -31,6 +31,8 @@ The garden owns:
 - `release_slug`
 - canonical genre slugs
 
+Canonical genre definitions are curated in `data/genre-taxonomy.json`.
+
 Source IDs are preserved for provenance and matching.
 
 ### 3. Source data and publication are separate concerns
@@ -48,6 +50,7 @@ Runtime data is organized under `data/`:
 
 ```text
 data/
+  genre-taxonomy.json
   raw/
     spotify/
       recently-played/
@@ -106,6 +109,7 @@ Examples:
 - Spotify `recently-played` snapshots
 - Spotify artist batch responses
 - Spotify top-artist responses
+- Wikipedia search and summary snapshots
 
 These files are source-shaped and should not be treated as stable internal
 schema.
@@ -127,6 +131,7 @@ Current examples:
 - normalized release record from Spotify
 - normalized track record from Spotify
 - normalized genre alias record for Spotify source genres
+- normalized editorial genre record from Wikipedia
 
 ### Aggregated
 

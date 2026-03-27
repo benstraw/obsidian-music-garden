@@ -252,6 +252,25 @@ weekly notes, daily notes, or artist stubs.
 
 ---
 
+## genre-report
+
+```bash
+./music-garden genre-report
+```
+
+Loads the curated canonical genre taxonomy from `data/genre-taxonomy.json` and
+compares it with the unknown source labels currently tracked in `data/genres.json`.
+
+The report lists:
+
+- known mappings
+- unknown source labels
+- collisions where the same normalized alias points at multiple canonical slugs
+
+Use this command while curating genre definitions and aliases.
+
+---
+
 ## setlist
 
 ```bash
@@ -304,7 +323,7 @@ lookup payloads under `data/raw/musicbrainz/`, writes a normalized MusicBrainz
 artist record under `data/normalized/artists/`, and merges the result into the
 canonical metadata store in `data/genres.json`.
 
-MusicBrainz genres/tags are also passed through the canonical genre alias map,
+MusicBrainz genres/tags are also passed through the curated canonical genre taxonomy,
 so this command can enrich both artist identity and genre metadata.
 
 ---

@@ -104,6 +104,9 @@ type GenreImageRecord struct {
 // GenreRecord stores canonical editorial metadata for one genre page.
 type GenreRecord struct {
 	Slug            string                  `json:"slug"`
+	DisplayName     string                  `json:"display_name,omitempty"`
+	ParentSlug      string                  `json:"parent_slug,omitempty"`
+	Notes           string                  `json:"notes,omitempty"`
 	WikipediaTitle  string                  `json:"wikipedia_title,omitempty"`
 	WikipediaURL    string                  `json:"wikipedia_url,omitempty"`
 	Summary         string                  `json:"summary,omitempty"`
@@ -125,7 +128,7 @@ type legacyEntry struct {
 func NewStore() *Store {
 	return &Store{
 		Version:            currentVersion,
-		GenreAliases:       defaultGenreAliases(),
+		GenreAliases:       map[string]string{},
 		GenreRecords:       map[string]GenreRecord{},
 		Artists:            map[string]ArtistRecord{},
 		ArtistSourceIndex:  map[string]string{},
@@ -822,11 +825,6 @@ func normalizeStore(store *Store) {
 	if store.GenreRecords == nil {
 		store.GenreRecords = map[string]GenreRecord{}
 	}
-	for key, value := range defaultGenreAliases() {
-		if _, ok := store.GenreAliases[key]; !ok {
-			store.GenreAliases[key] = value
-		}
-	}
 }
 
 func dedupeGenreImages(images []GenreImageRecord) []GenreImageRecord {
@@ -841,29 +839,6 @@ func dedupeGenreImages(images []GenreImageRecord) []GenreImageRecord {
 		result = append(result, image)
 	}
 	return result
-}
-
-func defaultGenreAliases() map[string]string {
-	return map[string]string{
-		"ambient":           "ambient",
-		"alternative rock":  "alternative-rock",
-		"art rock":          "art-rock",
-		"dance pop":         "dance-pop",
-		"dream pop":         "dream-pop",
-		"electronic":        "electronic",
-		"folk":              "folk",
-		"folk rock":         "folk-rock",
-		"hip hop":           "hip-hop",
-		"hip-hop":           "hip-hop",
-		"hiphop":            "hip-hop",
-		"indie pop":         "indie-pop",
-		"indie rock":        "indie-rock",
-		"pop":               "pop",
-		"rap":               "rap",
-		"rock":              "rock",
-		"singer songwriter": "singer-songwriter",
-		"singer-songwriter": "singer-songwriter",
-	}
 }
 
 func normalizeLookup(s string) string {

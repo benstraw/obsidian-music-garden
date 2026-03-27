@@ -121,6 +121,9 @@ type AggregatedTrackRecord struct {
 // AggregatedGenreRecord is the persisted canonical genre record.
 type AggregatedGenreRecord struct {
 	CanonicalSlug   string                         `json:"canonical_slug"`
+	DisplayName     string                         `json:"display_name,omitempty"`
+	ParentSlug      string                         `json:"parent_slug,omitempty"`
+	Notes           string                         `json:"notes,omitempty"`
 	Aliases         []string                       `json:"aliases,omitempty"`
 	Pending         bool                           `json:"pending"`
 	Status          string                         `json:"status,omitempty"`
@@ -522,6 +525,9 @@ func writeAggregatedGenres(dir string, store *genres.Store) error {
 			Pending:       seenPending[slug],
 		}
 		if record, ok := genres.GenreEditorial(store, slug); ok {
+			payload.DisplayName = record.DisplayName
+			payload.ParentSlug = record.ParentSlug
+			payload.Notes = record.Notes
 			payload.Status = record.Status
 			payload.WikipediaTitle = record.WikipediaTitle
 			payload.WikipediaURL = record.WikipediaURL

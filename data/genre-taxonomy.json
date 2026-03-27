@@ -1,0 +1,758 @@
+{
+  "version": 1,
+  "genres": [
+    {
+      "slug": "acid-jazz",
+      "display_name": "Acid Jazz",
+      "aliases": ["acid jazz"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "acid-rock",
+      "display_name": "Acid Rock",
+      "aliases": ["acid rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "afrobeat",
+      "display_name": "Afrobeat",
+      "aliases": ["afrobeat"],
+      "notes": "Fela-rooted genre label; keep separate from newer afropop and afrobeats."
+    },
+    {
+      "slug": "afrobeats",
+      "display_name": "Afrobeats",
+      "aliases": ["afrobeats"],
+      "notes": "Contemporary pop umbrella distinct from classic afrobeat."
+    },
+    {
+      "slug": "afropop",
+      "display_name": "Afropop",
+      "aliases": ["afropop"],
+      "notes": "Distinct pop-oriented African popular music umbrella."
+    },
+    {
+      "slug": "afroswing",
+      "display_name": "Afroswing",
+      "aliases": ["afroswing"],
+      "parent_slug": "afropop"
+    },
+    {
+      "slug": "alt-country",
+      "display_name": "Alt-Country",
+      "aliases": ["alt country"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "alternative-rock",
+      "display_name": "Alternative Rock",
+      "aliases": [
+        "alt rock",
+        "alternative",
+        "alternative rock",
+        "alternative rock music",
+        "alternative/indie rock"
+      ],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "alternative-hip-hop",
+      "display_name": "Alternative Hip-Hop",
+      "aliases": ["alternative hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "alternative-pop-rock",
+      "display_name": "Alternative Pop/Rock",
+      "aliases": ["alternative pop/rock"],
+      "parent_slug": "rock",
+      "notes": "Pragmatic editorial bucket for hybrid alternative pop/rock source labels."
+    },
+    {
+      "slug": "ambient",
+      "display_name": "Ambient",
+      "aliases": ["ambient"],
+      "parent_slug": "electronic",
+      "notes": "Broad atmospheric electronic genre."
+    },
+    {
+      "slug": "ambient-pop",
+      "display_name": "Ambient Pop",
+      "aliases": ["ambient pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "ambient-jazz",
+      "display_name": "Ambient Jazz",
+      "aliases": ["ambient jazz"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "americana",
+      "display_name": "Americana",
+      "aliases": ["americana"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "adult-standards",
+      "display_name": "Adult Standards",
+      "aliases": ["adult standards"],
+      "notes": "Traditional pop and standards-oriented editorial bucket."
+    },
+    {
+      "slug": "art-pop",
+      "display_name": "Art Pop",
+      "aliases": ["art pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "art-rock",
+      "display_name": "Art Rock",
+      "aliases": ["art rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "aor",
+      "display_name": "AOR",
+      "aliases": ["aor"],
+      "parent_slug": "rock",
+      "notes": "Album-oriented rock / adult-oriented rock umbrella."
+    },
+    {
+      "slug": "baroque-pop",
+      "display_name": "Baroque Pop",
+      "aliases": ["baroque pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "bebop",
+      "display_name": "Bebop",
+      "aliases": ["bebop"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "big-band",
+      "display_name": "Big Band",
+      "aliases": ["big band", "swing music"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "bluegrass",
+      "display_name": "Bluegrass",
+      "aliases": ["bluegrass", "christian bluegrass", "newgrass"],
+      "parent_slug": "folk"
+    },
+    {
+      "slug": "blues",
+      "display_name": "Blues",
+      "aliases": ["blues", "country blues", "soul blues"],
+      "notes": "Broad umbrella for blues styles."
+    },
+    {
+      "slug": "blues-rock",
+      "display_name": "Blues Rock",
+      "aliases": ["blues rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "boom-bap",
+      "display_name": "Boom Bap",
+      "aliases": ["boom bap"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "bossa-nova",
+      "display_name": "Bossa Nova",
+      "aliases": ["bossa nova"]
+    },
+    {
+      "slug": "cajun",
+      "display_name": "Cajun",
+      "aliases": ["cajun"],
+      "parent_slug": "folk"
+    },
+    {
+      "slug": "celtic",
+      "display_name": "Celtic",
+      "aliases": ["celtic"],
+      "parent_slug": "folk"
+    },
+    {
+      "slug": "britpop",
+      "display_name": "Britpop",
+      "aliases": ["britpop", "post-britpop"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "britrock",
+      "display_name": "Britrock",
+      "aliases": ["britrock"],
+      "parent_slug": "rock",
+      "notes": "Loose source label for British rock; kept as its own editorial bucket."
+    },
+    {
+      "slug": "chamber-pop",
+      "display_name": "Chamber Pop",
+      "aliases": ["chamber pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "classic-rock",
+      "display_name": "Classic Rock",
+      "aliases": ["classic rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "classical",
+      "display_name": "Classical",
+      "aliases": ["baroque", "classical", "chamber music", "orchestral"],
+      "notes": "Broad editorial bucket for Western classical music."
+    },
+    {
+      "slug": "christmas",
+      "display_name": "Christmas",
+      "aliases": ["christmas"],
+      "notes": "Seasonal editorial bucket rather than a strict musical genre."
+    },
+    {
+      "slug": "classical-piano",
+      "display_name": "Classical Piano",
+      "aliases": ["classical piano"],
+      "parent_slug": "classical"
+    },
+    {
+      "slug": "contemporary-classical",
+      "display_name": "Contemporary Classical",
+      "aliases": ["contemporary classical", "neoclassical"],
+      "parent_slug": "classical"
+    },
+    {
+      "slug": "concerto",
+      "display_name": "Concerto",
+      "aliases": ["concerto"],
+      "parent_slug": "classical"
+    },
+    {
+      "slug": "cool-jazz",
+      "display_name": "Cool Jazz",
+      "aliases": ["cool jazz"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "country",
+      "display_name": "Country",
+      "aliases": ["country", "traditional country", "classic country"],
+      "notes": "Broad umbrella for country styles."
+    },
+    {
+      "slug": "country-gospel",
+      "display_name": "Country Gospel",
+      "aliases": ["country christian"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "country-rock",
+      "display_name": "Country Rock",
+      "aliases": ["country rock", "roots rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "dance-pop",
+      "display_name": "Dance Pop",
+      "aliases": ["dance pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "dancehall",
+      "display_name": "Dancehall",
+      "aliases": ["dancehall"],
+      "parent_slug": "reggae"
+    },
+    {
+      "slug": "dream-pop",
+      "display_name": "Dream Pop",
+      "aliases": ["dream pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "dub",
+      "display_name": "Dub",
+      "aliases": ["dub"],
+      "parent_slug": "reggae"
+    },
+    {
+      "slug": "electroacoustic",
+      "display_name": "Electroacoustic",
+      "aliases": ["electroacoustic"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "electroclash",
+      "display_name": "Electroclash",
+      "aliases": ["electroclash"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "electronic",
+      "display_name": "Electronic",
+      "aliases": ["electronic", "electronica"]
+    },
+    {
+      "slug": "early-music",
+      "display_name": "Early Music",
+      "aliases": ["early music"],
+      "parent_slug": "classical"
+    },
+    {
+      "slug": "electronic-rock",
+      "display_name": "Electronic Rock",
+      "aliases": ["electronic rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "experimental",
+      "display_name": "Experimental",
+      "aliases": ["experimental", "avant-garde"],
+      "notes": "Broad editorial bucket for intentionally boundary-pushing work."
+    },
+    {
+      "slug": "experimental-rock",
+      "display_name": "Experimental Rock",
+      "aliases": ["experimental rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "experimental-jazz",
+      "display_name": "Experimental Jazz",
+      "aliases": ["experimental jazz"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "free-jazz",
+      "display_name": "Free Jazz",
+      "aliases": ["free jazz"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "folk",
+      "display_name": "Folk",
+      "aliases": ["folk"]
+    },
+    {
+      "slug": "folk-rock",
+      "display_name": "Folk Rock",
+      "aliases": ["folk rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "funk",
+      "display_name": "Funk",
+      "aliases": ["funk", "motown"],
+      "notes": "Motown is not strictly synonymous with funk, but it works as a practical umbrella until a richer soul/R&B taxonomy exists."
+    },
+    {
+      "slug": "funk-rock",
+      "display_name": "Funk Rock",
+      "aliases": ["funk rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "glam-rock",
+      "display_name": "Glam Rock",
+      "aliases": ["glam rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "g-funk",
+      "display_name": "G-Funk",
+      "aliases": ["g-funk"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "gangster-rap",
+      "display_name": "Gangster Rap",
+      "aliases": ["gangster rap"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "gnawa",
+      "display_name": "Gnawa",
+      "aliases": ["gnawa"]
+    },
+    {
+      "slug": "hard-bop",
+      "display_name": "Hard Bop",
+      "aliases": ["hard bop"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "hip-hop",
+      "display_name": "Hip-Hop",
+      "aliases": [
+        "hip hop",
+        "hip-hop",
+        "hiphop"
+      ],
+      "notes": "Canonical umbrella slug for hip-hop as a culture/music label."
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "display_name": "East Coast Hip-Hop",
+      "aliases": ["east coast hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "hardcore-hip-hop",
+      "display_name": "Hardcore Hip-Hop",
+      "aliases": ["hardcore hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "honky-tonk",
+      "display_name": "Honky-Tonk",
+      "aliases": ["honky tonk"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "idm",
+      "display_name": "IDM",
+      "aliases": ["idm"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "indie-electronic",
+      "display_name": "Indie Electronic",
+      "aliases": ["indie electronic", "indietronica"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "indie",
+      "display_name": "Indie",
+      "aliases": ["indie"],
+      "notes": "Editorial umbrella for source labels that only say indie without a clearer style."
+    },
+    {
+      "slug": "indie-folk",
+      "display_name": "Indie Folk",
+      "aliases": ["indie folk"],
+      "parent_slug": "folk"
+    },
+    {
+      "slug": "indie-pop",
+      "display_name": "Indie Pop",
+      "aliases": ["indie pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "indie-rock",
+      "display_name": "Indie Rock",
+      "aliases": ["indie rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "jazz",
+      "display_name": "Jazz",
+      "aliases": [
+        "jazz",
+        "brazilian jazz",
+        "ethiopian jazz",
+        "jazz ballads",
+        "jazz house",
+        "nu jazz"
+      ],
+      "notes": "Broad umbrella for jazz and adjacent scene labels until deeper curation is needed."
+    },
+    {
+      "slug": "indie-jazz",
+      "display_name": "Indie Jazz",
+      "aliases": ["indie jazz"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "jam-band",
+      "display_name": "Jam Band",
+      "aliases": ["jam band"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "jazz-funk",
+      "display_name": "Jazz Funk",
+      "aliases": ["jazz funk"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "jazz-fusion",
+      "display_name": "Jazz Fusion",
+      "aliases": ["jazz fusion"],
+      "parent_slug": "jazz"
+    },
+    {
+      "slug": "jazz-rap",
+      "display_name": "Jazz Rap",
+      "aliases": ["jazz rap"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "krautrock",
+      "display_name": "Krautrock",
+      "aliases": ["krautrock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "neo-psychedelic",
+      "display_name": "Neo-Psychedelic",
+      "aliases": ["neo-psychedelic"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "neo-soul",
+      "display_name": "Neo Soul",
+      "aliases": ["neo soul"],
+      "parent_slug": "soul"
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "display_name": "Old-School Hip-Hop",
+      "aliases": ["old school hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "outlaw-country",
+      "display_name": "Outlaw Country",
+      "aliases": ["outlaw country"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "leftfield",
+      "display_name": "Leftfield",
+      "aliases": ["leftfield"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "miami-bass",
+      "display_name": "Miami Bass",
+      "aliases": ["miami bass"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "musique-concrete",
+      "display_name": "Musique Concrète",
+      "aliases": ["musique concrète"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "new-wave",
+      "display_name": "New Wave",
+      "aliases": ["new wave"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "pop",
+      "display_name": "Pop",
+      "aliases": ["pop", "pop/rock"]
+    },
+    {
+      "slug": "post-punk",
+      "display_name": "Post-Punk",
+      "aliases": ["post-punk"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "post-grunge",
+      "display_name": "Post-Grunge",
+      "aliases": ["post-grunge"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "post-rock",
+      "display_name": "Post-Rock",
+      "aliases": ["post-rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "plunderphonics",
+      "display_name": "Plunderphonics",
+      "aliases": ["plunderphonics"],
+      "parent_slug": "experimental"
+    },
+    {
+      "slug": "power-pop",
+      "display_name": "Power Pop",
+      "aliases": ["power pop"],
+      "parent_slug": "pop"
+    },
+    {
+      "slug": "progressive-rock",
+      "display_name": "Progressive Rock",
+      "aliases": ["crossover prog", "progressive rock", "progressive rock music"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "proto-punk",
+      "display_name": "Proto-Punk",
+      "aliases": ["proto-punk"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "psychedelic-rock",
+      "display_name": "Psychedelic Rock",
+      "aliases": ["psychedelic rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "rap",
+      "display_name": "Rap",
+      "aliases": ["rap"],
+      "parent_slug": "hip-hop",
+      "notes": "Use carefully; not always interchangeable with hip-hop."
+    },
+    {
+      "slug": "ragga",
+      "display_name": "Ragga",
+      "aliases": ["ragga"],
+      "parent_slug": "reggae"
+    },
+    {
+      "slug": "rap-rock",
+      "display_name": "Rap Rock",
+      "aliases": ["rap rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "reggae",
+      "display_name": "Reggae",
+      "aliases": ["reggae", "reggae rock"],
+      "notes": "Broad umbrella for reggae styles."
+    },
+    {
+      "slug": "rock",
+      "display_name": "Rock",
+      "aliases": ["rock"]
+    },
+    {
+      "slug": "rocksteady",
+      "display_name": "Rocksteady",
+      "aliases": ["rocksteady"],
+      "parent_slug": "reggae"
+    },
+    {
+      "slug": "roots-reggae",
+      "display_name": "Roots Reggae",
+      "aliases": ["roots reggae"],
+      "parent_slug": "reggae"
+    },
+    {
+      "slug": "red-dirt",
+      "display_name": "Red Dirt",
+      "aliases": ["red dirt"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "samba",
+      "display_name": "Samba",
+      "aliases": ["samba"]
+    },
+    {
+      "slug": "singer-songwriter",
+      "display_name": "Singer-Songwriter",
+      "aliases": ["singer songwriter", "singer-songwriter"],
+      "notes": "Form/scene label used as a stable editorial bucket."
+    },
+    {
+      "slug": "ska",
+      "display_name": "Ska",
+      "aliases": ["ska"],
+      "parent_slug": "reggae"
+    },
+    {
+      "slug": "ska-punk",
+      "display_name": "Ska Punk",
+      "aliases": ["ska punk"],
+      "parent_slug": "ska"
+    },
+    {
+      "slug": "soft-rock",
+      "display_name": "Soft Rock",
+      "aliases": ["soft rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "soul",
+      "display_name": "Soul",
+      "aliases": ["soul", "classic soul", "retro soul", "quiet storm"],
+      "notes": "Broad umbrella for soul styles."
+    },
+    {
+      "slug": "soundtrack",
+      "display_name": "Soundtrack",
+      "aliases": ["musicals", "soundtrack", "score"],
+      "notes": "Functional editorial bucket for soundtrack and score releases."
+    },
+    {
+      "slug": "southern-hip-hop",
+      "display_name": "Southern Hip-Hop",
+      "aliases": ["southern hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "southern-rock",
+      "display_name": "Southern Rock",
+      "aliases": ["southern rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "rock-and-indie",
+      "display_name": "Rock and Indie",
+      "aliases": ["rock and indie"],
+      "parent_slug": "rock",
+      "notes": "Loose source bucket retained as an editorial category when labels are underspecified."
+    },
+    {
+      "slug": "southern-gothic",
+      "display_name": "Southern Gothic",
+      "aliases": ["southern gothic"],
+      "notes": "Cross-medium scene or aesthetic label kept as an editorial bucket."
+    },
+    {
+      "slug": "space-rock",
+      "display_name": "Space Rock",
+      "aliases": ["space rock"],
+      "parent_slug": "rock"
+    },
+    {
+      "slug": "spoken-word",
+      "display_name": "Spoken Word",
+      "aliases": ["spoken word"]
+    },
+    {
+      "slug": "uk-garage",
+      "display_name": "UK Garage",
+      "aliases": ["uk garage"],
+      "parent_slug": "electronic"
+    },
+    {
+      "slug": "texas-country",
+      "display_name": "Texas Country",
+      "aliases": ["texas country"],
+      "parent_slug": "country"
+    },
+    {
+      "slug": "underground-hip-hop",
+      "display_name": "Underground Hip-Hop",
+      "aliases": ["underground hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "west-coast-hip-hop",
+      "display_name": "West Coast Hip-Hop",
+      "aliases": ["west coast hip hop"],
+      "parent_slug": "hip-hop"
+    },
+    {
+      "slug": "yacht-rock",
+      "display_name": "Yacht Rock",
+      "aliases": ["yacht rock"],
+      "parent_slug": "rock"
+    }
+  ]
+}
