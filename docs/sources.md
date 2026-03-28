@@ -3,111 +3,174 @@
 This document tracks the external data sources used, or planned for use, by
 `obsidian-music-garden`.
 
-It is an engineering reference, not legal advice. If the project starts
-shipping public/commercial downstream products, review the linked source terms
-again before launch.
+It is an implementation reference, not legal advice. The project itself is
+open source and non-commercial, but some data may later flow into a separate
+downstream website project. That means source boundaries need to stay explicit.
 
-## Summary Matrix
+## Source Matrix
 
-| Source | What data we use or plan to use | Attribution needed? | Commercial downstream use allowed? | Images need per-image attribution? | Notes |
-|---|---|---|---|---|---|
-| Spotify | User-authorized listening history, artist/album/track metadata, Spotify URLs, Spotify-provided artwork/images | Yes | Treat as restricted. Limited commercial use exists for some non-streaming apps, but the policy is narrow and subject to Spotify platform rules | Usually no separate creator credit flow from Spotify itself, but Spotify branding/link-back rules apply whenever Spotify content/artwork/metadata is displayed | Must use Spotify branding for Spotify metadata; metadata/artwork must link back to Spotify |
-| MusicBrainz | Artist/release/work metadata, IDs, relationships, aliases | Sometimes | Core data: yes. Supplementary data: not safely by default without separate commercial licensing or narrower use decisions | MusicBrainz itself is metadata, not image-first. Cover art comes from the Cover Art Archive and needs separate review | Distinguish core vs supplementary data |
-| Wikipedia / Wikimedia text | Encyclopedic text summaries, article titles/URLs, structured reference data | Yes | Yes, if license obligations are met | Not applicable for text | Text reuse generally requires attribution and share-alike handling |
-| Wikimedia Commons images | Artist/release/genre images hosted on Commons | Yes | Often yes, but depends on the specific file license and any non-copyright restrictions | Yes | Must inspect each file page; license can vary per image |
-| setlist.fm | Concert setlists, venues, dates, source links | Yes | No, not by default. Free API use is non-commercial only unless separately approved | Not a primary image source here | API responses include attribution requirements and caching/storage limits |
+| Source | What we collect | Where it is stored | How it is used in the garden | Access / rate-limit notes | Attribution / licensing review notes | Garden-only or downstream? |
+|---|---|---|---|---|---|---|
+| Spotify | User-authorized listening history, artist/album/track metadata, Spotify URLs, Spotify images | `data/raw/spotify/`, `data/plays/`, `data/normalized/`, `data/aggregated/`, `data/genres.json` | Primary listening collector and source of local play history | OAuth required. Must respect Spotify platform rules and API behavior | Review before public or commercial downstream use. Keep Spotify provenance attached. Avoid treating Spotify media as free-floating assets | Garden-first. Downstream website use should be reviewed carefully |
+| MusicBrainz | Artist and release-group metadata, IDs, aliases, relationships, tags/genres | `data/raw/musicbrainz/`, `data/normalized/`, `data/aggregated/`, `data/genres.json` | Cross-source identity enrichment and metadata normalization | No API key currently required, but a proper User-Agent and polite request rate are required | Core data is generally friendlier than many commercial APIs, but not every adjacent data class should be treated as equally safe. Cover-art and supplementary-data handling still need review | Suitable for garden use and often suitable downstream, but review exact fields before public reuse |
+| Wikipedia / Wikimedia text | Page title, summary/extract, canonical URL, source attribution metadata | `data/raw/wikipedia/`, `data/normalized/genres/`, `data/normalized/artists/`, `data/aggregated/`, `data/genres.json` | Editorial seed data for genre and artist pages | No API key required. Requests should still be polite and cacheable | Text reuse requires attribution and may have share-alike implications. Treat summaries as reviewable editorial seed data, not automatically free publishing copy | Garden use is fine. Downstream website use should carry attribution and be reviewed |
+| Wikimedia Commons images | File-page URL, image URL, thumbnail metadata, author/license/attribution metadata when available | `data/raw/wikipedia/commons-images/`, `data/normalized/`, `data/aggregated/`, `data/genres.json` | Candidate image metadata only. Not blanket-approved media ingestion | No API key required. Use sparingly and cache results | Review each file individually. Commons is not one license. Per-image attribution and downstream suitability vary by file | Review required before downstream website use |
+| Soundcharts (planned / optional) | Likely charting, audience, playlist, radio, or social-performance metadata, depending on licensed access | Not implemented yet. Would likely live under `data/raw/soundcharts/`, `data/normalized/`, and selected aggregated records | Optional future enrichment only | Expect account-level access, contractual limits, and stricter API usage terms than open sources | Do not assume open redistribution rights. Any integration should start from contract and permitted-use review, not from technical convenience | Treat as restricted until a specific agreement says otherwise |
+| setlist.fm | Setlists, venues, dates, source links | Not a core part of the genre pipeline, but used in the CLI and rendered to notes/stdout | Concert note assistance rather than canonical music-graph enrichment | API key required. Free API use is non-commercial unless separately approved | Preserve attribution. Do not assume public/commercial republishing rights by default | Garden-only unless separately reviewed |
 
-## Current Policy by Source
+## Working Notes by Source
 
 ### Spotify
 
-- Use for: Spotify collector data and Spotify-provided metadata/images.
-- Attribution: required when displaying Spotify metadata or artwork.
-- Commercial downstream: assume **not safe by default** unless the specific use
-  clearly fits Spotify's permitted non-streaming commercial uses and all other
-  platform rules are satisfied.
-- Image handling: do not treat Spotify images as standalone assets. Keep
-  Spotify branding/link-back requirements attached.
+What we collect:
 
-Operational rule for this repo:
-- Internal storage of Spotify-derived metadata is acceptable for personal garden
-  workflows.
-- Any public site or monetized downstream use should be reviewed separately.
+- recently played track history
+- artist, release, and track metadata returned by the Spotify Web API
+- Spotify IDs and URLs
+- Spotify artist images
+
+Where it lives:
+
+- raw snapshots under `data/raw/spotify/`
+- sharded listening history under `data/plays/`
+- normalized and aggregated records under `data/normalized/` and `data/aggregated/`
+- canonical merged metadata in `data/genres.json`
+
+How we use it:
+
+- it is the current listening collector
+- it seeds artist, release, and track identities
+- it feeds local listening stats and top-entity summaries
+
+Review posture:
+
+- fine for personal garden workflows
+- keep Spotify provenance visible
+- public or commercial downstream use should be reviewed before launch
 
 ### MusicBrainz
 
-- Use for: artist and release-group enrichment, canonical IDs, aliases, artist/release metadata, and genre/tag hints.
-- Attribution: depends on whether the data used is core or supplementary.
-- Commercial downstream:
-  - core data: generally yes
-  - supplementary data: not safely by default under the public license
-- Image handling: do not assume MusicBrainz gives image reuse rights. Review
-  Cover Art Archive or any other image source separately.
+What we collect:
 
-Operational rule for this repo:
-- Prefer MusicBrainz core metadata for canonical identifiers.
-- Avoid depending on supplementary data unless the exact field and license
-  treatment are documented.
-- Current pipeline behavior:
-  - raw MusicBrainz JSON responses are stored under `data/raw/musicbrainz/`
-  - each saved payload has a sibling manifest recording endpoint, request URL,
-    cache key, and fetch time
-  - artist and release-group lookups can contribute MusicBrainz IDs plus
-    source-tag genres that are normalized into the repo-owned canonical genre
-    slugs
-  - this repo uses MusicBrainz for enrichment only; it does not generate public
-    website pages from MusicBrainz data here
+- artist metadata
+- release-group and release identifiers
+- aliases and tag/genre hints
+
+Where it lives:
+
+- raw responses under `data/raw/musicbrainz/`
+- normalized artist/release/genre records under `data/normalized/`
+- merged identifiers and records under `data/aggregated/` and `data/genres.json`
+
+How we use it:
+
+- cross-source enrichment
+- canonical identity support
+- source-neutral matching against Spotify-shaped runtime data
+
+Access notes:
+
+- proper User-Agent required
+- polite rate limiting required
+- local caching is used so the same lookups are not repeated unnecessarily
+
+Review posture:
+
+- practical for canonical IDs and metadata enrichment
+- still review exact field classes before downstream public use
+- do not blur MusicBrainz core metadata together with unrelated cover-art or image rights
 
 ### Wikipedia / Wikimedia text
 
-- Use for: short text summaries and article references.
-- Attribution: required.
-- Commercial downstream: yes, if attribution and share-alike obligations are
-  satisfied.
-- Image handling: text rules do not automatically apply to images.
+What we collect:
 
-Operational rule for this repo:
-- Keep Wikipedia/Wikimedia text clearly source-labeled.
-- If text is redistributed in public downstream content, carry attribution and
-  review share-alike implications.
-- Current pipeline behavior:
-  - genre editorial enrichment searches Wikipedia by genre name and stores the
-    raw search and summary responses under `data/raw/wikipedia/`
-  - normalized genre records preserve page title, summary, canonical URL, and
-    source attribution metadata
-  - ambiguous or missing results are stored as explicit statuses instead of
-    silently choosing a weak match
+- page candidates from search
+- matched page title
+- canonical URL
+- short summary/extract
+- ambiguity or not-found status when no clean match exists
+
+Where it lives:
+
+- raw responses under `data/raw/wikipedia/`
+- normalized editorial records under `data/normalized/genres/` and `data/normalized/artists/`
+- merged genre and artist records under `data/aggregated/` and `data/genres.json`
+
+How we use it:
+
+- editorial seed data for genre and artist pages
+- source-aware summary content for personal knowledge gardening
+
+Review posture:
+
+- use is straightforward inside the garden
+- downstream website reuse should preserve attribution and re-check obligations around text reuse and adaptation
+- ambiguity should remain explicit rather than silently picking a weak match
 
 ### Wikimedia Commons images
 
-- Use for: artist/release/genre imagery where file-level license allows it.
-- Attribution: commonly required.
-- Commercial downstream: often allowed, but file-by-file review is mandatory.
-- Per-image attribution: yes, assume yes unless the specific file is truly
-  public domain or CC0 and there are no extra restrictions.
+What we collect:
 
-Operational rule for this repo:
-- Never treat Commons as one blanket image license.
-- Store source page, author, and license metadata with each reused image.
-- Current pipeline behavior:
-  - Commons image lookup is optional and only runs when a Wikipedia genre page
-    has an image candidate
-  - if image metadata is found, the normalized genre record stores file page
-    URL, author, license, and attribution text for downstream review
+- image candidate metadata
+- file page URL
+- image URL / thumbnail URL
+- author / license / attribution fields where available
 
-### setlist.fm
+Where it lives:
 
-- Use for: setlists and concert metadata via the API.
-- Attribution: required wherever setlist.fm data is shown.
-- Commercial downstream: free API use is non-commercial only unless separately
-  approved by setlist.fm.
-- Image handling: not applicable for the current integration.
+- raw Commons lookups under `data/raw/wikipedia/commons-images/`
+- normalized and aggregated image metadata alongside the associated genre or artist record
 
-Operational rule for this repo:
-- Preserve and display the attribution link provided by the API response when
-  setlist.fm data is rendered or copied into downstream output.
-- Do not rely on long-term storage of setlist.fm data beyond short caching
-  without another policy review.
+How we use it:
+
+- candidate media metadata only
+- later review aid, not blanket approval for website publication
+
+Review posture:
+
+- every file should be treated individually
+- keep license and attribution metadata attached
+- do not assume an image is safe downstream just because it came from Commons
+
+### Soundcharts (planned / optional)
+
+What we would likely collect:
+
+- chart and audience context
+- playlist or radio footprint
+- trend/performance indicators
+
+Where it would live:
+
+- likely `data/raw/soundcharts/`
+- then source-specific normalized records
+- then carefully selected aggregated fields, if any
+
+How we would use it:
+
+- optional future enrichment only
+- not a foundational identity source
+
+Review posture:
+
+- assume contract-driven restrictions
+- do not implement downstream reuse until access terms and redistribution rules are understood
+
+## Practical Boundary
+
+Use this repo to:
+
+- collect data for personal knowledge gardening
+- normalize and aggregate records
+- generate markdown and internal review artifacts
+
+Treat a downstream website repo separately when it comes to:
+
+- public redistribution
+- commercial use
+- editorial adaptation of source text
+- image publication
+- contract- or policy-sensitive data reuse
 
 ## Primary References
 
@@ -117,6 +180,5 @@ Operational rule for this repo:
 - MusicBrainz Database licensing breakdown: <https://musicbrainz.org/doc/MusicBrainz_Database>
 - Wikimedia Commons reuse guidance: <https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia>
 - Wikimedia Commons license summaries: <https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia/licenses>
-- Wikimedia Commons reuse contact note: <https://commons.wikimedia.org/wiki/Commons:Contact_us/Reuse>
 - setlist.fm API docs: <https://api.setlist.fm/>
 - setlist.fm Terms of Use: <https://www.setlist.fm/help/terms>

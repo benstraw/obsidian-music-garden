@@ -39,6 +39,14 @@ personal knowledge infrastructure and reusable data/markdown generation, while
 the public site remains a separate publishing layer with its own editorial and
 business decisions.
 
+Short version:
+
+- this repo is where collection, normalization, aggregation, and personal-note generation happen
+- a downstream website repo is where public presentation, additional editorial decisions, and any monetization questions would be handled
+
+That separation is deliberate. It helps keep source handling cautious here while
+leaving room for a different downstream publishing posture later.
+
 ---
 
 ## Quick Start

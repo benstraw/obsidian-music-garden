@@ -1,137 +1,145 @@
 # Licensing Notes
 
-This document turns source-policy research into repo-level working rules.
+This document translates source-policy research into working implementation
+rules for `obsidian-music-garden`.
 
-It is not legal advice. It is the default engineering posture for
-`obsidian-music-garden` as of **March 27, 2026**.
+It is not legal advice. It is a practical engineering posture for an open
+source, non-commercial garden repository that may later feed a separate public
+website project.
 
-## Default posture
+## Core Boundary
 
-The repo should separate:
+Keep three situations distinct:
 
-- source-authorized private/personal garden use
-- public redistribution
+- personal garden use inside this repo
+- public downstream publishing
 - commercial downstream publishing
 
-Those are not the same rights.
+Those are different risk levels, and they should not be collapsed into one
+assumption.
 
-## Working rules
+## Default Posture
 
-### 1. Treat Spotify as source-restricted
+### 1. This repo is non-commercial and source-aware
 
-Spotify is the current collector, but Spotify should not define the legal or
-architectural center of the project.
+Default assumption:
 
-Default rule:
-- storing Spotify-derived data for personal garden use is acceptable
-- public downstream reuse should be conservative
-- commercial downstream use should be treated as **review required**
+- storing source-linked metadata and summaries for personal knowledge gardening
+  is the main purpose here
+- this repo should remain cautious, neutral, and non-commercial in itself
 
-Engineering implications:
-- keep Spotify IDs and URLs as provenance, not as the garden's only identity
-- keep canonical slugs source-neutral
-- if a public site consumes garden output, preserve clear source boundaries
-- if Spotify metadata/artwork is displayed publicly, include Spotify-required
-  attribution/linking treatment
+Implementation consequence:
 
-### 2. Prefer MusicBrainz for canonical identity, not for blanket reuse
+- preserve provenance
+- keep raw and normalized source layers
+- avoid burying source origin once data is aggregated
 
-MusicBrainz is strong for canonical entity resolution, but licensing is not one
-single blanket rule across all data classes.
+### 2. Downstream website use is a separate review step
 
-Default rule:
-- use MusicBrainz for IDs, aliases, and entity relationships
-- do not assume every MusicBrainz-adjacent asset is equally safe for commercial
-  downstream use
-- review supplementary data and cover-art sources separately
+Default assumption:
 
-Engineering implications:
-- store MusicBrainz IDs in canonical records now
-- keep image and cover-art sourcing decoupled from core metadata sourcing
+- a future public website may consume selected outputs from this repo
+- that does not automatically mean every collected field is ready for public or
+  commercial reuse
 
-### 3. Treat Wikipedia text and Commons images as different policy surfaces
+Implementation consequence:
 
-Do not collapse "Wikipedia" into one reuse rule.
+- aggregated records should keep source references
+- image and text fields should remain reviewable
+- contract- or policy-sensitive sources should be clearly labeled
 
-Default rule:
-- text summaries/articles: attribution required; share-alike implications matter
-- images: file-by-file review required
+## Source-by-Source Notes
 
-Engineering implications:
-- store source page URLs for text excerpts/summaries
-- store retrieved Wikipedia page title and canonical URL with every saved
-  summary so downstream attribution can be attached later
-- if an image is ever ingested, also store:
-  - source file page
-  - creator/author
-  - license
-  - attribution text
-- do not ingest images without this metadata
+### Spotify
 
-### 4. Treat setlist.fm as non-commercial unless separately approved
+Working posture:
 
-Default rule:
-- current API use is fine for personal tooling and note assistance
-- commercial downstream use is not safe by default
+- fine for personal garden collection and metadata enrichment
+- conservative for downstream public reuse
+- review required before commercial downstream launch
 
-Engineering implications:
-- preserve the setlist.fm source link in any rendered output
-- avoid building a downstream commercial setlist product on top of the free API
+Implementation notes:
 
-## Downstream policy
+- keep Spotify IDs, URLs, and images as source-linked metadata
+- do not treat Spotify as the garden's canonical authority
+- if Spotify-derived metadata or artwork is displayed publicly, preserve
+  required link-back / branding treatment
 
-If a downstream site or product is:
+### MusicBrainz
 
-- private/personal: lowest risk, but still preserve provenance
-- public/non-commercial: attribution and license display become necessary
-- public/commercial: source review is mandatory before launch
+Working posture:
 
-For this repo, assume:
-- metadata can flow into the personal garden
-- publication rights must be evaluated per source
-- images are the highest-risk content class
+- very useful for canonical identity and metadata enrichment
+- generally more downstream-friendly than Spotify
+- still review exact field classes before public or commercial reuse
 
-## Image policy
+Implementation notes:
 
-If the repo starts storing images, require per-image metadata.
+- use for artist/release IDs, aliases, and metadata enrichment
+- keep image rights separate from metadata rights
+- where uncertainty exists, prefer storing identifiers and provenance rather
+  than making broader reuse assumptions
 
-Minimum fields:
+### Wikipedia text
 
-- `source`
-- `source_url`
-- `license`
-- `author`
-- `attribution_text`
-- `commercial_use_ok` as an explicit reviewed decision, not an assumption
+Working posture:
 
-Default assumptions:
+- useful as editorial seed data inside the garden
+- suitable for downstream use only if attribution and other obligations are
+  handled correctly
 
-- Spotify images: no
-- Wikimedia Commons images: maybe, after file review
-- MusicBrainz-related cover art: separate review required
+Implementation notes:
 
-For the current genre-enrichment pipeline:
-- Wikipedia summaries are editorial seed data, not automatically approved
-  publishable copy
-- Commons image metadata is useful for review, but downstream use still needs a
-  file-level decision before public publication
+- store page title, URL, and retrieval context with summaries
+- treat summary reuse as something to review, not as automatically settled
+- keep ambiguity and not-found statuses explicit
 
-## Safe defaults for implementation
+### Wikimedia Commons images
 
-When rights are unclear:
+Working posture:
 
-- keep the content as source-linked metadata only
-- avoid copying long text
-- avoid ingesting images
-- prefer storing identifiers, URLs, and short factual fields
-- document the uncertainty in code/docs instead of guessing
+- candidate metadata is useful
+- public reuse requires file-by-file review
 
-## Primary references
+Implementation notes:
 
-- Spotify Developer Policy: <https://developer.spotify.com/policy>
-- Spotify Design & Branding Guidelines: <https://developer.spotify.com/documentation/design>
-- MusicBrainz Data License: <https://musicbrainz.org/doc/About/Data_License>
-- MusicBrainz Database licensing notes: <https://musicbrainz.org/doc/MusicBrainz_Database>
-- Wikimedia Commons reuse guidance: <https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia>
-- setlist.fm API docs: <https://api.setlist.fm/>
-- setlist.fm Terms of Use: <https://www.setlist.fm/help/terms>
+- never treat Commons as one blanket image license
+- keep file page URL, author, license, and attribution metadata attached
+- avoid implying `commercial_use_ok` unless a human has reviewed that file
+
+### Soundcharts (planned / optional)
+
+Working posture:
+
+- assume restricted or contract-governed use unless specific terms say otherwise
+
+Implementation notes:
+
+- do not treat Soundcharts as an open data source
+- if implemented, keep fields clearly source-scoped
+- review redistribution rights before any downstream website use
+
+## Review Triggers
+
+Stop and review before downstream website use when:
+
+- the field came from Spotify
+- the field is reused editorial text from Wikipedia
+- the field is image metadata that might lead to image publication
+- the source is contractual or gated, such as a future Soundcharts integration
+- the planned site is public or commercial
+
+## Safe Implementation Defaults
+
+When rights or downstream suitability are unclear:
+
+- keep the data as metadata, not as promoted published content
+- store identifiers, URLs, timestamps, and provenance first
+- keep text excerpts short and source-linked
+- keep image metadata reviewable but separate from publication approval
+- document uncertainty rather than hiding it
+
+## Reminder
+
+These notes are intentionally cautious. They are meant to help with design and
+implementation choices, not to replace source-term review at launch time.

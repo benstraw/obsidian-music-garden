@@ -91,6 +91,14 @@ Future output may also include:
   genres/
 ```
 
+For repo-local generated markdown that is safe to version and reuse downstream,
+genre pages can also be rendered under:
+
+```text
+content/
+  genres/
+```
+
 ## Layer meanings
 
 ### Raw
@@ -309,3 +317,15 @@ Output:
 The aggregate is designed to be the handoff record for later markdown
 generation and later public-site consumption without making this repository a
 publishing system.
+
+## Genre Markdown Generation
+
+Genre markdown pages are generated from `data/aggregated/genres/*.json`.
+
+Properties:
+
+- deterministic file names based on canonical genre slug
+- stable front matter for Obsidian and future static-site use
+- no affiliate or public-site-specific presentation logic
+- safe to write to a sandbox output directory for review before writing to
+  `content/genres/`
