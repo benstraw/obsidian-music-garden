@@ -27,7 +27,7 @@ import (
 )
 
 // version is set at build time via -ldflags "-X main.version=vX.Y.Z"
-var version = "v0.8.0-dev"
+var version = "v0.9.0-dev"
 
 type runtimePaths struct {
 	cwd            string
@@ -66,6 +66,8 @@ func main() {
 		runAuth(paths)
 	case "collect":
 		runCollect(paths)
+	case "repair-plays":
+		runRepairPlays(paths)
 	case "weekly":
 		runWeekly(args, paths)
 	case "daily":
@@ -73,7 +75,7 @@ func main() {
 	case "catch-up":
 		runCatchUp(args, paths)
 	case "persona":
-		runPersona(paths)
+		runPersona(args, paths)
 	case "genre-backfill":
 		runGenreBackfill(paths)
 	case "image-backfill":
@@ -102,6 +104,8 @@ func main() {
 		runAggregateGenre(args, paths)
 	case "aggregate-genres":
 		runAggregateGenres(paths)
+	case "generate-genre-pages":
+		runGenerateGenrePages(args, paths)
 	case "doctor":
 		os.Exit(runDoctor(paths))
 	case "version", "--version":
@@ -122,10 +126,11 @@ func printUsage() {
 Usage:
   music-garden auth                           Authenticate the current Spotify collector via OAuth
   music-garden collect                        Fetch last 50 Spotify plays, canonicalize, dedup, append to sharded history
-  music-garden weekly [--date YYYY-MM-DD]     Generate weekly note for date's ISO week (default: current)
-  music-garden daily [--date YYYY-MM-DD]      Generate daily note for date (default: today)
-  music-garden catch-up [--weeks N]           Generate missing weekly + daily notes (default: 8 weeks back)
-  music-garden persona                        Regenerate Music Taste context pack
+  music-garden repair-plays                   Rewrite sharded play history with canonical IDs and richer persisted fields
+  music-garden weekly [--date YYYY-MM-DD] [--out-dir DIR]     Generate weekly note for date's ISO week (default: current)
+  music-garden daily [--date YYYY-MM-DD] [--out-dir DIR]      Generate daily note for date (default: today)
+  music-garden catch-up [--weeks N] [--out-dir DIR]           Generate missing weekly + daily notes (default: 8 weeks back)
+  music-garden persona [--out-dir DIR]                        Regenerate Music Taste context pack
   music-garden genre-backfill                 Fetch canonical artist genres for uncached artists in play history
   music-garden image-backfill                 Fetch artist images for canonical artist records that have none
   music-garden setlist <artist> [--date DATE] Look up setlist on setlist.fm (default: today)
@@ -140,6 +145,7 @@ Usage:
   music-garden genre-report                   Report canonical genre mappings, unknown labels, and collisions
   music-garden aggregate-genre                Rebuild one aggregated genre record from canonical data + local listening
   music-garden aggregate-genres               Rebuild all aggregated genre records
+  music-garden generate-genre-pages          Render markdown genre pages from aggregated genre JSON
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
 
@@ -333,6 +339,16 @@ func vaultPath() string {
 		os.Exit(1)
 	}
 	return v
+}
+
+func noteOutputRoot(outDir string) string {
+	if v := strings.TrimSpace(outDir); v != "" {
+		if abs, err := filepath.Abs(v); err == nil {
+			return abs
+		}
+		return v
+	}
+	return vaultPath()
 }
 
 // templatesDir returns the path to the templates directory.
@@ -632,13 +648,48 @@ func runCollect(paths runtimePaths) {
 			return
 		}
 		artistMetadata := genres.ArtistsForPlays(store, allPlays)
-		generateDailyNote(allPlays, time.Now(), true, artistMetadata)
+		generateDailyNote(allPlays, time.Now(), true, artistMetadata, vaultPath())
 	}
+}
+
+func runRepairPlays(paths runtimePaths) {
+	store := loadGenreStore(paths)
+	allPlays, err := plays.LoadSharded(paths.playsDir)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "load plays error:", err)
+		os.Exit(1)
+	}
+
+	resolved, _ := genres.ResolvePlays(store, allPlays)
+
+	resolvedByPlayedAt := make(map[string]models.Play, len(resolved))
+	for _, play := range resolved {
+		resolvedByPlayedAt[play.PlayedAt] = play
+	}
+
+	changed, err := plays.MigrateCanonicalSharded(paths.playsDir, func(play models.Play) models.Play {
+		if resolved, ok := resolvedByPlayedAt[play.PlayedAt]; ok {
+			return resolved
+		}
+		return genres.ResolvePlay(store, play)
+	})
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "repair plays error:", err)
+		os.Exit(1)
+	}
+
+	saveGenreStore(paths, store)
+	if changed {
+		fmt.Printf("Repaired sharded play history in %s\n", paths.playsDir)
+		return
+	}
+	fmt.Printf("Sharded play history already canonical in %s\n", paths.playsDir)
 }
 
 func runWeekly(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("weekly", flag.ExitOnError)
 	dateStr := fs.String("date", "", "any date within the target week (default: this week)")
+	outDir := fs.String("out-dir", "", "output root override for safe sandbox generation")
 	_ = fs.Parse(args)
 
 	date, err := parseDate(*dateStr)
@@ -647,16 +698,15 @@ func runWeekly(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	generateWeeklyNote(date, paths)
+	generateWeeklyNote(date, paths, noteOutputRoot(*outDir))
 }
 
 // generateWeeklyNote filters local plays and writes the weekly summary note.
-func generateWeeklyNote(date time.Time, paths runtimePaths) {
+func generateWeeklyNote(date time.Time, paths runtimePaths, outputRoot string) {
 	monday, _ := render.WeekBounds(date)
 	weekStr := render.WeekStr(monday)
 
-	vault := vaultPath()
-	outDir := filepath.Join(vault, "music", "listening")
+	outDir := filepath.Join(outputRoot, "music", "listening")
 	outPath := filepath.Join(outDir, fmt.Sprintf("spotify-%s.md", weekStr))
 
 	store := loadGenreStore(paths)
@@ -672,7 +722,7 @@ func generateWeeklyNote(date time.Time, paths runtimePaths) {
 
 	artistMetadata := genres.ArtistsForPlays(store, weekPlays)
 
-	content, err := render.RenderWeekly(allPlays, date, vault, artistMetadata)
+	content, err := render.RenderWeekly(allPlays, date, outputRoot, artistMetadata)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "render error:", err)
 		os.Exit(1)
@@ -680,7 +730,7 @@ func generateWeeklyNote(date time.Time, paths runtimePaths) {
 
 	// Update artist stubs with canonical metadata
 	for name, record := range artistMetadata {
-		if err := render.UpdateArtistStub(record, vault); err != nil {
+		if err := render.UpdateArtistStub(record, outputRoot); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", name, err)
 		}
 	}
@@ -698,11 +748,10 @@ func generateWeeklyNote(date time.Time, paths runtimePaths) {
 	fmt.Println("Written:", outPath)
 }
 
-func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, artistMetadata map[string]genres.ArtistRecord) {
+func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, artistMetadata map[string]genres.ArtistRecord, outputRoot string) {
 	d := date.Local()
 	dayStr := d.Format("2006-01-02")
-	vault := vaultPath()
-	outDir := filepath.Join(vault, "music", "listening")
+	outDir := filepath.Join(outputRoot, "music", "listening")
 	outPath := filepath.Join(outDir, fmt.Sprintf("spotify-%s.md", dayStr))
 	dayPlays := render.PlaysForDay(allPlays, date)
 	if len(dayPlays) == 0 {
@@ -730,10 +779,10 @@ func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, a
 				}
 			}
 		}
-		if err := render.EnsureArtistStub(record, dayStr, vault); err != nil {
+		if err := render.EnsureArtistStub(record, dayStr, outputRoot); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: could not create artist stub for %s: %v\n", name, err)
 		}
-		if err := render.UpdateArtistStub(record, vault); err != nil {
+		if err := render.UpdateArtistStub(record, outputRoot); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", name, err)
 		}
 	}
@@ -744,7 +793,7 @@ func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, a
 		return
 	}
 
-	content, err := render.RenderDaily(allPlays, date, vault, artistMetadata)
+	content, err := render.RenderDaily(allPlays, date, outputRoot, artistMetadata)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "render error for %s: %v\n", dayStr, err)
 		return
@@ -768,6 +817,7 @@ func generateDailyNote(allPlays []models.Play, date time.Time, overwrite bool, a
 func runDaily(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("daily", flag.ExitOnError)
 	dateStr := fs.String("date", "", "date in YYYY-MM-DD format (default: today)")
+	outDir := fs.String("out-dir", "", "output root override for safe sandbox generation")
 	_ = fs.Parse(args)
 
 	date, err := parseDate(*dateStr)
@@ -785,7 +835,7 @@ func runDaily(args []string, paths runtimePaths) {
 	}
 	artistMetadata := genres.ArtistsForPlays(store, allPlays)
 
-	generateDailyNote(allPlays, date, false, artistMetadata)
+	generateDailyNote(allPlays, date, false, artistMetadata, noteOutputRoot(*outDir))
 }
 
 func weeklyNotePath(listeningDir string, date time.Time) string {
@@ -823,35 +873,36 @@ func missingDailyDates(listeningDir string, now time.Time, totalDays int) []time
 	return missingDays
 }
 
-func generateMissingWeeklyNotes(paths runtimePaths, missingDates []time.Time) {
+func generateMissingWeeklyNotes(paths runtimePaths, missingDates []time.Time, outputRoot string) {
 	if len(missingDates) == 0 {
 		fmt.Println("Weekly notes: all caught up.")
 		return
 	}
 	fmt.Printf("Found %d missing weekly note(s), generating...\n", len(missingDates))
 	for i := len(missingDates) - 1; i >= 0; i-- {
-		generateWeeklyNote(missingDates[i], paths)
+		generateWeeklyNote(missingDates[i], paths, outputRoot)
 	}
 }
 
-func generateMissingDailyNotes(allPlays []models.Play, missingDays []time.Time, totalDays int, artistMetadata map[string]genres.ArtistRecord) {
+func generateMissingDailyNotes(allPlays []models.Play, missingDays []time.Time, totalDays int, artistMetadata map[string]genres.ArtistRecord, outputRoot string) {
 	fmt.Printf("Checking %d days for missing daily notes...\n", totalDays)
 	for _, day := range missingDays {
-		generateDailyNote(allPlays, day, false, artistMetadata)
+		generateDailyNote(allPlays, day, false, artistMetadata, outputRoot)
 	}
 }
 
 func runCatchUp(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("catch-up", flag.ExitOnError)
 	weeks := fs.Int("weeks", 8, "number of weeks to check")
+	outDir := fs.String("out-dir", "", "output root override for safe sandbox generation")
 	_ = fs.Parse(args)
 
-	vault := vaultPath()
-	listeningDir := filepath.Join(vault, "music", "listening")
+	outputRoot := noteOutputRoot(*outDir)
+	listeningDir := filepath.Join(outputRoot, "music", "listening")
 	now := time.Now()
 
 	missingWeeks := missingWeeklyDates(listeningDir, now, *weeks)
-	generateMissingWeeklyNotes(paths, missingWeeks)
+	generateMissingWeeklyNotes(paths, missingWeeks, outputRoot)
 
 	store := loadGenreStore(paths)
 	migrateCanonicalPlays(paths, store)
@@ -864,7 +915,7 @@ func runCatchUp(args []string, paths runtimePaths) {
 
 	totalDays := *weeks * 7
 	missingDays := missingDailyDates(listeningDir, now, totalDays)
-	generateMissingDailyNotes(allPlays, missingDays, totalDays, artistMetadata)
+	generateMissingDailyNotes(allPlays, missingDays, totalDays, artistMetadata, outputRoot)
 	fmt.Println("Done.")
 }
 
@@ -1594,6 +1645,49 @@ func runAggregateGenres(paths runtimePaths) {
 	fmt.Printf("Rebuilt %d aggregated genre record(s)\n", count)
 }
 
+func runGenerateGenrePages(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("generate-genre-pages", flag.ExitOnError)
+	outDir := fs.String("out-dir", filepath.Join(paths.cwd, "content", "genres"), "output directory for generated genre markdown")
+	slug := fs.String("slug", "", "optional canonical genre slug to generate")
+	limit := fs.Int("limit", 0, "optional max number of pages to generate")
+	if err := fs.Parse(args); err != nil {
+		fmt.Fprintln(os.Stderr, "generate genre pages flags:", err)
+		os.Exit(1)
+	}
+
+	records, err := datalayer.LoadAggregatedGenres(filepath.Join(paths.dataRoot, "aggregated", "genres"))
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "load aggregated genres error:", err)
+		os.Exit(1)
+	}
+	if len(records) == 0 {
+		fmt.Fprintln(os.Stderr, "no aggregated genre records found")
+		os.Exit(1)
+	}
+
+	selected := map[string]bool{}
+	if strings.TrimSpace(*slug) != "" {
+		selected[genres.Slug(*slug)] = true
+	}
+	if *limit > 0 && len(selected) == 0 {
+		selected = map[string]bool{}
+		for i, record := range records {
+			if i >= *limit {
+				break
+			}
+			selected[record.CanonicalSlug] = true
+		}
+	}
+
+	tmplPath := filepath.Join(templatesDir(), "genre.md.tmpl")
+	updated, unchanged, err := render.WriteGenrePages(records, *outDir, tmplPath, selected)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "generate genre pages error:", err)
+		os.Exit(1)
+	}
+	fmt.Printf("Generated genre pages in %s (updated=%d unchanged=%d)\n", *outDir, updated, unchanged)
+}
+
 func runMusicBrainzBackfillArtists(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("musicbrainz-backfill-artists", flag.ExitOnError)
 	limit := fs.Int("limit", 0, "max artists to enrich")
@@ -1835,9 +1929,13 @@ func isLikelyGenreEditorialImage(fileTitle string) bool {
 	return true
 }
 
-func runPersona(paths runtimePaths) {
-	vault := vaultPath()
-	outPath := filepath.Join(vault, "01-ai-brain", "context-packs", "Music Taste.md")
+func runPersona(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("persona", flag.ExitOnError)
+	outDir := fs.String("out-dir", "", "output root override for safe sandbox generation")
+	_ = fs.Parse(args)
+
+	outputRoot := noteOutputRoot(*outDir)
+	outPath := filepath.Join(outputRoot, "01-ai-brain", "context-packs", "Music Taste.md")
 	tmplPath := filepath.Join(templatesDir(), "persona.md.tmpl")
 
 	c, err := getClient(paths)
@@ -1890,7 +1988,7 @@ func runPersona(paths runtimePaths) {
 			SourceGenres:        a.SourceGenres,
 			Images:              a.Images,
 		}
-		if err := render.UpdateArtistStub(record, vault); err != nil {
+		if err := render.UpdateArtistStub(record, outputRoot); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", a.Name, err)
 		}
 	}

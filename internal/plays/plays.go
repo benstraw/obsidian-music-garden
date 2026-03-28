@@ -45,22 +45,57 @@ func Save(path string, plays []models.Play) error {
 // Merge returns the union of existing and incoming plays, deduplicated by played_at,
 // sorted descending.
 func Merge(existing, incoming []models.Play) []models.Play {
-	seen := make(map[string]bool, len(existing))
-	for _, p := range existing {
-		seen[p.PlayedAt] = true
-	}
+	seen := make(map[string]int, len(existing))
 	combined := make([]models.Play, len(existing))
 	copy(combined, existing)
+	for i, p := range existing {
+		seen[p.PlayedAt] = i
+	}
 	for _, p := range incoming {
-		if !seen[p.PlayedAt] {
+		if idx, ok := seen[p.PlayedAt]; ok {
+			combined[idx] = mergePlay(combined[idx], p)
+		} else {
 			combined = append(combined, p)
-			seen[p.PlayedAt] = true
+			seen[p.PlayedAt] = len(combined) - 1
 		}
 	}
 	sort.Slice(combined, func(i, j int) bool {
 		return combined[i].PlayedAt > combined[j].PlayedAt
 	})
 	return combined
+}
+
+func mergePlay(existing, incoming models.Play) models.Play {
+	merged := existing
+	merged.Source = firstNonEmpty(existing.Source, incoming.Source)
+	merged.TrackID = firstNonEmpty(existing.TrackID, incoming.TrackID)
+	merged.TrackSlug = firstNonEmpty(existing.TrackSlug, incoming.TrackSlug)
+	merged.TrackName = firstNonEmpty(existing.TrackName, incoming.TrackName)
+	merged.TrackMusicBrainzID = firstNonEmpty(existing.TrackMusicBrainzID, incoming.TrackMusicBrainzID)
+	merged.ArtistSlug = firstNonEmpty(existing.ArtistSlug, incoming.ArtistSlug)
+	merged.ArtistID = firstNonEmpty(existing.ArtistID, incoming.ArtistID)
+	merged.ArtistName = firstNonEmpty(existing.ArtistName, incoming.ArtistName)
+	merged.ArtistSpotifyURL = firstNonEmpty(existing.ArtistSpotifyURL, incoming.ArtistSpotifyURL)
+	merged.ArtistMusicBrainzID = firstNonEmpty(existing.ArtistMusicBrainzID, incoming.ArtistMusicBrainzID)
+	merged.ReleaseSlug = firstNonEmpty(existing.ReleaseSlug, incoming.ReleaseSlug)
+	merged.AlbumID = firstNonEmpty(existing.AlbumID, incoming.AlbumID)
+	merged.AlbumName = firstNonEmpty(existing.AlbumName, incoming.AlbumName)
+	merged.ReleaseMusicBrainzID = firstNonEmpty(existing.ReleaseMusicBrainzID, incoming.ReleaseMusicBrainzID)
+	merged.ReleaseGroupMusicBrainzID = firstNonEmpty(existing.ReleaseGroupMusicBrainzID, incoming.ReleaseGroupMusicBrainzID)
+	if merged.DurationMS == 0 && incoming.DurationMS != 0 {
+		merged.DurationMS = incoming.DurationMS
+	}
+	merged.TrackSpotifyURL = firstNonEmpty(existing.TrackSpotifyURL, incoming.TrackSpotifyURL)
+	return merged
+}
+
+func firstNonEmpty(values ...string) string {
+	for _, value := range values {
+		if strings.TrimSpace(value) != "" {
+			return value
+		}
+	}
+	return ""
 }
 
 // parsePlayedAt parses a Spotify played_at timestamp (RFC3339 with optional sub-seconds).
@@ -179,10 +214,12 @@ func SaveSharded(baseDir string, incoming []models.Play) (int, error) {
 		}
 		merged := Merge(existing, g.plays)
 		n := len(merged) - len(existing)
-		if n <= 0 {
+		if n <= 0 && reflect.DeepEqual(existing, merged) {
 			continue // nothing new for this week
 		}
-		added += n
+		if n > 0 {
+			added += n
+		}
 		if err := os.MkdirAll(filepath.Dir(g.path), 0755); err != nil {
 			return added, fmt.Errorf("mkdir %s: %w", filepath.Dir(g.path), err)
 		}

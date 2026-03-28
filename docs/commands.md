@@ -72,12 +72,31 @@ plays directory.
 Since Spotify only returns the last 50 plays, running `collect` 5× daily
 ensures no plays are lost to the 50-track API cap.
 
+The files under `data/plays/` are the durable listening ledger for the garden.
+They are not raw Spotify payloads; they are the project-shaped play records
+that downstream enrichment, aggregation, and markdown generation build on.
+
+---
+
+## repair-plays
+
+```bash
+./music-garden repair-plays
+```
+
+Rewrites existing weekly shards under `data/plays/` so older thin records pick
+up the richer canonical fields now supported by the project, including source,
+canonical artist/release/track slugs, and any resolvable album identifiers.
+
+Use this after schema upgrades or if your historical play files predate the
+current canonical play model.
+
 ---
 
 ## weekly
 
 ```bash
-./music-garden weekly [--date YYYY-MM-DD]
+./music-garden weekly [--date YYYY-MM-DD] [--out-dir DIR]
 ```
 
 Generates a weekly markdown note for the ISO week (Mon–Sun) containing the
@@ -88,6 +107,7 @@ given date (default: the current week).
 | Flag | Default | Description |
 |------|---------|-------------|
 | `--date` | today | Any date within the target week |
+| `--out-dir` | vault root | Override the output root for safe sandbox generation |
 
 **What it does:**
 1. Determines the ISO week (Monday 00:00 → Sunday 23:59 local time)
@@ -95,7 +115,7 @@ given date (default: the current week).
 3. Creates artist stubs for new artists (see below)
 4. Writes the weekly note (always overwrites if it already exists)
 
-**Output:** `{vault}/music/listening/spotify-YYYY-Www.md`
+**Output:** `{outputRoot}/music/listening/spotify-YYYY-Www.md`
 
 **Weekly note sections:**
 - YAML frontmatter (`type: note`, `tags: [music, weekly-music]`, `created`, `week`)
@@ -106,7 +126,7 @@ given date (default: the current week).
 - New Artists (first appearance — no stub existed before this run)
 - Notes (empty section)
 
-**Artist stubs** — created at `{vault}/music/artists/{Name}.md` for every
+**Artist stubs** — created at `{outputRoot}/music/artists/{Name}.md` for every
 artist in the week's plays. Never overwrites an existing stub. Each stub
 includes frontmatter (`type: resource`, `tags: [music/artist]`, `artist_slug`,
 `spotify_artist_id`, `musicbrainz_artist_id`, `spotify_url`, `genres`) and a
@@ -117,7 +137,7 @@ dataview query that lists all weekly notes linking to the artist.
 ## daily
 
 ```bash
-./music-garden daily [--date YYYY-MM-DD]
+./music-garden daily [--date YYYY-MM-DD] [--out-dir DIR]
 ```
 
 Generates a daily markdown note for the given calendar date (default: today).
@@ -127,6 +147,7 @@ Generates a daily markdown note for the given calendar date (default: today).
 | Flag | Default | Description |
 |------|---------|-------------|
 | `--date` | today | Date in `YYYY-MM-DD` (interpreted in local timezone) |
+| `--out-dir` | vault root | Override the output root for safe sandbox generation |
 
 **Behaviour:**
 1. Loads the effective sharded play history
@@ -136,7 +157,7 @@ Generates a daily markdown note for the given calendar date (default: today).
 5. If a note already exists, skips (never overwrites)
 6. Otherwise writes the daily note
 
-**Output:** `{vault}/music/listening/spotify-YYYY-MM-DD.md`
+**Output:** `{outputRoot}/music/listening/spotify-YYYY-MM-DD.md`
 
 **Daily note sections:**
 - YAML frontmatter (`type: note`, `tags: [music, daily-music]`, `created`, `date`)
@@ -148,14 +169,14 @@ Generates a daily markdown note for the given calendar date (default: today).
 - Notes (empty section)
 
 **Artist stubs:** `daily` also creates missing artist stubs at
-`{vault}/music/artists/{Name}.md` for artists heard on that day.
+`{outputRoot}/music/artists/{Name}.md` for artists heard on that day.
 
 ---
 
 ## catch-up
 
 ```bash
-./music-garden catch-up [--weeks N]
+./music-garden catch-up [--weeks N] [--out-dir DIR]
 ```
 
 Scans the vault's listening directory for missing weekly and daily notes and
@@ -166,9 +187,10 @@ generates only what is missing. Existing notes are never overwritten.
 | Flag | Default | Description |
 |------|---------|-------------|
 | `--weeks` | 8 | Number of weeks back to scan |
+| `--out-dir` | vault root | Override the output root for safe sandbox generation |
 
 **Behaviour:**
-1. Checks for `spotify-YYYY-Www.md` in `{vault}/music/listening/` for each
+1. Checks for `spotify-YYYY-Www.md` in `{outputRoot}/music/listening/` for each
    of the last N weeks
 2. Generates missing weekly notes in chronological order (oldest first)
 3. Loads the effective plays file once, then checks the last `N*7` days for missing
@@ -184,11 +206,17 @@ edited.
 ## persona
 
 ```bash
-./music-garden persona
+./music-garden persona [--out-dir DIR]
 ```
 
 Regenerates the Music Taste context pack at
-`{vault}/01-ai-brain/context-packs/Music Taste.md` (always overwrites).
+`{outputRoot}/01-ai-brain/context-packs/Music Taste.md` (always overwrites).
+
+**Flags:**
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--out-dir` | vault root | Override the output root for safe sandbox generation |
 
 **What it fetches:**
 - Top 50 artists for `short_term` (~4 weeks), `medium_term` (~6 months), `long_term` (all time)
@@ -306,6 +334,27 @@ Use this after:
 - MusicBrainz enrichment runs
 - Wikipedia genre enrichment runs
 - taxonomy curation changes
+
+---
+
+## generate-genre-pages
+
+```bash
+./music-garden generate-genre-pages [--out-dir ./content/genres] [--slug indie-rock] [--limit 2]
+```
+
+Renders Obsidian-friendly markdown genre pages from
+`data/aggregated/genres/*.json`.
+
+Default output is repo-local `content/genres/`. For safe review runs, pass a
+different `--out-dir`, for example:
+
+```bash
+./music-garden generate-genre-pages --out-dir ./sandbox/content/genres --limit 2
+```
+
+Each page includes front matter, a concise summary, listening stats, top local
+artists/albums/tracks, source notes, and related genre links when available.
 
 ---
 
