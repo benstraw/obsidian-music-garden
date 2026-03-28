@@ -721,6 +721,42 @@ func writeJSON(path string, v any) error {
 	return os.WriteFile(path, data, 0644)
 }
 
+// LoadAggregatedGenre reads one aggregated genre record from disk.
+func LoadAggregatedGenre(path string) (AggregatedGenreRecord, error) {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return AggregatedGenreRecord{}, err
+	}
+	var record AggregatedGenreRecord
+	if err := json.Unmarshal(data, &record); err != nil {
+		return AggregatedGenreRecord{}, err
+	}
+	return record, nil
+}
+
+// LoadAggregatedGenres reads all aggregated genre records from dir in slug order.
+func LoadAggregatedGenres(dir string) ([]AggregatedGenreRecord, error) {
+	entries, err := os.ReadDir(dir)
+	if err != nil {
+		return nil, err
+	}
+	records := make([]AggregatedGenreRecord, 0, len(entries))
+	for _, entry := range entries {
+		if entry.IsDir() || !strings.HasSuffix(entry.Name(), ".json") {
+			continue
+		}
+		record, err := LoadAggregatedGenre(filepath.Join(dir, entry.Name()))
+		if err != nil {
+			return nil, err
+		}
+		records = append(records, record)
+	}
+	sort.Slice(records, func(i, j int) bool {
+		return records[i].CanonicalSlug < records[j].CanonicalSlug
+	})
+	return records, nil
+}
+
 func dedupeStrings(values []string) []string {
 	seen := map[string]bool{}
 	var result []string

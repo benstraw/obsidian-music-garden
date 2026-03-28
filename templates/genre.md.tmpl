@@ -1,0 +1,72 @@
+---
+type: resource
+title: {{ .Title }}
+genre_slug: {{ .CanonicalSlug }}
+aliases: {{ .AliasesYAML }}
+parent_slug: {{ if .ParentSlug }}{{ .ParentSlug }}{{ else }}""{{ end }}
+status: {{ if .Status }}{{ .Status }}{{ else }}""{{ end }}
+last_updated: {{ if .LastUpdated }}{{ .LastUpdated }}{{ else }}""{{ end }}
+tags: ["music/genre"]
+---
+
+# {{ .Title }}
+
+{{ .Summary }}
+
+{{- if .Aliases }}
+## Aliases
+{{- range .Aliases }}
+- {{ . }}
+{{- end }}
+
+{{- end }}
+## Listening Stats
+- Plays tracked: {{ .PlayCount }}
+- Unique artists: {{ .UniqueArtistCount }}
+- Unique albums: {{ .UniqueReleaseCount }}
+- Unique tracks: {{ .UniqueTrackCount }}
+{{- if .FirstPlayedAt }}
+- First heard: {{ .FirstPlayedAt }}
+{{- end }}
+{{- if .LastPlayedAt }}
+- Most recent play: {{ .LastPlayedAt }}
+{{- end }}
+
+{{- if .TopArtists }}
+## Top Artists
+{{- range .TopArtists }}
+- {{ .Name }} ({{ .PlayCount }} play{{ if ne .PlayCount 1 }}s{{ end }})
+{{- end }}
+
+{{- end }}
+{{- if .TopReleases }}
+## Top Albums
+{{- range .TopReleases }}
+- {{ .Name }} by {{ .PrimaryArtistName }} ({{ .PlayCount }} play{{ if ne .PlayCount 1 }}s{{ end }})
+{{- end }}
+
+{{- end }}
+{{- if .TopTracks }}
+## Top Tracks
+{{- range .TopTracks }}
+- {{ .Name }} by {{ .PrimaryArtistName }} ({{ .PlayCount }} play{{ if ne .PlayCount 1 }}s{{ end }})
+{{- end }}
+
+{{- end }}
+{{- if .RelatedGenres }}
+## Related Genres
+{{- range .RelatedGenres }}
+- [[{{ .Slug }}|{{ .Title }}]]
+{{- end }}
+
+{{- end }}
+## Sources
+{{- range .SourceRefs }}
+- {{ .Role }}: {{ .Source }}{{ if .URL }} — {{ .URL }}{{ end }}{{ if .Path }} (`{{ .Path }}`){{ end }}{{ if .Note }}. {{ .Note }}{{ end }}
+{{- end }}
+
+{{- if .Notes }}
+## Notes
+{{ .Notes }}
+
+{{- end }}

@@ -1,11 +1,14 @@
 package render
 
 import (
+	"encoding/json"
 	"os"
+	"path/filepath"
 	"strings"
 	"testing"
 	"time"
 
+	"github.com/benstraw/music-garden/internal/datalayer"
 	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/models"
 )
@@ -275,6 +278,114 @@ func TestRenderWeekly_withPlays(t *testing.T) {
 		if !strings.Contains(content, s) {
 			t.Errorf("output missing %q", s)
 		}
+	}
+}
+
+func TestRenderGenrePage(t *testing.T) {
+	dir := t.TempDir()
+	tmplPath := filepath.Join(dir, "genre.md.tmpl")
+	template := `---
+title: {{ .Title }}
+aliases: {{ .AliasesYAML }}
+---
+# {{ .Title }}
+{{ .Summary }}
+{{ range .RelatedGenres }}[[{{ .Slug }}|{{ .Title }}]]
+{{ end }}`
+	if err := os.WriteFile(tmplPath, []byte(template), 0644); err != nil {
+		t.Fatalf("WriteFile template: %v", err)
+	}
+
+	record := datalayer.AggregatedGenreRecord{
+		CanonicalSlug: "acid-jazz",
+		DisplayTitle:  "Acid Jazz",
+		Aliases:       []string{"acid jazz"},
+		Summary:       "A jazz-funk fusion style.",
+		ParentSlug:    "jazz",
+	}
+	all := []datalayer.AggregatedGenreRecord{
+		record,
+		{CanonicalSlug: "jazz", DisplayTitle: "Jazz"},
+		{CanonicalSlug: "jazz-funk", DisplayTitle: "Jazz Funk", ParentSlug: "jazz"},
+	}
+	content, err := RenderGenrePage(record, all, tmplPath)
+	if err != nil {
+		t.Fatalf("RenderGenrePage: %v", err)
+	}
+	checks := []string{
+		"title: Acid Jazz",
+		"aliases: [\"acid jazz\"]",
+		"# Acid Jazz",
+		"A jazz-funk fusion style.",
+		"[[jazz|Jazz]]",
+		"[[jazz-funk|Jazz Funk]]",
+	}
+	for _, s := range checks {
+		if !strings.Contains(content, s) {
+			t.Fatalf("missing %q in output:\n%s", s, content)
+		}
+	}
+}
+
+func TestWriteGenrePages_idempotent(t *testing.T) {
+	dir := t.TempDir()
+	outDir := filepath.Join(dir, "content", "genres")
+	tmplPath := filepath.Join(dir, "genre.md.tmpl")
+	template := `---
+title: {{ .Title }}
+---
+# {{ .Title }}
+{{ .Summary }}`
+	if err := os.WriteFile(tmplPath, []byte(template), 0644); err != nil {
+		t.Fatalf("WriteFile template: %v", err)
+	}
+	records := []datalayer.AggregatedGenreRecord{
+		{CanonicalSlug: "acid-jazz", DisplayTitle: "Acid Jazz", Summary: "A jazz-funk fusion style."},
+	}
+	updated, unchanged, err := WriteGenrePages(records, outDir, tmplPath, nil)
+	if err != nil {
+		t.Fatalf("WriteGenrePages first: %v", err)
+	}
+	if updated != 1 || unchanged != 0 {
+		t.Fatalf("first WriteGenrePages = updated %d unchanged %d", updated, unchanged)
+	}
+	updated, unchanged, err = WriteGenrePages(records, outDir, tmplPath, nil)
+	if err != nil {
+		t.Fatalf("WriteGenrePages second: %v", err)
+	}
+	if updated != 0 || unchanged != 1 {
+		t.Fatalf("second WriteGenrePages = updated %d unchanged %d", updated, unchanged)
+	}
+	data, err := os.ReadFile(filepath.Join(outDir, "acid-jazz.md"))
+	if err != nil {
+		t.Fatalf("ReadFile output: %v", err)
+	}
+	if !strings.Contains(string(data), "# Acid Jazz") {
+		t.Fatalf("unexpected output: %s", string(data))
+	}
+}
+
+func TestLoadAggregatedGenreRoundTrip(t *testing.T) {
+	dir := t.TempDir()
+	path := filepath.Join(dir, "genre.json")
+	want := datalayer.AggregatedGenreRecord{
+		CanonicalSlug: "acid-jazz",
+		DisplayTitle:  "Acid Jazz",
+		Summary:       "A jazz-funk fusion style.",
+	}
+	data, err := json.Marshal(want)
+	if err != nil {
+		t.Fatalf("Marshal: %v", err)
+	}
+	if err := os.WriteFile(path, data, 0644); err != nil {
+		t.Fatalf("WriteFile: %v", err)
+	}
+	got, err := datalayer.LoadAggregatedGenre(path)
+	if err != nil {
+		t.Fatalf("LoadAggregatedGenre: %v", err)
+	}
+	if got.CanonicalSlug != want.CanonicalSlug || got.DisplayTitle != want.DisplayTitle || got.Summary != want.Summary {
+		t.Fatalf("LoadAggregatedGenre = %+v", got)
 	}
 }
 
