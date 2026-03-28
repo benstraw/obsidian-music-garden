@@ -91,20 +91,26 @@ func RenderGenrePage(record datalayer.AggregatedGenreRecord, all []datalayer.Agg
 }
 
 // WriteGenrePages renders aggregated genre records into outDir. It returns counts
-// for updated and unchanged files.
-func WriteGenrePages(records []datalayer.AggregatedGenreRecord, outDir, tmplPath string, selected map[string]bool) (int, int, error) {
+// for updated, unchanged, and skipped (pending) files.
+func WriteGenrePages(records []datalayer.AggregatedGenreRecord, outDir, tmplPath string, selected map[string]bool) (int, int, int, error) {
 	if err := os.MkdirAll(outDir, 0755); err != nil {
-		return 0, 0, err
+		return 0, 0, 0, err
 	}
 	updated := 0
 	unchanged := 0
+	skipped := 0
 	for _, record := range records {
 		if len(selected) > 0 && !selected[record.CanonicalSlug] {
 			continue
 		}
+		// Skip pending (uncurated) genres unless explicitly selected by slug.
+		if record.Pending && !selected[record.CanonicalSlug] {
+			skipped++
+			continue
+		}
 		content, err := RenderGenrePage(record, records, tmplPath)
 		if err != nil {
-			return updated, unchanged, err
+			return updated, unchanged, skipped, err
 		}
 		path := filepath.Join(outDir, record.CanonicalSlug+".md")
 		existing, err := os.ReadFile(path)
@@ -113,11 +119,11 @@ func WriteGenrePages(records []datalayer.AggregatedGenreRecord, outDir, tmplPath
 			continue
 		}
 		if err := os.WriteFile(path, []byte(content), 0644); err != nil {
-			return updated, unchanged, err
+			return updated, unchanged, skipped, err
 		}
 		updated++
 	}
-	return updated, unchanged, nil
+	return updated, unchanged, skipped, nil
 }
 
 func relatedGenres(record datalayer.AggregatedGenreRecord, all []datalayer.AggregatedGenreRecord) []genrePageLink {

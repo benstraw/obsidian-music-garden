@@ -353,6 +353,10 @@ different `--out-dir`, for example:
 ./music-garden generate-genre-pages --out-dir ./sandbox/content/genres --limit 2
 ```
 
+Genres marked as **pending** (uncurated source labels not yet mapped in the
+taxonomy) are skipped by default. To force generation for a pending genre, pass
+its slug explicitly with `--slug`.
+
 Each page includes front matter, a concise summary, listening stats, top local
 artists/albums/tracks, source notes, and related genre links when available.
 

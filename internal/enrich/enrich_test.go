@@ -1,4 +1,4 @@
-package main
+package enrich
 
 import "testing"
 
@@ -12,8 +12,8 @@ func TestIsLikelyGenreEditorialImage(t *testing.T) {
 		{title: "File:Wikipedia-logo-v2.svg", want: false},
 	}
 	for _, tc := range cases {
-		if got := isLikelyGenreEditorialImage(tc.title); got != tc.want {
-			t.Fatalf("isLikelyGenreEditorialImage(%q) = %v, want %v", tc.title, got, tc.want)
+		if got := IsLikelyGenreEditorialImage(tc.title); got != tc.want {
+			t.Fatalf("IsLikelyGenreEditorialImage(%q) = %v, want %v", tc.title, got, tc.want)
 		}
 	}
 }

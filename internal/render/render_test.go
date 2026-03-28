@@ -342,19 +342,19 @@ title: {{ .Title }}
 	records := []datalayer.AggregatedGenreRecord{
 		{CanonicalSlug: "acid-jazz", DisplayTitle: "Acid Jazz", Summary: "A jazz-funk fusion style."},
 	}
-	updated, unchanged, err := WriteGenrePages(records, outDir, tmplPath, nil)
+	updated, unchanged, skipped, err := WriteGenrePages(records, outDir, tmplPath, nil)
 	if err != nil {
 		t.Fatalf("WriteGenrePages first: %v", err)
 	}
-	if updated != 1 || unchanged != 0 {
-		t.Fatalf("first WriteGenrePages = updated %d unchanged %d", updated, unchanged)
+	if updated != 1 || unchanged != 0 || skipped != 0 {
+		t.Fatalf("first WriteGenrePages = updated %d unchanged %d skipped %d", updated, unchanged, skipped)
 	}
-	updated, unchanged, err = WriteGenrePages(records, outDir, tmplPath, nil)
+	updated, unchanged, skipped, err = WriteGenrePages(records, outDir, tmplPath, nil)
 	if err != nil {
 		t.Fatalf("WriteGenrePages second: %v", err)
 	}
-	if updated != 0 || unchanged != 1 {
-		t.Fatalf("second WriteGenrePages = updated %d unchanged %d", updated, unchanged)
+	if updated != 0 || unchanged != 1 || skipped != 0 {
+		t.Fatalf("second WriteGenrePages = updated %d unchanged %d skipped %d", updated, unchanged, skipped)
 	}
 	data, err := os.ReadFile(filepath.Join(outDir, "acid-jazz.md"))
 	if err != nil {
