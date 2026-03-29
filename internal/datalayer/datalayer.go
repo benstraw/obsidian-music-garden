@@ -45,15 +45,18 @@ type NormalizedReleaseRecord struct {
 
 // NormalizedTrackRecord models a source-cleaned track before cross-source merge.
 type NormalizedTrackRecord struct {
-	Source                     string `json:"source"`
-	SourceTrackID              string `json:"source_track_id,omitempty"`
-	Name                       string `json:"name"`
-	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
-	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
-	ReleaseName                string `json:"release_name,omitempty"`
-	ReleaseCanonicalSlug       string `json:"release_canonical_slug,omitempty"`
-	SpotifyURL                 string `json:"spotify_url,omitempty"`
-	MusicBrainzTrackID         string `json:"musicbrainz_track_id,omitempty"`
+	Source                     string   `json:"source"`
+	SourceTrackID              string   `json:"source_track_id,omitempty"`
+	Name                       string   `json:"name"`
+	PrimaryArtistName          string   `json:"primary_artist_name,omitempty"`
+	PrimaryArtistCanonicalSlug string   `json:"primary_artist_canonical_slug,omitempty"`
+	AdditionalArtistSlugs      []string `json:"additional_artist_slugs,omitempty"`
+	AlbumArtistSlugs           []string `json:"album_artist_slugs,omitempty"`
+	ReleaseName                string   `json:"release_name,omitempty"`
+	ReleaseCanonicalSlug       string   `json:"release_canonical_slug,omitempty"`
+	SpotifyURL                 string   `json:"spotify_url,omitempty"`
+	MusicBrainzTrackID         string   `json:"musicbrainz_track_id,omitempty"`
+	LegacyPlayCount            int      `json:"legacy_play_count,omitempty"`
 }
 
 // NormalizedGenreRecord models one source genre mapped into the garden taxonomy.
@@ -75,6 +78,8 @@ type NormalizedGenreRecord struct {
 type AggregatedArtistRecord struct {
 	CanonicalSlug       string                         `json:"canonical_slug"`
 	Name                string                         `json:"name"`
+	PlayCount           int                            `json:"play_count,omitempty"`
+	LegacyPlayCount     int                            `json:"legacy_play_count,omitempty"`
 	SpotifyArtistID     string                         `json:"spotify_artist_id,omitempty"`
 	MusicBrainzArtistID string                         `json:"musicbrainz_artist_id,omitempty"`
 	SpotifyURL          string                         `json:"spotify_url,omitempty"`
@@ -96,6 +101,8 @@ type AggregatedArtistRecord struct {
 type AggregatedReleaseRecord struct {
 	CanonicalSlug              string `json:"canonical_slug"`
 	Name                       string `json:"name"`
+	PlayCount                  int    `json:"play_count,omitempty"`
+	LegacyPlayCount            int    `json:"legacy_play_count,omitempty"`
 	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
 	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
 	SpotifyAlbumID             string `json:"spotify_album_id,omitempty"`
@@ -106,16 +113,20 @@ type AggregatedReleaseRecord struct {
 
 // AggregatedTrackRecord is the persisted canonical track record.
 type AggregatedTrackRecord struct {
-	CanonicalSlug              string `json:"canonical_slug"`
-	Name                       string `json:"name"`
-	PrimaryArtistCanonicalSlug string `json:"primary_artist_canonical_slug,omitempty"`
-	PrimaryArtistName          string `json:"primary_artist_name,omitempty"`
-	ReleaseCanonicalSlug       string `json:"release_canonical_slug,omitempty"`
-	ReleaseName                string `json:"release_name,omitempty"`
-	SpotifyTrackID             string `json:"spotify_track_id,omitempty"`
-	MusicBrainzTrackID         string `json:"musicbrainz_track_id,omitempty"`
-	SpotifyURL                 string `json:"spotify_url,omitempty"`
-	LastUpdated                string `json:"last_updated,omitempty"`
+	CanonicalSlug              string   `json:"canonical_slug"`
+	Name                       string   `json:"name"`
+	PlayCount                  int      `json:"play_count,omitempty"`
+	PrimaryArtistCanonicalSlug string   `json:"primary_artist_canonical_slug,omitempty"`
+	PrimaryArtistName          string   `json:"primary_artist_name,omitempty"`
+	AdditionalArtistSlugs      []string `json:"additional_artist_slugs,omitempty"`
+	AlbumArtistSlugs           []string `json:"album_artist_slugs,omitempty"`
+	ReleaseCanonicalSlug       string   `json:"release_canonical_slug,omitempty"`
+	ReleaseName                string   `json:"release_name,omitempty"`
+	SpotifyTrackID             string   `json:"spotify_track_id,omitempty"`
+	MusicBrainzTrackID         string   `json:"musicbrainz_track_id,omitempty"`
+	SpotifyURL                 string   `json:"spotify_url,omitempty"`
+	LegacyPlayCount            int      `json:"legacy_play_count,omitempty"`
+	LastUpdated                string   `json:"last_updated,omitempty"`
 }
 
 // AggregatedSourceReference documents where a major field in the aggregate came from.
@@ -185,6 +196,7 @@ type AggregatedGenreRecord struct {
 	Notes           string                         `json:"notes,omitempty"`
 	Aliases         []string                       `json:"aliases,omitempty"`
 	Pending         bool                           `json:"pending"`
+	WorkflowState   string                         `json:"workflow_state,omitempty"`
 	Status          string                         `json:"status,omitempty"`
 	WikipediaTitle  string                         `json:"wikipedia_title,omitempty"`
 	WikipediaURL    string                         `json:"wikipedia_url,omitempty"`
@@ -357,13 +369,13 @@ func SyncAggregatedStore(dataRoot string, store *genres.Store, plays []models.Pl
 	if err := SyncNormalizedStore(dataRoot, store); err != nil {
 		return err
 	}
-	if err := writeAggregatedArtists(filepath.Join(dataRoot, "aggregated", "artists"), store); err != nil {
+	if err := writeAggregatedArtists(filepath.Join(dataRoot, "aggregated", "artists"), store, plays); err != nil {
 		return err
 	}
-	if err := writeAggregatedReleases(filepath.Join(dataRoot, "aggregated", "releases"), store); err != nil {
+	if err := writeAggregatedReleases(filepath.Join(dataRoot, "aggregated", "releases"), store, plays); err != nil {
 		return err
 	}
-	if err := writeAggregatedTracks(filepath.Join(dataRoot, "aggregated", "tracks"), store); err != nil {
+	if err := writeAggregatedTracks(filepath.Join(dataRoot, "aggregated", "tracks"), store, plays); err != nil {
 		return err
 	}
 	if err := writeAggregatedGenres(filepath.Join(dataRoot, "aggregated", "genres"), dataRoot, store, plays); err != nil {
@@ -448,10 +460,13 @@ func writeNormalizedTracks(dir string, store *genres.Store) error {
 			Name:                       record.Name,
 			PrimaryArtistName:          record.PrimaryArtistName,
 			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
+			AdditionalArtistSlugs:      append([]string(nil), record.AdditionalArtistSlugs...),
+			AlbumArtistSlugs:           append([]string(nil), record.AlbumArtistSlugs...),
 			ReleaseName:                record.ReleaseName,
 			ReleaseCanonicalSlug:       record.ReleaseSlug,
 			SpotifyURL:                 record.SpotifyURL,
 			MusicBrainzTrackID:         record.MusicBrainzTrackID,
+			LegacyPlayCount:            record.LegacyPlayCount,
 		}
 		if err := writeJSON(path, payload); err != nil {
 			return err
@@ -485,12 +500,15 @@ func writeNormalizedGenres(dir string, store *genres.Store) error {
 	return nil
 }
 
-func writeAggregatedArtists(dir string, store *genres.Store) error {
+func writeAggregatedArtists(dir string, store *genres.Store, plays []models.Play) error {
+	observedArtistCounts, legacyArtistCounts, _, _ := aggregateEntityCounts(store, plays)
 	for _, record := range genres.ArtistRecords(store) {
 		path := filepath.Join(dir, record.Slug+".json")
 		payload := AggregatedArtistRecord{
 			CanonicalSlug:       record.Slug,
 			Name:                record.Name,
+			PlayCount:           observedArtistCounts[record.Slug] + legacyArtistCounts[record.Slug],
+			LegacyPlayCount:     legacyArtistCounts[record.Slug],
 			SpotifyArtistID:     record.SpotifyArtistID,
 			MusicBrainzArtistID: record.MusicBrainzArtistID,
 			SpotifyURL:          record.SpotifyURL,
@@ -514,12 +532,15 @@ func writeAggregatedArtists(dir string, store *genres.Store) error {
 	return nil
 }
 
-func writeAggregatedReleases(dir string, store *genres.Store) error {
+func writeAggregatedReleases(dir string, store *genres.Store, plays []models.Play) error {
+	_, _, observedReleaseCounts, legacyReleaseCounts := aggregateEntityCounts(store, plays)
 	for _, record := range genres.ReleaseRecords(store) {
 		path := filepath.Join(dir, record.Slug+".json")
 		payload := AggregatedReleaseRecord{
 			CanonicalSlug:              record.Slug,
 			Name:                       record.Name,
+			PlayCount:                  observedReleaseCounts[record.Slug] + legacyReleaseCounts[record.Slug],
+			LegacyPlayCount:            legacyReleaseCounts[record.Slug],
 			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
 			PrimaryArtistName:          record.PrimaryArtistName,
 			SpotifyAlbumID:             record.SpotifyAlbumID,
@@ -534,19 +555,24 @@ func writeAggregatedReleases(dir string, store *genres.Store) error {
 	return nil
 }
 
-func writeAggregatedTracks(dir string, store *genres.Store) error {
+func writeAggregatedTracks(dir string, store *genres.Store, plays []models.Play) error {
+	_, _, _, _, observedTrackCounts, legacyTrackCounts := aggregateTrackCounts(store, plays)
 	for _, record := range genres.TrackRecords(store) {
 		path := filepath.Join(dir, record.Slug+".json")
 		payload := AggregatedTrackRecord{
 			CanonicalSlug:              record.Slug,
 			Name:                       record.Name,
+			PlayCount:                  observedTrackCounts[record.Slug] + legacyTrackCounts[record.Slug],
 			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
 			PrimaryArtistName:          record.PrimaryArtistName,
+			AdditionalArtistSlugs:      append([]string(nil), record.AdditionalArtistSlugs...),
+			AlbumArtistSlugs:           append([]string(nil), record.AlbumArtistSlugs...),
 			ReleaseCanonicalSlug:       record.ReleaseSlug,
 			ReleaseName:                record.ReleaseName,
 			SpotifyTrackID:             record.SpotifyTrackID,
 			MusicBrainzTrackID:         record.MusicBrainzTrackID,
 			SpotifyURL:                 record.SpotifyURL,
+			LegacyPlayCount:            legacyTrackCounts[record.Slug],
 			LastUpdated:                record.LastUpdated,
 		}
 		if err := writeJSON(path, payload); err != nil {
@@ -568,10 +594,15 @@ func writeAggregatedGenres(dir, dataRoot string, store *genres.Store, plays []mo
 		if slug == "" {
 			continue
 		}
-		if _, ok := aliasBuckets[slug]; !ok {
+		aliases, ok := aliasBuckets[slug]
+		if !ok {
 			aliasBuckets[slug] = nil
+			seenPending[slug] = true
+			continue
 		}
-		seenPending[slug] = true
+		if len(aliases) == 0 {
+			seenPending[slug] = true
+		}
 	}
 
 	slugs := make([]string, 0, len(aliasBuckets))
@@ -608,6 +639,7 @@ func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []mo
 		DisplayName:   humanizeSlug(slug),
 		Aliases:       aliases,
 		Pending:       pending,
+		WorkflowState: genres.WorkflowStateDraft,
 		ListeningStats: GenreListeningStats{
 			Source: "spotify-local-plays",
 		},
@@ -618,6 +650,7 @@ func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []mo
 		payload.DisplayName = firstNonEmpty(record.DisplayName, payload.DisplayName)
 		payload.ParentSlug = record.ParentSlug
 		payload.Notes = record.Notes
+		payload.WorkflowState = genres.GenreWorkflowState(record)
 		payload.Status = record.Status
 		payload.WikipediaTitle = record.WikipediaTitle
 		payload.WikipediaURL = record.WikipediaURL
@@ -664,6 +697,29 @@ func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []mo
 		if trackSlug != "" {
 			trackCounts[trackSlug]++
 			seenTracks[trackSlug] = true
+		}
+	}
+
+	for _, track := range genres.TrackRecords(store) {
+		if track.LegacyPlayCount <= 0 {
+			continue
+		}
+		artist, ok := store.Artists[track.PrimaryArtistSlug]
+		if !ok || !containsString(artist.Genres, slug) {
+			continue
+		}
+		payload.ListeningStats.PlayCount += track.LegacyPlayCount
+		if artist.Slug != "" {
+			artistCounts[artist.Slug] += track.LegacyPlayCount
+			seenArtists[artist.Slug] = true
+		}
+		if track.ReleaseSlug != "" {
+			releaseCounts[track.ReleaseSlug] += track.LegacyPlayCount
+			seenReleases[track.ReleaseSlug] = true
+		}
+		if track.Slug != "" {
+			trackCounts[track.Slug] += track.LegacyPlayCount
+			seenTracks[track.Slug] = true
 		}
 	}
 
@@ -770,6 +826,56 @@ func dedupeStrings(values []string) []string {
 	return result
 }
 
+func aggregateEntityCounts(store *genres.Store, plays []models.Play) (map[string]int, map[string]int, map[string]int, map[string]int) {
+	observedArtistCounts := map[string]int{}
+	legacyArtistCounts := map[string]int{}
+	observedReleaseCounts := map[string]int{}
+	legacyReleaseCounts := map[string]int{}
+
+	for _, play := range plays {
+		if artist, ok := artistRecordForPlay(store, play); ok && artist.Slug != "" {
+			observedArtistCounts[artist.Slug]++
+		}
+		if releaseSlug := firstNonEmpty(play.ReleaseSlug, releaseSlugForPlay(store, play)); releaseSlug != "" {
+			observedReleaseCounts[releaseSlug]++
+		}
+	}
+
+	for _, track := range genres.TrackRecords(store) {
+		if track.LegacyPlayCount <= 0 {
+			continue
+		}
+		if track.PrimaryArtistSlug != "" {
+			legacyArtistCounts[track.PrimaryArtistSlug] += track.LegacyPlayCount
+		}
+		if track.ReleaseSlug != "" {
+			legacyReleaseCounts[track.ReleaseSlug] += track.LegacyPlayCount
+		}
+	}
+
+	return observedArtistCounts, legacyArtistCounts, observedReleaseCounts, legacyReleaseCounts
+}
+
+func aggregateTrackCounts(store *genres.Store, plays []models.Play) (map[string]int, map[string]int, map[string]int, map[string]int, map[string]int, map[string]int) {
+	observedArtistCounts, legacyArtistCounts, observedReleaseCounts, legacyReleaseCounts := aggregateEntityCounts(store, plays)
+	observedTrackCounts := map[string]int{}
+	legacyTrackCounts := map[string]int{}
+
+	for _, play := range plays {
+		if trackSlug := firstNonEmpty(play.TrackSlug, trackSlugForPlay(store, play)); trackSlug != "" {
+			observedTrackCounts[trackSlug]++
+		}
+	}
+	for _, track := range genres.TrackRecords(store) {
+		if track.LegacyPlayCount <= 0 || track.Slug == "" {
+			continue
+		}
+		legacyTrackCounts[track.Slug] += track.LegacyPlayCount
+	}
+
+	return observedArtistCounts, legacyArtistCounts, observedReleaseCounts, legacyReleaseCounts, observedTrackCounts, legacyTrackCounts
+}
+
 func containsString(values []string, target string) bool {
 	for _, value := range values {
 		if value == target {
@@ -787,10 +893,12 @@ func genreAliasesForSlug(store *genres.Store, target string) ([]string, bool, bo
 		}
 	}
 	pending := false
-	for _, label := range store.PendingGenreAliases {
-		if genres.Slug(label) == target {
-			pending = true
-			break
+	if len(aliases) == 0 {
+		for _, label := range store.PendingGenreAliases {
+			if genres.Slug(label) == target {
+				pending = true
+				break
+			}
 		}
 	}
 	if len(aliases) == 0 {
@@ -1020,10 +1128,10 @@ func genreSourceRefs(_ string, record AggregatedGenreRecord, includeTaxonomy boo
 	if record.ListeningStats.PlayCount > 0 {
 		refs = append(refs, AggregatedSourceReference{
 			Role:      "listening_stats",
-			Source:    "spotify",
+			Source:    "spotify+legacy",
 			Path:      filepath.ToSlash(filepath.Join("plays")),
 			UpdatedAt: record.ListeningStats.LastPlayedAt,
-			Note:      "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history.",
+			Note:      "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history plus imported untimestamped legacy play counts.",
 		})
 	}
 	if record.WikipediaURL != "" || record.Summary != "" {

@@ -180,6 +180,14 @@ func WikipediaGenre(dataRoot string, client *mwclient.Client, store *genres.Stor
 		}
 		pageTitle, err = ChooseWikipediaPageTitle(seed, search.Value)
 		if err != nil {
+			if seed.PageTitle == "" && len(candidates) > 0 {
+				if fallback, ferr := genreMusicFallbackSearch(client, seed, writeRaw); ferr == nil && fallback != "" {
+					pageTitle = fallback
+					err = nil
+				}
+			}
+		}
+		if err != nil {
 			status := UnresolvedStatus(search.Value)
 			normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, status, candidates, fetchedAt)
 			_ = datalayer.WriteNormalizedWikipediaGenre(dataRoot, seed.CanonicalSlug, normalized)
@@ -195,10 +203,23 @@ func WikipediaGenre(dataRoot string, client *mwclient.Client, store *genres.Stor
 	summaryStem := genres.Slug(seed.CanonicalSlug)
 	writeRaw("summaries", summaryStem, summary.Endpoint, summary.RequestURL, summary.FetchedAt, summary.Body, summary.FromCache)
 	if summary.Value.Type == "disambiguation" {
-		normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, "ambiguous", candidates, fetchedAt)
-		_ = datalayer.WriteNormalizedWikipediaGenre(dataRoot, seed.CanonicalSlug, normalized)
-		genres.UpsertGenreEditorial(store, record)
-		return "ambiguous", "", nil
+		resolved := false
+		if seed.PageTitle == "" {
+			if fallback, ferr := genreMusicFallbackSearch(client, seed, writeRaw); ferr == nil && fallback != "" {
+				if summary2, err2 := client.GetSummary(fallback); err2 == nil && summary2.Value.Type != "disambiguation" {
+					pageTitle = fallback
+					summary = summary2
+					writeRaw("summaries", summaryStem, summary2.Endpoint, summary2.RequestURL, summary2.FetchedAt, summary2.Body, summary2.FromCache)
+					resolved = true
+				}
+			}
+		}
+		if !resolved {
+			normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, "ambiguous", candidates, fetchedAt)
+			_ = datalayer.WriteNormalizedWikipediaGenre(dataRoot, seed.CanonicalSlug, normalized)
+			genres.UpsertGenreEditorial(store, record)
+			return "ambiguous", "", nil
+		}
 	}
 
 	imageInfos := CollectWikipediaImageCandidates(client, pageTitle, summaryStem, writeRaw)
@@ -286,12 +307,37 @@ func ChooseWikipediaPageTitle(seed mwnormalize.GenreSeed, candidates []mwclient.
 	if len(candidates) == 1 {
 		return candidates[0].Title, nil
 	}
+	musicTerm := strings.TrimSpace(seed.SearchTerm) + " music"
 	for _, candidate := range candidates {
-		if strings.EqualFold(candidate.Title, seed.SearchTerm) {
+		if strings.EqualFold(candidate.Title, musicTerm) {
 			return candidate.Title, nil
 		}
 	}
 	return "", fmt.Errorf("ambiguous search results")
+}
+
+func genreMusicFallbackSearch(client *mwclient.Client, seed mwnormalize.GenreSeed, writeRaw RawWriter) (string, error) {
+	musicTerm := strings.TrimSpace(seed.SearchTerm) + " music"
+	if strings.TrimSpace(seed.SearchTerm) == "" {
+		return "", nil
+	}
+	search, err := client.SearchPages(musicTerm)
+	if err != nil {
+		return "", err
+	}
+	stem := genres.Slug(seed.CanonicalSlug) + "--music"
+	writeRaw("search", stem, search.Endpoint, search.RequestURL, search.FetchedAt, search.Body, search.FromCache)
+	for _, candidate := range search.Value {
+		if strings.EqualFold(candidate.Title, musicTerm) {
+			return candidate.Title, nil
+		}
+	}
+	for _, candidate := range search.Value {
+		if strings.EqualFold(candidate.Title, seed.SearchTerm) {
+			return candidate.Title, nil
+		}
+	}
+	return "", nil
 }
 
 // ChooseWikipediaArtistPageTitle picks the best Wikipedia page from search

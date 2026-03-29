@@ -63,6 +63,7 @@ func TestSyncAggregatedStore(t *testing.T) {
 	genres.UpsertGenreEditorial(store, genres.GenreRecord{
 		Slug:           "indie-rock",
 		DisplayName:    "Indie Rock",
+		WorkflowState:  genres.WorkflowStatePublishable,
 		WikipediaTitle: "Indie rock",
 		WikipediaURL:   "https://en.wikipedia.org/wiki/Indie_rock",
 		Summary:        "Indie rock is a rock music genre.",
@@ -84,6 +85,9 @@ func TestSyncAggregatedStore(t *testing.T) {
 		AlbumID:    "album1",
 	})
 	plays := []models.Play{play}
+	track := store.Tracks["artist-one--song-one"]
+	track.LegacyPlayCount = 2
+	store.Tracks[track.Slug] = track
 
 	if err := SyncAggregatedStore(root, store, plays); err != nil {
 		t.Fatalf("SyncAggregatedStore: %v", err)
@@ -114,19 +118,117 @@ func TestSyncAggregatedStore(t *testing.T) {
 	if record.DisplayTitle != "Indie Rock" {
 		t.Fatalf("DisplayTitle = %q", record.DisplayTitle)
 	}
-	if record.ListeningStats.PlayCount != 1 {
+	if record.WorkflowState != genres.WorkflowStatePublishable {
+		t.Fatalf("WorkflowState = %q", record.WorkflowState)
+	}
+	if record.ListeningStats.PlayCount != 3 {
 		t.Fatalf("PlayCount = %d", record.ListeningStats.PlayCount)
 	}
-	if len(record.TopArtists) != 1 || record.TopArtists[0].CanonicalSlug != "artist-one" {
+	if len(record.TopArtists) != 1 || record.TopArtists[0].CanonicalSlug != "artist-one" || record.TopArtists[0].PlayCount != 3 {
 		t.Fatalf("TopArtists = %+v", record.TopArtists)
 	}
-	if len(record.TopReleases) != 1 || record.TopReleases[0].CanonicalSlug != "artist-one--album-one" {
+	if len(record.TopReleases) != 1 || record.TopReleases[0].CanonicalSlug != "artist-one--album-one" || record.TopReleases[0].PlayCount != 3 {
 		t.Fatalf("TopReleases = %+v", record.TopReleases)
 	}
-	if len(record.TopTracks) != 1 || record.TopTracks[0].CanonicalSlug != "artist-one--song-one" {
+	if len(record.TopTracks) != 1 || record.TopTracks[0].CanonicalSlug != "artist-one--song-one" || record.TopTracks[0].PlayCount != 3 {
 		t.Fatalf("TopTracks = %+v", record.TopTracks)
 	}
 	if len(record.SourceRefs) < 3 {
 		t.Fatalf("SourceRefs = %+v", record.SourceRefs)
+	}
+
+	artistData, err := os.ReadFile(filepath.Join(root, "aggregated", "artists", "artist-one.json"))
+	if err != nil {
+		t.Fatalf("ReadFile aggregated artist: %v", err)
+	}
+	var artistRecord AggregatedArtistRecord
+	if err := json.Unmarshal(artistData, &artistRecord); err != nil {
+		t.Fatalf("Unmarshal aggregated artist: %v", err)
+	}
+	if artistRecord.PlayCount != 3 || artistRecord.LegacyPlayCount != 2 {
+		t.Fatalf("AggregatedArtist counts = %+v", artistRecord)
+	}
+
+	releaseData, err := os.ReadFile(filepath.Join(root, "aggregated", "releases", "artist-one--album-one.json"))
+	if err != nil {
+		t.Fatalf("ReadFile aggregated release: %v", err)
+	}
+	var releaseRecord AggregatedReleaseRecord
+	if err := json.Unmarshal(releaseData, &releaseRecord); err != nil {
+		t.Fatalf("Unmarshal aggregated release: %v", err)
+	}
+	if releaseRecord.PlayCount != 3 || releaseRecord.LegacyPlayCount != 2 {
+		t.Fatalf("AggregatedRelease counts = %+v", releaseRecord)
+	}
+
+	trackData, err := os.ReadFile(filepath.Join(root, "aggregated", "tracks", "artist-one--song-one.json"))
+	if err != nil {
+		t.Fatalf("ReadFile aggregated track: %v", err)
+	}
+	var trackRecord AggregatedTrackRecord
+	if err := json.Unmarshal(trackData, &trackRecord); err != nil {
+		t.Fatalf("Unmarshal aggregated track: %v", err)
+	}
+	if trackRecord.PlayCount != 3 || trackRecord.LegacyPlayCount != 2 {
+		t.Fatalf("AggregatedTrack counts = %+v", trackRecord)
+	}
+}
+
+func TestRebuildAggregatedGenre_canonicalMappedGenreIsNotPending(t *testing.T) {
+	root := t.TempDir()
+	store := genres.NewStore()
+	store.GenreAliases["classical"] = "classical"
+	store.PendingGenreAliases = []string{"classical"}
+
+	path, err := RebuildAggregatedGenre(root, store, nil, "classical")
+	if err != nil {
+		t.Fatalf("RebuildAggregatedGenre: %v", err)
+	}
+
+	data, err := os.ReadFile(path)
+	if err != nil {
+		t.Fatalf("ReadFile: %v", err)
+	}
+	var record AggregatedGenreRecord
+	if err := json.Unmarshal(data, &record); err != nil {
+		t.Fatalf("Unmarshal: %v", err)
+	}
+	if record.Pending {
+		t.Fatalf("Pending = %v, want false", record.Pending)
+	}
+}
+
+func TestSyncAggregatedStore_canonicalMappedGenreRemainsNotPending(t *testing.T) {
+	root := t.TempDir()
+	store := genres.NewStore()
+	store.GenreAliases["jazz"] = "jazz"
+	store.PendingGenreAliases = []string{"jazz"}
+	genres.UpsertGenreEditorial(store, genres.GenreRecord{
+		Slug:           "jazz",
+		DisplayName:    "Jazz",
+		WorkflowState:  genres.WorkflowStatePublishable,
+		WikipediaTitle: "Jazz",
+		WikipediaURL:   "https://en.wikipedia.org/wiki/Jazz",
+		Summary:        "Jazz is a music genre.",
+		Status:         "matched",
+	})
+
+	if err := SyncAggregatedStore(root, store, nil); err != nil {
+		t.Fatalf("SyncAggregatedStore: %v", err)
+	}
+
+	data, err := os.ReadFile(filepath.Join(root, "aggregated", "genres", "jazz.json"))
+	if err != nil {
+		t.Fatalf("ReadFile: %v", err)
+	}
+	var record AggregatedGenreRecord
+	if err := json.Unmarshal(data, &record); err != nil {
+		t.Fatalf("Unmarshal: %v", err)
+	}
+	if record.Pending {
+		t.Fatalf("Pending = %v, want false", record.Pending)
+	}
+	if record.WorkflowState != genres.WorkflowStatePublishable {
+		t.Fatalf("WorkflowState = %q, want %q", record.WorkflowState, genres.WorkflowStatePublishable)
 	}
 }
