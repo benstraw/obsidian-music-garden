@@ -93,6 +93,29 @@ current canonical play model.
 
 ---
 
+## backfill-play-artists
+
+```bash
+./music-garden backfill-play-artists [--from-year YYYY] [--limit N] [--dry-run] [--verbose]
+```
+
+Enriches existing sharded play history by fetching full Spotify track metadata
+for plays that are still missing `additional_artists` or `album_id`.
+
+This command is intentionally separate from `collect`. It is a one-shot or
+occasional maintenance pass for historical play shards.
+
+**Flags:**
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--from-year` | all years | Only rewrite plays whose `played_at` starts with this year |
+| `--limit` | unlimited | Max unique track IDs to fetch from Spotify |
+| `--dry-run` | false | Report candidate updates without writing |
+| `--verbose` | false | Print each fetched track while backfilling |
+
+---
+
 ## weekly
 
 ```bash
@@ -203,6 +226,44 @@ edited.
 
 ---
 
+## import-legacy
+
+```bash
+./music-garden import-legacy --source-dir /path/to/benstrawbridge.com/data/spotify [--dry-run] [--verbose] [--audit-genres]
+```
+
+Imports legacy Spotify snapshot data from the older website repository into the
+garden's canonical store.
+
+**Import scope:**
+- `topArtists.json`
+- `snapshot-2024-06.json`
+- `artists.json` as a supplemental source
+- `topTracks.json` as untimestamped historical count data plus track/release/artist enrichment
+
+**Explicitly excluded:**
+- `plays/` because those shards are synced copies of the garden ledger
+- `genres.json` because it is a synced copy of the garden store
+
+`topTracks.json` does **not** create synthetic play records. Repeated track
+entries are preserved as `legacy_play_count` on canonical track records rather
+than being written into `data/plays/`.
+
+**Flags:**
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--source-dir` | required | Legacy `data/spotify` directory |
+| `--dry-run` | false | Report import counts without writing store or compatibility files |
+| `--verbose` | false | Print imported artists and tracks |
+| `--audit-genres` | false | Report unresolved genre labels and legacy website genre slugs |
+
+This command also writes compatibility artifacts for downstream URL continuity:
+- `data/legacy-artist-slugs.json`
+- `data/legacy-genre-slugs.json`
+
+---
+
 ## persona
 
 ```bash
@@ -299,6 +360,86 @@ Use this command while curating genre definitions and aliases.
 
 ---
 
+## genre-review
+
+```bash
+./music-garden genre-review --slug indie-rock
+./music-garden genre-review --queue [--limit 20]
+```
+
+Surfaces the editorial evidence bundle for one canonical genre, or prints a
+ranked queue of draft mapped genres that are strongest promotion candidates.
+
+`--slug` prints:
+
+- taxonomy state (`mapped` or `pending`)
+- workflow state (`draft` or `publishable`)
+- aliases
+- Wikipedia title / URL / summary presence
+- image presence
+- listening stats
+- top artist/release/track counts
+- whether an aggregated record exists
+- whether a generated markdown page already exists in the target output dir
+
+`--queue` prints the top draft review candidates ranked by:
+
+1. local play count
+2. enrichment completeness (summary, image, parent)
+3. slug
+
+---
+
+## genre-promote
+
+```bash
+./music-garden genre-promote --rule ready-basic [--dry-run] [--limit 25] [--min-plays N]
+./music-garden genre-promote --slug indie-rock --state publishable
+./music-garden genre-promote --slug indie-rock --state draft
+```
+
+Sets the editorial workflow state used by batch genre-page generation.
+
+Supported states:
+
+- `draft`
+- `publishable`
+
+Supported rules:
+
+- `ready-basic`
+  - taxonomy mapped
+  - not pending
+  - has Wikipedia summary
+  - at least 5 plays by default
+- `ready-loose`
+  - taxonomy mapped
+  - not pending
+  - has Wikipedia summary **or** at least 10 plays by default
+- `any-play`
+  - taxonomy mapped
+  - not pending
+  - at least 1 play by default
+- `any-play-rich`
+  - taxonomy mapped
+  - not pending
+  - at least 1 play by default
+  - has Wikipedia summary
+  - has image
+- `no-play-rich`
+  - taxonomy mapped
+  - not pending
+  - has Wikipedia summary
+  - has image
+
+Rule-based promotion creates minimal canonical genre records in
+`data/genres.json` when a mapped aggregated genre does not already have one.
+
+Manual promotion of a taxonomy-pending genre is allowed, but batch page
+generation still skips it until the taxonomy issue is resolved.
+
+---
+
 ## aggregate-genre
 
 ```bash
@@ -337,6 +478,31 @@ Use this after:
 
 ---
 
+## sync-data-layer
+
+```bash
+./music-garden sync-data-layer
+```
+
+Rebuilds the full file-based data layer from the canonical store and sharded
+play history.
+
+This refreshes:
+
+- `data/normalized/artists/`
+- `data/normalized/releases/`
+- `data/normalized/tracks/`
+- `data/normalized/genres/`
+- `data/aggregated/artists/`
+- `data/aggregated/releases/`
+- `data/aggregated/tracks/`
+- `data/aggregated/genres/`
+
+Use this after structural metadata changes when you want artist, release, and
+track aggregates refreshed alongside genres.
+
+---
+
 ## generate-genre-pages
 
 ```bash
@@ -350,12 +516,16 @@ Default output is repo-local `content/genres/`. For safe review runs, pass a
 different `--out-dir`, for example:
 
 ```bash
-./music-garden generate-genre-pages --out-dir ./sandbox/content/genres --limit 2
+./music-garden generate-genre-pages --out-dir ./sandbox/music/genres --limit 2
 ```
 
-Genres marked as **pending** (uncurated source labels not yet mapped in the
-taxonomy) are skipped by default. To force generation for a pending genre, pass
-its slug explicitly with `--slug`.
+Batch generation only renders genres that are both:
+
+- not taxonomy-pending
+- marked `publishable`
+
+To force generation for a draft or pending genre during inspection, pass its
+slug explicitly with `--slug`.
 
 Each page includes front matter, a concise summary, listening stats, top local
 artists/albums/tracks, source notes, and related genre links when available.
@@ -465,7 +635,7 @@ Use `--refresh` to force re-enrichment of already matched releases.
 ## wikipedia-backfill-genres
 
 ```bash
-./music-garden wikipedia-backfill-genres [--limit N] [--refresh]
+./music-garden wikipedia-backfill-genres [--limit N] [--refresh] [--slug canonical-slug]
 ```
 
 Walks known canonical genre slugs and runs Wikipedia/Wikimedia enrichment in
@@ -473,6 +643,7 @@ batch. By default it skips genre records that already have a matched Wikipedia
 page.
 
 Use `--refresh` to force re-enrichment of already matched genre pages.
+Use `--slug` to refresh one canonical genre directly.
 
 ---
 

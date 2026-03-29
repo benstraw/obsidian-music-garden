@@ -12,6 +12,7 @@ import (
 	"time"
 
 	"github.com/benstraw/music-garden/internal/auth"
+	"github.com/benstraw/music-garden/internal/backfill"
 	"github.com/benstraw/music-garden/internal/client"
 	mwclient "github.com/benstraw/music-garden/internal/clients/mediawiki"
 	mbclient "github.com/benstraw/music-garden/internal/clients/musicbrainz"
@@ -19,6 +20,7 @@ import (
 	"github.com/benstraw/music-garden/internal/enrich"
 	"github.com/benstraw/music-garden/internal/fetch"
 	"github.com/benstraw/music-garden/internal/genres"
+	"github.com/benstraw/music-garden/internal/importlegacy"
 	"github.com/benstraw/music-garden/internal/models"
 	mbnormalize "github.com/benstraw/music-garden/internal/normalize/musicbrainz"
 	"github.com/benstraw/music-garden/internal/plays"
@@ -67,6 +69,8 @@ func main() {
 		runCollect(paths)
 	case "repair-plays":
 		runRepairPlays(paths)
+	case "backfill-play-artists":
+		runBackfillPlayArtists(args, paths)
 	case "weekly":
 		runWeekly(args, paths)
 	case "daily":
@@ -99,12 +103,20 @@ func main() {
 		runWikipediaBackfillArtists(args, paths)
 	case "genre-report":
 		runGenreReport(args, paths)
+	case "genre-review":
+		runGenreReview(args, paths)
+	case "genre-promote":
+		runGenrePromote(args, paths)
 	case "aggregate-genre":
 		runAggregateGenre(args, paths)
 	case "aggregate-genres":
 		runAggregateGenres(paths)
+	case "sync-data-layer":
+		runSyncDataLayer(paths)
 	case "generate-genre-pages":
 		runGenerateGenrePages(args, paths)
+	case "import-legacy":
+		runImportLegacy(args, paths)
 	case "doctor":
 		os.Exit(runDoctor(paths))
 	case "version", "--version":
@@ -126,6 +138,7 @@ Usage:
   music-garden auth                           Authenticate the current Spotify collector via OAuth
   music-garden collect                        Fetch last 50 Spotify plays, canonicalize, dedup, append to sharded history
   music-garden repair-plays                   Rewrite sharded play history with canonical IDs and richer persisted fields
+  music-garden backfill-play-artists          Enrich existing sharded plays with additional and album artists from Spotify
   music-garden weekly [--date YYYY-MM-DD] [--out-dir DIR]     Generate weekly note for date's ISO week (default: current)
   music-garden daily [--date YYYY-MM-DD] [--out-dir DIR]      Generate daily note for date (default: today)
   music-garden catch-up [--weeks N] [--out-dir DIR]           Generate missing weekly + daily notes (default: 8 weeks back)
@@ -142,9 +155,13 @@ Usage:
   music-garden wikipedia-backfill-genres      Backfill Wikipedia/Wikimedia enrichment across canonical genres
   music-garden wikipedia-backfill-artists     Backfill Wikipedia/Wikimedia enrichment across canonical artists
   music-garden genre-report                   Report canonical genre mappings, unknown labels, and collisions
+  music-garden genre-review                   Review one genre or print a ranked promotion queue
+  music-garden genre-promote                  Promote or demote genre workflow state
   music-garden aggregate-genre                Rebuild one aggregated genre record from canonical data + local listening
   music-garden aggregate-genres               Rebuild all aggregated genre records
+  music-garden sync-data-layer                Rebuild normalized and aggregated entity files from store + plays
   music-garden generate-genre-pages          Render markdown genre pages from aggregated genre JSON
+  music-garden import-legacy                  Import legacy Spotify snapshot data into the canonical store
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
 
@@ -280,17 +297,17 @@ func emitFallbackWarnings(paths runtimePaths, cmd string) {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, ".env"), paths.dotEnvPath)
 	}
 
-	tokensUsed := cmd == "auth" || cmd == "collect" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "doctor"
+	tokensUsed := cmd == "auth" || cmd == "collect" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "backfill-play-artists" || cmd == "doctor"
 	if tokensUsed && paths.tokensFallback {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "tokens.json"), paths.tokensPath)
 	}
 
-	playsUsed := cmd == "collect" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "doctor"
+	playsUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer" || cmd == "doctor"
 	if playsUsed && paths.playsFallback {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "plays"), paths.playsDir)
 	}
 
-	genresUsed := cmd == "collect" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres"
+	genresUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "import-legacy" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer"
 	if genresUsed && paths.genresFallback {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "genres.json"), paths.genresPath)
 	}
@@ -409,6 +426,21 @@ func loadGenreStore(paths runtimePaths) *genres.Store {
 	} else {
 		genres.ApplyTaxonomy(store, taxonomy)
 	}
+	return store
+}
+
+func loadGenreStoreWithTaxonomy(paths runtimePaths, taxonomyPath string) *genres.Store {
+	store, err := genres.Load(paths.genresPath)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "warning: load metadata store: %v\n", err)
+		store = genres.NewStore()
+	}
+	taxonomy, err := genres.LoadTaxonomy(taxonomyPath)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "warning: load genre taxonomy: %v\n", err)
+		return store
+	}
+	genres.ApplyTaxonomy(store, taxonomy)
 	return store
 }
 
@@ -728,6 +760,60 @@ func runRepairPlays(paths runtimePaths) {
 	fmt.Printf("Sharded play history already canonical in %s\n", paths.playsDir)
 }
 
+func runBackfillPlayArtists(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("backfill-play-artists", flag.ExitOnError)
+	fromYear := fs.String("from-year", "", "only rewrite plays whose played_at starts with this year")
+	limit := fs.Int("limit", 0, "max unique track IDs to fetch from Spotify")
+	dryRun := fs.Bool("dry-run", false, "report candidates without writing play shards or store data")
+	verbose := fs.Bool("verbose", false, "print each fetched track ID while backfilling")
+	_ = fs.Parse(args)
+
+	c, err := getClient(paths)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, err)
+		os.Exit(1)
+	}
+
+	store := loadGenreStore(paths)
+	allPlays, err := plays.LoadSharded(paths.playsDir)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "load plays error:", err)
+		os.Exit(1)
+	}
+
+	opts := backfill.PlayArtistsOptions{
+		FromYear: strings.TrimSpace(*fromYear),
+		Limit:    *limit,
+		DryRun:   *dryRun,
+		Verbose:  *verbose,
+	}
+	trackIDs := backfill.CandidateTrackIDs(allPlays, opts)
+	if len(trackIDs) == 0 {
+		fmt.Println("No play shards need multi-artist backfill.")
+		return
+	}
+
+	if *verbose {
+		fmt.Printf("Backfilling %d unique track IDs from Spotify...\n", len(trackIDs))
+	}
+	tracks, _, err := fetch.GetTracksBatchRaw(c, trackIDs)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "track backfill fetch error:", err)
+		os.Exit(1)
+	}
+	rewritten, changed := backfill.RewritePlayArtists(store, allPlays, tracks, opts)
+	if *dryRun {
+		fmt.Printf("Dry run: candidate track IDs=%d updated plays=%d\n", len(trackIDs), changed)
+		return
+	}
+	if err := backfill.SaveRewrittenPlays(paths.playsDir, rewritten); err != nil {
+		fmt.Fprintln(os.Stderr, "save rewritten plays error:", err)
+		os.Exit(1)
+	}
+	saveGenreStore(paths, store)
+	fmt.Printf("Backfilled multi-artist metadata for %d play(s) across %d track ID(s).\n", changed, len(trackIDs))
+}
+
 func runWeekly(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("weekly", flag.ExitOnError)
 	dateStr := fs.String("date", "", "any date within the target week (default: this week)")
@@ -741,6 +827,59 @@ func runWeekly(args []string, paths runtimePaths) {
 	}
 
 	generateWeeklyNote(date, paths, noteOutputRoot(*outDir))
+}
+
+func runImportLegacy(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("import-legacy", flag.ExitOnError)
+	sourceDir := fs.String("source-dir", "", "path to legacy benstrawbridge.com/data/spotify directory")
+	dryRun := fs.Bool("dry-run", false, "report mutations without writing store or compatibility artifacts")
+	verbose := fs.Bool("verbose", false, "print imported artists and tracks")
+	auditGenres := fs.Bool("audit-genres", false, "report unresolved genre labels and legacy genre slugs during import")
+	_ = fs.Parse(args)
+
+	if strings.TrimSpace(*sourceDir) == "" {
+		fmt.Fprintln(os.Stderr, "--source-dir is required")
+		os.Exit(1)
+	}
+
+	store := loadGenreStore(paths)
+	summary, err := importlegacy.Run(store, importlegacy.Options{
+		SourceDir:   *sourceDir,
+		DataRoot:    paths.dataRoot,
+		DryRun:      *dryRun,
+		Verbose:     *verbose,
+		AuditGenres: *auditGenres,
+	})
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "legacy import error:", err)
+		os.Exit(1)
+	}
+
+	if *dryRun {
+		fmt.Printf("Dry run: artists added=%d releases added=%d tracks added=%d track legacy counts=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
+			summary.ArtistsAdded,
+			summary.ReleasesAdded,
+			summary.TracksAdded,
+			summary.TrackLegacyCountsSet,
+			summary.ArtistSlugMappings,
+			summary.GenreSlugMappings,
+			summary.UnresolvedGenreLabels,
+			summary.UnresolvedGenreSlugs,
+		)
+		return
+	}
+
+	saveGenreStore(paths, store)
+	fmt.Printf("Imported legacy snapshots: artists added=%d releases added=%d tracks added=%d track legacy counts=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
+		summary.ArtistsAdded,
+		summary.ReleasesAdded,
+		summary.TracksAdded,
+		summary.TrackLegacyCountsSet,
+		summary.ArtistSlugMappings,
+		summary.GenreSlugMappings,
+		summary.UnresolvedGenreLabels,
+		summary.UnresolvedGenreSlugs,
+	)
 }
 
 // generateWeeklyNote filters local plays and writes the weekly summary note.
@@ -1272,109 +1411,6 @@ func runWikipediaEnrichArtist(args []string, paths runtimePaths) {
 	}
 }
 
-func runGenreReport(args []string, paths runtimePaths) {
-	fs := flag.NewFlagSet("genre-report", flag.ExitOnError)
-	taxonomyPath := fs.String("taxonomy", defaultGenreTaxonomyPath(paths), "canonical genre taxonomy path")
-	_ = fs.Parse(args)
-
-	taxonomy, err := genres.LoadTaxonomy(*taxonomyPath)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "genre taxonomy error:", err)
-		os.Exit(1)
-	}
-
-	store := loadGenreStore(paths)
-	report := genres.BuildGenreReport(taxonomy, store.PendingGenreAliases)
-	fmt.Print(report.ReportString())
-}
-
-func runAggregateGenre(args []string, paths runtimePaths) {
-	fs := flag.NewFlagSet("aggregate-genre", flag.ExitOnError)
-	slug := fs.String("slug", "", "canonical genre slug")
-	if err := fs.Parse(args); err != nil {
-		fmt.Fprintln(os.Stderr, "aggregate genre flags:", err)
-		os.Exit(1)
-	}
-	genreSlug := genres.Slug(*slug)
-	if genreSlug == "" {
-		fmt.Fprintln(os.Stderr, "aggregate genre error: --slug is required")
-		os.Exit(1)
-	}
-
-	store := loadGenreStore(paths)
-	allPlays, err := plays.LoadSharded(paths.playsDir)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "aggregate genre load plays error:", err)
-		os.Exit(1)
-	}
-	allPlays, _ = genres.ResolvePlays(store, allPlays)
-	path, err := datalayer.RebuildAggregatedGenre(paths.dataRoot, store, allPlays, genreSlug)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "aggregate genre error:", err)
-		os.Exit(1)
-	}
-	fmt.Printf("Aggregated genre %q -> %s\n", genreSlug, path)
-}
-
-func runAggregateGenres(paths runtimePaths) {
-	store := loadGenreStore(paths)
-	allPlays, err := plays.LoadSharded(paths.playsDir)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "aggregate genres load plays error:", err)
-		os.Exit(1)
-	}
-	allPlays, _ = genres.ResolvePlays(store, allPlays)
-	count, err := datalayer.RebuildAllAggregatedGenres(paths.dataRoot, store, allPlays)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "aggregate genres error:", err)
-		os.Exit(1)
-	}
-	fmt.Printf("Rebuilt %d aggregated genre record(s)\n", count)
-}
-
-func runGenerateGenrePages(args []string, paths runtimePaths) {
-	fs := flag.NewFlagSet("generate-genre-pages", flag.ExitOnError)
-	outDir := fs.String("out-dir", filepath.Join(paths.cwd, "content", "genres"), "output directory for generated genre markdown")
-	slug := fs.String("slug", "", "optional canonical genre slug to generate")
-	limit := fs.Int("limit", 0, "optional max number of pages to generate")
-	if err := fs.Parse(args); err != nil {
-		fmt.Fprintln(os.Stderr, "generate genre pages flags:", err)
-		os.Exit(1)
-	}
-
-	records, err := datalayer.LoadAggregatedGenres(filepath.Join(paths.dataRoot, "aggregated", "genres"))
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "load aggregated genres error:", err)
-		os.Exit(1)
-	}
-	if len(records) == 0 {
-		fmt.Fprintln(os.Stderr, "no aggregated genre records found")
-		os.Exit(1)
-	}
-
-	selected := map[string]bool{}
-	if strings.TrimSpace(*slug) != "" {
-		selected[genres.Slug(*slug)] = true
-	}
-	if *limit > 0 && len(selected) == 0 {
-		selected = map[string]bool{}
-		for i, record := range records {
-			if i >= *limit {
-				break
-			}
-			selected[record.CanonicalSlug] = true
-		}
-	}
-
-	tmplPath := filepath.Join(templatesDir(), "genre.md.tmpl")
-	updated, unchanged, skipped, err := render.WriteGenrePages(records, *outDir, tmplPath, selected)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "generate genre pages error:", err)
-		os.Exit(1)
-	}
-	fmt.Printf("Generated genre pages in %s (updated=%d unchanged=%d skipped-pending=%d)\n", *outDir, updated, unchanged, skipped)
-}
-
 func runMusicBrainzBackfillArtists(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("musicbrainz-backfill-artists", flag.ExitOnError)
 	limit := fs.Int("limit", 0, "max artists to enrich")
@@ -1466,54 +1502,6 @@ func runMusicBrainzBackfillAlbums(args []string, paths runtimePaths) {
 	}
 	saveGenreStore(paths, store)
 	fmt.Printf("MusicBrainz release backfill complete: processed=%d skipped=%d failed=%d\n", processed, skipped, failed)
-}
-
-func runWikipediaBackfillGenres(args []string, paths runtimePaths) {
-	fs := flag.NewFlagSet("wikipedia-backfill-genres", flag.ExitOnError)
-	limit := fs.Int("limit", 0, "max genres to enrich")
-	refresh := fs.Bool("refresh", false, "refresh genres that already have matched Wikipedia metadata")
-	mappingPath := fs.String("mapping", enrich.DefaultMappingPath(paths.cwd, paths.dataRoot, "genre-page-mapping.json"), "genre mapping JSON path")
-	_ = fs.Parse(args)
-
-	client, err := getMediaWikiClient(paths)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "mediawiki client error:", err)
-		os.Exit(1)
-	}
-	mapping, err := enrich.LoadGenrePageMapping(*mappingPath)
-	if err != nil {
-		fmt.Fprintln(os.Stderr, "genre mapping error:", err)
-		os.Exit(1)
-	}
-
-	store := loadGenreStore(paths)
-	slugs := enrich.CanonicalGenreSlugsForBackfill(store)
-	processed, skipped, failed, attempted := 0, 0, 0, 0
-	for _, slug := range slugs {
-		if record, ok := genres.GenreEditorial(store, slug); ok && !*refresh && record.Status == "matched" && record.WikipediaURL != "" {
-			skipped++
-			continue
-		}
-		if *limit > 0 && attempted >= *limit {
-			break
-		}
-		attempted++
-		seed := mapping[slug]
-		seed.CanonicalSlug = slug
-		if seed.SearchTerm == "" {
-			seed.SearchTerm = strings.ReplaceAll(slug, "-", " ")
-		}
-		status, _, err := enrich.WikipediaGenre(paths.dataRoot, client, store, seed, rawWikipediaWriter(paths), stderrWarn)
-		if err != nil {
-			failed++
-			fmt.Fprintf(os.Stderr, "warning: wikipedia genre %s: %v\n", slug, err)
-			continue
-		}
-		processed++
-		fmt.Printf("Wikipedia genre: %s (%s)\n", slug, status)
-	}
-	saveGenreStore(paths, store)
-	fmt.Printf("Wikipedia genre backfill complete: processed=%d skipped=%d failed=%d\n", processed, skipped, failed)
 }
 
 func runWikipediaBackfillArtists(args []string, paths runtimePaths) {
@@ -1673,6 +1661,12 @@ func runDoctor(paths runtimePaths) int {
 	printPathStatus("Plays legacy", paths.playsPath, true)
 	printPathStatus("Genres path", paths.genresPath, false)
 	printPathStatus("Data root", paths.dataRoot, false)
+	if counts, err := doctorGenreCounts(paths); err == nil {
+		fmt.Printf("Genres: total=%d pending=%d mapped=%d draft=%d publishable=%d aggregated=%d generated=%d\n",
+			counts.Total, counts.Pending, counts.Mapped, counts.Draft, counts.Publishable, counts.Aggregated, counts.Generated)
+	} else {
+		fmt.Printf("Genres: unknown (%v)\n", err)
+	}
 
 	if paths.playsOverride {
 		fmt.Println("MUSIC_PLAYS_DIR override:", paths.playsDir)
