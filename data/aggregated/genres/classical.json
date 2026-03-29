@@ -9,8 +9,12 @@
     "classical",
     "orchestral"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Classical music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Classical_music",
+  "summary": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. It is sometimes distinguished as Western classical music, as the term \"classical music\" can also be applied to non-Western art musics. Classical music is often characterized by formality and complexity in its musical form and harmonic organization, particularly with the use of polyphony. Since at least the ninth century, it has been primarily a written tradition, spawning a sophisticated notational system, as well as accompanying literature in analytical, critical, historiographical, musicological and philosophical practices.",
   "candidates": [
     "Classic autism",
     "Classical",
@@ -23,198 +27,361 @@
     "Classical mechanics",
     "Classical music"
   ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Classical music",
+    "page_url": "https://en.wikipedia.org/wiki/Classical_music",
+    "retrieved_at": "2026-03-29T08:22:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"An der schönen, blauen Donau\" performed by the U.S. Marine Band.flac",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22An_der_sch%C3%B6nen,_blauen_Donau%22_performed_by_the_U.S._Marine_Band.flac",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%22An_der_sch%C3%B6nen%2C_blauen_Donau%22_performed_by_the_U.S._Marine_Band.flac",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"An der schönen, blauen Donau\" performed by the U.S. Marine Band.flac",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22An_der_sch%C3%B6nen,_blauen_Donau%22_performed_by_the_U.S._Marine_Band.flac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%22An_der_sch%C3%B6nen%2C_blauen_Donau%22_performed_by_the_U.S._Marine_Band.flac",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:01Haydn NelsonMass-Kyrie.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:01Haydn_NelsonMass-Kyrie.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/01Haydn_NelsonMass-Kyrie.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Unspecified"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Altes AKH Vienna June 2006 583 cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Altes_AKH_Vienna_June_2006_583_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Altes_AKH_Vienna_June_2006_583_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Altes_AKH_Vienna_June_2006_583_cropped.jpg/960px-Altes_AKH_Vienna_June_2006_583_cropped.jpg",
+      "width": 2136,
+      "height": 1920,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gryffindor\" title=\"User:Gryffindor\"\u003eGryffindor\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    }
+  ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 9,
-    "unique_artist_count": 5,
-    "unique_release_count": 8,
-    "unique_track_count": 8,
-    "first_played_at": "2026-02-28T23:52:25.049Z",
-    "last_played_at": "2026-03-04T01:52:43.403Z"
+    "play_count": 274,
+    "unique_artist_count": 16,
+    "unique_release_count": 59,
+    "unique_track_count": 181,
+    "first_played_at": "2026-03-01T00:00:55.391Z",
+    "last_played_at": "2026-03-14T18:12:15.736Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "johann-sebastian-bach",
-      "name": "Johann Sebastian Bach",
-      "play_count": 5,
-      "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
-      "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+      "canonical_slug": "valentin-silvestrov",
+      "name": "Valentin Silvestrov",
+      "play_count": 91,
+      "spotify_artist_id": "1bauOA5U5M3RwH2euX3Eq6",
+      "spotify_url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+    },
+    {
+      "canonical_slug": "muzio-clementi",
+      "name": "Muzio Clementi",
+      "play_count": 30,
+      "spotify_artist_id": "47e2jUYcqSQ8RL2DVmxmzn",
+      "musicbrainz_artist_id": "25f46ed2-ac8a-4428-ad09-5a3fa5162086",
+      "spotify_url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+    },
+    {
+      "canonical_slug": "ottorino-respighi",
+      "name": "Ottorino Respighi",
+      "play_count": 27,
+      "spotify_artist_id": "7KkUirCiJZhgRN3NbgG98L",
+      "musicbrainz_artist_id": "788c380d-247b-42f0-b7a9-64881e1f0fd9",
+      "spotify_url": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
+    },
+    {
+      "canonical_slug": "glenn-gould",
+      "name": "Glenn Gould",
+      "play_count": 26,
+      "spotify_artist_id": "13dkPjqmbcchm8cXjEJQeP",
+      "musicbrainz_artist_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+      "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
     },
     {
       "canonical_slug": "carl-philipp-emanuel-bach",
       "name": "Carl Philipp Emanuel Bach",
-      "play_count": 1,
+      "play_count": 25,
       "spotify_artist_id": "3meioy7GWDwpwmjv2LPyAb",
+      "musicbrainz_artist_id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
       "spotify_url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
     },
     {
-      "canonical_slug": "edvard-grieg",
-      "name": "Edvard Grieg",
-      "play_count": 1,
-      "spotify_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
-      "spotify_url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+      "canonical_slug": "arcangelo-corelli",
+      "name": "Arcangelo Corelli",
+      "play_count": 15,
+      "spotify_artist_id": "5dmMpIyAVaH6b9FLFgWPrF",
+      "musicbrainz_artist_id": "a3546087-fe59-47d3-a3a8-42d58e2573c7",
+      "spotify_url": "https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF"
     },
     {
-      "canonical_slug": "igor-stravinsky",
-      "name": "Igor Stravinsky",
-      "play_count": 1,
-      "spotify_artist_id": "7ie36YytMoKtPiL7tUvmoE",
-      "spotify_url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+      "canonical_slug": "janos-sebestyen",
+      "name": "Janos Sebestyen",
+      "play_count": 15,
+      "spotify_artist_id": "3XqsvVsJuMXQsfVwpYZLFZ",
+      "musicbrainz_artist_id": "f7ccbb3f-8282-43f1-82c2-bccfcaf778b9",
+      "spotify_url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
     },
     {
-      "canonical_slug": "johannes-brahms",
-      "name": "Johannes Brahms",
-      "play_count": 1,
-      "spotify_artist_id": "5wTAi7QkpP6kp8a54lmTOq",
-      "spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+      "canonical_slug": "daniel-barenboim",
+      "name": "Daniel Barenboim",
+      "play_count": 9,
+      "spotify_artist_id": "78sEozQOEJxzXegUuqRSgH",
+      "musicbrainz_artist_id": "fac566b2-7a0e-4977-ad92-533f43420975",
+      "spotify_url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+    },
+    {
+      "canonical_slug": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "play_count": 9,
+      "spotify_artist_id": "4NJhFmfw43RLBLjQvxDuRS",
+      "musicbrainz_artist_id": "b972f589-fb0e-474e-b64a-803b0364fa75",
+      "spotify_url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+    },
+    {
+      "canonical_slug": "edward-elgar",
+      "name": "Edward Elgar",
+      "play_count": 7,
+      "spotify_artist_id": "430byzy0c5bPn5opiu0SRd",
+      "musicbrainz_artist_id": "4e60a56a-514a-4a19-a3cc-49927c96b3cb",
+      "spotify_url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
-      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
-      "play_count": 2,
+      "canonical_slug": "ludwig-van-beethoven--classical-composure-piano-works",
+      "name": "Classical Composure: Piano Works",
+      "play_count": 32,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "5Gr8p2i6L50evw7ecXjZ5R"
     },
     {
-      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
-      "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "canonical_slug": "glenn-gould--the-young-maverick",
+      "name": "The Young Maverick",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "glenn-gould",
+      "primary_artist_name": "Glenn Gould",
+      "spotify_album_id": "37nqLDNDOkIzh1zuHUq7zO",
+      "musicbrainz_release_id": "99226a7f-6611-4015-a564-704c3de98d4b",
+      "musicbrainz_release_group_id": "ef88ad5e-6412-40b1-bd4d-258fb32c4c4d"
     },
     {
-      "canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
-      "name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johannes-brahms",
-      "primary_artist_name": "Johannes Brahms"
+      "canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "name": "Respighi: Piano Music",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "spotify_album_id": "2Nm7vx01wJA7fNH6askGry"
     },
     {
-      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
-      "name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "canonical_slug": "janos-sebestyen--j-s-bach-italian-concerto-chromatic-fantasia-and-fugue-12-little-preludes",
+      "name": "J. S. Bach: Italian Concerto / Chromatic Fantasia And Fugue / 12 Little Preludes",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "janos-sebestyen",
+      "primary_artist_name": "Janos Sebestyen",
+      "spotify_album_id": "1T61gHDk7P2LloxbCcjf6U"
     },
     {
-      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
-      "name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "canonical_slug": "valentin-silvestrov--bagatellen-und-serenaden",
+      "name": "Bagatellen und Serenaden",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Валентин Сильвестров",
+      "spotify_album_id": "13F1ZPltvX3UoJBM3t6IvM",
+      "musicbrainz_release_id": "b93eeea3-4508-4fcc-8879-8892ae379473",
+      "musicbrainz_release_group_id": "31d84a78-d22a-3919-967d-2abd1d0590bb"
     },
     {
-      "canonical_slug": "edvard-grieg--grieg-lyric-pieces",
-      "name": "Grieg: Lyric Pieces",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "edvard-grieg",
-      "primary_artist_name": "Edvard Grieg"
+      "canonical_slug": "valentin-silvestrov--handsome-skies",
+      "name": "Handsome Skies",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "spotify_album_id": "7IpVpVjkrEHRTgb1Z1FKkC"
     },
     {
-      "canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
-      "name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "igor-stravinsky",
-      "primary_artist_name": "Igor Stravinsky"
+      "canonical_slug": "valentin-silvestrov--silvestrov",
+      "name": "Silvestrov",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "spotify_album_id": "3QKntiy2ejmIVqW6QXD1hW"
     },
     {
-      "canonical_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
-      "name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
-      "primary_artist_name": "Carl Philipp Emanuel Bach"
+      "canonical_slug": "valentin-silvestrov--silvestrov-maidan",
+      "name": "Silvestrov: Maidan",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "spotify_album_id": "3w3ygReumIuagb0fOjnZdS"
+    },
+    {
+      "canonical_slug": "arcangelo-corelli--corelli-concerti-grossi-op-6-nos-1-6",
+      "name": "Corelli: Concerti Grossi, Op. 6, Nos. 1-6",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "arcangelo-corelli",
+      "primary_artist_name": "Arcangelo Corelli",
+      "spotify_album_id": "5emNyTE3FAXRUgeOVujFLv"
+    },
+    {
+      "canonical_slug": "valentin-silvestrov--hélène-grimaud-plays-valentin-silvestrov",
+      "name": "Hélène Grimaud plays Valentin Silvestrov",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "spotify_album_id": "6IhZCrHFe56sE3VVCpc1fF"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "johann-sebastian-bach--der-himmel-lacht-die-erde-jubiliert-bwv-31-no-4-fürst-des-lebens-starker-streiter-live",
-      "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, Fürst des Lebens! starker Streiter - Live",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
-      "release_name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
-      "spotify_track_id": "6ORIEgFjR7h1YBWmGyTf3C",
-      "spotify_url": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C"
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
     },
     {
-      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
-      "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
-      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
-      "spotify_track_id": "2CI5exhYgmUhVMR8Mrunk4",
-      "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
-    },
-    {
-      "canonical_slug": "johannes-brahms--intermezzo-no-2-in-b-flat-minor-op-117-andante-non-troppo-e-con-molta-espressione-remastered",
-      "name": "Intermezzo No. 2 in B-Flat Minor, Op. 117 - Andante non troppo e con molta espressione - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johannes-brahms",
-      "primary_artist_name": "Johannes Brahms",
-      "release_canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
-      "release_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
-      "spotify_track_id": "3IioJBugNl60myrfwIm1sz",
-      "spotify_url": "https://open.spotify.com/track/3IioJBugNl60myrfwIm1sz"
-    },
-    {
-      "canonical_slug": "edvard-grieg--lyric-pieces-book-7-op-62-no-4-brooklet",
-      "name": "Lyric Pieces, Book 7, Op. 62: No. 4, Brooklet",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "edvard-grieg",
-      "primary_artist_name": "Edvard Grieg",
-      "release_canonical_slug": "edvard-grieg--grieg-lyric-pieces",
-      "release_name": "Grieg: Lyric Pieces",
-      "spotify_track_id": "6Ht2XGwq8pfy2SRkD1wTqk",
-      "spotify_url": "https://open.spotify.com/track/6Ht2XGwq8pfy2SRkD1wTqk"
-    },
-    {
-      "canonical_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-iv-sarabande",
-      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
-      "release_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
-      "spotify_track_id": "73xACzrJ509NZ3jq8Z5WV4",
-      "spotify_url": "https://open.spotify.com/track/73xACzrJ509NZ3jq8Z5WV4"
-    },
-    {
-      "canonical_slug": "johann-sebastian-bach--prelude-and-fugue-no-2-in-c-minor-bwv-847-prelude",
-      "name": "Prelude \u0026 Fugue No. 2 in C Minor, BWV 847: Prelude",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
-      "release_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
-      "spotify_track_id": "4AMJBOgveh7OVHJKTZPwVh",
-      "spotify_url": "https://open.spotify.com/track/4AMJBOgveh7OVHJKTZPwVh"
-    },
-    {
-      "canonical_slug": "carl-philipp-emanuel-bach--sonata-in-a-minor-no-1-wq-49-württembergische-sonate-ii-andante-remastered",
-      "name": "Sonata in A Minor No. 1, Wq. 49 \" Württembergische Sonate\": II. Andante - Remastered",
-      "play_count": 1,
+      "canonical_slug": "carl-philipp-emanuel-bach--bach-cpe-solfegietto-in-c-minor-wq-117-2",
+      "name": "Bach, CPE: Solfegietto in C Minor, Wq. 117/2",
+      "play_count": 3,
       "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
       "primary_artist_name": "Carl Philipp Emanuel Bach",
-      "release_canonical_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
-      "release_name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
-      "spotify_track_id": "51jJ6SHC7E4aQcrRyFIaov",
-      "spotify_url": "https://open.spotify.com/track/51jJ6SHC7E4aQcrRyFIaov"
+      "release_canonical_slug": "carl-philipp-emanuel-bach--l-atelier-des-pianistes-vol-2-moyen",
+      "release_name": "L'atelier des pianistes, vol. 2 : Moyen",
+      "spotify_track_id": "6OaEDkmHRShOceKMVJRVSL",
+      "spotify_url": "https://open.spotify.com/track/6OaEDkmHRShOceKMVJRVSL"
     },
     {
-      "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-adoration-of-the-earth-introduction-lento-1921-version",
-      "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - Adoration of the Earth. Introduction. Lento (1921 Version)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "igor-stravinsky",
-      "primary_artist_name": "Igor Stravinsky",
-      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
-      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
-      "spotify_track_id": "2DxlceLn2yqiyFpB9Ea6KH",
-      "spotify_url": "https://open.spotify.com/track/2DxlceLn2yqiyFpB9Ea6KH"
+      "canonical_slug": "muzio-clementi--12-monferrinas-op-49-xi-allegro-non-troppo",
+      "name": "12 Monferrinas, Op. 49: XI. Allegro non troppo",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "muzio-clementi",
+      "primary_artist_name": "Muzio Clementi",
+      "release_canonical_slug": "ludwig-van-beethoven--classical-composure-piano-works",
+      "release_name": "Classical Composure: Piano Works",
+      "spotify_track_id": "5Dw0NKyswXUFyfksXOFhst",
+      "spotify_url": "https://open.spotify.com/track/5Dw0NKyswXUFyfksXOFhst"
+    },
+    {
+      "canonical_slug": "janos-sebestyen--2-part-invention-in-f-major-bwv-779-two-part-invention-in-f-major-bwv-779",
+      "name": "2 Part Invention In F Major, BWV 779: Two-part Invention In F Major, BWV 779",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "janos-sebestyen",
+      "primary_artist_name": "Janos Sebestyen",
+      "release_canonical_slug": "janos-sebestyen--j-s-bach-italian-concerto-chromatic-fantasia-and-fugue-12-little-preludes",
+      "release_name": "J. S. Bach: Italian Concerto / Chromatic Fantasia And Fugue / 12 Little Preludes",
+      "spotify_track_id": "20u6jxidADgZjwnJI0HIaz",
+      "spotify_url": "https://open.spotify.com/track/20u6jxidADgZjwnJI0HIaz"
+    },
+    {
+      "canonical_slug": "valentin-silvestrov--3-bagatelles-op-1-i-allegretto",
+      "name": "3 Bagatelles, Op. 1: I. Allegretto",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
+      "release_name": "Handsome Skies",
+      "spotify_track_id": "2GNFlskK4MK7LFdtEcL4xQ",
+      "spotify_url": "https://open.spotify.com/track/2GNFlskK4MK7LFdtEcL4xQ"
+    },
+    {
+      "canonical_slug": "valentin-silvestrov--3-bagatelles-op-4-i-moderato",
+      "name": "3 Bagatelles, Op. 4: I. Moderato",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
+      "release_name": "Handsome Skies",
+      "spotify_track_id": "2InyVDrXHN8nJ51v2FHNpz",
+      "spotify_url": "https://open.spotify.com/track/2InyVDrXHN8nJ51v2FHNpz"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--3-preludi-sopra-melodie-gregoriane-p-131-i-molto-lento",
+      "name": "3 Preludi Sopra Melodie Gregoriane, P. 131: I. Molto Lento",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "1ONzRvx7L9jhvyyqZJoh9m",
+      "spotify_url": "https://open.spotify.com/track/1ONzRvx7L9jhvyyqZJoh9m"
+    },
+    {
+      "canonical_slug": "valentin-silvestrov--3-waltzes-for-piano-ii",
+      "name": "3 Waltzes for Piano: II. —",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "release_canonical_slug": "valentin-silvestrov--silvestrov-touching-the-memory",
+      "release_name": "Silvestrov: Touching the Memory",
+      "spotify_track_id": "1SkhT5D7N07GhJoKxIAv4p",
+      "spotify_url": "https://open.spotify.com/track/1SkhT5D7N07GhJoKxIAv4p"
+    },
+    {
+      "canonical_slug": "valentin-silvestrov--3-waltzes-with-postludium-op-3-ii-moderato",
+      "name": "3 Waltzes with Postludium, Op. 3: II. Moderato",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
+      "release_name": "Handsome Skies",
+      "spotify_track_id": "72EMcrozBuWKilKrAwK9cR",
+      "spotify_url": "https://open.spotify.com/track/72EMcrozBuWKilKrAwK9cR"
+    },
+    {
+      "canonical_slug": "valentin-silvestrov--3-waltzes-with-postludium-op-3-iv-postludium",
+      "name": "3 Waltzes with Postludium, Op. 3: IV. Postludium",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "valentin-silvestrov",
+      "primary_artist_name": "Valentin Silvestrov",
+      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
+      "release_name": "Handsome Skies",
+      "spotify_track_id": "3yZGmeGtGQAaqTobYsDMzi",
+      "spotify_url": "https://open.spotify.com/track/3yZGmeGtGQAaqTobYsDMzi"
     }
   ],
   "source_refs": [
@@ -225,12 +392,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--classical.json",
+      "url": "https://en.wikipedia.org/wiki/Classical_music",
+      "retrieved_at": "2026-03-29T08:22:15Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--classical.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%22An_der_sch%C3%B6nen,_blauen_Donau%22_performed_by_the_U.S._Marine_Band.flac",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
-      "source": "spotify",
+      "source": "spotify+legacy",
       "path": "plays",
-      "updated_at": "2026-03-04T01:52:43.403Z",
-      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+      "updated_at": "2026-03-14T18:12:15.736Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history plus imported untimestamped legacy play counts."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }
