@@ -10,6 +10,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--epc",
+    "album_id": "0p84uJOIlfwpqcXnS7ynC2",
     "album_name": "EPC",
     "duration_ms": 173302,
     "track_spotify_url": "https://open.spotify.com/track/0HeC9JexXM6OWZq0ThlKTh"
@@ -25,6 +26,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--i-tell-ya",
+    "album_id": "7Ij3uhwwb7my0AH1nxFY2C",
     "album_name": "I Tell Ya",
     "duration_ms": 142857,
     "track_spotify_url": "https://open.spotify.com/track/1rkc2masc6W4UTCsPYP4M5"
@@ -40,6 +42,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--i-tell-ya",
+    "album_id": "7Ij3uhwwb7my0AH1nxFY2C",
     "album_name": "I Tell Ya",
     "duration_ms": 142857,
     "track_spotify_url": "https://open.spotify.com/track/1rkc2masc6W4UTCsPYP4M5"
@@ -55,6 +58,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--what-s-da-prollem",
+    "album_id": "30OkfvZWu3B20rm3RjXaxo",
     "album_name": "What's Da Prollem?",
     "duration_ms": 145881,
     "track_spotify_url": "https://open.spotify.com/track/132ZRfRmsEaJPv3X4gboXh"
@@ -70,6 +74,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--love-somebody",
+    "album_id": "0JwRAoMCbBdAfPNNSSbLsC",
     "album_name": "Love Somebody",
     "duration_ms": 129690,
     "track_spotify_url": "https://open.spotify.com/track/34EjUKyHmn59RZH2RxuWRa"
@@ -85,6 +90,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 115000,
     "track_spotify_url": "https://open.spotify.com/track/4keIC3Fdx6WiUme9g9IRQC"
@@ -100,6 +106,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--green-pack",
+    "album_id": "5dCZZkQMObk1WuiupTgyV0",
     "album_name": "GREEN PACK",
     "duration_ms": 211028,
     "track_spotify_url": "https://open.spotify.com/track/2yg7S9gPYW1HSp6s3675pz"
@@ -115,6 +122,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 200412,
     "track_spotify_url": "https://open.spotify.com/track/7FR3ra4IXXFOm4KXhSFKeI"
@@ -130,6 +138,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 179671,
     "track_spotify_url": "https://open.spotify.com/track/4QfX0TEdudUlanDuvqta8V"
@@ -145,6 +154,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--taxes-finnah-hit",
+    "album_id": "0bYOtOwlikOYQc5TkkRo2e",
     "album_name": "Taxes Finnah Hit",
     "duration_ms": 183986,
     "track_spotify_url": "https://open.spotify.com/track/0fn5JcaPCR1jeXdUWV5va2"
@@ -160,7 +170,15 @@
     "artist_name": "Tonez",
     "artist_spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P",
     "artist_musicbrainz_id": "7a07fe60-7183-474f-a147-8b8388717393",
+    "additional_artists": [
+      {
+        "id": "1zf7vVM2XaoaTD3hXWR1If",
+        "name": "Verdèzul",
+        "spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If"
+      }
+    ],
     "release_slug": "tonez--fade",
+    "album_id": "7c8uerKlVKWJLDjgBqST7e",
     "album_name": "Fade",
     "duration_ms": 173793,
     "track_spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF"
@@ -175,7 +193,15 @@
     "artist_id": "1zf7vVM2XaoaTD3hXWR1If",
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
+    "additional_artists": [
+      {
+        "id": "5l3rOIBRgD95E1MXrVARcu",
+        "name": "Nemesyzz Rigby",
+        "spotify_url": "https://open.spotify.com/artist/5l3rOIBRgD95E1MXrVARcu"
+      }
+    ],
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 174966,
     "track_spotify_url": "https://open.spotify.com/track/7E1Z13mPfiA9XS9SfWiBhZ"
@@ -191,6 +217,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 122520,
     "track_spotify_url": "https://open.spotify.com/track/7zsftx468s8NTZYprLhAHM"
@@ -206,6 +233,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--green-pack",
+    "album_id": "5dCZZkQMObk1WuiupTgyV0",
     "album_name": "GREEN PACK",
     "duration_ms": 135900,
     "track_spotify_url": "https://open.spotify.com/track/1IzcwzHVccY4n1rXoTd4lE"
@@ -221,7 +249,20 @@
     "artist_name": "Tonez",
     "artist_spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P",
     "artist_musicbrainz_id": "7a07fe60-7183-474f-a147-8b8388717393",
+    "additional_artists": [
+      {
+        "id": "1zf7vVM2XaoaTD3hXWR1If",
+        "name": "Verdèzul",
+        "spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If"
+      },
+      {
+        "id": "6S1ZCaU8vPeT4vLxBPg1MX",
+        "name": "Broshi",
+        "spotify_url": "https://open.spotify.com/artist/6S1ZCaU8vPeT4vLxBPg1MX"
+      }
+    ],
     "release_slug": "tonez--thiccfreqness-remixed-vol-1",
+    "album_id": "6EzRPIpClM4Y4zrokWPd8H",
     "album_name": "Thiccfreqness Remixed Vol. 1",
     "duration_ms": 166615,
     "track_spotify_url": "https://open.spotify.com/track/4qDNBFq7x89GHic0pGg1BA"
@@ -237,6 +278,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--green-pack",
+    "album_id": "5dCZZkQMObk1WuiupTgyV0",
     "album_name": "GREEN PACK",
     "duration_ms": 200398,
     "track_spotify_url": "https://open.spotify.com/track/4JDBVIQFezruK28FFJHfzU"
@@ -252,6 +294,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--love-somebody",
+    "album_id": "0JwRAoMCbBdAfPNNSSbLsC",
     "album_name": "Love Somebody",
     "duration_ms": 129690,
     "track_spotify_url": "https://open.spotify.com/track/34EjUKyHmn59RZH2RxuWRa"
@@ -267,6 +310,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--love-somebody-chopped-and-screwed",
+    "album_id": "5g1VNP1SH8yznYsxOdf8YY",
     "album_name": "Love Somebody (Chopped \u0026 Screwed)",
     "duration_ms": 194552,
     "track_spotify_url": "https://open.spotify.com/track/3kRysviqU0RwqgGILk4a0k"
@@ -282,6 +326,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--i-tell-ya",
+    "album_id": "7Ij3uhwwb7my0AH1nxFY2C",
     "album_name": "I Tell Ya",
     "duration_ms": 142857,
     "track_spotify_url": "https://open.spotify.com/track/1rkc2masc6W4UTCsPYP4M5"
@@ -296,7 +341,15 @@
     "artist_id": "1zf7vVM2XaoaTD3hXWR1If",
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
+    "additional_artists": [
+      {
+        "id": "1altaDkOv8pDhCLmd6OGtW",
+        "name": "Larry Beville",
+        "spotify_url": "https://open.spotify.com/artist/1altaDkOv8pDhCLmd6OGtW"
+      }
+    ],
     "release_slug": "verdèzul--poppin-gums",
+    "album_id": "4tDvrRA3ZG68waZjJPoVq4",
     "album_name": "Poppin' Gums",
     "duration_ms": 175370,
     "track_spotify_url": "https://open.spotify.com/track/53nwJwkVSHxAPTXcYmHrHm"
@@ -312,6 +365,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--epc",
+    "album_id": "0p84uJOIlfwpqcXnS7ynC2",
     "album_name": "EPC",
     "duration_ms": 173302,
     "track_spotify_url": "https://open.spotify.com/track/0HeC9JexXM6OWZq0ThlKTh"
@@ -327,6 +381,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--what-s-da-prollem",
+    "album_id": "30OkfvZWu3B20rm3RjXaxo",
     "album_name": "What's Da Prollem?",
     "duration_ms": 145881,
     "track_spotify_url": "https://open.spotify.com/track/132ZRfRmsEaJPv3X4gboXh"
@@ -342,6 +397,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--taxes-finnah-hit",
+    "album_id": "0bYOtOwlikOYQc5TkkRo2e",
     "album_name": "Taxes Finnah Hit",
     "duration_ms": 183986,
     "track_spotify_url": "https://open.spotify.com/track/0fn5JcaPCR1jeXdUWV5va2"
@@ -357,6 +413,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 173192,
     "track_spotify_url": "https://open.spotify.com/track/7gE15QeiutXXesSoGznk8p"
@@ -372,6 +429,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 115000,
     "track_spotify_url": "https://open.spotify.com/track/4keIC3Fdx6WiUme9g9IRQC"
@@ -387,6 +445,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 179671,
     "track_spotify_url": "https://open.spotify.com/track/4QfX0TEdudUlanDuvqta8V"
@@ -402,6 +461,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 200412,
     "track_spotify_url": "https://open.spotify.com/track/7FR3ra4IXXFOm4KXhSFKeI"
@@ -416,7 +476,15 @@
     "artist_id": "1zf7vVM2XaoaTD3hXWR1If",
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
+    "additional_artists": [
+      {
+        "id": "5l3rOIBRgD95E1MXrVARcu",
+        "name": "Nemesyzz Rigby",
+        "spotify_url": "https://open.spotify.com/artist/5l3rOIBRgD95E1MXrVARcu"
+      }
+    ],
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 174966,
     "track_spotify_url": "https://open.spotify.com/track/7E1Z13mPfiA9XS9SfWiBhZ"
@@ -432,7 +500,15 @@
     "artist_name": "Tonez",
     "artist_spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P",
     "artist_musicbrainz_id": "7a07fe60-7183-474f-a147-8b8388717393",
+    "additional_artists": [
+      {
+        "id": "1zf7vVM2XaoaTD3hXWR1If",
+        "name": "Verdèzul",
+        "spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If"
+      }
+    ],
     "release_slug": "tonez--fade",
+    "album_id": "7c8uerKlVKWJLDjgBqST7e",
     "album_name": "Fade",
     "duration_ms": 173793,
     "track_spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF"
@@ -448,6 +524,7 @@
     "artist_name": "Verdèzul",
     "artist_spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If",
     "release_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
+    "album_id": "41MixYv9THV7OBZcxUv1Qj",
     "album_name": "Earthtones \u0026 Shades of Blue and Green",
     "duration_ms": 122520,
     "track_spotify_url": "https://open.spotify.com/track/7zsftx468s8NTZYprLhAHM"
@@ -463,7 +540,20 @@
     "artist_name": "Tonez",
     "artist_spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P",
     "artist_musicbrainz_id": "7a07fe60-7183-474f-a147-8b8388717393",
+    "additional_artists": [
+      {
+        "id": "1zf7vVM2XaoaTD3hXWR1If",
+        "name": "Verdèzul",
+        "spotify_url": "https://open.spotify.com/artist/1zf7vVM2XaoaTD3hXWR1If"
+      },
+      {
+        "id": "6S1ZCaU8vPeT4vLxBPg1MX",
+        "name": "Broshi",
+        "spotify_url": "https://open.spotify.com/artist/6S1ZCaU8vPeT4vLxBPg1MX"
+      }
+    ],
     "release_slug": "tonez--thiccfreqness-remixed-vol-1",
+    "album_id": "6EzRPIpClM4Y4zrokWPd8H",
     "album_name": "Thiccfreqness Remixed Vol. 1",
     "duration_ms": 166615,
     "track_spotify_url": "https://open.spotify.com/track/4qDNBFq7x89GHic0pGg1BA"
@@ -479,6 +569,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--sanskrit-medicine-mantras",
+    "album_id": "7Fuibuy3XUuuRHc2yXRJ7p",
     "album_name": "Sanskrit Medicine Mantras",
     "duration_ms": 1114415,
     "track_spotify_url": "https://open.spotify.com/track/5oM7rBOmOJgP95iN2ulzGT"
@@ -494,6 +585,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--krishna-a-celebration-in-sanskrit",
+    "album_id": "1iRKy2kYETF3dxLeaxcykO",
     "album_name": "Krishna: A Celebration In Sanskrit",
     "duration_ms": 437185,
     "track_spotify_url": "https://open.spotify.com/track/2AaQf9LsQs5FOBZrFlxjKM"
@@ -509,6 +601,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--sanskrit-soul-music",
+    "album_id": "7JnfiSOewo7KcE0MOOXlUD",
     "album_name": "Sanskrit Soul Music",
     "duration_ms": 138945,
     "track_spotify_url": "https://open.spotify.com/track/1p3F86kQjN6oCMKIGGFzPF"
@@ -523,7 +616,15 @@
     "artist_id": "4eK7eYjD5DyOb7BqV3jBdA",
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
+    "additional_artists": [
+      {
+        "id": "05Q8c7RfTGhYwKuu8G5ynR",
+        "name": "Lucid Mantra",
+        "spotify_url": "https://open.spotify.com/artist/05Q8c7RfTGhYwKuu8G5ynR"
+      }
+    ],
     "release_slug": "gaiea-sanskrit--nine",
+    "album_id": "2B0cSIaC5i3BGJ9oB3mRdP",
     "album_name": "Nine",
     "duration_ms": 254000,
     "track_spotify_url": "https://open.spotify.com/track/1IB4130qxWhxW4ckja7ZLV"
@@ -539,6 +640,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 204042,
     "track_spotify_url": "https://open.spotify.com/track/2ZWDDWgCnB65nHWTZGMct9"
@@ -554,6 +656,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--powerful-sanskrit-mantras",
+    "album_id": "0pIpQkSkpQekKW3V1H04tJ",
     "album_name": "Powerful Sanskrit Mantras",
     "duration_ms": 426241,
     "track_spotify_url": "https://open.spotify.com/track/6DJ7FQf1hPp0s0mPkbIF7X"
@@ -569,6 +672,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--sanskrit-soul-music",
+    "album_id": "7JnfiSOewo7KcE0MOOXlUD",
     "album_name": "Sanskrit Soul Music",
     "duration_ms": 365296,
     "track_spotify_url": "https://open.spotify.com/track/1b8xtbJpp6lPSqwytdBx3C"
@@ -584,6 +688,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--holo-voyage-inception",
+    "album_id": "022wmFK9N6SYQWJvSFVKJ8",
     "album_name": "Holo Voyage - Inception",
     "duration_ms": 270000,
     "track_spotify_url": "https://open.spotify.com/track/2KQaet7209rw5TN0zbzt7A"
@@ -599,6 +704,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--sanskrit-soul-music",
+    "album_id": "7JnfiSOewo7KcE0MOOXlUD",
     "album_name": "Sanskrit Soul Music",
     "duration_ms": 267520,
     "track_spotify_url": "https://open.spotify.com/track/5l1T9wpG6snK2ehkPsx5iz"
@@ -614,6 +720,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--holo-voyage-inception",
+    "album_id": "022wmFK9N6SYQWJvSFVKJ8",
     "album_name": "Holo Voyage - Inception",
     "duration_ms": 160080,
     "track_spotify_url": "https://open.spotify.com/track/6aFVK7K8z5MEcF6JKRmkfH"
@@ -629,6 +736,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 182491,
     "track_spotify_url": "https://open.spotify.com/track/1LVLMOIVuGkh8w7VSlWaAs"
@@ -644,6 +752,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 172982,
     "track_spotify_url": "https://open.spotify.com/track/0ucCmxx7jyGeu6WUcjno5U"
@@ -659,6 +768,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--sanskrit-soul-music",
+    "album_id": "7JnfiSOewo7KcE0MOOXlUD",
     "album_name": "Sanskrit Soul Music",
     "duration_ms": 369447,
     "track_spotify_url": "https://open.spotify.com/track/3FhVcAgFOMKemlYEeErQiS"
@@ -674,6 +784,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 115173,
     "track_spotify_url": "https://open.spotify.com/track/2PGQStNeN4tbFixv7c6xCQ"
@@ -689,6 +800,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 115173,
     "track_spotify_url": "https://open.spotify.com/track/2PGQStNeN4tbFixv7c6xCQ"
@@ -705,7 +817,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--søn-of-dad-deluxe",
+    "album_id": "3iTz4Hhtzy2o7O6U9n2JXe",
     "album_name": "søn of dad (deluxe)",
+    "release_musicbrainz_id": "9c4028c5-0b0f-4e3f-8d49-0779be0f8127",
+    "release_group_musicbrainz_id": "ceaa39e3-9ae4-49ec-8374-5bf35b4e18da",
     "duration_ms": 247280,
     "track_spotify_url": "https://open.spotify.com/track/72RX8sK4OKFnUX2MBDOdBD"
   },
@@ -720,8 +835,18 @@
     "artist_name": "HARDY",
     "artist_spotify_url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy",
     "artist_musicbrainz_id": "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
+    "additional_artists": [
+      {
+        "id": "4DSDa4HvAWqvb3dMHUOAfd",
+        "name": "Stephen Wilson Jr.",
+        "spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+      }
+    ],
     "release_slug": "hardy--country-country",
+    "album_id": "1j2unVmWjj79ywAaRFPYXc",
     "album_name": "COUNTRY! COUNTRY!",
+    "release_musicbrainz_id": "23b65769-05b1-42b7-9f11-02178a20eeb0",
+    "release_group_musicbrainz_id": "947b3c9f-a383-4030-b7c2-cb79f46fa535",
     "duration_ms": 218471,
     "track_spotify_url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
   },
@@ -737,7 +862,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--gary",
+    "album_id": "2oRy1LSwPVKeELSNxewLHc",
     "album_name": "Gary",
+    "release_musicbrainz_id": "c3b9f56b-8750-4edf-90aa-ce1b63d6e860",
+    "release_group_musicbrainz_id": "89480ae5-a492-4642-af1d-f20a8e47bfdd",
     "duration_ms": 314623,
     "track_spotify_url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
   },
@@ -753,6 +881,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--dig-a-hole",
+    "album_id": "6VobrGcLu5Sz4RfMKaiqHR",
     "album_name": "Dig A Hole",
     "duration_ms": 171522,
     "track_spotify_url": "https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY"
@@ -768,7 +897,15 @@
     "artist_name": "Lori McKenna",
     "artist_spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl",
     "artist_musicbrainz_id": "886557b3-2fa6-494e-993d-b955e789dc57",
+    "additional_artists": [
+      {
+        "id": "4DSDa4HvAWqvb3dMHUOAfd",
+        "name": "Stephen Wilson Jr.",
+        "spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+      }
+    ],
     "release_slug": "lori-mckenna--the-tunnel",
+    "album_id": "44v9jy2Eu3R3lBXecU6iFo",
     "album_name": "The Tunnel",
     "duration_ms": 292880,
     "track_spotify_url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J"
@@ -784,7 +921,15 @@
     "artist_name": "Lori McKenna",
     "artist_spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl",
     "artist_musicbrainz_id": "886557b3-2fa6-494e-993d-b955e789dc57",
+    "additional_artists": [
+      {
+        "id": "4DSDa4HvAWqvb3dMHUOAfd",
+        "name": "Stephen Wilson Jr.",
+        "spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+      }
+    ],
     "release_slug": "lori-mckenna--the-tunnel",
+    "album_id": "44v9jy2Eu3R3lBXecU6iFo",
     "album_name": "The Tunnel",
     "duration_ms": 292880,
     "track_spotify_url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J"
@@ -801,7 +946,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--søn-of-dad-deluxe",
+    "album_id": "3iTz4Hhtzy2o7O6U9n2JXe",
     "album_name": "søn of dad (deluxe)",
+    "release_musicbrainz_id": "9c4028c5-0b0f-4e3f-8d49-0779be0f8127",
+    "release_group_musicbrainz_id": "ceaa39e3-9ae4-49ec-8374-5bf35b4e18da",
     "duration_ms": 235196,
     "track_spotify_url": "https://open.spotify.com/track/6Dj9AtyawJc4YS3xjFnv5b"
   },
@@ -817,7 +965,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--blankets",
+    "album_id": "2KhU5xZYYF3mopBNajadgW",
     "album_name": "Blankets",
+    "release_musicbrainz_id": "cad7da6f-f52a-4eae-a948-afb20b82d4e8",
+    "release_group_musicbrainz_id": "73063b69-34af-4c88-8fce-e94bb1938e4c",
     "duration_ms": 311136,
     "track_spotify_url": "https://open.spotify.com/track/2XF3uEiaS8SpI5NzNZEHVr"
   },
@@ -833,7 +984,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--søn-of-dad-deluxe",
+    "album_id": "3iTz4Hhtzy2o7O6U9n2JXe",
     "album_name": "søn of dad (deluxe)",
+    "release_musicbrainz_id": "9c4028c5-0b0f-4e3f-8d49-0779be0f8127",
+    "release_group_musicbrainz_id": "ceaa39e3-9ae4-49ec-8374-5bf35b4e18da",
     "duration_ms": 261293,
     "track_spotify_url": "https://open.spotify.com/track/6BqroNusompVGz4QVjj2SZ"
   },
@@ -849,7 +1003,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--søn-of-dad-deluxe",
+    "album_id": "3iTz4Hhtzy2o7O6U9n2JXe",
     "album_name": "søn of dad (deluxe)",
+    "release_musicbrainz_id": "9c4028c5-0b0f-4e3f-8d49-0779be0f8127",
+    "release_group_musicbrainz_id": "ceaa39e3-9ae4-49ec-8374-5bf35b4e18da",
     "duration_ms": 203637,
     "track_spotify_url": "https://open.spotify.com/track/6SARKgR2JIcVu7XcM1JIOT"
   },
@@ -865,7 +1022,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
     "artist_musicbrainz_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
     "release_slug": "stephen-wilson-jr--blankets",
+    "album_id": "2KhU5xZYYF3mopBNajadgW",
     "album_name": "Blankets",
+    "release_musicbrainz_id": "cad7da6f-f52a-4eae-a948-afb20b82d4e8",
+    "release_group_musicbrainz_id": "73063b69-34af-4c88-8fce-e94bb1938e4c",
     "duration_ms": 278638,
     "track_spotify_url": "https://open.spotify.com/track/1KX8lvTaPh4dHmJzqmaYmD"
   },
@@ -881,6 +1041,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb",
     "artist_musicbrainz_id": "7fe3380a-8e35-48d1-ac5a-174fe6b5060b",
     "release_slug": "the-dare--what-s-wrong-with-new-york-deluxe",
+    "album_id": "2D89AVMQByhOVAsqYtIUKD",
     "album_name": "What's Wrong With New York? (Deluxe)",
     "duration_ms": 141631,
     "track_spotify_url": "https://open.spotify.com/track/40fxiROJfKORzhgp7MM9KN"
@@ -897,6 +1058,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb",
     "artist_musicbrainz_id": "7fe3380a-8e35-48d1-ac5a-174fe6b5060b",
     "release_slug": "the-dare--what-s-wrong-with-new-york-deluxe",
+    "album_id": "2D89AVMQByhOVAsqYtIUKD",
     "album_name": "What's Wrong With New York? (Deluxe)",
     "duration_ms": 133037,
     "track_spotify_url": "https://open.spotify.com/track/3JfWcbNBzgAKg0YwLRAjX5"
@@ -912,8 +1074,18 @@
     "artist_name": "Wet Leg",
     "artist_spotify_url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ",
     "artist_musicbrainz_id": "90744b3e-363a-458e-8da1-e3e392a489c4",
+    "additional_artists": [
+      {
+        "id": "2mqiqsaX4LzFnUP7PmHGAb",
+        "name": "The Dare",
+        "spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+      }
+    ],
     "release_slug": "wet-leg--mangetout-the-dare-remix",
+    "album_id": "7zHlzM3GayR3F1IoG5Xmls",
     "album_name": "mangetout (The Dare remix)",
+    "release_musicbrainz_id": "a7bd8896-86aa-445e-9149-f26e26b9ead2",
+    "release_group_musicbrainz_id": "9ecd79fe-263d-4b0d-b1a8-994e147f1110",
     "duration_ms": 200192,
     "track_spotify_url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
   },
@@ -929,6 +1101,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb",
     "artist_musicbrainz_id": "7fe3380a-8e35-48d1-ac5a-174fe6b5060b",
     "release_slug": "the-dare--what-s-wrong-with-new-york-deluxe",
+    "album_id": "2D89AVMQByhOVAsqYtIUKD",
     "album_name": "What's Wrong With New York? (Deluxe)",
     "duration_ms": 119558,
     "track_spotify_url": "https://open.spotify.com/track/2qbkDNJy6yzAcwdM63yPVu"
@@ -945,7 +1118,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
     "artist_musicbrainz_id": "83d91898-7763-47d7-b03b-b92132375c47",
     "release_slug": "pink-floyd--meddle",
+    "album_id": "468ZwCchVtzEbt9BHmXopb",
     "album_name": "Meddle",
+    "release_musicbrainz_id": "09ed5877-bb22-4a26-8ec7-c95e5ee70fd3",
+    "release_group_musicbrainz_id": "4e98c9b4-92f6-3049-b9da-a1088b623672",
     "duration_ms": 367880,
     "track_spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
   },
@@ -961,6 +1137,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb",
     "artist_musicbrainz_id": "7fe3380a-8e35-48d1-ac5a-174fe6b5060b",
     "release_slug": "the-dare--what-s-wrong-with-new-york-deluxe",
+    "album_id": "2D89AVMQByhOVAsqYtIUKD",
     "album_name": "What's Wrong With New York? (Deluxe)",
     "duration_ms": 119558,
     "track_spotify_url": "https://open.spotify.com/track/2qbkDNJy6yzAcwdM63yPVu"
@@ -977,7 +1154,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX",
     "artist_musicbrainz_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
     "release_slug": "cypress-hill--cypress-hill",
+    "album_id": "4tQSV1ZGpwlo3dBiTRuKvM",
     "album_name": "Cypress Hill",
+    "release_musicbrainz_id": "2c1b6187-dee7-4786-b289-50a7e318cf53",
+    "release_group_musicbrainz_id": "6845afb3-c21c-47ef-9fae-6244fd8b74d2",
     "duration_ms": 243026,
     "track_spotify_url": "https://open.spotify.com/track/1TeVeYATRojNVCH7q1APiv"
   },
@@ -993,7 +1173,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa",
     "artist_musicbrainz_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
     "release_slug": "a-tribe-called-quest--midnight-marauders",
+    "album_id": "4v5x3Oo3UjQ9YmF3hRAip5",
     "album_name": "Midnight Marauders",
+    "release_musicbrainz_id": "a4a76ede-a544-45c2-b218-2f8243a2eb16",
+    "release_group_musicbrainz_id": "c2afedfb-034a-3683-ad47-e4404cd7c485",
     "duration_ms": 191533,
     "track_spotify_url": "https://open.spotify.com/track/671sDyeE398eD0sdGuVbZU"
   },
@@ -1008,6 +1191,7 @@
     "artist_name": "Simran \u0026 GuruPrem",
     "artist_spotify_url": "https://open.spotify.com/artist/6lkOq7qccqrCLBwJgXWfRn",
     "release_slug": "simran-and-guruprem--suite-kirtan-soheila",
+    "album_id": "1xsLStQRZsNQ8FbrfRRll4",
     "album_name": "Suite: Kirtan Soheila",
     "duration_ms": 426386,
     "track_spotify_url": "https://open.spotify.com/track/27E5j1bEFob59NGOtGsOib"
@@ -1023,6 +1207,7 @@
     "artist_name": "Mulatu Astatke",
     "artist_spotify_url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv",
     "release_slug": "mulatu-astatke--new-york-addis-london-the-story-of-ethio-jazz-1965-1975",
+    "album_id": "3MHdUsf9wX9WffvOP59RBz",
     "album_name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
     "duration_ms": 139600,
     "track_spotify_url": "https://open.spotify.com/track/26YMZ2S61ItkKS1w3gdaDo"
@@ -1038,8 +1223,18 @@
     "artist_name": "berlioz",
     "artist_spotify_url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
     "artist_musicbrainz_id": "b22257b5-d192-4f39-8bff-30b4a234bdb3",
+    "additional_artists": [
+      {
+        "id": "4PfXiTCDXTYEobjXjcRFNW",
+        "name": "Ted Jasper",
+        "spotify_url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+      }
+    ],
     "release_slug": "berlioz--nyc-in-1940",
+    "album_id": "7LyRxCFXuO6j2Yo8uNGYw5",
     "album_name": "nyc in 1940",
+    "release_musicbrainz_id": "73a0f37b-cbd1-4ec9-bf7f-9f20c761b032",
+    "release_group_musicbrainz_id": "c334e841-2fe8-4478-b5ad-073d8aab1bd3",
     "duration_ms": 156611,
     "track_spotify_url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j"
   },
@@ -1055,6 +1250,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/3fmjIu8f1q5tzSxycTsi33",
     "artist_musicbrainz_id": "4618b4a6-bced-4846-a37e-c8816052d2da",
     "release_slug": "songs-of-disappearance--australian-bird-calls",
+    "album_id": "6bIzWyLFG37RgaCDhVjxZz",
     "album_name": "Australian Bird Calls",
     "duration_ms": 32049,
     "track_spotify_url": "https://open.spotify.com/track/3lPQs0WsZERiEau0809gZC"
@@ -1071,6 +1267,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO",
     "artist_musicbrainz_id": "4ec3b7d8-efbb-4672-8067-5e72bd8dba3e",
     "release_slug": "bobby-shmurda--hot-n-gga",
+    "album_id": "5ptl9Sheh9eWaogxFOZ3PV",
     "album_name": "Hot N*gga",
     "duration_ms": 194561,
     "track_spotify_url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
@@ -1087,7 +1284,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4",
     "artist_musicbrainz_id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
     "release_slug": "jimi-hendrix--axis-bold-as-love",
+    "album_id": "3uFZf8rykoHo7XMIQVYW6r",
     "album_name": "Axis: Bold As Love",
+    "release_musicbrainz_id": "a2662ae2-f06b-3cdd-892f-596646c03558",
+    "release_group_musicbrainz_id": "d0b1e21e-cef6-4575-8d92-1afea1894ca3",
     "duration_ms": 168920,
     "track_spotify_url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
   },
@@ -1103,7 +1303,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
     "artist_musicbrainz_id": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
     "release_slug": "eminem--the-marshall-mathers-lp",
+    "album_id": "6t7956yu5zYf5A829XRiHC",
     "album_name": "The Marshall Mathers LP",
+    "release_musicbrainz_id": "a5232981-a53b-41e3-bc93-ec095d69e37e",
+    "release_group_musicbrainz_id": "b0fa91c8-0996-38f1-ab84-797f58d7c4eb",
     "duration_ms": 309760,
     "track_spotify_url": "https://open.spotify.com/track/3xVtc7PB4V3AqAfq4Iahli"
   },
@@ -1119,6 +1322,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd",
     "artist_musicbrainz_id": "bf2e15d0-4b77-469e-bfb4-f8414415baca",
     "release_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
+    "album_id": "3PxXiYU3PjymOEE22PewGZ",
     "album_name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
     "duration_ms": 229293,
     "track_spotify_url": "https://open.spotify.com/track/3bZEtYBYJahicQkLAqg4Am"
@@ -1135,7 +1339,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa",
     "artist_musicbrainz_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
     "release_slug": "a-tribe-called-quest--the-low-end-theory",
+    "album_id": "1p12OAWwudgMqfMzjMvl2a",
     "album_name": "The Low End Theory",
+    "release_musicbrainz_id": "63747b49-c817-4688-a3c3-c6b534672f3e",
+    "release_group_musicbrainz_id": "c3733436-fcba-3c08-b082-d548df5c5139",
     "duration_ms": 234626,
     "track_spotify_url": "https://open.spotify.com/track/4tEaytMs86hIaOSsiGoLcP"
   },
@@ -1150,8 +1357,18 @@
     "artist_name": "Snoop Dogg",
     "artist_spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
     "artist_musicbrainz_id": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+    "additional_artists": [
+      {
+        "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+        "name": "Willie Nelson",
+        "spotify_url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+      }
+    ],
     "release_slug": "snoop-dogg--doggumentary",
+    "album_id": "6Hnr6UcLxnEadWQ70bZqGS",
     "album_name": "Doggumentary",
+    "release_musicbrainz_id": "856d2d78-255b-408b-ad28-736b24944016",
+    "release_group_musicbrainz_id": "055333bb-c6ed-4077-b160-64e81b744582",
     "duration_ms": 125160,
     "track_spotify_url": "https://open.spotify.com/track/5jcQZOQpMWFraXxn9hAQt0"
   },
@@ -1166,6 +1383,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 115173,
     "track_spotify_url": "https://open.spotify.com/track/2PGQStNeN4tbFixv7c6xCQ"
@@ -1182,7 +1400,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
     "artist_musicbrainz_id": "381086ea-f511-4aba-bdf9-71c753dc5077",
     "release_slug": "kendrick-lamar--mr-morale-and-the-big-steppers",
+    "album_id": "79ONNoS4M9tfIA1mYLBYVX",
     "album_name": "Mr. Morale \u0026 The Big Steppers",
+    "release_musicbrainz_id": "5e658ccb-cdfe-4e3c-91f7-79299ee45027",
+    "release_group_musicbrainz_id": "6bd70eee-bd46-4738-851a-f50c19d8d6db",
     "duration_ms": 203367,
     "track_spotify_url": "https://open.spotify.com/track/66mVPWmFvXPFf8pjK5ttOW"
   },
@@ -1198,6 +1419,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
     "artist_musicbrainz_id": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
     "release_slug": "sublime--40oz-to-freedom",
+    "album_id": "0vuwlanMPucXrYMGnOjhYL",
     "album_name": "40oz. To Freedom",
     "duration_ms": 140226,
     "track_spotify_url": "https://open.spotify.com/track/3Cx9j78Z0NE6jYwBWvvV3P"
@@ -1214,6 +1436,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/3fmjIu8f1q5tzSxycTsi33",
     "artist_musicbrainz_id": "4618b4a6-bced-4846-a37e-c8816052d2da",
     "release_slug": "songs-of-disappearance--australian-bird-calls",
+    "album_id": "6bIzWyLFG37RgaCDhVjxZz",
     "album_name": "Australian Bird Calls",
     "duration_ms": 31988,
     "track_spotify_url": "https://open.spotify.com/track/5RjJO3kJWOFEDx6ZBhwtj4"
@@ -1230,6 +1453,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/3fmjIu8f1q5tzSxycTsi33",
     "artist_musicbrainz_id": "4618b4a6-bced-4846-a37e-c8816052d2da",
     "release_slug": "songs-of-disappearance--australian-bird-calls",
+    "album_id": "6bIzWyLFG37RgaCDhVjxZz",
     "album_name": "Australian Bird Calls",
     "duration_ms": 31080,
     "track_spotify_url": "https://open.spotify.com/track/0t2nXe3BuNN1CKCkGaiweo"
@@ -1246,7 +1470,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
     "artist_musicbrainz_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
     "release_slug": "miles-davis--in-a-silent-way",
+    "album_id": "0Hs3BomCdwIWRhgT57x22T",
     "album_name": "In A Silent Way",
+    "release_musicbrainz_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+    "release_group_musicbrainz_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3",
     "duration_ms": 1192849,
     "track_spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
   },
@@ -1262,7 +1489,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
     "artist_musicbrainz_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
     "release_slug": "miles-davis--in-a-silent-way",
+    "album_id": "0Hs3BomCdwIWRhgT57x22T",
     "album_name": "In A Silent Way",
+    "release_musicbrainz_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+    "release_group_musicbrainz_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3",
     "duration_ms": 1192849,
     "track_spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
   },
@@ -1278,7 +1508,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa",
     "artist_musicbrainz_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
     "release_slug": "a-tribe-called-quest--we-got-it-from-here-thank-you-4-your-service",
+    "album_id": "3WvQpufOsPzkZvcSuynCf3",
     "album_name": "We got it from Here... Thank You 4 Your service",
+    "release_musicbrainz_id": "eb3a43ff-34cf-4c17-9be6-9ffa06e7ac40",
+    "release_group_musicbrainz_id": "b445860f-edd9-4160-841c-fccf5533ecbd",
     "duration_ms": 172016,
     "track_spotify_url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
   },
@@ -1294,6 +1527,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
     "artist_musicbrainz_id": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
     "release_slug": "sublime--40oz-to-freedom",
+    "album_id": "0vuwlanMPucXrYMGnOjhYL",
     "album_name": "40oz. To Freedom",
     "duration_ms": 169240,
     "track_spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda"
@@ -1309,8 +1543,18 @@
     "artist_name": "John Prine",
     "artist_spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT",
     "artist_musicbrainz_id": "e86492c1-0376-4df0-8042-8ba058c83960",
+    "additional_artists": [
+      {
+        "id": "5s6TJEuHTr9GR894wc6VfP",
+        "name": "Emmylou Harris",
+        "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+      }
+    ],
     "release_slug": "john-prine--in-spite-of-ourselves",
+    "album_id": "6UNwnh9qYgU8D5rFvihXfJ",
     "album_name": "In Spite Of Ourselves",
+    "release_musicbrainz_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+    "release_group_musicbrainz_id": "41714b68-b219-333d-8a7d-cf143d492984",
     "duration_ms": 161146,
     "track_spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
   },
@@ -1326,7 +1570,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX",
     "artist_musicbrainz_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
     "release_slug": "cypress-hill--black-sunday",
+    "album_id": "02lktkm4J7K7N8T63Gm7KX",
     "album_name": "Black Sunday",
+    "release_musicbrainz_id": "08af217f-4b6f-33ee-be39-df41fedd96ba",
+    "release_group_musicbrainz_id": "fe860e74-7eb8-4bc3-8b8d-cbf621aed500",
     "duration_ms": 188760,
     "track_spotify_url": "https://open.spotify.com/track/7aAZOl8GHF6ge391oY0Kmy"
   },
@@ -1342,7 +1589,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
     "artist_musicbrainz_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
     "release_slug": "miles-davis--in-a-silent-way",
+    "album_id": "0Hs3BomCdwIWRhgT57x22T",
     "album_name": "In A Silent Way",
+    "release_musicbrainz_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+    "release_group_musicbrainz_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3",
     "duration_ms": 1098215,
     "track_spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
   },
@@ -1358,7 +1608,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
     "artist_musicbrainz_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
     "release_slug": "miles-davis--in-a-silent-way",
+    "album_id": "0Hs3BomCdwIWRhgT57x22T",
     "album_name": "In A Silent Way",
+    "release_musicbrainz_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+    "release_group_musicbrainz_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3",
     "duration_ms": 1098215,
     "track_spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
   },
@@ -1374,7 +1627,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV",
     "artist_musicbrainz_id": "b403e7d4-6571-4bcd-8e86-3079db888b4d",
     "release_slug": "spotify--daily-drive",
+    "album_id": "36wV0VkNOxV6NTKeqTwnWj",
     "album_name": "Daily Drive",
+    "release_musicbrainz_id": "524a24e1-87f6-4f29-8b9d-eec249490c6c",
+    "release_group_musicbrainz_id": "aef00dcc-4d0c-4fc4-9d10-65415d28c0a4",
     "duration_ms": 12355,
     "track_spotify_url": "https://open.spotify.com/track/0dHptqEZGtUu8EUikNzXYU"
   },
@@ -1390,7 +1646,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
     "artist_musicbrainz_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
     "release_slug": "miles-davis--in-a-silent-way",
+    "album_id": "0Hs3BomCdwIWRhgT57x22T",
     "album_name": "In A Silent Way",
+    "release_musicbrainz_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+    "release_group_musicbrainz_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3",
     "duration_ms": 1098215,
     "track_spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
   },
@@ -1405,8 +1664,23 @@
     "artist_name": "Gnarls Barkley",
     "artist_spotify_url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH",
     "artist_musicbrainz_id": "a47c3aa2-7d87-475c-a2c7-1e2047dafb09",
+    "additional_artists": [
+      {
+        "id": "5nLYd9ST4Cnwy6NHaCxbj8",
+        "name": "CeeLo Green",
+        "spotify_url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+      },
+      {
+        "id": "2dBj3prW7gP9bCCOIQeDUf",
+        "name": "Danger Mouse",
+        "spotify_url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+      }
+    ],
     "release_slug": "gnarls-barkley--atlanta",
+    "album_id": "0D5Js6PSJm4xsy872qRBgf",
     "album_name": "Atlanta",
+    "release_musicbrainz_id": "118f9b70-6a53-4b96-a473-c11a08acbf51",
+    "release_group_musicbrainz_id": "9bbb78d5-e7cd-434b-878b-1ad5a1dcbcc1",
     "duration_ms": 291400,
     "track_spotify_url": "https://open.spotify.com/track/3MEMGDxDX8RlwFm8ddvFRx"
   },
@@ -1422,6 +1696,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
     "artist_musicbrainz_id": "75167b8b-44e4-407b-9d35-effe87b223cf",
     "release_slug": "neil-young--harvest-50th-anniversary-edition",
+    "album_id": "2LOpi63tYGh0Suy8eLJDVQ",
     "album_name": "Harvest (50th Anniversary Edition)",
     "duration_ms": 409338,
     "track_spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
@@ -1437,8 +1712,18 @@
     "artist_name": "John Prine",
     "artist_spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT",
     "artist_musicbrainz_id": "e86492c1-0376-4df0-8042-8ba058c83960",
+    "additional_artists": [
+      {
+        "id": "3NPZs8XgXtaWslUcnIw6rY",
+        "name": "Iris DeMent",
+        "spotify_url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+      }
+    ],
     "release_slug": "john-prine--in-spite-of-ourselves",
+    "album_id": "6UNwnh9qYgU8D5rFvihXfJ",
     "album_name": "In Spite Of Ourselves",
+    "release_musicbrainz_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+    "release_group_musicbrainz_id": "41714b68-b219-333d-8a7d-cf143d492984",
     "duration_ms": 213600,
     "track_spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O"
   },
@@ -1454,7 +1739,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
     "artist_musicbrainz_id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
     "release_slug": "bob-marley-and-the-wailers--confrontation",
+    "album_id": "5Rg4ZSwf1LPCuAMr0msdun",
     "album_name": "Confrontation",
+    "release_musicbrainz_id": "9f3c7fc2-36ef-46c9-b589-66c60df37857",
+    "release_group_musicbrainz_id": "e20b6b85-f911-31f2-933b-391f2d10dcb3",
     "duration_ms": 224826,
     "track_spotify_url": "https://open.spotify.com/track/6tZ2akfNBG9EQlvhEPYV2Q"
   },
@@ -1470,7 +1758,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV",
     "artist_musicbrainz_id": "b403e7d4-6571-4bcd-8e86-3079db888b4d",
     "release_slug": "spotify--daily-drive",
+    "album_id": "36wV0VkNOxV6NTKeqTwnWj",
     "album_name": "Daily Drive",
+    "release_musicbrainz_id": "524a24e1-87f6-4f29-8b9d-eec249490c6c",
+    "release_group_musicbrainz_id": "aef00dcc-4d0c-4fc4-9d10-65415d28c0a4",
     "duration_ms": 12199,
     "track_spotify_url": "https://open.spotify.com/track/764LQi7jSWPuvzO3R8YgX6"
   },
@@ -1486,7 +1777,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx",
     "artist_musicbrainz_id": "e16cc224-7803-46cb-8615-ccf9068199a1",
     "release_slug": "maurice-white--maurice-white",
+    "album_id": "75lRlwwQSTZUDxMeG8NmxX",
     "album_name": "Maurice White",
+    "release_musicbrainz_id": "3ef868bc-1068-4f7a-b4ca-7a3fb18c60cb",
+    "release_group_musicbrainz_id": "6f0f74c2-6db5-31ae-95d7-0f5a803f63ad",
     "duration_ms": 305266,
     "track_spotify_url": "https://open.spotify.com/track/1qSxV5uxGIsPtb2AfmpYg8"
   },
@@ -1502,7 +1796,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx",
     "artist_musicbrainz_id": "e16cc224-7803-46cb-8615-ccf9068199a1",
     "release_slug": "maurice-white--maurice-white",
+    "album_id": "75lRlwwQSTZUDxMeG8NmxX",
     "album_name": "Maurice White",
+    "release_musicbrainz_id": "3ef868bc-1068-4f7a-b4ca-7a3fb18c60cb",
+    "release_group_musicbrainz_id": "6f0f74c2-6db5-31ae-95d7-0f5a803f63ad",
     "duration_ms": 249640,
     "track_spotify_url": "https://open.spotify.com/track/78ed1StERMVBNocbSEQpCF"
   },
@@ -1518,7 +1815,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx",
     "artist_musicbrainz_id": "e16cc224-7803-46cb-8615-ccf9068199a1",
     "release_slug": "maurice-white--maurice-white",
+    "album_id": "75lRlwwQSTZUDxMeG8NmxX",
     "album_name": "Maurice White",
+    "release_musicbrainz_id": "3ef868bc-1068-4f7a-b4ca-7a3fb18c60cb",
+    "release_group_musicbrainz_id": "6f0f74c2-6db5-31ae-95d7-0f5a803f63ad",
     "duration_ms": 274773,
     "track_spotify_url": "https://open.spotify.com/track/2z0bWcFtSYWgszc1Dbj7o0"
   },
@@ -1534,7 +1834,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6",
     "artist_musicbrainz_id": "a8ebde98-7e91-46c7-992c-90039ba42017",
     "release_slug": "de-la-soul--de-la-soul-is-dead",
+    "album_id": "5F3GEttPPR58Gg15BKUsTd",
     "album_name": "De La Soul is Dead",
+    "release_musicbrainz_id": "2fa48352-7734-4829-a8be-db1139e948cf",
+    "release_group_musicbrainz_id": "0be4cdd5-ed37-3842-82ba-7f9983a34473",
     "duration_ms": 339650,
     "track_spotify_url": "https://open.spotify.com/track/5Oau0nwi1toumk4lShjlRn"
   }

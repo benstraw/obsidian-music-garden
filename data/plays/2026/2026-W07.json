@@ -11,6 +11,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
     "artist_musicbrainz_id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
     "release_slug": "the-beatles--rubber-soul-remastered-2009",
+    "album_id": "50o7kf2wLwVmOTVYJOTplm",
     "album_name": "Rubber Soul (Remastered 2009)",
     "duration_ms": 199960,
     "track_spotify_url": "https://open.spotify.com/track/4LLBKnNCrSRrSjSTuiwjE9"
@@ -26,6 +27,7 @@
     "artist_name": "Gaiea Sanskrit",
     "artist_spotify_url": "https://open.spotify.com/artist/4eK7eYjD5DyOb7BqV3jBdA",
     "release_slug": "gaiea-sanskrit--gaiea",
+    "album_id": "5wESdFfv5f97udLfF9f4Kn",
     "album_name": "Gaiea",
     "duration_ms": 115173,
     "track_spotify_url": "https://open.spotify.com/track/2PGQStNeN4tbFixv7c6xCQ"
@@ -42,7 +44,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ",
     "artist_musicbrainz_id": "46a782ea-4308-476b-abd1-a91b197f3037",
     "release_slug": "crosby-stills-nash-and-young--american-dream",
+    "album_id": "0o3kj09k9lKCisAfkfUSN2",
     "album_name": "American Dream",
+    "release_musicbrainz_id": "62539322-7148-4910-a7fd-234a56cf03f9",
+    "release_group_musicbrainz_id": "c6156273-c3ff-3d0c-98df-b2f85787b668",
     "duration_ms": 289666,
     "track_spotify_url": "https://open.spotify.com/track/3QqRShyg7ABnLZbX3jwFSm"
   },
@@ -58,6 +63,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/7anzpNKL4YlUHekGf10IVg",
     "artist_musicbrainz_id": "b8323a6f-9790-475b-af54-53db1d91a21d",
     "release_slug": "harnam--meditations-for-transformation-removing-obstacles",
+    "album_id": "2Sx4p4nZa4I7AXlsTkvx0k",
     "album_name": "Meditations for Transformation: Removing Obstacles",
     "duration_ms": 688056,
     "track_spotify_url": "https://open.spotify.com/track/7KNE4C2C02MRTxsoXDDnIx"
@@ -73,8 +79,18 @@
     "artist_name": "John Prine",
     "artist_spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT",
     "artist_musicbrainz_id": "e86492c1-0376-4df0-8042-8ba058c83960",
+    "additional_artists": [
+      {
+        "id": "5s6TJEuHTr9GR894wc6VfP",
+        "name": "Emmylou Harris",
+        "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+      }
+    ],
     "release_slug": "john-prine--in-spite-of-ourselves",
+    "album_id": "6UNwnh9qYgU8D5rFvihXfJ",
     "album_name": "In Spite Of Ourselves",
+    "release_musicbrainz_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+    "release_group_musicbrainz_id": "41714b68-b219-333d-8a7d-cf143d492984",
     "duration_ms": 161146,
     "track_spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
   },
@@ -90,7 +106,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz",
     "artist_musicbrainz_id": "2ff49515-1701-4bac-a53a-04345893f3f3",
     "release_slug": "gillian-welch--time-the-revelator",
+    "album_id": "4MvnpOua97k2qtkvNIZYaA",
     "album_name": "Time (The Revelator)",
+    "release_musicbrainz_id": "917a723a-9449-4517-83be-1bc8a56ae64b",
+    "release_group_musicbrainz_id": "4f9a9d35-b16d-3b7b-80d0-32b29683633f",
     "duration_ms": 382560,
     "track_spotify_url": "https://open.spotify.com/track/3d3uCbMDDCzIJlbVNd18C3"
   },
@@ -105,7 +124,15 @@
     "artist_name": "Country's Family Reunion",
     "artist_spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt",
     "artist_musicbrainz_id": "0052ff05-af79-4488-b9aa-322d6acf722f",
+    "additional_artists": [
+      {
+        "id": "2cyENLzpUJ2GfZJwmWxlI4",
+        "name": "Freddie Hart",
+        "spotify_url": "https://open.spotify.com/artist/2cyENLzpUJ2GfZJwmWxlI4"
+      }
+    ],
     "release_slug": "country-s-family-reunion--celebration-live-vol-1",
+    "album_id": "3VBBvP1Tn6fjqIuqwwcbcs",
     "album_name": "Celebration (Live / Vol. 1)",
     "duration_ms": 158324,
     "track_spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI"
@@ -122,7 +149,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/3yFnqoyp1e54tZEY4ykvNB",
     "artist_musicbrainz_id": "320b4732-22ab-41f8-b566-b05bd4ede17f",
     "release_slug": "cal-smith--cal-smith",
+    "album_id": "3MOjAq0iI3kR9bDs5QGoAu",
     "album_name": "Cal Smith",
+    "release_musicbrainz_id": "7b2b1674-0c23-4fc3-8e50-b20ef1f1b323",
+    "release_group_musicbrainz_id": "896796cc-79b0-444b-8ae3-9cec4e3d5869",
     "duration_ms": 189283,
     "track_spotify_url": "https://open.spotify.com/track/7GnEclCTKejiDnrb487GE8"
   },
@@ -138,7 +168,10 @@
     "artist_spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
     "artist_musicbrainz_id": "75167b8b-44e4-407b-9d35-effe87b223cf",
     "release_slug": "neil-young--harvest-moon",
+    "album_id": "0tdm853TNWjVVChbJRbu3Q",
     "album_name": "Harvest Moon",
+    "release_musicbrainz_id": "78e29dd4-7648-45a7-a57b-608e22bf4645",
+    "release_group_musicbrainz_id": "6c153d3a-cf36-37ea-8409-0e48b428315f",
     "duration_ms": 225333,
     "track_spotify_url": "https://open.spotify.com/track/6z6WdQ6ODxd2WZdjXfHJ4B"
   },
@@ -154,6 +187,7 @@
     "artist_spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT",
     "artist_musicbrainz_id": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
     "release_slug": "grateful-dead--blues-for-allah-2013-remaster",
+    "album_id": "5BwjVdVJ4aOmbIYomznfCv",
     "album_name": "Blues for Allah (2013 Remaster)",
     "duration_ms": 274942,
     "track_spotify_url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
