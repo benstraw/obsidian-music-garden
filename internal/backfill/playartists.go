@@ -24,7 +24,7 @@ type PlayArtistsSummary struct {
 
 // RewritePlayArtists rewrites plays in-memory using fetched track metadata and
 // returns the updated plays plus the count of changed records.
-func RewritePlayArtists(store *genres.Store, existing []models.Play, tracks []models.TrackDetails, opts PlayArtistsOptions) ([]models.Play, int) {
+func RewritePlayArtists(source any, existing []models.Play, tracks []models.TrackDetails, opts PlayArtistsOptions) ([]models.Play, int) {
 	trackByID := make(map[string]models.TrackDetails, len(tracks))
 	for _, track := range tracks {
 		if strings.TrimSpace(track.ID) == "" {
@@ -41,7 +41,7 @@ func RewritePlayArtists(store *genres.Store, existing []models.Play, tracks []mo
 		if ok {
 			next = applyTrackDetails(next, track)
 		}
-		next = genres.ResolvePlay(store, next)
+		next = genres.ResolvePlay(source, next)
 		if !reflect.DeepEqual(next, play) {
 			changed++
 		}

@@ -63,25 +63,35 @@ func TestLoad_legacyMapMigratesToStore(t *testing.T) {
 
 func TestSaveLoad_roundtrip(t *testing.T) {
 	dir := t.TempDir()
-	path := filepath.Join(dir, "genres.json")
+	genresPath := filepath.Join(dir, "genres.json")
+	artistsPath := filepath.Join(dir, "artists.json")
+	releasesPath := filepath.Join(dir, "releases.json")
 
 	store := NewStore()
 	applyTestTaxonomy(store)
 	Update(store, "abc123", "Radiohead", "https://open.spotify.com/artist/abc123", []string{"alternative rock", "art rock"}, nil)
 
-	if err := Save(path, store); err != nil {
-		t.Fatalf("Save: %v", err)
+	catalog := NewCatalog()
+	catalog.Genres = store
+	catalog.Artists.Artists = store.Artists
+	catalog.Artists.ArtistSlugAliases = store.ArtistSlugAliases
+	catalog.Artists.ArtistSourceIndex = store.ArtistSourceIndex
+	catalog.Releases.Releases = store.Releases
+	catalog.Releases.ReleaseSourceIndex = store.ReleaseSourceIndex
+
+	if err := SaveCatalog(genresPath, artistsPath, releasesPath, catalog); err != nil {
+		t.Fatalf("SaveCatalog: %v", err)
 	}
 
-	loaded, err := Load(path)
+	loaded, err := LoadCatalog(genresPath, artistsPath, releasesPath)
 	if err != nil {
-		t.Fatalf("Load: %v", err)
+		t.Fatalf("LoadCatalog: %v", err)
 	}
 
-	if len(loaded.Artists) != 1 {
-		t.Fatalf("expected 1 artist, got %d", len(loaded.Artists))
+	if len(loaded.Artists.Artists) != 1 {
+		t.Fatalf("expected 1 artist, got %d", len(loaded.Artists.Artists))
 	}
-	record := loaded.Artists["radiohead"]
+	record := loaded.Artists.Artists["radiohead"]
 	if record.Name != "Radiohead" {
 		t.Errorf("Name = %q, want Radiohead", record.Name)
 	}
@@ -90,6 +100,41 @@ func TestSaveLoad_roundtrip(t *testing.T) {
 	}
 	if record.Genres[0] != "alternative-rock" {
 		t.Errorf("Genres = %v", record.Genres)
+	}
+}
+
+func TestSaveCatalog_splitsGenreArtistReleaseFiles(t *testing.T) {
+	dir := t.TempDir()
+	genresPath := filepath.Join(dir, "genres.json")
+	artistsPath := filepath.Join(dir, "artists.json")
+	releasesPath := filepath.Join(dir, "releases.json")
+
+	catalog := NewCatalog()
+	applyTestTaxonomy(catalog.Genres)
+	artist := Update(catalog, "artist1", "Artist One", "https://open.spotify.com/artist/artist1", []string{"rock"}, nil)
+	_ = UpsertReleaseMetadata(catalog, artist, "album1", "Album One", "rg1", "rel1")
+
+	if err := SaveCatalog(genresPath, artistsPath, releasesPath, catalog); err != nil {
+		t.Fatalf("SaveCatalog: %v", err)
+	}
+
+	genreData, err := os.ReadFile(genresPath)
+	if err != nil {
+		t.Fatalf("ReadFile genresPath: %v", err)
+	}
+	var raw map[string]json.RawMessage
+	if err := json.Unmarshal(genreData, &raw); err != nil {
+		t.Fatalf("saved genres JSON is invalid: %v", err)
+	}
+	if raw["artists"] != nil || raw["releases"] != nil {
+		t.Fatalf("genres.json still contains entity sections")
+	}
+
+	if _, err := os.Stat(artistsPath); err != nil {
+		t.Fatalf("artists.json missing: %v", err)
+	}
+	if _, err := os.Stat(releasesPath); err != nil {
+		t.Fatalf("releases.json missing: %v", err)
 	}
 }
 

@@ -70,26 +70,42 @@ type legacySimpleArtist struct {
 	ExternalURLs map[string]string `json:"external_urls"`
 }
 
-func Run(store *genres.Store, opts Options) (Summary, error) {
+func Run(source any, opts Options) (Summary, error) {
 	sourceDir := strings.TrimSpace(opts.SourceDir)
 	if sourceDir == "" {
 		return Summary{}, fmt.Errorf("empty source dir")
 	}
+	var catalog *genres.Catalog
+	switch v := source.(type) {
+	case *genres.Catalog:
+		catalog = v
+	case *genres.Store:
+		catalog = genres.NewCatalog()
+		catalog.Genres = v
+		catalog.Artists.Artists = v.Artists
+		catalog.Artists.ArtistSlugAliases = v.ArtistSlugAliases
+		catalog.Artists.ArtistSourceIndex = v.ArtistSourceIndex
+		catalog.Releases.Releases = v.Releases
+		catalog.Releases.ReleaseSourceIndex = v.ReleaseSourceIndex
+	default:
+		return Summary{}, fmt.Errorf("unsupported legacy import store type")
+	}
+	store := catalog.Genres
 	beforeArtists := len(store.Artists)
 	beforeReleases := len(store.Releases)
 	beforePending := len(store.PendingGenreAliases)
 
-	if err := importTopArtists(store, filepath.Join(sourceDir, "topArtists.json"), opts.Verbose); err != nil {
+	if err := importTopArtists(catalog, filepath.Join(sourceDir, "topArtists.json"), opts.Verbose); err != nil {
 		return Summary{}, err
 	}
-	if err := importTopArtists(store, filepath.Join(sourceDir, "snapshot-2024-06.json"), opts.Verbose); err != nil {
+	if err := importTopArtists(catalog, filepath.Join(sourceDir, "snapshot-2024-06.json"), opts.Verbose); err != nil {
 		return Summary{}, err
 	}
-	if err := importArtistsSupplement(store, filepath.Join(sourceDir, "artists.json"), opts.Verbose); err != nil {
+	if err := importArtistsSupplement(catalog, filepath.Join(sourceDir, "artists.json"), opts.Verbose); err != nil {
 		return Summary{}, err
 	}
-	artistMappings := buildLegacyArtistSlugMappings(store, filepath.Join(sourceDir, "artists.json"))
-	applyLegacyArtistSlugMappings(store, artistMappings)
+	artistMappings := buildLegacyArtistSlugMappings(catalog, filepath.Join(sourceDir, "artists.json"))
+	applyLegacyArtistSlugMappings(catalog, artistMappings)
 	genreMappings := buildLegacyGenreSlugMappings(store, sourceDir)
 
 	summary := Summary{
@@ -119,7 +135,7 @@ func Run(store *genres.Store, opts Options) (Summary, error) {
 	return summary, nil
 }
 
-func importTopArtists(store *genres.Store, path string, verbose bool) error {
+func importTopArtists(catalog *genres.Catalog, path string, verbose bool) error {
 	var payload topArtistsFile
 	ok, err := readJSON(path, &payload)
 	if err != nil || !ok {
@@ -130,7 +146,7 @@ func importTopArtists(store *genres.Store, path string, verbose bool) error {
 			fmt.Printf("legacy top artist: %s\n", artist.Name)
 		}
 		genres.UpsertArtistMetadata(
-			store,
+			catalog,
 			artist.ID,
 			artist.Name,
 			artist.ExternalURLs["spotify"],
@@ -142,7 +158,7 @@ func importTopArtists(store *genres.Store, path string, verbose bool) error {
 	return nil
 }
 
-func importArtistsSupplement(store *genres.Store, path string, verbose bool) error {
+func importArtistsSupplement(catalog *genres.Catalog, path string, verbose bool) error {
 	var payload map[string]artistsFileRecord
 	ok, err := readJSON(path, &payload)
 	if err != nil || !ok {
@@ -159,7 +175,7 @@ func importArtistsSupplement(store *genres.Store, path string, verbose bool) err
 			fmt.Printf("legacy artist supplement: %s\n", record.Name)
 		}
 		genres.UpsertArtistMetadata(
-			store,
+			catalog,
 			record.ID,
 			record.Name,
 			record.SpotifyURL,
@@ -208,7 +224,8 @@ func legacyAllowedArtistIDs(store *genres.Store, sourceDir string) (map[string]b
 	return result, nil
 }
 
-func buildLegacyArtistSlugMappings(store *genres.Store, path string) []LegacyArtistSlugMapping {
+func buildLegacyArtistSlugMappings(catalog *genres.Catalog, path string) []LegacyArtistSlugMapping {
+	store := catalog.Genres
 	var payload map[string]artistsFileRecord
 	ok, err := readJSON(path, &payload)
 	if err != nil || !ok {
@@ -239,12 +256,12 @@ func buildLegacyArtistSlugMappings(store *genres.Store, path string) []LegacyArt
 	return result
 }
 
-func applyLegacyArtistSlugMappings(store *genres.Store, mappings []LegacyArtistSlugMapping) {
+func applyLegacyArtistSlugMappings(catalog *genres.Catalog, mappings []LegacyArtistSlugMapping) {
 	for _, mapping := range mappings {
 		if mapping.Status != "mapped" || mapping.CanonicalSlug == "" {
 			continue
 		}
-		genres.SetArtistSlugAlias(store, mapping.LegacySlug, mapping.CanonicalSlug)
+		genres.SetArtistSlugAlias(catalog, mapping.LegacySlug, mapping.CanonicalSlug)
 	}
 }
 

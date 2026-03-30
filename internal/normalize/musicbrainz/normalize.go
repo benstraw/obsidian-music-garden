@@ -23,9 +23,10 @@ type ReleaseSeed struct {
 }
 
 // NormalizeArtist converts one MusicBrainz artist into normalized and canonical records.
-func NormalizeArtist(store *genres.Store, seed ArtistSeed, artist musicbrainz.Artist) (datalayer.NormalizedArtistRecord, genres.ArtistRecord) {
+func NormalizeArtist(source any, seed ArtistSeed, artist musicbrainz.Artist) (datalayer.NormalizedArtistRecord, genres.ArtistRecord) {
+	catalog := ensureCatalog(source)
 	sourceGenres := musicbrainz.GenreNames(artist.Genres, artist.Tags)
-	record := genres.UpsertArtistMetadata(store, seed.SpotifyArtistID, firstNonEmpty(seed.Name, artist.Name), seed.SpotifyURL, artist.ID, sourceGenres, nil)
+	record := genres.UpsertArtistMetadata(catalog, seed.SpotifyArtistID, firstNonEmpty(seed.Name, artist.Name), seed.SpotifyURL, artist.ID, sourceGenres, nil)
 	normalized := datalayer.NormalizedArtistRecord{
 		Source:              "musicbrainz",
 		SourceArtistID:      artist.ID,
@@ -39,14 +40,15 @@ func NormalizeArtist(store *genres.Store, seed ArtistSeed, artist musicbrainz.Ar
 }
 
 // NormalizeRelease converts one MusicBrainz release-group into normalized and canonical records.
-func NormalizeRelease(store *genres.Store, seed ReleaseSeed, group musicbrainz.ReleaseGroup) (datalayer.NormalizedReleaseRecord, genres.ReleaseRecord, genres.ArtistRecord, []datalayer.NormalizedGenreRecord) {
+func NormalizeRelease(source any, seed ReleaseSeed, group musicbrainz.ReleaseGroup) (datalayer.NormalizedReleaseRecord, genres.ReleaseRecord, genres.ArtistRecord, []datalayer.NormalizedGenreRecord) {
+	catalog := ensureCatalog(source)
 	artistName := firstNonEmpty(musicbrainz.PrimaryArtistName(group.ArtistCredit), seed.PrimaryArtistName)
-	artist := genres.UpsertArtistMetadata(store, seed.PrimaryArtistID, artistName, seed.PrimaryArtistSpotify, "", musicbrainz.GenreNames(group.Genres, group.Tags), nil)
+	artist := genres.UpsertArtistMetadata(catalog, seed.PrimaryArtistID, artistName, seed.PrimaryArtistSpotify, "", musicbrainz.GenreNames(group.Genres, group.Tags), nil)
 	releaseID := ""
 	if len(group.Releases) > 0 {
 		releaseID = group.Releases[0].ID
 	}
-	record := genres.UpsertReleaseMetadata(store, artist, seed.SpotifyAlbumID, firstNonEmpty(seed.Name, group.Title), group.ID, releaseID)
+	record := genres.UpsertReleaseMetadata(catalog, artist, seed.SpotifyAlbumID, firstNonEmpty(seed.Name, group.Title), group.ID, releaseID)
 	normalized := datalayer.NormalizedReleaseRecord{
 		Source:                     "musicbrainz",
 		SourceReleaseID:            group.ID,
@@ -59,7 +61,7 @@ func NormalizeRelease(store *genres.Store, seed ReleaseSeed, group musicbrainz.R
 	sourceGenres := musicbrainz.GenreNames(group.Genres, group.Tags)
 	genreRecords := make([]datalayer.NormalizedGenreRecord, 0, len(sourceGenres))
 	for _, sourceGenre := range sourceGenres {
-		canonical, ok := genres.CanonicalGenre(store, sourceGenre)
+		canonical, ok := genres.CanonicalGenre(catalog.Genres, sourceGenre)
 		record := datalayer.NormalizedGenreRecord{
 			Source:      "musicbrainz",
 			SourceGenre: sourceGenre,
@@ -79,4 +81,22 @@ func firstNonEmpty(values ...string) string {
 		}
 	}
 	return ""
+}
+
+func ensureCatalog(source any) *genres.Catalog {
+	switch v := source.(type) {
+	case *genres.Catalog:
+		return v
+	case *genres.Store:
+		catalog := genres.NewCatalog()
+		catalog.Genres = v
+		catalog.Artists.Artists = v.Artists
+		catalog.Artists.ArtistSlugAliases = v.ArtistSlugAliases
+		catalog.Artists.ArtistSourceIndex = v.ArtistSourceIndex
+		catalog.Releases.Releases = v.Releases
+		catalog.Releases.ReleaseSourceIndex = v.ReleaseSourceIndex
+		return catalog
+	default:
+		panic("unsupported catalog source")
+	}
 }

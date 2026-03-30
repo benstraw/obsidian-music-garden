@@ -28,23 +28,29 @@ import (
 )
 
 // version is set at build time via -ldflags "-X main.version=vX.Y.Z"
-var version = "v0.10.0-dev"
+var version = "v0.11.0-dev"
 
 type runtimePaths struct {
-	cwd            string
-	stateDir       string
-	dotEnvPath     string
-	tokensPath     string
-	playsPath      string
-	playsDir       string
-	genresPath     string
-	dataRoot       string
-	playsOverride  bool
-	genresOverride bool
-	dotEnvFallback bool
-	tokensFallback bool
-	playsFallback  bool
-	genresFallback bool
+	cwd              string
+	stateDir         string
+	dotEnvPath       string
+	tokensPath       string
+	playsPath        string
+	playsDir         string
+	genresPath       string
+	artistsPath      string
+	releasesPath     string
+	dataRoot         string
+	playsOverride    bool
+	genresOverride   bool
+	artistsOverride  bool
+	releasesOverride bool
+	dotEnvFallback   bool
+	tokensFallback   bool
+	playsFallback    bool
+	genresFallback   bool
+	artistsFallback  bool
+	releasesFallback bool
 }
 
 func main() {
@@ -113,6 +119,8 @@ func main() {
 		runAggregateGenres(paths)
 	case "sync-data-layer":
 		runSyncDataLayer(paths)
+	case "migrate-canonical-store":
+		runMigrateCanonicalStore(paths)
 	case "generate-genre-pages":
 		runGenerateGenrePages(args, paths)
 	case "import-legacy":
@@ -160,6 +168,7 @@ Usage:
   music-garden aggregate-genre                Rebuild one aggregated genre record from canonical data + local listening
   music-garden aggregate-genres               Rebuild all aggregated genre records
   music-garden sync-data-layer                Rebuild normalized and aggregated entity files from store + plays
+  music-garden migrate-canonical-store        Rewrite canonical state into split genre/artist/release store files
   music-garden generate-genre-pages          Render markdown genre pages from aggregated genre JSON
   music-garden import-legacy                  Import legacy Spotify snapshot data into the canonical store
   music-garden doctor                         Print effective runtime config and diagnostics
@@ -182,13 +191,15 @@ func resolveRuntimePaths() runtimePaths {
 	}
 
 	p := runtimePaths{
-		cwd:        cwd,
-		dotEnvPath: filepath.Join(cwd, ".env"),
-		tokensPath: filepath.Join(cwd, "tokens.json"),
-		playsPath:  filepath.Join(cwd, "data", "plays.json"),
-		playsDir:   filepath.Join(cwd, "data", "plays"),
-		genresPath: filepath.Join(cwd, "data", "genres.json"),
-		dataRoot:   filepath.Join(cwd, "data"),
+		cwd:          cwd,
+		dotEnvPath:   filepath.Join(cwd, ".env"),
+		tokensPath:   filepath.Join(cwd, "tokens.json"),
+		playsPath:    filepath.Join(cwd, "data", "plays.json"),
+		playsDir:     filepath.Join(cwd, "data", "plays"),
+		genresPath:   filepath.Join(cwd, "data", "genres.json"),
+		artistsPath:  filepath.Join(cwd, "data", "artists.json"),
+		releasesPath: filepath.Join(cwd, "data", "releases.json"),
+		dataRoot:     filepath.Join(cwd, "data"),
 	}
 
 	stateDir := strings.TrimSpace(os.Getenv("MUSIC_STATE_DIR"))
@@ -219,6 +230,22 @@ func resolveRuntimePaths() runtimePaths {
 			}
 			p.genresPath = absGenresPath
 			p.genresOverride = true
+		}
+		if artistsPath := strings.TrimSpace(os.Getenv("MUSIC_ARTISTS_PATH")); artistsPath != "" {
+			absArtistsPath, err := filepath.Abs(artistsPath)
+			if err != nil {
+				absArtistsPath = artistsPath
+			}
+			p.artistsPath = absArtistsPath
+			p.artistsOverride = true
+		}
+		if releasesPath := strings.TrimSpace(os.Getenv("MUSIC_RELEASES_PATH")); releasesPath != "" {
+			absReleasesPath, err := filepath.Abs(releasesPath)
+			if err != nil {
+				absReleasesPath = releasesPath
+			}
+			p.releasesPath = absReleasesPath
+			p.releasesOverride = true
 		}
 		return p
 	}
@@ -269,6 +296,28 @@ func resolveRuntimePaths() runtimePaths {
 	} else {
 		p.genresPath, p.genresFallback = chooseStatePath(absState, filepath.Join("data", "genres.json"), p.genresPath)
 	}
+	if artistsPath := strings.TrimSpace(os.Getenv("MUSIC_ARTISTS_PATH")); artistsPath != "" {
+		absArtistsPath, err := filepath.Abs(artistsPath)
+		if err != nil {
+			absArtistsPath = artistsPath
+		}
+		p.artistsPath = absArtistsPath
+		p.artistsOverride = true
+		p.artistsFallback = false
+	} else {
+		p.artistsPath, p.artistsFallback = chooseStatePath(absState, filepath.Join("data", "artists.json"), p.artistsPath)
+	}
+	if releasesPath := strings.TrimSpace(os.Getenv("MUSIC_RELEASES_PATH")); releasesPath != "" {
+		absReleasesPath, err := filepath.Abs(releasesPath)
+		if err != nil {
+			absReleasesPath = releasesPath
+		}
+		p.releasesPath = absReleasesPath
+		p.releasesOverride = true
+		p.releasesFallback = false
+	} else {
+		p.releasesPath, p.releasesFallback = chooseStatePath(absState, filepath.Join("data", "releases.json"), p.releasesPath)
+	}
 
 	return p
 }
@@ -310,6 +359,12 @@ func emitFallbackWarnings(paths runtimePaths, cmd string) {
 	genresUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "import-legacy" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer"
 	if genresUsed && paths.genresFallback {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "genres.json"), paths.genresPath)
+	}
+	if genresUsed && paths.artistsFallback {
+		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "artists.json"), paths.artistsPath)
+	}
+	if genresUsed && paths.releasesFallback {
+		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "releases.json"), paths.releasesPath)
 	}
 }
 
@@ -415,50 +470,58 @@ func ensureParentDir(path string) error {
 	return os.MkdirAll(filepath.Dir(path), 0755)
 }
 
-func loadGenreStore(paths runtimePaths) *genres.Store {
-	store, err := genres.Load(paths.genresPath)
+func loadCatalog(paths runtimePaths) *genres.Catalog {
+	catalog, err := genres.LoadCatalog(paths.genresPath, paths.artistsPath, paths.releasesPath)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: load metadata store: %v\n", err)
-		store = genres.NewStore()
+		catalog = genres.NewCatalog()
 	}
 	if taxonomy, err := genres.LoadTaxonomy(defaultGenreTaxonomyPath(paths)); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: load genre taxonomy: %v\n", err)
 	} else {
-		genres.ApplyTaxonomy(store, taxonomy)
+		genres.ApplyTaxonomy(catalog.Genres, taxonomy)
 	}
-	return store
+	return catalog
 }
 
-func loadGenreStoreWithTaxonomy(paths runtimePaths, taxonomyPath string) *genres.Store {
-	store, err := genres.Load(paths.genresPath)
+func loadCatalogWithTaxonomy(paths runtimePaths, taxonomyPath string) *genres.Catalog {
+	catalog, err := genres.LoadCatalog(paths.genresPath, paths.artistsPath, paths.releasesPath)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: load metadata store: %v\n", err)
-		store = genres.NewStore()
+		catalog = genres.NewCatalog()
 	}
 	taxonomy, err := genres.LoadTaxonomy(taxonomyPath)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: load genre taxonomy: %v\n", err)
-		return store
+		return catalog
 	}
-	genres.ApplyTaxonomy(store, taxonomy)
-	return store
+	genres.ApplyTaxonomy(catalog.Genres, taxonomy)
+	return catalog
 }
 
 // saveGenreStoreOnly persists genres.json without rebuilding the file-based data layer.
 // Use this from hot-path commands like collect that don't need normalized/aggregated files.
-func saveGenreStoreOnly(paths runtimePaths, store *genres.Store) {
+func saveCatalogOnly(paths runtimePaths, catalog *genres.Catalog) {
 	if err := ensureParentDir(paths.genresPath); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: data dir error: %v\n", err)
 		return
 	}
-	if err := genres.Save(paths.genresPath, store); err != nil {
+	if err := ensureParentDir(paths.artistsPath); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data dir error: %v\n", err)
+		return
+	}
+	if err := ensureParentDir(paths.releasesPath); err != nil {
+		fmt.Fprintf(os.Stderr, "warning: data dir error: %v\n", err)
+		return
+	}
+	if err := genres.SaveCatalog(paths.genresPath, paths.artistsPath, paths.releasesPath, catalog); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: save metadata store: %v\n", err)
 	}
 }
 
 // syncDataLayer rebuilds normalized/ and aggregated/ files from the store and play history.
 // Call this explicitly after enrichment or when downstream files need updating.
-func syncDataLayer(paths runtimePaths, store *genres.Store) {
+func syncDataLayer(paths runtimePaths, catalog *genres.Catalog) {
 	if err := datalayer.EnsureLayout(paths.dataRoot); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: data layout error: %v\n", err)
 	}
@@ -467,18 +530,18 @@ func syncDataLayer(paths runtimePaths, store *genres.Store) {
 		fmt.Fprintf(os.Stderr, "warning: load plays for aggregated sync: %v\n", err)
 		allPlays = nil
 	} else {
-		allPlays, _ = genres.ResolvePlays(store, allPlays)
+		allPlays, _ = genres.ResolvePlays(catalog, allPlays)
 	}
-	if err := datalayer.SyncAggregatedStore(paths.dataRoot, store, allPlays); err != nil {
+	if err := datalayer.SyncAggregatedStore(paths.dataRoot, catalog.Genres, allPlays); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: sync aggregated data: %v\n", err)
 	}
 }
 
 // saveGenreStore persists genres.json and rebuilds the full file-based data layer.
 // Use this from enrichment commands where downstream files need to stay in sync.
-func saveGenreStore(paths runtimePaths, store *genres.Store) {
-	saveGenreStoreOnly(paths, store)
-	syncDataLayer(paths, store)
+func saveCatalog(paths runtimePaths, catalog *genres.Catalog) {
+	saveCatalogOnly(paths, catalog)
+	syncDataLayer(paths, catalog)
 }
 
 // migrateCanonicalPlays rewrites sharded play files so they reflect the current
@@ -486,23 +549,23 @@ func saveGenreStore(paths runtimePaths, store *genres.Store) {
 // file if resolution discovered new entities, but does NOT trigger a full data
 // layer sync — the caller is responsible for calling saveGenreStore or
 // syncDataLayer at the appropriate time.
-func migrateCanonicalPlays(paths runtimePaths, store *genres.Store) {
+func migrateCanonicalPlays(paths runtimePaths, catalog *genres.Catalog) {
 	changed, err := plays.MigrateCanonicalSharded(paths.playsDir, func(play models.Play) models.Play {
-		return genres.ResolvePlay(store, play)
+		return genres.ResolvePlay(catalog, play)
 	})
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "warning: canonical play migration: %v\n", err)
 		return
 	}
 	if changed {
-		saveGenreStoreOnly(paths, store)
+		saveCatalogOnly(paths, catalog)
 	}
 }
 
-func canonicalizeTopArtists(store *genres.Store, artists []models.TopArtist) []models.TopArtist {
+func canonicalizeTopArtists(catalog *genres.Catalog, artists []models.TopArtist) []models.TopArtist {
 	canonical := make([]models.TopArtist, len(artists))
 	for i, artist := range artists {
-		canonical[i] = genres.CanonicalizeTopArtist(store, artist)
+		canonical[i] = genres.CanonicalizeTopArtist(catalog, artist)
 	}
 	return canonical
 }
@@ -658,7 +721,7 @@ func runCollect(paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
+	catalog := loadCatalog(paths)
 
 	fmt.Println("Fetching recently played tracks...")
 	fetchedAt := time.Now()
@@ -678,11 +741,11 @@ func runCollect(paths runtimePaths) {
 	// Migrate historical plays to canonical form if taxonomy or enrichment data
 	// has changed since the last collect. This keeps sharded play files coherent
 	// with the current store state without requiring a separate repair-plays run.
-	migrateCanonicalPlays(paths, store)
+	migrateCanonicalPlays(paths, catalog)
 
 	// Resolve incoming plays against the current store.
 	for i, play := range incoming {
-		incoming[i] = genres.ResolvePlay(store, play)
+		incoming[i] = genres.ResolvePlay(catalog, play)
 	}
 
 	newCount, err := plays.SaveSharded(paths.playsDir, incoming)
@@ -694,7 +757,7 @@ func runCollect(paths runtimePaths) {
 	fmt.Printf("Added %d new plays.\n", newCount)
 
 	// Update canonical artist metadata for any new artists.
-	uncached := genres.UncachedArtistIDs(store, incoming)
+	uncached := genres.UncachedArtistIDs(catalog, incoming)
 	if len(uncached) > 0 {
 		fmt.Printf("Fetching genres for %d new artist(s)...\n", len(uncached))
 		artists, rawArtistBodies, err := fetch.GetArtistsBatchRaw(c, uncached)
@@ -703,13 +766,13 @@ func runCollect(paths runtimePaths) {
 		} else {
 			writeRawSpotifyArtists(paths, time.Now(), rawArtistBodies)
 			for _, a := range artists {
-				genres.CanonicalizeTopArtist(store, a)
+				genres.CanonicalizeTopArtist(catalog, a)
 			}
 		}
 	}
 
 	// Save store and sync the full data layer once at the end.
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 
 	if envTrue("MUSIC_AUTO_DAILY_ON_COLLECT_SPOTIFY") {
 		if os.Getenv("OBSIDIAN_VAULT_PATH") == "" {
@@ -721,20 +784,20 @@ func runCollect(paths runtimePaths) {
 			fmt.Fprintf(os.Stderr, "warning: load plays: %v\n", err)
 			allPlays = incoming
 		}
-		artistMetadata := genres.ArtistsForPlays(store, allPlays)
+		artistMetadata := genres.ArtistsForPlays(catalog, allPlays)
 		generateDailyNote(allPlays, time.Now(), true, artistMetadata, vaultPath())
 	}
 }
 
 func runRepairPlays(paths runtimePaths) {
-	store := loadGenreStore(paths)
+	catalog := loadCatalog(paths)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
 
-	resolved, _ := genres.ResolvePlays(store, allPlays)
+	resolved, _ := genres.ResolvePlays(catalog, allPlays)
 
 	resolvedByPlayedAt := make(map[string]models.Play, len(resolved))
 	for _, play := range resolved {
@@ -745,14 +808,14 @@ func runRepairPlays(paths runtimePaths) {
 		if resolved, ok := resolvedByPlayedAt[play.PlayedAt]; ok {
 			return resolved
 		}
-		return genres.ResolvePlay(store, play)
+		return genres.ResolvePlay(catalog, play)
 	})
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "repair plays error:", err)
 		os.Exit(1)
 	}
 
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	if changed {
 		fmt.Printf("Repaired sharded play history in %s\n", paths.playsDir)
 		return
@@ -774,7 +837,7 @@ func runBackfillPlayArtists(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
+	catalog := loadCatalog(paths)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
@@ -801,7 +864,7 @@ func runBackfillPlayArtists(args []string, paths runtimePaths) {
 		fmt.Fprintln(os.Stderr, "track backfill fetch error:", err)
 		os.Exit(1)
 	}
-	rewritten, changed := backfill.RewritePlayArtists(store, allPlays, tracks, opts)
+	rewritten, changed := backfill.RewritePlayArtists(catalog, allPlays, tracks, opts)
 	if *dryRun {
 		fmt.Printf("Dry run: candidate track IDs=%d updated plays=%d\n", len(trackIDs), changed)
 		return
@@ -810,7 +873,7 @@ func runBackfillPlayArtists(args []string, paths runtimePaths) {
 		fmt.Fprintln(os.Stderr, "save rewritten plays error:", err)
 		os.Exit(1)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Backfilled multi-artist metadata for %d play(s) across %d track ID(s).\n", changed, len(trackIDs))
 }
 
@@ -842,8 +905,8 @@ func runImportLegacy(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	summary, err := importlegacy.Run(store, importlegacy.Options{
+	catalog := loadCatalog(paths)
+	summary, err := importlegacy.Run(catalog, importlegacy.Options{
 		SourceDir:   *sourceDir,
 		DataRoot:    paths.dataRoot,
 		DryRun:      *dryRun,
@@ -867,7 +930,7 @@ func runImportLegacy(args []string, paths runtimePaths) {
 		return
 	}
 
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Imported legacy snapshots: artists added=%d releases added=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
 		summary.ArtistsAdded,
 		summary.ReleasesAdded,
@@ -875,6 +938,19 @@ func runImportLegacy(args []string, paths runtimePaths) {
 		summary.GenreSlugMappings,
 		summary.UnresolvedGenreLabels,
 		summary.UnresolvedGenreSlugs,
+	)
+}
+
+func runMigrateCanonicalStore(paths runtimePaths) {
+	catalog := loadCatalog(paths)
+	saveCatalogOnly(paths, catalog)
+	fmt.Printf("Migrated canonical stores:\n  genres: %s (%d genre records)\n  artists: %s (%d artists)\n  releases: %s (%d releases)\n",
+		paths.genresPath,
+		len(catalog.Genres.GenreRecords),
+		paths.artistsPath,
+		len(catalog.Artists.Artists),
+		paths.releasesPath,
+		len(catalog.Releases.Releases),
 	)
 }
 
@@ -886,8 +962,8 @@ func generateWeeklyNote(date time.Time, paths runtimePaths, outputRoot string) {
 	outDir := filepath.Join(outputRoot, "music", "listening")
 	outPath := filepath.Join(outDir, fmt.Sprintf("spotify-%s.md", weekStr))
 
-	store := loadGenreStore(paths)
-	migrateCanonicalPlays(paths, store)
+	catalog := loadCatalog(paths)
+	migrateCanonicalPlays(paths, catalog)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
@@ -897,7 +973,7 @@ func generateWeeklyNote(date time.Time, paths runtimePaths, outputRoot string) {
 	weekPlays := render.PlaysForWeek(allPlays, date)
 	fmt.Printf("Plays for week %s: %d\n", weekStr, len(weekPlays))
 
-	artistMetadata := genres.ArtistsForPlays(store, weekPlays)
+	artistMetadata := genres.ArtistsForPlays(catalog, weekPlays)
 
 	content, err := render.RenderWeekly(allPlays, date, outputRoot, artistMetadata)
 	if err != nil {
@@ -1003,14 +1079,14 @@ func runDaily(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	migrateCanonicalPlays(paths, store)
+	catalog := loadCatalog(paths)
+	migrateCanonicalPlays(paths, catalog)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
-	artistMetadata := genres.ArtistsForPlays(store, allPlays)
+	artistMetadata := genres.ArtistsForPlays(catalog, allPlays)
 
 	generateDailyNote(allPlays, date, false, artistMetadata, noteOutputRoot(*outDir))
 }
@@ -1081,14 +1157,14 @@ func runCatchUp(args []string, paths runtimePaths) {
 	missingWeeks := missingWeeklyDates(listeningDir, now, *weeks)
 	generateMissingWeeklyNotes(paths, missingWeeks, outputRoot)
 
-	store := loadGenreStore(paths)
-	migrateCanonicalPlays(paths, store)
+	catalog := loadCatalog(paths)
+	migrateCanonicalPlays(paths, catalog)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
-	artistMetadata := genres.ArtistsForPlays(store, allPlays)
+	artistMetadata := genres.ArtistsForPlays(catalog, allPlays)
 
 	totalDays := *weeks * 7
 	missingDays := missingDailyDates(listeningDir, now, totalDays)
@@ -1103,8 +1179,8 @@ func runGenreBackfill(paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	migrateCanonicalPlays(paths, store)
+	catalog := loadCatalog(paths)
+	migrateCanonicalPlays(paths, catalog)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
@@ -1116,8 +1192,8 @@ func runGenreBackfill(paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	uncached := genres.UncachedArtistIDs(store, allPlays)
-	fmt.Printf("Total plays: %d, cached artists: %d, uncached: %d\n", len(allPlays), len(store.Artists), len(uncached))
+	uncached := genres.UncachedArtistIDs(catalog, allPlays)
+	fmt.Printf("Total plays: %d, cached artists: %d, uncached: %d\n", len(allPlays), len(catalog.Artists.Artists), len(uncached))
 
 	if len(uncached) == 0 {
 		fmt.Println("All artists already cached.")
@@ -1130,16 +1206,16 @@ func runGenreBackfill(paths runtimePaths) {
 		}
 		writeRawSpotifyArtists(paths, time.Now(), rawArtistBodies)
 		for _, a := range artists {
-			genres.CanonicalizeTopArtist(store, a)
+			genres.CanonicalizeTopArtist(catalog, a)
 		}
-		saveGenreStore(paths, store)
+		saveCatalog(paths, catalog)
 		fmt.Printf("Cached %d artist(s).\n", len(artists))
 	}
 
 	// Update all existing artist stubs
 	vault := vaultPath()
 	updated := 0
-	for _, entry := range genres.ArtistRecords(store) {
+	for _, entry := range genres.ArtistRecords(catalog) {
 		if err := render.UpdateArtistStub(entry, vault); err != nil {
 			fmt.Fprintf(os.Stderr, "warning: update artist stub for %s: %v\n", entry.Name, err)
 		} else {
@@ -1158,10 +1234,10 @@ func runImageBackfill(paths runtimePaths) {
 
 	fmt.Printf("Using metadata store: %s\n", paths.genresPath)
 
-	store := loadGenreStore(paths)
-	migrateCanonicalPlays(paths, store)
+	catalog := loadCatalog(paths)
+	migrateCanonicalPlays(paths, catalog)
 
-	missing := genres.MissingImagesArtistIDs(store)
+	missing := genres.MissingImagesArtistIDs(catalog)
 	fmt.Printf("Artists missing images: %d\n", len(missing))
 	if len(missing) == 0 {
 		fmt.Println("All artists already have images.")
@@ -1177,9 +1253,9 @@ func runImageBackfill(paths runtimePaths) {
 
 	updatedNames := make([]string, 0, len(artists))
 	for _, a := range artists {
-		canonical := genres.CanonicalizeTopArtist(store, a)
+		canonical := genres.CanonicalizeTopArtist(catalog, a)
 		cachedName := canonical.Name
-		genres.UpdateImages(store, a.ID, a.Images)
+		genres.UpdateImages(catalog, a.ID, a.Images)
 		if cachedName != "" && cachedName != a.Name {
 			updatedNames = append(updatedNames, fmt.Sprintf("%s [id=%s, cached as %q]", a.Name, a.ID, cachedName))
 		} else {
@@ -1188,7 +1264,7 @@ func runImageBackfill(paths runtimePaths) {
 	}
 	sort.Strings(updatedNames)
 
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Updated images for %d artist(s).\n", len(artists))
 	for _, name := range updatedNames {
 		fmt.Printf("  - %s\n", name)
@@ -1258,8 +1334,8 @@ func runMusicBrainzEnrichArtist(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	record, err := enrich.MusicBrainzArtist(paths.dataRoot, mb, store, mbnormalize.ArtistSeed{
+	catalog := loadCatalog(paths)
+	record, err := enrich.MusicBrainzArtist(paths.dataRoot, mb, catalog, mbnormalize.ArtistSeed{
 		SpotifyArtistID: *spotifyID,
 		Name:            *name,
 		SpotifyURL:      *spotifyURL,
@@ -1268,7 +1344,7 @@ func runMusicBrainzEnrichArtist(args []string, paths runtimePaths) {
 		fmt.Fprintln(os.Stderr, "musicbrainz artist enrichment error:", err)
 		os.Exit(1)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Enriched artist %q as %s (MusicBrainz %s)\n", record.Name, record.Slug, record.MusicBrainzArtistID)
 }
 
@@ -1293,8 +1369,8 @@ func runMusicBrainzEnrichAlbum(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	releaseRecord, err := enrich.MusicBrainzAlbum(paths.dataRoot, mb, store, mbnormalize.ReleaseSeed{
+	catalog := loadCatalog(paths)
+	releaseRecord, err := enrich.MusicBrainzAlbum(paths.dataRoot, mb, catalog, mbnormalize.ReleaseSeed{
 		SpotifyAlbumID:       *spotifyAlbumID,
 		Name:                 *albumName,
 		PrimaryArtistName:    *artistName,
@@ -1305,7 +1381,7 @@ func runMusicBrainzEnrichAlbum(args []string, paths runtimePaths) {
 		fmt.Fprintln(os.Stderr, "musicbrainz album enrichment error:", err)
 		os.Exit(1)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Enriched release %q as %s (release-group %s)\n", releaseRecord.Name, releaseRecord.Slug, releaseRecord.MusicBrainzReleaseGroupID)
 }
 
@@ -1326,7 +1402,7 @@ func runWikipediaEnrichGenre(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
+	catalog := loadCatalog(paths)
 	mapping, err := enrich.LoadGenrePageMapping(*mappingPath)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "genre mapping error:", err)
@@ -1337,12 +1413,12 @@ func runWikipediaEnrichGenre(args []string, paths runtimePaths) {
 	if seed.SearchTerm == "" {
 		seed.SearchTerm = strings.ReplaceAll(seed.CanonicalSlug, "-", " ")
 	}
-	status, title, err := enrich.WikipediaGenre(paths.dataRoot, client, store, seed, rawWikipediaWriter(paths), stderrWarn)
+	status, title, err := enrich.WikipediaGenre(paths.dataRoot, client, catalog, seed, rawWikipediaWriter(paths), stderrWarn)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "wikipedia genre enrichment error:", err)
 		os.Exit(1)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	switch status {
 	case "matched":
 		fmt.Printf("Enriched genre %q with %q\n", seed.CanonicalSlug, title)
@@ -1370,9 +1446,9 @@ func runWikipediaEnrichArtist(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	resolvedSlug := genres.CanonicalArtistSlug(store, strings.TrimSpace(*slug))
-	artist, ok := store.Artists[resolvedSlug]
+	catalog := loadCatalog(paths)
+	resolvedSlug := genres.CanonicalArtistSlug(catalog, strings.TrimSpace(*slug))
+	artist, ok := catalog.Artists.Artists[resolvedSlug]
 	if !ok {
 		fmt.Fprintf(os.Stderr, "artist slug not found in canonical store: %s\n", strings.TrimSpace(*slug))
 		os.Exit(1)
@@ -1392,12 +1468,12 @@ func runWikipediaEnrichArtist(args []string, paths runtimePaths) {
 		seed.SearchTerm = artist.Name
 	}
 
-	status, title, err := enrich.WikipediaArtist(paths.dataRoot, client, store, seed, rawWikipediaWriter(paths), stderrWarn)
+	status, title, err := enrich.WikipediaArtist(paths.dataRoot, client, catalog, seed, rawWikipediaWriter(paths), stderrWarn)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "wikipedia artist enrichment error:", err)
 		os.Exit(1)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	switch status {
 	case "matched":
 		fmt.Printf("Enriched artist %q with %q\n", seed.CanonicalSlug, title)
@@ -1420,8 +1496,8 @@ func runMusicBrainzBackfillArtists(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	records := genres.ArtistRecords(store)
+	catalog := loadCatalog(paths)
+	records := genres.ArtistRecords(catalog)
 	processed, skipped, failed, attempted := 0, 0, 0, 0
 	for _, record := range records {
 		if !*refresh && record.MusicBrainzArtistID != "" {
@@ -1436,7 +1512,7 @@ func runMusicBrainzBackfillArtists(args []string, paths runtimePaths) {
 			break
 		}
 		attempted++
-		_, err := enrich.MusicBrainzArtist(paths.dataRoot, mb, store, mbnormalize.ArtistSeed{
+		_, err := enrich.MusicBrainzArtist(paths.dataRoot, mb, catalog, mbnormalize.ArtistSeed{
 			SpotifyArtistID: record.SpotifyArtistID,
 			Name:            record.Name,
 			SpotifyURL:      record.SpotifyURL,
@@ -1449,7 +1525,7 @@ func runMusicBrainzBackfillArtists(args []string, paths runtimePaths) {
 		processed++
 		fmt.Printf("MusicBrainz artist: %s\n", record.Slug)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("MusicBrainz artist backfill complete: processed=%d skipped=%d failed=%d\n", processed, skipped, failed)
 }
 
@@ -1465,15 +1541,15 @@ func runMusicBrainzBackfillAlbums(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	releases := genres.ReleaseRecords(store)
+	catalog := loadCatalog(paths)
+	releases := genres.ReleaseRecords(catalog)
 	processed, skipped, failed, attempted := 0, 0, 0, 0
 	for _, record := range releases {
 		if !*refresh && record.MusicBrainzReleaseGroupID != "" {
 			skipped++
 			continue
 		}
-		artist, ok := store.Artists[record.PrimaryArtistSlug]
+		artist, ok := catalog.Artists.Artists[record.PrimaryArtistSlug]
 		if !ok || strings.TrimSpace(record.Name) == "" || strings.TrimSpace(artist.Name) == "" {
 			skipped++
 			continue
@@ -1482,7 +1558,7 @@ func runMusicBrainzBackfillAlbums(args []string, paths runtimePaths) {
 			break
 		}
 		attempted++
-		_, err := enrich.MusicBrainzAlbum(paths.dataRoot, mb, store, mbnormalize.ReleaseSeed{
+		_, err := enrich.MusicBrainzAlbum(paths.dataRoot, mb, catalog, mbnormalize.ReleaseSeed{
 			SpotifyAlbumID:       record.SpotifyAlbumID,
 			Name:                 record.Name,
 			PrimaryArtistName:    artist.Name,
@@ -1497,7 +1573,7 @@ func runMusicBrainzBackfillAlbums(args []string, paths runtimePaths) {
 		processed++
 		fmt.Printf("MusicBrainz release: %s\n", record.Slug)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("MusicBrainz release backfill complete: processed=%d skipped=%d failed=%d\n", processed, skipped, failed)
 }
 
@@ -1519,8 +1595,8 @@ func runWikipediaBackfillArtists(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	records := genres.ArtistRecords(store)
+	catalog := loadCatalog(paths)
+	records := genres.ArtistRecords(catalog)
 	processed, skipped, failed, attempted := 0, 0, 0, 0
 	for _, artist := range records {
 		if !*refresh && artist.Status == "matched" && artist.WikipediaURL != "" {
@@ -1543,7 +1619,7 @@ func runWikipediaBackfillArtists(args []string, paths runtimePaths) {
 		if seed.SearchTerm == "" {
 			seed.SearchTerm = artist.Name
 		}
-		status, _, err := enrich.WikipediaArtist(paths.dataRoot, client, store, seed, rawWikipediaWriter(paths), stderrWarn)
+		status, _, err := enrich.WikipediaArtist(paths.dataRoot, client, catalog, seed, rawWikipediaWriter(paths), stderrWarn)
 		if err != nil {
 			failed++
 			fmt.Fprintf(os.Stderr, "warning: wikipedia artist %s: %v\n", artist.Slug, err)
@@ -1552,7 +1628,7 @@ func runWikipediaBackfillArtists(args []string, paths runtimePaths) {
 		processed++
 		fmt.Printf("Wikipedia artist: %s (%s)\n", artist.Slug, status)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Wikipedia artist backfill complete: processed=%d skipped=%d failed=%d\n", processed, skipped, failed)
 }
 
@@ -1589,19 +1665,19 @@ func runPersona(args []string, paths runtimePaths) {
 	}
 	writeRawSpotifyTopArtists(paths, fetchedAt, "long_term", rawTopArtistsLong)
 
-	store := loadGenreStore(paths)
-	migrateCanonicalPlays(paths, store)
+	catalog := loadCatalog(paths)
+	migrateCanonicalPlays(paths, catalog)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "load plays error:", err)
 		os.Exit(1)
 	}
 	weekPlays := render.PlaysForWeek(allPlays, time.Now())
-	topArtistsShort = canonicalizeTopArtists(store, topArtistsShort)
-	topArtistsMedium = canonicalizeTopArtists(store, topArtistsMedium)
-	topArtistsLong = canonicalizeTopArtists(store, topArtistsLong)
+	topArtistsShort = canonicalizeTopArtists(catalog, topArtistsShort)
+	topArtistsMedium = canonicalizeTopArtists(catalog, topArtistsMedium)
+	topArtistsLong = canonicalizeTopArtists(catalog, topArtistsLong)
 	allTopArtists := append(append(topArtistsShort, topArtistsMedium...), topArtistsLong...)
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 
 	// Update artist stubs with canonical metadata
 	for _, a := range allTopArtists {
@@ -1657,6 +1733,8 @@ func runDoctor(paths runtimePaths) int {
 	printPathStatus("Plays dir", paths.playsDir, false)
 	printPathStatus("Plays legacy", paths.playsPath, true)
 	printPathStatus("Genres path", paths.genresPath, false)
+	printPathStatus("Artists path", paths.artistsPath, false)
+	printPathStatus("Releases path", paths.releasesPath, false)
 	printPathStatus("Data root", paths.dataRoot, false)
 	if counts, err := doctorGenreCounts(paths); err == nil {
 		fmt.Printf("Genres: total=%d pending=%d mapped=%d draft=%d publishable=%d aggregated=%d generated=%d\n",
@@ -1670,6 +1748,12 @@ func runDoctor(paths runtimePaths) int {
 	}
 	if paths.genresOverride {
 		fmt.Println("MUSIC_GENRES_PATH override:", paths.genresPath)
+	}
+	if paths.artistsOverride {
+		fmt.Println("MUSIC_ARTISTS_PATH override:", paths.artistsPath)
+	}
+	if paths.releasesOverride {
+		fmt.Println("MUSIC_RELEASES_PATH override:", paths.releasesPath)
 	}
 
 	templates := templatesDir()
@@ -1700,6 +1784,14 @@ func runDoctor(paths runtimePaths) int {
 	if paths.genresFallback {
 		issues++
 		fmt.Printf("Warning: using CWD fallback for genres.json (%s) because %s is missing\n", paths.genresPath, filepath.Join(paths.stateDir, "data", "genres.json"))
+	}
+	if paths.artistsFallback {
+		issues++
+		fmt.Printf("Warning: using CWD fallback for artists.json (%s) because %s is missing\n", paths.artistsPath, filepath.Join(paths.stateDir, "data", "artists.json"))
+	}
+	if paths.releasesFallback {
+		issues++
+		fmt.Printf("Warning: using CWD fallback for releases.json (%s) because %s is missing\n", paths.releasesPath, filepath.Join(paths.stateDir, "data", "releases.json"))
 	}
 
 	if strings.TrimSpace(os.Getenv("SPOTIFY_CLIENT_ID")) == "" {

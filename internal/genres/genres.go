@@ -13,7 +13,7 @@ import (
 	"github.com/benstraw/music-garden/internal/models"
 )
 
-const currentVersion = 7
+const currentVersion = 8
 
 const (
 	WorkflowStateDraft       = "draft"
@@ -165,8 +165,10 @@ func LoadBytes(data []byte) (*Store, error) {
 		return nil, err
 	}
 	store := NewStore()
+	catalog := NewCatalog()
+	catalog.Genres = store
 	for spotifyID, entry := range legacy {
-		rec := Update(store, spotifyID, entry.Name, "", entry.Genres, entry.Images)
+		rec := Update(catalog, spotifyID, entry.Name, "", entry.Genres, entry.Images)
 		if entry.LastUpdated != "" {
 			rec.LastUpdated = entry.LastUpdated
 			store.Artists[rec.Slug] = rec
@@ -186,33 +188,23 @@ func Save(path string, store *Store) error {
 	return os.WriteFile(path, data, 0644)
 }
 
-// MarshalStore serializes the canonical metadata store without embedded track persistence.
+// MarshalStore serializes the genre-only canonical metadata store.
 func MarshalStore(store *Store) ([]byte, error) {
 	normalizeStore(store)
-	persisted := persistedStore{
+	persisted := persistedGenreStore{
 		Version:             store.Version,
 		GenreAliases:        store.GenreAliases,
 		PendingGenreAliases: store.PendingGenreAliases,
 		GenreRecords:        store.GenreRecords,
-		Artists:             store.Artists,
-		ArtistSlugAliases:   store.ArtistSlugAliases,
-		ArtistSourceIndex:   store.ArtistSourceIndex,
-		Releases:            store.Releases,
-		ReleaseSourceIndex:  store.ReleaseSourceIndex,
 	}
 	return json.MarshalIndent(persisted, "", "  ")
 }
 
-type persistedStore struct {
-	Version             int                      `json:"version"`
-	GenreAliases        map[string]string        `json:"genre_aliases,omitempty"`
-	PendingGenreAliases []string                 `json:"pending_genre_aliases,omitempty"`
-	GenreRecords        map[string]GenreRecord   `json:"genre_records,omitempty"`
-	Artists             map[string]ArtistRecord  `json:"artists,omitempty"`
-	ArtistSlugAliases   map[string]string        `json:"artist_slug_aliases,omitempty"`
-	ArtistSourceIndex   map[string]string        `json:"artist_source_index,omitempty"`
-	Releases            map[string]ReleaseRecord `json:"releases,omitempty"`
-	ReleaseSourceIndex  map[string]string        `json:"release_source_index,omitempty"`
+type persistedGenreStore struct {
+	Version             int                    `json:"version"`
+	GenreAliases        map[string]string      `json:"genre_aliases,omitempty"`
+	PendingGenreAliases []string               `json:"pending_genre_aliases,omitempty"`
+	GenreRecords        map[string]GenreRecord `json:"genre_records,omitempty"`
 }
 
 // UpsertGenreEditorial merges Wikipedia/Wikimedia editorial metadata into a canonical genre record.
@@ -278,18 +270,18 @@ func SetGenreWorkflowState(store *Store, slug, displayName, state string) GenreR
 
 // ResolvePlay fills garden-owned canonical IDs on a play while preserving
 // source identifiers for provenance.
-func ResolvePlay(store *Store, play models.Play) models.Play {
-	normalizeStore(store)
+func ResolvePlay(source any, play models.Play) models.Play {
+	catalog := catalogFor(source)
 	if play.Source == "" {
 		play.Source = "spotify"
 	}
 	if play.ArtistName != "" || play.ArtistID != "" {
-		artist := ensureArtist(store, play.ArtistName, play.ArtistID, play.ArtistSpotifyURL)
+		artist := ensureArtist(catalog, play.ArtistName, play.ArtistID, play.ArtistSpotifyURL)
 		for _, extra := range play.AdditionalArtists {
-			record := ensureArtist(store, extra.Name, extra.ID, extra.SpotifyURL)
+			record := ensureArtist(catalog, extra.Name, extra.ID, extra.SpotifyURL)
 			_ = record
 		}
-		release := ensureRelease(store, play.AlbumName, play.AlbumID, artist)
+		release := ensureRelease(catalog, play.AlbumName, play.AlbumID, artist)
 		play.ArtistSlug = artist.Slug
 		if play.ArtistMusicBrainzID == "" {
 			play.ArtistMusicBrainzID = artist.MusicBrainzArtistID
@@ -312,11 +304,12 @@ func ResolvePlay(store *Store, play models.Play) models.Play {
 }
 
 // ResolvePlays canonicalizes every play and reports whether any play changed.
-func ResolvePlays(store *Store, plays []models.Play) ([]models.Play, bool) {
+func ResolvePlays(source any, plays []models.Play) ([]models.Play, bool) {
+	catalog := catalogFor(source)
 	resolved := make([]models.Play, len(plays))
 	changed := false
 	for i, play := range plays {
-		r := ResolvePlay(store, play)
+		r := ResolvePlay(catalog, play)
 		if !reflect.DeepEqual(r, play) {
 			changed = true
 		}
@@ -326,29 +319,29 @@ func ResolvePlays(store *Store, plays []models.Play) ([]models.Play, bool) {
 }
 
 // Update canonicalizes one Spotify artist payload into the store.
-func Update(store *Store, spotifyID, name, spotifyURL string, sourceGenres []string, images []models.ArtistImage) ArtistRecord {
-	normalizeStore(store)
-	record := ensureArtist(store, name, spotifyID, spotifyURL)
+func Update(source any, spotifyID, name, spotifyURL string, sourceGenres []string, images []models.ArtistImage) ArtistRecord {
+	catalog := catalogFor(source)
+	record := ensureArtist(catalog, name, spotifyID, spotifyURL)
 	record.Name = firstNonEmpty(name, record.Name)
 	record.SpotifyArtistID = firstNonEmpty(spotifyID, record.SpotifyArtistID)
 	record.SpotifyURL = firstNonEmpty(spotifyURL, record.SpotifyURL)
 	record.SourceGenres = dedupeSortedStrings(append(record.SourceGenres, sourceGenres...))
-	record.Genres = canonicalGenres(store, record.SourceGenres)
+	record.Genres = canonicalGenres(catalog.Genres, record.SourceGenres)
 	if len(images) > 0 {
 		record.Images = images
 	}
 	record.LastUpdated = today()
-	store.Artists[record.Slug] = record
+	catalog.Artists.Artists[record.Slug] = record
 	return record
 }
 
 // UpsertArtistMetadata merges source metadata into a canonical artist record.
-func UpsertArtistMetadata(store *Store, spotifyID, name, spotifyURL, musicBrainzID string, sourceGenres []string, images []models.ArtistImage) ArtistRecord {
-	normalizeStore(store)
+func UpsertArtistMetadata(source any, spotifyID, name, spotifyURL, musicBrainzID string, sourceGenres []string, images []models.ArtistImage) ArtistRecord {
+	catalog := catalogFor(source)
 
 	if musicBrainzID != "" {
-		if slug, ok := store.ArtistSourceIndex[sourceKey("musicbrainz", musicBrainzID)]; ok {
-			record := store.Artists[slug]
+		if slug, ok := catalog.Artists.ArtistSourceIndex[sourceKey("musicbrainz", musicBrainzID)]; ok {
+			record := catalog.Artists.Artists[slug]
 			if spotifyID != "" && record.SpotifyArtistID == "" {
 				record.SpotifyArtistID = spotifyID
 			}
@@ -360,35 +353,35 @@ func UpsertArtistMetadata(store *Store, spotifyID, name, spotifyURL, musicBrainz
 			}
 			if len(sourceGenres) > 0 {
 				record.SourceGenres = dedupeSortedStrings(append(record.SourceGenres, sourceGenres...))
-				record.Genres = canonicalGenres(store, record.SourceGenres)
+				record.Genres = canonicalGenres(catalog.Genres, record.SourceGenres)
 			}
 			if len(images) > 0 {
 				record.Images = images
 			}
 			record.MusicBrainzArtistID = musicBrainzID
 			record.LastUpdated = today()
-			store.Artists[slug] = record
+			catalog.Artists.Artists[slug] = record
 			if spotifyID != "" {
-				store.ArtistSourceIndex[sourceKey("spotify", spotifyID)] = slug
+				catalog.Artists.ArtistSourceIndex[sourceKey("spotify", spotifyID)] = slug
 			}
 			return record
 		}
 	}
 
-	record := Update(store, spotifyID, name, spotifyURL, sourceGenres, images)
+	record := Update(catalog, spotifyID, name, spotifyURL, sourceGenres, images)
 	if musicBrainzID != "" {
 		record.MusicBrainzArtistID = musicBrainzID
-		store.ArtistSourceIndex[sourceKey("musicbrainz", musicBrainzID)] = record.Slug
+		catalog.Artists.ArtistSourceIndex[sourceKey("musicbrainz", musicBrainzID)] = record.Slug
 	}
 	record.LastUpdated = today()
-	store.Artists[record.Slug] = record
+	catalog.Artists.Artists[record.Slug] = record
 	return record
 }
 
 // UpsertArtistEditorial merges Wikipedia/Wikimedia editorial metadata into a canonical artist record.
-func UpsertArtistEditorial(store *Store, slug string, record ArtistRecord) ArtistRecord {
-	normalizeStore(store)
-	base, ok := store.Artists[slug]
+func UpsertArtistEditorial(source any, slug string, record ArtistRecord) ArtistRecord {
+	catalog := catalogFor(source)
+	base, ok := catalog.Artists.Artists[slug]
 	if !ok {
 		base = ArtistRecord{Slug: slug, Name: record.Name}
 	}
@@ -409,17 +402,17 @@ func UpsertArtistEditorial(store *Store, slug string, record ArtistRecord) Artis
 		base.ImageCandidates = dedupeGenreImages(record.ImageCandidates)
 	}
 	base.LastUpdated = today()
-	store.Artists[slug] = base
+	catalog.Artists.Artists[slug] = base
 	return base
 }
 
 // UpsertReleaseMetadata merges source metadata into a canonical release record.
-func UpsertReleaseMetadata(store *Store, artist ArtistRecord, spotifyAlbumID, name, musicBrainzReleaseGroupID, musicBrainzReleaseID string) ReleaseRecord {
-	normalizeStore(store)
+func UpsertReleaseMetadata(source any, artist ArtistRecord, spotifyAlbumID, name, musicBrainzReleaseGroupID, musicBrainzReleaseID string) ReleaseRecord {
+	catalog := catalogFor(source)
 
 	if musicBrainzReleaseGroupID != "" {
-		if slug, ok := store.ReleaseSourceIndex[sourceKey("musicbrainz-release-group", musicBrainzReleaseGroupID)]; ok {
-			record := store.Releases[slug]
+		if slug, ok := catalog.Releases.ReleaseSourceIndex[sourceKey("musicbrainz-release-group", musicBrainzReleaseGroupID)]; ok {
+			record := catalog.Releases.Releases[slug]
 			record.Name = firstNonEmpty(name, record.Name)
 			record.PrimaryArtistSlug = firstNonEmpty(artist.Slug, record.PrimaryArtistSlug)
 			record.PrimaryArtistName = firstNonEmpty(artist.Name, record.PrimaryArtistName)
@@ -427,20 +420,20 @@ func UpsertReleaseMetadata(store *Store, artist ArtistRecord, spotifyAlbumID, na
 			record.MusicBrainzReleaseGroupID = firstNonEmpty(musicBrainzReleaseGroupID, record.MusicBrainzReleaseGroupID)
 			record.MusicBrainzReleaseID = firstNonEmpty(musicBrainzReleaseID, record.MusicBrainzReleaseID)
 			record.LastUpdated = today()
-			store.Releases[slug] = record
+			catalog.Releases.Releases[slug] = record
 			if spotifyAlbumID != "" {
-				store.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)] = slug
+				catalog.Releases.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)] = slug
 			}
 			if musicBrainzReleaseID != "" {
-				store.ReleaseSourceIndex[sourceKey("musicbrainz-release", musicBrainzReleaseID)] = slug
+				catalog.Releases.ReleaseSourceIndex[sourceKey("musicbrainz-release", musicBrainzReleaseID)] = slug
 			}
 			return record
 		}
 	}
 
 	if musicBrainzReleaseID != "" {
-		if slug, ok := store.ReleaseSourceIndex[sourceKey("musicbrainz-release", musicBrainzReleaseID)]; ok {
-			record := store.Releases[slug]
+		if slug, ok := catalog.Releases.ReleaseSourceIndex[sourceKey("musicbrainz-release", musicBrainzReleaseID)]; ok {
+			record := catalog.Releases.Releases[slug]
 			record.Name = firstNonEmpty(name, record.Name)
 			record.PrimaryArtistSlug = firstNonEmpty(artist.Slug, record.PrimaryArtistSlug)
 			record.PrimaryArtistName = firstNonEmpty(artist.Name, record.PrimaryArtistName)
@@ -448,38 +441,39 @@ func UpsertReleaseMetadata(store *Store, artist ArtistRecord, spotifyAlbumID, na
 			record.MusicBrainzReleaseGroupID = firstNonEmpty(musicBrainzReleaseGroupID, record.MusicBrainzReleaseGroupID)
 			record.MusicBrainzReleaseID = firstNonEmpty(musicBrainzReleaseID, record.MusicBrainzReleaseID)
 			record.LastUpdated = today()
-			store.Releases[slug] = record
+			catalog.Releases.Releases[slug] = record
 			if spotifyAlbumID != "" {
-				store.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)] = slug
+				catalog.Releases.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)] = slug
 			}
 			if musicBrainzReleaseGroupID != "" {
-				store.ReleaseSourceIndex[sourceKey("musicbrainz-release-group", musicBrainzReleaseGroupID)] = slug
+				catalog.Releases.ReleaseSourceIndex[sourceKey("musicbrainz-release-group", musicBrainzReleaseGroupID)] = slug
 			}
 			return record
 		}
 	}
 
-	record := ensureRelease(store, name, spotifyAlbumID, artist)
+	record := ensureRelease(catalog, name, spotifyAlbumID, artist)
 	record.Name = firstNonEmpty(name, record.Name)
 	record.PrimaryArtistSlug = firstNonEmpty(artist.Slug, record.PrimaryArtistSlug)
 	record.PrimaryArtistName = firstNonEmpty(artist.Name, record.PrimaryArtistName)
 	record.MusicBrainzReleaseGroupID = firstNonEmpty(musicBrainzReleaseGroupID, record.MusicBrainzReleaseGroupID)
 	record.MusicBrainzReleaseID = firstNonEmpty(musicBrainzReleaseID, record.MusicBrainzReleaseID)
 	record.LastUpdated = today()
-	store.Releases[record.Slug] = record
+	catalog.Releases.Releases[record.Slug] = record
 	if musicBrainzReleaseGroupID != "" {
-		store.ReleaseSourceIndex[sourceKey("musicbrainz-release-group", musicBrainzReleaseGroupID)] = record.Slug
+		catalog.Releases.ReleaseSourceIndex[sourceKey("musicbrainz-release-group", musicBrainzReleaseGroupID)] = record.Slug
 	}
 	if musicBrainzReleaseID != "" {
-		store.ReleaseSourceIndex[sourceKey("musicbrainz-release", musicBrainzReleaseID)] = record.Slug
+		catalog.Releases.ReleaseSourceIndex[sourceKey("musicbrainz-release", musicBrainzReleaseID)] = record.Slug
 	}
 	return record
 }
 
 // CanonicalizeTopArtist updates the store and returns a top artist value whose
 // Genres field contains canonical genre slugs instead of raw source strings.
-func CanonicalizeTopArtist(store *Store, artist models.TopArtist) models.TopArtist {
-	record := Update(store, artist.ID, artist.Name, artist.SpotifyURL, artist.Genres, artist.Images)
+func CanonicalizeTopArtist(source any, artist models.TopArtist) models.TopArtist {
+	catalog := catalogFor(source)
+	record := Update(catalog, artist.ID, artist.Name, artist.SpotifyURL, artist.Genres, artist.Images)
 	artist.ArtistSlug = record.Slug
 	artist.MusicBrainzArtistID = record.MusicBrainzArtistID
 	artist.SourceGenres = append([]string(nil), artist.Genres...)
@@ -488,26 +482,27 @@ func CanonicalizeTopArtist(store *Store, artist models.TopArtist) models.TopArti
 }
 
 // UpdateImages updates only the images of an existing artist entry.
-func UpdateImages(store *Store, spotifyID string, images []models.ArtistImage) {
+func UpdateImages(source any, spotifyID string, images []models.ArtistImage) {
+	catalog := catalogFor(source)
 	if spotifyID == "" {
 		return
 	}
-	normalizeStore(store)
-	slug, ok := store.ArtistSourceIndex[sourceKey("spotify", spotifyID)]
+	normalizeCatalog(catalog)
+	slug, ok := catalog.Artists.ArtistSourceIndex[sourceKey("spotify", spotifyID)]
 	if !ok {
 		return
 	}
-	record := store.Artists[slug]
+	record := catalog.Artists.Artists[slug]
 	record.Images = images
 	record.LastUpdated = today()
-	store.Artists[slug] = record
+	catalog.Artists.Artists[slug] = record
 }
 
 // MissingImagesArtistIDs returns Spotify artist IDs for records without images.
-func MissingImagesArtistIDs(store *Store) []string {
-	normalizeStore(store)
+func MissingImagesArtistIDs(source any) []string {
+	catalog := catalogFor(source)
 	var ids []string
-	for _, record := range store.Artists {
+	for _, record := range catalog.Artists.Artists {
 		if record.SpotifyArtistID != "" && len(record.Images) == 0 {
 			ids = append(ids, record.SpotifyArtistID)
 		}
@@ -517,7 +512,8 @@ func MissingImagesArtistIDs(store *Store) []string {
 }
 
 // GenresForPlays returns canonical genres keyed by display artist name.
-func GenresForPlays(store *Store, plays []models.Play) map[string][]string {
+func GenresForPlays(source any, plays []models.Play) map[string][]string {
+	catalog := catalogFor(source)
 	result := map[string][]string{}
 	for _, play := range plays {
 		if play.ArtistName == "" {
@@ -526,7 +522,7 @@ func GenresForPlays(store *Store, plays []models.Play) map[string][]string {
 		if _, ok := result[play.ArtistName]; ok {
 			continue
 		}
-		record, ok := artistForPlay(store, play)
+		record, ok := artistForPlay(catalog, play)
 		if ok && len(record.Genres) > 0 {
 			result[play.ArtistName] = append([]string(nil), record.Genres...)
 		}
@@ -535,7 +531,8 @@ func GenresForPlays(store *Store, plays []models.Play) map[string][]string {
 }
 
 // ArtistsForPlays returns canonical artist records keyed by display artist name.
-func ArtistsForPlays(store *Store, plays []models.Play) map[string]ArtistRecord {
+func ArtistsForPlays(source any, plays []models.Play) map[string]ArtistRecord {
+	catalog := catalogFor(source)
 	result := map[string]ArtistRecord{}
 	for _, play := range plays {
 		if play.ArtistName == "" {
@@ -544,7 +541,7 @@ func ArtistsForPlays(store *Store, plays []models.Play) map[string]ArtistRecord 
 		if _, ok := result[play.ArtistName]; ok {
 			continue
 		}
-		if record, ok := artistForPlay(store, play); ok {
+		if record, ok := artistForPlay(catalog, play); ok {
 			result[play.ArtistName] = record
 		}
 	}
@@ -552,30 +549,30 @@ func ArtistsForPlays(store *Store, plays []models.Play) map[string]ArtistRecord 
 }
 
 // UncachedArtistIDs returns Spotify artist IDs not yet hydrated with canonical metadata.
-func UncachedArtistIDs(store *Store, plays []models.Play) []string {
-	normalizeStore(store)
+func UncachedArtistIDs(source any, plays []models.Play) []string {
+	catalog := catalogFor(source)
 	seen := map[string]bool{}
 	var ids []string
 	for _, play := range plays {
-		ids = append(ids, appendUncachedArtistID(store, seen, play.ArtistID)...)
+		ids = append(ids, appendUncachedArtistID(catalog, seen, play.ArtistID)...)
 		for _, extra := range play.AdditionalArtists {
-			ids = append(ids, appendUncachedArtistID(store, seen, extra.ID)...)
+			ids = append(ids, appendUncachedArtistID(catalog, seen, extra.ID)...)
 		}
 	}
 	sort.Strings(ids)
 	return ids
 }
 
-func appendUncachedArtistID(store *Store, seen map[string]bool, spotifyID string) []string {
+func appendUncachedArtistID(catalog *Catalog, seen map[string]bool, spotifyID string) []string {
 	if spotifyID == "" || seen[spotifyID] {
 		return nil
 	}
 	seen[spotifyID] = true
-	slug, ok := store.ArtistSourceIndex[sourceKey("spotify", spotifyID)]
+	slug, ok := catalog.Artists.ArtistSourceIndex[sourceKey("spotify", spotifyID)]
 	if !ok {
 		return []string{spotifyID}
 	}
-	record := store.Artists[slug]
+	record := catalog.Artists.Artists[slug]
 	if len(record.Genres) == 0 && len(record.SourceGenres) == 0 {
 		return []string{spotifyID}
 	}
@@ -583,10 +580,10 @@ func appendUncachedArtistID(store *Store, seen map[string]bool, spotifyID string
 }
 
 // ArtistRecords returns all artist records sorted by name then slug.
-func ArtistRecords(store *Store) []ArtistRecord {
-	normalizeStore(store)
-	records := make([]ArtistRecord, 0, len(store.Artists))
-	for _, record := range store.Artists {
+func ArtistRecords(source any) []ArtistRecord {
+	catalog := catalogFor(source)
+	records := make([]ArtistRecord, 0, len(catalog.Artists.Artists))
+	for _, record := range catalog.Artists.Artists {
 		records = append(records, record)
 	}
 	sort.Slice(records, func(i, j int) bool {
@@ -599,10 +596,10 @@ func ArtistRecords(store *Store) []ArtistRecord {
 }
 
 // ReleaseRecords returns all release records sorted by name then slug.
-func ReleaseRecords(store *Store) []ReleaseRecord {
-	normalizeStore(store)
-	records := make([]ReleaseRecord, 0, len(store.Releases))
-	for _, record := range store.Releases {
+func ReleaseRecords(source any) []ReleaseRecord {
+	catalog := catalogFor(source)
+	records := make([]ReleaseRecord, 0, len(catalog.Releases.Releases))
+	for _, record := range catalog.Releases.Releases {
 		records = append(records, record)
 	}
 	sort.Slice(records, func(i, j int) bool {
@@ -616,77 +613,76 @@ func ReleaseRecords(store *Store) []ReleaseRecord {
 
 // CanonicalArtistSlug resolves a legacy or canonical artist slug to the
 // canonical slug stored in the garden.
-func CanonicalArtistSlug(store *Store, slug string) string {
-	normalizeStore(store)
+func CanonicalArtistSlug(source any, slug string) string {
+	catalog := catalogFor(source)
 	trimmed := strings.TrimSpace(slug)
 	if trimmed == "" {
 		return ""
 	}
-	if _, ok := store.Artists[trimmed]; ok {
+	if _, ok := catalog.Artists.Artists[trimmed]; ok {
 		return trimmed
 	}
 	normalized := Slug(trimmed)
-	if _, ok := store.Artists[normalized]; ok {
+	if _, ok := catalog.Artists.Artists[normalized]; ok {
 		return normalized
 	}
-	if canonical, ok := store.ArtistSlugAliases[trimmed]; ok && canonical != "" {
+	if canonical, ok := catalog.Artists.ArtistSlugAliases[trimmed]; ok && canonical != "" {
 		return canonical
 	}
-	if canonical, ok := store.ArtistSlugAliases[normalized]; ok && canonical != "" {
+	if canonical, ok := catalog.Artists.ArtistSlugAliases[normalized]; ok && canonical != "" {
 		return canonical
 	}
 	return normalized
 }
 
 // SetArtistSlugAlias records one legacy artist slug -> canonical slug mapping.
-func SetArtistSlugAlias(store *Store, legacySlug, canonicalSlug string) {
-	normalizeStore(store)
+func SetArtistSlugAlias(source any, legacySlug, canonicalSlug string) {
+	catalog := catalogFor(source)
 	legacy := Slug(legacySlug)
 	canonical := strings.TrimSpace(canonicalSlug)
 	if legacy == "" || canonical == "" {
 		return
 	}
-	if resolved := CanonicalArtistSlug(store, canonical); resolved != "" {
+	if resolved := CanonicalArtistSlug(catalog, canonical); resolved != "" {
 		canonical = resolved
 	}
 	if legacy == canonical {
 		return
 	}
-	store.ArtistSlugAliases[legacy] = canonical
+	catalog.Artists.ArtistSlugAliases[legacy] = canonical
 }
 
-func artistForPlay(store *Store, play models.Play) (ArtistRecord, bool) {
-	normalizeStore(store)
+func artistForPlay(catalog *Catalog, play models.Play) (ArtistRecord, bool) {
 	if play.ArtistSlug != "" {
-		record, ok := store.Artists[CanonicalArtistSlug(store, play.ArtistSlug)]
+		record, ok := catalog.Artists.Artists[CanonicalArtistSlug(catalog, play.ArtistSlug)]
 		return record, ok
 	}
 	if play.ArtistID != "" {
-		if slug, ok := store.ArtistSourceIndex[sourceKey("spotify", play.ArtistID)]; ok {
-			record, ok := store.Artists[slug]
+		if slug, ok := catalog.Artists.ArtistSourceIndex[sourceKey("spotify", play.ArtistID)]; ok {
+			record, ok := catalog.Artists.Artists[slug]
 			return record, ok
 		}
 	}
 	if play.ArtistName != "" {
 		base := Slug(play.ArtistName)
-		if record, ok := store.Artists[base]; ok && record.Name == play.ArtistName {
+		if record, ok := catalog.Artists.Artists[base]; ok && record.Name == play.ArtistName {
 			return record, true
 		}
 	}
 	return ArtistRecord{}, false
 }
 
-func ensureArtist(store *Store, name, spotifyID, spotifyURL string) ArtistRecord {
+func ensureArtist(catalog *Catalog, name, spotifyID, spotifyURL string) ArtistRecord {
 	if spotifyID != "" {
-		if slug, ok := store.ArtistSourceIndex[sourceKey("spotify", spotifyID)]; ok {
-			record := store.Artists[slug]
+		if slug, ok := catalog.Artists.ArtistSourceIndex[sourceKey("spotify", spotifyID)]; ok {
+			record := catalog.Artists.Artists[slug]
 			if name != "" {
 				record.Name = name
 			}
 			if spotifyURL != "" {
 				record.SpotifyURL = spotifyURL
 			}
-			store.Artists[slug] = record
+			catalog.Artists.Artists[slug] = record
 			return record
 		}
 	}
@@ -695,8 +691,8 @@ func ensureArtist(store *Store, name, spotifyID, spotifyURL string) ArtistRecord
 	if base == "" {
 		base = "unknown-artist"
 	}
-	if canonical := CanonicalArtistSlug(store, base); canonical != "" {
-		if existing, ok := store.Artists[canonical]; ok {
+	if canonical := CanonicalArtistSlug(catalog, base); canonical != "" {
+		if existing, ok := catalog.Artists.Artists[canonical]; ok {
 			if spotifyID != "" && existing.SpotifyArtistID == spotifyID {
 				return existing
 			}
@@ -708,7 +704,7 @@ func ensureArtist(store *Store, name, spotifyID, spotifyURL string) ArtistRecord
 	}
 	slug := base
 	for i := 2; ; i++ {
-		existing, ok := store.Artists[slug]
+		existing, ok := catalog.Artists.Artists[slug]
 		if !ok {
 			break
 		}
@@ -728,21 +724,21 @@ func ensureArtist(store *Store, name, spotifyID, spotifyURL string) ArtistRecord
 		SpotifyURL:      spotifyURL,
 		LastUpdated:     today(),
 	}
-	store.Artists[slug] = record
+	catalog.Artists.Artists[slug] = record
 	if spotifyID != "" {
-		store.ArtistSourceIndex[sourceKey("spotify", spotifyID)] = slug
+		catalog.Artists.ArtistSourceIndex[sourceKey("spotify", spotifyID)] = slug
 	}
 	return record
 }
 
-func ensureRelease(store *Store, name, spotifyAlbumID string, artist ArtistRecord) ReleaseRecord {
+func ensureRelease(catalog *Catalog, name, spotifyAlbumID string, artist ArtistRecord) ReleaseRecord {
 	if spotifyAlbumID != "" {
-		if slug, ok := store.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)]; ok {
-			record := store.Releases[slug]
+		if slug, ok := catalog.Releases.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)]; ok {
+			record := catalog.Releases.Releases[slug]
 			if name != "" {
 				record.Name = name
 			}
-			store.Releases[slug] = record
+			catalog.Releases.Releases[slug] = record
 			return record
 		}
 	}
@@ -756,7 +752,7 @@ func ensureRelease(store *Store, name, spotifyAlbumID string, artist ArtistRecor
 	}
 	slug := base
 	for i := 2; ; i++ {
-		existing, ok := store.Releases[slug]
+		existing, ok := catalog.Releases.Releases[slug]
 		if !ok {
 			break
 		}
@@ -777,9 +773,9 @@ func ensureRelease(store *Store, name, spotifyAlbumID string, artist ArtistRecor
 		SpotifyAlbumID:    spotifyAlbumID,
 		LastUpdated:       today(),
 	}
-	store.Releases[slug] = record
+	catalog.Releases.Releases[slug] = record
 	if spotifyAlbumID != "" {
-		store.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)] = slug
+		catalog.Releases.ReleaseSourceIndex[sourceKey("spotify", spotifyAlbumID)] = slug
 	}
 	return record
 }

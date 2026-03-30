@@ -27,6 +27,24 @@ type RawWriter func(kind, stem, endpoint, requestURL string, fetchedAt time.Time
 // backend (stderr, structured logger, etc.).
 type WarnFunc func(format string, args ...any)
 
+func ensureCatalog(source any) *genres.Catalog {
+	switch v := source.(type) {
+	case *genres.Catalog:
+		return v
+	case *genres.Store:
+		catalog := genres.NewCatalog()
+		catalog.Genres = v
+		catalog.Artists.Artists = v.Artists
+		catalog.Artists.ArtistSlugAliases = v.ArtistSlugAliases
+		catalog.Artists.ArtistSourceIndex = v.ArtistSourceIndex
+		catalog.Releases.Releases = v.Releases
+		catalog.Releases.ReleaseSourceIndex = v.ReleaseSourceIndex
+		return catalog
+	default:
+		panic("unsupported catalog source")
+	}
+}
+
 // --- MusicBrainz enrichment ---
 
 // PickArtistMatch selects the best MusicBrainz artist from search results,
@@ -60,7 +78,8 @@ func PickReleaseGroupMatch(seedArtist, seedRelease string, matches []mbclient.Se
 // MusicBrainzArtist enriches a single artist via MusicBrainz. It searches or
 // looks up by MBID, writes normalized records, and returns the canonical
 // ArtistRecord ready to merge into the store.
-func MusicBrainzArtist(dataRoot string, mb *mbclient.Client, store *genres.Store, seed mbnormalize.ArtistSeed, mbid string, writeRaw RawWriter, warn WarnFunc) (genres.ArtistRecord, error) {
+func MusicBrainzArtist(dataRoot string, mb *mbclient.Client, source any, seed mbnormalize.ArtistSeed, mbid string, writeRaw RawWriter, warn WarnFunc) (genres.ArtistRecord, error) {
+	catalog := ensureCatalog(source)
 	var artistResult mbclient.FetchResult[mbclient.Artist]
 	var err error
 	if strings.TrimSpace(mbid) != "" {
@@ -90,7 +109,7 @@ func MusicBrainzArtist(dataRoot string, mb *mbclient.Client, store *genres.Store
 		writeRaw("artists", match.ID, artistResult.Endpoint, artistResult.RequestURL, artistResult.FetchedAt, artistResult.Body, artistResult.FromCache)
 	}
 
-	normalized, record := mbnormalize.NormalizeArtist(store, seed, artistResult.Value)
+	normalized, record := mbnormalize.NormalizeArtist(catalog, seed, artistResult.Value)
 	if err := datalayer.WriteNormalizedMusicBrainzArtist(dataRoot, record.Slug, normalized); err != nil {
 		warn("write normalized MusicBrainz artist: %v", err)
 	}
@@ -100,7 +119,7 @@ func MusicBrainzArtist(dataRoot string, mb *mbclient.Client, store *genres.Store
 			Source:      "musicbrainz",
 			SourceGenre: sourceGenre,
 		}
-		if canonical, ok := genres.CanonicalGenre(store, sourceGenre); ok {
+		if canonical, ok := genres.CanonicalGenre(catalog.Genres, sourceGenre); ok {
 			genreRecord.CanonicalGenreSlug = canonical
 		}
 		genreRecords = append(genreRecords, genreRecord)
@@ -114,7 +133,8 @@ func MusicBrainzArtist(dataRoot string, mb *mbclient.Client, store *genres.Store
 // MusicBrainzAlbum enriches a single release via MusicBrainz release-group
 // search/lookup, writes normalized records, and returns the canonical
 // ReleaseRecord ready to merge into the store.
-func MusicBrainzAlbum(dataRoot string, mb *mbclient.Client, store *genres.Store, seed mbnormalize.ReleaseSeed, mbid string, writeRaw RawWriter, warn WarnFunc) (genres.ReleaseRecord, error) {
+func MusicBrainzAlbum(dataRoot string, mb *mbclient.Client, source any, seed mbnormalize.ReleaseSeed, mbid string, writeRaw RawWriter, warn WarnFunc) (genres.ReleaseRecord, error) {
+	catalog := ensureCatalog(source)
 	var groupResult mbclient.FetchResult[mbclient.ReleaseGroup]
 	var err error
 	if strings.TrimSpace(mbid) != "" {
@@ -145,7 +165,7 @@ func MusicBrainzAlbum(dataRoot string, mb *mbclient.Client, store *genres.Store,
 		writeRaw("release-groups", match.ID, groupResult.Endpoint, groupResult.RequestURL, groupResult.FetchedAt, groupResult.Body, groupResult.FromCache)
 	}
 
-	normalized, releaseRecord, _, genreRecords := mbnormalize.NormalizeRelease(store, seed, groupResult.Value)
+	normalized, releaseRecord, _, genreRecords := mbnormalize.NormalizeRelease(catalog, seed, groupResult.Value)
 	if err := datalayer.WriteNormalizedMusicBrainzRelease(dataRoot, releaseRecord.Slug, normalized); err != nil {
 		warn("write normalized MusicBrainz release: %v", err)
 	}
@@ -159,7 +179,8 @@ func MusicBrainzAlbum(dataRoot string, mb *mbclient.Client, store *genres.Store,
 
 // WikipediaGenre enriches a single genre via Wikipedia search + summary.
 // Returns (status, matchedTitle, error). Status is "matched", "ambiguous", or "not_found".
-func WikipediaGenre(dataRoot string, client *mwclient.Client, store *genres.Store, seed mwnormalize.GenreSeed, writeRaw RawWriter, warn WarnFunc) (string, string, error) {
+func WikipediaGenre(dataRoot string, client *mwclient.Client, source any, seed mwnormalize.GenreSeed, writeRaw RawWriter, warn WarnFunc) (string, string, error) {
+	catalog := ensureCatalog(source)
 	fetchedAt := time.Now().UTC()
 	var pageTitle string
 	var candidates []string
@@ -191,7 +212,7 @@ func WikipediaGenre(dataRoot string, client *mwclient.Client, store *genres.Stor
 			status := UnresolvedStatus(search.Value)
 			normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, status, candidates, fetchedAt)
 			_ = datalayer.WriteNormalizedWikipediaGenre(dataRoot, seed.CanonicalSlug, normalized)
-			genres.UpsertGenreEditorial(store, record)
+			genres.UpsertGenreEditorial(catalog.Genres, record)
 			return status, "", nil
 		}
 	}
@@ -217,7 +238,7 @@ func WikipediaGenre(dataRoot string, client *mwclient.Client, store *genres.Stor
 		if !resolved {
 			normalized, record := mwnormalize.NormalizeUnresolvedGenre(seed, "ambiguous", candidates, fetchedAt)
 			_ = datalayer.WriteNormalizedWikipediaGenre(dataRoot, seed.CanonicalSlug, normalized)
-			genres.UpsertGenreEditorial(store, record)
+			genres.UpsertGenreEditorial(catalog.Genres, record)
 			return "ambiguous", "", nil
 		}
 	}
@@ -227,13 +248,14 @@ func WikipediaGenre(dataRoot string, client *mwclient.Client, store *genres.Stor
 	if err := datalayer.WriteNormalizedWikipediaGenre(dataRoot, seed.CanonicalSlug, normalized); err != nil {
 		warn("write normalized wikipedia genre: %v", err)
 	}
-	genres.UpsertGenreEditorial(store, record)
+	genres.UpsertGenreEditorial(catalog.Genres, record)
 	return "matched", record.WikipediaTitle, nil
 }
 
 // WikipediaArtist enriches a single artist via Wikipedia search + summary.
 // Returns (status, matchedTitle, error). Status is "matched", "ambiguous", or "not_found".
-func WikipediaArtist(dataRoot string, client *mwclient.Client, store *genres.Store, seed mwnormalize.ArtistSeed, writeRaw RawWriter, warn WarnFunc) (string, string, error) {
+func WikipediaArtist(dataRoot string, client *mwclient.Client, source any, seed mwnormalize.ArtistSeed, writeRaw RawWriter, warn WarnFunc) (string, string, error) {
+	catalog := ensureCatalog(source)
 	fetchedAt := time.Now().UTC()
 	var pageTitle string
 	var candidates []string
@@ -259,7 +281,7 @@ func WikipediaArtist(dataRoot string, client *mwclient.Client, store *genres.Sto
 			if err := datalayer.WriteNormalizedWikipediaArtist(dataRoot, seed.CanonicalSlug, normalized); err != nil {
 				warn("write normalized wikipedia artist: %v", err)
 			}
-			genres.UpsertArtistEditorial(store, seed.CanonicalSlug, record)
+			genres.UpsertArtistEditorial(catalog, seed.CanonicalSlug, record)
 			return status, "", nil
 		}
 	}
@@ -275,7 +297,7 @@ func WikipediaArtist(dataRoot string, client *mwclient.Client, store *genres.Sto
 		if err := datalayer.WriteNormalizedWikipediaArtist(dataRoot, seed.CanonicalSlug, normalized); err != nil {
 			warn("write normalized wikipedia artist: %v", err)
 		}
-		genres.UpsertArtistEditorial(store, seed.CanonicalSlug, record)
+		genres.UpsertArtistEditorial(catalog, seed.CanonicalSlug, record)
 		return "ambiguous", "", nil
 	}
 
@@ -284,7 +306,7 @@ func WikipediaArtist(dataRoot string, client *mwclient.Client, store *genres.Sto
 	if err := datalayer.WriteNormalizedWikipediaArtist(dataRoot, seed.CanonicalSlug, normalized); err != nil {
 		warn("write normalized wikipedia artist: %v", err)
 	}
-	genres.UpsertArtistEditorial(store, seed.CanonicalSlug, record)
+	genres.UpsertArtistEditorial(catalog, seed.CanonicalSlug, record)
 	return "matched", record.WikipediaTitle, nil
 }
 

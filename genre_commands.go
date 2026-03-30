@@ -26,8 +26,8 @@ func runGenreReport(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStore(paths)
-	report := genres.BuildGenreReport(taxonomy, store.PendingGenreAliases)
+	catalog := loadCatalog(paths)
+	report := genres.BuildGenreReport(taxonomy, catalog.Genres.PendingGenreAliases)
 	fmt.Print(report.ReportString())
 }
 
@@ -45,14 +45,14 @@ func runAggregateGenre(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStoreWithTaxonomy(paths, *taxonomyPath)
+	catalog := loadCatalogWithTaxonomy(paths, *taxonomyPath)
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "aggregate genre load plays error:", err)
 		os.Exit(1)
 	}
-	allPlays, _ = genres.ResolvePlays(store, allPlays)
-	path, err := datalayer.RebuildAggregatedGenre(paths.dataRoot, store, allPlays, genreSlug)
+	allPlays, _ = genres.ResolvePlays(catalog, allPlays)
+	path, err := datalayer.RebuildAggregatedGenre(paths.dataRoot, catalog.Genres, allPlays, genreSlug)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "aggregate genre error:", err)
 		os.Exit(1)
@@ -61,14 +61,14 @@ func runAggregateGenre(args []string, paths runtimePaths) {
 }
 
 func runAggregateGenres(paths runtimePaths) {
-	store := loadGenreStoreWithTaxonomy(paths, defaultGenreTaxonomyPath(paths))
+	catalog := loadCatalogWithTaxonomy(paths, defaultGenreTaxonomyPath(paths))
 	allPlays, err := plays.LoadSharded(paths.playsDir)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "aggregate genres load plays error:", err)
 		os.Exit(1)
 	}
-	allPlays, _ = genres.ResolvePlays(store, allPlays)
-	count, err := datalayer.RebuildAllAggregatedGenres(paths.dataRoot, store, allPlays)
+	allPlays, _ = genres.ResolvePlays(catalog, allPlays)
+	count, err := datalayer.RebuildAllAggregatedGenres(paths.dataRoot, catalog.Genres, allPlays)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "aggregate genres error:", err)
 		os.Exit(1)
@@ -77,8 +77,8 @@ func runAggregateGenres(paths runtimePaths) {
 }
 
 func runSyncDataLayer(paths runtimePaths) {
-	store := loadGenreStoreWithTaxonomy(paths, defaultGenreTaxonomyPath(paths))
-	syncDataLayer(paths, store)
+	catalog := loadCatalogWithTaxonomy(paths, defaultGenreTaxonomyPath(paths))
+	syncDataLayer(paths, catalog)
 	fmt.Printf("Rebuilt normalized and aggregated data under %s\n", paths.dataRoot)
 }
 
@@ -144,14 +144,14 @@ func runWikipediaBackfillGenres(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store := loadGenreStoreWithTaxonomy(paths, defaultGenreTaxonomyPath(paths))
-	slugs := enrich.CanonicalGenreSlugsForBackfill(store)
+	catalog := loadCatalogWithTaxonomy(paths, defaultGenreTaxonomyPath(paths))
+	slugs := enrich.CanonicalGenreSlugsForBackfill(catalog.Genres)
 	if strings.TrimSpace(*slug) != "" {
 		slugs = []string{genres.Slug(*slug)}
 	}
 	processed, skipped, failed, attempted := 0, 0, 0, 0
 	for _, slug := range slugs {
-		if record, ok := genres.GenreEditorial(store, slug); ok && !*refresh && record.Status == "matched" && record.WikipediaURL != "" {
+		if record, ok := genres.GenreEditorial(catalog.Genres, slug); ok && !*refresh && record.Status == "matched" && record.WikipediaURL != "" {
 			skipped++
 			continue
 		}
@@ -164,7 +164,7 @@ func runWikipediaBackfillGenres(args []string, paths runtimePaths) {
 		if seed.SearchTerm == "" {
 			seed.SearchTerm = strings.ReplaceAll(slug, "-", " ")
 		}
-		status, _, err := enrich.WikipediaGenre(paths.dataRoot, client, store, seed, rawWikipediaWriter(paths), stderrWarn)
+		status, _, err := enrich.WikipediaGenre(paths.dataRoot, client, catalog, seed, rawWikipediaWriter(paths), stderrWarn)
 		if err != nil {
 			failed++
 			fmt.Fprintf(os.Stderr, "warning: wikipedia genre %s: %v\n", slug, err)
@@ -173,7 +173,7 @@ func runWikipediaBackfillGenres(args []string, paths runtimePaths) {
 		processed++
 		fmt.Printf("Wikipedia genre: %s (%s)\n", slug, status)
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Wikipedia genre backfill complete: processed=%d skipped=%d failed=%d\n", processed, skipped, failed)
 }
 
@@ -262,7 +262,7 @@ func runGenrePromote(args []string, paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	store, views := loadGenreWorkflowViews(paths, *taxonomyPath)
+	catalog, views := loadGenreWorkflowViews(paths, *taxonomyPath)
 
 	if strings.TrimSpace(*slug) != "" {
 		genreSlug := genres.Slug(*slug)
@@ -290,8 +290,8 @@ func runGenrePromote(args []string, paths runtimePaths) {
 			fmt.Printf("Would set %s -> %s\n", view.Slug, normalizedState)
 			return
 		}
-		genreworkflow.SetWorkflowState(store, view, normalizedState)
-		saveGenreStore(paths, store)
+		genreworkflow.SetWorkflowState(catalog.Genres, view, normalizedState)
+		saveCatalog(paths, catalog)
 		fmt.Printf("Set %s -> %s\n", view.Slug, normalizedState)
 		return
 	}
@@ -327,14 +327,14 @@ func runGenrePromote(args []string, paths runtimePaths) {
 			strings.TrimSpace(view.ParentSlug) != "",
 		)
 		if !*dryRun {
-			genreworkflow.SetWorkflowState(store, view, genres.WorkflowStatePublishable)
+			genreworkflow.SetWorkflowState(catalog.Genres, view, genres.WorkflowStatePublishable)
 		}
 	}
 	if *dryRun {
 		fmt.Printf("Dry run: %d genre(s) would be promoted\n", len(candidates))
 		return
 	}
-	saveGenreStore(paths, store)
+	saveCatalog(paths, catalog)
 	fmt.Printf("Promoted %d genre(s) to publishable\n", len(candidates))
 }
 
@@ -372,20 +372,20 @@ func doctorGenreCounts(paths runtimePaths) (genreDoctorCounts, error) {
 	return counts, nil
 }
 
-func loadGenreWorkflowViews(paths runtimePaths, taxonomyPath string) (*genres.Store, []genreworkflow.GenreView) {
-	store := loadGenreStore(paths)
+func loadGenreWorkflowViews(paths runtimePaths, taxonomyPath string) (*genres.Catalog, []genreworkflow.GenreView) {
+	catalog := loadCatalog(paths)
 	taxonomy, err := genres.LoadTaxonomy(taxonomyPath)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "genre taxonomy error:", err)
 		os.Exit(1)
 	}
-	genres.ApplyTaxonomy(store, taxonomy)
-	views, err := genreworkflow.LoadViews(paths.dataRoot, store, taxonomy)
+	genres.ApplyTaxonomy(catalog.Genres, taxonomy)
+	views, err := genreworkflow.LoadViews(paths.dataRoot, catalog.Genres, taxonomy)
 	if err != nil {
 		fmt.Fprintln(os.Stderr, "genre workflow load error:", err)
 		os.Exit(1)
 	}
-	return store, views
+	return catalog, views
 }
 
 func defaultGenrePagesOutDir(paths runtimePaths) string {
