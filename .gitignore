@@ -5,3 +5,8 @@ spotify-garden
 music-garden
 *.sh.log
 sandbox/
+.gocache/
+data/plays.json.bak
+data/raw/spotify/
+data/legacy-artist-slugs.json
+data/legacy-genre-slugs.json
