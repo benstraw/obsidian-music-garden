@@ -1,8 +1,10 @@
 package mediawiki
 
 import (
+	"os"
 	"net/http"
 	"net/http/httptest"
+	"path/filepath"
 	"strings"
 	"testing"
 	"time"
@@ -112,5 +114,57 @@ func TestGetCommonsImageInfo(t *testing.T) {
 	}
 	if info.Value.FileTitle != "File:Ambient_music.jpg" || info.Value.License == "" {
 		t.Fatalf("unexpected image info: %+v", info.Value)
+	}
+}
+
+func TestGetSummary_cacheKeyDistinguishesHyphenAndSpaceTitles(t *testing.T) {
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		switch r.URL.Path {
+		case "/api/rest_v1/page/summary/Post-rock":
+			_, _ = w.Write([]byte(`{"title":"Post-rock","type":"standard","extract":"Post-rock is a genre.","content_urls":{"desktop":{"page":"https://en.wikipedia.org/wiki/Post-rock"}}}`))
+			return
+		case "/api/rest_v1/page/summary/Post Rock":
+			_, _ = w.Write([]byte(`{"title":"Post Rock","type":"disambiguation","extract":"Post Rock may refer to."}`))
+			return
+		default:
+			t.Fatalf("unexpected path: %s", r.URL.Path)
+		}
+	}))
+	defer server.Close()
+
+	cacheDir := t.TempDir()
+	client, err := NewClient(Config{
+		UserAgent:         "music-garden-test/1.0",
+		WikipediaRESTBase: server.URL + "/api/rest_v1",
+		CacheDir:          cacheDir,
+		CacheTTL:          time.Hour,
+	})
+	if err != nil {
+		t.Fatalf("NewClient: %v", err)
+	}
+
+	first, err := client.GetSummary("Post-rock")
+	if err != nil {
+		t.Fatalf("GetSummary(Post-rock): %v", err)
+	}
+	second, err := client.GetSummary("Post Rock")
+	if err != nil {
+		t.Fatalf("GetSummary(Post Rock): %v", err)
+	}
+	if first.Value.Type != "standard" {
+		t.Fatalf("Post-rock summary type = %q, want standard", first.Value.Type)
+	}
+	if second.Value.Type != "disambiguation" {
+		t.Fatalf("Post Rock summary type = %q, want disambiguation", second.Value.Type)
+	}
+
+	paths := []string{
+		filepath.Join(cacheDir, "summaries", "post~h~rock.json"),
+		filepath.Join(cacheDir, "summaries", "post~s~rock.json"),
+	}
+	for _, path := range paths {
+		if _, err := os.Stat(path); err != nil {
+			t.Fatalf("expected cache file %s: %v", path, err)
+		}
 	}
 }

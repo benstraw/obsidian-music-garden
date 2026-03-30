@@ -227,7 +227,7 @@ func (c *Client) SearchPages(query string) (FetchResult[[]SearchResult], error) 
 func (c *Client) GetSummary(title string) (FetchResult[Summary], error) {
 	endpoint := "/page/summary/" + url.PathEscape(title)
 	requestURL := c.wikipediaRESTBase + endpoint
-	cacheKey := filepath.Join("summaries", slugForCache(title))
+	cacheKey := filepath.Join("summaries", titleKeyForCache(title))
 	body, meta, fromCache, err := c.fetchBytes(requestURL, endpoint, cacheKey)
 	if err != nil {
 		return FetchResult[Summary]{}, err
@@ -425,4 +425,18 @@ func slugForCache(value string) string {
 		return "lookup"
 	}
 	return value
+}
+
+func titleKeyForCache(value string) string {
+	value = strings.TrimSpace(strings.ToLower(value))
+	if value == "" {
+		return "lookup"
+	}
+	replacer := strings.NewReplacer(
+		"-", "~h~",
+		" ", "~s~",
+		"/", "~sl~",
+		":", "~c~",
+	)
+	return slugForCache(replacer.Replace(value))
 }
