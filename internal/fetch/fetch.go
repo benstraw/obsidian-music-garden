@@ -42,8 +42,9 @@ type spotifyArtist struct {
 }
 
 type spotifyAlbum struct {
-	ID   string `json:"id"`
-	Name string `json:"name"`
+	ID      string          `json:"id"`
+	Name    string          `json:"name"`
+	Artists []spotifyArtist `json:"artists"`
 }
 
 type topTracksResponse struct {
@@ -122,28 +123,30 @@ func GetRecentlyPlayedRaw(c *client.Client) ([]models.Play, []byte, error) {
 
 // itemToPlay maps a recently-played API item to a Play struct (primary artist only).
 func itemToPlay(item recentlyPlayedItem) models.Play {
-	t := item.Track
+	t := trackDetailsFromSpotify(item.Track)
 	var artistID, artistName, artistURL string
 	if len(t.Artists) > 0 {
-		a := t.Artists[0]
-		artistID = a.ID
-		artistName = a.Name
-		artistURL = a.ExternalURLs["spotify"]
+		artistID = t.Artists[0].ID
+		artistName = t.Artists[0].Name
+		artistURL = t.Artists[0].SpotifyURL
 	}
-	trackURL := t.ExternalURLs["spotify"]
-
+	additionalArtists := []models.PlayArtist(nil)
+	if len(t.Artists) > 1 {
+		additionalArtists = append(additionalArtists, t.Artists[1:]...)
+	}
 	return models.Play{
-		PlayedAt:         item.PlayedAt,
-		Source:           "spotify",
-		TrackID:          t.ID,
-		TrackName:        t.Name,
-		ArtistID:         artistID,
-		ArtistName:       artistName,
-		ArtistSpotifyURL: artistURL,
-		AlbumID:          t.Album.ID,
-		AlbumName:        t.Album.Name,
-		DurationMS:       t.DurationMS,
-		TrackSpotifyURL:  trackURL,
+		PlayedAt:          item.PlayedAt,
+		Source:            "spotify",
+		TrackID:           t.ID,
+		TrackName:         t.Name,
+		ArtistID:          artistID,
+		ArtistName:        artistName,
+		ArtistSpotifyURL:  artistURL,
+		AdditionalArtists: additionalArtists,
+		AlbumID:           t.AlbumID,
+		AlbumName:         t.AlbumName,
+		DurationMS:        t.DurationMS,
+		TrackSpotifyURL:   t.TrackSpotifyURL,
 	}
 }
 
@@ -183,6 +186,10 @@ func GetTopTracks(c *client.Client, timeRange string) ([]models.TopTrack, error)
 
 type artistsResponse struct {
 	Artists []topArtistItem `json:"artists"`
+}
+
+type tracksResponse struct {
+	Tracks []*spotifyTrack `json:"tracks"`
 }
 
 // GetArtists fetches artist details for up to 50 IDs in a single request.
@@ -255,6 +262,115 @@ func GetArtistsBatchRaw(c *client.Client, ids []string) ([]models.TopArtist, [][
 // joinIDs joins IDs with commas.
 func joinIDs(ids []string) string {
 	return strings.Join(ids, ",")
+}
+
+// GetTracks fetches full Spotify track objects for up to 50 IDs in one request.
+func GetTracks(c *client.Client, ids []string) ([]models.TrackDetails, error) {
+	tracks, _, err := GetTracksRaw(c, ids)
+	return tracks, err
+}
+
+// GetTracksRaw fetches full Spotify track objects for up to 50 IDs in one request
+// and returns the unchanged Spotify response body.
+func GetTracksRaw(c *client.Client, ids []string) ([]models.TrackDetails, []byte, error) {
+	if len(ids) == 0 {
+		return nil, nil, nil
+	}
+	if len(ids) > 50 {
+		return nil, nil, fmt.Errorf("GetTracks: max 50 IDs per request, got %d", len(ids))
+	}
+
+	params := url.Values{}
+	params.Set("ids", joinIDs(ids))
+
+	body, err := c.Get("/tracks", params)
+	if err != nil {
+		return nil, nil, fmt.Errorf("tracks: %w", err)
+	}
+
+	var resp tracksResponse
+	if err := json.Unmarshal(body, &resp); err != nil {
+		return nil, nil, fmt.Errorf("tracks decode: %w", err)
+	}
+	tracks := make([]models.TrackDetails, 0, len(resp.Tracks))
+	for _, track := range resp.Tracks {
+		if track == nil {
+			continue
+		}
+		tracks = append(tracks, trackDetailsFromSpotify(track))
+	}
+	return tracks, body, nil
+}
+
+// GetTracksBatch fetches full Spotify track objects for any number of IDs, chunking into batches of 50.
+func GetTracksBatch(c *client.Client, ids []string) ([]models.TrackDetails, error) {
+	tracks, _, err := GetTracksBatchRaw(c, ids)
+	return tracks, err
+}
+
+// GetTracksBatchRaw fetches full Spotify track objects for any number of IDs, chunking
+// into batches of 50, and returns the unchanged response body for each batch.
+func GetTracksBatchRaw(c *client.Client, ids []string) ([]models.TrackDetails, [][]byte, error) {
+	var all []models.TrackDetails
+	var bodies [][]byte
+	for i := 0; i < len(ids); i += 50 {
+		end := min(i+50, len(ids))
+		batch, body, err := GetTracksRaw(c, ids[i:end])
+		if err != nil {
+			return nil, nil, err
+		}
+		all = append(all, batch...)
+		if len(body) > 0 {
+			bodies = append(bodies, body)
+		}
+	}
+	return all, bodies, nil
+}
+
+func trackDetailsFromSpotify(track *spotifyTrack) models.TrackDetails {
+	if track == nil {
+		return models.TrackDetails{}
+	}
+	artists := make([]models.PlayArtist, 0, len(track.Artists))
+	for _, artist := range track.Artists {
+		artists = append(artists, models.PlayArtist{
+			ID:         artist.ID,
+			Name:       artist.Name,
+			SpotifyURL: artist.ExternalURLs["spotify"],
+		})
+	}
+	albumArtists := make([]models.PlayArtist, 0, len(track.Album.Artists))
+	for _, artist := range track.Album.Artists {
+		albumArtists = append(albumArtists, models.PlayArtist{
+			ID:         artist.ID,
+			Name:       artist.Name,
+			SpotifyURL: artist.ExternalURLs["spotify"],
+		})
+	}
+	return models.TrackDetails{
+		ID:              track.ID,
+		Name:            track.Name,
+		Artists:         artists,
+		AlbumArtists:    models.NormalizeAlbumArtists(firstPlayArtist(artists), albumArtists),
+		AlbumID:         track.Album.ID,
+		AlbumName:       track.Album.Name,
+		DurationMS:      track.DurationMS,
+		TrackSpotifyURL: track.ExternalURLs["spotify"],
+	}
+}
+
+func firstPlayArtist(artists []models.PlayArtist) models.PlayArtist {
+	if len(artists) == 0 {
+		return models.PlayArtist{}
+	}
+	return artists[0]
+}
+
+func maxInt(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
 }
 
 // --- Setlist.fm ---

@@ -1375,7 +1375,8 @@ func runWikipediaEnrichArtist(args []string, paths runtimePaths) {
 	}
 
 	store := loadGenreStore(paths)
-	artist, ok := store.Artists[strings.TrimSpace(*slug)]
+	resolvedSlug := genres.CanonicalArtistSlug(store, strings.TrimSpace(*slug))
+	artist, ok := store.Artists[resolvedSlug]
 	if !ok {
 		fmt.Fprintf(os.Stderr, "artist slug not found in canonical store: %s\n", strings.TrimSpace(*slug))
 		os.Exit(1)
@@ -1386,8 +1387,8 @@ func runWikipediaEnrichArtist(args []string, paths runtimePaths) {
 		fmt.Fprintln(os.Stderr, "artist mapping error:", err)
 		os.Exit(1)
 	}
-	seed := mapping[strings.TrimSpace(*slug)]
-	seed.CanonicalSlug = strings.TrimSpace(*slug)
+	seed := mapping[resolvedSlug]
+	seed.CanonicalSlug = resolvedSlug
 	if strings.TrimSpace(seed.Name) == "" {
 		seed.Name = artist.Name
 	}

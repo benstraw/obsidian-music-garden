@@ -41,10 +41,13 @@ func TestMerge_prefersRicherDuplicate(t *testing.T) {
 			ArtistName:       "Artist A",
 			ArtistSpotifyURL: "https://open.spotify.com/artist/artist-1",
 			ReleaseSlug:      "artist-a--album-a",
-			AlbumID:          "album-1",
-			AlbumName:        "Album A",
-			DurationMS:       123000,
-			TrackSpotifyURL:  "https://open.spotify.com/track/track-1",
+			AdditionalArtists: []models.PlayArtist{
+				{ID: "artist-2", Name: "Artist B"},
+			},
+			AlbumID:         "album-1",
+			AlbumName:       "Album A",
+			DurationMS:      123000,
+			TrackSpotifyURL: "https://open.spotify.com/track/track-1",
 		},
 	}
 
@@ -54,6 +57,9 @@ func TestMerge_prefersRicherDuplicate(t *testing.T) {
 	}
 	if result[0].AlbumID != "album-1" || result[0].ArtistSlug != "artist-a" || result[0].TrackSlug != "artist-a--track-a" {
 		t.Fatalf("expected richer duplicate merge, got %+v", result[0])
+	}
+	if len(result[0].AdditionalArtists) != 1 {
+		t.Fatalf("expected richer duplicate merge for artist slices, got %+v", result[0])
 	}
 }
 

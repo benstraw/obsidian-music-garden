@@ -109,6 +109,11 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistM
 	for _, p := range weekPlays {
 		uniqueTracks[p.TrackName+"|"+p.ArtistName] = true
 		uniqueArtists[p.ArtistName] = true
+		for _, artist := range p.AdditionalArtists {
+			if strings.TrimSpace(artist.Name) != "" {
+				uniqueArtists[artist.Name] = true
+			}
+		}
 		if p.AlbumName != "" {
 			uniqueAlbums[p.AlbumName] = true
 		}
@@ -347,6 +352,11 @@ func RenderDaily(plays []models.Play, date time.Time, vaultPath string, artistMe
 	for _, p := range dayPlays {
 		uniqueTracks[p.TrackName+"|"+p.ArtistName] = true
 		uniqueArtists[p.ArtistName] = true
+		for _, artist := range p.AdditionalArtists {
+			if strings.TrimSpace(artist.Name) != "" {
+				uniqueArtists[artist.Name] = true
+			}
+		}
 		if p.AlbumName != "" {
 			uniqueAlbums[p.AlbumName] = true
 		}

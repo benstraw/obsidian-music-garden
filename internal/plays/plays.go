@@ -77,6 +77,7 @@ func mergePlay(existing, incoming models.Play) models.Play {
 	merged.ArtistName = firstNonEmpty(existing.ArtistName, incoming.ArtistName)
 	merged.ArtistSpotifyURL = firstNonEmpty(existing.ArtistSpotifyURL, incoming.ArtistSpotifyURL)
 	merged.ArtistMusicBrainzID = firstNonEmpty(existing.ArtistMusicBrainzID, incoming.ArtistMusicBrainzID)
+	merged.AdditionalArtists = mergePlayArtists(existing.AdditionalArtists, incoming.AdditionalArtists)
 	merged.ReleaseSlug = firstNonEmpty(existing.ReleaseSlug, incoming.ReleaseSlug)
 	merged.AlbumID = firstNonEmpty(existing.AlbumID, incoming.AlbumID)
 	merged.AlbumName = firstNonEmpty(existing.AlbumName, incoming.AlbumName)
@@ -87,6 +88,22 @@ func mergePlay(existing, incoming models.Play) models.Play {
 	}
 	merged.TrackSpotifyURL = firstNonEmpty(existing.TrackSpotifyURL, incoming.TrackSpotifyURL)
 	return merged
+}
+
+func mergePlayArtists(existing, incoming []models.PlayArtist) []models.PlayArtist {
+	if len(existing) == 0 && len(incoming) == 0 {
+		return nil
+	}
+	if len(existing) == 0 {
+		return append([]models.PlayArtist(nil), incoming...)
+	}
+	if len(incoming) == 0 {
+		return append([]models.PlayArtist(nil), existing...)
+	}
+	if len(incoming) > len(existing) {
+		return append([]models.PlayArtist(nil), incoming...)
+	}
+	return append([]models.PlayArtist(nil), existing...)
 }
 
 func firstNonEmpty(values ...string) string {

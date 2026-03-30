@@ -281,6 +281,32 @@ func TestRenderWeekly_withPlays(t *testing.T) {
 	}
 }
 
+func TestRenderWeekly_includesAdditionalArtistsInRotation(t *testing.T) {
+	dir := t.TempDir()
+	date := time.Date(2026, 2, 18, 0, 0, 0, 0, time.UTC)
+
+	plays := []models.Play{
+		{
+			PlayedAt:   "2026-02-18T12:00:00Z",
+			TrackName:  "My Song",
+			ArtistName: "Primary Artist",
+			AdditionalArtists: []models.PlayArtist{
+				{Name: "Featured Artist"},
+			},
+			AlbumName:  "My Album",
+			DurationMS: 200000,
+		},
+	}
+
+	content, err := RenderWeekly(plays, date, dir, nil)
+	if err != nil {
+		t.Fatalf("RenderWeekly: %v", err)
+	}
+	if !strings.Contains(content, "[[Featured Artist]]") {
+		t.Fatalf("expected featured artist in rotation, got:\n%s", content)
+	}
+}
+
 func TestRenderGenrePage(t *testing.T) {
 	dir := t.TempDir()
 	tmplPath := filepath.Join(dir, "genre.md.tmpl")
@@ -340,7 +366,7 @@ title: {{ .Title }}
 		t.Fatalf("WriteFile template: %v", err)
 	}
 	records := []datalayer.AggregatedGenreRecord{
-		{CanonicalSlug: "acid-jazz", DisplayTitle: "Acid Jazz", Summary: "A jazz-funk fusion style."},
+		{CanonicalSlug: "acid-jazz", DisplayTitle: "Acid Jazz", Summary: "A jazz-funk fusion style.", WorkflowState: "publishable"},
 	}
 	updated, unchanged, skipped, err := WriteGenrePages(records, outDir, tmplPath, nil)
 	if err != nil {
@@ -362,6 +388,39 @@ title: {{ .Title }}
 	}
 	if !strings.Contains(string(data), "# Acid Jazz") {
 		t.Fatalf("unexpected output: %s", string(data))
+	}
+}
+
+func TestWriteGenrePages_skipsDraftUnlessSelected(t *testing.T) {
+	dir := t.TempDir()
+	outDir := filepath.Join(dir, "content", "genres")
+	tmplPath := filepath.Join(dir, "genre.md.tmpl")
+	template := `---
+title: {{ .Title }}
+---
+# {{ .Title }}`
+	if err := os.WriteFile(tmplPath, []byte(template), 0644); err != nil {
+		t.Fatalf("WriteFile template: %v", err)
+	}
+
+	records := []datalayer.AggregatedGenreRecord{
+		{CanonicalSlug: "draft-genre", DisplayTitle: "Draft Genre", WorkflowState: "draft"},
+	}
+	updated, unchanged, skipped, err := WriteGenrePages(records, outDir, tmplPath, nil)
+	if err != nil {
+		t.Fatalf("WriteGenrePages draft: %v", err)
+	}
+	if updated != 0 || unchanged != 0 || skipped != 1 {
+		t.Fatalf("draft WriteGenrePages = updated %d unchanged %d skipped %d", updated, unchanged, skipped)
+	}
+
+	selected := map[string]bool{"draft-genre": true}
+	updated, unchanged, skipped, err = WriteGenrePages(records, outDir, tmplPath, selected)
+	if err != nil {
+		t.Fatalf("WriteGenrePages selected draft: %v", err)
+	}
+	if updated != 1 || unchanged != 0 || skipped != 0 {
+		t.Fatalf("selected draft WriteGenrePages = updated %d unchanged %d skipped %d", updated, unchanged, skipped)
 	}
 }
 

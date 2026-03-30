@@ -10,6 +10,7 @@ import (
 	"text/template"
 
 	"github.com/benstraw/music-garden/internal/datalayer"
+	"github.com/benstraw/music-garden/internal/genres"
 )
 
 type genrePageLink struct {
@@ -91,7 +92,7 @@ func RenderGenrePage(record datalayer.AggregatedGenreRecord, all []datalayer.Agg
 }
 
 // WriteGenrePages renders aggregated genre records into outDir. It returns counts
-// for updated, unchanged, and skipped (pending) files.
+// for updated, unchanged, and skipped files.
 func WriteGenrePages(records []datalayer.AggregatedGenreRecord, outDir, tmplPath string, selected map[string]bool) (int, int, int, error) {
 	if err := os.MkdirAll(outDir, 0755); err != nil {
 		return 0, 0, 0, err
@@ -103,8 +104,8 @@ func WriteGenrePages(records []datalayer.AggregatedGenreRecord, outDir, tmplPath
 		if len(selected) > 0 && !selected[record.CanonicalSlug] {
 			continue
 		}
-		// Skip pending (uncurated) genres unless explicitly selected by slug.
-		if record.Pending && !selected[record.CanonicalSlug] {
+		// Skip non-publishable genres unless explicitly selected by slug.
+		if (record.Pending || strings.TrimSpace(record.WorkflowState) != genres.WorkflowStatePublishable) && !selected[record.CanonicalSlug] {
 			skipped++
 			continue
 		}

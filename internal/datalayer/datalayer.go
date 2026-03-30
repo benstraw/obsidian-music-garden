@@ -936,7 +936,7 @@ func knownGenreSlugs(store *genres.Store) []string {
 
 func artistRecordForPlay(store *genres.Store, play models.Play) (genres.ArtistRecord, bool) {
 	if play.ArtistSlug != "" {
-		record, ok := store.Artists[play.ArtistSlug]
+		record, ok := store.Artists[genres.CanonicalArtistSlug(store, play.ArtistSlug)]
 		if ok {
 			return record, true
 		}

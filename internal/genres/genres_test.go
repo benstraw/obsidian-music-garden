@@ -111,6 +111,45 @@ func TestSave_indented(t *testing.T) {
 	}
 }
 
+func TestGenreWorkflowState_defaultsToDraft(t *testing.T) {
+	record := GenreRecord{Slug: "indie-rock"}
+	if got := GenreWorkflowState(record); got != WorkflowStateDraft {
+		t.Fatalf("GenreWorkflowState = %q, want %q", got, WorkflowStateDraft)
+	}
+}
+
+func TestSetGenreWorkflowState_createsMinimalRecord(t *testing.T) {
+	store := NewStore()
+	record := SetGenreWorkflowState(store, "indie-rock", "Indie Rock", WorkflowStatePublishable)
+	if record.Slug != "indie-rock" {
+		t.Fatalf("Slug = %q", record.Slug)
+	}
+	if record.DisplayName != "Indie Rock" {
+		t.Fatalf("DisplayName = %q", record.DisplayName)
+	}
+	if record.WorkflowState != WorkflowStatePublishable {
+		t.Fatalf("WorkflowState = %q", record.WorkflowState)
+	}
+}
+
+func TestUpsertGenreEditorial_preservesPublishableStateOnEnrichment(t *testing.T) {
+	store := NewStore()
+	// Promote genre to publishable.
+	SetGenreWorkflowState(store, "hip-hop", "Hip-Hop", WorkflowStatePublishable)
+	// Simulate enrichment: record has no workflow_state set (as NormalizeMatchedGenre produces).
+	enrichRecord := GenreRecord{
+		Slug:           "hip-hop",
+		WikipediaTitle: "Hip-hop",
+		WikipediaURL:   "https://en.wikipedia.org/wiki/Hip-hop",
+		Summary:        "Hip-hop is a genre.",
+		Status:         "matched",
+	}
+	result := UpsertGenreEditorial(store, enrichRecord)
+	if result.WorkflowState != WorkflowStatePublishable {
+		t.Fatalf("UpsertGenreEditorial reset workflow_state to %q; want %q", result.WorkflowState, WorkflowStatePublishable)
+	}
+}
+
 func TestUpdate(t *testing.T) {
 	store := NewStore()
 	applyTestTaxonomy(store)
@@ -130,6 +169,34 @@ func TestUpdate(t *testing.T) {
 	}
 }
 
+func TestUpdate_mergesSourceGenresAcrossUpdates(t *testing.T) {
+	store := NewStore()
+	applyTestTaxonomy(store)
+
+	Update(store, "id1", "Artist One", "", []string{"rock"}, nil)
+	record := Update(store, "id1", "Artist One", "", []string{"indie rock"}, nil)
+
+	if len(record.SourceGenres) != 2 {
+		t.Fatalf("SourceGenres = %v", record.SourceGenres)
+	}
+	if len(record.Genres) != 2 || record.Genres[0] != "indie-rock" || record.Genres[1] != "rock" {
+		t.Fatalf("Genres = %v", record.Genres)
+	}
+}
+
+func TestCanonicalArtistSlug_resolvesLegacyAlias(t *testing.T) {
+	store := NewStore()
+	Update(store, "id1", "R.E.M.", "", nil, nil)
+	SetArtistSlugAlias(store, "rem", "r-e-m")
+
+	if got := CanonicalArtistSlug(store, "rem"); got != "r-e-m" {
+		t.Fatalf("CanonicalArtistSlug(rem) = %q", got)
+	}
+	if got := CanonicalArtistSlug(store, "r-e-m"); got != "r-e-m" {
+		t.Fatalf("CanonicalArtistSlug(r-e-m) = %q", got)
+	}
+}
+
 func TestResolvePlay_addsCanonicalIDs(t *testing.T) {
 	store := NewStore()
 	applyTestTaxonomy(store)
@@ -140,8 +207,11 @@ func TestResolvePlay_addsCanonicalIDs(t *testing.T) {
 		ArtistID:         "artist1",
 		ArtistName:       "Artist One",
 		ArtistSpotifyURL: "https://open.spotify.com/artist/artist1",
-		AlbumID:          "album1",
-		AlbumName:        "Album One",
+		AdditionalArtists: []models.PlayArtist{
+			{ID: "artist2", Name: "Artist Two", SpotifyURL: "https://open.spotify.com/artist/artist2"},
+		},
+		AlbumID:   "album1",
+		AlbumName: "Album One",
 	})
 
 	if play.ArtistSlug != "artist-one" {
@@ -152,6 +222,9 @@ func TestResolvePlay_addsCanonicalIDs(t *testing.T) {
 	}
 	if play.TrackSlug != "artist-one--song" {
 		t.Fatalf("TrackSlug = %q", play.TrackSlug)
+	}
+	if _, ok := store.Artists["artist-two"]; !ok {
+		t.Fatalf("expected additional artist to be ensured, store=%v", store.Artists)
 	}
 }
 
@@ -240,18 +313,26 @@ func TestUncachedArtistIDs(t *testing.T) {
 	applyTestTaxonomy(store)
 	Update(store, "a1", "Cached", "", []string{"rock"}, nil)
 	plays := []models.Play{
-		{ArtistID: "a1", ArtistName: "Cached"},
+		{
+			ArtistID:   "a1",
+			ArtistName: "Cached",
+			AdditionalArtists: []models.PlayArtist{
+				{ID: "a3", Name: "New2"},
+			},
+		},
 		{ArtistID: "a2", ArtistName: "New1"},
-		{ArtistID: "a3", ArtistName: "New2"},
 		{ArtistID: "a2", ArtistName: "New1"},
-		{ArtistID: "", ArtistName: "Empty"},
+		{ArtistID: "", ArtistName: "Empty", AdditionalArtists: []models.PlayArtist{{ID: "a5", Name: "New4"}}},
 	}
 
 	ids := UncachedArtistIDs(store, plays)
-	if len(ids) != 2 {
-		t.Fatalf("expected 2 uncached IDs, got %d: %v", len(ids), ids)
+	if len(ids) != 3 {
+		t.Fatalf("expected 3 uncached IDs, got %d: %v", len(ids), ids)
 	}
-	if ids[0] != "a2" || ids[1] != "a3" {
-		t.Errorf("ids = %v, want [a2, a3]", ids)
+	want := []string{"a2", "a3", "a5"}
+	for i, id := range want {
+		if ids[i] != id {
+			t.Fatalf("ids = %v, want %v", ids, want)
+		}
 	}
 }
