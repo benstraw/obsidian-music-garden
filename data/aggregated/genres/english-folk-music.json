@@ -1,0 +1,117 @@
+{
+  "canonical_slug": "english-folk-music",
+  "display_title": "English Folk Music",
+  "display_name": "English Folk Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "English folk music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/English_folk_music",
+  "summary": "The folk music of England is a tradition-based music which has existed since the later medieval period. It is often contrasted with courtly, classical and later commercial music. Folk music traditionally was preserved and passed on orally within communities, but print and subsequently audio recordings have since become the primary means of transmission. The term is used to refer both to English traditional music and music composed or delivered in a traditional style.",
+  "candidates": [
+    "English folk music",
+    "English folk music (1500–1899)",
+    "English folk music (1900–1949)",
+    "English folk music (1950–1959)",
+    "English folk music (1960–1969)",
+    "English folk music (1970–1979)",
+    "English folk music (1980–1989)",
+    "English folk music (1990–1999)",
+    "English folk music (2000–2009)",
+    "English rock music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "English folk music",
+    "page_url": "https://en.wikipedia.org/wiki/English_folk_music",
+    "retrieved_at": "2026-03-28T15:55:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Billy Purvis (1784-1853).JPG"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Billy Purvis (1784-1853).JPG"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cambridge2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cambridge2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cambridge2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cambridge2008.jpg",
+      "width": 500,
+      "height": 333,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "twak"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Capstan.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Capstan.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Capstan.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Capstan.jpg",
+      "width": 750,
+      "height": 948,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cecil James Sharp (1916, full).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cecil_James_Sharp_(1916,_full).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cecil_James_Sharp_%281916%2C_full%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cecil_James_Sharp_%281916%2C_full%29.jpg/960px-Cecil_James_Sharp_%281916%2C_full%29.jpg",
+      "width": 1112,
+      "height": 1689,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DSCN1809-eliza-carthy crop 500x700.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DSCN1809-eliza-carthy_crop_500x700.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/DSCN1809-eliza-carthy_crop_500x700.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/DSCN1809-eliza-carthy_crop_500x700.jpg",
+      "width": 500,
+      "height": 700,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:William_M._Connolley\" class=\"extiw\" title=\"wikipedia:User:William M. Connolley\"\u003eWilliam M. Connolley\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--english-folk-music.json",
+      "url": "https://en.wikipedia.org/wiki/English_folk_music",
+      "retrieved_at": "2026-03-28T15:55:31Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--english-folk-music.json",
+      "url": "https://en.wikipedia.org/wiki/English_folk_music",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

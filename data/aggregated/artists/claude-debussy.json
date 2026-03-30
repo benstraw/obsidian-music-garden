@@ -1,0 +1,107 @@
+{
+  "canonical_slug": "claude-debussy",
+  "name": "Claude Debussy",
+  "play_count": 51,
+  "spotify_artist_id": "1Uff91EOsvd99rtAupatMP",
+  "musicbrainz_artist_id": "be50643c-0377-4968-b48c-47e06b2e2a3b",
+  "spotify_url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5e1155c852578ddf5d2cfea94ccb3a8a65efa882",
+      "height": 458,
+      "width": 387
+    },
+    {
+      "url": "https://i.scdn.co/image/d9bf00a7a314028df902da1d026a9844a3365d61",
+      "height": 237,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/155965c396369f20273bc6ba6a14f4185ffad805",
+      "height": 76,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Claude Debussy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Debussy",
+  "summary": "Achille Claude Debussy was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.",
+  "candidates": [
+    "Claude Debussy",
+    "Claude de Husson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Claude Debussy",
+    "page_url": "https://en.wikipedia.org/wiki/Claude_Debussy",
+    "retrieved_at": "2026-03-28T10:38:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:COLLECTIE TROPENMUSEUM Gamelanorkest TMnr 60043216.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Gamelanorkest_TMnr_60043216.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/COLLECTIE_TROPENMUSEUM_Gamelanorkest_TMnr_60043216.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/COLLECTIE_TROPENMUSEUM_Gamelanorkest_TMnr_60043216.jpg",
+      "width": 700,
+      "height": 562,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "H. Salzwedel (Fotograaf/photographer).",
+      "attribution_text": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.wereldmuseum.nl\"\u003eCollectie Wereldmuseum (v/h Tropenmuseum), part of the National Museum of World Cultures\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chords from dialogue with Ernest Guiraud.wav",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chords_from_dialogue_with_Ernest_Guiraud.wav",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chords_from_dialogue_with_Ernest_Guiraud.wav",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Spencerpiers\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Spencerpiers (page does not exist)\"\u003eSpencerpiers\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clair de lune (Claude Debussy) Suite bergamasque.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Clair_de_lune_%28Claude_Debussy%29_Suite_bergamasque.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Claude_Debussy\" class=\"extiw\" title=\"w:en:Claude Debussy\"\u003e\u003cspan title=\"French classical composer (1862–1918)\"\u003eClaude Debussy\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Claude Debussy - Deuxième Arabesque - Patrizia Prati.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_-_Deuxi%C3%A8me_Arabesque_-_Patrizia_Prati.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Claude_Debussy_-_Deuxi%C3%A8me_Arabesque_-_Patrizia_Prati.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Claude_Debussy\" class=\"extiw\" title=\"w:en:Claude Debussy\"\u003e\u003cspan title=\"French classical composer (1862–1918)\"\u003eClaude Debussy\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -4,6 +4,9 @@
   "name": "Make Me Down A Pallet On Your Floor",
   "primary_artist_name": "Piers Faccini",
   "primary_artist_canonical_slug": "piers-faccini",
+  "additional_artist_slugs": [
+    "blick-bassy"
+  ],
   "release_name": "Mother Time",
   "release_canonical_slug": "piers-faccini--mother-time",
   "spotify_url": "https://open.spotify.com/track/7d4EdeEqTrWEohIb30UoL5"

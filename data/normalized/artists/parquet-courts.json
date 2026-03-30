@@ -1,0 +1,64 @@
+{
+  "source": "spotify",
+  "source_artist_id": "23NIwARd4vPbxt3wwNnJ6k",
+  "name": "Parquet Courts",
+  "spotify_url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k",
+  "musicbrainz_artist_id": "e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c",
+  "source_genres": [
+    "indie rock"
+  ],
+  "canonical_genre_slugs": [
+    "indie-rock"
+  ],
+  "status": "matched",
+  "page_title": "Parquet Courts",
+  "summary": "Parquet Courts is an American rock band from New York City. The band consists of Andrew Savage, Austin Brown, Sean Yeaton, and Max Savage (drums).",
+  "canonical_url": "https://en.wikipedia.org/wiki/Parquet_Courts",
+  "candidates": [
+    "Parquet Courts"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Parquet Courts",
+    "page_url": "https://en.wikipedia.org/wiki/Parquet_Courts",
+    "retrieved_at": "2026-03-28T10:41:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Parquet Courts 2016 (2).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Parquet_Courts_2016_(2).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Parquet_Courts_2016_%282%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parquet_Courts_2016_%282%29.jpg/960px-Parquet_Courts_2016_%282%29.jpg",
+    "width": 3994,
+    "height": 1851,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ZurichIsStained\" title=\"User:ZurichIsStained\"\u003eZurichIsStained\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Parquet Courts 2016 (2).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Parquet_Courts_2016_(2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Parquet_Courts_2016_%282%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parquet_Courts_2016_%282%29.jpg/960px-Parquet_Courts_2016_%282%29.jpg",
+      "width": 3994,
+      "height": 1851,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ZurichIsStained\" title=\"User:ZurichIsStained\"\u003eZurichIsStained\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Parquet Courts at Solid Sound Festival (North Adams MA), 27 June 2015.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Parquet_Courts_at_Solid_Sound_Festival_(North_Adams_MA),_27_June_2015.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Parquet_Courts_at_Solid_Sound_Festival_%28North_Adams_MA%29%2C_27_June_2015.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Parquet_Courts_at_Solid_Sound_Festival_%28North_Adams_MA%29%2C_27_June_2015.jpg/960px-Parquet_Courts_at_Solid_Sound_Festival_%28North_Adams_MA%29%2C_27_June_2015.jpg",
+      "width": 2730,
+      "height": 1536,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Danielil\" title=\"User:Danielil\"\u003eDanielil\u003c/a\u003e"
+    }
+  ]
+}

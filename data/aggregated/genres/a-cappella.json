@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "a-cappella",
+  "display_title": "A Cappella",
+  "display_name": "A Cappella",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "A cappella",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/A_cappella",
+  "summary": "Music performed a cappella, less commonly spelled a capella in English, is music performed by a singer or a singing group without instrumental accompaniment. The term a cappella was originally intended to differentiate between Renaissance polyphonic and Baroque concertato musical styles. In the 19th century, a renewed interest in Renaissance polyphony, coupled with an ignorance of the fact that vocal parts were often doubled by instrumentalists, led to the term coming to mean unaccompanied vocal music. The term is also used, rarely, as a synonym for alla breve.",
+  "candidates": [
+    "A Cappella (Gaither Vocal Band album)",
+    "A Cappella (Todd Rundgren album)",
+    "A Cappella Live",
+    "A Cappella Records",
+    "A cappella",
+    "A cappella (disambiguation)",
+    "A'Cappella ExpreSSS",
+    "Acappella (group)",
+    "Acappella Vocal Band",
+    "The Acappella Swingers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "A cappella",
+    "page_url": "https://en.wikipedia.org/wiki/A_cappella",
+    "retrieved_at": "2026-03-28T15:52:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Oxfordalternotives.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Oxfordalternotives.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Oxfordalternotives.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oxfordalternotives.jpg/960px-Oxfordalternotives.jpg",
+    "width": 1000,
+    "height": 695,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Catherine Manning"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Oxfordalternotives.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Oxfordalternotives.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Oxfordalternotives.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oxfordalternotives.jpg/960px-Oxfordalternotives.jpg",
+      "width": 1000,
+      "height": 695,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Catherine Manning"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Roskilde Cathedrals Boys Choir.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Roskilde_Cathedrals_Boys_Choir.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Roskilde_Cathedrals_Boys_Choir.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Roskilde_Cathedrals_Boys_Choir.jpg/960px-Roskilde_Cathedrals_Boys_Choir.jpg",
+      "width": 2272,
+      "height": 1704,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:Pardy\" title=\"User:Pardy\"\u003ePardy\u003c/a\u003e assumed (based on copyright claims)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Hullabahoos.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Hullabahoos.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Hullabahoos.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Hullabahoos.jpg/960px-The_Hullabahoos.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:TheFabian\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:TheFabian (page does not exist)\"\u003eTheFabian\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:University of Exeter's Sweet Nothings.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:University_of_Exeter%27s_Sweet_Nothings.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/University_of_Exeter%27s_Sweet_Nothings.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/University_of_Exeter%27s_Sweet_Nothings.jpg",
+      "width": 803,
+      "height": 640,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Exetersweetnothings\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Exetersweetnothings (page does not exist)\"\u003eExetersweetnothings\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--a-cappella.json",
+      "url": "https://en.wikipedia.org/wiki/A_cappella",
+      "retrieved_at": "2026-03-28T15:52:37Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--a-cappella.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Oxfordalternotives.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

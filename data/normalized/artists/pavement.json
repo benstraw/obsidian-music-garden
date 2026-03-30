@@ -1,0 +1,31 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3inCNiUr4R6XQ3W43s9Aqi",
+  "name": "Pavement",
+  "spotify_url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi",
+  "musicbrainz_artist_id": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+  "source_genres": [
+    "alternative rock",
+    "indie rock",
+    "lo-fi",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "indie-rock",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Pavement",
+    "Pavement (band)",
+    "Pavement (magazine)",
+    "Pavement condition index",
+    "Pavement discography",
+    "Pavement dwellers",
+    "Pavement light",
+    "Pavement management",
+    "Pavement milling",
+    "Pavements (film)"
+  ]
+}

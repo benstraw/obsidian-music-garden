@@ -1,0 +1,22 @@
+{
+  "source": "spotify",
+  "source_artist_id": "23G1DjI5kQBbjOaLbUONgK",
+  "name": "Steven Osborne",
+  "spotify_url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK",
+  "musicbrainz_artist_id": "2d97aec4-f9bf-4d62-853e-5aafa77e3da0",
+  "source_genres": [
+    "british pianist",
+    "pianist",
+    "piano"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Stephen Osborne",
+    "Stephen Osborne (athlete)",
+    "Stephen Osborne (writer)",
+    "Steve Osborn",
+    "Steve Osborne",
+    "Steve Osborne (footballer)",
+    "Steven Osborne (pianist)"
+  ]
+}

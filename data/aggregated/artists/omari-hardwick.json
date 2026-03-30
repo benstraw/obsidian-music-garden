@@ -1,7 +1,9 @@
 {
   "canonical_slug": "omari-hardwick",
   "name": "Omari Hardwick",
+  "play_count": 1,
   "spotify_artist_id": "42G5kgQURgn9sOZHtOdji5",
+  "musicbrainz_artist_id": "eab48264-aef5-4220-bce2-f1ff1050663c",
   "spotify_url": "https://open.spotify.com/artist/42G5kgQURgn9sOZHtOdji5",
   "genres": [
     "spoken-word"
@@ -99,5 +101,5 @@
       "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Terri_Sewell\" class=\"extiw\" title=\"w:en:Terri Sewell\"\u003e\u003cspan title=\"American politician (born 1965)\"\u003eTerri Sewell\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

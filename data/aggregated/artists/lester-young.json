@@ -1,0 +1,117 @@
+{
+  "canonical_slug": "lester-young",
+  "name": "Lester Young",
+  "play_count": 4,
+  "spotify_artist_id": "05E3NBxNMdnrPtxF9oraJm",
+  "musicbrainz_artist_id": "d613e4ae-093a-49a1-b06a-579480f7f7e8",
+  "spotify_url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm",
+  "genres": [
+    "cool-jazz",
+    "jazz"
+  ],
+  "source_genres": [
+    "cool jazz",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/59f160b9b2e5803e766188270977f15af20f8bf1",
+      "height": 862,
+      "width": 688
+    },
+    {
+      "url": "https://i.scdn.co/image/bc898aaca97929afde931e8c2128268864575860",
+      "height": 802,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/91410a93926a683ab7729d4689f06bbaa50c752b",
+      "height": 251,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/46cc83ad5edd39797bdbe81ad71a6f8aefd03139",
+      "height": 80,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Lester Young",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lester_Young",
+  "summary": "Lester Willis Young, nicknamed \"Pres\" or \"Prez\", was an American jazz tenor saxophonist and occasional clarinetist.",
+  "candidates": [
+    "Lester (Yu-Gi-Oh! 5D's)",
+    "Lester Ong",
+    "Lester Wong",
+    "Lester Young",
+    "Lester Young Trio",
+    "Lester Young with the Oscar Peterson Trio",
+    "Letter to Yi Ŭngt'ae",
+    "Letters to a Young Poet",
+    "Mount Lester",
+    "The Lester Young Buddy Rich Trio"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lester Young",
+    "page_url": "https://en.wikipedia.org/wiki/Lester_Young",
+    "retrieved_at": "2026-03-28T10:40:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:GClef.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+    "width": 15,
+    "height": 41,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lester-Young-LIFE-1944.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lester-Young-LIFE-1944.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lester-Young-LIFE-1944.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lester-Young-LIFE-1944.jpg",
+      "width": 839,
+      "height": 992,
+      "license": "Public domain",
+      "author": "Photograph by Ojon Mili. Time Inc."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lester Young (Gottlieb 09431).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lester_Young_(Gottlieb_09431).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lester_Young_%28Gottlieb_09431%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lester_Young_%28Gottlieb_09431%29.jpg",
+      "width": 808,
+      "height": 948,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

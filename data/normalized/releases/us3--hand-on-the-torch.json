@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3lOv4MWFZGIJmHdyMXtlB5",
   "name": "Hand On The Torch",
   "primary_artist_name": "Us3",
-  "primary_artist_canonical_slug": "us3"
+  "primary_artist_canonical_slug": "us3",
+  "musicbrainz_release_id": "cac45e5d-008f-31ac-a9a2-8d8c2f4c22f2",
+  "musicbrainz_release_group_id": "8ed94489-830c-3a86-9772-f9a84354ff43"
 }

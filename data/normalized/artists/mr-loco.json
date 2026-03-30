@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5ypYTHXIPm06kz4ZYuCh5W",
+  "name": "Mr. Loco",
+  "spotify_url": "https://open.spotify.com/artist/5ypYTHXIPm06kz4ZYuCh5W",
+  "musicbrainz_artist_id": "477cab43-296f-4924-91d0-2c739fcc2d8b",
+  "status": "matched",
+  "page_title": "Mister Loco",
+  "summary": "Mr. Loco, also known as Mister Loco or Mr. Loco Band, is a Mexican band formed in 1975. They sing mostly in English and occasionally in Spanish. Their sound is a combination of pop rock and Latin American folk.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Mister_Loco",
+  "candidates": [
+    "Mr Locomotive",
+    "Mr. Lobo",
+    "Mr. Local",
+    "Mr. Loco",
+    "Mr. Loverman",
+    "Mr. Moto",
+    "Mr. Nobody (film)",
+    "Mr. Osomatsu",
+    "Mr. Robot",
+    "Mr. Roboto"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mister Loco",
+    "page_url": "https://en.wikipedia.org/wiki/Mister_Loco",
+    "retrieved_at": "2026-03-28T10:41:24Z"
+  }
+}

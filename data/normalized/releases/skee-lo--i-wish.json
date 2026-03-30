@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "34hLOvajp6WQOGlt6CNLSA",
   "name": "I Wish",
-  "primary_artist_name": "Skee-Lo",
-  "primary_artist_canonical_slug": "skee-lo"
+  "primary_artist_name": "Skee‐Lo",
+  "primary_artist_canonical_slug": "skee-lo",
+  "musicbrainz_release_id": "1d2473f7-fd17-4158-b3da-623ee764cd2b",
+  "musicbrainz_release_group_id": "b4080c1f-c374-380b-ba71-7e49149f6b3e"
 }

@@ -1,0 +1,50 @@
+{
+  "canonical_slug": "john-mclaughlin",
+  "name": "John McLaughlin",
+  "play_count": 32,
+  "spotify_artist_id": "4v0R1feRiuCDch7aAheVhY",
+  "musicbrainz_artist_id": "fcbc2086-5863-4659-b03d-44be704697d2",
+  "spotify_url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c06085d94014b60eb957692f0",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2206085d94014b60eb957692f0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac306085d94014b60eb957692f0",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7406085d94014b60eb957692f0",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "John McLaughlin",
+    "John McLaughlin (American football)",
+    "John McLaughlin (artist)",
+    "John McLaughlin (footballer, born 1948)",
+    "John McLaughlin (footballer, born 1952)",
+    "John McLaughlin (host)",
+    "John McLaughlin (musician)",
+    "John McLaughlin (pollster)",
+    "John McLaughlin Williams",
+    "John McLaughlin discography"
+  ],
+  "last_updated": "2026-03-30"
+}

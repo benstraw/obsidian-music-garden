@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "spoonbeats",
+  "name": "SpoonBeats",
+  "play_count": 4,
+  "spotify_artist_id": "4oEls8QwyhaJninX4RFdcl",
+  "musicbrainz_artist_id": "be75af01-0f72-4ff1-9370-7760379f1ff3",
+  "spotify_url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb24de39960c6533f329acca7d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517424de39960c6533f329acca7d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17824de39960c6533f329acca7d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Spoon beak",
+    "Spoon boat",
+    "Spoonbean",
+    "Spoonhead sculpin",
+    "Spoonheads",
+    "Spoonleaf Sundew"
+  ],
+  "last_updated": "2026-03-28"
+}

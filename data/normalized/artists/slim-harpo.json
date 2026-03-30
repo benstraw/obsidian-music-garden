@@ -1,0 +1,38 @@
+{
+  "source": "spotify",
+  "source_artist_id": "36hwOoNPgnsKnhoMBYpJrJ",
+  "name": "Slim Harpo",
+  "spotify_url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ",
+  "musicbrainz_artist_id": "dcf7b2e3-d3aa-41e4-bba5-40515122f209",
+  "source_genres": [
+    "255"
+  ],
+  "status": "matched",
+  "page_title": "Slim Harpo",
+  "summary": "Slim Harpo was an American blues musician, a leading exponent of the swamp blues style, and \"one of the most commercially successful blues artists of his day\". He played guitar and was a master of the blues harmonica, known in blues circles as a \"harp\". His most successful and influential recordings included \"I'm a King Bee\" (1957), \"Rainin' in My Heart\" (1961), and \"Baby Scratch My Back\" (1966), which reached number one on Billboard's R\u0026B chart and number 16 on its broader Hot 100 singles chart.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Slim_Harpo",
+  "candidates": [
+    "Carlos Slim",
+    "Selim Haroun Nzé",
+    "Slim Aarons",
+    "Slim Harpo",
+    "Slim Harrell",
+    "Slim Harriss"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Slim Harpo",
+    "page_url": "https://en.wikipedia.org/wiki/Slim_Harpo",
+    "retrieved_at": "2026-03-28T10:42:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Slim Harpo.jpeg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Slim Harpo.jpeg"
+    }
+  ]
+}

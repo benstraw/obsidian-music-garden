@@ -1,0 +1,78 @@
+{
+  "canonical_slug": "bandleader",
+  "display_title": "Bandleader",
+  "display_name": "Bandleader",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Bandleader",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bandleader",
+  "summary": "A bandleader is the leader of a music group such as a dance band, rock or pop band or jazz quartet. The term is most commonly used with a group that plays popular music as a small combo or a big band, such as one which plays jazz, blues, rhythm and blues or rock and roll music. Most bandleaders are also performers with their own band, either as singers or as instrumentalists, playing an instrument such as electric guitar, piano, or other instruments.",
+  "candidates": [
+    "Bandit Leader (novel)",
+    "Bandleader",
+    "Bay Leadership Academy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bandleader",
+    "page_url": "https://en.wikipedia.org/wiki/Bandleader",
+    "retrieved_at": "2026-03-28T15:53:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Glenn Miller Band.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Band.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Glenn_Miller_Band.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Glenn_Miller_Band.jpg/960px-Glenn_Miller_Band.jpg",
+    "width": 970,
+    "height": 768,
+    "license": "Public domain",
+    "author": "Unknown, 1940-1941"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glenn Miller Band.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Band.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Glenn_Miller_Band.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Glenn_Miller_Band.jpg/960px-Glenn_Miller_Band.jpg",
+      "width": 970,
+      "height": 768,
+      "license": "Public domain",
+      "author": "Unknown, 1940-1941"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bandleader.json",
+      "url": "https://en.wikipedia.org/wiki/Bandleader",
+      "retrieved_at": "2026-03-28T15:53:19Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--bandleader.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Glenn_Miller_Band.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

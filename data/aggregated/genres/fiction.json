@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "fiction",
+  "display_title": "Fiction",
+  "display_name": "Fiction",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Fiction",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fiction",
+  "summary": "Fiction is any creative work, chiefly any narrative work, portraying individuals, events, or places that are imaginary or in ways that are imaginary. Fictional portrayals are thus inconsistent with fact, history, or plausibility. In a traditional narrow sense, fiction refers to written narratives in prose – often specifically novels, novellas, and short stories. More broadly, however, fiction encompasses imaginary narratives expressed in any medium, including not just writings but also live theatrical performances, films, television programs, radio dramas, comics, role-playing games, and video games.",
+  "candidates": [
+    "Fiction",
+    "FictionJunction",
+    "Fictional planets of the Solar System",
+    "Fictional portrayals of psychopaths and sociopaths",
+    "Fictional universe of Avatar",
+    "Fictional universe of Harry Potter",
+    "Fictionalized portrayals of George W. Bush",
+    "List of fictional Native Americans",
+    "List of fictional asexual characters",
+    "List of fictional non-binary characters"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Fiction",
+    "page_url": "https://en.wikipedia.org/wiki/Fiction",
+    "retrieved_at": "2026-03-28T15:55:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alice par John Tenniel 25.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alice_par_John_Tenniel_25.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alice_par_John_Tenniel_25.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alice_par_John_Tenniel_25.png",
+    "width": 862,
+    "height": 658,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:John_Tenniel\" class=\"extiw\" title=\"w:en:John Tenniel\"\u003e\u003cspan title=\"British illustrator, graphic humorist and political cartoonist, very good friends with Spencer Bradshaw (1820-1914)\"\u003eJohn Tenniel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alice par John Tenniel 25.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alice_par_John_Tenniel_25.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alice_par_John_Tenniel_25.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Alice_par_John_Tenniel_25.png",
+      "width": 862,
+      "height": 658,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:John_Tenniel\" class=\"extiw\" title=\"w:en:John Tenniel\"\u003e\u003cspan title=\"British illustrator, graphic humorist and political cartoonist, very good friends with Spencer Bradshaw (1820-1914)\"\u003eJohn Tenniel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Books-aj.svg aj ashton 01.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Books-aj.svg_aj_ashton_01.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Books-aj.svg_aj_ashton_01.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Books-aj.svg_aj_ashton_01.png",
+      "width": 128,
+      "height": 128,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/AJ\"\u003eAJ\u003c/a\u003e on \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/\"\u003eopenclipart.org\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Books and Scroll Ornament with Open Book.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Books_and_Scroll_Ornament_with_Open_Book.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Books_and_Scroll_Ornament_with_Open_Book.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Books_and_Scroll_Ornament_with_Open_Book.png/960px-Books_and_Scroll_Ornament_with_Open_Book.png",
+      "width": 1016,
+      "height": 560,
+      "license": "Public domain",
+      "author": "\u003cspan lang=\"en\"\u003eAnonymous\u003c/span\u003e\u003cspan style=\"display:none\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dictator charlie3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dictator_charlie3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Dictator_charlie3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dictator_charlie3.jpg/960px-Dictator_charlie3.jpg",
+      "width": 1300,
+      "height": 975,
+      "license": "Public domain",
+      "author": "Trailer screenshot"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Harry Potter sculpture in Leicester Square (50725720988).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Harry_Potter_sculpture_in_Leicester_Square_(50725720988).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Harry_Potter_sculpture_in_Leicester_Square_%2850725720988%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Harry_Potter_sculpture_in_Leicester_Square_%2850725720988%29.jpg/960px-Harry_Potter_sculpture_in_Leicester_Square_%2850725720988%29.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/57868312@N00\"\u003eMatt Brown\u003c/a\u003e from London, England"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--fiction.json",
+      "url": "https://en.wikipedia.org/wiki/Fiction",
+      "retrieved_at": "2026-03-28T15:55:47Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--fiction.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Alice_par_John_Tenniel_25.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

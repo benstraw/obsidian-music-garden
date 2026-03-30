@@ -1,0 +1,97 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5fsDcuclIe8ZiBD5P787K1",
+  "name": "Stevie Ray Vaughan",
+  "spotify_url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1",
+  "musicbrainz_artist_id": "f5426431-f490-4678-ad44-a75c71097bb4",
+  "status": "matched",
+  "page_title": "Stevie Ray Vaughan",
+  "summary": "Stephen Ray Vaughan, also known abbreviated as SRV, was an American musician, best known as the guitarist and frontman of the blues rock trio Stevie Ray Vaughan and Double Trouble. Although his mainstream career spanned only seven years, he is considered one of the most influential musicians in the history of blues music, and one of the greatest guitarists of all time. He was the younger brother of guitarist Jimmie Vaughan.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan",
+  "candidates": [
+    "Stevie Ray Vaughan",
+    "Stevie Ray Vaughan Award",
+    "Stevie Ray Vaughan Memorial",
+    "Stevie Ray Vaughan Stratocaster",
+    "Stevie Ray Vaughan discography",
+    "Stevie Ray Vaughan live performances",
+    "Stevie Ray Vaughan's musical instruments"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stevie Ray Vaughan",
+    "page_url": "https://en.wikipedia.org/wiki/Stevie_Ray_Vaughan",
+    "retrieved_at": "2026-03-28T10:42:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of Texas.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Texas.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/960px-Flag_of_Texas.svg.png",
+    "width": 900,
+    "height": 600,
+    "license": "Public domain",
+    "author": "Paul B. Joiner"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Texas.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Texas.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Texas.svg/960px-Flag_of_Texas.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "Paul B. Joiner"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jim Hamilton custom Stevie Ray Vaughan reproduction.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jim_Hamilton_custom_Stevie_Ray_Vaughan_reproduction.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jim_Hamilton_custom_Stevie_Ray_Vaughan_reproduction.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jim_Hamilton_custom_Stevie_Ray_Vaughan_reproduction.jpg",
+      "width": 800,
+      "height": 407,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Monkeyleg\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Monkeyleg (page does not exist)\"\u003eMonkeyleg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jim Hamilton signature on rear of headstock.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jim_Hamilton_signature_on_rear_of_headstock.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jim_Hamilton_signature_on_rear_of_headstock.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jim_Hamilton_signature_on_rear_of_headstock.jpg/960px-Jim_Hamilton_signature_on_rear_of_headstock.jpg",
+      "width": 1000,
+      "height": 527,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Monkeyleg\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Monkeyleg (page does not exist)\"\u003eMonkeyleg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Robert Hodgen LaRue, Jr..jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Robert_Hodgen_LaRue,_Jr..jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Robert_Hodgen_LaRue%2C_Jr..jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Robert_Hodgen_LaRue%2C_Jr..jpg/960px-Robert_Hodgen_LaRue%2C_Jr..jpg",
+      "width": 1600,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stevie Ray Vaughan Live 1983.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stevie_Ray_Vaughan_Live_1983.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Stevie_Ray_Vaughan_Live_1983.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stevie_Ray_Vaughan_Live_1983.jpg/960px-Stevie_Ray_Vaughan_Live_1983.jpg",
+      "width": 999,
+      "height": 1372,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Bbadventure\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Bbadventure (page does not exist)\"\u003eBbadventure\u003c/a\u003e"
+    }
+  ]
+}

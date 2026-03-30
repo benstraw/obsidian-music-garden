@@ -6,7 +6,8 @@
   "aliases": [
     "alternative hip hop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Alternative hip-hop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_hip-hop",
@@ -84,42 +85,278 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-13T19:15:55.675Z",
+    "play_count": 32,
+    "unique_artist_count": 7,
+    "unique_release_count": 12,
+    "unique_track_count": 22,
+    "first_played_at": "2024-01-01T00:00:00.018586576Z",
     "last_played_at": "2026-03-13T19:15:55.675Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "deltron-3030",
+      "name": "Deltron 3030",
+      "play_count": 9,
+      "spotify_artist_id": "2efzHZrUGhawnSOTpyAHOQ",
+      "musicbrainz_artist_id": "ce886f30-8b8f-4cc8-b854-3749291350fd",
+      "spotify_url": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ"
+    },
+    {
+      "canonical_slug": "the-roots",
+      "name": "The Roots",
+      "play_count": 7,
+      "spotify_artist_id": "78xUyw6FkVZrRAtziFdtdu",
+      "musicbrainz_artist_id": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+      "spotify_url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+    },
+    {
       "canonical_slug": "people-under-the-stairs",
       "name": "People Under The Stairs",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+      "musicbrainz_artist_id": "3dc00dcb-6106-43d1-b48d-21d236f53983",
       "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers",
+      "name": "Arms and Sleepers",
+      "play_count": 5,
+      "spotify_artist_id": "0KjF9pkI2bO9EMuB7LnHqP",
+      "musicbrainz_artist_id": "d4dae588-8b66-4aa9-877f-04c604f552a8",
+      "spotify_url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+    },
+    {
+      "canonical_slug": "jaÿ-z",
+      "name": "JAY-Z",
+      "play_count": 3,
+      "spotify_artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+      "musicbrainz_artist_id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "spotify_url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+    },
+    {
+      "canonical_slug": "little-simz",
+      "name": "Little Simz",
+      "play_count": 1,
+      "spotify_artist_id": "6eXZu6O7nAUA5z6vLV8NKI",
+      "musicbrainz_artist_id": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+      "spotify_url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+    },
+    {
+      "canonical_slug": "madvillain",
+      "name": "Madvillain",
+      "play_count": 1,
+      "spotify_artist_id": "2aoFQUeHD1U7pL098lRsDU",
+      "spotify_url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "deltron-3030--deltron-3030",
+      "name": "Deltron 3030",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "spotify_album_id": "04uhhcjGVCHodMgZjXOlye",
+      "musicbrainz_release_id": "9ade9ff7-da70-31f1-b7f6-95f87598c394",
+      "musicbrainz_release_group_id": "a55be3b5-1d86-317a-ac22-49655313bae0"
+    },
+    {
       "canonical_slug": "people-under-the-stairs--o-s-t",
       "name": "O.S.T.",
-      "play_count": 1,
+      "play_count": 4,
       "primary_artist_canonical_slug": "people-under-the-stairs",
-      "primary_artist_name": "People Under The Stairs"
+      "primary_artist_name": "People Under the Stairs",
+      "spotify_album_id": "2ood8bH4VbEAaxPpTFaSCy",
+      "musicbrainz_release_id": "79d35845-7b0b-4624-9999-a13ca25c653f",
+      "musicbrainz_release_group_id": "141fbded-cc06-37ef-ade8-7d70bae561ed"
+    },
+    {
+      "canonical_slug": "the-roots--things-fall-apart",
+      "name": "Things Fall Apart",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "spotify_album_id": "5Kv0SrABtsIyzCniJvR5ih",
+      "musicbrainz_release_id": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+      "musicbrainz_release_group_id": "8f341430-85b9-3a66-875f-ed1202868393"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "name": "Parallel Dreaming",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "spotify_album_id": "15G9YhbyMllnxiRkQTMmJQ"
+    },
+    {
+      "canonical_slug": "the-roots--how-i-got-over",
+      "name": "How I Got Over",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "spotify_album_id": "25sYZjutddzUpXNbeQ7bEC",
+      "musicbrainz_release_id": "955cc137-bba4-49fe-ad9d-0ad1a2fdd1af",
+      "musicbrainz_release_group_id": "9b643b98-ea0d-4c17-9dd1-8cfe2a92248f"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs--the-next-step",
+      "name": "The Next Step",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under the Stairs",
+      "spotify_album_id": "3xNlOqBSM4hmlO8SmcLXJt",
+      "musicbrainz_release_id": "7ec201f1-a057-4bec-882b-ceb7fcb17950",
+      "musicbrainz_release_group_id": "144ee1f0-fd70-32a9-a8ad-df3b4af06b5c"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "name": "The Palermo Incident",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "spotify_album_id": "7JskS6ERK5KaIrW4veCVSS"
+    },
+    {
+      "canonical_slug": "jaÿ-z--watch-the-throne",
+      "name": "Watch The Throne",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jaÿ-z",
+      "primary_artist_name": "JAY‐Z",
+      "spotify_album_id": "0OcMap99vLEeGkBCfCwRwS",
+      "musicbrainz_release_id": "d31a0150-f2f2-4bbe-be29-d05abb436d73",
+      "musicbrainz_release_group_id": "a96597aa-93b4-4e14-9e6e-03892ab24979"
+    },
+    {
+      "canonical_slug": "jaÿ-z--dead-presidents",
+      "name": "Dead Presidents",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jaÿ-z",
+      "primary_artist_name": "JAY‐Z",
+      "spotify_album_id": "1AoeV2p2S3OMLulsszLKoA",
+      "musicbrainz_release_id": "43115959-6193-444d-b6c7-7189f6625555",
+      "musicbrainz_release_group_id": "9dc6955c-b819-35da-9188-b3254fafcfec"
+    },
+    {
+      "canonical_slug": "little-simz--lotus",
+      "name": "Lotus",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "little-simz",
+      "primary_artist_name": "Little Simz",
+      "spotify_album_id": "0ofdTvYtx4LpsVjemJt71X",
+      "musicbrainz_release_id": "9dc39f94-50a7-43cf-bba9-1882caab0966",
+      "musicbrainz_release_group_id": "749672ae-a51d-4cf5-920c-beaeab147bb6"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "people-under-the-stairs--acid-raindrops",
-      "name": "Acid Raindrops",
-      "play_count": 1,
+      "canonical_slug": "arms-and-sleepers--ink-splash",
+      "name": "Ink Splash",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "release_name": "Parallel Dreaming",
+      "spotify_track_id": "1pcCNXHFNdkI4gGQkpNG1M",
+      "spotify_url": "https://open.spotify.com/track/1pcCNXHFNdkI4gGQkpNG1M"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs--keepin-it-live",
+      "name": "Keepin It Live",
+      "play_count": 2,
       "primary_artist_canonical_slug": "people-under-the-stairs",
       "primary_artist_name": "People Under The Stairs",
       "release_canonical_slug": "people-under-the-stairs--o-s-t",
       "release_name": "O.S.T.",
-      "spotify_track_id": "5vh9GfhmvKwEGN7uCwtGwp",
-      "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp"
+      "spotify_track_id": "18LE5EslSQkAlj3GeNM8SL",
+      "spotify_url": "https://open.spotify.com/track/18LE5EslSQkAlj3GeNM8SL"
+    },
+    {
+      "canonical_slug": "deltron-3030--meet-cleofis-randolph-the-patriarch",
+      "name": "Meet Cleofis Randolph the Patriarch",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "1Om3iM04oZdOZVBdjrtx79",
+      "spotify_url": "https://open.spotify.com/track/1Om3iM04oZdOZVBdjrtx79"
+    },
+    {
+      "canonical_slug": "deltron-3030--positive-contact",
+      "name": "Positive Contact",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "6mKai3TB6wtorWTX47wHUt",
+      "spotify_url": "https://open.spotify.com/track/6mKai3TB6wtorWTX47wHUt"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs--slow-bullet",
+      "name": "Slow Bullet",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under The Stairs",
+      "release_canonical_slug": "people-under-the-stairs--the-next-step",
+      "release_name": "The Next Step",
+      "spotify_track_id": "25bXUCKB70o9Qms9YPfGJG",
+      "spotify_url": "https://open.spotify.com/track/25bXUCKB70o9Qms9YPfGJG"
+    },
+    {
+      "canonical_slug": "the-roots--step-into-the-relm",
+      "name": "Step Into The Relm",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "release_canonical_slug": "the-roots--things-fall-apart",
+      "release_name": "Things Fall Apart",
+      "spotify_track_id": "6KyFxGHY8Q5Pkgb05KZoQL",
+      "spotify_url": "https://open.spotify.com/track/6KyFxGHY8Q5Pkgb05KZoQL"
+    },
+    {
+      "canonical_slug": "the-roots--the-fire",
+      "name": "The Fire",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "release_canonical_slug": "the-roots--how-i-got-over",
+      "release_name": "How I Got Over",
+      "spotify_track_id": "1iP5UMdOsGz6EdltGbbcb7",
+      "spotify_url": "https://open.spotify.com/track/1iP5UMdOsGz6EdltGbbcb7"
+    },
+    {
+      "canonical_slug": "the-roots--the-next-movement",
+      "name": "The Next Movement",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "release_canonical_slug": "the-roots--things-fall-apart",
+      "release_name": "Things Fall Apart",
+      "spotify_track_id": "6oObYkdW3HMbqCV3AhSfVR",
+      "spotify_url": "https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "name": "The Palermo Incident",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "release_name": "The Palermo Incident",
+      "spotify_track_id": "2KsHukre1ujHj5XZSwlPqw",
+      "spotify_url": "https://open.spotify.com/track/2KsHukre1ujHj5XZSwlPqw"
+    },
+    {
+      "canonical_slug": "deltron-3030--virus",
+      "name": "Virus",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "4CpWJkSodVFE3HSylu7ajJ",
+      "spotify_url": "https://open.spotify.com/track/4CpWJkSodVFE3HSylu7ajJ"
     }
   ],
   "source_refs": [
@@ -128,6 +365,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

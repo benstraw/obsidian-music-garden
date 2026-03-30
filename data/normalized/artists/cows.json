@@ -1,0 +1,46 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5Al98vDcGka3JcJ1WlZYoN",
+  "name": "Cows",
+  "spotify_url": "https://open.spotify.com/artist/5Al98vDcGka3JcJ1WlZYoN",
+  "musicbrainz_artist_id": "d4b064a0-5567-4930-a359-16fadfa7941b",
+  "source_genres": [
+    "alternative rock",
+    "noise rock",
+    "punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Cattle",
+  "summary": "Cattle are large, domesticated, bovid ungulates widely kept as livestock. They are prominent modern members of the subfamily Bovinae and the most widespread species of the genus Bos. Mature female cattle are called cows and mature males are called bulls.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Cattle",
+  "candidates": [
+    "Barry Cowsill",
+    "Bill Cowsill",
+    "Colton Cowser",
+    "Cow (Mario)",
+    "Cows",
+    "Cows (band)",
+    "Cowspiracy",
+    "John Cowsill",
+    "Susan Cowsill",
+    "The Cowsills"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cattle",
+    "page_url": "https://en.wikipedia.org/wiki/Cattle",
+    "retrieved_at": "2026-03-28T10:38:17Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/330px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "width": 3872,
+    "height": 2592
+  }
+}

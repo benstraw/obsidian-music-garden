@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "film-score",
+  "display_title": "Film Score",
+  "display_name": "Film Score",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Film score",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Film_score",
+  "summary": "A film score is original music written specifically to accompany a film or a television program. The score consists of a number of orchestral, instrumental, or choral pieces called cues, which are timed to begin and end at specific points during the film to enhance the dramatic narrative and emotional impact of scenes. Scores are written by one or more composers under the guidance of or in collaboration with the film's director or producer and are then most often performed by an ensemble of musicians – usually including an orchestra or band, instrumental soloists, and choir or vocalists – known as playback singers – and recorded by a sound engineer. The term is less frequently applied to music written for media such as live theatre, television and radio programs, and video games, and that music is typically referred to as either the soundtrack or incidental music.",
+  "candidates": [
+    "A Film Score of a Bag of Hammers",
+    "Corentin Fila",
+    "Film Score Monthly",
+    "Film Streams",
+    "Film crew",
+    "Film score",
+    "Film screening",
+    "Film society",
+    "Five Score and Seven Years Ago",
+    "The Film Crew"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Film score",
+    "page_url": "https://en.wikipedia.org/wiki/Film_score",
+    "retrieved_at": "2026-03-28T15:55:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Edit-clear.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+    "width": 48,
+    "height": 48,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Javier Bayon 7.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Javier_Bayon_7.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Javier_Bayon_7.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Javier_Bayon_7.jpg/960px-Javier_Bayon_7.jpg",
+      "width": 3960,
+      "height": 1681,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Juananrubio\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Juananrubio (page does not exist)\"\u003eJohn Palmer productions\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Unbalanced scales.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Unbalanced_scales.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Unbalanced_scales.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/960px-Unbalanced_scales.svg.png",
+      "width": 400,
+      "height": 354,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chris-martin\" class=\"mw-redirect\" title=\"User:Chris-martin\"\u003eChris-martin\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--film-score.json",
+      "url": "https://en.wikipedia.org/wiki/Film_score",
+      "retrieved_at": "2026-03-28T15:55:51Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--film-score.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

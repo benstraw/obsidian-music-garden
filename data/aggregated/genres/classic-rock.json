@@ -6,7 +6,8 @@
   "aliases": [
     "classic rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Classic rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Classic_rock",
@@ -66,151 +67,202 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 61,
-    "unique_artist_count": 9,
-    "unique_release_count": 27,
-    "unique_track_count": 45,
-    "first_played_at": "2026-02-13T01:48:42.202Z",
-    "last_played_at": "2026-03-25T18:02:01.875Z"
+    "play_count": 255,
+    "unique_artist_count": 18,
+    "unique_release_count": 83,
+    "unique_track_count": 195,
+    "first_played_at": "2024-01-01T00:00:00.159789577Z",
+    "last_played_at": "2026-03-29T17:25:55.795Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "steely-dan",
+      "name": "Steely Dan",
+      "play_count": 49,
+      "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
+      "musicbrainz_artist_id": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+      "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+    },
+    {
       "canonical_slug": "neil-young",
       "name": "Neil Young",
-      "play_count": 16,
+      "play_count": 46,
       "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+      "musicbrainz_artist_id": "75167b8b-44e4-407b-9d35-effe87b223cf",
       "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
     },
     {
       "canonical_slug": "crosby-stills-nash-and-young",
       "name": "Crosby, Stills, Nash \u0026 Young",
-      "play_count": 14,
+      "play_count": 24,
       "spotify_artist_id": "1CYsQCypByMVgnv17qsSbQ",
+      "musicbrainz_artist_id": "46a782ea-4308-476b-abd1-a91b197f3037",
       "spotify_url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+    },
+    {
+      "canonical_slug": "allman-brothers-band",
+      "name": "Allman Brothers Band",
+      "play_count": 22,
+      "spotify_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+      "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+      "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
     },
     {
       "canonical_slug": "pink-floyd",
       "name": "Pink Floyd",
-      "play_count": 12,
+      "play_count": 19,
       "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "musicbrainz_artist_id": "83d91898-7763-47d7-b03b-b92132375c47",
       "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
     },
     {
       "canonical_slug": "the-beatles",
       "name": "The Beatles",
-      "play_count": 10,
+      "play_count": 15,
       "spotify_artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+      "musicbrainz_artist_id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
       "spotify_url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "canonical_slug": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "play_count": 14,
+      "spotify_artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+      "musicbrainz_artist_id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "spotify_url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+    },
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 12,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
     },
     {
       "canonical_slug": "jimi-hendrix",
       "name": "Jimi Hendrix",
-      "play_count": 3,
+      "play_count": 10,
       "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "musicbrainz_artist_id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
       "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
     },
     {
-      "canonical_slug": "the-doors",
-      "name": "The Doors",
-      "play_count": 3,
-      "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
-      "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-    },
-    {
-      "canonical_slug": "fleetwood-mac",
-      "name": "Fleetwood Mac",
-      "play_count": 1,
-      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
-      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-    },
-    {
-      "canonical_slug": "steely-dan",
-      "name": "Steely Dan",
-      "play_count": 1,
-      "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
-      "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-    },
-    {
-      "canonical_slug": "the-animals",
-      "name": "The Animals",
-      "play_count": 1,
-      "spotify_artist_id": "3ICflSq6ZgYAIrm2CTkfVP",
-      "spotify_url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+      "canonical_slug": "dire-straits",
+      "name": "Dire Straits",
+      "play_count": 9,
+      "spotify_artist_id": "0WwSkZ7LtFUFjGjMZBMt6T",
+      "spotify_url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "name": "Where It All Begins",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "3OhZTb3unARrvpYc0STkFM",
+      "musicbrainz_release_id": "85950dc1-5e45-4504-816d-582106bf46b9",
+      "musicbrainz_release_group_id": "1acf4af2-3d72-3101-b722-282f94222007"
+    },
+    {
+      "canonical_slug": "neil-young--neil-young-2009-remaster",
+      "name": "Neil Young (2009 Remaster)",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2dw9jX2uocV1da5WsnJ2Pl"
+    },
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--deja-vu",
+      "name": "Deja Vu",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "spotify_album_id": "5bHkK1X4WEOzNvRhehvOcb",
+      "musicbrainz_release_id": "402352dc-85ff-4b51-a3de-09efbad9a7d3",
+      "musicbrainz_release_group_id": "3412fd44-c6e6-3a3b-b91a-964a055192ec"
+    },
+    {
+      "canonical_slug": "neil-young--tonight-s-the-night",
+      "name": "Tonight's the Night",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2wjrhhAibIUwC40oFMALtr",
+      "musicbrainz_release_id": "a75df175-7a8b-4b88-b04e-47cf44e9c17d",
+      "musicbrainz_release_group_id": "e0207e33-af06-3862-baba-f42ca722de0d"
+    },
+    {
+      "canonical_slug": "steely-dan--can-t-buy-a-thrill",
+      "name": "Can't Buy A Thrill",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "spotify_album_id": "6DlSUW5gmq6Byc3osKDJ2p",
+      "musicbrainz_release_id": "91975b77-c9f2-46d1-a03b-f1fffbda1d1c",
+      "musicbrainz_release_group_id": "9d73a864-2976-3286-b6c1-8aabc7407737"
+    },
+    {
+      "canonical_slug": "steely-dan--countdown-to-ecstasy",
+      "name": "Countdown To Ecstasy",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "spotify_album_id": "1oOpgDzHt6wl7kHbFFPzEc",
+      "musicbrainz_release_id": "da3e8221-1d4b-4c99-96ef-8a984c3183ee",
+      "musicbrainz_release_group_id": "33726877-dd41-301b-9f1e-498ebbadc7d8"
+    },
+    {
+      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "name": "Harvest (50th Anniversary Edition)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2LOpi63tYGh0Suy8eLJDVQ"
+    },
+    {
+      "canonical_slug": "steely-dan--pretzel-logic",
+      "name": "Pretzel Logic",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "spotify_album_id": "4XfN871nBIz6obaUDEzZXm",
+      "musicbrainz_release_id": "996bae7d-1c12-3037-ad98-39ecf92451df",
+      "musicbrainz_release_group_id": "5c938587-b4cd-3d6c-9f9e-a87492a2c9de"
+    },
     {
       "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
       "name": "A Saucerful of Secrets",
       "play_count": 7,
       "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
-    },
-    {
-      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
-      "name": "Harvest (50th Anniversary Edition)",
-      "play_count": 7,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
-    },
-    {
-      "canonical_slug": "crosby-stills-nash-and-young--american-dream",
-      "name": "American Dream",
-      "play_count": 6,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
-    },
-    {
-      "canonical_slug": "neil-young--barn",
-      "name": "Barn",
-      "play_count": 5,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
+      "primary_artist_name": "Pink Floyd",
+      "spotify_album_id": "2vnJKtGjZXRUg0mYPZ3HGH",
+      "musicbrainz_release_id": "bc2be498-ff42-4a4f-b4df-53d6e3bee74a",
+      "musicbrainz_release_group_id": "8a9caa40-b7c6-33eb-a13c-6c15f09b1c44"
     },
     {
       "canonical_slug": "the-beatles--rubber-soul-remastered-2009",
-      "name": "Rubber Soul (Remastered 2009)",
-      "play_count": 5,
+      "name": "Rubber Soul (Remastered)",
+      "play_count": 7,
       "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles"
-    },
-    {
-      "canonical_slug": "pink-floyd--meddle",
-      "name": "Meddle",
-      "play_count": 4,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
-    },
-    {
-      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "name": "Axis: Bold As Love",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix"
-    },
-    {
-      "canonical_slug": "crosby-stills-nash-and-young--4-way-street",
-      "name": "4 Way Street",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
-    },
-    {
-      "canonical_slug": "crosby-stills-nash-and-young--deja-vu",
-      "name": "Deja Vu",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
-    },
-    {
-      "canonical_slug": "the-beatles--revolver-remastered",
-      "name": "Revolver (Remastered)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles"
+      "primary_artist_name": "The Beatles",
+      "spotify_album_id": "50o7kf2wLwVmOTVYJOTplm"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--almost-cut-my-hair",
+      "name": "Almost Cut My Hair",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--deja-vu",
+      "release_name": "Deja Vu",
+      "spotify_track_id": "0gCJkpD0RhF2rjiALLHBQL",
+      "spotify_url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
+    },
     {
       "canonical_slug": "crosby-stills-nash-and-young--clear-blue-skies",
       "name": "Clear Blue Skies",
@@ -245,6 +297,50 @@
       "spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
     },
     {
+      "canonical_slug": "steely-dan--any-major-dude-will-tell-you",
+      "name": "Any Major Dude Will Tell You",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--pretzel-logic",
+      "release_name": "Pretzel Logic",
+      "spotify_track_id": "1u42hFacJ1Bs8H9GX2O8z3",
+      "spotify_url": "https://open.spotify.com/track/1u42hFacJ1Bs8H9GX2O8z3"
+    },
+    {
+      "canonical_slug": "steely-dan--do-it-again",
+      "name": "Do It Again",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--can-t-buy-a-thrill",
+      "release_name": "Can't Buy A Thrill",
+      "spotify_track_id": "2LXISHBkx8FyoxCBkckh19",
+      "spotify_url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "canonical_slug": "the-animals--don-t-let-me-be-misunderstood",
+      "name": "Don't Let Me Be Misunderstood",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-animals",
+      "primary_artist_name": "The Animals",
+      "release_canonical_slug": "the-animals--the-animals-the-mickie-most-years-and-more",
+      "release_name": "The Animals: The Mickie Most Years And More",
+      "spotify_track_id": "4zzY7s6PKnMFIQ3ZNfHzGh",
+      "spotify_url": "https://open.spotify.com/track/4zzY7s6PKnMFIQ3ZNfHzGh"
+    },
+    {
+      "canonical_slug": "pink-floyd--fearless",
+      "name": "Fearless",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
+      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
       "canonical_slug": "the-beatles--michelle-remastered-2009",
       "name": "Michelle - Remastered 2009",
       "play_count": 3,
@@ -256,70 +352,15 @@
       "spotify_url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
-      "canonical_slug": "pink-floyd--fearless",
-      "name": "Fearless",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
-      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
-    },
-    {
-      "canonical_slug": "neil-young--out-on-the-weekend",
-      "name": "Out on the Weekend",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young",
-      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
-      "release_name": "Harvest (50th Anniversary Edition)",
-      "spotify_track_id": "15Z3JEayO4OEcbJQsasWHh",
-      "spotify_url": "https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh"
-    },
-    {
-      "canonical_slug": "the-doors--the-soft-parade",
-      "name": "The Soft Parade",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors",
-      "release_canonical_slug": "the-doors--the-soft-parade",
-      "release_name": "The Soft Parade",
-      "spotify_track_id": "0YMzPd9mYx4txOuCnhYUGU",
-      "spotify_url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
-    },
-    {
-      "canonical_slug": "crosby-stills-nash-and-young--this-old-house",
-      "name": "This Old House",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
-      "release_canonical_slug": "crosby-stills-nash-and-young--american-dream",
-      "release_name": "American Dream",
-      "spotify_track_id": "3QqRShyg7ABnLZbX3jwFSm",
-      "spotify_url": "https://open.spotify.com/track/3QqRShyg7ABnLZbX3jwFSm"
-    },
-    {
-      "canonical_slug": "the-beatles--you-won-t-see-me-remastered-2009",
-      "name": "You Won't See Me - Remastered 2009",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles",
-      "release_canonical_slug": "the-beatles--rubber-soul-remastered-2009",
-      "release_name": "Rubber Soul (Remastered 2009)",
-      "spotify_track_id": "4LLBKnNCrSRrSjSTuiwjE9",
-      "spotify_url": "https://open.spotify.com/track/4LLBKnNCrSRrSjSTuiwjE9"
-    },
-    {
-      "canonical_slug": "pink-floyd--a-pillow-of-winds",
-      "name": "A Pillow of Winds",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
-      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+      "canonical_slug": "steely-dan--my-old-school",
+      "name": "My Old School",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--countdown-to-ecstasy",
+      "release_name": "Countdown To Ecstasy",
+      "spotify_track_id": "3FpKXPOG2FqB3QzmfafG1H",
+      "spotify_url": "https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H"
     }
   ],
   "source_refs": [
@@ -328,6 +369,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -349,9 +396,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-25T18:02:01.875Z",
+      "updated_at": "2026-03-29T17:25:55.795Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:25:55.795Z"
 }

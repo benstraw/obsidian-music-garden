@@ -1,0 +1,54 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3pkmfqaBNsMqnXus05PNfP",
+  "name": "Handsome Boy Modeling School",
+  "spotify_url": "https://open.spotify.com/artist/3pkmfqaBNsMqnXus05PNfP",
+  "musicbrainz_artist_id": "c3f99319-52c7-47f2-9631-10bc7cc8c589",
+  "source_genres": [
+    "hip hop",
+    "hip-hop",
+    "trip-hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Handsome Boy Modeling School",
+  "summary": "Handsome Boy Modeling School is an American collaborative project between hip-hop producers Dan the Automator and Prince Paul. The collaboration originally lasted from 1999 to 2006 and resulted in two albums, featuring a vast cast of guest rappers, singers, comedians and DJs. In February 2018, the duo played a concert in New York City.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Handsome_Boy_Modeling_School",
+  "candidates": [
+    "Handsome Boy Modeling School"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Handsome Boy Modeling School",
+    "page_url": "https://en.wikipedia.org/wiki/Handsome_Boy_Modeling_School",
+    "retrieved_at": "2026-03-28T10:39:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Automator and Prince Paul get handsome 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Automator_and_Prince_Paul_get_handsome_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Automator_and_Prince_Paul_get_handsome_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Automator_and_Prince_Paul_get_handsome_2.jpg",
+    "width": 384,
+    "height": 288,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/55107041@N00\"\u003eyusuke toyoda\u003c/a\u003e from Washington, DC, USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Automator and Prince Paul get handsome 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Automator_and_Prince_Paul_get_handsome_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Automator_and_Prince_Paul_get_handsome_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Automator_and_Prince_Paul_get_handsome_2.jpg",
+      "width": 384,
+      "height": 288,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/55107041@N00\"\u003eyusuke toyoda\u003c/a\u003e from Washington, DC, USA"
+    }
+  ]
+}

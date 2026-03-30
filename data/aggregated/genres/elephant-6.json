@@ -1,0 +1,98 @@
+{
+  "canonical_slug": "elephant-6",
+  "display_title": "Elephant 6",
+  "display_name": "Elephant 6",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Elephant 6",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elephant_6",
+  "summary": "The Elephant 6 Recording Company is a loosely defined indie rock musical collective from the United States. Notable bands associated with the collective include The Apples in Stereo, Beulah, Circulatory System, Elf Power, The Minders, Neutral Milk Hotel, of Montreal, and The Olivia Tremor Control. In total the collective contains 56 different bands, despite overlap between members. Although bands in Elephant 6 explore many different genres, they have a shared interest in psychedelic pop of the 1960s, with particular influence from bands such as the Beach Boys, the Beatles, and the Zombies. Their music sometimes features intentionally low fidelity production and experimental recording techniques.",
+  "candidates": [
+    "Elephant",
+    "Elephant (album)",
+    "Elephant 6",
+    "Elephant and Castle",
+    "Elephant bird",
+    "Elephant cognition",
+    "Elephant seal",
+    "Elephanta Caves",
+    "Elephantine papyri and ostraca",
+    "The Elephant Man (1980 film)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Elephant 6",
+    "page_url": "https://en.wikipedia.org/wiki/Elephant_6",
+    "retrieved_at": "2026-03-28T15:55:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beach Boys 1967 (cropped and restored).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Beach_Boys_1967_(cropped_and_restored).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg/960px-Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+    "width": 1630,
+    "height": 1117,
+    "license": "Public domain",
+    "author": "Capitol Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beach Boys 1967 (cropped and restored).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beach_Boys_1967_(cropped_and_restored).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg/960px-Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+      "width": 1630,
+      "height": 1117,
+      "license": "Public domain",
+      "author": "Capitol Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elf Power with Jeff Mangum and Kevin Barnes at the Atomic Music Hall, Athens, GA, circa 1997 (1296805202).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elf_Power_with_Jeff_Mangum_and_Kevin_Barnes_at_the_Atomic_Music_Hall,_Athens,_GA,_circa_1997_(1296805202).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Elf_Power_with_Jeff_Mangum_and_Kevin_Barnes_at_the_Atomic_Music_Hall%2C_Athens%2C_GA%2C_circa_1997_%281296805202%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elf_Power_with_Jeff_Mangum_and_Kevin_Barnes_at_the_Atomic_Music_Hall%2C_Athens%2C_GA%2C_circa_1997_%281296805202%29.jpg/960px-Elf_Power_with_Jeff_Mangum_and_Kevin_Barnes_at_the_Atomic_Music_Hall%2C_Athens%2C_GA%2C_circa_1997_%281296805202%29.jpg",
+      "width": 972,
+      "height": 1506,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44046918@N00\"\u003eMatt Billings\u003c/a\u003e",
+      "attribution_text": "Matt Billings"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--elephant-6.json",
+      "url": "https://en.wikipedia.org/wiki/Elephant_6",
+      "retrieved_at": "2026-03-28T15:55:24Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--elephant-6.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Beach_Boys_1967_(cropped_and_restored).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

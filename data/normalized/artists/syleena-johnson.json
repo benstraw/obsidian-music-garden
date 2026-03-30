@@ -1,0 +1,81 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1lE6SEy8f84Zhjvp7r8yTD",
+  "name": "Syleena Johnson",
+  "spotify_url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD",
+  "musicbrainz_artist_id": "16eb7e6c-2eb8-400c-97d5-33891fa3303e",
+  "source_genres": [
+    "contemporary r\u0026b",
+    "hip hop rnb and dance hall",
+    "neo soul",
+    "rhythm and blues",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "neo-soul",
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Syleena Johnson",
+  "summary": "Syleena Johnson is an American R\u0026B and soul singer-songwriter and actress. She is best known for her guest appearance on Kanye West's 2004 single \"All Falls Down\", which peaked at number seven on the Billboard Hot 100. She signed with Jive Records to release three albums: Chapter 1: Love, Pain \u0026 Forgiveness (2001), Chapter 2: The Voice (2002), and Chapter 3: The Flesh (2005), each of which received critical acclaim and modest commercial reception. She returned to work with West for his tenth album, Donda (2021), where she performed on the spoken-word song \"Donda Chant\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Syleena_Johnson",
+  "candidates": [
+    "Sheena Johnson",
+    "Syleena Johnson",
+    "Syleena Johnson discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Syleena Johnson",
+    "page_url": "https://en.wikipedia.org/wiki/Syleena_Johnson",
+    "retrieved_at": "2026-03-28T10:42:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Syleena Johnson in 2020 (cropped).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Syleena_Johnson_in_2020_(cropped).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Syleena_Johnson_in_2020_%28cropped%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Syleena_Johnson_in_2020_%28cropped%29.png",
+      "width": 640,
+      "height": 769,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Sister Circle TV"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wiki letter w cropped.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wiki_letter_w_cropped.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/960px-Wiki_letter_w_cropped.svg.png",
+      "width": 44,
+      "height": 31,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "derivative work by \u003ca href=\"//commons.wikimedia.org/wiki/User:Thumperward\" title=\"User:Thumperward\"\u003eThumperward\u003c/a\u003e / * \u003ca href=\"//commons.wikimedia.org/wiki/File:Wiki_letter_w.svg\" title=\"File:Wiki letter w.svg\"\u003eFile:Wiki letter w.svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:Jarkko_Piiroinen\" title=\"User:Jarkko Piiroinen\"\u003eJarkko Piiroinen\u003c/a\u003e"
+    }
+  ]
+}

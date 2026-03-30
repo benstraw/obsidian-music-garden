@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "merseybeat",
+  "display_title": "Merseybeat",
+  "display_name": "Merseybeat",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Beat music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Beat_music",
+  "summary": "Beat music, British beat, or Merseybeat is a British popular music genre that developed around Liverpool in the late 1950s and early 1960s. The genre melded influences from British and American rock and roll, rhythm and blues, skiffle, traditional pop, and music hall. It rose to mainstream popularity in the United Kingdom and Europe by 1963 before spreading to North America in 1964 with the British Invasion. The beat style shaped popular music and youth culture through 1960s movements such as garage rock, folk rock and psychedelic music.",
+  "candidates": [
+    "Mersey Beat",
+    "Mersey Gateway Bridge",
+    "Mersey Match Factory",
+    "Merseybeast",
+    "Merseybeast (song)",
+    "Merseybeat",
+    "Merseybeat (TV series)",
+    "Merseybeat (disambiguation)",
+    "Merseylea, Tasmania",
+    "The Merseybeats"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Beat music",
+    "page_url": "https://en.wikipedia.org/wiki/Beat_music",
+    "retrieved_at": "2026-03-28T15:58:21Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--merseybeat.json",
+      "url": "https://en.wikipedia.org/wiki/Beat_music",
+      "retrieved_at": "2026-03-28T15:58:21Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

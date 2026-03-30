@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "béla-fleck",
+  "name": "Béla Fleck",
+  "play_count": 1,
+  "spotify_artist_id": "2ka8z2lwkcp13fG8Wyv3xU",
+  "spotify_url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU",
+  "genres": [
+    "americana",
+    "bluegrass"
+  ],
+  "source_genres": [
+    "americana",
+    "bluegrass",
+    "newgrass"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfc9bbd6477cc3fe11e03146a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fc9bbd6477cc3fe11e03146a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fc9bbd6477cc3fe11e03146a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

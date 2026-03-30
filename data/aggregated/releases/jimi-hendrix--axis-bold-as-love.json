@@ -1,7 +1,11 @@
 {
   "canonical_slug": "jimi-hendrix--axis-bold-as-love",
   "name": "Axis: Bold As Love",
+  "play_count": 6,
   "primary_artist_canonical_slug": "jimi-hendrix",
-  "primary_artist_name": "Jimi Hendrix",
-  "last_updated": "2026-03-27"
+  "primary_artist_name": "The Jimi Hendrix Experience",
+  "spotify_album_id": "3uFZf8rykoHo7XMIQVYW6r",
+  "musicbrainz_release_id": "a2662ae2-f06b-3cdd-892f-596646c03558",
+  "musicbrainz_release_group_id": "d0b1e21e-cef6-4575-8d92-1afea1894ca3",
+  "last_updated": "2026-03-28"
 }

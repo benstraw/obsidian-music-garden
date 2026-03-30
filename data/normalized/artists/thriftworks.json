@@ -1,0 +1,18 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3M7geqTs4IiGCqaAAZIQ7E",
+  "name": "Thriftworks",
+  "spotify_url": "https://open.spotify.com/artist/3M7geqTs4IiGCqaAAZIQ7E",
+  "musicbrainz_artist_id": "45e65a06-96a0-434a-b9b1-7773aa8c5f5a",
+  "source_genres": [
+    "electronic"
+  ],
+  "canonical_genre_slugs": [
+    "electronic"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "ThriftBooks",
+    "Thriveworks"
+  ]
+}

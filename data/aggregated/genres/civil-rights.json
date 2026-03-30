@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "civil-rights",
+  "display_title": "Civil Rights",
+  "display_name": "Civil Rights",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Civil and political rights",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Civil_and_political_rights",
+  "summary": "Civil and political rights are a class of rights that protect individuals' freedom from infringement by governments, social organizations, and private individuals. They ensure one's entitlement to participate in the civil and political life of society and the state.",
+  "candidates": [
+    "Civil Rights Act",
+    "Civil Rights Act of 1957",
+    "Civil Rights Act of 1960",
+    "Civil Rights Act of 1964",
+    "Civil Rights Act of 1968",
+    "Civil rights",
+    "Civil rights movement",
+    "Civil rights movement (1865–1896)",
+    "Civil rights movement (1896–1954)",
+    "Civil rights movements"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Civil and political rights",
+    "page_url": "https://en.wikipedia.org/wiki/Civil_and_political_rights",
+    "retrieved_at": "2026-03-28T15:54:20Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--civil-rights.json",
+      "url": "https://en.wikipedia.org/wiki/Civil_and_political_rights",
+      "retrieved_at": "2026-03-28T15:54:20Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

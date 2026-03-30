@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0NrDp8wKKFdhyHSMlcHBnD",
   "name": "Keep 'Em on They Toes",
   "primary_artist_name": "Brent Cobb",
-  "primary_artist_canonical_slug": "brent-cobb"
+  "primary_artist_canonical_slug": "brent-cobb",
+  "musicbrainz_release_id": "f07a248d-a28d-4b9e-ad16-1bfac4e44cc8",
+  "musicbrainz_release_group_id": "7fa57349-3794-4304-a46d-3b7e7151339c"
 }

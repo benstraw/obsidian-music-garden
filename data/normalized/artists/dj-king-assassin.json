@@ -3,11 +3,21 @@
   "source_artist_id": "35GnZFTAWk2RLgqLWlpPbE",
   "name": "DJ King Assassin",
   "spotify_url": "https://open.spotify.com/artist/35GnZFTAWk2RLgqLWlpPbE",
+  "musicbrainz_artist_id": "487d56d6-e4e3-4ab0-83f3-3e87c8a1e279",
   "source_genres": [
-    "g-funk"
+    "compton",
+    "detroit",
+    "east palo alto",
+    "g-funk",
+    "hip hop",
+    "oceanside",
+    "sacramento",
+    "south central los angeles",
+    "vallejo"
   ],
   "canonical_genre_slugs": [
-    "g-funk"
+    "g-funk",
+    "hip-hop"
   ],
   "status": "matched",
   "page_title": "DJ King Assassin",

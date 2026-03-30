@@ -1,0 +1,129 @@
+{
+  "canonical_slug": "film",
+  "display_title": "Film",
+  "display_name": "Film",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Film",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Film",
+  "summary": "A film, movie, or motion picture is a work of visual art that simulates experiences and otherwise communicates ideas, stories, perceptions, emotions, or atmosphere through the use of moving images that are generally, since the 1930s, synchronized with sound and sometimes using other sensory stimuli.",
+  "candidates": [
+    "Film",
+    "Film adaptation",
+    "Film capacitor",
+    "Film festival",
+    "Film industry",
+    "Film noir",
+    "Film producer",
+    "Film score",
+    "Film speed",
+    "Filmfare Awards"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Film",
+    "page_url": "https://en.wikipedia.org/wiki/Film",
+    "retrieved_at": "2026-03-28T15:55:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Animhorse.gif",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Animhorse.gif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Animhorse.gif",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Animhorse.gif",
+    "width": 307,
+    "height": 230,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Janke\" title=\"User:Janke\"\u003eJanke\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Animhorse.gif",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Animhorse.gif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Animhorse.gif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Animhorse.gif",
+      "width": 307,
+      "height": 230,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Janke\" title=\"User:Janke\"\u003eJanke\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BolexH16.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BolexH16.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BolexH16.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BolexH16.jpg",
+      "width": 400,
+      "height": 442,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Janke\" title=\"User:Janke\"\u003eUser:Janke\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Chaplin, the Marriage Bond.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin,_the_Marriage_Bond.ogv",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Charlie_Chaplin%2C_the_Marriage_Bond.ogv",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlie_Chaplin%2C_the_Marriage_Bond.ogv/400px--Charlie_Chaplin%2C_the_Marriage_Bond.ogv.jpg",
+      "width": 400,
+      "height": 288,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Chaplin, the Marriage Bond.ogv",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin,_the_Marriage_Bond.ogv",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Charlie_Chaplin%2C_the_Marriage_Bond.ogv",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlie_Chaplin%2C_the_Marriage_Bond.ogv/400px--Charlie_Chaplin%2C_the_Marriage_Bond.ogv.jpg",
+      "width": 400,
+      "height": 288,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Electrotachyscope1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Electrotachyscope1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Electrotachyscope1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Electrotachyscope1.jpg/960px-Electrotachyscope1.jpg",
+      "width": 1186,
+      "height": 1186,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--film.json",
+      "url": "https://en.wikipedia.org/wiki/Film",
+      "retrieved_at": "2026-03-28T15:55:49Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--film.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Animhorse.gif",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

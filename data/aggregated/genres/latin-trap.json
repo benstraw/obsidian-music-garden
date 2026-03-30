@@ -1,0 +1,98 @@
+{
+  "canonical_slug": "latin-trap",
+  "display_title": "Latin Trap",
+  "display_name": "Latin Trap",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Latin trap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Latin_trap",
+  "summary": "Latin trap is a subgenre of Latin hip hop music that originated in Puerto Rico. A direct descendant of southern hip hop and trap, and influenced by reggaeton, R\u0026B and urbano music. Vocals are often performed using a rap-singing technique. it gained popularity after 2007, and has since spread throughout Latin America. The trap is slang for a place where drugs are sold. Latin trap is similar to mainstream trap with lyrics about life on la calle, drugs, sex and violence.",
+  "candidates": [
+    "24th Annual Latin Grammy Awards",
+    "25th Annual Latin Grammy Awards",
+    "Latin Grammy Award for Album of the Year",
+    "Latin Grammy Award for Best Short Form Music Video",
+    "Latin Grammy Award records",
+    "Latin Grammy Awards",
+    "Latin Grammy Lifetime Achievement Award",
+    "Latin grammar",
+    "Latin translations of the 12th century",
+    "Latin trap"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Latin trap",
+    "page_url": "https://en.wikipedia.org/wiki/Latin_trap",
+    "retrieved_at": "2026-03-28T15:57:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Arcángel \"La Entrevista\" - A solas con Tony Dandrades.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+    "width": 811,
+    "height": 1080,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Tony_Dandrades\" class=\"extiw\" title=\"en:Tony Dandrades\"\u003eTony Dandrades\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arcángel \"La Entrevista\" - A solas con Tony Dandrades.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+      "width": 811,
+      "height": 1080,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Tony_Dandrades\" class=\"extiw\" title=\"en:Tony Dandrades\"\u003eTony Dandrades\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Puerto Rico.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Puerto_Rico.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/960px-Flag_of_Puerto_Rico.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eOriginal:\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003eUnknown\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:Cerejota\" title=\"User:Cerejota\"\u003eCerejota\u003c/a\u003e\u003c/div\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--latin-trap.json",
+      "url": "https://en.wikipedia.org/wiki/Latin_trap",
+      "retrieved_at": "2026-03-28T15:57:58Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--latin-trap.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Arc%C3%A1ngel_%22La_Entrevista%22_-_A_solas_con_Tony_Dandrades.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,11 +1,31 @@
 {
   "canonical_slug": "old-crow-medicine-show--this-train-is-bound-for-glory",
   "name": "This Train is Bound for Glory",
+  "play_count": 2,
   "primary_artist_canonical_slug": "old-crow-medicine-show",
   "primary_artist_name": "Old Crow Medicine Show",
+  "additional_artist_slugs": [
+    "joel-rafael",
+    "jimmy-lafave",
+    "donovan",
+    "rosanne-cash",
+    "john-leventhal",
+    "sweet-honey-in-the-rock",
+    "lucinda-williams",
+    "judy-collins",
+    "tom-morello",
+    "ani-difranco",
+    "ry-cooder",
+    "dan-gellert",
+    "jackson-browne",
+    "the-del-mccoury-band",
+    "tony-trischka",
+    "tim-o-brien",
+    "john-mellencamp",
+    "ramblin-jack-elliott"
+  ],
   "release_canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
   "release_name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
   "spotify_track_id": "7mfn1O2YQifrW5nZhAhCGL",
-  "spotify_url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
 }

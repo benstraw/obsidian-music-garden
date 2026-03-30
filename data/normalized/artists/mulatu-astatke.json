@@ -4,10 +4,18 @@
   "name": "Mulatu Astatke",
   "spotify_url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv",
   "source_genres": [
-    "ethiopian jazz"
+    "afro-cuban jazz",
+    "ethiopian jazz",
+    "funk soul",
+    "jazz",
+    "jazz-funk",
+    "latin",
+    "latin jazz",
+    "rare groove a to z"
   ],
   "canonical_genre_slugs": [
-    "jazz"
+    "jazz",
+    "jazz-funk"
   ],
   "status": "matched",
   "page_title": "Mulatu Astatke",

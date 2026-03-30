@@ -1,0 +1,14 @@
+{
+  "source": "spotify",
+  "source_track_id": "5XJyz1vagBsEruU9vglMe9",
+  "name": "Side Walk",
+  "primary_artist_name": "Chick Corea Elektric Band",
+  "primary_artist_canonical_slug": "chick-corea-elektric-band",
+  "additional_artist_slugs": [
+    "chick-corea",
+    "dave-weckl"
+  ],
+  "release_name": "The Chick Corea Elektric Band",
+  "release_canonical_slug": "chick-corea-elektric-band--the-chick-corea-elektric-band",
+  "spotify_url": "https://open.spotify.com/track/5XJyz1vagBsEruU9vglMe9"
+}

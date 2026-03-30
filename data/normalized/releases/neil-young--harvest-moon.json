@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0tdm853TNWjVVChbJRbu3Q",
   "name": "Harvest Moon",
   "primary_artist_name": "Neil Young",
-  "primary_artist_canonical_slug": "neil-young"
+  "primary_artist_canonical_slug": "neil-young",
+  "musicbrainz_release_id": "78e29dd4-7648-45a7-a57b-608e22bf4645",
+  "musicbrainz_release_group_id": "6c153d3a-cf36-37ea-8409-0e48b428315f"
 }

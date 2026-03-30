@@ -1,7 +1,9 @@
 {
   "canonical_slug": "the-notorious-b-i-g",
   "name": "The Notorious B.I.G.",
+  "play_count": 13,
   "spotify_artist_id": "5me0Irg2ANcsgc93uaYrpb",
+  "musicbrainz_artist_id": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
   "spotify_url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb",
   "genres": [
     "east-coast-hip-hop",
@@ -95,5 +97,5 @@
       "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

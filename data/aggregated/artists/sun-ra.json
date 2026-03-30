@@ -1,9 +1,12 @@
 {
   "canonical_slug": "sun-ra",
   "name": "Sun Ra",
+  "play_count": 17,
   "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+  "musicbrainz_artist_id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
   "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX",
   "genres": [
+    "electronic",
     "experimental",
     "experimental-jazz",
     "free-jazz",
@@ -12,6 +15,7 @@
   ],
   "source_genres": [
     "avant-garde",
+    "electronic",
     "experimental jazz",
     "free jazz",
     "hard bop",
@@ -112,5 +116,5 @@
       "author": "Andy Newcombe"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

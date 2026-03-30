@@ -1,7 +1,9 @@
 {
   "canonical_slug": "bob-marley-and-the-wailers",
   "name": "Bob Marley \u0026 The Wailers",
+  "play_count": 130,
   "spotify_artist_id": "2QsynagSdAqZj3U9HgDzjD",
+  "musicbrainz_artist_id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
   "spotify_url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
   "genres": [
     "reggae",
@@ -54,5 +56,5 @@
     "width": 1008,
     "height": 677
   },
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

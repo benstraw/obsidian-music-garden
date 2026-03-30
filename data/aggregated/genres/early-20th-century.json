@@ -1,0 +1,64 @@
+{
+  "canonical_slug": "early-20th-century",
+  "display_title": "Early 20th Century",
+  "display_name": "Early 20th Century",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "20th century",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/20th_century",
+  "summary": "The 20th century began on 1 January 1901 (MCMI), and ended on 31 December 2000 (MM). It was the 10th and last century in the 2nd millennium and was marked by new models of scientific understanding, unprecedented scopes of warfare, new modes of communication that would operate at nearly instant speeds, and new forms of art and entertainment. Population growth was also unprecedented, as the century started with around 1.6 billion people, and ended with around 6.2 billion.",
+  "candidates": [
+    "Early 18th century",
+    "Early 18th century in sports",
+    "Early 19th Century",
+    "Early 19th century in Russia",
+    "Early 20th century",
+    "Early-18th-century Whig plots"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "20th century",
+    "page_url": "https://en.wikipedia.org/wiki/20th_century",
+    "retrieved_at": "2026-03-28T15:55:12Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg/330px-NASA-Apollo8-Dec24-Earthrise.jpg",
+    "width": 2400,
+    "height": 2400
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--early-20th-century.json",
+      "url": "https://en.wikipedia.org/wiki/20th_century",
+      "retrieved_at": "2026-03-28T15:55:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--early-20th-century.json",
+      "url": "https://en.wikipedia.org/wiki/20th_century",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

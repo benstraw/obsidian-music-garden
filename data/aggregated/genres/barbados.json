@@ -1,0 +1,133 @@
+{
+  "canonical_slug": "barbados",
+  "display_title": "Barbados",
+  "display_name": "Barbados",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Barbados",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barbados",
+  "summary": "Barbados is an island country in the Caribbean located in the Atlantic Ocean. It is part of the Lesser Antilles of the West Indies and the easternmost island of the Caribbean region. It lies on the boundary of the South American and Caribbean plates. Its capital and largest city is Bridgetown.",
+  "candidates": [
+    "Barbados",
+    "Barbados Defence Force",
+    "Barbados at the 2022 Commonwealth Games",
+    "Barbados at the 2023 Pan American Games",
+    "Barbados national football team",
+    "Barbados national football team results (1980–1999)",
+    "Barbados national football team results (2000–2019)",
+    "Barbados–Canada relations",
+    "Barbados–China relations",
+    "Barbados–United Kingdom relations"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Barbados",
+    "page_url": "https://en.wikipedia.org/wiki/Barbados",
+    "retrieved_at": "2026-03-28T15:53:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1632 Cardona Descripcion Indias (11).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1632_Cardona_Descripcion_Indias_(11).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1632_Cardona_Descripcion_Indias_%2811%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1632_Cardona_Descripcion_Indias_%2811%29.jpg/960px-1632_Cardona_Descripcion_Indias_%2811%29.jpg",
+    "width": 2930,
+    "height": 1953,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Nicol%C3%A1s_de_Cardona\" class=\"extiw\" title=\"w:en:Nicolás de Cardona\"\u003e\u003cspan title=\"Spanish explorer\"\u003eNicolás de Cardona\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1632 Cardona Descripcion Indias (11).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1632_Cardona_Descripcion_Indias_(11).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1632_Cardona_Descripcion_Indias_%2811%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1632_Cardona_Descripcion_Indias_%2811%29.jpg/960px-1632_Cardona_Descripcion_Indias_%2811%29.jpg",
+      "width": 2930,
+      "height": 1953,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Nicol%C3%A1s_de_Cardona\" class=\"extiw\" title=\"w:en:Nicolás de Cardona\"\u003e\u003cspan title=\"Spanish explorer\"\u003eNicolás de Cardona\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2022 Barbados 1 oz Silver Caribbean Seahorse reverse.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2022_Barbados_1_oz_Silver_Caribbean_Seahorse_reverse.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/2022_Barbados_1_oz_Silver_Caribbean_Seahorse_reverse.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2022_Barbados_1_oz_Silver_Caribbean_Seahorse_reverse.jpg/960px-2022_Barbados_1_oz_Silver_Caribbean_Seahorse_reverse.jpg",
+      "width": 1440,
+      "height": 1594,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bruxton\" title=\"User:Bruxton\"\u003eBruxton\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anglophone World.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anglophone_World.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Anglophone_World.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Anglophone_World.svg/960px-Anglophone_World.svg.png",
+      "width": 1920,
+      "height": 974,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:M.Bitton\" class=\"mw-redirect\" title=\"User:M.Bitton\"\u003eM.Bitton\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BRB orthographic.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BRB_orthographic.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BRB_orthographic.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BRB_orthographic.svg/960px-BRB_orthographic.svg.png",
+      "width": 600,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Addicted04\" title=\"User:Addicted04\"\u003eAddicted04\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Barbados-2022 englisch.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Barbados-2022_englisch.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Barbados-2022_englisch.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Barbados-2022_englisch.png",
+      "width": 943,
+      "height": 1205,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Lberges\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Lberges (page does not exist)\"\u003eLberges\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--barbados.json",
+      "url": "https://en.wikipedia.org/wiki/Barbados",
+      "retrieved_at": "2026-03-28T15:53:20Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--barbados.json",
+      "url": "https://commons.wikimedia.org/wiki/File:1632_Cardona_Descripcion_Indias_(11).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

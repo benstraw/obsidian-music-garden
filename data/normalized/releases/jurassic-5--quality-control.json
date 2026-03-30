@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6I4sWoNs2IlWUyMmJ7VDFw",
   "name": "Quality Control",
   "primary_artist_name": "Jurassic 5",
-  "primary_artist_canonical_slug": "jurassic-5"
+  "primary_artist_canonical_slug": "jurassic-5",
+  "musicbrainz_release_id": "0a99dfdc-ae96-4a2d-86fe-0463445c8e8f",
+  "musicbrainz_release_group_id": "6d26408b-cf94-3dac-926a-c7f309ab017c"
 }

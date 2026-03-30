@@ -6,7 +6,8 @@
   "aliases": [
     "hardcore hip hop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Hardcore hip-hop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Hardcore_hip-hop",
@@ -22,40 +23,84 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 22,
-    "unique_artist_count": 4,
-    "unique_release_count": 8,
-    "unique_track_count": 16,
-    "first_played_at": "2026-02-26T03:29:41.387Z",
+    "play_count": 83,
+    "unique_artist_count": 9,
+    "unique_release_count": 23,
+    "unique_track_count": 51,
+    "first_played_at": "2024-01-01T00:00:00.06033128Z",
     "last_played_at": "2026-03-19T02:03:24.391Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "public-enemy",
+      "name": "Public Enemy",
+      "play_count": 34,
+      "spotify_artist_id": "6Mo9PoU6svvhgEum7wh2Nd",
+      "musicbrainz_artist_id": "bf2e15d0-4b77-469e-bfb4-f8414415baca",
+      "spotify_url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+    },
+    {
       "canonical_slug": "wu-tang-clan",
       "name": "Wu-Tang Clan",
-      "play_count": 13,
+      "play_count": 20,
       "spotify_artist_id": "34EP7KEpOjXcM2TCat1ISk",
+      "musicbrainz_artist_id": "0febdcf7-4e1f-4661-9493-b40427de2c13",
       "spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
     },
     {
-      "canonical_slug": "public-enemy",
-      "name": "Public Enemy",
+      "canonical_slug": "lord-finesse",
+      "name": "Lord Finesse",
+      "play_count": 12,
+      "spotify_artist_id": "1C6G15UmVQMDGpYbdsf1Oi",
+      "musicbrainz_artist_id": "bcd09d6f-ee04-4418-a39d-4ecb57747116",
+      "spotify_url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
+    },
+    {
+      "canonical_slug": "dr-dre",
+      "name": "Dr. Dre",
+      "play_count": 5,
+      "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "musicbrainz_artist_id": "5f6ab597-f57a-40da-be9e-adad48708203",
+      "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    },
+    {
+      "canonical_slug": "2pac",
+      "name": "2Pac",
       "play_count": 4,
-      "spotify_artist_id": "6Mo9PoU6svvhgEum7wh2Nd",
-      "spotify_url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+      "spotify_artist_id": "1ZwdS5xdxEREPySFridCfh",
+      "musicbrainz_artist_id": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "spotify_url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
     },
     {
       "canonical_slug": "raekwon",
       "name": "Raekwon",
       "play_count": 4,
       "spotify_artist_id": "2yQf6b8hxahZaT5dHlWaB1",
+      "musicbrainz_artist_id": "4e954b02-fae2-4bd7-9547-e055a6ac0527",
       "spotify_url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+    },
+    {
+      "canonical_slug": "ol-dirty-bastard",
+      "name": "Ol' Dirty Bastard",
+      "play_count": 2,
+      "spotify_artist_id": "50NoVNy9GU1lCrDV8iGpyu",
+      "musicbrainz_artist_id": "d50548a0-3cfd-4d7a-964b-0aef6545d819",
+      "spotify_url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+    },
+    {
+      "canonical_slug": "a-ap-rocky",
+      "name": "A$AP Rocky",
+      "play_count": 1,
+      "spotify_artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+      "musicbrainz_artist_id": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "spotify_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
     },
     {
       "canonical_slug": "big-l",
       "name": "Big L",
       "play_count": 1,
       "spotify_artist_id": "30fiiwr2EeZp1tAhzYCmyM",
+      "musicbrainz_artist_id": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
       "spotify_url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
     }
   ],
@@ -63,61 +108,132 @@
     {
       "canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
       "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "play_count": 9,
+      "play_count": 14,
       "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan"
+      "primary_artist_name": "Wu-Tang Clan",
+      "spotify_album_id": "3tQd5mwBtVyxCoEo4htGAV"
+    },
+    {
+      "canonical_slug": "public-enemy--fear-of-a-black-planet",
+      "name": "Fear Of A Black Planet",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "spotify_album_id": "0aFNb4RDk2hmKKLa0bzXNz",
+      "musicbrainz_release_id": "b1ec7150-bfd2-4dc2-b7c3-8a82826acc29",
+      "musicbrainz_release_group_id": "13cf2244-c850-304d-bc46-b30e3f10e0cc"
+    },
+    {
+      "canonical_slug": "public-enemy--apocalypse-91-the-enemy-strikes-black",
+      "name": "Apocalypse 91… The Enemy Strikes Black",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "spotify_album_id": "2UqKqZofb9pdapHk4HzRUo",
+      "musicbrainz_release_id": "4af7bbba-d6fa-43ef-9969-4ee4a223ab00",
+      "musicbrainz_release_group_id": "b21f49a6-cd5f-3783-9302-6a727121e787"
+    },
+    {
+      "canonical_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
+      "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "spotify_album_id": "3PxXiYU3PjymOEE22PewGZ"
+    },
+    {
+      "canonical_slug": "lord-finesse--the-awakening",
+      "name": "The Awakening",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "lord-finesse",
+      "primary_artist_name": "Lord Finesse",
+      "spotify_album_id": "7tIapzAUTxUTYMvWWFSzV5",
+      "musicbrainz_release_id": "b79edcef-bc1a-471f-9468-d050459c4d3a",
+      "musicbrainz_release_group_id": "4cb73a57-30ba-3843-acb6-c7a580470305"
+    },
+    {
+      "canonical_slug": "dr-dre--2001",
+      "name": "2001",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre",
+      "spotify_album_id": "7q2B4M5EiBkqrlsNW8lB7N",
+      "musicbrainz_release_id": "9545a5e5-014e-3381-8d8a-32a780b450ae",
+      "musicbrainz_release_group_id": "f28e065d-fd56-3929-b0a4-6aa1b4c78bdb"
     },
     {
       "canonical_slug": "raekwon--only-built-4-cuban-linx",
       "name": "Only Built 4 Cuban Linx...",
       "play_count": 4,
       "primary_artist_canonical_slug": "raekwon",
-      "primary_artist_name": "Raekwon"
+      "primary_artist_name": "Raekwon",
+      "spotify_album_id": "7btiyhWzUfzxN3ijSiBpC8",
+      "musicbrainz_release_id": "876f4c16-f0e1-40db-8586-87884d49b70d",
+      "musicbrainz_release_group_id": "ab981b48-9a7b-34c4-b46a-f6266317ce7c"
     },
     {
-      "canonical_slug": "wu-tang-clan--chamber-music",
-      "name": "Chamber Music",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan"
-    },
-    {
-      "canonical_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
-      "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-      "play_count": 2,
+      "canonical_slug": "public-enemy--yo-bum-rush-the-show",
+      "name": "Yo! Bum Rush The Show",
+      "play_count": 4,
       "primary_artist_canonical_slug": "public-enemy",
-      "primary_artist_name": "Public Enemy"
+      "primary_artist_name": "Public Enemy",
+      "spotify_album_id": "2T6GmdIEdFRG9enKTM9uTZ",
+      "musicbrainz_release_id": "237beb13-3570-46c4-bb4f-9ba3bea3771e",
+      "musicbrainz_release_group_id": "10022c07-26de-3ae2-8283-7433958a8399"
+    },
+    {
+      "canonical_slug": "lord-finesse--the-awakening-25th-anniversary-remaster",
+      "name": "The Awakening [25th Anniversary (Remaster)]",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "lord-finesse",
+      "primary_artist_name": "Lord Finesse",
+      "spotify_album_id": "43t9Lys7dVlwBeQQ5Hmf1q"
     },
     {
       "canonical_slug": "wu-tang-clan--wu-tang-forever",
       "name": "Wu-Tang Forever",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan"
-    },
-    {
-      "canonical_slug": "public-enemy--fear-of-a-black-planet",
-      "name": "Fear Of A Black Planet",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "public-enemy",
-      "primary_artist_name": "Public Enemy"
-    },
-    {
-      "canonical_slug": "public-enemy--he-got-game-original-motion-picture-soundtrack",
-      "name": "He Got Game (Original Motion Picture Soundtrack)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "public-enemy",
-      "primary_artist_name": "Public Enemy"
-    },
-    {
-      "canonical_slug": "big-l--lifestylez-ov-da-poor-and-dangerous",
-      "name": "Lifestylez Ov Da Poor \u0026 Dangerous",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "big-l",
-      "primary_artist_name": "Big L"
+      "primary_artist_name": "Wu‐Tang Clan",
+      "spotify_album_id": "4r3TaXjF2b1qwCpxjIpW43",
+      "musicbrainz_release_id": "05ceec03-fe5d-39b2-b535-3e56bfeb9e3d",
+      "musicbrainz_release_group_id": "9c175231-56c2-35f1-a8f0-6059ad587d59"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "public-enemy--black-steel-in-the-hour-of-chaos",
+      "name": "Black Steel In The Hour Of Chaos",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "release_canonical_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
+      "release_name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+      "spotify_track_id": "3XwsGAtbEoBUzJfFmHSHSo",
+      "spotify_url": "https://open.spotify.com/track/3XwsGAtbEoBUzJfFmHSHSo"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--bring-da-ruckus",
+      "name": "Bring Da Ruckus",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "1v5cgIyffYtfEx0swttdoE",
+      "spotify_url": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE"
+    },
+    {
+      "canonical_slug": "wu-tang-clan--c-r-e-a-m-cash-rules-everything-around-me",
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "wu-tang-clan",
+      "primary_artist_name": "Wu-Tang Clan",
+      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
+      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_track_id": "119c93MHjrDLJTApCVGpvx",
+      "spotify_url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
+    },
     {
       "canonical_slug": "raekwon--knuckleheadz-feat-ghostface-killah-and-u-god",
       "name": "Knuckleheadz (feat. Ghostface Killah \u0026 U-God)",
@@ -130,31 +246,9 @@
       "spotify_url": "https://open.spotify.com/track/6f9gbZYbAqHq2rK1ZjZruf"
     },
     {
-      "canonical_slug": "wu-tang-clan--c-r-e-a-m-cash-rules-everything-around-me",
-      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan",
-      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
-      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "spotify_track_id": "119c93MHjrDLJTApCVGpvx",
-      "spotify_url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
-      "canonical_slug": "wu-tang-clan--protect-ya-neck",
-      "name": "Protect Ya Neck",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan",
-      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
-      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "spotify_track_id": "1Sgj10byiGzPpI2IrXSFEn",
-      "spotify_url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
-    },
-    {
       "canonical_slug": "wu-tang-clan--shame-on-a-nigga",
       "name": "Shame On a Nigga",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "wu-tang-clan",
       "primary_artist_name": "Wu-Tang Clan",
       "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
@@ -163,31 +257,42 @@
       "spotify_url": "https://open.spotify.com/track/7IwURvEfVcdxUCjLKUu6sv"
     },
     {
-      "canonical_slug": "wu-tang-clan--sound-the-horns",
-      "name": "Sound The Horns",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan",
-      "release_canonical_slug": "wu-tang-clan--chamber-music",
-      "release_name": "Chamber Music",
-      "spotify_track_id": "234QpD9ilHoJjnhCVd2fOW",
-      "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW"
+      "canonical_slug": "public-enemy--welcome-to-the-terrordome",
+      "name": "Welcome To The Terrordome",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "release_canonical_slug": "public-enemy--fear-of-a-black-planet",
+      "release_name": "Fear Of A Black Planet",
+      "spotify_track_id": "2HlKSufhcnPDZAS1S7jLg6",
+      "spotify_url": "https://open.spotify.com/track/2HlKSufhcnPDZAS1S7jLg6"
     },
     {
-      "canonical_slug": "wu-tang-clan--bring-da-ruckus",
-      "name": "Bring Da Ruckus",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan",
-      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
-      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "spotify_track_id": "1v5cgIyffYtfEx0swttdoE",
-      "spotify_url": "https://open.spotify.com/track/1v5cgIyffYtfEx0swttdoE"
+      "canonical_slug": "public-enemy--911-is-a-joke",
+      "name": "911 Is A Joke",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "release_canonical_slug": "public-enemy--fear-of-a-black-planet",
+      "release_name": "Fear Of A Black Planet",
+      "spotify_track_id": "3iTrlBCVU1Cd1VkNDqKWWO",
+      "spotify_url": "https://open.spotify.com/track/3iTrlBCVU1Cd1VkNDqKWWO"
+    },
+    {
+      "canonical_slug": "public-enemy--bring-tha-noize",
+      "name": "Bring Tha Noize",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "public-enemy",
+      "primary_artist_name": "Public Enemy",
+      "release_canonical_slug": "public-enemy--apocalypse-91-the-enemy-strikes-black",
+      "release_name": "Apocalypse 91… The Enemy Strikes Black",
+      "spotify_track_id": "0goVj3eJV1oD5yqXzkjqLA",
+      "spotify_url": "https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA"
     },
     {
       "canonical_slug": "public-enemy--bring-the-noise",
       "name": "Bring The Noise",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "public-enemy",
       "primary_artist_name": "Public Enemy",
       "release_canonical_slug": "public-enemy--it-takes-a-nation-of-millions-to-hold-us-back-deluxe-edition",
@@ -196,37 +301,15 @@
       "spotify_url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
-      "canonical_slug": "wu-tang-clan--da-mystery-of-chessboxin",
-      "name": "Da Mystery of Chessboxin'",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "wu-tang-clan",
-      "primary_artist_name": "Wu-Tang Clan",
-      "release_canonical_slug": "wu-tang-clan--enter-the-wu-tang-36-chambers-expanded-edition",
-      "release_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-      "spotify_track_id": "4xOTVtbCPcfxMs2hSt9D6i",
-      "spotify_url": "https://open.spotify.com/track/4xOTVtbCPcfxMs2hSt9D6i"
-    },
-    {
-      "canonical_slug": "public-enemy--he-got-game",
-      "name": "He Got Game",
-      "play_count": 1,
+      "canonical_slug": "public-enemy--can-t-truss-it",
+      "name": "Can't Truss It",
+      "play_count": 2,
       "primary_artist_canonical_slug": "public-enemy",
       "primary_artist_name": "Public Enemy",
-      "release_canonical_slug": "public-enemy--he-got-game-original-motion-picture-soundtrack",
-      "release_name": "He Got Game (Original Motion Picture Soundtrack)",
-      "spotify_track_id": "48zajk3g8P3BMT7F9BbDoD",
-      "spotify_url": "https://open.spotify.com/track/48zajk3g8P3BMT7F9BbDoD"
-    },
-    {
-      "canonical_slug": "raekwon--ice-cream-feat-ghostface-killah-method-man-and-cappadonna",
-      "name": "Ice Cream (feat. Ghostface Killah, Method Man \u0026 Cappadonna)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "raekwon",
-      "primary_artist_name": "Raekwon",
-      "release_canonical_slug": "raekwon--only-built-4-cuban-linx",
-      "release_name": "Only Built 4 Cuban Linx...",
-      "spotify_track_id": "6SI4JD7iyQ0rrudhCNtMv0",
-      "spotify_url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
+      "release_canonical_slug": "public-enemy--apocalypse-91-the-enemy-strikes-black",
+      "release_name": "Apocalypse 91… The Enemy Strikes Black",
+      "spotify_track_id": "5r5uZvXHbE4X6CdhnSATtX",
+      "spotify_url": "https://open.spotify.com/track/5r5uZvXHbE4X6CdhnSATtX"
     }
   ],
   "source_refs": [
@@ -235,6 +318,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

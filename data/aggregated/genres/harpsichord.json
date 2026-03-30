@@ -1,0 +1,130 @@
+{
+  "canonical_slug": "harpsichord",
+  "display_title": "Harpsichord",
+  "display_name": "Harpsichord",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Harpsichord",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harpsichord",
+  "summary": "A harpsichord is a keyboard instrument that makes its sound by plucking a set of strings. In a harpsichord, depressing a key raises its back end within the instrument, which in turn lifts one or more jacks, each a thin strip of wood holding a small plectrum made from quill or plastic; each plectrum plucks a single string. The strings are under tension on a soundboard, which is mounted in a wooden case; the soundboard amplifies the vibrations from the strings so that the listeners can hear them. Harpsichord often include more than one choir of strings. Various devices are used to select which choir will sound when playing; these can include simple levers, or in more elaborate instruments the deployment of more than one keyboard.",
+  "candidates": [
+    "Harpsichord",
+    "Harpsichord Concerto (Falla)",
+    "Harpsichord Concerto (Glass)",
+    "Harpsichord Concerto (Górecki)",
+    "Harpsichord Concerto in A major, BWV 1055",
+    "Harpsichord Concerto in D minor, BWV 1052",
+    "Harpsichord Concerto in E major, BWV 1053",
+    "Harpsichord Concerto in F minor, BWV 1056",
+    "Harpsichord concerto",
+    "Harpsichordist"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Harpsichord",
+    "page_url": "https://en.wikipedia.org/wiki/Harpsichord",
+    "retrieved_at": "2026-03-28T15:56:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:035 Museu de la Música.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:035_Museu_de_la_M%C3%BAsica.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/035_Museu_de_la_M%C3%BAsica.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/035_Museu_de_la_M%C3%BAsica.jpg/960px-035_Museu_de_la_M%C3%BAsica.jpg",
+    "width": 2816,
+    "height": 2112,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Enfo\" title=\"User:Enfo\"\u003eEnfo\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:035 Museu de la Música.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:035_Museu_de_la_M%C3%BAsica.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/035_Museu_de_la_M%C3%BAsica.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/035_Museu_de_la_M%C3%BAsica.jpg/960px-035_Museu_de_la_M%C3%BAsica.jpg",
+      "width": 2816,
+      "height": 2112,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Enfo\" title=\"User:Enfo\"\u003eEnfo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adriano Banchieri - The Battle.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adriano_Banchieri_-_The_Battle.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Adriano_Banchieri_-_The_Battle.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Sylvia Kind"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bach C Major Prelude Equal.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bach_C_Major_Prelude_Equal.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bach_C_Major_Prelude_Equal.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:Rs_newhouse\" title=\"User:Rs newhouse\"\u003eRobert Schröter (Rs newhouse)\u003c/a\u003e assumed (based on copyright claims)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bachbwv933.ogv",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bachbwv933.ogv",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bachbwv933.ogv",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bachbwv933.ogv/640px--Bachbwv933.ogv.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:G%C3%A9rard_Janot\" title=\"User:Gérard Janot\"\u003eGérard Janot\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--harpsichord.json",
+      "url": "https://en.wikipedia.org/wiki/Harpsichord",
+      "retrieved_at": "2026-03-28T15:56:59Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--harpsichord.json",
+      "url": "https://commons.wikimedia.org/wiki/File:035_Museu_de_la_M%C3%BAsica.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6aJX58u9Y1FYCKURKTyalb",
   "name": "When I'm Gone",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "e0988dce-019d-49d2-a47a-1156af2b6fcc",
+  "musicbrainz_release_group_id": "b1f959f6-b194-4597-90c0-d24b528ee888"
 }

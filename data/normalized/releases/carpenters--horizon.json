@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0ESCnyuOCpztPojn8m0uqi",
   "name": "Horizon",
   "primary_artist_name": "Carpenters",
-  "primary_artist_canonical_slug": "carpenters"
+  "primary_artist_canonical_slug": "carpenters",
+  "musicbrainz_release_id": "ec5d3abf-3181-42c3-9036-671cc565c1c9",
+  "musicbrainz_release_group_id": "33e96e78-0caf-347c-aa2f-6119ba792be0"
 }

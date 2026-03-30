@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6cKgDS8oVcCNw9EjQf66er",
   "name": "Soul Food",
   "primary_artist_name": "Goodie Mob",
-  "primary_artist_canonical_slug": "goodie-mob"
+  "primary_artist_canonical_slug": "goodie-mob",
+  "musicbrainz_release_id": "fe0a9642-d538-402c-8a93-7ed889b16460",
+  "musicbrainz_release_group_id": "24cfe4c3-06c4-3148-9e32-b88dd2aebdb3"
 }

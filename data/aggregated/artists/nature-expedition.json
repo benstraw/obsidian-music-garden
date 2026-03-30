@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "nature-expedition",
+  "name": "Nature Expedition",
+  "play_count": 6,
+  "spotify_artist_id": "4Yo8oXOy1dREjZAQkzbsTi",
+  "spotify_url": "https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273c0a961d5f49b96b9cef7b07e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02c0a961d5f49b96b9cef7b07e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851c0a961d5f49b96b9cef7b07e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

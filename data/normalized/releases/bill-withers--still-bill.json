@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0sFuW4rH5mFZUjNKnckO3v",
   "name": "Still Bill",
   "primary_artist_name": "Bill Withers",
-  "primary_artist_canonical_slug": "bill-withers"
+  "primary_artist_canonical_slug": "bill-withers",
+  "musicbrainz_release_id": "de3fc9ac-4f6b-42a4-bbe6-f06b9ba7411c",
+  "musicbrainz_release_group_id": "63544e97-de86-3096-8702-250590ae5f90"
 }

@@ -8,7 +8,8 @@
     "country",
     "traditional country"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Country music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Country_music",
@@ -97,151 +98,216 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 14,
-    "unique_artist_count": 9,
-    "unique_release_count": 11,
-    "unique_track_count": 11,
-    "first_played_at": "2026-02-13T01:51:42.135Z",
-    "last_played_at": "2026-03-20T02:45:37.085Z"
+    "play_count": 65,
+    "unique_artist_count": 19,
+    "unique_release_count": 33,
+    "unique_track_count": 41,
+    "first_played_at": "2024-01-01T00:00:00.074180697Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "blackberry-smoke",
+      "name": "Blackberry Smoke",
+      "play_count": 17,
+      "spotify_artist_id": "5P1oS9DUTPEqcrmXDmX4p8",
+      "musicbrainz_artist_id": "1576a26e-f77d-47ac-87f2-4f610c141ac6",
+      "spotify_url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+    },
+    {
+      "canonical_slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "play_count": 7,
+      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
+      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+    },
+    {
+      "canonical_slug": "dan-reeder",
+      "name": "Dan Reeder",
+      "play_count": 7,
+      "spotify_artist_id": "4pzjm2iMtclScYmoJ7q9tD",
+      "musicbrainz_artist_id": "b73ad3ac-be50-4b3c-b5dd-7412d557602c",
+      "spotify_url": "https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD"
+    },
+    {
+      "canonical_slug": "emmylou-harris",
+      "name": "Emmylou Harris",
+      "play_count": 5,
+      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "musicbrainz_artist_id": "35ef61ca-43db-4772-ba27-0489e9ebcb69",
+      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+    },
+    {
+      "canonical_slug": "uncle-tupelo",
+      "name": "Uncle Tupelo",
+      "play_count": 5,
+      "spotify_artist_id": "2Plkkomsc4DKawkCioLKjc",
+      "musicbrainz_artist_id": "95c043f1-0bdd-403a-b714-663908d7e4fc",
+      "spotify_url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions",
+      "name": "Elvis Costello \u0026 The Attractions",
+      "play_count": 4,
+      "spotify_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
+      "musicbrainz_artist_id": "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
+      "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+    },
     {
       "canonical_slug": "david-allan-coe",
       "name": "David Allan Coe",
       "play_count": 3,
       "spotify_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
+      "musicbrainz_artist_id": "d6ad0ad1-2a7c-4d5f-8776-331a3732360c",
       "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
     },
     {
-      "canonical_slug": "emmylou-harris",
-      "name": "Emmylou Harris",
-      "play_count": 3,
-      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
-      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+      "canonical_slug": "brothers-osborne",
+      "name": "Brothers Osborne",
+      "play_count": 2,
+      "spotify_artist_id": "39NR3AUhpbbqKM33vWn2fp",
+      "musicbrainz_artist_id": "7a502bfc-4cab-4dc8-a618-b12aca7258e7",
+      "spotify_url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
     },
     {
       "canonical_slug": "country-s-family-reunion",
       "name": "Country's Family Reunion",
       "play_count": 2,
       "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+      "musicbrainz_artist_id": "0052ff05-af79-4488-b9aa-322d6acf722f",
       "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
     },
     {
-      "canonical_slug": "brothers-osborne",
-      "name": "Brothers Osborne",
-      "play_count": 1,
-      "spotify_artist_id": "39NR3AUhpbbqKM33vWn2fp",
-      "spotify_url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-    },
-    {
-      "canonical_slug": "cal-smith",
-      "name": "Cal Smith",
-      "play_count": 1,
-      "spotify_artist_id": "3yFnqoyp1e54tZEY4ykvNB",
-      "spotify_url": "https://open.spotify.com/artist/3yFnqoyp1e54tZEY4ykvNB"
-    },
-    {
-      "canonical_slug": "flatland-cavalry",
-      "name": "Flatland Cavalry",
-      "play_count": 1,
-      "spotify_artist_id": "4SfGzWmeoNPKIOmiyc7Pav",
-      "spotify_url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-    },
-    {
-      "canonical_slug": "hardy",
-      "name": "HARDY",
-      "play_count": 1,
-      "spotify_artist_id": "5QNm7E7RU2m64l6Gliu8Oy",
-      "spotify_url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-    },
-    {
-      "canonical_slug": "oliver-anthony-music",
-      "name": "Oliver Anthony Music",
-      "play_count": 1,
-      "spotify_artist_id": "6IkfE2JyVoKwBZXvuytKX3",
-      "spotify_url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
-    },
-    {
-      "canonical_slug": "zach-bryan",
-      "name": "Zach Bryan",
-      "play_count": 1,
-      "spotify_artist_id": "40ZNYROS4zLfyyBSs2PGe2",
-      "spotify_url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+      "canonical_slug": "lori-mckenna",
+      "name": "Lori McKenna",
+      "play_count": 2,
+      "spotify_artist_id": "1OV5mEATxtVma7fleFaUyl",
+      "musicbrainz_artist_id": "886557b3-2fa6-494e-993d-b955e789dc57",
+      "spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "blackberry-smoke--the-whippoorwill",
+      "name": "The Whippoorwill",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "2jFnRLRUvsEfnmosLcwjCi",
+      "musicbrainz_release_id": "7fee4ee8-c94f-44d9-923b-36a87cdb2fd0",
+      "musicbrainz_release_group_id": "514a7c52-82e1-41bf-b270-adefb2bd5c6c"
+    },
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "0NrDp8wKKFdhyHSMlcHBnD",
+      "musicbrainz_release_id": "f07a248d-a28d-4b9e-ad16-1bfac4e44cc8",
+      "musicbrainz_release_group_id": "7fa57349-3794-4304-a46d-3b7e7151339c"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--little-piece-of-dixie",
+      "name": "Little Piece of Dixie",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "2biYZTjJzWGHUhwABuQNfs",
+      "musicbrainz_release_id": "c53a2a16-b8c7-48ea-ba92-cc5c8f6924a1",
+      "musicbrainz_release_group_id": "2fcb62b5-0a70-4e9b-93df-694fa21189c3"
+    },
+    {
+      "canonical_slug": "dan-reeder--sweetheart",
+      "name": "Sweetheart",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "dan-reeder",
+      "primary_artist_name": "Dan Reeder",
+      "spotify_album_id": "5T3Gvf5qG6ks3ndlxww0Jy",
+      "musicbrainz_release_id": "c8268cb8-1f0c-486c-a4bd-faeab8a60c70",
+      "musicbrainz_release_group_id": "cc027181-92b4-377f-9e4f-521dbf121682"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "name": "Armed Forces (Remastered 2020)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "spotify_album_id": "5w3q6GZbw0gsAtvl1c0rmu"
+    },
     {
       "canonical_slug": "david-allan-coe--once-upon-a-rhyme",
       "name": "Once Upon a Rhyme",
       "play_count": 3,
       "primary_artist_canonical_slug": "david-allan-coe",
-      "primary_artist_name": "David Allan Coe"
+      "primary_artist_name": "David Allan Coe",
+      "spotify_album_id": "6YfHzMRBscPjVqcxIQoXom",
+      "musicbrainz_release_id": "3fec35f7-b294-42c8-a987-45bac9273556",
+      "musicbrainz_release_group_id": "81057829-25c3-3cbe-8a1f-4efc13927db7"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--bad-luck-ain-t-no-crime",
+      "name": "Bad Luck Ain't No Crime",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "47E4mWqRTqSTgxX49hkGbb",
+      "musicbrainz_release_id": "74005ae4-4756-4f58-a409-9eab5730133b",
+      "musicbrainz_release_group_id": "0c0a29c1-2d2b-3804-a9d2-12c488d9dcc9"
     },
     {
       "canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
       "name": "Celebration (Live / Vol. 1)",
       "play_count": 2,
       "primary_artist_canonical_slug": "country-s-family-reunion",
-      "primary_artist_name": "Country's Family Reunion"
+      "primary_artist_name": "Country's Family Reunion",
+      "spotify_album_id": "3VBBvP1Tn6fjqIuqwwcbcs"
     },
     {
-      "canonical_slug": "hardy--country-country",
-      "name": "COUNTRY! COUNTRY!",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "hardy",
-      "primary_artist_name": "HARDY"
+      "canonical_slug": "dan-reeder--every-which-way",
+      "name": "Every Which Way",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dan-reeder",
+      "primary_artist_name": "Dan Reeder",
+      "spotify_album_id": "6DUg51ztkBdt5PvUAV7Rod",
+      "musicbrainz_release_id": "766b303a-810a-4d8d-b9b1-df6a704b268b",
+      "musicbrainz_release_group_id": "c186420b-68ed-44fb-a533-19e999632fcf"
     },
     {
-      "canonical_slug": "cal-smith--cal-smith",
-      "name": "Cal Smith",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "cal-smith",
-      "primary_artist_name": "Cal Smith"
-    },
-    {
-      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
-      "name": "Elite Hotel (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
-    },
-    {
-      "canonical_slug": "flatland-cavalry--flatland-forever",
-      "name": "Flatland Forever",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "flatland-cavalry",
-      "primary_artist_name": "Flatland Cavalry"
-    },
-    {
-      "canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
-    },
-    {
-      "canonical_slug": "emmylou-harris--quarter-moon-in-a-ten-cent-town-expanded-and-remastered",
-      "name": "Quarter Moon in a Ten Cent Town (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
-    },
-    {
-      "canonical_slug": "oliver-anthony-music--rich-men-north-of-richmond",
-      "name": "Rich Men North of Richmond",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "oliver-anthony-music",
-      "primary_artist_name": "Oliver Anthony Music"
-    },
-    {
-      "canonical_slug": "zach-bryan--with-heaven-on-top",
-      "name": "With Heaven On Top",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "zach-bryan",
-      "primary_artist_name": "Zach Bryan"
+      "canonical_slug": "blackberry-smoke--like-an-arrow",
+      "name": "Like an Arrow",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "4r0Zb1FdEFbpF5olm5ZIW0",
+      "musicbrainz_release_id": "e58d1e19-4197-45f1-8af5-0bc136fdab9c",
+      "musicbrainz_release_group_id": "bcc43a9d-785b-4050-a354-6c330ee9dc0e"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "release_name": "Keep 'Em on They Toes",
+      "spotify_track_id": "0f388trqcZyqGbPJUqGWpx",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
     {
       "canonical_slug": "david-allan-coe--you-never-even-called-me-by-my-name",
       "name": "You Never Even Called Me by My Name",
@@ -252,6 +318,39 @@
       "release_name": "Once Upon a Rhyme",
       "spotify_track_id": "2mV4xg3mvO5aXPLMoD7WrR",
       "spotify_url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
+    },
+    {
+      "canonical_slug": "uncle-tupelo--atomic-power",
+      "name": "Atomic Power",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "uncle-tupelo",
+      "primary_artist_name": "Uncle Tupelo",
+      "release_canonical_slug": "uncle-tupelo--march-16-20-1992",
+      "release_name": "March 16-20, 1992",
+      "spotify_track_id": "0rVrDzOeAXrTJZ71ZpJvZO",
+      "spotify_url": "https://open.spotify.com/track/0rVrDzOeAXrTJZ71ZpJvZO"
+    },
+    {
+      "canonical_slug": "dan-reeder--cowboy-song",
+      "name": "Cowboy Song",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dan-reeder",
+      "primary_artist_name": "Dan Reeder",
+      "release_canonical_slug": "dan-reeder--sweetheart",
+      "release_name": "Sweetheart",
+      "spotify_track_id": "7cX9IJwuoc5PyM0vPabvuC",
+      "spotify_url": "https://open.spotify.com/track/7cX9IJwuoc5PyM0vPabvuC"
+    },
+    {
+      "canonical_slug": "emmylou-harris--didn-t-leave-nobody-but-the-baby",
+      "name": "Didn't Leave Nobody But The Baby",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "gillian-welch--o-brother-where-art-thou-original-motion-picture-soundtrack",
+      "release_name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+      "spotify_track_id": "7ESCrKC98mNhYZY9AenRMQ",
+      "spotify_url": "https://open.spotify.com/track/7ESCrKC98mNhYZY9AenRMQ"
     },
     {
       "canonical_slug": "country-s-family-reunion--easy-loving-live",
@@ -265,92 +364,37 @@
       "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI"
     },
     {
-      "canonical_slug": "hardy--bedrooms-in-the-sky-feat-stephen-wilson-jr",
-      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "hardy",
-      "primary_artist_name": "HARDY",
-      "release_canonical_slug": "hardy--country-country",
-      "release_name": "COUNTRY! COUNTRY!",
-      "spotify_track_id": "4hVlesuEbCoRKZwuupbgTx",
-      "spotify_url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
+      "canonical_slug": "blackberry-smoke--like-i-am",
+      "name": "Like I Am",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "release_canonical_slug": "blackberry-smoke--little-piece-of-dixie",
+      "release_name": "Little Piece of Dixie",
+      "spotify_track_id": "5ULUJAWr7s2IGGAOgYfGja",
+      "spotify_url": "https://open.spotify.com/track/5ULUJAWr7s2IGGAOgYfGja"
     },
     {
-      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
-      "name": "Bluebird Wine - 2003 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
-      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "canonical_slug": "norah-jones--loretta-live-from-the-ryman-auditorium-nashville-2004",
+      "name": "Loretta - Live From The Ryman Auditorium, Nashville/2004",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "norah-jones",
+      "primary_artist_name": "Norah Jones",
+      "release_canonical_slug": "norah-jones--featuring-norah-jones",
+      "release_name": "… Featuring Norah Jones",
+      "spotify_track_id": "2x7VpQwVaeuQkNB0F3gqNa",
+      "spotify_url": "https://open.spotify.com/track/2x7VpQwVaeuQkNB0F3gqNa"
     },
     {
-      "canonical_slug": "flatland-cavalry--humble-folks",
-      "name": "Humble Folks",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "flatland-cavalry",
-      "primary_artist_name": "Flatland Cavalry",
-      "release_canonical_slug": "flatland-cavalry--flatland-forever",
-      "release_name": "Flatland Forever",
-      "spotify_track_id": "3PbBy0wwIOkW7HUaIvfQQ5",
-      "spotify_url": "https://open.spotify.com/track/3PbBy0wwIOkW7HUaIvfQQ5"
-    },
-    {
-      "canonical_slug": "emmylou-harris--i-ain-t-living-long-like-this-2003-remaster",
-      "name": "I Ain't Living Long Like This - 2003 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--quarter-moon-in-a-ten-cent-town-expanded-and-remastered",
-      "release_name": "Quarter Moon in a Ten Cent Town (Expanded \u0026 Remastered)",
-      "spotify_track_id": "2CdX58OHGUefqJYwcalK2q",
-      "spotify_url": "https://open.spotify.com/track/2CdX58OHGUefqJYwcalK2q"
-    },
-    {
-      "canonical_slug": "zach-bryan--miles",
-      "name": "Miles",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "zach-bryan",
-      "primary_artist_name": "Zach Bryan",
-      "release_canonical_slug": "zach-bryan--with-heaven-on-top",
-      "release_name": "With Heaven On Top",
-      "spotify_track_id": "2UNnF7q0GfzVPpcJAOktKU",
-      "spotify_url": "https://open.spotify.com/track/2UNnF7q0GfzVPpcJAOktKU"
-    },
-    {
-      "canonical_slug": "emmylou-harris--one-of-these-days",
-      "name": "One of These Days",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
-      "release_name": "Elite Hotel (Expanded \u0026 Remastered)",
-      "spotify_track_id": "5bdGM6A3QTdrngOtufCS2L",
-      "spotify_url": "https://open.spotify.com/track/5bdGM6A3QTdrngOtufCS2L"
-    },
-    {
-      "canonical_slug": "oliver-anthony-music--rich-men-north-of-richmond",
-      "name": "Rich Men North of Richmond",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "oliver-anthony-music",
-      "primary_artist_name": "Oliver Anthony Music",
-      "release_canonical_slug": "oliver-anthony-music--rich-men-north-of-richmond",
-      "release_name": "Rich Men North of Richmond",
-      "spotify_track_id": "78Du4CMFgnhdlG33gblkiP",
-      "spotify_url": "https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP"
-    },
-    {
-      "canonical_slug": "cal-smith--the-lord-knows-i-m-drinking",
-      "name": "The Lord Knows I'm Drinking",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "cal-smith",
-      "primary_artist_name": "Cal Smith",
-      "release_canonical_slug": "cal-smith--cal-smith",
-      "release_name": "Cal Smith",
-      "spotify_track_id": "7GnEclCTKejiDnrb487GE8",
-      "spotify_url": "https://open.spotify.com/track/7GnEclCTKejiDnrb487GE8"
+      "canonical_slug": "uncle-tupelo--no-depression",
+      "name": "No Depression",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "uncle-tupelo",
+      "primary_artist_name": "Uncle Tupelo",
+      "release_canonical_slug": "uncle-tupelo--no-depression",
+      "release_name": "No Depression",
+      "spotify_track_id": "1OTH0AgyDuo6KZ8BwHVRD1",
+      "spotify_url": "https://open.spotify.com/track/1OTH0AgyDuo6KZ8BwHVRD1"
     }
   ],
   "source_refs": [
@@ -359,6 +403,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -380,9 +430,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-20T02:45:37.085Z",
+      "updated_at": "2026-03-29T17:53:54.137Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:53:54.137Z"
 }

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3kEtdS2pH6hKcMU9Wioob1",
   "name": "Illmatic",
   "primary_artist_name": "Nas",
-  "primary_artist_canonical_slug": "nas"
+  "primary_artist_canonical_slug": "nas",
+  "musicbrainz_release_id": "9651aac2-4296-381f-a595-f11e3242c997",
+  "musicbrainz_release_group_id": "28298e2c-4d70-3eed-a0f5-a3280c662b3d"
 }

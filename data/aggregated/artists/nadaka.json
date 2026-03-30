@@ -1,7 +1,9 @@
 {
   "canonical_slug": "nadaka",
   "name": "Nadaka",
+  "play_count": 1,
   "spotify_artist_id": "6mPYpask2CXhNfCs9OuiXQ",
+  "musicbrainz_artist_id": "62ddab57-37f7-4b88-9d97-51669b5c203f",
   "spotify_url": "https://open.spotify.com/artist/6mPYpask2CXhNfCs9OuiXQ",
   "images": [
     {
@@ -33,5 +35,5 @@
     "Nadekan",
     "Tripti Nadakar"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

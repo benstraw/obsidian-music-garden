@@ -4,6 +4,10 @@
   "name": "Cyberbully (Yayo)",
   "primary_artist_name": "Gnarls Barkley",
   "primary_artist_canonical_slug": "gnarls-barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_name": "Atlanta",
   "release_canonical_slug": "gnarls-barkley--atlanta",
   "spotify_url": "https://open.spotify.com/track/3Twht0RB9Ovdmcd44H5l6T"

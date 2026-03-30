@@ -1,0 +1,44 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3DQiuEWQzCUET866iZJmQ9",
+  "name": "Olu Dara",
+  "spotify_url": "https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9",
+  "musicbrainz_artist_id": "c6a841d8-78d4-4b76-afa0-b848afaf5edb",
+  "source_genres": [
+    "actors",
+    "blues",
+    "cornet players",
+    "dramatists",
+    "harmonica players",
+    "jazz",
+    "jazz musicians",
+    "singers",
+    "trumpet players"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Olu Dara",
+  "summary": "Olu Dara Jones is an American cornetist, guitarist, and singer. He is the father of rapper Nas.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Olu_Dara",
+  "candidates": [
+    "OL Drake",
+    "Old Arabic",
+    "Old Aramaic",
+    "Old Dartmouth",
+    "Olu Ajayi",
+    "Olu Dara",
+    "Olu Falae",
+    "Olu Saar Bari Olu",
+    "Oludare Olufunwa",
+    "The Old Dark House"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Olu Dara",
+    "page_url": "https://en.wikipedia.org/wiki/Olu_Dara",
+    "retrieved_at": "2026-03-28T10:41:40Z"
+  }
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6GGOPGtT3AQMCgeHh5hPMA",
   "name": "Songs Of Freedom Rarities",
   "primary_artist_name": "Bob Marley \u0026 The Wailers",
-  "primary_artist_canonical_slug": "bob-marley-and-the-wailers"
+  "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+  "musicbrainz_release_id": "c5782ce9-3989-4491-ae78-fca14fb88705",
+  "musicbrainz_release_group_id": "05da2004-4b26-4441-959e-1233253fc6c9"
 }

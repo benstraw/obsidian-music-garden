@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1bkN9nIkkCnXeG4yitVS1J",
   "name": "Section.80",
   "primary_artist_name": "Kendrick Lamar",
-  "primary_artist_canonical_slug": "kendrick-lamar"
+  "primary_artist_canonical_slug": "kendrick-lamar",
+  "musicbrainz_release_id": "d0b24c41-8562-47fb-bfe7-5f03397c41c7",
+  "musicbrainz_release_group_id": "ceccd668-a928-4041-a3c3-99a5ce880de9"
 }

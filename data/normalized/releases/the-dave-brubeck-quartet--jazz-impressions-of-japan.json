@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7tOQ0wZyrxr2fqWTO6n8M7",
   "name": "Jazz Impressions Of Japan",
   "primary_artist_name": "The Dave Brubeck Quartet",
-  "primary_artist_canonical_slug": "the-dave-brubeck-quartet"
+  "primary_artist_canonical_slug": "the-dave-brubeck-quartet",
+  "musicbrainz_release_id": "457078de-3292-4196-9249-89e2ce6a1689",
+  "musicbrainz_release_group_id": "ad2253e8-8b2a-3eca-b6e9-f1a5243fb2dd"
 }

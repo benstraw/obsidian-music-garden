@@ -1,0 +1,90 @@
+{
+  "canonical_slug": "industrial-hip-hop",
+  "display_title": "Industrial Hip Hop",
+  "display_name": "Industrial Hip Hop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Industrial hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Industrial_hip-hop",
+  "summary": "Industrial hip hop is a fusion genre of industrial music and hip hop. Originally emerging in the mid-1980s, the genre incorporates the production elements of industrial music with that of traditional hip-hop instrumentation.",
+  "candidates": [
+    "Industrial hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Industrial hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Industrial_hip-hop",
+    "retrieved_at": "2026-03-28T15:57:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Meat Beat Manifesto.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Meat_Beat_Manifesto.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Meat_Beat_Manifesto.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Meat_Beat_Manifesto.jpg/960px-Meat_Beat_Manifesto.jpg",
+    "width": 3264,
+    "height": 2448,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca href=\"//www.flickr.com/people/9788232@N03\" class=\"extiw\" title=\"flickruser:9788232@N03\"\u003eDoug Orleans\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Meat Beat Manifesto.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Meat_Beat_Manifesto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Meat_Beat_Manifesto.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Meat_Beat_Manifesto.jpg/960px-Meat_Beat_Manifesto.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca href=\"//www.flickr.com/people/9788232@N03\" class=\"extiw\" title=\"flickruser:9788232@N03\"\u003eDoug Orleans\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wiki letter w cropped.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wiki_letter_w_cropped.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/960px-Wiki_letter_w_cropped.svg.png",
+      "width": 44,
+      "height": 31,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "derivative work by \u003ca href=\"//commons.wikimedia.org/wiki/User:Thumperward\" title=\"User:Thumperward\"\u003eThumperward\u003c/a\u003e / * \u003ca href=\"//commons.wikimedia.org/wiki/File:Wiki_letter_w.svg\" title=\"File:Wiki letter w.svg\"\u003eFile:Wiki letter w.svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:Jarkko_Piiroinen\" title=\"User:Jarkko Piiroinen\"\u003eJarkko Piiroinen\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--industrial-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Industrial_hip-hop",
+      "retrieved_at": "2026-03-28T15:57:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--industrial-hip-hop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Meat_Beat_Manifesto.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

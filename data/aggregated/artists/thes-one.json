@@ -1,0 +1,80 @@
+{
+  "canonical_slug": "thes-one",
+  "name": "Thes One",
+  "play_count": 106,
+  "spotify_artist_id": "6G69CndLxnRxLdy8MVLNmG",
+  "musicbrainz_artist_id": "d1281759-3892-49e5-9b7a-ce73cfd4f835",
+  "spotify_url": "https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG",
+  "genres": [
+    "jazz-rap"
+  ],
+  "source_genres": [
+    "jazz rap"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb48c9d1dad52a974a92c2015e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517448c9d1dad52a974a92c2015e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17848c9d1dad52a974a92c2015e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Thes One",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thes_One",
+  "summary": "Christopher Cesar Portugal, best known as Thes One, is an American rapper, record producer and sound engineer. As one half of hip hop duo People Under the Stairs alongside Double K, serving as a vocalist/MC, producer and business manager, he produced and engineered 12 albums for People Under the Stairs that appeared on the U.S. and International Billboard charts numerous times, as well as remixes and singles for various artists across the globe and appearances as guest vocalist. As a business manager, he coordinated world tours for People Under the Stairs, co-founded the independent artist-run Tres Records label and went on to create Piecelock 70, a self run, independent record label and brand in 2004. People Under the Stairs announced their intention to retire in early 2019 following the release of their 12th and final album Sincerely, The P, and his career and contribution was celebrated by the Los Angeles Times in a full page article.",
+  "candidates": [
+    "The Honeymooners",
+    "The Neighborhood (TV series)",
+    "The Neighbourhood",
+    "The New School",
+    "The New York Times",
+    "The New Yorker",
+    "The Newsroom (American TV series)",
+    "The Onion",
+    "The Open Championship",
+    "Thes One"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Thes One",
+    "page_url": "https://en.wikipedia.org/wiki/Thes_One",
+    "retrieved_at": "2026-03-28T10:43:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Thes One New.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Thes_One_New.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Thes_One_New.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Thes_One_New.jpg/960px-Thes_One_New.jpg",
+    "width": 3670,
+    "height": 4893,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Piecelock70\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Piecelock70 (page does not exist)\"\u003ePiecelock70\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Thes One New.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Thes_One_New.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Thes_One_New.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Thes_One_New.jpg/960px-Thes_One_New.jpg",
+      "width": 3670,
+      "height": 4893,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Piecelock70\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Piecelock70 (page does not exist)\"\u003ePiecelock70\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

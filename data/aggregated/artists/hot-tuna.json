@@ -1,0 +1,110 @@
+{
+  "canonical_slug": "hot-tuna",
+  "name": "Hot Tuna",
+  "play_count": 1,
+  "spotify_artist_id": "5tOrTQaBRD5yPHqbEwsRn7",
+  "musicbrainz_artist_id": "d13d9feb-b7c7-49f4-9b72-65e29a16aa24",
+  "spotify_url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7",
+  "genres": [
+    "blues-rock",
+    "jam-band"
+  ],
+  "source_genres": [
+    "blues rock",
+    "jam band"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2dc42435d2d01d9754166420bf2056d4438a5397",
+      "height": 800,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/c86a807490659b969de683a1845453081c0014ec",
+      "height": 512,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/4038d20a2a9d371f733c2ed6aa070a8bbb0b3f0c",
+      "height": 160,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/fcdb3a9b0a0a3639c06b413710dc56f3c137af71",
+      "height": 51,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Hot Tuna",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hot_Tuna",
+  "summary": "Hot Tuna is an American blues rock band formed in 1969 by former Jefferson Airplane members Jorma Kaukonen (guitar/vocals) and Jack Casady (bass). Although it has always been a fluid aggregation, with musicians coming and going over the years, the band's center has always been Kaukonen and Casady's ongoing collaboration.",
+  "candidates": [
+    "Hot Snakes",
+    "Hot Sugar (song)",
+    "Hot Tub Time Machine",
+    "Hot Tub Time Machine 2",
+    "Hot Tuna",
+    "Hot Tuna (album)",
+    "Hot Tuna Clothing",
+    "Hot Tuna discography",
+    "Hot tub",
+    "Hot tub folliculitis"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hot Tuna",
+    "page_url": "https://en.wikipedia.org/wiki/Hot_Tuna",
+    "retrieved_at": "2026-03-28T10:39:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Hot Tuna 1972.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Hot_Tuna_1972.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hot_Tuna_1972.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hot_Tuna_1972.JPG",
+    "width": 746,
+    "height": 494,
+    "license": "Public domain",
+    "author": "Grunt Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hot Tuna 1972.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hot_Tuna_1972.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hot_Tuna_1972.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Hot_Tuna_1972.JPG",
+      "width": 746,
+      "height": 494,
+      "license": "Public domain",
+      "author": "Grunt Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hot Tuna 2013.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hot_Tuna_2013.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Hot_Tuna_2013.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hot_Tuna_2013.jpg/960px-Hot_Tuna_2013.jpg",
+      "width": 1600,
+      "height": 1200,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Michael Borkson"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hot Tuna at Merlefest 2006.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hot_Tuna_at_Merlefest_2006.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hot_Tuna_at_Merlefest_2006.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hot_Tuna_at_Merlefest_2006.JPG/960px-Hot_Tuna_at_Merlefest_2006.JPG",
+      "width": 1957,
+      "height": 1389,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:TedE\" class=\"extiw\" title=\"en:User:TedE\"\u003eTedE\u003c/a\u003e on \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:TedE\" class=\"extiw\" title=\"en:User:TedE\"\u003eTedE\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

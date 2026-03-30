@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2ntrZv73irqeBCKaPGt7cT",
   "name": "Malik",
-  "primary_artist_name": "Lafayette Afro Rock Band",
-  "primary_artist_canonical_slug": "lafayette-afro-rock-band"
+  "primary_artist_name": "Lafayette Afro-Rock Band",
+  "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+  "musicbrainz_release_id": "2091d818-93a1-4056-a3c7-e783ad4dfca6",
+  "musicbrainz_release_group_id": "5af719e4-eb2d-3d95-abab-0caffad86b54"
 }

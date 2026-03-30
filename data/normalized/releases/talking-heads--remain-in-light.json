@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1JvXxLsm0PxlGH4LXzqMGq",
   "name": "Remain in Light",
   "primary_artist_name": "Talking Heads",
-  "primary_artist_canonical_slug": "talking-heads"
+  "primary_artist_canonical_slug": "talking-heads",
+  "musicbrainz_release_id": "6a5ee7ec-b90b-47f5-aec2-bc8177c9b46a",
+  "musicbrainz_release_group_id": "f6b1b900-6108-32f0-abbd-2855af9151eb"
 }

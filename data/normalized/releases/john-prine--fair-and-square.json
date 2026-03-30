@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "44sOCUUf8kp3Oj1yBYAKiZ",
   "name": "Fair and Square",
   "primary_artist_name": "John Prine",
-  "primary_artist_canonical_slug": "john-prine"
+  "primary_artist_canonical_slug": "john-prine",
+  "musicbrainz_release_id": "db3b83dc-b975-49ce-a300-fa01b678d955",
+  "musicbrainz_release_group_id": "034e6b4c-bc03-3e80-ac07-92a5f9d96cca"
 }

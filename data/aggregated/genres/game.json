@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "game",
+  "display_title": "Game",
+  "display_name": "Game",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Game",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Game",
+  "summary": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. Many games are also considered to be work or art.",
+  "candidates": [
+    "Gamal Abdel Nasser",
+    "Game",
+    "Game Boy",
+    "Game Boy Advance",
+    "Game of Death",
+    "Game of Thrones",
+    "Game theory",
+    "GameCube",
+    "Gamergate",
+    "The Game (rapper)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Game",
+    "page_url": "https://en.wikipedia.org/wiki/Game",
+    "retrieved_at": "2026-03-28T15:56:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Clann.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Clann.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Clann.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Clann.jpg/960px-Clann.jpg",
+    "width": 1028,
+    "height": 689,
+    "license": "Public domain",
+    "author": "User \u003ca href=\"https://fr.wikipedia.org/wiki/UTilisateur:Fran%C3%A7ois_Haffner\" class=\"extiw\" title=\"fr:UTilisateur:François Haffner\"\u003eFrançois Haffner\u003c/a\u003e on \u003ca class=\"external text\" href=\"https://fr.wikipedia.org\"\u003efr.wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clann.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clann.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Clann.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Clann.jpg/960px-Clann.jpg",
+      "width": 1028,
+      "height": 689,
+      "license": "Public domain",
+      "author": "User \u003ca href=\"https://fr.wikipedia.org/wiki/UTilisateur:Fran%C3%A7ois_Haffner\" class=\"extiw\" title=\"fr:UTilisateur:François Haffner\"\u003eFrançois Haffner\u003c/a\u003e on \u003ca class=\"external text\" href=\"https://fr.wikipedia.org\"\u003efr.wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Game pieces.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Game_pieces.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Game_pieces.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Game_pieces.jpg/960px-Game_pieces.jpg",
+      "width": 1793,
+      "height": 2177,
+      "license": "Public domain",
+      "author": "Linda Bartlett (Photographer)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gaming Board Inscribed for Amenhotep III with Separate Sliding Drawer, ca. 1390-1353 B.C.E.,49.56a-b.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer,_ca._1390-1353_B.C.E.,49.56a-b.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer%2C_ca._1390-1353_B.C.E.%2C49.56a-b.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer%2C_ca._1390-1353_B.C.E.%2C49.56a-b.jpg/960px-Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer%2C_ca._1390-1353_B.C.E.%2C49.56a-b.jpg",
+      "width": 1536,
+      "height": 1181,
+      "license": "No restrictions",
+      "license_url": "//commons.wikimedia.org/wiki/File:Gaming_Board_Inscribed_for_Amenhotep_III_with_Separate_Sliding_Drawer,_ca._1390-1353_B.C.E.,49.56a-b.jpg",
+      "author": "Charles Edwin Wilbour Fund"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kaartspelers, Theodoor Rombouts, 17de eeuw, Koninklijk Museum voor Schone Kunsten Antwerpen, 358.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kaartspelers,_Theodoor_Rombouts,_17de_eeuw,_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_358.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kaartspelers%2C_Theodoor_Rombouts%2C_17de_eeuw%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_358.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kaartspelers%2C_Theodoor_Rombouts%2C_17de_eeuw%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_358.jpg/960px-Kaartspelers%2C_Theodoor_Rombouts%2C_17de_eeuw%2C_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen%2C_358.jpg",
+      "width": 6978,
+      "height": 5178,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Theodoor_Rombouts\" class=\"extiw\" title=\"w:en:Theodoor Rombouts\"\u003e\u003cspan title=\"Flemish painter (1597-1637)\"\u003eTheodoor Rombouts\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Math games - Big Brother Mouse activity day.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Math_games_-_Big_Brother_Mouse_activity_day.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Math_games_-_Big_Brother_Mouse_activity_day.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Math_games_-_Big_Brother_Mouse_activity_day.jpg/960px-Math_games_-_Big_Brother_Mouse_activity_day.jpg",
+      "width": 1250,
+      "height": 855,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Blue_Plover\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Blue Plover (page does not exist)\"\u003eBlue Plover\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--game.json",
+      "url": "https://en.wikipedia.org/wiki/Game",
+      "retrieved_at": "2026-03-28T15:56:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--game.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Clann.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

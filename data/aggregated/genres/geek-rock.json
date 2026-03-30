@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "geek-rock",
+  "display_title": "Geek Rock",
+  "display_name": "Geek Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Geek rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Geek_rock",
+  "summary": "Geek rock is a subgenre of alternative rock that draws influences from indie rock, college rock and nerd music. Characterized by traditional rock instrumentation combined with synthesizers, unusual instruments and song structures, as well as lyrical references to geek culture and specialized yet mundane interests, whimsy, and offbeat humor in general.",
+  "candidates": [
+    "Geek rock",
+    "Genki Rockets",
+    "Genki Rockets II: No Border Between Us",
+    "Glen Rock (boulder)",
+    "Glen Rock High School",
+    "Glen Rock Public Schools",
+    "Glen Rock, New Jersey",
+    "Glen Rock, Pennsylvania",
+    "Grey rockcod",
+    "Rosko Gee"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Geek rock",
+    "page_url": "https://en.wikipedia.org/wiki/Geek_rock",
+    "retrieved_at": "2026-03-28T15:56:28Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:The Doubleclicks at JoCo Cruise Crazy 3.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg/960px-The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+    "width": 3878,
+    "height": 2883,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/wizzer/\"\u003eSteve Petrucelli\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Doubleclicks at JoCo Cruise Crazy 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg/960px-The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+      "width": 3878,
+      "height": 2883,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/wizzer/\"\u003eSteve Petrucelli\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--geek-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Geek_rock",
+      "retrieved_at": "2026-03-28T15:56:28Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--geek-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Doubleclicks_at_JoCo_Cruise_Crazy_3.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

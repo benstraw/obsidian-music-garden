@@ -1,7 +1,9 @@
 {
   "canonical_slug": "curtis-mayfield",
   "name": "Curtis Mayfield",
+  "play_count": 5,
   "spotify_artist_id": "2AV6XDIs32ofIJhkkDevjm",
+  "musicbrainz_artist_id": "4dca4bb2-23ba-4103-97e6-5810311db33a",
   "spotify_url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm",
   "genres": [
     "funk",
@@ -82,5 +84,5 @@
       "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

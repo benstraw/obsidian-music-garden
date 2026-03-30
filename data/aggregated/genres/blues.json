@@ -8,7 +8,8 @@
     "country blues",
     "soul blues"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Blues",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Blues",
@@ -102,57 +103,189 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 8,
-    "unique_artist_count": 3,
-    "unique_release_count": 3,
-    "unique_track_count": 3,
-    "first_played_at": "2026-03-03T11:08:00.633Z",
-    "last_played_at": "2026-03-15T19:35:10.245Z"
+    "play_count": 311,
+    "unique_artist_count": 25,
+    "unique_release_count": 72,
+    "unique_track_count": 208,
+    "first_played_at": "2024-01-01T00:00:00.074180697Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "brent-cobb",
-      "name": "Brent Cobb",
-      "play_count": 6,
-      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
-      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+      "canonical_slug": "howlin-wolf",
+      "name": "Howlin' Wolf",
+      "play_count": 122,
+      "spotify_artist_id": "0Wxy5Qka8BN9crcFkiAxSR",
+      "musicbrainz_artist_id": "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
+      "spotify_url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+    },
+    {
+      "canonical_slug": "tim-hardin",
+      "name": "Tim Hardin",
+      "play_count": 44,
+      "spotify_artist_id": "39GVRVaqlKh7JL8Yl5ZKcb",
+      "musicbrainz_artist_id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+      "spotify_url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
     },
     {
       "canonical_slug": "j-j-cale",
       "name": "J.J. Cale",
-      "play_count": 1,
+      "play_count": 19,
       "spotify_artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
+      "musicbrainz_artist_id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
       "spotify_url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+    },
+    {
+      "canonical_slug": "mose-allison",
+      "name": "Mose Allison",
+      "play_count": 13,
+      "spotify_artist_id": "0sN4enVJwylJKEXZlSbgsm",
+      "musicbrainz_artist_id": "18b76828-4b12-44c1-b8d9-ae82b22557a0",
+      "spotify_url": "https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm"
     },
     {
       "canonical_slug": "otis-redding",
       "name": "Otis Redding",
-      "play_count": 1,
+      "play_count": 9,
       "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+      "musicbrainz_artist_id": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
       "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+    },
+    {
+      "canonical_slug": "fenton-robinson",
+      "name": "Fenton Robinson",
+      "play_count": 8,
+      "spotify_artist_id": "5WFeN8vtX0TYqv0IYVbWZT",
+      "musicbrainz_artist_id": "1b943e67-ed8d-4b5c-b86c-45cc3095c77e",
+      "spotify_url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+    },
+    {
+      "canonical_slug": "john-lee-hooker",
+      "name": "John Lee Hooker",
+      "play_count": 8,
+      "spotify_artist_id": "1yNOfXGQNGjAynk77wv85x",
+      "musicbrainz_artist_id": "b0122194-c49a-46a1-ade7-84d1d76bd8e9",
+      "spotify_url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+    },
+    {
+      "canonical_slug": "johnnie-taylor",
+      "name": "Johnnie Taylor",
+      "play_count": 8,
+      "spotify_artist_id": "4OGuNAnRFWZOgOA2d51taz",
+      "musicbrainz_artist_id": "4c1c21bc-56d9-4bed-8b58-360b08e76ffa",
+      "spotify_url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+    },
+    {
+      "canonical_slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "play_count": 7,
+      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
+      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+    },
+    {
+      "canonical_slug": "ted-hawkins",
+      "name": "Ted Hawkins",
+      "play_count": 7,
+      "spotify_artist_id": "1clAnI6PODaoVlbzlUPOfU",
+      "musicbrainz_artist_id": "f1161aed-e33e-47ec-ba18-8f87766cec09",
+      "spotify_url": "https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
-      "name": "Keep 'Em on They Toes",
-      "play_count": 6,
-      "primary_artist_canonical_slug": "brent-cobb",
-      "primary_artist_name": "Brent Cobb"
+      "canonical_slug": "howlin-wolf--the-chess-box",
+      "name": "The Chess Box",
+      "play_count": 98,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin’ Wolf",
+      "spotify_album_id": "23Tl49tunn9g2e9YWC2y7B",
+      "musicbrainz_release_id": "3d9876bc-7299-462d-8061-bb0eae6b50e8",
+      "musicbrainz_release_group_id": "0337b3e2-1461-3fc7-9fb8-79e307728511"
     },
     {
-      "canonical_slug": "otis-redding--dock-of-the-bay-sessions",
-      "name": "Dock of the Bay Sessions",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "otis-redding",
-      "primary_artist_name": "Otis Redding"
+      "canonical_slug": "tim-hardin--tim-hardin-1",
+      "name": "Tim Hardin 1",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "7GWTeFyEAmLUNYHwba9YvX",
+      "musicbrainz_release_id": "70d857a1-173e-49bb-8e36-5e0b726ef9b0",
+      "musicbrainz_release_group_id": "b1dc278a-ddeb-36ce-856d-ea633649e9eb"
+    },
+    {
+      "canonical_slug": "howlin-wolf--howlin-wolf",
+      "name": "Howlin' Wolf",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin’ Wolf",
+      "spotify_album_id": "26TtzBrPdUkHMSTPSbctbl",
+      "musicbrainz_release_id": "c290d991-2816-40d1-ad26-67b72cff7723",
+      "musicbrainz_release_group_id": "5472bafe-0beb-3d81-87b5-e5db677becbf"
+    },
+    {
+      "canonical_slug": "mose-allison--mose-allison-sings",
+      "name": "Mose Allison Sings",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "mose-allison",
+      "primary_artist_name": "Mose Allison",
+      "spotify_album_id": "5a5XbcCrFeD24y2ZdUOhFL",
+      "musicbrainz_release_id": "79167fba-24ab-4ab6-a11d-938a65721f85",
+      "musicbrainz_release_group_id": "da0a6001-154b-4b9f-896d-01b81d7fd849"
     },
     {
       "canonical_slug": "j-j-cale--naturally",
       "name": "Naturally",
-      "play_count": 1,
+      "play_count": 10,
       "primary_artist_canonical_slug": "j-j-cale",
-      "primary_artist_name": "J.J. Cale"
+      "primary_artist_name": "J.J. Cale",
+      "spotify_album_id": "3cpNHI7xhNIosF9WjSk8Zh",
+      "musicbrainz_release_id": "1b335bbf-03cd-4d9c-84d5-9b4972385989",
+      "musicbrainz_release_group_id": "a5e655a1-acd0-3d4d-982a-4ab5281db04c"
+    },
+    {
+      "canonical_slug": "william-bell--the-complete-stax-volt-soul-singles-vol-2-1968-1971",
+      "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "booker-t-and-the-m-g-s",
+      "primary_artist_name": "Booker T. \u0026 the M.G.'s",
+      "spotify_album_id": "09dsUwnIIqRL97qbvGTrjH"
+    },
+    {
+      "canonical_slug": "tim-hardin--tim-hardin-2-expanded-edition",
+      "name": "Tim Hardin 2 (Expanded Edition)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "4IV5VvubCVcUKaZ1Kgu3ka"
+    },
+    {
+      "canonical_slug": "howlin-wolf--the-real-folk-blues",
+      "name": "The Real Folk Blues",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin’ Wolf",
+      "spotify_album_id": "02H7GlBPL5ur7WBXHna8W0",
+      "musicbrainz_release_id": "c89e6c6c-6b6f-4149-a846-a46ad9c39830",
+      "musicbrainz_release_group_id": "28f17879-d3ae-3c03-be5e-04825895730e"
+    },
+    {
+      "canonical_slug": "tim-hardin--this-is-tim-hardin",
+      "name": "This Is Tim Hardin",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "0SS7nLa4MYmSfjaqPkTxtG",
+      "musicbrainz_release_id": "4e21e6e3-1e03-3d9d-af2b-35af01971fd1",
+      "musicbrainz_release_group_id": "51daba7c-3f39-3b45-8162-0b26e6e8ce36"
+    },
+    {
+      "canonical_slug": "big-walter-horton--big-walter-horton-w-carey-bell",
+      "name": "Big Walter Horton w/ Carey Bell",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "big-walter-horton",
+      "primary_artist_name": "Big Walter Horton",
+      "spotify_album_id": "0u6qeEym4B0JLaVZrw4Ih5"
     }
   ],
   "top_tracks": [
@@ -168,26 +301,103 @@
       "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
     },
     {
-      "canonical_slug": "j-j-cale--call-me-the-breeze",
-      "name": "Call Me The Breeze",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "j-j-cale",
-      "primary_artist_name": "J.J. Cale",
-      "release_canonical_slug": "j-j-cale--naturally",
-      "release_name": "Naturally",
-      "spotify_track_id": "5AQpbyFoQmkOVwmlhKN4ii",
-      "spotify_url": "https://open.spotify.com/track/5AQpbyFoQmkOVwmlhKN4ii"
+      "canonical_slug": "howlin-wolf--killing-floor",
+      "name": "Killing Floor",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-real-folk-blues",
+      "release_name": "The Real Folk Blues",
+      "spotify_track_id": "1a8vVeidOsauNu6rQmHBRS",
+      "spotify_url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
     },
     {
-      "canonical_slug": "otis-redding--hard-to-handle",
-      "name": "Hard to Handle",
-      "play_count": 1,
+      "canonical_slug": "howlin-wolf--smokestack-lightnin",
+      "name": "Smokestack Lightnin'",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--moanin-in-the-moonlight",
+      "release_name": "Moanin' In The Moonlight",
+      "spotify_track_id": "2HUZVffVPXvqnrml0gXggp",
+      "spotify_url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "canonical_slug": "howlin-wolf--forty-four",
+      "name": "Forty Four",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--moanin-in-the-moonlight",
+      "release_name": "Moanin' In The Moonlight",
+      "spotify_track_id": "02Ub2Xv4Vs3UEthDciGPvq",
+      "spotify_url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
+    },
+    {
+      "canonical_slug": "mose-allison--one-room-country-shack",
+      "name": "One Room Country Shack",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "mose-allison",
+      "primary_artist_name": "Mose Allison",
+      "release_canonical_slug": "mose-allison--mose-allison-sings",
+      "release_name": "Mose Allison Sings",
+      "spotify_track_id": "6V6pXFdU5ucHN0xilIDZDb",
+      "spotify_url": "https://open.spotify.com/track/6V6pXFdU5ucHN0xilIDZDb"
+    },
+    {
+      "canonical_slug": "howlin-wolf--poor-boy",
+      "name": "Poor Boy",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-real-folk-blues",
+      "release_name": "The Real Folk Blues",
+      "spotify_track_id": "6UAPJQ5qrM5oRViQCC9sFd",
+      "spotify_url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "canonical_slug": "ted-hawkins--there-stands-the-glass",
+      "name": "There Stands The Glass",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "ted-hawkins",
+      "primary_artist_name": "Ted Hawkins",
+      "release_canonical_slug": "ted-hawkins--the-next-hundred-years",
+      "release_name": "The Next Hundred Years",
+      "spotify_track_id": "6Qg08EQ1KlbiiOuUixPYTd",
+      "spotify_url": "https://open.spotify.com/track/6Qg08EQ1KlbiiOuUixPYTd"
+    },
+    {
+      "canonical_slug": "j-b-lenoir--voodoo-boogie",
+      "name": "Voodoo Boogie",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "j-b-lenoir",
+      "primary_artist_name": "J.B. Lenoir",
+      "release_canonical_slug": "j-b-lenoir--martin-scorsese-presents-the-blues-j-b-lenoir",
+      "release_name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+      "spotify_track_id": "6SOYOAIwnNBotgIsNNT8H3",
+      "spotify_url": "https://open.spotify.com/track/6SOYOAIwnNBotgIsNNT8H3"
+    },
+    {
+      "canonical_slug": "fenton-robinson--you-don-t-know-what-love-is",
+      "name": "You Don't Know What Love Is",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "fenton-robinson",
+      "primary_artist_name": "Fenton Robinson",
+      "release_canonical_slug": "fenton-robinson--somebody-loan-me-a-dime",
+      "release_name": "Somebody Loan Me A Dime",
+      "spotify_track_id": "6NTCurUHy71S0XKVtyQtqT",
+      "spotify_url": "https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT"
+    },
+    {
+      "canonical_slug": "otis-redding--sittin-on-the-dock-of-the-bay",
+      "name": "(Sittin' On) the Dock of the Bay",
+      "play_count": 2,
       "primary_artist_canonical_slug": "otis-redding",
       "primary_artist_name": "Otis Redding",
-      "release_canonical_slug": "otis-redding--dock-of-the-bay-sessions",
-      "release_name": "Dock of the Bay Sessions",
-      "spotify_track_id": "7FXuCkl1kfxwS5icDjTwbM",
-      "spotify_url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "release_canonical_slug": "otis-redding--the-dock-of-the-bay-mono",
+      "release_name": "The Dock of the Bay (Mono)",
+      "spotify_track_id": "3zBhihYUHBmGd2bcQIobrF",
+      "spotify_url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     }
   ],
   "source_refs": [
@@ -196,6 +406,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -217,9 +433,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-15T19:35:10.245Z",
+      "updated_at": "2026-03-29T17:53:54.137Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:53:54.137Z"
 }

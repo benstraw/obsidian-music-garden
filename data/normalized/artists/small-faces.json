@@ -1,0 +1,109 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1YqGsKpdixxSVgpfaL2AEQ",
+  "name": "Small Faces",
+  "spotify_url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ",
+  "musicbrainz_artist_id": "7771a68c-ef6a-400f-978d-64050d45a54c",
+  "source_genres": [
+    "mod",
+    "pop",
+    "psychedelic rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "pop",
+    "psychedelic-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Small Faces",
+  "summary": "The Small Faces were an English rock band from London, founded in 1965. The group originally consisted of singer/guitarist Steve Marriott, bassist Ronnie Lane, drummer Kenney Jones and keyboardist Jimmy Winston, with Ian McLagan replacing Winston in 1966. The band were initially one of the most acclaimed and influential mod groups of the mid-1960s, with hit singles such as \"Whatcha Gonna Do About It\" (1965), \"Sha-La-La-La-Lee\" and \"All or Nothing\". From 1967, they evolved into one of the UK's most successful psychedelic bands, achieving further hit singles including \"Here Come the Nice\", \"Itchycoo Park\", \"Tin Soldier\" and \"Lazy Sunday\" (1968), the latter taken from their critically-acclaimed concept album Ogdens' Nut Gone Flake (1968), which reached No. 1 on the UK Albums Chart.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Small_Faces",
+  "candidates": [
+    "James Small (botanist)",
+    "James Small (rugby union)",
+    "Small Faces",
+    "Small Faces (1966 album)",
+    "Small Faces (1967 album)",
+    "Small Faces (disambiguation)",
+    "Small Faces (film)",
+    "Small Faces discography",
+    "Small Factory",
+    "Small Saves"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Small Faces",
+    "page_url": "https://en.wikipedia.org/wiki/Small_Faces",
+    "retrieved_at": "2026-03-28T10:42:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:SmallFaces1966.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:SmallFaces1966.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/SmallFaces1966.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/SmallFaces1966.png",
+    "width": 762,
+    "height": 642,
+    "license": "Public domain",
+    "author": "Cashbox Magazine"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:SmallFaces1966.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:SmallFaces1966.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/SmallFaces1966.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/SmallFaces1966.png",
+      "width": 762,
+      "height": 642,
+      "license": "Public domain",
+      "author": "Cashbox Magazine"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:SmallFaces1968.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:SmallFaces1968.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/SmallFaces1968.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/SmallFaces1968.png",
+      "width": 846,
+      "height": 864,
+      "license": "Public domain",
+      "author": "Cashbox Magazine"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:SmallFacesPlaque.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:SmallFacesPlaque.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/SmallFacesPlaque.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/SmallFacesPlaque.jpg/960px-SmallFacesPlaque.jpg",
+      "width": 2000,
+      "height": 1331,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "190211-055 CPS"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Small Faces 1965.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Small_Faces_1965.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Small_Faces_1965.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Small_Faces_1965.JPG",
+      "width": 424,
+      "height": 452,
+      "license": "Public domain",
+      "author": "Press Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Small Faces 1967.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Small_Faces_1967.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Small_Faces_1967.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Small_Faces_1967.png/960px-Small_Faces_1967.png",
+      "width": 1243,
+      "height": 885,
+      "license": "Public domain",
+      "author": "Immediate Records"
+    }
+  ]
+}

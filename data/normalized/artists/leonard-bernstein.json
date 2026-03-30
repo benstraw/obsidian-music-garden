@@ -1,0 +1,94 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2LmyJyCF5V1eQyvHgJNbTn",
+  "name": "Leonard Bernstein",
+  "spotify_url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn",
+  "musicbrainz_artist_id": "fa39bc82-9b27-4bbb-9425-d719a72e09ac",
+  "status": "matched",
+  "page_title": "Leonard Bernstein",
+  "summary": "Leonard Bernstein was an American conductor, composer, pianist, music educator, author, and humanitarian. Considered to be one of the most important conductors of his time, he was the first American-born conductor to receive international acclaim. Bernstein was \"one of the most prodigiously talented and successful musicians in American history\" according to music critic Donal Henahan. Bernstein's honors and accolades include seven Emmy Awards, two Tony Awards, and 16 Grammy Awards as well as an Academy Award nomination. He received the Kennedy Center Honor in 1981.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+  "candidates": [
+    "Leonard Bernstein",
+    "Leonard Bernstein Award",
+    "Leonard Bernstein Discusses Humor in Music and Conducts Till Eulenspiegel's Merry Pranks",
+    "Leonard Bernstein Festival of the Creative Arts",
+    "Leonard Bernstein movie",
+    "Leonard Bernstein's Young People's Concerts",
+    "Leonard Feinstein",
+    "Leonard Ornstein"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Leonard Bernstein",
+    "page_url": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+    "retrieved_at": "2026-03-28T10:40:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1943 Nov 14 NYPhil Bernstein.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1943_Nov_14_NYPhil_Bernstein.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1943_Nov_14_NYPhil_Bernstein.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1943_Nov_14_NYPhil_Bernstein.jpg",
+    "width": 440,
+    "height": 718,
+    "license": "Public domain",
+    "author": "The Philharmonic-Symphony Society of New York"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1943 Nov 14 NYPhil Bernstein.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1943_Nov_14_NYPhil_Bernstein.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1943_Nov_14_NYPhil_Bernstein.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1943_Nov_14_NYPhil_Bernstein.jpg",
+      "width": 440,
+      "height": 718,
+      "license": "Public domain",
+      "author": "The Philharmonic-Symphony Society of New York"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1943 Nov 14 NYPhil Bernstein.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1943_Nov_14_NYPhil_Bernstein.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1943_Nov_14_NYPhil_Bernstein.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "CBS"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1985-9-3 Leonard BernsteinImg、Israel Philharmonic Orchestra in Osaka Festival Hall, Mahler Symphony No. 9 in D major 861☆彡.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1985-9-3_Leonard_BernsteinImg%E3%80%81Israel_Philharmonic_Orchestra_in_Osaka_Festival_Hall,_Mahler_Symphony_No._9_in_D_major_861%E2%98%86%E5%BD%A1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/1985-9-3_Leonard_BernsteinImg%E3%80%81Israel_Philharmonic_Orchestra_in_Osaka_Festival_Hall%2C_Mahler_Symphony_No._9_in_D_major_861%E2%98%86%E5%BD%A1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/1985-9-3_Leonard_BernsteinImg%E3%80%81Israel_Philharmonic_Orchestra_in_Osaka_Festival_Hall%2C_Mahler_Symphony_No._9_in_D_major_861%E2%98%86%E5%BD%A1.jpg/960px-1985-9-3_Leonard_BernsteinImg%E3%80%81Israel_Philharmonic_Orchestra_in_Osaka_Festival_Hall%2C_Mahler_Symphony_No._9_in_D_major_861%E2%98%86%E5%BD%A1.jpg",
+      "width": 3507,
+      "height": 2325,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E6%9D%BE%E5%B2%A1%E6%98%8E%E8%8A%B3\" title=\"User:松岡明芳\"\u003e松岡明芳\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bernstein, Leonard (1918-1990) - 1944 - foto van Vechten2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bernstein,_Leonard_(1918-1990)_-_1944_-_foto_van_Vechten2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bernstein%2C_Leonard_%281918-1990%29_-_1944_-_foto_van_Vechten2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bernstein%2C_Leonard_%281918-1990%29_-_1944_-_foto_van_Vechten2.jpg",
+      "width": 346,
+      "height": 498,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Carl_Van_Vechten\" class=\"extiw\" title=\"w:en:Carl Van Vechten\"\u003e\u003cspan title=\"American writer and photographer (1880–1964)\"\u003eCarl Van Vechten\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "english-sinfonia",
+  "name": "English Sinfonia",
+  "spotify_artist_id": "43Nyp1sl8Hu85Q7KvLHscq",
+  "musicbrainz_artist_id": "39ea9ddb-3d6f-474b-b21b-b872e3e0d71e",
+  "spotify_url": "https://open.spotify.com/artist/43Nyp1sl8Hu85Q7KvLHscq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/c8dfee3f5dfdba47f1f1b75137f6346c5bbe0170",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/9767ef43eeff272908430f5defd585593b6ac515",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/05bfc5ce4feb6c8d91774ded4fa273d91a47e644",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/dc13e95e220d7a87a4c9201670c6ee23de095ee4",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

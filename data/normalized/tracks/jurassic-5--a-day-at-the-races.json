@@ -4,6 +4,10 @@
   "name": "A Day At The Races",
   "primary_artist_name": "Jurassic 5",
   "primary_artist_canonical_slug": "jurassic-5",
+  "additional_artist_slugs": [
+    "percee-p",
+    "big-daddy-kane"
+  ],
   "release_name": "Power In Numbers",
   "release_canonical_slug": "jurassic-5--power-in-numbers",
   "spotify_url": "https://open.spotify.com/track/2QBlIsDMYoHcANWylV74Oj"

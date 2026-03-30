@@ -1,15 +1,41 @@
 {
   "canonical_slug": "david-bowie",
   "name": "David Bowie",
+  "play_count": 12,
   "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+  "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
   "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy",
   "genres": [
+    "alternative-rock",
+    "art-pop",
     "art-rock",
-    "glam-rock"
+    "classic-rock",
+    "glam-rock",
+    "new-wave",
+    "pop",
+    "rock"
   ],
   "source_genres": [
+    "actors",
+    "alternative rock",
+    "arrangers",
+    "art pop",
     "art rock",
-    "glam rock"
+    "british",
+    "classic rock",
+    "composers",
+    "glam rock",
+    "glam rock music",
+    "glam rock musicians",
+    "new wave",
+    "pop",
+    "pop rock",
+    "rock",
+    "rock music",
+    "rock musicians",
+    "singers",
+    "sound recording executives and producers",
+    "uk"
   ],
   "images": [
     {
@@ -123,5 +149,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Photobra\" title=\"User:Photobra\"\u003eAdam Bielawski\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

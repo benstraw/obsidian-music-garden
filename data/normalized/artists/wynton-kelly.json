@@ -1,0 +1,63 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5ncBRFyyylFng7kQJaRXN0",
+  "name": "Wynton Kelly",
+  "spotify_url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0",
+  "musicbrainz_artist_id": "d3f9352c-18e2-47a0-802c-13d821490e42",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Wynton Kelly",
+  "summary": "Wynton Charles Kelly was an American jazz pianist and composer. He is known for his lively, blues-based playing and as one of the finest accompanists in jazz. He began playing professionally at the age of 12 and was pianist on a No. 1 R\u0026B hit at the age of 16. His recording debut as a leader occurred three years later, around the time he started to become better known as an accompanist to singer Dinah Washington, and as a member of trumpeter Dizzy Gillespie's band. This progress was interrupted by two years in the United States Army, after which Kelly worked again with Washington and Gillespie, and played with other leaders. Over the next few years, these included instrumentalists Cannonball Adderley, John Coltrane, Hank Mobley, Wes Montgomery, and Sonny Rollins, and vocalists Betty Carter, Billie Holiday, and Abbey Lincoln.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Wynton_Kelly",
+  "candidates": [
+    "Wynton Kelly",
+    "Wynton Kelly discography",
+    "Wynton Kelly!"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wynton Kelly",
+    "page_url": "https://en.wikipedia.org/wiki/Wynton_Kelly",
+    "retrieved_at": "2026-03-28T10:44:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Wynton Kelly (portrait crop).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Wynton_Kelly_(portrait_crop).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wynton_Kelly_%28portrait_crop%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wynton_Kelly_%28portrait_crop%29.jpg",
+    "width": 345,
+    "height": 435,
+    "license": "Public domain",
+    "author": "Shaw Artists Corporation, New York"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wynton Kelly (portrait crop).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wynton_Kelly_(portrait_crop).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wynton_Kelly_%28portrait_crop%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Wynton_Kelly_%28portrait_crop%29.jpg",
+      "width": 345,
+      "height": 435,
+      "license": "Public domain",
+      "author": "Shaw Artists Corporation, New York"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wynton Kelly Trio.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wynton_Kelly_Trio.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wynton_Kelly_Trio.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wynton_Kelly_Trio.JPG/960px-Wynton_Kelly_Trio.JPG",
+      "width": 1077,
+      "height": 1226,
+      "license": "Public domain",
+      "author": "Shaw Artists Corporation, New York"
+    }
+  ]
+}

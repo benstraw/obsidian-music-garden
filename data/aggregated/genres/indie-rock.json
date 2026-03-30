@@ -7,6 +7,7 @@
     "indie rock"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Indie rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Indie_rock",
@@ -106,67 +107,301 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 2,
-    "unique_artist_count": 2,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-03T14:07:30.400Z",
-    "last_played_at": "2026-03-20T00:47:43.095Z"
+    "play_count": 225,
+    "unique_artist_count": 24,
+    "unique_release_count": 65,
+    "unique_track_count": 169,
+    "first_played_at": "2024-01-01T00:00:00.031360515Z",
+    "last_played_at": "2026-03-29T04:24:55.741Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "modest-mouse",
-      "name": "Modest Mouse",
-      "play_count": 1,
-      "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT",
-      "spotify_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+      "canonical_slug": "pavement",
+      "name": "Pavement",
+      "play_count": 30,
+      "spotify_artist_id": "3inCNiUr4R6XQ3W43s9Aqi",
+      "musicbrainz_artist_id": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+      "spotify_url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
     },
     {
-      "canonical_slug": "wet-leg",
-      "name": "Wet Leg",
-      "play_count": 1,
-      "spotify_artist_id": "2TwOrUcYnAlIiKmVQkkoSZ",
-      "spotify_url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+      "canonical_slug": "dinosaur-jr",
+      "name": "Dinosaur Jr.",
+      "play_count": 22,
+      "spotify_artist_id": "267VY6GX5LyU5c9M85ECZQ",
+      "musicbrainz_artist_id": "77c167d2-4965-4421-830a-9815e4956475",
+      "spotify_url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+    },
+    {
+      "canonical_slug": "fugazi",
+      "name": "Fugazi",
+      "play_count": 22,
+      "spotify_artist_id": "62sC6lUEWRjbFqXpMmOk4G",
+      "musicbrainz_artist_id": "233fc3f3-6de2-465c-985e-e721dbabbace",
+      "spotify_url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+    },
+    {
+      "canonical_slug": "electrelane",
+      "name": "Electrelane",
+      "play_count": 19,
+      "spotify_artist_id": "7ulIMfVKiXh8ecEpAVHIAY",
+      "musicbrainz_artist_id": "7756e3dc-f44c-4678-a7bc-d1b31204a963",
+      "spotify_url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+    },
+    {
+      "canonical_slug": "monks-of-doom",
+      "name": "Monks of Doom",
+      "play_count": 16,
+      "spotify_artist_id": "4RXqLrmaH6CPVUEjhQLt3U",
+      "musicbrainz_artist_id": "3eabadd7-5766-436d-a7d3-dd85bc209ffe",
+      "spotify_url": "https://open.spotify.com/artist/4RXqLrmaH6CPVUEjhQLt3U"
+    },
+    {
+      "canonical_slug": "violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 16,
+      "spotify_artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+      "musicbrainz_artist_id": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+      "spotify_url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+    },
+    {
+      "canonical_slug": "beck",
+      "name": "Beck",
+      "play_count": 14,
+      "spotify_artist_id": "3vbKDsSS70ZX9D2OcvbZmS",
+      "musicbrainz_artist_id": "309c62ba-7a22-4277-9f67-4a162526d18a",
+      "spotify_url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+    },
+    {
+      "canonical_slug": "r-e-m",
+      "name": "R.E.M.",
+      "play_count": 12,
+      "spotify_artist_id": "4KWTAlx2RvbpseOGMEmROg",
+      "musicbrainz_artist_id": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "spotify_url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    },
+    {
+      "canonical_slug": "deerhoof",
+      "name": "Deerhoof",
+      "play_count": 10,
+      "spotify_artist_id": "7AZwAitWq1KcFoIJhRWb6V",
+      "musicbrainz_artist_id": "11eabe0c-2638-4808-92f9-1dbd9c453429",
+      "spotify_url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+    },
+    {
+      "canonical_slug": "silver-jews",
+      "name": "Silver Jews",
+      "play_count": 10,
+      "spotify_artist_id": "4ePunOqQbOYoQwd1298g3Z",
+      "musicbrainz_artist_id": "1bc2d696-c0e2-480d-87ed-17b2a82d7983",
+      "spotify_url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "modest-mouse--good-news-for-people-who-love-bad-news",
-      "name": "Good News For People Who Love Bad News",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "modest-mouse",
-      "primary_artist_name": "Modest Mouse"
+      "canonical_slug": "pavement--wowee-zowee",
+      "name": "Wowee Zowee",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "pavement",
+      "primary_artist_name": "Pavement",
+      "spotify_album_id": "0OHDiDMyxzWJfwtoeHNCf4",
+      "musicbrainz_release_id": "e82d07a2-aba4-4926-9961-55135db3c7e3",
+      "musicbrainz_release_group_id": "fa79988d-62b5-3039-9169-ed0d17d53296"
     },
     {
-      "canonical_slug": "wet-leg--mangetout-the-dare-remix",
-      "name": "mangetout (The Dare remix)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "wet-leg",
-      "primary_artist_name": "Wet Leg"
+      "canonical_slug": "monks-of-doom--soundtrack-to-the-film-breakfast-on-the-beach-of-deception",
+      "name": "Soundtrack to the Film \"Breakfast on the Beach of Deception\"",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "monks-of-doom",
+      "primary_artist_name": "Monks of Doom",
+      "spotify_album_id": "7G4fKNCU6vSqw720IxsCiT",
+      "musicbrainz_release_id": "6a6989d1-4d4e-4a1a-bf36-c5b85be3b028",
+      "musicbrainz_release_group_id": "ff4ff83f-8649-38eb-935d-baa8d85f20ed"
+    },
+    {
+      "canonical_slug": "electrelane--no-shouts-no-calls",
+      "name": "No Shouts, No Calls",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "spotify_album_id": "0l9mVAWNzHKX0B7o9IEIeB",
+      "musicbrainz_release_id": "d8e4a57a-ed1d-480e-9d95-33d1f33a1656",
+      "musicbrainz_release_group_id": "a42737df-433d-36a4-9d19-7224e08be609"
+    },
+    {
+      "canonical_slug": "violent-femmes--violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "0Ojio25IPzIrw1rUmgrhrG",
+      "musicbrainz_release_id": "47db7a62-72b5-458d-9877-efd463a13f32",
+      "musicbrainz_release_group_id": "616a1d80-83d0-3234-bf71-fe3de8109f99"
+    },
+    {
+      "canonical_slug": "dinosaur-jr--you-re-living-all-over-me",
+      "name": "You're Living All Over Me",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "dinosaur-jr",
+      "primary_artist_name": "Dinosaur Jr.",
+      "spotify_album_id": "3peMqhMZ1HT8N4lvSS3GPu"
+    },
+    {
+      "canonical_slug": "fugazi--13-songs",
+      "name": "13 Songs",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "fugazi",
+      "primary_artist_name": "Fugazi",
+      "spotify_album_id": "1FcRwT7uoNdO8L9wbYsfAY",
+      "musicbrainz_release_id": "5f692216-1932-4cfa-ad6e-0e3c2304579f",
+      "musicbrainz_release_group_id": "e65e574d-6129-3798-84d9-5952876ad210"
+    },
+    {
+      "canonical_slug": "r-e-m--green-remastered",
+      "name": "Green (Remastered)",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "r-e-m",
+      "primary_artist_name": "R.E.M.",
+      "spotify_album_id": "7rfKAiPs9ToZP9zEJDBqBH"
+    },
+    {
+      "canonical_slug": "beck--one-foot-in-the-grave-deluxe-reissue",
+      "name": "One Foot in the Grave (Deluxe Reissue)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "spotify_album_id": "1Wevdui6vRd9olTF4ipEu8"
+    },
+    {
+      "canonical_slug": "deerhoof--breakup-song",
+      "name": "Breakup Song",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "5JunU3flt52yhYBKhmUnM1",
+      "musicbrainz_release_id": "a0800e93-d0da-40ed-ad71-cf814dd0a2d3",
+      "musicbrainz_release_group_id": "a186e8e5-7c3b-4080-b039-2cf92e0211a2"
+    },
+    {
+      "canonical_slug": "dinosaur-jr--dinosaur",
+      "name": "Dinosaur",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "dinosaur-jr",
+      "primary_artist_name": "Dinosaur Jr.",
+      "spotify_album_id": "3QqXfyJlWaEUsrnW4cQ03c",
+      "musicbrainz_release_id": "c8bfe5fe-8bc0-43da-8d19-8f37c1acbb15",
+      "musicbrainz_release_group_id": "2ec00171-d7e9-3b0f-b752-c6deda8979da"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "modest-mouse--float-on",
-      "name": "Float On",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "modest-mouse",
-      "primary_artist_name": "Modest Mouse",
-      "release_canonical_slug": "modest-mouse--good-news-for-people-who-love-bad-news",
-      "release_name": "Good News For People Who Love Bad News",
-      "spotify_track_id": "2lwwrWVKdf3LR9lbbhnr6R",
-      "spotify_url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
+      "canonical_slug": "the-breeders--new-year",
+      "name": "New Year",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-breeders",
+      "primary_artist_name": "The Breeders",
+      "release_canonical_slug": "the-breeders--last-splash",
+      "release_name": "Last Splash",
+      "spotify_track_id": "6MEAQnIS71j4BGkyRhz7dA",
+      "spotify_url": "https://open.spotify.com/track/6MEAQnIS71j4BGkyRhz7dA"
     },
     {
-      "canonical_slug": "wet-leg--mangetout-the-dare-remix",
-      "name": "mangetout - The Dare remix",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "wet-leg",
-      "primary_artist_name": "Wet Leg",
-      "release_canonical_slug": "wet-leg--mangetout-the-dare-remix",
-      "release_name": "mangetout (The Dare remix)",
-      "spotify_track_id": "1IkSG0zP2JfECRpgPcr9Uq",
-      "spotify_url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+      "canonical_slug": "silver-jews--advice-to-the-graduate",
+      "name": "Advice To The Graduate",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "silver-jews",
+      "primary_artist_name": "Silver Jews",
+      "release_canonical_slug": "silver-jews--starlite-walker",
+      "release_name": "Starlite Walker",
+      "spotify_track_id": "6HADliXFMMRQl4300tE4Hy",
+      "spotify_url": "https://open.spotify.com/track/6HADliXFMMRQl4300tE4Hy"
+    },
+    {
+      "canonical_slug": "monks-of-doom--b-music",
+      "name": "B-Music",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "monks-of-doom",
+      "primary_artist_name": "Monks of Doom",
+      "release_canonical_slug": "monks-of-doom--soundtrack-to-the-film-breakfast-on-the-beach-of-deception",
+      "release_name": "Soundtrack to the Film \"Breakfast on the Beach of Deception\"",
+      "spotify_track_id": "3fD0YuJ7rJKLKPanxOrBN5",
+      "spotify_url": "https://open.spotify.com/track/3fD0YuJ7rJKLKPanxOrBN5"
+    },
+    {
+      "canonical_slug": "electrelane--between-the-wolf-and-the-dog",
+      "name": "Between the Wolf and the Dog",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "release_canonical_slug": "electrelane--no-shouts-no-calls",
+      "release_name": "No Shouts, No Calls",
+      "spotify_track_id": "71LTmGzNVuEd2yWNJRPyVj",
+      "spotify_url": "https://open.spotify.com/track/71LTmGzNVuEd2yWNJRPyVj"
+    },
+    {
+      "canonical_slug": "violent-femmes--blister-in-the-sun",
+      "name": "Blister In The Sun",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "release_canonical_slug": "violent-femmes--violent-femmes",
+      "release_name": "Violent Femmes",
+      "spotify_track_id": "7jIAttgQTpLDoNtykIQXjH",
+      "spotify_url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "canonical_slug": "deerhoof--breakup-songs",
+      "name": "Breakup Songs",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--breakup-song",
+      "release_name": "Breakup Song",
+      "spotify_track_id": "6KzDeUNlDMQyckjHFoIYvw",
+      "spotify_url": "https://open.spotify.com/track/6KzDeUNlDMQyckjHFoIYvw"
+    },
+    {
+      "canonical_slug": "dinosaur-jr--bulbs-of-passion",
+      "name": "Bulbs of Passion",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dinosaur-jr",
+      "primary_artist_name": "Dinosaur Jr.",
+      "release_canonical_slug": "dinosaur-jr--dinosaur",
+      "release_name": "Dinosaur",
+      "spotify_track_id": "2JEu7iASb118tsMC53yQ3t",
+      "spotify_url": "https://open.spotify.com/track/2JEu7iASb118tsMC53yQ3t"
+    },
+    {
+      "canonical_slug": "fugazi--burning",
+      "name": "Burning",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "fugazi",
+      "primary_artist_name": "Fugazi",
+      "release_canonical_slug": "fugazi--13-songs",
+      "release_name": "13 Songs",
+      "spotify_track_id": "2X6mS6sYa7MzrmG2bmRDA8",
+      "spotify_url": "https://open.spotify.com/track/2X6mS6sYa7MzrmG2bmRDA8"
+    },
+    {
+      "canonical_slug": "the-olivia-tremor-control--california-demise-pt-1",
+      "name": "California Demise Pt. 1",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-olivia-tremor-control",
+      "primary_artist_name": "The Olivia Tremor Control",
+      "release_canonical_slug": "the-olivia-tremor-control--presents-singles-and-beyond",
+      "release_name": "Presents: Singles and Beyond",
+      "spotify_track_id": "6dSyqHCxifkRDLztPTzo1q",
+      "spotify_url": "https://open.spotify.com/track/6dSyqHCxifkRDLztPTzo1q"
+    },
+    {
+      "canonical_slug": "dinosaur-jr--cats-in-a-bowl",
+      "name": "Cats In a Bowl",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dinosaur-jr",
+      "primary_artist_name": "Dinosaur Jr.",
+      "release_canonical_slug": "dinosaur-jr--dinosaur",
+      "release_name": "Dinosaur",
+      "spotify_track_id": "11Jn1q1hKzfrSCy6bjaOYs",
+      "spotify_url": "https://open.spotify.com/track/11Jn1q1hKzfrSCy6bjaOYs"
     }
   ],
   "source_refs": [
@@ -175,6 +410,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -196,9 +437,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-20T00:47:43.095Z",
+      "updated_at": "2026-03-29T04:24:55.741Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:24:55.741Z"
 }

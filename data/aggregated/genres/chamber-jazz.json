@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "chamber-jazz",
+  "display_title": "Chamber Jazz",
+  "display_name": "Chamber Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Chamber jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chamber_jazz",
+  "summary": "Chamber jazz is a genre of jazz involving small, acoustic-based ensembles where group interplay is important. It is influenced aesthetically by the small ensembles of chamber music in musical neoclassicism and is often influenced by classical forms of Western music, music as well as non-Western music or culture. along with various folk genres such as Celtic music, Central European, or Latin American music.",
+  "candidates": [
+    "Chamber jazz",
+    "Chamber of Mazarbul",
+    "Chatter Jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chamber jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Chamber_jazz",
+    "retrieved_at": "2026-03-28T15:54:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Text document with red question mark.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/960px-Text_document_with_red_question_mark.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chamber-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Chamber_jazz",
+      "retrieved_at": "2026-03-28T15:54:02Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chamber-jazz.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,28 @@
+{
+  "source": "spotify",
+  "source_artist_id": "16jnz1GU2KwCtBMc7zmClK",
+  "name": "Mike Scott",
+  "spotify_url": "https://open.spotify.com/artist/16jnz1GU2KwCtBMc7zmClK",
+  "musicbrainz_artist_id": "20d14c0c-79bd-4795-9612-8d31debd6bae",
+  "source_genres": [
+    "pop rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "pop",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Mike Scott",
+    "Mike Scott (Coronation Street)",
+    "Mike Scott (English musician)",
+    "Mike Scott (Scottish musician)",
+    "Mike Scott (baseball)",
+    "Mike Scott (basketball, born 1986)",
+    "Mike Scott (basketball, born 1988)",
+    "Mike Scott (broadcaster)",
+    "Mike Scott and the Waterboys",
+    "Mike Scotti"
+  ]
+}

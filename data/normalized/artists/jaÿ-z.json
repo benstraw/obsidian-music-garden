@@ -1,14 +1,20 @@
 {
   "source": "spotify",
   "source_artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
-  "name": "JAŸ-Z",
+  "name": "JAY-Z",
   "spotify_url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+  "musicbrainz_artist_id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
   "source_genres": [
+    "alternative hip hop",
+    "chipmunk soul",
+    "conscious",
     "east coast hip hop",
     "hip hop",
+    "pop rap",
     "rap"
   ],
   "canonical_genre_slugs": [
+    "alternative-hip-hop",
     "east-coast-hip-hop",
     "hip-hop",
     "rap"

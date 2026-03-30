@@ -1,0 +1,101 @@
+{
+  "canonical_slug": "intelligent-dance-music",
+  "display_title": "Intelligent Dance Music",
+  "display_name": "Intelligent Dance Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Intelligent dance music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Intelligent_dance_music",
+  "summary": "Intelligent dance music (IDM) is a style of electronic music originating in the early 1990s, defined by idiosyncratic experimentation rather than specific genre constraints. The music often described with the term originally emerged from the culture and sound palette of styles of electronic dance music such as acid house, ambient techno, Detroit techno and breakbeat; it has been regarded as better suited to home listening than dancing. Prominent artists in the style include Aphex Twin, Autechre, Squarepusher, μ-Ziq, the Black Dog, the Future Sound of London, and Orbital.",
+  "candidates": [
+    "Intelligent dance music",
+    "List of intelligent dance music artists"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Intelligent dance music",
+    "page_url": "https://en.wikipedia.org/wiki/Intelligent_dance_music",
+    "retrieved_at": "2026-03-28T15:57:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Autechre (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Autechre_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Autechre_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Autechre_%28cropped%29.jpg/960px-Autechre_%28cropped%29.jpg",
+    "width": 2237,
+    "height": 1311,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71875951@N00\"\u003ePablo Sanz Almoguera\u003c/a\u003e from The Hague, Netherlands)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Autechre (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Autechre_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Autechre_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Autechre_%28cropped%29.jpg/960px-Autechre_%28cropped%29.jpg",
+      "width": 2237,
+      "height": 1311,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71875951@N00\"\u003ePablo Sanz Almoguera\u003c/a\u003e from The Hague, Netherlands)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yellow Magic Orchestra YMO (1981 Press Photo).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yellow_Magic_Orchestra_YMO_(1981_Press_Photo).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Yellow_Magic_Orchestra_YMO_%281981_Press_Photo%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Yellow_Magic_Orchestra_YMO_%281981_Press_Photo%29.jpg/960px-Yellow_Magic_Orchestra_YMO_%281981_Press_Photo%29.jpg",
+      "width": 1750,
+      "height": 1519,
+      "license": "Public domain",
+      "author": "Photograph by Kenji Miura. Distributed by A\u0026amp;M Records"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--intelligent-dance-music.json",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_dance_music",
+      "retrieved_at": "2026-03-28T15:57:20Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--intelligent-dance-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Autechre_(cropped).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

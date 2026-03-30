@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "60s",
+  "display_title": "60s",
+  "display_name": "60s",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "60s",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/60s",
+  "summary": "The 60s decade ran from January 1, AD 60, to December 31, AD 69.",
+  "candidates": [
+    "60S ribosomal protein L10",
+    "60S ribosomal protein L13",
+    "60S ribosomal protein L28",
+    "60S ribosomal protein L38",
+    "60S ribosomal protein L41",
+    "60S ribosomal protein L5",
+    "60s",
+    "60s 70s 80s",
+    "60s BC",
+    "60s Girl Groups"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "60s",
+    "page_url": "https://en.wikipedia.org/wiki/60s",
+    "retrieved_at": "2026-03-28T15:52:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Robert, Hubert - Incendie à Rome -.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Robert,_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg/960px-Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+    "width": 3200,
+    "height": 2548,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Hubert_Robert\" class=\"extiw\" title=\"w:en:Hubert Robert\"\u003e\u003cspan title=\"French painter (1733-1808)\"\u003eHubert Robert\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Robert, Hubert - Incendie à Rome -.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Robert,_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg/960px-Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+      "width": 3200,
+      "height": 2548,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Hubert_Robert\" class=\"extiw\" title=\"w:en:Hubert Robert\"\u003e\u003cspan title=\"French painter (1733-1808)\"\u003eHubert Robert\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--60s.json",
+      "url": "https://en.wikipedia.org/wiki/60s",
+      "retrieved_at": "2026-03-28T15:52:35Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--60s.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Robert,_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

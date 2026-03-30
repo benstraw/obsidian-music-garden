@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0aZvUq36KD8a0JhRU3qLqF",
   "name": "Hitchhiker",
   "primary_artist_name": "Neil Young",
-  "primary_artist_canonical_slug": "neil-young"
+  "primary_artist_canonical_slug": "neil-young",
+  "musicbrainz_release_id": "eadbd60e-9df9-4e1a-8266-efed9cb07807",
+  "musicbrainz_release_group_id": "f22d0b7a-b088-4263-95de-05528491a762"
 }

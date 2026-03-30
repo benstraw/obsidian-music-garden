@@ -4,6 +4,9 @@
   "name": "My God is Real",
   "primary_artist_name": "Baird Hersey \u0026 Prana",
   "primary_artist_canonical_slug": "baird-hersey-and-prana",
+  "additional_artist_slugs": [
+    "krishna-das"
+  ],
   "release_name": "Gathering in the Light",
   "release_canonical_slug": "baird-hersey-and-prana--gathering-in-the-light",
   "spotify_url": "https://open.spotify.com/track/1o1d1QTYUbeKObPdLXR72G"

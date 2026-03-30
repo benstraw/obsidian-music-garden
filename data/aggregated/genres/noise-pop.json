@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "noise-pop",
+  "display_title": "Noise Pop",
+  "display_name": "Noise Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Noise pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Noise_pop",
+  "summary": "Noise pop is a subgenre of alternative and indie rock that emerged in the mid-1980s in the United Kingdom, originally pioneered by the Jesus and Mary Chain on their debut album Psychocandy. Elements of the style were also present in some bands associated with the British C86 movement. Noise pop later influenced the development of shoegaze.",
+  "candidates": [
+    "Noise Pop",
+    "Noise Pop Festival",
+    "Noise Protocol Framework",
+    "Noise control",
+    "Noise phobia in dogs",
+    "Noise pollution",
+    "Noise pop",
+    "Noise rock",
+    "Noise-predictive maximum-likelihood detection",
+    "Noiseworks"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Noise pop",
+    "page_url": "https://en.wikipedia.org/wiki/Noise_pop",
+    "retrieved_at": "2026-03-28T15:58:59Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--noise-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Noise_pop",
+      "retrieved_at": "2026-03-28T15:58:59Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

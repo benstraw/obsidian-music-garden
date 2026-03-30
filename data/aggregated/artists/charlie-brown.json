@@ -1,0 +1,69 @@
+{
+  "canonical_slug": "charlie-brown",
+  "name": "Charlie Brown",
+  "spotify_artist_id": "23eGWtGneElWXARaabR0Dk",
+  "musicbrainz_artist_id": "08c51ff9-cfe1-41b6-bf69-6fbacc60d141",
+  "spotify_url": "https://open.spotify.com/artist/23eGWtGneElWXARaabR0Dk",
+  "status": "matched",
+  "wikipedia_title": "Charlie Brown",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Brown",
+  "summary": "Charles \"Charlie\" Brown is the principal character of the American comic strip Peanuts, created by Charles M. Schulz and syndicated in daily and Sunday newspapers in numerous countries worldwide. Depicted as a \"lovable loser\", Charlie Brown is one of the great American archetypes and a popular and widely recognized cartoon character. Charlie Brown is characterized as a person who frequently suffers, and as a result, is usually nervous and lacks self-confidence. He shows both pessimistic and optimistic attitudes: on some days, he is apprehensive to even get out of bed because he cannot face the world, but on others, he hopes to accomplish things and is determined to do his best. Charlie Brown is easily recognized by his round head and trademark zigzag patterned shirt. His catchphrase is \"Good Grief!\".",
+  "candidates": [
+    "A Charlie Brown Christmas",
+    "A Charlie Brown Christmas (soundtrack)",
+    "A Charlie Brown Thanksgiving",
+    "Charles Brown (musician)",
+    "Charlie Brown",
+    "Charlie Brown (Coldplay song)",
+    "Charlie Brown (footballer, born 1999)",
+    "Charlie Brown Jr. (band)",
+    "Charlie Brown Jr. (basketball)",
+    "Charlie Brown and Franz Stigler incident"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Charlie Brown",
+    "page_url": "https://en.wikipedia.org/wiki/Charlie_Brown",
+    "retrieved_at": "2026-03-28T10:38:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Apollo 10 command module.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_10_command_module.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_10_command_module.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_10_command_module.jpg",
+    "width": 502,
+    "height": 500,
+    "license": "Public domain",
+    "author": "NASA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Apollo 10 command module.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Apollo_10_command_module.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_10_command_module.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_10_command_module.jpg",
+      "width": 502,
+      "height": 500,
+      "license": "Public domain",
+      "author": "NASA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CB1948.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CB1948.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/CB1948.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/CB1948.jpg",
+      "width": 600,
+      "height": 828,
+      "license": "Public domain",
+      "author": "Charles Schulz"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Brown.png"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

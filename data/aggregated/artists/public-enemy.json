@@ -1,7 +1,9 @@
 {
   "canonical_slug": "public-enemy",
   "name": "Public Enemy",
+  "play_count": 34,
   "spotify_artist_id": "6Mo9PoU6svvhgEum7wh2Nd",
+  "musicbrainz_artist_id": "bf2e15d0-4b77-469e-bfb4-f8414415baca",
   "spotify_url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd",
   "genres": [
     "east-coast-hip-hop",
@@ -130,5 +132,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ranking_Update\" class=\"mw-redirect\" title=\"User:Ranking Update\"\u003e\u003cb\u003eиz нίpнόp\u003c/b\u003e\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

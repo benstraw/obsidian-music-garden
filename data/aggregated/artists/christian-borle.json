@@ -1,7 +1,9 @@
 {
   "canonical_slug": "christian-borle",
   "name": "Christian Borle",
+  "play_count": 2,
   "spotify_artist_id": "3mXvO1rdMCgdOYNiWeduWG",
+  "musicbrainz_artist_id": "68840364-a295-4411-a504-73e20da1007c",
   "spotify_url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG",
   "genres": [
     "soundtrack"
@@ -74,5 +76,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/superfestivals/\"\u003eSuper Festivals\u003c/a\u003e \u003cspan class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Christian_Borle_Photo_Op_Animate!_Columbus_2025.jpg#P170\" title=\"Edit this at Structured Data on Commons\"\u003e\u003cimg alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"\u003e\u003c/a\u003e\u003c/span\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

@@ -1,0 +1,58 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1NjpWti9GnUtjjC2XV7UJK",
+  "name": "Tony Trischka",
+  "spotify_url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK",
+  "musicbrainz_artist_id": "4ff84a40-f048-4cb7-abef-e92146f9a330",
+  "source_genres": [
+    "bluegrass",
+    "country",
+    "folk",
+    "progressive bluegrass"
+  ],
+  "canonical_genre_slugs": [
+    "bluegrass",
+    "country",
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "Tony Trischka",
+  "summary": "Anthony Cattell Trischka is an American five-string banjo player. Sandra Brennan wrote of him in 2020: \"One of the most influential modern banjoists, both in several forms of bluegrass music and occasionally in jazz and avant-garde, Tony Trischka has inspired a whole generation of progressive psychedelic bluegrass musicians.\"",
+  "canonical_url": "https://en.wikipedia.org/wiki/Tony_Trischka",
+  "candidates": [
+    "Tony Trischka",
+    "Tony Trisciani"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tony Trischka",
+    "page_url": "https://en.wikipedia.org/wiki/Tony_Trischka",
+    "retrieved_at": "2026-03-28T10:43:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bruce Molsky and Tony Trischka, New Bedford Folk Festival 2022.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bruce_Molsky_and_Tony_Trischka,_New_Bedford_Folk_Festival_2022.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bruce_Molsky_and_Tony_Trischka%2C_New_Bedford_Folk_Festival_2022.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bruce_Molsky_and_Tony_Trischka%2C_New_Bedford_Folk_Festival_2022.jpg/960px-Bruce_Molsky_and_Tony_Trischka%2C_New_Bedford_Folk_Festival_2022.jpg",
+    "width": 3400,
+    "height": 2435,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kzirkel\" title=\"User:Kzirkel\"\u003eKenneth C. Zirkel\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bruce Molsky and Tony Trischka, New Bedford Folk Festival 2022.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bruce_Molsky_and_Tony_Trischka,_New_Bedford_Folk_Festival_2022.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bruce_Molsky_and_Tony_Trischka%2C_New_Bedford_Folk_Festival_2022.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bruce_Molsky_and_Tony_Trischka%2C_New_Bedford_Folk_Festival_2022.jpg/960px-Bruce_Molsky_and_Tony_Trischka%2C_New_Bedford_Folk_Festival_2022.jpg",
+      "width": 3400,
+      "height": 2435,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kzirkel\" title=\"User:Kzirkel\"\u003eKenneth C. Zirkel\u003c/a\u003e"
+    }
+  ]
+}

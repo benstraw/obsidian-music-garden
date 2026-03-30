@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "warren-zevon",
+  "name": "Warren Zevon",
+  "play_count": 1,
+  "spotify_artist_id": "3mY9Ii0cL5SQxpOTAm8SHx",
+  "spotify_url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx",
+  "genres": [
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcb844c45233a84f9f81c9ec4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cb844c45233a84f9f81c9ec4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cb844c45233a84f9f81c9ec4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

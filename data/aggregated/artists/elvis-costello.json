@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "elvis-costello",
+  "name": "Elvis Costello",
+  "play_count": 5,
+  "spotify_artist_id": "2BGRfQgtzikz1pzAD0kaEn",
+  "musicbrainz_artist_id": "8a338e06-d182-46f2-bd16-30a09bc840ba",
+  "spotify_url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn",
+  "genres": [
+    "alternative-rock",
+    "baroque-pop",
+    "jazz",
+    "pop",
+    "rock"
+  ],
+  "source_genres": [
+    "adult alternative pop/rock",
+    "adult contemporary",
+    "alternative/indie rock",
+    "ballad",
+    "baroque pop",
+    "contemporary pop/rock",
+    "contemporary singer/songwriter",
+    "easy listening",
+    "jazz",
+    "pop",
+    "pop vocals",
+    "pop/rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbd95594d3201ab9c7b0349e6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bd95594d3201ab9c7b0349e6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bd95594d3201ab9c7b0349e6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Elvis Costello",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Costello",
+  "summary": "Declan Patrick MacManus, known professionally as Elvis Costello, is an English singer, songwriter, record producer, author and television host. According to Rolling Stone, Costello \"reinvigorated the literate, lyrical traditions of Bob Dylan and Van Morrison with the raw energy and sass that were principal ethics of punk\", noting the \"construction of his songs, which set densely layered wordplay in an ever-expanding repertoire of styles\". He is the recipient of numerous accolades, including two Grammy Awards and two Ivor Novello Awards, and was inducted into the Rock and Roll Hall of Fame in 2003 into the Songwriters Hall of Fame in 2016.",
+  "candidates": [
+    "Elvis Costello",
+    "Elvis Costello and The Attractions",
+    "Elvis Costello discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Elvis Costello",
+    "page_url": "https://en.wikipedia.org/wiki/Elvis_Costello",
+    "retrieved_at": "2026-03-28T10:38:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elvis Costello (51409611378).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elvis_Costello_(51409611378).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Elvis_Costello_%2851409611378%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Elvis_Costello_%2851409611378%29.jpg/960px-Elvis_Costello_%2851409611378%29.jpg",
+      "width": 3016,
+      "height": 4531,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33053264@N00\"\u003eMatt Johnson\u003c/a\u003e from Omaha, Nebraska, United States"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elvis Costello - European Walk of Fame.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elvis_Costello_-_European_Walk_of_Fame.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Elvis_Costello_-_European_Walk_of_Fame.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Elvis_Costello_-_European_Walk_of_Fame.jpg/960px-Elvis_Costello_-_European_Walk_of_Fame.jpg",
+      "width": 2393,
+      "height": 1595,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44124427152@N01\"\u003eSalim Virji\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elvis Costello 15 June 2005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elvis_Costello_15_June_2005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Elvis_Costello_15_June_2005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Elvis_Costello_15_June_2005.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42616533@N00\"\u003emarco annunziata\u003c/a\u003e from Italy"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elvis Costello 1978.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elvis_Costello_1978.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Elvis_Costello_1978.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Elvis_Costello_1978.jpg",
+      "width": 520,
+      "height": 325,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Jean-Luc Ourlin"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

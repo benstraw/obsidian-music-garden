@@ -1,0 +1,77 @@
+{
+  "source": "spotify",
+  "source_artist_id": "39GVRVaqlKh7JL8Yl5ZKcb",
+  "name": "Tim Hardin",
+  "spotify_url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb",
+  "musicbrainz_artist_id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+  "source_genres": [
+    "blues",
+    "folk",
+    "folk rock",
+    "jazz",
+    "pop male singer-songwriter",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "folk",
+    "folk-rock",
+    "jazz",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Tim Hardin",
+  "summary": "James Timothy Hardin was an American folk music and blues singer-songwriter and guitarist. In addition to his own success, his songs \"If I Were a Carpenter\", \"Reason to Believe\", \"Misty Roses\" and \"The Lady Came from Baltimore\" were hits for other artists.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Tim_Hardin",
+  "candidates": [
+    "This Is Tim Hardin",
+    "Tim Hardaway Jr.",
+    "Tim Hardin",
+    "Tim Hardin 1",
+    "Tim Hardin 2",
+    "Tim Hardin 3 Live in Concert",
+    "Tim Hardin 4",
+    "Tim Harding",
+    "Tim Harding (chess player)",
+    "Tim Harding (musician)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tim Hardin",
+    "page_url": "https://en.wikipedia.org/wiki/Tim_Hardin",
+    "retrieved_at": "2026-03-28T10:43:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:P vip.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+    "width": 1911,
+    "height": 1944,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tim Hardin.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Tim_Hardin.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tim_Hardin.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tim_Hardin.png",
+      "width": 358,
+      "height": 364,
+      "license": "Public domain",
+      "author": "Columbia Records"
+    }
+  ]
+}

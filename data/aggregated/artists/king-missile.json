@@ -1,0 +1,74 @@
+{
+  "canonical_slug": "king-missile",
+  "name": "King Missile",
+  "play_count": 9,
+  "spotify_artist_id": "4ab0zJgTZPWz00v2PrdJI4",
+  "musicbrainz_artist_id": "62881dc4-2776-4743-a938-79a7d865ea53",
+  "spotify_url": "https://open.spotify.com/artist/4ab0zJgTZPWz00v2PrdJI4",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4a9c102e9a98a5bdd178aca9e9ee6acbba531716",
+      "height": 1011,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/dde5145567877855638f62f5e8a9c5eb3f83b454",
+      "height": 647,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/efd66bc93d7b198caea3941317a759c0b35481da",
+      "height": 202,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5aa25999d13398f3e9ebad835fdd71341e7d50cb",
+      "height": 65,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "King Missile",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/King_Missile",
+  "summary": "King Missile is an American avant-garde art rock band best known for its 1992 humorous single \"Detachable Penis\". Vocalist John S. Hall has fronted several disparate incarnations of the group since founding it in 1986.",
+  "candidates": [
+    "King Marsile",
+    "King Missile",
+    "King Missile (album)",
+    "King of Misrule",
+    "Krug missile system"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "King Missile",
+    "page_url": "https://en.wikipedia.org/wiki/King_Missile",
+    "retrieved_at": "2026-03-28T10:40:28Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:King Missile at the New Hank's Saloon.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:King_Missile_at_the_New_Hank%27s_Saloon.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/King_Missile_at_the_New_Hank%27s_Saloon.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/King_Missile_at_the_New_Hank%27s_Saloon.jpg/960px-King_Missile_at_the_New_Hank%27s_Saloon.jpg",
+    "width": 5472,
+    "height": 3648,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "The All-Nite Images"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:King Missile at the New Hank's Saloon.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:King_Missile_at_the_New_Hank%27s_Saloon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/King_Missile_at_the_New_Hank%27s_Saloon.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/King_Missile_at_the_New_Hank%27s_Saloon.jpg/960px-King_Missile_at_the_New_Hank%27s_Saloon.jpg",
+      "width": 5472,
+      "height": 3648,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "The All-Nite Images"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -3,11 +3,18 @@
   "source_artist_id": "30fiiwr2EeZp1tAhzYCmyM",
   "name": "Big L",
   "spotify_url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
+  "musicbrainz_artist_id": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
   "source_genres": [
     "boom bap",
     "east coast hip hop",
+    "gangsta rap",
     "hardcore hip hop",
     "hip hop",
+    "hip hop rap",
+    "hip-hop",
+    "horrorcore",
+    "jazz rap",
+    "mafioso rap",
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
@@ -15,6 +22,7 @@
     "east-coast-hip-hop",
     "hardcore-hip-hop",
     "hip-hop",
+    "jazz-rap",
     "old-school-hip-hop"
   ],
   "status": "matched",

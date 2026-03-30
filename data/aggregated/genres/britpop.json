@@ -7,7 +7,8 @@
     "britpop",
     "post britpop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Britpop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Britpop",

@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "jazz-trio",
+  "display_title": "Jazz Trio",
+  "display_name": "Jazz Trio",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Jazz trio",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_trio",
+  "summary": "A jazz trio is a group of three jazz musicians, often a piano trio comprising a pianist, a double bass player and a drummer. Jazz trios are commonly named after their leader, such as the Bill Evans Trio.",
+  "candidates": [
+    "Jazz Bridge",
+    "Jazz Richards",
+    "Jazz Thornton",
+    "Jazz Tour",
+    "Jazz Track",
+    "Jazz from Hell",
+    "Jazz royalty",
+    "Jazz trio",
+    "Jazz trombone",
+    "JazzTimes"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz trio",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_trio",
+    "retrieved_at": "2026-03-28T15:57:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jazz Trio in Community Garden (5045973149).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jazz_Trio_in_Community_Garden_(5045973149).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jazz_Trio_in_Community_Garden_%285045973149%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jazz_Trio_in_Community_Garden_%285045973149%29.jpg/960px-Jazz_Trio_in_Community_Garden_%285045973149%29.jpg",
+    "width": 5184,
+    "height": 3456,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/54359128@N00\"\u003eGeoff Peters\u003c/a\u003e from Vancouver, BC, Canada"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jazz Trio in Community Garden (5045973149).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jazz_Trio_in_Community_Garden_(5045973149).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jazz_Trio_in_Community_Garden_%285045973149%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jazz_Trio_in_Community_Garden_%285045973149%29.jpg/960px-Jazz_Trio_in_Community_Garden_%285045973149%29.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/54359128@N00\"\u003eGeoff Peters\u003c/a\u003e from Vancouver, BC, Canada"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-trio.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_trio",
+      "retrieved_at": "2026-03-28T15:57:44Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-trio.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Jazz_Trio_in_Community_Garden_(5045973149).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

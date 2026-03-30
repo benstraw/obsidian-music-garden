@@ -1,0 +1,34 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2z78AlkdwE2Ghj9EB50M6z",
+  "name": "Liars",
+  "spotify_url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z",
+  "musicbrainz_artist_id": "03098741-08b3-4dd7-b3f6-1b0bfa2c879c",
+  "source_genres": [
+    "alternative rock",
+    "electronic",
+    "experimental",
+    "experimental rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "electronic",
+    "experimental",
+    "experimental-rock",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Liar's Club",
+    "Liar's dice",
+    "Liar's poker",
+    "Liars",
+    "Liars (Liars album)",
+    "Liars (band)",
+    "Liars Academy",
+    "Liars All",
+    "Liars and Prayers",
+    "Liars, Leakers, and Liberals"
+  ]
+}

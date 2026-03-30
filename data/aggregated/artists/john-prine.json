@@ -1,7 +1,9 @@
 {
   "canonical_slug": "john-prine",
   "name": "John Prine",
+  "play_count": 26,
   "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+  "musicbrainz_artist_id": "e86492c1-0376-4df0-8042-8ba058c83960",
   "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT",
   "genres": [
     "alt-country",
@@ -90,5 +92,5 @@
       "author": "Ron Baker  (\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/kingsnake\"\u003ehttps://www.flickr.com/photos/kingsnake\u003c/a\u003e)"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

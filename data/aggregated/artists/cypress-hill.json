@@ -1,7 +1,9 @@
 {
   "canonical_slug": "cypress-hill",
   "name": "Cypress Hill",
+  "play_count": 15,
   "spotify_artist_id": "4P0dddbxPil35MNN9G2MEX",
+  "musicbrainz_artist_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
   "spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX",
   "genres": [
     "hip-hop",
@@ -128,5 +130,5 @@
       "author": "Scott Penner"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

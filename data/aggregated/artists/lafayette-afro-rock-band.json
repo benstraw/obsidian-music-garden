@@ -1,15 +1,21 @@
 {
   "canonical_slug": "lafayette-afro-rock-band",
   "name": "Lafayette Afro Rock Band",
+  "play_count": 1,
   "spotify_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
+  "musicbrainz_artist_id": "68b22fd5-038c-4b74-8ed0-ee93b13c1d9e",
   "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s",
   "genres": [
+    "afrobeat",
     "funk",
     "jazz-funk"
   ],
   "source_genres": [
+    "afrobeat",
     "funk",
-    "jazz funk"
+    "jazz funk",
+    "jazz-funk",
+    "rare groove a to z"
   ],
   "images": [
     {
@@ -60,5 +66,5 @@
       "file_title": "File:Lafayette Afro Rock Band - Darkest Light.ogg"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

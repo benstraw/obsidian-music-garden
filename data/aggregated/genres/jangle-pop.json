@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "jangle-pop",
+  "display_title": "Jangle Pop",
+  "display_name": "Jangle Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Jangle pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jangle_pop",
+  "summary": "Jangle pop is a subgenre of pop rock and indie rock that emphasizes jangly guitars and 1960s-style pop melodies. The \"jangly\" guitar sound is characterized by its clean, shimmering and arpeggiated tone, often created using 12-string electric guitars. The term is usually applied to late 1970s/early 1980s bands emerging from the post-punk scene, often influenced by 1960s groups such as the Byrds. Notable acts include Big Star, R.E.M. and the Smiths.",
+  "candidates": [
+    "Jan L. Popławski",
+    "Jane Pope",
+    "Jane Popincourt",
+    "Jangle piano",
+    "Jangle pop",
+    "Jangle punk",
+    "Jungle Operations Training Center",
+    "Jungle Pocket",
+    "Jungle Pocket (comedy duo)",
+    "Operation Jungle"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jangle pop",
+    "page_url": "https://en.wikipedia.org/wiki/Jangle_pop",
+    "retrieved_at": "2026-03-28T15:57:28Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1967 Rickenbacker 360-12 12 string electric guitar owned and photographed by Greg Field.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg/960px-1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+    "width": 2235,
+    "height": 2628,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Outerrealm\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Outerrealm (page does not exist)\"\u003eOuterrealm\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1967 Rickenbacker 360-12 12 string electric guitar owned and photographed by Greg Field.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg/960px-1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "width": 2235,
+      "height": 2628,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Outerrealm\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Outerrealm (page does not exist)\"\u003eOuterrealm\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jangle-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Jangle_pop",
+      "retrieved_at": "2026-03-28T15:57:28Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jangle-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

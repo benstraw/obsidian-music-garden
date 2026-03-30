@@ -1,11 +1,14 @@
 {
   "canonical_slug": "berlioz--nyc-in-1940",
   "name": "nyc in 1940",
+  "play_count": 1,
   "primary_artist_canonical_slug": "berlioz",
   "primary_artist_name": "berlioz",
+  "additional_artist_slugs": [
+    "ted-jasper"
+  ],
   "release_canonical_slug": "berlioz--nyc-in-1940",
   "release_name": "nyc in 1940",
   "spotify_track_id": "3YbFagT5wCU8M9xLdVID4j",
-  "spotify_url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j"
 }

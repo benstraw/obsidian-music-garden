@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0imCJhXROHwkmpuU0AQV6o",
   "name": "Shift",
   "primary_artist_name": "Logan Richardson",
-  "primary_artist_canonical_slug": "logan-richardson"
+  "primary_artist_canonical_slug": "logan-richardson",
+  "musicbrainz_release_id": "fbc46fa1-9746-4aea-8090-d9e787bd56ac",
+  "musicbrainz_release_group_id": "66e686e9-abc3-43aa-a65f-554871faba74"
 }

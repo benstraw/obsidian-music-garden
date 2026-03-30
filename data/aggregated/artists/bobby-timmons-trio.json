@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "bobby-timmons-trio",
+  "name": "Bobby Timmons Trio",
+  "play_count": 11,
+  "spotify_artist_id": "47jpbb07933jSiHmir7yda",
+  "musicbrainz_artist_id": "866ba678-c9d4-4d29-817d-d4897ee20f97",
+  "spotify_url": "https://open.spotify.com/artist/47jpbb07933jSiHmir7yda",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273851b8f50fe7de402ef88de3d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02851b8f50fe7de402ef88de3d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851851b8f50fe7de402ef88de3d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

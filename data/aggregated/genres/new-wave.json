@@ -6,76 +6,288 @@
   "aliases": [
     "new wave"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "New wave music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_wave_music",
+  "summary": "New wave is a music genre that encompasses pop-oriented styles that emerged in the mid- to late 1970s as a lighter and more melodic \"broadening of punk culture\". The term new wave initially held distinct regional differences between the United States and United Kingdom. In the US, \"new wave\" had originally been used by music critics to label New York punk bands during the early-to mid 1970s. The term was later adopted by Sire Records founder Seymour Stein, who launched the \"Don't Call It Punk\" campaign in October 1977 to replace \"punk\" with \"new wave\". Over time, the genre became a catch-all for several musical styles that emerged after the initial popularity of punk rock, such as synth-pop, alternative dance and post-punk.",
   "candidates": [
-    "New Wave (Against Me! album)",
-    "New Wave (Polish political party)",
-    "New Wave (science fiction)",
-    "New Wave – The Other Cyprus",
-    "New Waverly, Texas",
-    "New Waves",
-    "New wave",
-    "New wave music",
-    "New wave of British heavy metal",
-    "New wave of traditional heavy metal"
+    "New wave music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "New wave music",
+    "page_url": "https://en.wikipedia.org/wiki/New_wave_music",
+    "retrieved_at": "2026-03-29T17:17:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox question.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_question.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ambox_question.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/960px-Ambox_question.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mysid\" title=\"User:Mysid\"\u003eMysid\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox question.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_question.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ambox_question.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/960px-Ambox_question.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mysid\" title=\"User:Mysid\"\u003eMysid\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blondie1977.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blondie1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Blondie1977.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blondie1977.jpg/960px-Blondie1977.jpg",
+      "width": 1600,
+      "height": 1077,
+      "license": "Public domain",
+      "author": "Private Stock Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Energy Dome.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Energy_Dome.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Energy_Dome.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Energy_Dome.jpg/960px-Energy_Dome.jpg",
+      "width": 3050,
+      "height": 3105,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "benjamin cook"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Franz-ferdinand-live-2006-tag.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Franz-ferdinand-live-2006-tag.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Franz-ferdinand-live-2006-tag.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Franz-ferdinand-live-2006-tag.jpg",
+      "width": 900,
+      "height": 653,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Shokoishikawa\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Shokoishikawa (page does not exist)\"\u003eShokoishikawa\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ian McCulloch1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ian_McCulloch1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ian_McCulloch1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ian_McCulloch1.jpg/960px-Ian_McCulloch1.jpg",
+      "width": 3202,
+      "height": 2000,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 7,
-    "unique_artist_count": 2,
-    "unique_release_count": 4,
-    "unique_track_count": 5,
-    "first_played_at": "2026-03-01T02:15:17.124Z",
-    "last_played_at": "2026-03-14T18:12:15.736Z"
+    "play_count": 327,
+    "unique_artist_count": 9,
+    "unique_release_count": 54,
+    "unique_track_count": 237,
+    "first_played_at": "2024-01-01T00:00:00.159251632Z",
+    "last_played_at": "2026-03-29T04:31:25.407Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "the-fall",
+      "name": "The Fall",
+      "play_count": 159,
+      "spotify_artist_id": "6WoTvA9qinpHtSRJuldYh6",
+      "musicbrainz_artist_id": "d5da1841-9bc8-4813-9f89-11098090148e",
+      "spotify_url": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+    },
+    {
       "canonical_slug": "talking-heads",
       "name": "Talking Heads",
-      "play_count": 4,
+      "play_count": 85,
       "spotify_artist_id": "2x9SpqnPi8rlE9pjHBwmSC",
+      "musicbrainz_artist_id": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
       "spotify_url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+    },
+    {
+      "canonical_slug": "wire",
+      "name": "Wire",
+      "play_count": 36,
+      "spotify_artist_id": "2i8ynmFv4qgRksyDlBgi6d",
+      "musicbrainz_artist_id": "7f2a8098-50e3-451c-8696-c5d9f64f4762",
+      "spotify_url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+    },
+    {
+      "canonical_slug": "violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 16,
+      "spotify_artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+      "musicbrainz_artist_id": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+      "spotify_url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+    },
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 12,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "canonical_slug": "gang-of-four",
+      "name": "Gang Of Four",
+      "play_count": 8,
+      "spotify_artist_id": "3AmWjMXXtBJOmNGpUFSOAl",
+      "musicbrainz_artist_id": "d8661c02-f423-4d72-8044-40ff05daf7a1",
+      "spotify_url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+    },
+    {
+      "canonical_slug": "devo",
+      "name": "DEVO",
+      "play_count": 4,
+      "spotify_artist_id": "0UKfenbZb15sqhfPC6zbt3",
+      "musicbrainz_artist_id": "d2db1078-c170-4e22-b261-14f3ad60a690",
+      "spotify_url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
     },
     {
       "canonical_slug": "elvis-costello-and-the-attractions",
       "name": "Elvis Costello \u0026 The Attractions",
-      "play_count": 3,
+      "play_count": 4,
       "spotify_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
+      "musicbrainz_artist_id": "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
       "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+    },
+    {
+      "canonical_slug": "pylon",
+      "name": "Pylon",
+      "play_count": 3,
+      "spotify_artist_id": "0eLbmh14uMx3VB0MPM1r4L",
+      "musicbrainz_artist_id": "5f895285-0598-4a03-a10f-ac171746ef45",
+      "spotify_url": "https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
-      "name": "Armed Forces (Remastered 2020)",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
-      "primary_artist_name": "Elvis Costello \u0026 The Attractions"
+      "canonical_slug": "the-fall--the-infotainment-scan",
+      "name": "The Infotainment Scan",
+      "play_count": 40,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "spotify_album_id": "7k00NiTHWnOIUb890Fn8GK",
+      "musicbrainz_release_id": "eba6e034-e634-47bd-9dd5-ad9b9db6696e",
+      "musicbrainz_release_group_id": "ef245bd8-7937-313b-a787-f290653e0957"
     },
     {
-      "canonical_slug": "talking-heads--remain-in-light-deluxe-version",
-      "name": "Remain in Light (Deluxe Version)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "talking-heads",
-      "primary_artist_name": "Talking Heads"
+      "canonical_slug": "the-fall--50-000-fall-fans-can-t-be-wrong-39-golden-greats",
+      "name": "50,000 Fall Fans Can't Be Wrong (39 Golden Greats)",
+      "play_count": 21,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "spotify_album_id": "1trY19ChZ99HYHpeZ1OWxx",
+      "musicbrainz_release_id": "34ebe866-1cb7-42ff-b3d3-d8ab174972c6",
+      "musicbrainz_release_group_id": "55fa6b48-b0b9-3b39-9291-35da49543be6"
     },
     {
-      "canonical_slug": "talking-heads--remain-in-light",
-      "name": "Remain in Light",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "talking-heads",
-      "primary_artist_name": "Talking Heads"
+      "canonical_slug": "wire--chairs-missing-2006-remastered-version",
+      "name": "Chairs Missing (2006 Remastered Version)",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "wire",
+      "primary_artist_name": "Wire",
+      "spotify_album_id": "7tWxaE1as1wy12Yd1De41r"
     },
     {
-      "canonical_slug": "talking-heads--speaking-in-tongues-deluxe-version",
-      "name": "Speaking in Tongues (Deluxe Version)",
-      "play_count": 1,
+      "canonical_slug": "the-fall--45-84-89-a-sides",
+      "name": "45 84 89 : A Sides",
+      "play_count": 17,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "spotify_album_id": "1Die4GUpEHalAGKmVHja7r"
+    },
+    {
+      "canonical_slug": "the-fall--bend-sinister",
+      "name": "Bend Sinister",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "spotify_album_id": "0BGGErk30JJDxnbqvej9S8",
+      "musicbrainz_release_id": "a628a69f-2091-4413-bb8f-29f2eaf4240f",
+      "musicbrainz_release_group_id": "31d815dc-2261-3d68-b54c-a2b6bc3a375a"
+    },
+    {
+      "canonical_slug": "the-fall--extricate-expanded-edition",
+      "name": "Extricate (Expanded Edition)",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "spotify_album_id": "1AsnQDWormhfLMaaZ4o52p"
+    },
+    {
+      "canonical_slug": "wire--pink-flag-2006-remastered-version",
+      "name": "Pink Flag (2006 Remastered Version)",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "wire",
+      "primary_artist_name": "Wire",
+      "spotify_album_id": "4WXqZZ28geJSPtqLcCF56L"
+    },
+    {
+      "canonical_slug": "the-fall--grotesque-after-the-gramme-expanded-edition",
+      "name": "Grotesque (After the Gramme) [Expanded Edition]",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "spotify_album_id": "3qLuUM8pWvjoZoGvyVJZSs"
+    },
+    {
+      "canonical_slug": "talking-heads--talking-heads-77-deluxe-version",
+      "name": "Talking Heads '77 (Deluxe Version)",
+      "play_count": 13,
       "primary_artist_canonical_slug": "talking-heads",
-      "primary_artist_name": "Talking Heads"
+      "primary_artist_name": "Talking Heads",
+      "spotify_album_id": "5eqcF7pWzHgWpGdEmHgeSN"
+    },
+    {
+      "canonical_slug": "violent-femmes--violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "0Ojio25IPzIrw1rUmgrhrG",
+      "musicbrainz_release_id": "47db7a62-72b5-458d-9877-efd463a13f32",
+      "musicbrainz_release_group_id": "616a1d80-83d0-3234-bf71-fe3de8109f99"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "talking-heads--crosseyed-and-painless-2005-remaster",
+      "name": "Crosseyed and Painless - 2005 Remaster",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "talking-heads",
+      "primary_artist_name": "Talking Heads",
+      "release_canonical_slug": "talking-heads--remain-in-light-deluxe-version",
+      "release_name": "Remain in Light (Deluxe Version)",
+      "spotify_track_id": "0yhwdmbgkKdE1plV8xWdrd",
+      "spotify_url": "https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd"
+    },
+    {
+      "canonical_slug": "the-fall--victoria",
+      "name": "Victoria",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "release_canonical_slug": "the-fall--45-84-89-a-sides",
+      "release_name": "45 84 89 : A Sides",
+      "spotify_track_id": "5dizU4Sasy0J2KcGTzI2Dj",
+      "spotify_url": "https://open.spotify.com/track/5dizU4Sasy0J2KcGTzI2Dj"
+    },
     {
       "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
       "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
@@ -90,7 +302,7 @@
     {
       "canonical_slug": "talking-heads--born-under-punches-the-heat-goes-on-2005-remaster",
       "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "talking-heads",
       "primary_artist_name": "Talking Heads",
       "release_canonical_slug": "talking-heads--remain-in-light-deluxe-version",
@@ -99,37 +311,70 @@
       "spotify_url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
     },
     {
-      "canonical_slug": "talking-heads--crosseyed-and-painless-2005-remaster",
-      "name": "Crosseyed and Painless - 2005 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "talking-heads",
-      "primary_artist_name": "Talking Heads",
-      "release_canonical_slug": "talking-heads--remain-in-light-deluxe-version",
-      "release_name": "Remain in Light (Deluxe Version)",
-      "spotify_track_id": "0yhwdmbgkKdE1plV8xWdrd",
-      "spotify_url": "https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd"
+      "canonical_slug": "the-fall--english-scheme",
+      "name": "English Scheme",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "release_canonical_slug": "the-fall--totally-wired-the-rough-trade-anthology",
+      "release_name": "Totally Wired - The Rough Trade Anthology",
+      "spotify_track_id": "4J68M23AbXTsfumwWYMAlk",
+      "spotify_url": "https://open.spotify.com/track/4J68M23AbXTsfumwWYMAlk"
     },
     {
-      "canonical_slug": "talking-heads--once-in-a-lifetime",
-      "name": "Once in a Lifetime",
-      "play_count": 1,
+      "canonical_slug": "talking-heads--life-during-wartime-2005-remaster",
+      "name": "Life During Wartime - 2005 Remaster",
+      "play_count": 3,
       "primary_artist_canonical_slug": "talking-heads",
       "primary_artist_name": "Talking Heads",
-      "release_canonical_slug": "talking-heads--remain-in-light",
-      "release_name": "Remain in Light",
-      "spotify_track_id": "1Tr4K5MU5XYE44umXGDndd",
-      "spotify_url": "https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd"
+      "release_canonical_slug": "talking-heads--fear-of-music-deluxe-version",
+      "release_name": "Fear of Music (Deluxe Version)",
+      "spotify_track_id": "7CqleiaEqHVazV19P532X9",
+      "spotify_url": "https://open.spotify.com/track/7CqleiaEqHVazV19P532X9"
     },
     {
-      "canonical_slug": "talking-heads--this-must-be-the-place-naive-melody-2005-remaster",
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "talking-heads",
-      "primary_artist_name": "Talking Heads",
-      "release_canonical_slug": "talking-heads--speaking-in-tongues-deluxe-version",
-      "release_name": "Speaking in Tongues (Deluxe Version)",
-      "spotify_track_id": "6aBUnkXuCEQQHAlTokv9or",
-      "spotify_url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+      "canonical_slug": "the-fall--the-classical",
+      "name": "The Classical",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "release_canonical_slug": "the-fall--50-000-fall-fans-can-t-be-wrong-39-golden-greats",
+      "release_name": "50,000 Fall Fans Can't Be Wrong (39 Golden Greats)",
+      "spotify_track_id": "7atDCbxJwaoxLJlFZ5lVYp",
+      "spotify_url": "https://open.spotify.com/track/7atDCbxJwaoxLJlFZ5lVYp"
+    },
+    {
+      "canonical_slug": "the-fall--u-s-80-s-90-s",
+      "name": "U.S. 80's - 90's",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "release_canonical_slug": "the-fall--bend-sinister",
+      "release_name": "Bend Sinister",
+      "spotify_track_id": "3TYthlxY3dq9iBkwTpuNrb",
+      "spotify_url": "https://open.spotify.com/track/3TYthlxY3dq9iBkwTpuNrb"
+    },
+    {
+      "canonical_slug": "wire--1-2-x-u-2006-remastered-version",
+      "name": "1 2 X U - 2006 Remastered Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "wire",
+      "primary_artist_name": "Wire",
+      "release_canonical_slug": "wire--pink-flag-2006-remastered-version",
+      "release_name": "Pink Flag (2006 Remastered Version)",
+      "spotify_track_id": "2X7Yq4DYQmEx1bZ1bYjlYx",
+      "spotify_url": "https://open.spotify.com/track/2X7Yq4DYQmEx1bZ1bYjlYx"
+    },
+    {
+      "canonical_slug": "the-fall--15-ways-live-john-peel-session-16-13-3-93",
+      "name": "15 Ways - Live, John Peel Session #16, 13/3/93",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-fall",
+      "primary_artist_name": "The Fall",
+      "release_canonical_slug": "the-fall--the-infotainment-scan",
+      "release_name": "The Infotainment Scan",
+      "spotify_track_id": "76VDxqrUd8qx6BznpC0oho",
+      "spotify_url": "https://open.spotify.com/track/76VDxqrUd8qx6BznpC0oho"
     }
   ],
   "source_refs": [
@@ -140,12 +385,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--new-wave.json",
+      "url": "https://en.wikipedia.org/wiki/New_wave_music",
+      "retrieved_at": "2026-03-29T17:17:08Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--new-wave.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_question.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-14T18:12:15.736Z",
+      "updated_at": "2026-03-29T04:31:25.407Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:31:25.407Z"
 }

@@ -1,7 +1,9 @@
 {
   "canonical_slug": "bill-evans",
   "name": "Bill Evans",
+  "play_count": 3,
   "spotify_artist_id": "4jXfFzeP66Zy67HM2mvIIF",
+  "musicbrainz_artist_id": "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
   "spotify_url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF",
   "genres": [
     "bebop",
@@ -14,7 +16,8 @@
     "cool jazz",
     "hard bop",
     "jazz",
-    "jazz ballads"
+    "jazz ballads",
+    "traditional jazz"
   ],
   "images": [
     {
@@ -130,5 +133,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

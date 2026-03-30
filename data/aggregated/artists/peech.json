@@ -1,7 +1,9 @@
 {
   "canonical_slug": "peech",
   "name": "Peech.",
+  "play_count": 16,
   "spotify_artist_id": "0WQh63ofwTzWOy1ubiHMdk",
+  "musicbrainz_artist_id": "62040650-1a7f-4d01-99bc-a4d6f8e0c802",
   "spotify_url": "https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk",
   "genres": [
     "country-gospel"
@@ -39,5 +41,5 @@
     "Peechi-Vazhani Wildlife Sanctuary",
     "The PeeChees"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

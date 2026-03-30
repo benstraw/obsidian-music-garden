@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "eurodance",
+  "display_title": "Eurodance",
+  "display_name": "Eurodance",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Eurodance",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eurodance",
+  "summary": "Eurodance is a genre of electronic dance music that originated in the late 1980s in Europe. It combines many elements of rap, techno and Eurodisco. This genre of music is heavily influenced by the use of rich vocals, sometimes with rapped verses. This, combined with cutting-edge synthesizers, strong bass rhythm and melodic hooks, establishes the core foundation of Eurodance music.",
+  "candidates": [
+    "Eurocentrism",
+    "Eurodac",
+    "Eurodachtha canigella",
+    "Eurodachtha flavissimella",
+    "Eurodachtha pallicornella",
+    "Eurodance",
+    "Eurodance songs",
+    "Eurodancer",
+    "Eurodanceweb Award",
+    "Europa-Center"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Eurodance",
+    "page_url": "https://en.wikipedia.org/wiki/Eurodance",
+    "retrieved_at": "2026-03-28T15:55:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Pandora (artist).JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Pandora_(artist).JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pandora_%28artist%29.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pandora_%28artist%29.JPG",
+    "width": 886,
+    "height": 860,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ainali\" title=\"User:Ainali\"\u003eAinali\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pandora (artist).JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pandora_(artist).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pandora_%28artist%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Pandora_%28artist%29.JPG",
+      "width": 886,
+      "height": 860,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ainali\" title=\"User:Ainali\"\u003eAinali\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--eurodance.json",
+      "url": "https://en.wikipedia.org/wiki/Eurodance",
+      "retrieved_at": "2026-03-28T15:55:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--eurodance.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Pandora_(artist).JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

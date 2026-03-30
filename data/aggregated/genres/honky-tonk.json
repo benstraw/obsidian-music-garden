@@ -6,35 +6,119 @@
   "aliases": [
     "honky tonk"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Honky-tonk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Honky-tonk",
+  "summary": "A honky-tonk is either a bar that provides country music for the entertainment of its patrons or the style of music played in such establishments. It can also refer to the type of piano used to play such music. Bars of this kind are common in the South and Southwest United States. Many prominent country music artists such as Jimmie Rodgers, Ernest Tubb, Lefty Frizzell, Hank Williams, Patsy Cline, Johnny Horton and Merle Haggard began their careers as amateur musicians in honky-tonks.",
   "candidates": [
-    "Honky Tonk Angels",
-    "Honky Tonk Badonkadonk",
-    "Honky Tonk Freeway",
-    "Honky Tonk Heroes",
-    "Honky Tonk Time Machine",
-    "Honky Tonk Women",
-    "Honky Tonkin' About",
-    "Honky-tonk",
-    "Honkytonk Revival",
-    "The Honky Tonk Man"
+    "Honky-tonk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Honky-tonk",
+    "page_url": "https://en.wikipedia.org/wiki/Honky-tonk",
+    "retrieved_at": "2026-03-30T04:10:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Billy Bobs Texas (2).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Billy_Bobs_Texas_(2).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Billy_Bobs_Texas_%282%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Billy_Bobs_Texas_%282%29.jpg/960px-Billy_Bobs_Texas_%282%29.jpg",
+    "width": 2048,
+    "height": 1536,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "David Herrera at \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dph1110/\"\u003eflickr.com\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Billy Bobs Texas (2).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Billy_Bobs_Texas_(2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Billy_Bobs_Texas_%282%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Billy_Bobs_Texas_%282%29.jpg/960px-Billy_Bobs_Texas_%282%29.jpg",
+      "width": 2048,
+      "height": 1536,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "David Herrera at \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dph1110/\"\u003eflickr.com\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gruene hall.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gruene_hall.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Gruene_hall.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gruene_hall.jpg/960px-Gruene_hall.jpg",
+      "width": 1800,
+      "height": 933,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Nv8200p\" class=\"extiw\" title=\"en:User:Nv8200p\"\u003eLarry D. Moore\u003c/a\u003e",
+      "attribution_text": "Larry D. Moore"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hank Williams MGM Records - cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hank_Williams_MGM_Records_-_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hank_Williams_MGM_Records_-_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hank_Williams_MGM_Records_-_cropped.jpg/960px-Hank_Williams_MGM_Records_-_cropped.jpg",
+      "width": 1083,
+      "height": 1284,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:MGM_Records\" title=\"Category:MGM Records\"\u003eMGM Records\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Honky Tonk Regional Variation USA Map.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Honky_Tonk_Regional_Variation_USA_Map.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Honky_Tonk_Regional_Variation_USA_Map.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Honky_Tonk_Regional_Variation_USA_Map.png/960px-Honky_Tonk_Regional_Variation_USA_Map.png",
+      "width": 5000,
+      "height": 3500,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Johnny Paycheck.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Johnny_Paycheck.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Johnny_Paycheck.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Johnny_Paycheck.jpg",
+      "width": 346,
+      "height": 385,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Cris57helpme\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Cris57helpme (page does not exist)\"\u003eCris57helpme\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 4,
-    "unique_artist_count": 2,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-02-13T01:51:42.135Z",
-    "last_played_at": "2026-03-06T16:44:28.676Z"
+    "play_count": 11,
+    "unique_artist_count": 3,
+    "unique_release_count": 4,
+    "unique_track_count": 4,
+    "first_played_at": "2024-01-01T00:00:00.52750934Z",
+    "last_played_at": "2026-03-15T19:35:10.245Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "play_count": 7,
+      "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
+      "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+    },
     {
       "canonical_slug": "david-allan-coe",
       "name": "David Allan Coe",
       "play_count": 3,
       "spotify_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
+      "musicbrainz_artist_id": "d6ad0ad1-2a7c-4d5f-8776-331a3732360c",
       "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
     },
     {
@@ -42,26 +126,64 @@
       "name": "Cal Smith",
       "play_count": 1,
       "spotify_artist_id": "3yFnqoyp1e54tZEY4ykvNB",
+      "musicbrainz_artist_id": "320b4732-22ab-41f8-b566-b05bd4ede17f",
       "spotify_url": "https://open.spotify.com/artist/3yFnqoyp1e54tZEY4ykvNB"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "0NrDp8wKKFdhyHSMlcHBnD",
+      "musicbrainz_release_id": "f07a248d-a28d-4b9e-ad16-1bfac4e44cc8",
+      "musicbrainz_release_group_id": "7fa57349-3794-4304-a46d-3b7e7151339c"
+    },
+    {
       "canonical_slug": "david-allan-coe--once-upon-a-rhyme",
       "name": "Once Upon a Rhyme",
       "play_count": 3,
       "primary_artist_canonical_slug": "david-allan-coe",
-      "primary_artist_name": "David Allan Coe"
+      "primary_artist_name": "David Allan Coe",
+      "spotify_album_id": "6YfHzMRBscPjVqcxIQoXom",
+      "musicbrainz_release_id": "3fec35f7-b294-42c8-a987-45bac9273556",
+      "musicbrainz_release_group_id": "81057829-25c3-3cbe-8a1f-4efc13927db7"
     },
     {
       "canonical_slug": "cal-smith--cal-smith",
       "name": "Cal Smith",
       "play_count": 1,
       "primary_artist_canonical_slug": "cal-smith",
-      "primary_artist_name": "Cal Smith"
+      "primary_artist_name": "Cal Smith",
+      "spotify_album_id": "3MOjAq0iI3kR9bDs5QGoAu",
+      "musicbrainz_release_id": "7b2b1674-0c23-4fc3-8e50-b20ef1f1b323",
+      "musicbrainz_release_group_id": "896796cc-79b0-444b-8ae3-9cec4e3d5869"
+    },
+    {
+      "canonical_slug": "brent-cobb--shine-on-rainy-day",
+      "name": "Shine On Rainy Day",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "3UJXcmx1XSLeimF0dwVsbg",
+      "musicbrainz_release_id": "b8047c66-3dc4-4b35-acf3-4aba0b46a4d5",
+      "musicbrainz_release_group_id": "82b2dc07-e207-4ea4-9c7e-e07447b6843f"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "name": "Keep 'Em on They Toes",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--keep-em-on-they-toes",
+      "release_name": "Keep 'Em on They Toes",
+      "spotify_track_id": "0f388trqcZyqGbPJUqGWpx",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
+    },
     {
       "canonical_slug": "david-allan-coe--you-never-even-called-me-by-my-name",
       "name": "You Never Even Called Me by My Name",
@@ -72,6 +194,17 @@
       "release_name": "Once Upon a Rhyme",
       "spotify_track_id": "2mV4xg3mvO5aXPLMoD7WrR",
       "spotify_url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
+    },
+    {
+      "canonical_slug": "brent-cobb--down-in-the-gulley",
+      "name": "Down In The Gulley",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--shine-on-rainy-day",
+      "release_name": "Shine On Rainy Day",
+      "spotify_track_id": "7IPMqEaPMAjAIRXjyGOgxD",
+      "spotify_url": "https://open.spotify.com/track/7IPMqEaPMAjAIRXjyGOgxD"
     },
     {
       "canonical_slug": "cal-smith--the-lord-knows-i-m-drinking",
@@ -93,12 +226,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--honky-tonk.json",
+      "url": "https://en.wikipedia.org/wiki/Honky-tonk",
+      "retrieved_at": "2026-03-30T04:10:05Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--honky-tonk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Billy_Bobs_Texas_(2).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-06T16:44:28.676Z",
+      "updated_at": "2026-03-15T19:35:10.245Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

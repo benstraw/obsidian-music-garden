@@ -6,7 +6,8 @@
   "aliases": [
     "jam band"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Jam band",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Jam_band",
@@ -104,82 +105,193 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 5,
-    "unique_artist_count": 2,
-    "unique_release_count": 5,
-    "unique_track_count": 5,
-    "first_played_at": "2026-02-13T01:44:42.669Z",
-    "last_played_at": "2026-03-01T01:12:35.597Z"
+    "play_count": 135,
+    "unique_artist_count": 6,
+    "unique_release_count": 28,
+    "unique_track_count": 106,
+    "first_played_at": "2024-01-01T00:00:00.347214363Z",
+    "last_played_at": "2026-03-28T23:11:12.813Z"
   },
   "top_artists": [
     {
       "canonical_slug": "grateful-dead",
       "name": "Grateful Dead",
-      "play_count": 4,
+      "play_count": 91,
       "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+      "musicbrainz_artist_id": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
       "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+    },
+    {
+      "canonical_slug": "allman-brothers-band",
+      "name": "Allman Brothers Band",
+      "play_count": 22,
+      "spotify_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+      "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+      "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
     },
     {
       "canonical_slug": "little-feat",
       "name": "Little Feat",
-      "play_count": 1,
+      "play_count": 15,
       "spotify_artist_id": "0ZIwOAzDuGPspzK7yiTc4S",
+      "musicbrainz_artist_id": "9b106beb-12b5-4525-8025-42e295a2b90a",
       "spotify_url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+    },
+    {
+      "canonical_slug": "cream",
+      "name": "Cream",
+      "play_count": 5,
+      "spotify_artist_id": "74oJ4qxwOZvX6oSsu1DGnw",
+      "musicbrainz_artist_id": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+      "spotify_url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+    },
+    {
+      "canonical_slug": "billy-strings",
+      "name": "Billy Strings",
+      "play_count": 1,
+      "spotify_artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+      "musicbrainz_artist_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+      "spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+    },
+    {
+      "canonical_slug": "hot-tuna",
+      "name": "Hot Tuna",
+      "play_count": 1,
+      "spotify_artist_id": "5tOrTQaBRD5yPHqbEwsRn7",
+      "musicbrainz_artist_id": "d13d9feb-b7c7-49f4-9b72-65e29a16aa24",
+      "spotify_url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "grateful-dead--blues-for-allah-2013-remaster",
-      "name": "Blues for Allah (2013 Remaster)",
-      "play_count": 1,
+      "canonical_slug": "grateful-dead--europe-72-vol-1-wembley-empire-pool-london-england-4-7-72-live",
+      "name": "Europe '72 Vol. 1: Wembley Empire Pool, London, England 4/7/72 (Live)",
+      "play_count": 24,
       "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
-    },
-    {
-      "canonical_slug": "grateful-dead--europe-72-live-2001-remaster",
-      "name": "Europe '72 (Live; 2001 Remaster)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
-    },
-    {
-      "canonical_slug": "little-feat--feats-don-t-fail-me-now",
-      "name": "Feats Don't Fail Me Now",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "little-feat",
-      "primary_artist_name": "Little Feat"
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "6j3vuVPhMRB0H5CgPZ8wTd"
     },
     {
       "canonical_slug": "grateful-dead--reckoning-live",
       "name": "Reckoning (Live)",
-      "play_count": 1,
+      "play_count": 17,
       "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "1T7YIthjEvwsxbUHZ7NdBD"
     },
     {
-      "canonical_slug": "grateful-dead--workingman-s-dead",
-      "name": "Workingman's Dead",
-      "play_count": 1,
+      "canonical_slug": "grateful-dead--grateful-dead-skull-and-roses-live",
+      "name": "Grateful Dead (Skull \u0026 Roses) [Live]",
+      "play_count": 16,
       "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "0ObxRAQTpVO1u7bT3VxrIN"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "name": "Where It All Begins",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "3OhZTb3unARrvpYc0STkFM",
+      "musicbrainz_release_id": "85950dc1-5e45-4504-816d-582106bf46b9",
+      "musicbrainz_release_group_id": "1acf4af2-3d72-3101-b722-282f94222007"
+    },
+    {
+      "canonical_slug": "grateful-dead--cornell-5-8-77-live",
+      "name": "Cornell 5/8/77 (Live)",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "3T9UKU0jMIyrRD0PtKXqPJ"
+    },
+    {
+      "canonical_slug": "little-feat--feats-don-t-fail-me-now",
+      "name": "Feats Don't Fail Me Now",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "little-feat",
+      "primary_artist_name": "Little Feat",
+      "spotify_album_id": "5nflfddG6Tlrt2YiZhXJAD",
+      "musicbrainz_release_id": "aa786884-e79e-4eb2-8ca1-c5994f99baf2",
+      "musicbrainz_release_group_id": "0be2e12c-afe8-3439-ad0f-1167f9009114"
+    },
+    {
+      "canonical_slug": "cream--disraeli-gears-deluxe-edition",
+      "name": "Disraeli Gears (Deluxe Edition)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "cream",
+      "primary_artist_name": "Cream",
+      "spotify_album_id": "3W6CI0Lw7lElAPID2Fd3B4"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--eat-a-peach",
+      "name": "Eat A Peach",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "6D9I7GZsqc3pwDg3DFrtjs",
+      "musicbrainz_release_id": "7cb2fcca-3e69-4c95-9448-f9295d803e0c",
+      "musicbrainz_release_group_id": "0b1189ad-0bdf-34bc-89e4-ff05133ec51b"
+    },
+    {
+      "canonical_slug": "grateful-dead--go-to-heaven",
+      "name": "Go to Heaven",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "6x3mttp1a5pLHj8rDDSEbT",
+      "musicbrainz_release_id": "ae746c02-42f8-4af6-843c-854bf4c0af19",
+      "musicbrainz_release_group_id": "dfa266ba-e606-3abd-ab29-4086634a7566"
+    },
+    {
+      "canonical_slug": "grateful-dead--shakedown-street",
+      "name": "Shakedown Street",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "0MLCxvyIfAuh5xwPORv8p6",
+      "musicbrainz_release_id": "b80e64be-c10a-45b7-b0d0-5c94355d8b4f",
+      "musicbrainz_release_group_id": "ef90cd5a-6d54-46ac-b31d-930a504f745c"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "grateful-dead--casey-jones-2013-remaster",
-      "name": "Casey Jones - 2013 Remaster",
-      "play_count": 1,
+      "canonical_slug": "little-feat--spanish-moon",
+      "name": "Spanish Moon",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "little-feat",
+      "primary_artist_name": "Little Feat",
+      "release_canonical_slug": "little-feat--feats-don-t-fail-me-now",
+      "release_name": "Feats Don't Fail Me Now",
+      "spotify_track_id": "24eRthJ3VWBI7B9cuFBdMG",
+      "spotify_url": "https://open.spotify.com/track/24eRthJ3VWBI7B9cuFBdMG"
+    },
+    {
+      "canonical_slug": "grateful-dead--althea-2013-remaster",
+      "name": "Althea - 2013 Remaster",
+      "play_count": 3,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
-      "release_canonical_slug": "grateful-dead--workingman-s-dead",
-      "release_name": "Workingman's Dead",
-      "spotify_track_id": "7LbfuQVct78YoghmoPtsQ8",
-      "spotify_url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
+      "release_canonical_slug": "grateful-dead--go-to-heaven",
+      "release_name": "Go to Heaven",
+      "spotify_track_id": "7M7AwtGvWdMYudqx5Iuh1m",
+      "spotify_url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
+    },
+    {
+      "canonical_slug": "grateful-dead--big-boss-man-live-at-fillmore-east-new-yor-ny-april-26-1971",
+      "name": "Big Boss Man - Live at Fillmore East, New Yor, NY, April 26, 1971",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--grateful-dead-skull-and-roses-live",
+      "release_name": "Grateful Dead (Skull \u0026 Roses) [Live]",
+      "spotify_track_id": "7iFlT9cRGMoM3OHWiXO4MI",
+      "spotify_url": "https://open.spotify.com/track/7iFlT9cRGMoM3OHWiXO4MI"
     },
     {
       "canonical_slug": "grateful-dead--cassidy-live",
       "name": "Cassidy - Live",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
       "release_canonical_slug": "grateful-dead--reckoning-live",
@@ -188,37 +300,70 @@
       "spotify_url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB"
     },
     {
+      "canonical_slug": "grateful-dead--chinatown-shuffle-live-at-wembley-empire-pool-london-england-4-7-1972",
+      "name": "Chinatown Shuffle - Live at Wembley Empire Pool, London, England 4/7/1972",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--europe-72-vol-1-wembley-empire-pool-london-england-4-7-72-live",
+      "release_name": "Europe '72 Vol. 1: Wembley Empire Pool, London, England 4/7/72 (Live)",
+      "spotify_track_id": "5ZjS3qFVbO7BwXkViZYIOf",
+      "spotify_url": "https://open.spotify.com/track/5ZjS3qFVbO7BwXkViZYIOf"
+    },
+    {
+      "canonical_slug": "grateful-dead--dark-star-live-in-veneta-oregon-8-27-72",
+      "name": "Dark Star - Live in Veneta, Oregon 8/27/72",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--veneta-or-8-27-72-the-complete-sunshine-daydream-concert-live",
+      "release_name": "Veneta, OR 8/27/72: The Complete Sunshine Daydream Concert (Live)",
+      "spotify_track_id": "2vlf8Kfh8OqPO1u8avPuEN",
+      "spotify_url": "https://open.spotify.com/track/2vlf8Kfh8OqPO1u8avPuEN"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--don-t-want-you-no-more",
+      "name": "Don't Want You No More",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--the-allman-brothers-band-deluxe",
+      "release_name": "The Allman Brothers Band (Deluxe)",
+      "spotify_track_id": "7t51PlWUNcJQ9E2LJKRpH7",
+      "spotify_url": "https://open.spotify.com/track/7t51PlWUNcJQ9E2LJKRpH7"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--everybody-s-got-a-mountain-to-climb",
+      "name": "Everybody's Got a Mountain to Climb",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "release_name": "Where It All Begins",
+      "spotify_track_id": "5Ipk7VnrpZ8IUfqvWvcH11",
+      "spotify_url": "https://open.spotify.com/track/5Ipk7VnrpZ8IUfqvWvcH11"
+    },
+    {
+      "canonical_slug": "grateful-dead--fire-on-the-mountain-2013-remaster",
+      "name": "Fire on the Mountain - 2013 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--shakedown-street",
+      "release_name": "Shakedown Street",
+      "spotify_track_id": "4DpBfWl3q8e0gGB76lAaox",
+      "spotify_url": "https://open.spotify.com/track/4DpBfWl3q8e0gGB76lAaox"
+    },
+    {
       "canonical_slug": "grateful-dead--franklin-s-tower-2013-remaster",
       "name": "Franklin's Tower - 2013 Remaster",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
       "release_canonical_slug": "grateful-dead--blues-for-allah-2013-remaster",
       "release_name": "Blues for Allah (2013 Remaster)",
       "spotify_track_id": "3PgIhd4XmwtmV2XGU5qhzZ",
       "spotify_url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
-    },
-    {
-      "canonical_slug": "grateful-dead--ramble-on-rose-live-at-the-strand-lyceum-london-england-5-26-72-2001-remaster",
-      "name": "Ramble on Rose (Live at the Strand Lyceum, London, England, 5/26/72) - 2001 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead",
-      "release_canonical_slug": "grateful-dead--europe-72-live-2001-remaster",
-      "release_name": "Europe '72 (Live; 2001 Remaster)",
-      "spotify_track_id": "24ei2BLeVEpGWLZ2qfLXJO",
-      "spotify_url": "https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO"
-    },
-    {
-      "canonical_slug": "little-feat--spanish-moon",
-      "name": "Spanish Moon",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "little-feat",
-      "primary_artist_name": "Little Feat",
-      "release_canonical_slug": "little-feat--feats-don-t-fail-me-now",
-      "release_name": "Feats Don't Fail Me Now",
-      "spotify_track_id": "24eRthJ3VWBI7B9cuFBdMG",
-      "spotify_url": "https://open.spotify.com/track/24eRthJ3VWBI7B9cuFBdMG"
     }
   ],
   "source_refs": [
@@ -227,6 +372,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -248,9 +399,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-01T01:12:35.597Z",
+      "updated_at": "2026-03-28T23:11:12.813Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28T23:11:12.813Z"
 }

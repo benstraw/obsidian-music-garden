@@ -1,0 +1,86 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7cKtqv9cYVlOwnuCFH95ce",
+  "name": "The The",
+  "spotify_url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce",
+  "musicbrainz_artist_id": "a7409219-a681-4072-adb2-5285106ce6f2",
+  "source_genres": [
+    "alternative rock",
+    "electronic",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "electronic",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "The The",
+  "summary": "The The are an English rock band from London, formed in 1979 by singer-songwriter Matt Johnson, the only constant member, and often the sole member.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_The",
+  "candidates": [
+    "The The",
+    "The Theater at Virgin Hotels",
+    "The Theory and Practice of Oligarchical Collectivism",
+    "The Theory of Communicative Action",
+    "The Theory of Everything (2014 film)",
+    "The Theory of Everything (Ayreon album)",
+    "The Theory of Moral Sentiments",
+    "The Theory of the Leisure Class",
+    "The Thermals",
+    "The Thief and the Cobbler"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The The",
+    "page_url": "https://en.wikipedia.org/wiki/The_The",
+    "retrieved_at": "2026-03-28T10:43:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Edit-clear.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+    "width": 48,
+    "height": 48,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Text document with red question mark.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/960px-Text_document_with_red_question_mark.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The The (Matt Johnson) live at Rock City, Nottingham 6th September 2024 (53988926890).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_The_(Matt_Johnson)_live_at_Rock_City,_Nottingham_6th_September_2024_(53988926890).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_The_%28Matt_Johnson%29_live_at_Rock_City%2C_Nottingham_6th_September_2024_%2853988926890%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_The_%28Matt_Johnson%29_live_at_Rock_City%2C_Nottingham_6th_September_2024_%2853988926890%29.jpg/960px-The_The_%28Matt_Johnson%29_live_at_Rock_City%2C_Nottingham_6th_September_2024_%2853988926890%29.jpg",
+      "width": 2897,
+      "height": 1137,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/58415659@N00\"\u003eSteve Knight\u003c/a\u003e from Halstead, United Kingdom"
+    }
+  ]
+}

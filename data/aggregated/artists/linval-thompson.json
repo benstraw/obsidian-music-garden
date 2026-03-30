@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "linval-thompson",
+  "name": "Linval Thompson",
+  "play_count": 6,
+  "spotify_artist_id": "7IURtrIM8SBTlCI9qrAuUQ",
+  "musicbrainz_artist_id": "c60178ab-c3d9-4f9d-ac56-4bf2eb93feed",
+  "spotify_url": "https://open.spotify.com/artist/7IURtrIM8SBTlCI9qrAuUQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1bbdde5d7a734ac4ec069324d303f68cd705d9ac",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/09aeccd71017a4c5af9afd87e21550ab64c6ba05",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/79f2a049f639a78f1408e04e0aa259c61f54f1be",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/698d25bb746386d4578c2713ab61aa1777406d11",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Linval Thompson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Linval_Thompson",
+  "summary": "Leval Alphonso Thompson, also known as Linval Thompson, is a Jamaican conscious roots reggae vocalist, dub musician and record producer.",
+  "candidates": [
+    "Linda D. Thompson",
+    "Linda G. Thompson",
+    "Linda Thompson",
+    "Linda Thompson (artistic director)",
+    "Linda Thompson (attorney)",
+    "Linda Thompson (disambiguation)",
+    "Linda Thompson (singer)",
+    "Linval Thompson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Linval Thompson",
+    "page_url": "https://en.wikipedia.org/wiki/Linval_Thompson",
+    "retrieved_at": "2026-03-28T10:40:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bob-Marley-in-Concert Zurich 05-30-801.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+    "width": 76,
+    "height": 64,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Ueli Frey"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob-Marley-in-Concert Zurich 05-30-801.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+      "width": 76,
+      "height": 64,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Ueli Frey"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Linval Thompson Marijuana.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Linval_Thompson_Marijuana.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Linval_Thompson_Marijuana.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Linval_Thompson_Marijuana.jpg/960px-Linval_Thompson_Marijuana.jpg",
+      "width": 6016,
+      "height": 4016,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Peter_Verwimp\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Peter Verwimp (page does not exist)\"\u003ePeter Verwimp\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

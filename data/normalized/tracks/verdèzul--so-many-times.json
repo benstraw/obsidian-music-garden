@@ -4,6 +4,9 @@
   "name": "So Many Times",
   "primary_artist_name": "Verdèzul",
   "primary_artist_canonical_slug": "verdèzul",
+  "additional_artist_slugs": [
+    "nemesyzz-rigby"
+  ],
   "release_name": "Earthtones \u0026 Shades of Blue and Green",
   "release_canonical_slug": "verdèzul--earthtones-and-shades-of-blue-and-green",
   "spotify_url": "https://open.spotify.com/track/7E1Z13mPfiA9XS9SfWiBhZ"

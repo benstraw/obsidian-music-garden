@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4zb4gmGzDYtlWMjmc1NZWW",
   "name": "Extinction Level Event: The Final World Front",
   "primary_artist_name": "Busta Rhymes",
-  "primary_artist_canonical_slug": "busta-rhymes"
+  "primary_artist_canonical_slug": "busta-rhymes",
+  "musicbrainz_release_id": "e851b749-df7c-42c0-96ea-103149b04a63",
+  "musicbrainz_release_group_id": "ab86867b-33a8-3e54-93ec-aaf6470cf340"
 }

@@ -1,0 +1,79 @@
+{
+  "canonical_slug": "peter-breiner",
+  "name": "Peter Breiner",
+  "spotify_artist_id": "50MREZ0LJcSvrtKuyTV8Su",
+  "musicbrainz_artist_id": "4a8005fa-b151-43a1-8ca4-3dfbbec086e0",
+  "spotify_url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "conductor",
+    "slovak conductor"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb1022110da349ae85bd40be",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174db1022110da349ae85bd40be",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178db1022110da349ae85bd40be",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Peter Breiner",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Breiner",
+  "summary": "Peter Breiner is a Slovak pianist, conductor, and composer.",
+  "candidates": [
+    "Peter Beinart",
+    "Peter Benner",
+    "Peter Berner",
+    "Peter Breiner",
+    "Peter Breinholt",
+    "Peter Breuer",
+    "Peter Bruner",
+    "Peter H. Brieger",
+    "Peter Reinberg",
+    "Peter Steiner (cartoonist)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Peter Breiner",
+    "page_url": "https://en.wikipedia.org/wiki/Peter_Breiner",
+    "retrieved_at": "2026-03-28T10:41:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

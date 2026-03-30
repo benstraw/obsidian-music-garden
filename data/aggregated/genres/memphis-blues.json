@@ -1,0 +1,128 @@
+{
+  "canonical_slug": "memphis-blues",
+  "display_title": "Memphis Blues",
+  "display_name": "Memphis Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Memphis blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Memphis_blues",
+  "summary": "The Memphis blues is a style of blues music created from the 1910s to the 1930s by musicians in the Memphis area, such as Frank Stokes, Sleepy John Estes, Furry Lewis and Memphis Minnie. The style was popular in vaudeville and medicine shows and was associated with Beale Street, the main entertainment area in Memphis.",
+  "candidates": [
+    "Memphis Bleek",
+    "Memphis Blues (Negro Southern League)",
+    "Memphis Blues (album)",
+    "Memphis Blues (minor league)",
+    "Memphis Blues Tour",
+    "Memphis blues",
+    "Memphis blues (disambiguation)",
+    "Memphis blues again",
+    "Memphis; the Blues",
+    "The Memphis Blues"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Memphis blues",
+    "page_url": "https://en.wikipedia.org/wiki/Memphis_blues",
+    "retrieved_at": "2026-03-28T15:58:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Memphis Blues 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Memphis_Blues_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Memphis_Blues_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/The_Memphis_Blues_1.jpg/960px-The_Memphis_Blues_1.jpg",
+      "width": 1550,
+      "height": 2025,
+      "license": "Public domain",
+      "author": "Music by W. C. Handy, words by George A. Norton. Published by Theron C. Bennett Co., New York"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Victor Military Band-The Memphis Blues.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Victor_Military_Band-The_Memphis_Blues.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Victor_Military_Band-The_Memphis_Blues.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Victor Military Band"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--memphis-blues.json",
+      "url": "https://en.wikipedia.org/wiki/Memphis_blues",
+      "retrieved_at": "2026-03-28T15:58:19Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--memphis-blues.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,20 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6nLkWu5DSXItXcB6q2ISTO",
+  "name": "Gerry Mulligan Quartet",
+  "spotify_url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO",
+  "musicbrainz_artist_id": "78b711d1-43d7-464c-a110-490a8041fcf7",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Gerry Mulligan Quartet Volume 1",
+    "Gerry Mulligan Quartet Volume 2",
+    "The Gerry Mulligan Quartet",
+    "The Gerry Mulligan Quartet (1962 album)"
+  ]
+}

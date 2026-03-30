@@ -1,7 +1,9 @@
 {
   "canonical_slug": "funkadelic",
   "name": "Funkadelic",
+  "play_count": 67,
   "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+  "musicbrainz_artist_id": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
   "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
   "genres": [
     "funk",
@@ -77,5 +79,5 @@
       "author": "Author unknown"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

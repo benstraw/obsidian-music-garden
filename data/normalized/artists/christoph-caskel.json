@@ -1,0 +1,82 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5Amih5SqdKsNqBM2CXCnqw",
+  "name": "Christoph Caskel",
+  "spotify_url": "https://open.spotify.com/artist/5Amih5SqdKsNqBM2CXCnqw",
+  "musicbrainz_artist_id": "3a244f5a-8d2f-4f45-bba8-1e620508a239",
+  "source_genres": [
+    "percussionist"
+  ],
+  "status": "matched",
+  "page_title": "Christoph Caskel",
+  "summary": "Christoph Caskel was a German percussionist and teacher.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Christoph_Caskel",
+  "candidates": [
+    "Christoph Caskel",
+    "Christopher Skelton"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Christoph Caskel",
+    "page_url": "https://en.wikipedia.org/wiki/Christoph_Caskel",
+    "retrieved_at": "2026-03-28T10:38:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MusicalnotesGermany.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MusicalnotesGermany.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/MusicalnotesGermany.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/MusicalnotesGermany.svg/960px-MusicalnotesGermany.svg.png",
+      "width": 79,
+      "height": 52,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:SpinnerLaserzthe2nd\" title=\"User:SpinnerLaserzthe2nd\"\u003eSpinnerLaserzthe2nd\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Shiraz 36.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Shiraz_36.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Shiraz_36.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Shiraz_36.jpg/960px-Shiraz_36.jpg",
+      "width": 1425,
+      "height": 998,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ]
+}

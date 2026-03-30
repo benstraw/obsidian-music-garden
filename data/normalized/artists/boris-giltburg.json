@@ -1,0 +1,46 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6DJ974Gf11OtDblQklBHPX",
+  "name": "Boris Giltburg",
+  "spotify_url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX",
+  "musicbrainz_artist_id": "1b7d060d-6fcc-451b-ad4a-91aab8fddb05",
+  "status": "matched",
+  "page_title": "Boris Giltburg",
+  "summary": "Boris Leonidovich Giltburg  is an Israeli classical pianist, born in the Soviet Union.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Boris_Giltburg",
+  "candidates": [
+    "Boris Giltburg"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Boris Giltburg",
+    "page_url": "https://en.wikipedia.org/wiki/Boris_Giltburg",
+    "retrieved_at": "2026-03-28T10:37:41Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Boris Giltburg en octobre 2019.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Boris_Giltburg_en_octobre_2019.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Boris_Giltburg_en_octobre_2019.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Boris_Giltburg_en_octobre_2019.jpg",
+    "width": 675,
+    "height": 525,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Griffu\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Griffu (page does not exist)\"\u003eGriffu\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Boris Giltburg en octobre 2019.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Boris_Giltburg_en_octobre_2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Boris_Giltburg_en_octobre_2019.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Boris_Giltburg_en_octobre_2019.jpg",
+      "width": 675,
+      "height": 525,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Griffu\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Griffu (page does not exist)\"\u003eGriffu\u003c/a\u003e"
+    }
+  ]
+}

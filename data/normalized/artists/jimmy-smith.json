@@ -1,0 +1,28 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5GXruybcLmXPjR9rKKFyS6",
+  "name": "Jimmy Smith",
+  "spotify_url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6",
+  "musicbrainz_artist_id": "4f8a0d9b-5777-40da-b29a-e9753d5ae693",
+  "source_genres": [
+    "easy listening",
+    "jazz",
+    "jazz/soul"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Jimmy Smith",
+    "Jimmy Smith (Australian footballer)",
+    "Jimmy Smith (cornerback)",
+    "Jimmy Smith (fighter)",
+    "Jimmy Smith (footballer, born 1947)",
+    "Jimmy Smith (footballer, born 1987)",
+    "Jimmy Smith (musician)",
+    "Jimmy Smith (wide receiver)",
+    "Jimmy Smith at the Organ (1957 albums)",
+    "Jimmy Smith discography"
+  ]
+}

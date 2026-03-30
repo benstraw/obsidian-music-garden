@@ -1,7 +1,9 @@
 {
   "canonical_slug": "rose-s-pawn-shop",
   "name": "Rose's Pawn Shop",
+  "play_count": 1,
   "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+  "musicbrainz_artist_id": "9750816a-a7d9-4559-8db6-f0895e0416dc",
   "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3",
   "genres": [
     "alt-country",
@@ -93,5 +95,5 @@
       "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

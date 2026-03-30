@@ -1,7 +1,9 @@
 {
   "canonical_slug": "jurassic-5",
   "name": "Jurassic 5",
+  "play_count": 9,
   "spotify_artist_id": "6wFId9Jhuf9AKVzWboOj2B",
+  "musicbrainz_artist_id": "11c6b106-1c1f-429d-8407-b1ee155d7f72",
   "spotify_url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
   "genres": [
     "hip-hop"
@@ -74,5 +76,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

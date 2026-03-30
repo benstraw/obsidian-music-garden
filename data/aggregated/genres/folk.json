@@ -6,7 +6,11 @@
     "folk"
   ],
   "pending": false,
-  "status": "ambiguous",
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Folk music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Folk_music",
+  "summary": "Folk music is a music genre that includes traditional folk music and the contemporary genre that evolved from the former during the 20th-century folk revival. Some types of folk music may be called world music. Traditional folk music has been defined in several ways: as music transmitted orally, music with unknown composers, music that is played on traditional instruments, music about cultural or national identity, music that changes between generations, music associated with a people's folklore, or music performed by custom over a long period of time. It has been contrasted with commercial and classical styles. The term originated in the 19th century, but folk music extends beyond that.",
   "candidates": [
     "Folk",
     "Folk costume",
@@ -19,150 +23,276 @@
     "Folklore of the United States",
     "Folklore studies"
   ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Folk music",
+    "page_url": "https://en.wikipedia.org/wiki/Folk_music",
+    "retrieved_at": "2026-03-29T08:32:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:015 Die Brüder Steinegger nach einem Lichtbild in den 1880er-Jahren - Änderung der Tracht.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg/960px-015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+    "width": 1429,
+    "height": 2012,
+    "license": "Public domain",
+    "author": "Scan and postprocessing by \u003ca href=\"//commons.wikimedia.org/wiki/User:Hubertl\" title=\"User:Hubertl\"\u003eHubertl\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:015 Die Brüder Steinegger nach einem Lichtbild in den 1880er-Jahren - Änderung der Tracht.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg/960px-015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+      "width": 1429,
+      "height": 2012,
+      "license": "Public domain",
+      "author": "Scan and postprocessing by \u003ca href=\"//commons.wikimedia.org/wiki/User:Hubertl\" title=\"User:Hubertl\"\u003eHubertl\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2012-01-25 BattlefieldBand 0097.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2012-01-25_BattlefieldBand_0097.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2012-01-25_BattlefieldBand_0097.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2012-01-25_BattlefieldBand_0097.JPG/960px-2012-01-25_BattlefieldBand_0097.JPG",
+      "width": 2260,
+      "height": 1450,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mlucan\" class=\"mw-redirect\" title=\"User:Mlucan\"\u003eMichael Lucan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ada Jones und Len Spencer, Return of the Arkansas Traveler, Indestructible Record 3108, 1910.mp3",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ada_Jones_und_Len_Spencer,_Return_of_the_Arkansas_Traveler,_Indestructible_Record_3108,_1910.mp3",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ada_Jones_und_Len_Spencer%2C_Return_of_the_Arkansas_Traveler%2C_Indestructible_Record_3108%2C_1910.mp3",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Ada Jones, Len Spencer"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ahmet Kaya.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ahmet_Kaya.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ahmet_Kaya.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ahmet_Kaya.jpg",
+      "width": 560,
+      "height": 420,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "www.ahmetkaya.com"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Assyrianfolk.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Assyrianfolk.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Assyrianfolk.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Assyrianfolk.jpg",
+      "width": 230,
+      "height": 164,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "User \u003ca href=\"https://en.wikipedia.org/wiki/User:Chaldean\" class=\"extiw\" title=\"en:User:Chaldean\"\u003eChaldean\u003c/a\u003e on \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Chaldean\" class=\"extiw\" title=\"en:User:Chaldean\"\u003eChaldean\u003c/a\u003e"
+    }
+  ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 33,
-    "unique_artist_count": 8,
-    "unique_release_count": 18,
-    "unique_track_count": 21,
-    "first_played_at": "2026-02-13T02:25:41.986Z",
-    "last_played_at": "2026-03-18T01:43:36.082Z"
+    "play_count": 346,
+    "unique_artist_count": 27,
+    "unique_release_count": 89,
+    "unique_track_count": 240,
+    "first_played_at": "2024-01-01T00:00:00.074180697Z",
+    "last_played_at": "2026-03-29T19:15:19.979Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "john-prine",
-      "name": "John Prine",
-      "play_count": 19,
-      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
-      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-    },
-    {
-      "canonical_slug": "simon-and-garfunkel",
-      "name": "Simon \u0026 Garfunkel",
-      "play_count": 6,
-      "spotify_artist_id": "70cRZdQywnSFp9pnc2WTCE",
-      "spotify_url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-    },
-    {
-      "canonical_slug": "emmylou-harris",
-      "name": "Emmylou Harris",
-      "play_count": 3,
-      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
-      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+      "canonical_slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "play_count": 90,
+      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "musicbrainz_artist_id": "2ff49515-1701-4bac-a53a-04345893f3f3",
+      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
     },
     {
       "canonical_slug": "bob-dylan",
       "name": "Bob Dylan",
-      "play_count": 1,
+      "play_count": 46,
       "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+      "musicbrainz_artist_id": "72c536dc-7137-4477-a521-567eeb840fa8",
       "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
     },
     {
-      "canonical_slug": "gillian-welch",
-      "name": "Gillian Welch",
-      "play_count": 1,
-      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
-      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-    },
-    {
-      "canonical_slug": "mumford-and-sons",
-      "name": "Mumford \u0026 Sons",
-      "play_count": 1,
-      "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
-      "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      "canonical_slug": "tim-hardin",
+      "name": "Tim Hardin",
+      "play_count": 44,
+      "spotify_artist_id": "39GVRVaqlKh7JL8Yl5ZKcb",
+      "musicbrainz_artist_id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+      "spotify_url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
     },
     {
       "canonical_slug": "old-crow-medicine-show",
       "name": "Old Crow Medicine Show",
-      "play_count": 1,
+      "play_count": 42,
       "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "musicbrainz_artist_id": "0202af38-ac32-48d0-a546-87caaef2dee2",
       "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
     },
     {
-      "canonical_slug": "townes-van-zandt",
-      "name": "Townes Van Zandt",
-      "play_count": 1,
-      "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
-      "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+      "canonical_slug": "john-prine",
+      "name": "John Prine",
+      "play_count": 26,
+      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+      "musicbrainz_artist_id": "e86492c1-0376-4df0-8042-8ba058c83960",
+      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+    },
+    {
+      "canonical_slug": "the-books",
+      "name": "The Books",
+      "play_count": 15,
+      "spotify_artist_id": "4UvhuGdFf75Cfan7lEU1J1",
+      "musicbrainz_artist_id": "1270af14-9c17-4400-8ebb-3f0ac40dcfb0",
+      "spotify_url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+    },
+    {
+      "canonical_slug": "simon-and-garfunkel",
+      "name": "Simon \u0026 Garfunkel",
+      "play_count": 14,
+      "spotify_artist_id": "70cRZdQywnSFp9pnc2WTCE",
+      "musicbrainz_artist_id": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+      "spotify_url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+    },
+    {
+      "canonical_slug": "nick-drake",
+      "name": "Nick Drake",
+      "play_count": 11,
+      "spotify_artist_id": "5c3GLXai8YOMid29ZEuR9y",
+      "musicbrainz_artist_id": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+      "spotify_url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+    },
+    {
+      "canonical_slug": "dan-reeder",
+      "name": "Dan Reeder",
+      "play_count": 7,
+      "spotify_artist_id": "4pzjm2iMtclScYmoJ7q9tD",
+      "musicbrainz_artist_id": "b73ad3ac-be50-4b3c-b5dd-7412d557602c",
+      "spotify_url": "https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD"
+    },
+    {
+      "canonical_slug": "doc-watson",
+      "name": "Doc Watson",
+      "play_count": 6,
+      "spotify_artist_id": "01N1aZStXA4yGvkz4vRXtJ",
+      "musicbrainz_artist_id": "8aa38215-217d-432e-aca6-f2d85b05e843",
+      "spotify_url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "gillian-welch--boots-no-2-the-lost-songs",
+      "name": "Boots No. 2: The Lost Songs",
+      "play_count": 31,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0wDBoq9LTEIw8DXoAZTrfP",
+      "musicbrainz_release_id": "d61fa15a-c525-4b48-b20a-10c64b77d59c",
+      "musicbrainz_release_group_id": "d8c8298f-6148-4b32-9eae-21c00ac53232"
+    },
+    {
+      "canonical_slug": "bob-dylan--the-complete-budokan-1978-live",
+      "name": "The Complete Budokan 1978 (Live)",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "spotify_album_id": "6LosaBGHSd97BYSVI7x4ni"
+    },
+    {
+      "canonical_slug": "tim-hardin--tim-hardin-1",
+      "name": "Tim Hardin 1",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "7GWTeFyEAmLUNYHwba9YvX",
+      "musicbrainz_release_id": "70d857a1-173e-49bb-8e36-5e0b726ef9b0",
+      "musicbrainz_release_group_id": "b1dc278a-ddeb-36ce-856d-ea633649e9eb"
+    },
+    {
+      "canonical_slug": "the-books--the-lemon-of-pink-remastered",
+      "name": "The Lemon of Pink (Remastered)",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "the-books",
+      "primary_artist_name": "The Books",
+      "spotify_album_id": "6zwjQ6buUEcF3E9IGTJXtP"
+    },
+    {
       "canonical_slug": "john-prine--in-spite-of-ourselves",
-      "name": "In Spite Of Ourselves",
+      "name": "In Spite of Ourselves",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "john-prine",
+      "primary_artist_name": "John Prine",
+      "spotify_album_id": "2t6hK5ERtgjbHXVgHlpqJ5",
+      "musicbrainz_release_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+      "musicbrainz_release_group_id": "41714b68-b219-333d-8a7d-cf143d492984"
+    },
+    {
+      "canonical_slug": "bob-dylan--john-wesley-harding",
+      "name": "John Wesley Harding",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "spotify_album_id": "2KzCDxKpgLqBffHu1IZ7Kn",
+      "musicbrainz_release_id": "8e7e12b2-46ff-4e6b-8384-2ce538d90dcc",
+      "musicbrainz_release_group_id": "32981714-597a-32dd-9f29-b2f7566fed89"
+    },
+    {
+      "canonical_slug": "gillian-welch--all-the-good-times",
+      "name": "All The Good Times",
       "play_count": 12,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0JgpOuuz9D8eH50iZomnvD",
+      "musicbrainz_release_id": "68860171-db2b-41de-902c-f1bce7c22d31",
+      "musicbrainz_release_group_id": "e82cbc11-098d-4f42-a849-90a92cf06bd4"
     },
     {
-      "canonical_slug": "john-prine--john-prine",
-      "name": "John Prine",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "canonical_slug": "gillian-welch--revival",
+      "name": "Revival",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "733rVkP3oBulDHJbiuRANa",
+      "musicbrainz_release_id": "cdaf7475-71ad-49e2-bcb5-492957366d48",
+      "musicbrainz_release_group_id": "1b59c403-965a-3f63-bca2-2590f3a0660f"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--bookends",
-      "name": "Bookends",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel"
+      "canonical_slug": "old-crow-medicine-show--big-iron-world",
+      "name": "Big Iron World",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "503O014nLEUnB5NSbyDzAJ",
+      "musicbrainz_release_id": "dd963f84-0c3e-4396-8dd2-cc0c86fd6990",
+      "musicbrainz_release_group_id": "58798fed-3731-3d6d-b0cb-bac4e5be17a1"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--live-1969",
-      "name": "Live 1969",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel"
-    },
-    {
-      "canonical_slug": "simon-and-garfunkel--bridge-over-troubled-water",
-      "name": "Bridge Over Troubled Water",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel"
-    },
-    {
-      "canonical_slug": "john-prine--bruised-orange",
-      "name": "Bruised Orange",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
-    },
-    {
-      "canonical_slug": "mumford-and-sons--delta",
-      "name": "Delta",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mumford-and-sons",
-      "primary_artist_name": "Mumford \u0026 Sons"
-    },
-    {
-      "canonical_slug": "john-prine--diamonds-in-the-rough",
-      "name": "Diamonds in the Rough",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
-    },
-    {
-      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
-      "name": "Elite Hotel (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
-    },
-    {
-      "canonical_slug": "john-prine--fair-and-square",
-      "name": "Fair and Square",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "canonical_slug": "gillian-welch--soul-journey",
+      "name": "Soul Journey",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "75NIWZjBwsF7MyfbG8JPwr",
+      "musicbrainz_release_id": "b3d4dc24-fc81-4f5e-a43e-e60782b7ad2f",
+      "musicbrainz_release_group_id": "cf71f2e5-2cfe-3652-b572-8f24560f44b0"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "john-prine--in-spite-of-ourselves",
       "name": "In Spite of Ourselves",
-      "play_count": 6,
+      "play_count": 7,
       "primary_artist_canonical_slug": "john-prine",
       "primary_artist_name": "John Prine",
       "release_canonical_slug": "john-prine--in-spite-of-ourselves",
@@ -182,31 +312,31 @@
       "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--bookends-theme-reprise",
-      "name": "Bookends Theme - Reprise",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel",
-      "release_canonical_slug": "simon-and-garfunkel--bookends",
-      "release_name": "Bookends",
-      "spotify_track_id": "0Q3GpBYKy5Mx97TNBJVibl",
-      "spotify_url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+      "canonical_slug": "gillian-welch--jackson",
+      "name": "Jackson",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--all-the-good-times",
+      "release_name": "All The Good Times",
+      "spotify_track_id": "3NQK1uTiWfaeO9DhRtkD1A",
+      "spotify_url": "https://open.spotify.com/track/3NQK1uTiWfaeO9DhRtkD1A"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--old-friends-bookends-theme-live-in-toledo-oh-november-1969",
-      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel",
-      "release_canonical_slug": "simon-and-garfunkel--live-1969",
-      "release_name": "Live 1969",
-      "spotify_track_id": "5dKUMWNp0Y18VHkGGJCJR9",
-      "spotify_url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
+      "canonical_slug": "gillian-welch--shotgun-song",
+      "name": "Shotgun Song",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--boots-no-2-the-lost-songs-vol-1",
+      "release_name": "Boots No. 2: The Lost Songs, Vol. 1",
+      "spotify_track_id": "0HM87zIvkV8blF0RU6fmWQ",
+      "spotify_url": "https://open.spotify.com/track/0HM87zIvkV8blF0RU6fmWQ"
     },
     {
       "canonical_slug": "john-prine--spanish-pipedream",
       "name": "Spanish Pipedream",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "john-prine",
       "primary_artist_name": "John Prine",
       "release_canonical_slug": "john-prine--john-prine",
@@ -215,59 +345,59 @@
       "spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
     },
     {
-      "canonical_slug": "john-prine--angel-from-montgomery",
-      "name": "Angel from Montgomery",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--john-prine",
-      "release_name": "John Prine",
-      "spotify_track_id": "2qWKpYIleSvBT6aUMXoia5",
-      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+      "canonical_slug": "old-crow-medicine-show--take-em-away",
+      "name": "Take 'Em Away",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "4PW2BiBPZS62HxJdeEx4qh",
+      "spotify_url": "https://open.spotify.com/track/4PW2BiBPZS62HxJdeEx4qh"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--bleecker-street",
-      "name": "Bleecker Street",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel",
-      "release_canonical_slug": "simon-and-garfunkel--wednesday-morning-3-a-m",
-      "release_name": "Wednesday Morning, 3 A.M.",
-      "spotify_track_id": "4c0ecVwn17owdwpIBL07wC",
-      "spotify_url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+      "canonical_slug": "bob-dylan--the-man-in-me",
+      "name": "The Man in Me",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "release_canonical_slug": "bob-dylan--new-morning",
+      "release_name": "New Morning",
+      "spotify_track_id": "7xRemq7GLu0Tbqe9OckG87",
+      "spotify_url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
     },
     {
-      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
-      "name": "Bluebird Wine - 2003 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
-      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "canonical_slug": "david-allan-coe--you-never-even-called-me-by-my-name",
+      "name": "You Never Even Called Me by My Name",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "david-allan-coe",
+      "primary_artist_name": "David Allan Coe",
+      "release_canonical_slug": "david-allan-coe--once-upon-a-rhyme",
+      "release_name": "Once Upon a Rhyme",
+      "spotify_track_id": "2mV4xg3mvO5aXPLMoD7WrR",
+      "spotify_url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
     },
     {
-      "canonical_slug": "john-prine--clocks-and-spoons",
-      "name": "Clocks and Spoons",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--diamonds-in-the-rough",
-      "release_name": "Diamonds in the Rough",
-      "spotify_track_id": "57M2Tzakrrj4pecyVet6kM",
-      "spotify_url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM"
+      "canonical_slug": "bob-dylan--a-hard-rain-s-a-gonna-fall-live-at-nippon-budokan-hall-tokyo-japan-february-28-1978",
+      "name": "A Hard Rain's A-Gonna Fall - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "release_canonical_slug": "bob-dylan--the-complete-budokan-1978-live",
+      "release_name": "The Complete Budokan 1978 (Live)",
+      "spotify_track_id": "6e5TJqqoSluCky176eZLCA",
+      "spotify_url": "https://open.spotify.com/track/6e5TJqqoSluCky176eZLCA"
     },
     {
-      "canonical_slug": "john-prine--fish-and-whistle",
-      "name": "Fish and Whistle",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--bruised-orange",
-      "release_name": "Bruised Orange",
-      "spotify_track_id": "4qA8M5hJn45rtFyWH5Ixar",
-      "spotify_url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar"
+      "canonical_slug": "old-crow-medicine-show--alabama-hightest",
+      "name": "Alabama HighTest",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "release_name": "Tennessee Pusher",
+      "spotify_track_id": "0bkCgETw93o0CVMU8xFHpL",
+      "spotify_url": "https://open.spotify.com/track/0bkCgETw93o0CVMU8xFHpL"
     }
   ],
   "source_refs": [
@@ -278,12 +408,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--folk.json",
+      "url": "https://en.wikipedia.org/wiki/Folk_music",
+      "retrieved_at": "2026-03-29T08:32:45Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--folk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:015_Die_Br%C3%BCder_Steinegger_nach_einem_Lichtbild_in_den_1880er-Jahren_-_%C3%84nderung_der_Tracht.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-18T01:43:36.082Z",
+      "updated_at": "2026-03-29T19:15:19.979Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T19:15:19.979Z"
 }

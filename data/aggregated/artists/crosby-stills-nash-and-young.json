@@ -1,7 +1,9 @@
 {
   "canonical_slug": "crosby-stills-nash-and-young",
   "name": "Crosby, Stills, Nash \u0026 Young",
+  "play_count": 24,
   "spotify_artist_id": "1CYsQCypByMVgnv17qsSbQ",
+  "musicbrainz_artist_id": "46a782ea-4308-476b-abd1-a91b197f3037",
   "spotify_url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ",
   "genres": [
     "classic-rock",
@@ -116,5 +118,5 @@
       "author": "CMA-Creative Management Associates/Atlantic Records"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

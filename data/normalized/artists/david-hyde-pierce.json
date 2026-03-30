@@ -1,0 +1,82 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3mQy6KS8nlt1YTZBqyslIe",
+  "name": "David Hyde Pierce",
+  "spotify_url": "https://open.spotify.com/artist/3mQy6KS8nlt1YTZBqyslIe",
+  "musicbrainz_artist_id": "f56f5dad-29be-44e2-95d2-ea1870910038",
+  "status": "matched",
+  "page_title": "David Hyde Pierce",
+  "summary": "David Hyde Pierce is an American actor. Known for his portrayal of psychiatrist Niles Crane on the NBC sitcom Frasier from 1993 to 2004, he received four Primetime Emmy Awards for Outstanding Supporting Actor in a Comedy Series as well as two Screen Actors Guild Awards. Pierce has also received five Golden Globe Awards nominations for Best Supporting Actor for the role. He won the Tony Award for Best Actor in a Musical for his role of Lt. Frank Cioffi in the Broadway musical Curtains (2007).",
+  "canonical_url": "https://en.wikipedia.org/wiki/David_Hyde_Pierce",
+  "candidates": [
+    "David Hyde Pierce"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "David Hyde Pierce",
+    "page_url": "https://en.wikipedia.org/wiki/David_Hyde_Pierce",
+    "retrieved_at": "2026-03-28T10:38:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:David Hyde Pierce VF Shankbone 2010.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Hyde_Pierce_VF_Shankbone_2010.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David_Hyde_Pierce_VF_Shankbone_2010.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Hyde_Pierce_VF_Shankbone_2010.jpg/960px-David_Hyde_Pierce_VF_Shankbone_2010.jpg",
+    "width": 1826,
+    "height": 2362,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:David_Shankbone\" class=\"extiw\" title=\"w:en:David Shankbone\"\u003e\u003cspan title=\"photographer\"\u003eDavid Shankbone\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Hyde Pierce VF Shankbone 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Hyde_Pierce_VF_Shankbone_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David_Hyde_Pierce_VF_Shankbone_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Hyde_Pierce_VF_Shankbone_2010.jpg/960px-David_Hyde_Pierce_VF_Shankbone_2010.jpg",
+      "width": 1826,
+      "height": 2362,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:David_Shankbone\" class=\"extiw\" title=\"w:en:David Shankbone\"\u003e\u003cspan title=\"photographer\"\u003eDavid Shankbone\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Hyde Pierce at 47th Emmy Awards.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Hyde_Pierce_at_47th_Emmy_Awards.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/David_Hyde_Pierce_at_47th_Emmy_Awards.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/David_Hyde_Pierce_at_47th_Emmy_Awards.jpg",
+      "width": 757,
+      "height": 1084,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42274165@N00\"\u003eAlan Light\u003c/a\u003e",
+      "attribution_text": "photo by Alan Light"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hello Dolly - Shubert Theater Broadway - Thursday 5th October 2017 HelloDollyNYC051017-20 (24525280858).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hello_Dolly_-_Shubert_Theater_Broadway_-_Thursday_5th_October_2017_HelloDollyNYC051017-20_(24525280858).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hello_Dolly_-_Shubert_Theater_Broadway_-_Thursday_5th_October_2017_HelloDollyNYC051017-20_%2824525280858%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hello_Dolly_-_Shubert_Theater_Broadway_-_Thursday_5th_October_2017_HelloDollyNYC051017-20_%2824525280858%29.jpg/960px-Hello_Dolly_-_Shubert_Theater_Broadway_-_Thursday_5th_October_2017_HelloDollyNYC051017-20_%2824525280858%29.jpg",
+      "width": 6000,
+      "height": 3376,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mikulski, Bond, and Pierce at Alzheimer's Press Conference.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mikulski,_Bond,_and_Pierce_at_Alzheimer%27s_Press_Conference.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mikulski%2C_Bond%2C_and_Pierce_at_Alzheimer%27s_Press_Conference.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mikulski%2C_Bond%2C_and_Pierce_at_Alzheimer%27s_Press_Conference.jpg/960px-Mikulski%2C_Bond%2C_and_Pierce_at_Alzheimer%27s_Press_Conference.jpg",
+      "width": 1280,
+      "height": 833,
+      "license": "Public domain",
+      "author": "Unknown\u003cspan style=\"display: none;\"\u003eUnknown \u003c/span\u003e"
+    }
+  ]
+}

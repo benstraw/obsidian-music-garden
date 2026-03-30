@@ -1,7 +1,9 @@
 {
   "canonical_slug": "a-tribe-called-quest",
   "name": "A Tribe Called Quest",
+  "play_count": 51,
   "spotify_artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+  "musicbrainz_artist_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
   "spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa",
   "genres": [
     "east-coast-hip-hop",
@@ -117,5 +119,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Pacific_Coast_Highway\" title=\"User:Pacific Coast Highway\"\u003ePacific Coast Highway\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

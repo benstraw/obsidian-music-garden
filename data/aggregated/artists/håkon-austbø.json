@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "håkon-austbø",
+  "name": "Håkon Austbø",
+  "spotify_artist_id": "0TeMHLkl2Y7C96S0MsvKAP",
+  "musicbrainz_artist_id": "c5516528-09de-4090-b6dd-645f110795bf",
+  "spotify_url": "https://open.spotify.com/artist/0TeMHLkl2Y7C96S0MsvKAP",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "norwegian pianist",
+    "pianist"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/5266adb39429e91f68745e3971cbfa97df7bc727",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/5940677ce6da77e6baec1757e4e001019f12456d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/a5f21f73ea7caaff599afd46daac2173499410c1",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/0f839f46ae881551451a28307f32e6a37c3d3a1a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Håkon Austbø",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A5kon_Austb%C3%B8",
+  "summary": "Håkon Austbø is a Norwegian classical pianist. He has created many recordings for the label Brilliant Classics and Naxos Records, and is also a professor at the Amsterdam conservatory.",
+  "candidates": [
+    "Håkon Austbø"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Håkon Austbø",
+    "page_url": "https://en.wikipedia.org/wiki/H%C3%A5kon_Austb%C3%B8",
+    "retrieved_at": "2026-03-28T10:39:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:MusicalnotesNorway.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:MusicalnotesNorway.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/MusicalnotesNorway.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/MusicalnotesNorway.png",
+    "width": 79,
+    "height": 52,
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Bruce1ee\" class=\"extiw\" title=\"wikipedia:User:Bruce1ee\"\u003eBruce1ee\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MusicalnotesNorway.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MusicalnotesNorway.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/MusicalnotesNorway.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/MusicalnotesNorway.png",
+      "width": 79,
+      "height": 52,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Bruce1ee\" class=\"extiw\" title=\"wikipedia:User:Bruce1ee\"\u003eBruce1ee\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pianist Hakon Austbo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pianist_Hakon_Austbo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pianist_Hakon_Austbo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pianist_Hakon_Austbo.jpg/960px-Pianist_Hakon_Austbo.jpg",
+      "width": 3300,
+      "height": 2144,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Abril Cabrera A. / Secretaria de Cultura."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Piano02.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Piano02.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Piano02.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Piano02.svg/960px-Piano02.svg.png",
+      "width": 43,
+      "height": 43,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "The original uploader was \u003ca href=\"https://en.wiktionary.org/wiki/pt:User:Voz_da_Verdade\" class=\"extiw\" title=\"wiktionary:pt:User:Voz da Verdade\"\u003eVoz da Verdade\u003c/a\u003e at \u003ca href=\"https://en.wiktionary.org/wiki/pt:\" class=\"extiw\" title=\"wiktionary:pt:\"\u003ePortuguese Wiktionary\u003c/a\u003e."
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

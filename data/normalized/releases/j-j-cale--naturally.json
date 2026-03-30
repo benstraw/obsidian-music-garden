@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3cpNHI7xhNIosF9WjSk8Zh",
   "name": "Naturally",
   "primary_artist_name": "J.J. Cale",
-  "primary_artist_canonical_slug": "j-j-cale"
+  "primary_artist_canonical_slug": "j-j-cale",
+  "musicbrainz_release_id": "1b335bbf-03cd-4d9c-84d5-9b4972385989",
+  "musicbrainz_release_group_id": "a5e655a1-acd0-3d4d-982a-4ab5281db04c"
 }

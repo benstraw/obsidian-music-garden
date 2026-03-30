@@ -1,0 +1,65 @@
+{
+  "canonical_slug": "cows",
+  "name": "Cows",
+  "play_count": 15,
+  "spotify_artist_id": "5Al98vDcGka3JcJ1WlZYoN",
+  "musicbrainz_artist_id": "d4b064a0-5567-4930-a359-16fadfa7941b",
+  "spotify_url": "https://open.spotify.com/artist/5Al98vDcGka3JcJ1WlZYoN",
+  "genres": [
+    "alternative-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "alternative rock",
+    "noise rock",
+    "punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27376828c810b86d98dfb699d5a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0276828c810b86d98dfb699d5a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485176828c810b86d98dfb699d5a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Cattle",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cattle",
+  "summary": "Cattle are large, domesticated, bovid ungulates widely kept as livestock. They are prominent modern members of the subfamily Bovinae and the most widespread species of the genus Bos. Mature female cattle are called cows and mature males are called bulls.",
+  "candidates": [
+    "Barry Cowsill",
+    "Bill Cowsill",
+    "Colton Cowser",
+    "Cow (Mario)",
+    "Cows",
+    "Cows (band)",
+    "Cowspiracy",
+    "John Cowsill",
+    "Susan Cowsill",
+    "The Cowsills"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cattle",
+    "page_url": "https://en.wikipedia.org/wiki/Cattle",
+    "retrieved_at": "2026-03-28T10:38:17Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/330px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "width": 3872,
+    "height": 2592
+  },
+  "last_updated": "2026-03-28"
+}

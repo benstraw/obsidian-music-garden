@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0LTIwNcvI31Zf5wwFVRHyu",
+  "name": "Art Ensemble Of Chicago",
+  "spotify_url": "https://open.spotify.com/artist/0LTIwNcvI31Zf5wwFVRHyu",
+  "musicbrainz_artist_id": "ed7156ee-07da-484b-b5a5-be322afa1a34",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Art Ensemble of Chicago",
+  "summary": "The Art Ensemble of Chicago is an avant-garde jazz group that grew out of the Association for the Advancement of Creative Musicians (AACM) in the late 1960s. The ensemble integrates many jazz styles and plays many instruments, including \"little instruments\": bells, bicycle horns, birthday party noisemakers, wind chimes, and various forms of percussion. The musicians would wear costumes and face paint while performing. These characteristics combined to make the ensemble's performances both aural and visual. While playing in Europe in 1969, five hundred instruments were used.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago",
+  "candidates": [
+    "Art Ensemble of Chicago",
+    "Art Ensemble of Chicago with Fontella Bass"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Art Ensemble of Chicago",
+    "page_url": "https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago",
+    "retrieved_at": "2026-03-28T10:37:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Art Ensemble of Chicago (1978).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Art_Ensemble_of_Chicago_(1978).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Art_Ensemble_of_Chicago_%281978%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Art_Ensemble_of_Chicago_%281978%29.jpg",
+    "width": 723,
+    "height": 528,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nomo\" title=\"User:Nomo\"\u003eNomo\u003c/a\u003e michael hoefner \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.zwo5.de\"\u003ehttp://www.zwo5.de\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Art Ensemble of Chicago (1978).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Art_Ensemble_of_Chicago_(1978).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Art_Ensemble_of_Chicago_%281978%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Art_Ensemble_of_Chicago_%281978%29.jpg",
+      "width": 723,
+      "height": 528,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nomo\" title=\"User:Nomo\"\u003eNomo\u003c/a\u003e michael hoefner \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.zwo5.de\"\u003ehttp://www.zwo5.de\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Art Ensemble of Chicago Kongsberg Jazzfestival 2017 (001645).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Art_Ensemble_of_Chicago_Kongsberg_Jazzfestival_2017_(001645).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Art_Ensemble_of_Chicago_Kongsberg_Jazzfestival_2017_%28001645%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Art_Ensemble_of_Chicago_Kongsberg_Jazzfestival_2017_%28001645%29.jpg",
+      "width": 900,
+      "height": 600,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Toresetre\" title=\"User:Toresetre\"\u003eTore Sætre\u003c/a\u003e"
+    }
+  ]
+}

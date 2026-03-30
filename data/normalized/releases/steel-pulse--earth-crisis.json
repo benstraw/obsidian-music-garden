@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1h5jSwgEiUDx58MiBFVTgV",
   "name": "Earth Crisis",
   "primary_artist_name": "Steel Pulse",
-  "primary_artist_canonical_slug": "steel-pulse"
+  "primary_artist_canonical_slug": "steel-pulse",
+  "musicbrainz_release_id": "a33146a9-4bcd-3158-930d-37f2d8b310a7",
+  "musicbrainz_release_group_id": "e9eefcaa-667c-34a6-84fe-c4e9cb76756c"
 }

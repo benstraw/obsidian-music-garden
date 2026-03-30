@@ -1,0 +1,42 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2jQ6wRQ7yP1UrctodeuYQP",
+  "name": "Butcher Brown",
+  "spotify_url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP",
+  "musicbrainz_artist_id": "c0937ba4-6869-456b-afd0-10335ae50245",
+  "source_genres": [
+    "contemporary jazz",
+    "funk",
+    "jazz",
+    "jazz rap",
+    "jazz-funk"
+  ],
+  "canonical_genre_slugs": [
+    "funk",
+    "jazz",
+    "jazz-funk",
+    "jazz-rap"
+  ],
+  "status": "matched",
+  "page_title": "Butcher Brown",
+  "summary": "Butcher Brown is a jazz quintet founded in 2009 and based in Richmond, Virginia. Their members are Marcus Tenney, Morgan Burrs (guitar), Corey Fonville (percussion), Andrew Randazzo (bass), and DJ Harrison (keyboards).",
+  "canonical_url": "https://en.wikipedia.org/wiki/Butcher_Brown",
+  "candidates": [
+    "Butch Brown",
+    "Butcher Brannigan",
+    "Butcher Bros.",
+    "Butcher Brown",
+    "Butcher baronets",
+    "Butcher brothers",
+    "Butcher of Brentwood",
+    "Butchertown, Louisville",
+    "Rodney Butcher",
+    "The Butcher Boy (novel)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Butcher Brown",
+    "page_url": "https://en.wikipedia.org/wiki/Butcher_Brown",
+    "retrieved_at": "2026-03-28T10:37:52Z"
+  }
+}

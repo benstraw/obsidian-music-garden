@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "madonna",
+  "name": "Madonna",
+  "play_count": 15,
+  "spotify_artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+  "musicbrainz_artist_id": "79239441-bfd5-4981-a70c-55c3f15c1287",
+  "spotify_url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW",
+  "genres": [
+    "electronic",
+    "pop",
+    "rock"
+  ],
+  "source_genres": [
+    "8cm cd",
+    "electronic",
+    "house",
+    "other pop",
+    "pop",
+    "rock",
+    "synth-pop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744b36d28b55620959821f4a5b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784b36d28b55620959821f4a5b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Madonna",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Madonna",
+  "summary": "Madonna Louise Ciccone is an American singer, songwriter, record producer, and actress. Dubbed the \"Queen of Pop\", she is known for her continual reinvention and versatility in music production, songwriting, and visual presentation. Her works incorporate social, political, sexual, and religious themes and have generated both controversy and critical acclaim. Madonna has had a significant socio-cultural impact across both the 20th and 21st centuries and is often deemed one of the greatest musicians of all time.",
+  "candidates": [
+    "Madonna",
+    "Madonna (album)",
+    "Madonna (art)",
+    "Madonna albums discography",
+    "Madonna and religion",
+    "Madonna and sexuality",
+    "Madonna filmography",
+    "Madonna singles discography",
+    "Madonna studies",
+    "Madonna videography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Madonna",
+    "page_url": "https://en.wikipedia.org/wiki/Madonna",
+    "retrieved_at": "2026-03-28T10:40:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2012 Super Bowl halftime show (6844800645).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2012_Super_Bowl_halftime_show_(6844800645).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2012_Super_Bowl_halftime_show_%286844800645%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2012_Super_Bowl_halftime_show_%286844800645%29.jpg",
+    "width": 750,
+    "height": 500,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50135425@N06\"\u003eCenter Grove High School Bands\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2012 Super Bowl halftime show (6844800645).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2012_Super_Bowl_halftime_show_(6844800645).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2012_Super_Bowl_halftime_show_%286844800645%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2012_Super_Bowl_halftime_show_%286844800645%29.jpg",
+      "width": 750,
+      "height": 500,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50135425@N06\"\u003eCenter Grove High School Bands\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio-input-microphone.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "width": 128,
+      "height": 128,
+      "license": "GPL",
+      "license_url": "http://www.gnu.org/licenses/gpl.html",
+      "author": "DBGthekafu"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Bowie - Zagreb.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Bowie_-_Zagreb.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/David_Bowie_-_Zagreb.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/David_Bowie_-_Zagreb.jpg/960px-David_Bowie_-_Zagreb.jpg",
+      "width": 2012,
+      "height": 3060,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Les_Zg\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Les Zg (page does not exist)\"\u003eLes Zg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ExpressYourselfGirlieShowunderGround2 sh (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:ExpressYourselfGirlieShowunderGround2_sh_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/ExpressYourselfGirlieShowunderGround2_sh_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/ExpressYourselfGirlieShowunderGround2_sh_%28cropped%29.jpg",
+      "width": 286,
+      "height": 427,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:ExpressYourselfGirlieShowunderGround2.jpg\" title=\"File:ExpressYourselfGirlieShowunderGround2.jpg\"\u003eExpressYourselfGirlieShowunderGround2.jpg\u003c/a\u003e: Hans Schaft\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:GianniG46\" title=\"User:GianniG46\"\u003eGianniG46\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the United States.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+      "width": 1235,
+      "height": 650,
+      "license": "Public domain",
+      "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

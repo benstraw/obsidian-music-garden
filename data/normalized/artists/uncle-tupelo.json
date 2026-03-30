@@ -1,0 +1,81 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2Plkkomsc4DKawkCioLKjc",
+  "name": "Uncle Tupelo",
+  "spotify_url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc",
+  "musicbrainz_artist_id": "95c043f1-0bdd-403a-b714-663908d7e4fc",
+  "source_genres": [
+    "alternative rock",
+    "country",
+    "country rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "country",
+    "country-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Uncle Tupelo",
+  "summary": "Uncle Tupelo was an alternative country music group from Belleville, Illinois, active between 1987 and 1994. Jay Farrar, Jeff Tweedy, and Mike Heidorn formed the band after the lead singer of their previous band, The Primitives, left to attend college. The trio recorded three albums for Rockville Records, before signing with Sire Records and expanding to a five-piece. Shortly after the release of the band's major label debut album Anodyne, Farrar announced his decision to leave the band due to a soured relationship with his co-songwriter Tweedy. Uncle Tupelo split on May 1, 1994, after completing a farewell tour. Following the breakup, Farrar formed Son Volt with Heidorn, while the remaining members continued as Wilco.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Uncle_Tupelo",
+  "candidates": [
+    "Uncle Tupelo"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Uncle Tupelo",
+    "page_url": "https://en.wikipedia.org/wiki/Uncle_Tupelo",
+    "retrieved_at": "2026-03-28T10:43:48Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cscr-featured.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+    "width": 466,
+    "height": 443,
+    "license": "LGPL",
+    "license_url": "http://www.gnu.org/licenses/lgpl.html",
+    "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:UTAtomicPower.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:UTFactoryBelt.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Uncle Tupelo.jpg"
+    }
+  ]
+}

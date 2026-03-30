@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "indie-soul",
+  "display_title": "Indie Soul",
+  "display_name": "Indie Soul",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "India's Ultimate Warrior",
+    "India–South Korea relations",
+    "Indie (culture)",
+    "Indie World",
+    "Indie folk",
+    "Indie role-playing game",
+    "Indie sleaze",
+    "Indie studio",
+    "Indie surf",
+    "Indio Solari"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

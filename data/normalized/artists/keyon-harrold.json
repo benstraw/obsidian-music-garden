@@ -1,0 +1,21 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4JG781pl96pL2h0AoERgOA",
+  "name": "Keyon Harrold",
+  "spotify_url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA",
+  "musicbrainz_artist_id": "a5a0b33e-862f-49d3-a921-edc78ed8692a",
+  "status": "matched",
+  "page_title": "Keyon Harrold",
+  "summary": "Keyon Karim Harrold is an American jazz trumpeter, vocalist, songwriter, and producer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Keyon_Harrold",
+  "candidates": [
+    "Kevin Harrold",
+    "Keyon Harrold"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Keyon Harrold",
+    "page_url": "https://en.wikipedia.org/wiki/Keyon_Harrold",
+    "retrieved_at": "2026-03-28T10:40:24Z"
+  }
+}

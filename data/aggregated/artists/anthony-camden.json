@@ -1,0 +1,52 @@
+{
+  "canonical_slug": "anthony-camden",
+  "name": "Anthony Camden",
+  "spotify_artist_id": "1iNHrIYKqHXQONIKKClI73",
+  "musicbrainz_artist_id": "e9177941-9173-47f8-94eb-8996736371c8",
+  "spotify_url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/660ad92d414738e6240541f7cfa98ada25aa26c6",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/29fe0beb780813ad6763cf4a20bf013123b44180",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/869ee66e6fbd2191f6dc68bf9a3e29005155fa09",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/3a908579f99cb196cd4995c19bd9469875c89081",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Anthony Camden",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_Camden",
+  "summary": "Anthony Camden was the principal oboe and chairman of the board at the London Symphony Orchestra. He was also a founding member of the ensemble London Virtuosi and went on to become the provost and director of the Queensland Conservatorium of Music in Brisbane before becoming the dean of music at the Hong Kong Academy for Performing Arts. He was affectionately known as the Whizzer in the world of classical music.",
+  "candidates": [
+    "Anthony Camden",
+    "Anthony Caminetti",
+    "Anthony Caminiti",
+    "Anthony Campanile",
+    "Anthony Cardon",
+    "Anthony Cavendish",
+    "Anthony Haden-Guest",
+    "Anthony Laden",
+    "Anthony Pagden",
+    "Anthony Vanden Borre"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Anthony Camden",
+    "page_url": "https://en.wikipedia.org/wiki/Anthony_Camden",
+    "retrieved_at": "2026-03-28T10:37:09Z"
+  },
+  "last_updated": "2026-03-30"
+}

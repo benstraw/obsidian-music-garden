@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "dave-brubeck-trio",
+  "name": "Dave Brubeck Trio",
+  "play_count": 13,
+  "spotify_artist_id": "0dvI5UOAa3FcQ78nmQYWbq",
+  "musicbrainz_artist_id": "012ed1d7-3a4a-499a-85f8-f7b84fd36538",
+  "spotify_url": "https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebda15c81b4954be5bd84973e6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174da15c81b4954be5bd84973e6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178da15c81b4954be5bd84973e6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

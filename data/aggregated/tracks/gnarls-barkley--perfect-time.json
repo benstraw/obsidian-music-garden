@@ -1,11 +1,15 @@
 {
   "canonical_slug": "gnarls-barkley--perfect-time",
   "name": "Perfect Time",
+  "play_count": 1,
   "primary_artist_canonical_slug": "gnarls-barkley",
   "primary_artist_name": "Gnarls Barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_canonical_slug": "gnarls-barkley--atlanta",
   "release_name": "Atlanta",
   "spotify_track_id": "19onZjXYn5gos7TI7UmARU",
-  "spotify_url": "https://open.spotify.com/track/19onZjXYn5gos7TI7UmARU",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/19onZjXYn5gos7TI7UmARU"
 }

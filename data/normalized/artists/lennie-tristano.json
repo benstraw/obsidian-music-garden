@@ -1,0 +1,62 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6VoQTYD2vUVvm1H031lp3e",
+  "name": "Lennie Tristano",
+  "spotify_url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e",
+  "musicbrainz_artist_id": "6532800a-a00f-424e-8328-36c7c1c864cc",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Lennie Tristano",
+  "summary": "Leonard Joseph Tristano was an American jazz pianist, composer, arranger, and teacher of jazz improvisation.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lennie_Tristano",
+  "candidates": [
+    "Lennie Tristano",
+    "Lennie Tristano (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lennie Tristano",
+    "page_url": "https://en.wikipedia.org/wiki/Lennie_Tristano",
+    "retrieved_at": "2026-03-28T10:40:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bill Harris, Denzil Best, Flip Phillips, Billy Bauer, Lennie Tristano, Chubby Jackson, 1947.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Harris,_Denzil_Best,_Flip_Phillips,_Billy_Bauer,_Lennie_Tristano,_Chubby_Jackson,_1947.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bill_Harris%2C_Denzil_Best%2C_Flip_Phillips%2C_Billy_Bauer%2C_Lennie_Tristano%2C_Chubby_Jackson%2C_1947.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bill_Harris%2C_Denzil_Best%2C_Flip_Phillips%2C_Billy_Bauer%2C_Lennie_Tristano%2C_Chubby_Jackson%2C_1947.jpg/960px-Bill_Harris%2C_Denzil_Best%2C_Flip_Phillips%2C_Billy_Bauer%2C_Lennie_Tristano%2C_Chubby_Jackson%2C_1947.jpg",
+    "width": 4868,
+    "height": 5068,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Harris, Denzil Best, Flip Phillips, Billy Bauer, Lennie Tristano, Chubby Jackson, 1947.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Harris,_Denzil_Best,_Flip_Phillips,_Billy_Bauer,_Lennie_Tristano,_Chubby_Jackson,_1947.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Bill_Harris%2C_Denzil_Best%2C_Flip_Phillips%2C_Billy_Bauer%2C_Lennie_Tristano%2C_Chubby_Jackson%2C_1947.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bill_Harris%2C_Denzil_Best%2C_Flip_Phillips%2C_Billy_Bauer%2C_Lennie_Tristano%2C_Chubby_Jackson%2C_1947.jpg/960px-Bill_Harris%2C_Denzil_Best%2C_Flip_Phillips%2C_Billy_Bauer%2C_Lennie_Tristano%2C_Chubby_Jackson%2C_1947.jpg",
+      "width": 4868,
+      "height": 5068,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lennie Tristano 1947 (Gottlieb) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lennie_Tristano_1947_(Gottlieb)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lennie_Tristano_1947_%28Gottlieb%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lennie_Tristano_1947_%28Gottlieb%29_%28cropped%29.jpg",
+      "width": 493,
+      "height": 697,
+      "license": "Public domain",
+      "author": "William p. Gottlieb"
+    }
+  ]
+}

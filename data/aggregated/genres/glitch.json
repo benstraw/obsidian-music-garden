@@ -1,0 +1,98 @@
+{
+  "canonical_slug": "glitch",
+  "display_title": "Glitch",
+  "display_name": "Glitch",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Glitch",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Glitch",
+  "summary": "A glitch is a brief technical fault, such as a transient one that corrects itself, making it difficult to troubleshoot. The term is particularly common in the computing and electronics industries, in circuit bending, as well as among players of video games, although any purposely organized structure, such as speech, may experience glitches.",
+  "candidates": [
+    "Glitch",
+    "Glitch (Australian TV series)",
+    "Glitch (South Korean TV series)",
+    "Glitch (music)",
+    "Glitch Mode",
+    "Glitch Mode (song)",
+    "Glitch Productions",
+    "Glitch Techs",
+    "Glitch art",
+    "Glitch, Inc."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Glitch",
+    "page_url": "https://en.wikipedia.org/wiki/Glitch",
+    "retrieved_at": "2026-03-28T15:56:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Glitch Train Station Display.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Glitch_Train_Station_Display.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Glitch_Train_Station_Display.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Glitch_Train_Station_Display.jpg/960px-Glitch_Train_Station_Display.jpg",
+    "width": 4608,
+    "height": 2761,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "I G"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glitch Train Station Display.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glitch_Train_Station_Display.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Glitch_Train_Station_Display.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Glitch_Train_Station_Display.jpg/960px-Glitch_Train_Station_Display.jpg",
+      "width": 4608,
+      "height": 2761,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "I G"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Virtual Boy glitch in right eyepiece.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Virtual_Boy_glitch_in_right_eyepiece.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Virtual_Boy_glitch_in_right_eyepiece.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Virtual_Boy_glitch_in_right_eyepiece.jpg/960px-Virtual_Boy_glitch_in_right_eyepiece.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/40196377@N00\"\u003eEli Hodapp\u003c/a\u003e from United States"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--glitch.json",
+      "url": "https://en.wikipedia.org/wiki/Glitch",
+      "retrieved_at": "2026-03-28T15:56:35Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--glitch.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Glitch_Train_Station_Display.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

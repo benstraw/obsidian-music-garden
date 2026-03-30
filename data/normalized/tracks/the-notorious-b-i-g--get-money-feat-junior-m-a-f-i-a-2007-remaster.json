@@ -4,6 +4,9 @@
   "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
   "primary_artist_name": "The Notorious B.I.G.",
   "primary_artist_canonical_slug": "the-notorious-b-i-g",
+  "additional_artist_slugs": [
+    "junior-m-a-f-i-a"
+  ],
   "release_name": "Greatest Hits",
   "release_canonical_slug": "the-notorious-b-i-g--greatest-hits",
   "spotify_url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"

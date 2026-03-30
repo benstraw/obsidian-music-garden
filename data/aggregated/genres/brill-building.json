@@ -1,0 +1,121 @@
+{
+  "canonical_slug": "brill-building",
+  "display_title": "Brill Building",
+  "display_name": "Brill Building",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Brill Building",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Brill_Building",
+  "summary": "The Brill Building is an office building at 1619 Broadway on 49th Street in the New York City borough of Manhattan, just north of Times Square and farther uptown from the historic musical Tin Pan Alley neighborhood. The Brill Building housed music industry offices and studios where some of the most popular American songs were written. It is considered to have been the center of the American music industry that dominated the pop charts in the early 1960s.",
+  "candidates": [
+    "Bell Building",
+    "Bell Building (Montgomery, Alabama)",
+    "Braly Building",
+    "Brill Building",
+    "Brill Building (genre)",
+    "The Brill Building (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Brill Building",
+    "page_url": "https://en.wikipedia.org/wiki/Brill_Building",
+    "retrieved_at": "2026-03-28T15:53:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Brill-Building (NY).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Brill-Building_(NY).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Brill-Building_%28NY%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Brill-Building_%28NY%29.jpg/960px-Brill-Building_%28NY%29.jpg",
+    "width": 1122,
+    "height": 1549,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003cp\u003e\u003ca href=\"https://en.wikipedia.org/wiki/User:Americasroof\" class=\"extiw\" title=\"wikipedia:User:Americasroof\"\u003eAmericasroof\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e.\n\u003c/p\u003e\nLater version was uploaded by \u003ca href=\"https://en.wikipedia.org/wiki/User:SilkTork\" class=\"extiw\" title=\"en:User:SilkTork\"\u003eSilkTork\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e.",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Americasroof\" class=\"extiw\" title=\"wikipedia:User:Americasroof\"\u003eAmericasroof\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brill-Building (NY).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brill-Building_(NY).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Brill-Building_%28NY%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Brill-Building_%28NY%29.jpg/960px-Brill-Building_%28NY%29.jpg",
+      "width": 1122,
+      "height": 1549,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003cp\u003e\u003ca href=\"https://en.wikipedia.org/wiki/User:Americasroof\" class=\"extiw\" title=\"wikipedia:User:Americasroof\"\u003eAmericasroof\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e.\n\u003c/p\u003e\nLater version was uploaded by \u003ca href=\"https://en.wikipedia.org/wiki/User:SilkTork\" class=\"extiw\" title=\"en:User:SilkTork\"\u003eSilkTork\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e.",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Americasroof\" class=\"extiw\" title=\"wikipedia:User:Americasroof\"\u003eAmericasroof\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brill Building Nov 2021 38.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brill_Building_Nov_2021_38.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Brill_Building_Nov_2021_38.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Brill_Building_Nov_2021_38.jpg/960px-Brill_Building_Nov_2021_38.jpg",
+      "width": 3456,
+      "height": 5184,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Epicgenius\" title=\"User:Epicgenius\"\u003eEpicgenius\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Brill Building (54077164908).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Brill_Building_(54077164908).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Brill_Building_%2854077164908%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Brill_Building_%2854077164908%29.jpg/960px-The_Brill_Building_%2854077164908%29.jpg",
+      "width": 2315,
+      "height": 3087,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/83136374@N05\"\u003eajay_suresh\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--brill-building.json",
+      "url": "https://en.wikipedia.org/wiki/Brill_Building",
+      "retrieved_at": "2026-03-28T15:53:35Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--brill-building.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Brill-Building_(NY).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,53 @@
+{
+  "canonical_slug": "john-coltrane-quartet",
+  "name": "John Coltrane Quartet",
+  "play_count": 7,
+  "spotify_artist_id": "67PZTxaHKMZBFRUh8wIzCy",
+  "musicbrainz_artist_id": "a43270af-bc4a-4552-847e-617b11f38d7b",
+  "spotify_url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3d4884d3433efed2c4a0563",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a3d4884d3433efed2c4a0563",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a3d4884d3433efed2c4a0563",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "John Coltrane",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+  "summary": "John William Coltrane was an American jazz saxophonist, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
+  "candidates": [
+    "John Coltrane Quartet",
+    "The John Coltrane Quartet Plays"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Coltrane",
+    "page_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+    "retrieved_at": "2026-03-28T10:40:04Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/John_Coltrane_1963_cropped_ver2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/John_Coltrane_1963_cropped_ver2.jpg/330px-John_Coltrane_1963_cropped_ver2.jpg",
+    "width": 1400,
+    "height": 1865
+  },
+  "last_updated": "2026-03-28"
+}

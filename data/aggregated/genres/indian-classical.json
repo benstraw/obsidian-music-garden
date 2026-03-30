@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "indian-classical",
+  "display_title": "Indian Classical",
+  "display_name": "Indian Classical",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Indian classical architecture",
+    "Indian classical dance",
+    "Indian classical drama",
+    "Indian classical music",
+    "Indian classical music (north)",
+    "Indian classical music (south)",
+    "Indian classical music theatre",
+    "Indian classical philosophy",
+    "Indian classical poetry",
+    "Indie classical"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

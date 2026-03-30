@@ -1,0 +1,79 @@
+{
+  "canonical_slug": "canterbury-scene",
+  "display_title": "Canterbury Scene",
+  "display_name": "Canterbury Scene",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Canterbury scene",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Canterbury_scene",
+  "summary": "The Canterbury scene is a musical scene that originated in the city of Canterbury, Kent, England during the late 1960s and early 1970s. Associated with progressive rock, the term describes a loosely defined, improvisational style that blended elements of jazz, rock, and psychedelia.",
+  "candidates": [
+    "Canterbury Center Historic District",
+    "Canterbury scene",
+    "Canterbury scree cicada",
+    "Skeets Canterbury"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Canterbury scene",
+    "page_url": "https://en.wikipedia.org/wiki/Canterbury_scene",
+    "retrieved_at": "2026-03-28T15:53:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Text document with red question mark.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/960px-Text_document_with_red_question_mark.svg.png",
+    "width": 48,
+    "height": 48,
+    "license": "Public domain",
+    "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Text document with red question mark.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/960px-Text_document_with_red_question_mark.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--canterbury-scene.json",
+      "url": "https://en.wikipedia.org/wiki/Canterbury_scene",
+      "retrieved_at": "2026-03-28T15:53:56Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--canterbury-scene.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

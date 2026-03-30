@@ -4,6 +4,9 @@
   "name": "Music (feat. Marvin Gaye)",
   "primary_artist_name": "Erick Sermon",
   "primary_artist_canonical_slug": "erick-sermon",
+  "additional_artist_slugs": [
+    "marvin-gaye"
+  ],
   "release_name": "Music",
   "release_canonical_slug": "erick-sermon--music",
   "spotify_url": "https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx"

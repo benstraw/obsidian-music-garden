@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2iPH3iUmpa9ufIpwY76keF",
   "name": "The Shape Of Jazz To Come",
   "primary_artist_name": "Ornette Coleman",
-  "primary_artist_canonical_slug": "ornette-coleman"
+  "primary_artist_canonical_slug": "ornette-coleman",
+  "musicbrainz_release_id": "59105e60-a6f7-4a86-aaab-2c4f02ddb4f8",
+  "musicbrainz_release_group_id": "5879cfca-e1d0-3ef4-8014-3b284832ed18"
 }

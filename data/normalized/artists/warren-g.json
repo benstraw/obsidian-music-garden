@@ -1,0 +1,77 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2B4ZHz4QDWJTXPFPgO5peE",
+  "name": "Warren G",
+  "spotify_url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE",
+  "musicbrainz_artist_id": "85d7666c-d3ce-4e2c-8b1b-f20db7cdae4f",
+  "status": "matched",
+  "page_title": "Warren G",
+  "summary": "Warren Griffin III is an American rapper, record producer and DJ. He is known for his role in popularizing West Coast hip hop during the 1990s, and is credited as a pioneer of its subgenre G-funk.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Warren_G",
+  "candidates": [
+    "Gary Warren (footballer)",
+    "Gavin Warren",
+    "Gouverneur K. Warren",
+    "Guy Warren",
+    "Warren G",
+    "Warren G discography",
+    "Warren G. Harding",
+    "Warren G. Harding High School",
+    "Warren Gatland",
+    "Warren Goldstein"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Warren G",
+    "page_url": "https://en.wikipedia.org/wiki/Warren_G",
+    "retrieved_at": "2026-03-28T10:43:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of California.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/960px-Flag_of_California.svg.png",
+    "width": 900,
+    "height": 600,
+    "license": "Public domain",
+    "author": "\u003cul\u003e\u003cli\u003e\u003cb\u003eOriginal: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Donald_Graeme_Kelley\" class=\"extiw\" title=\"w:Donald Graeme Kelley\"\u003eDonald Graeme Kelley\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/User:DevinCook\" class=\"extiw\" title=\"en:User:DevinCook\"\u003eDevin Cook\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of California.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/960px-Flag_of_California.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cul\u003e\u003cli\u003e\u003cb\u003eOriginal: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Donald_Graeme_Kelley\" class=\"extiw\" title=\"w:Donald Graeme Kelley\"\u003eDonald Graeme Kelley\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/User:DevinCook\" class=\"extiw\" title=\"en:User:DevinCook\"\u003eDevin Cook\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LA Skyline Mountains2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LA_Skyline_Mountains2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/LA_Skyline_Mountains2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/LA_Skyline_Mountains2.jpg/960px-LA_Skyline_Mountains2.jpg",
+      "width": 2816,
+      "height": 1880,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nserrano\" title=\"User:Nserrano\"\u003eNserrano\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Warren G and Kurupt (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Warren_G_and_Kurupt_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Warren_G_and_Kurupt_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Warren_G_and_Kurupt_%28cropped%29.jpg",
+      "width": 913,
+      "height": 1244,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93197724@N04\"\u003eConnie Lodge\u003c/a\u003e"
+    }
+  ]
+}

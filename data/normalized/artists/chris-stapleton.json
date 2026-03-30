@@ -1,0 +1,97 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4YLtscXsxbVgi031ovDDdh",
+  "name": "Chris Stapleton",
+  "spotify_url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh",
+  "musicbrainz_artist_id": "71d58182-aa37-4c04-b21a-efe46ea0f221",
+  "status": "matched",
+  "page_title": "Chris Stapleton",
+  "summary": "Christopher Alvin Stapleton is an American singer-songwriter and guitarist. Born in Kentucky, he moved to Nashville in 1996 to study for an engineering degree from Vanderbilt University, but dropped out to pursue a career in music. Shortly after, Stapleton signed a contract with Sea Gayle Music to write and publish his music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Chris_Stapleton",
+  "candidates": [
+    "Chris Stapleton",
+    "Chris Stapleton discography",
+    "Chris Stapleton's All-American Road Show Tour",
+    "Cyril Stapleton"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chris Stapleton",
+    "page_url": "https://en.wikipedia.org/wiki/Chris_Stapleton",
+    "retrieved_at": "2026-03-28T10:38:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2022 Gershwin Prize for Popular Song (51929239752).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2022_Gershwin_Prize_for_Popular_Song_(51929239752).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2022_Gershwin_Prize_for_Popular_Song_%2851929239752%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2022_Gershwin_Prize_for_Popular_Song_%2851929239752%29.jpg/960px-2022_Gershwin_Prize_for_Popular_Song_%2851929239752%29.jpg",
+    "width": 6000,
+    "height": 4002,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/162991176@N03\"\u003eLibrary of Congress Life\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2022 Gershwin Prize for Popular Song (51929239752).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2022_Gershwin_Prize_for_Popular_Song_(51929239752).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2022_Gershwin_Prize_for_Popular_Song_%2851929239752%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2022_Gershwin_Prize_for_Popular_Song_%2851929239752%29.jpg/960px-2022_Gershwin_Prize_for_Popular_Song_%2851929239752%29.jpg",
+      "width": 6000,
+      "height": 4002,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/162991176@N03\"\u003eLibrary of Congress Life\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chris Stapleton (49627461537).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chris_Stapleton_(49627461537).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chris_Stapleton_%2849627461537%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chris_Stapleton_%2849627461537%29.jpg/960px-Chris_Stapleton_%2849627461537%29.jpg",
+      "width": 3600,
+      "height": 2400,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/162991176@N03\"\u003eLibrary of Congress Life\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chris Stapleton Concert (48519730107) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chris_Stapleton_Concert_(48519730107)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chris_Stapleton_Concert_%2848519730107%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chris_Stapleton_Concert_%2848519730107%29_%28cropped%29.jpg/960px-Chris_Stapleton_Concert_%2848519730107%29_%28cropped%29.jpg",
+      "width": 1044,
+      "height": 1392,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Steve Kwak - \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/64018555@N03\"\u003eMaryland GovPics\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stapleton ACL 20161002005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stapleton_ACL_20161002005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stapleton_ACL_20161002005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stapleton_ACL_20161002005.jpg",
+      "width": 533,
+      "height": 800,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Missmojorising\" title=\"User:Missmojorising\"\u003eMissmojorising\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stapleton ACL 20161002006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stapleton_ACL_20161002006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Stapleton_ACL_20161002006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Stapleton_ACL_20161002006.jpg",
+      "width": 533,
+      "height": 800,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Missmojorising\" title=\"User:Missmojorising\"\u003eMissmojorising\u003c/a\u003e"
+    }
+  ]
+}

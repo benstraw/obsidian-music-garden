@@ -3,11 +3,21 @@
   "source_artist_id": "3ICflSq6ZgYAIrm2CTkfVP",
   "name": "The Animals",
   "spotify_url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP",
+  "musicbrainz_artist_id": "4d8afa16-4018-4ca8-8b5e-ede8f9314562",
   "source_genres": [
-    "classic rock"
+    "blues rock",
+    "british blues",
+    "british invasion",
+    "british rhythm \u0026 blues",
+    "classic rock",
+    "rhythm \u0026 blues",
+    "rock",
+    "rock and roll"
   ],
   "canonical_genre_slugs": [
-    "classic-rock"
+    "blues-rock",
+    "classic-rock",
+    "rock"
   ],
   "status": "matched",
   "page_title": "The Animals",

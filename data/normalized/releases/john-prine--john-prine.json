@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5t4FHrIAHI8nolSAOBRgPp",
   "name": "John Prine",
   "primary_artist_name": "John Prine",
-  "primary_artist_canonical_slug": "john-prine"
+  "primary_artist_canonical_slug": "john-prine",
+  "musicbrainz_release_id": "2b115165-6200-4a7f-9c78-f03b53d42b80",
+  "musicbrainz_release_group_id": "a13154a4-14a1-3344-ae14-3bea728ebe58"
 }

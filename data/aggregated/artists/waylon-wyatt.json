@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "waylon-wyatt",
+  "name": "Waylon Wyatt",
+  "spotify_artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+  "spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+  "genres": [
+    "country"
+  ],
+  "source_genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb51e191838dca7d4729b268a2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517451e191838dca7d4729b268a2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17851e191838dca7d4729b268a2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

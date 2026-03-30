@@ -4,6 +4,9 @@
   "name": "Lucky You (feat. Joyner Lucas)",
   "primary_artist_name": "Eminem",
   "primary_artist_canonical_slug": "eminem",
+  "additional_artist_slugs": [
+    "joyner-lucas"
+  ],
   "release_name": "Kamikaze",
   "release_canonical_slug": "eminem--kamikaze",
   "spotify_url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"

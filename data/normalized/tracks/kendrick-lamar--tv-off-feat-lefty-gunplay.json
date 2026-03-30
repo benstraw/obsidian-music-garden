@@ -4,6 +4,9 @@
   "name": "tv off (feat. lefty gunplay)",
   "primary_artist_name": "Kendrick Lamar",
   "primary_artist_canonical_slug": "kendrick-lamar",
+  "additional_artist_slugs": [
+    "lefty-gunplay"
+  ],
   "release_name": "GNX",
   "release_canonical_slug": "kendrick-lamar--gnx",
   "spotify_url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"

@@ -3,14 +3,17 @@
   "source_artist_id": "0tIODqvzGUoEaK26rK4pvX",
   "name": "Sun Ra",
   "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX",
+  "musicbrainz_artist_id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
   "source_genres": [
     "avant-garde",
+    "electronic",
     "experimental jazz",
     "free jazz",
     "hard bop",
     "jazz"
   ],
   "canonical_genre_slugs": [
+    "electronic",
     "experimental",
     "experimental-jazz",
     "free-jazz",

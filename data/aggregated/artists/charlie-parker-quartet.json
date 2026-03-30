@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "charlie-parker-quartet",
+  "name": "Charlie Parker Quartet",
+  "play_count": 23,
+  "spotify_artist_id": "5GBe2GMfPm3IFagD5XuKKs",
+  "musicbrainz_artist_id": "430dfeae-b5d7-4d36-a8a2-e9f0a8f025be",
+  "spotify_url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs",
+  "source_genres": [
+    "not-orchestra"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273aeb39f276dde87a22496665f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02aeb39f276dde87a22496665f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851aeb39f276dde87a22496665f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

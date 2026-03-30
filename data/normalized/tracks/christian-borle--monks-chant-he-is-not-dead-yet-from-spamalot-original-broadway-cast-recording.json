@@ -4,7 +4,13 @@
   "name": "Monks Chant / He Is Not Dead Yet - From \"Spamalot\" Original Broadway Cast Recording",
   "primary_artist_name": "Christian Borle",
   "primary_artist_canonical_slug": "christian-borle",
+  "additional_artist_slugs": [
+    "hank-azaria",
+    "david-hyde-pierce",
+    "ensemble",
+    "todd-ellison"
+  ],
   "release_name": "Monty Python's Spamalot",
-  "release_canonical_slug": "christian-borle--monty-python-s-spamalot",
+  "release_canonical_slug": "christopher-sieber--monty-python-s-spamalot",
   "spotify_url": "https://open.spotify.com/track/3tl5aGjKkwfZDA3PkiGSRC"
 }

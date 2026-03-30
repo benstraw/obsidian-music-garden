@@ -6,7 +6,8 @@
   "aliases": [
     "cajun"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Cajun Dance Party",
@@ -22,32 +23,69 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-01T01:38:43.173Z",
-    "last_played_at": "2026-03-01T01:38:43.173Z"
+    "play_count": 4,
+    "unique_artist_count": 2,
+    "unique_release_count": 3,
+    "unique_track_count": 2,
+    "first_played_at": "2024-01-01T00:00:00.153000041Z",
+    "last_played_at": "2026-03-28T13:18:28.661Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "dr-john",
+      "name": "Dr. John",
+      "play_count": 3,
+      "spotify_artist_id": "320TrJub4arztwXRm7kqVO",
+      "spotify_url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+    },
     {
       "canonical_slug": "allen-toussaint",
       "name": "Allen Toussaint",
       "play_count": 1,
       "spotify_artist_id": "63aP18bg2ABSOqSNQcAMNy",
+      "musicbrainz_artist_id": "ec21cced-2d22-4883-9ee3-f642e6e52f58",
       "spotify_url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "dr-john--in-the-right-place-2",
+      "name": "In The Right Place",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-john",
+      "primary_artist_name": "Dr. John",
+      "spotify_album_id": "1b1ljTXAkcugOLAHkIi7Eq"
+    },
+    {
+      "canonical_slug": "dr-john--in-the-right-place",
+      "name": "In The Right Place",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dr-john",
+      "primary_artist_name": "Dr. John"
+    },
+    {
       "canonical_slug": "allen-toussaint--southern-nights",
       "name": "Southern Nights",
       "play_count": 1,
       "primary_artist_canonical_slug": "allen-toussaint",
-      "primary_artist_name": "Allen Toussaint"
+      "primary_artist_name": "Allen Toussaint",
+      "spotify_album_id": "4x1gp0YZRosiMcM0f1WGls",
+      "musicbrainz_release_id": "f7d82af6-8cd9-4ef2-bd76-d58d2a9128ba",
+      "musicbrainz_release_group_id": "b0c624d0-e157-334e-bec9-9d6a0dee6fd9"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "dr-john--right-place-wrong-time",
+      "name": "Right Place Wrong Time",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "dr-john",
+      "primary_artist_name": "Dr. John",
+      "release_canonical_slug": "dr-john--in-the-right-place",
+      "release_name": "In The Right Place",
+      "spotify_track_id": "0I2ELF6uHlL4ABu9aFiou7",
+      "spotify_url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
     {
       "canonical_slug": "allen-toussaint--southern-nights-2003-remaster",
       "name": "Southern Nights - 2003 Remaster",
@@ -68,12 +106,18 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-01T01:38:43.173Z",
+      "updated_at": "2026-03-28T13:18:28.661Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28T13:18:28.661Z"
 }

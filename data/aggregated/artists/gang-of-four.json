@@ -1,0 +1,110 @@
+{
+  "canonical_slug": "gang-of-four",
+  "name": "Gang Of Four",
+  "play_count": 8,
+  "spotify_artist_id": "3AmWjMXXtBJOmNGpUFSOAl",
+  "musicbrainz_artist_id": "d8661c02-f423-4d72-8044-40ff05daf7a1",
+  "spotify_url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl",
+  "genres": [
+    "new-wave",
+    "post-punk",
+    "rock"
+  ],
+  "source_genres": [
+    "classic pop and rock",
+    "new wave",
+    "post-punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe425a8cbd1fd88d26cc542a9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e425a8cbd1fd88d26cc542a9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e425a8cbd1fd88d26cc542a9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Gang of Four",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gang_of_Four",
+  "summary": "The Gang of Four was a Maoist political faction composed of four Chinese Communist Party (CCP) officials. They came to prominence during the Cultural Revolution (1966–1976) and were later arrested and charged with treason and other crimes. The gang's leading figure was Jiang Qing. The other members were Zhang Chunqiao, Yao Wenyuan, and Wang Hongwen.",
+  "candidates": [
+    "Gang of Four",
+    "Gang of Four (Harlem)",
+    "Gang of Four (Indonesia)",
+    "Gang of Four (Papua New Guinea)",
+    "Gang of Four (SDP)",
+    "Gang of Four (Seattle)",
+    "Gang of Four (band)",
+    "Gang of Four (film)",
+    "Gang of Four (pro-Contra)",
+    "Gang of Four discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gang of Four",
+    "page_url": "https://en.wikipedia.org/wiki/Gang_of_Four",
+    "retrieved_at": "2026-03-28T10:39:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Gang of Four\" on trial in 1980.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Gang_of_Four%22_on_trial_in_1980.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%22Gang_of_Four%22_on_trial_in_1980.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%22Gang_of_Four%22_on_trial_in_1980.jpg",
+    "width": 896,
+    "height": 225,
+    "license": "Public domain",
+    "author": "China Publications Centre"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Gang of Four\" on trial in 1980.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Gang_of_Four%22_on_trial_in_1980.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%22Gang_of_Four%22_on_trial_in_1980.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%22Gang_of_Four%22_on_trial_in_1980.jpg",
+      "width": 896,
+      "height": 225,
+      "license": "Public domain",
+      "author": "China Publications Centre"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the People's Republic of China.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/960px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "Zeng Liansong"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gang of Four poster.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

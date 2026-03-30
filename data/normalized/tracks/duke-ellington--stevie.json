@@ -4,6 +4,9 @@
   "name": "Stevie",
   "primary_artist_name": "Duke Ellington",
   "primary_artist_canonical_slug": "duke-ellington",
+  "additional_artist_slugs": [
+    "john-coltrane"
+  ],
   "release_name": "Duke Ellington \u0026 John Coltrane",
   "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
   "spotify_url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"

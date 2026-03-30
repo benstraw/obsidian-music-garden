@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "field-recordings",
+  "display_title": "Field Recordings",
+  "display_name": "Field Recordings",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Field Recordings (podcast)",
+    "Field Recordings from the Sun",
+    "Field Recordings of Dreams",
+    "Field Recordings, Vol. 1",
+    "Field recording",
+    "These Are Field Recordings"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

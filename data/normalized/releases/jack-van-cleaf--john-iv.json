@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5DcBjKXSmKMs08gQzfEpW5",
   "name": "John IV",
   "primary_artist_name": "Jack Van Cleaf",
-  "primary_artist_canonical_slug": "jack-van-cleaf"
+  "primary_artist_canonical_slug": "jack-van-cleaf",
+  "musicbrainz_release_id": "78b34e93-685e-4d65-98d8-f301643baeb4",
+  "musicbrainz_release_group_id": "9a528b4c-a01f-4b3c-9de6-e192bff50542"
 }

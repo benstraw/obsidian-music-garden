@@ -1,0 +1,48 @@
+{
+  "source": "spotify",
+  "source_artist_id": "69VgCcXFV59QuQWEXSTxfK",
+  "name": "Sonny Boy Williamson II",
+  "spotify_url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK",
+  "status": "matched",
+  "page_title": "Sonny Boy Williamson II",
+  "summary": "Alex or Aleck Miller, known later in his career as Sonny Boy Williamson, was an American blues harmonica player, singer and songwriter. He was an early and influential blues harp stylist who recorded successfully in the 1950s and 1960s. Miller used various names, including Rice Miller and Little Boy Blue, before calling himself Sonny Boy Williamson, which was also the name of a popular Chicago blues singer and harmonica player. To distinguish the two, Miller has been referred to as Sonny Boy Williamson II.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II",
+  "candidates": [
+    "Sonny Boy Williamson (disambiguation)",
+    "Sonny Boy Williamson I",
+    "Sonny Boy Williamson II",
+    "Sonny Boy Williamson and the Yardbirds"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sonny Boy Williamson II",
+    "page_url": "https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II",
+    "retrieved_at": "2026-03-28T10:42:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sonny Boy Williamson II montaje.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Boy_Williamson_II_montaje.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+    "width": 273,
+    "height": 423,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Roman_Medell%C3%ADn\" title=\"User:Roman Medellín\"\u003eRoman Medellín\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Boy Williamson II montaje.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Boy_Williamson_II_montaje.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+      "width": 273,
+      "height": 423,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Roman_Medell%C3%ADn\" title=\"User:Roman Medellín\"\u003eRoman Medellín\u003c/a\u003e"
+    }
+  ]
+}

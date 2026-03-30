@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "smoke-trees",
+  "name": "Smoke Trees",
+  "play_count": 4,
+  "spotify_artist_id": "6cN5TvotJoRbhYHoCHw8BI",
+  "musicbrainz_artist_id": "c0f3b0a2-b2f4-4c30-8271-3116d8165e83",
+  "spotify_url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41707e2d19032c8f717d775e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517441707e2d19032c8f717d775e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17841707e2d19032c8f717d775e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Smoke Creek Desert",
+    "Smoke Free Illinois Act",
+    "Smoke Tree Ranch",
+    "Smoke testing (mechanical)",
+    "Smoke testing (software)",
+    "Smoke-Free Air Act",
+    "Smoke-free Environments Amendment Act 2003",
+    "Smoke-free bathhouse",
+    "Smoke-free multi-unit housing",
+    "Smoketree sharpshooter"
+  ],
+  "last_updated": "2026-03-28"
+}

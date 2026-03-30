@@ -6,7 +6,8 @@
   "aliases": [
     "chamber pop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Chamber pop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Chamber_pop",
@@ -68,17 +69,159 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 25,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 14,
+    "first_played_at": "2024-01-01T00:00:00.723899206Z",
+    "last_played_at": "2024-12-15T10:33:36.530670348Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "the-magnetic-fields",
+      "name": "The Magnetic Fields",
+      "play_count": 25,
+      "spotify_artist_id": "6RWjTQqILL7a1tQ0VapyLK",
+      "musicbrainz_artist_id": "3ff72a59-f39d-411d-9f93-2d4a86413013",
+      "spotify_url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "the-magnetic-fields--69-love-songs",
+      "name": "69 Love Songs",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "spotify_album_id": "2GuROKcqyHdpIDcgxml1C7",
+      "musicbrainz_release_id": "3404f020-f022-4afa-bc03-d1a11f30fd2d",
+      "musicbrainz_release_group_id": "5dfac852-1aed-35b2-93b6-e8f9c93fe521"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-magnetic-fields--crazy-for-you-but-not-that-crazy",
+      "name": "(Crazy for You But) Not That Crazy",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "2b6MeXEpjZ43o7QVkMU3FM",
+      "spotify_url": "https://open.spotify.com/track/2b6MeXEpjZ43o7QVkMU3FM"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--acoustic-guitar",
+      "name": "Acoustic Guitar",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6ZMQVLuKlJgUvEscKnUkNY",
+      "spotify_url": "https://open.spotify.com/track/6ZMQVLuKlJgUvEscKnUkNY"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--all-my-little-words",
+      "name": "All My Little Words",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "3KvTZQPpzPw9UKxaGlJkBs",
+      "spotify_url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--boa-constrictor",
+      "name": "Boa Constrictor",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6gNrp68wiWJBPTszkFc4LM",
+      "spotify_url": "https://open.spotify.com/track/6gNrp68wiWJBPTszkFc4LM"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--busby-berkeley-dreams",
+      "name": "Busby Berkeley Dreams",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "0xR82DzxszFTagYuvAwIUz",
+      "spotify_url": "https://open.spotify.com/track/0xR82DzxszFTagYuvAwIUz"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--fido-your-leash-is-too-long",
+      "name": "Fido, Your Leash Is Too Long",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "1SQT9yLODRGxbszCCzcmKY",
+      "spotify_url": "https://open.spotify.com/track/1SQT9yLODRGxbszCCzcmKY"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--grand-canyon",
+      "name": "Grand Canyon",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "4mGSYUCvO57ObOkmIGAxuZ",
+      "spotify_url": "https://open.spotify.com/track/4mGSYUCvO57ObOkmIGAxuZ"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--no-one-will-ever-love-you",
+      "name": "No One Will Ever Love You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "3dBkhiRGJcrxeDmailKxvT",
+      "spotify_url": "https://open.spotify.com/track/3dBkhiRGJcrxeDmailKxvT"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--reno-dakota",
+      "name": "Reno Dakota",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "3OUy4cQJ7h8tKoBjh6n7z9",
+      "spotify_url": "https://open.spotify.com/track/3OUy4cQJ7h8tKoBjh6n7z9"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--the-death-of-ferdinand-de-saussure",
+      "name": "The Death of Ferdinand de Saussure",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "1ZVuV4exp3fUILnPG9OsGA",
+      "spotify_url": "https://open.spotify.com/track/1ZVuV4exp3fUILnPG9OsGA"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -95,6 +238,13 @@
       "path": "normalized/genres/wikipedia--chamber-pop.json",
       "url": "https://en.wikipedia.org/wiki/Chamber_pop",
       "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2024-12-15T10:33:36.530670348Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
   "last_updated": "2026-03-27"

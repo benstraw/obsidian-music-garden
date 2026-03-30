@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "idil-biret",
+  "name": "Idil Biret",
+  "spotify_artist_id": "5SBOWUBQdfga0xprPVBxOr",
+  "musicbrainz_artist_id": "8a2ce8fe-35fa-44b5-a91f-d8cc38dfc676",
+  "spotify_url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr",
+  "source_genres": [
+    "piano"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b86c970d53076979e8318d1d7c5c285649c1a5fd",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/cd0c515426d3ec9b846ffb4faa26e917ff80cb09",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/3a76fb5edbbc1c80c1835baa4e39331523a5ac0f",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ce91cb51cb416c22088494293d6f4863ab377435",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "İdil Biret",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%B0dil_Biret",
+  "summary": "İdil Biret is a Turkish concert pianist.",
+  "candidates": [
+    "Idil Biret",
+    "Idil Firat"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "İdil Biret",
+    "page_url": "https://en.wikipedia.org/wiki/%C4%B0dil_Biret",
+    "retrieved_at": "2026-03-28T10:39:35Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dil_Biret_%286946834070%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%C4%B0dil_Biret_%286946834070%29.jpg/330px-%C4%B0dil_Biret_%286946834070%29.jpg",
+    "width": 683,
+    "height": 1024
+  },
+  "last_updated": "2026-03-30"
+}

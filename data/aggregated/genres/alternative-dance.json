@@ -1,0 +1,49 @@
+{
+  "canonical_slug": "alternative-dance",
+  "display_title": "Alternative Dance",
+  "display_name": "Alternative Dance",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Alternative dance",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_dance",
+  "summary": "Alternative dance is a musical genre that mixes alternative rock with electronic dance music. Although largely confined to the British Isles, it has gained worldwide exposure through acts such as New Order in the 1980s and the Prodigy in the 1990s.",
+  "candidates": [
+    "Alternative ascent system",
+    "Alternative cancer treatments",
+    "Alternative dance",
+    "Alternative dance punk",
+    "The Alternative (France)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alternative dance",
+    "page_url": "https://en.wikipedia.org/wiki/Alternative_dance",
+    "retrieved_at": "2026-03-28T15:52:54Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--alternative-dance.json",
+      "url": "https://en.wikipedia.org/wiki/Alternative_dance",
+      "retrieved_at": "2026-03-28T15:52:54Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

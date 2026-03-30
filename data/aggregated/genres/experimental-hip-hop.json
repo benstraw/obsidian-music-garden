@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "experimental-hip-hop",
+  "display_title": "Experimental Hip Hop",
+  "display_name": "Experimental Hip Hop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Alternative hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_hip-hop",
+  "summary": "Alternative hip-hop is a subgenre of hip-hop defined by artists who reject the genre's traditional stereotypes, particularly those popularized by old-school hip-hop and gangsta rap. Originally emerging in the mid-to-late 1980s, the style was spearheaded by the Native Tongues collective in the East Coast which included acts like the Jungle Brothers, De La Soul, A Tribe Called Quest, X Clan, Brand Nubian, Pete Rock \u0026 CL Smooth, Monie Love, Queen Latifah and later Busta Rhymes and Mos Def. These artists emphasized positive-minded, good-natured Afrocentric lyrics, while pioneering and popularizing the use of eclectic sampling and jazz-influenced beats in hip-hop, drawing influences from political, progressive and conscious hip-hop artists such as Grandmaster Flash and Public Enemy.",
+  "candidates": [
+    "Experimental hip hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alternative hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Alternative_hip-hop",
+    "retrieved_at": "2026-03-28T15:55:41Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--experimental-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Alternative_hip-hop",
+      "retrieved_at": "2026-03-28T15:55:41Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

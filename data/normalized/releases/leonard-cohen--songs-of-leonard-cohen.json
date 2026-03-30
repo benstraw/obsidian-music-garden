@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6EcqWi6PA9CbvtulGbEsPN",
   "name": "Songs Of Leonard Cohen",
   "primary_artist_name": "Leonard Cohen",
-  "primary_artist_canonical_slug": "leonard-cohen"
+  "primary_artist_canonical_slug": "leonard-cohen",
+  "musicbrainz_release_id": "256312e7-0377-47e0-b2e6-df2c6e0cd2e8",
+  "musicbrainz_release_group_id": "34291a49-8df9-304e-bd39-16b11d829d5f"
 }

@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "jazz-quartet",
+  "display_title": "Jazz Quartet",
+  "display_name": "Jazz Quartet",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Quartet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Quartet",
+  "summary": "In music, a quartet is an ensemble of four singers or instrumental performers.",
+  "candidates": [
+    "JACK Quartet",
+    "Jazz quartet"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Quartet",
+    "page_url": "https://en.wikipedia.org/wiki/Quartet",
+    "retrieved_at": "2026-03-28T15:57:42Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg/330px-Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+    "width": 4368,
+    "height": 2784
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-quartet.json",
+      "url": "https://en.wikipedia.org/wiki/Quartet",
+      "retrieved_at": "2026-03-28T15:57:42Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-quartet.json",
+      "url": "https://en.wikipedia.org/wiki/Quartet",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

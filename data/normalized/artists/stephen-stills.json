@@ -1,0 +1,118 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4WlSvDKaq1PA2Nr7cCIPxX",
+  "name": "Stephen Stills",
+  "spotify_url": "https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX",
+  "musicbrainz_artist_id": "5642774a-72c0-4099-8da4-7c1ab36378a8",
+  "source_genres": [
+    "blues rock",
+    "country rock",
+    "electric blues",
+    "folk rock",
+    "pop rock",
+    "rock",
+    "singer-songwriter",
+    "singer/songwriter"
+  ],
+  "canonical_genre_slugs": [
+    "blues-rock",
+    "country-rock",
+    "folk-rock",
+    "pop",
+    "rock",
+    "singer-songwriter"
+  ],
+  "status": "matched",
+  "page_title": "Stephen Stills",
+  "summary": "Stephen Arthur Stills is an American musician, singer, and songwriter best known for his work with Buffalo Springfield; Crosby, Stills \u0026 Nash; and Manassas. As both a solo act and member of three successful bands, Stills has combined record sales of over 35 million albums. He was ranked number 28 in Rolling Stone's 2003 list of \"The 100 Greatest Guitarists of All Time\" and number 47 in the 2011 list. Stills became the first person to be inducted twice on the same night into the Rock and Roll Hall of Fame.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Stephen_Stills",
+  "candidates": [
+    "Stephen Mills",
+    "Stephen Silas",
+    "Stephen Stigler",
+    "Stephen Stills",
+    "Stephen Stills (album)",
+    "Stephen Stills (character)",
+    "Stephen Stills 2",
+    "Stephen Stills Live",
+    "Stephen Stirling (footballer)",
+    "Stephen Stirling (musician)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stephen Stills",
+    "page_url": "https://en.wikipedia.org/wiki/Stephen_Stills",
+    "retrieved_at": "2026-03-28T10:42:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Buffalo Springfield in 1966.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_in_1966.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Buffalo_Springfield_in_1966.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Buffalo_Springfield_in_1966.png/960px-Buffalo_Springfield_in_1966.png",
+    "width": 1121,
+    "height": 663,
+    "license": "Public domain",
+    "author": "KRLA Beat/Beat Publications, Inc."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buffalo Springfield in 1966.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buffalo_Springfield_in_1966.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Buffalo_Springfield_in_1966.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Buffalo_Springfield_in_1966.png/960px-Buffalo_Springfield_in_1966.png",
+      "width": 1121,
+      "height": 663,
+      "license": "Public domain",
+      "author": "KRLA Beat/Beat Publications, Inc."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CSNY 8-1974 (3).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CSNY_8-1974_(3).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/CSNY_8-1974_%283%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/CSNY_8-1974_%283%29.jpg",
+      "width": 679,
+      "height": 800,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/more19562003/\"\u003eTony Morelli\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Crosby-stills-nash-and-young-CSNY-1974-.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Crosby-stills-nash-and-young-CSNY-1974-.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Crosby-stills-nash-and-young-CSNY-1974-.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crosby-stills-nash-and-young-CSNY-1974-.jpg/960px-Crosby-stills-nash-and-young-CSNY-1974-.jpg",
+      "width": 980,
+      "height": 653,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:GrawLIN\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:GrawLIN (page does not exist)\"\u003eGrawLIN\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Crosby Stills Nash and Young 1970.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Crosby_Stills_Nash_and_Young_1970.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Crosby_Stills_Nash_and_Young_1970.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Crosby_Stills_Nash_and_Young_1970.JPG",
+      "width": 729,
+      "height": 530,
+      "license": "Public domain",
+      "author": "CMA-Creative Management Associates/Atlantic Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Manassas1972.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Manassas1972.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Manassas1972.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manassas1972.JPG/960px-Manassas1972.JPG",
+      "width": 4687,
+      "height": 4687,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "Beeld \u0026amp; Geluid Unknown photographer"
+    }
+  ]
+}

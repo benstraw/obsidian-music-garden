@@ -1,11 +1,14 @@
 {
   "canonical_slug": "christian-borle--historian-s-introduction-to-act-ii-from-spamalot-original-broadway-cast-recording",
   "name": "Historian's Introduction to Act II - From \"Spamalot\" Original Broadway Cast Recording",
+  "play_count": 1,
   "primary_artist_canonical_slug": "christian-borle",
   "primary_artist_name": "Christian Borle",
-  "release_canonical_slug": "christian-borle--monty-python-s-spamalot",
+  "additional_artist_slugs": [
+    "todd-ellison"
+  ],
+  "release_canonical_slug": "christopher-sieber--monty-python-s-spamalot",
   "release_name": "Monty Python's Spamalot",
   "spotify_track_id": "6n2oGJrmwMC23hzMCximPE",
-  "spotify_url": "https://open.spotify.com/track/6n2oGJrmwMC23hzMCximPE",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/6n2oGJrmwMC23hzMCximPE"
 }

@@ -1,0 +1,96 @@
+{
+  "source": "spotify",
+  "source_artist_id": "62BcWP4fzR8axESibNQEhs",
+  "name": "Butthole Surfers",
+  "spotify_url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs",
+  "musicbrainz_artist_id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+  "source_genres": [
+    "experimental",
+    "psychedelic rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "experimental",
+    "psychedelic-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Butthole Surfers",
+  "summary": "Butthole Surfers are an American rock band formed in San Antonio, Texas, by singer Gibby Haynes and guitarist Paul Leary in 1981. The band has had numerous personnel changes, but its core lineup of Haynes, Leary, and drummer King Coffey remained consistent since 1983. Teresa Nervosa served as second drummer, playing alongside Coffey from 1983 to 1985, 1986 to 1989, and 2009. The band had also employed a variety of bass players, most notably Jeff Pinkus.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Butthole_Surfers",
+  "candidates": [
+    "Butthole Surfers",
+    "Butthole Surfers (EP)",
+    "Butthole Surfers discography",
+    "Butthole Surfers/Live PCPPEP",
+    "Butthole Surfers: The Hole Truth and Nothing Butt"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Butthole Surfers",
+    "page_url": "https://en.wikipedia.org/wiki/Butthole_Surfers",
+    "retrieved_at": "2026-03-28T10:37:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Butthole Surfers.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Butthole_Surfers.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Butthole_Surfers.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Butthole_Surfers.jpg/960px-Butthole_Surfers.jpg",
+    "width": 1024,
+    "height": 768,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Viva Nola"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Butthole Surfers.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Butthole_Surfers.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Butthole_Surfers.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Butthole_Surfers.jpg/960px-Butthole_Surfers.jpg",
+      "width": 1024,
+      "height": 768,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Viva Nola"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Butthole Surfers Live.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Butthole_Surfers_Live.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Butthole_Surfers_Live.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Butthole_Surfers_Live.jpg/960px-Butthole_Surfers_Live.jpg",
+      "width": 3396,
+      "height": 2009,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/67975030@N00\"\u003eBernt Rostad\u003c/a\u003e from Oslo, Norway"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ric wallace Lollapalooza.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ric_wallace_Lollapalooza.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ric_wallace_Lollapalooza.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ric_wallace_Lollapalooza.jpg/960px-Ric_wallace_Lollapalooza.jpg",
+      "width": 1386,
+      "height": 1002,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.ricwallace.com\"\u003eRic Wallace\u003c/a\u003e from Athens, Georgia"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wyd wydarzenie img 18506.18510.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wyd_wydarzenie_img_18506.18510.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Wyd_wydarzenie_img_18506.18510.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Wyd_wydarzenie_img_18506.18510.jpg",
+      "width": 700,
+      "height": 439,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Benek Kwiaciarz, www.dobreinfo.pl"
+    }
+  ]
+}

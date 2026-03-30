@@ -1,6 +1,7 @@
 {
   "canonical_slug": "igor-stravinsky",
   "name": "Igor Stravinsky",
+  "play_count": 33,
   "spotify_artist_id": "7ie36YytMoKtPiL7tUvmoE",
   "spotify_url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE",
   "genres": [
@@ -123,5 +124,5 @@
       "author": "Bain News Service, publisher"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

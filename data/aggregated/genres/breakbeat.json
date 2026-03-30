@@ -1,0 +1,96 @@
+{
+  "canonical_slug": "breakbeat",
+  "display_title": "Breakbeat",
+  "display_name": "Breakbeat",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Breakbeat",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Breakbeat",
+  "summary": "Breakbeat is a broad type of electronic music that uses drum breaks, often sampled from early recordings of funk, jazz, and R\u0026B. Breakbeats have been used in styles such as Florida breaks, hip-hop, jungle, drum and bass, big beat, breakbeat hardcore, and UK garage styles.",
+  "candidates": [
+    "Break beat",
+    "Breakbeat",
+    "Breakbeat Era",
+    "Breakbeat Kaos",
+    "Breakbeat Lou",
+    "Breakbeat Science",
+    "Breakbeat hardcore",
+    "Breakbot",
+    "Breakfast",
+    "Breakwater (structure)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Breakbeat",
+    "page_url": "https://en.wikipedia.org/wiki/Breakbeat",
+    "retrieved_at": "2026-03-28T15:53:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Amidst the Raindrops clip.ogg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Amidst_the_Raindrops_clip.ogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Amidst_the_Raindrops_clip.ogg",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Wickethewok\" class=\"extiw\" title=\"en:User:Wickethewok\"\u003een:User:Wickethewok\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Wickethewok\" class=\"extiw\" title=\"wikipedia:User:Wickethewok\"\u003eWickethewok\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Amidst the Raindrops clip.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Amidst_the_Raindrops_clip.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Amidst_the_Raindrops_clip.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Wickethewok\" class=\"extiw\" title=\"en:User:Wickethewok\"\u003een:User:Wickethewok\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Wickethewok\" class=\"extiw\" title=\"wikipedia:User:Wickethewok\"\u003eWickethewok\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--breakbeat.json",
+      "url": "https://en.wikipedia.org/wiki/Breakbeat",
+      "retrieved_at": "2026-03-28T15:53:35Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--breakbeat.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Amidst_the_Raindrops_clip.ogg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

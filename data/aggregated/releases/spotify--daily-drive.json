@@ -1,7 +1,11 @@
 {
   "canonical_slug": "spotify--daily-drive",
   "name": "Daily Drive",
+  "play_count": 8,
   "primary_artist_canonical_slug": "spotify",
   "primary_artist_name": "Spotify",
-  "last_updated": "2026-03-27"
+  "spotify_album_id": "7FcgeV8zz7PKoskBr5eMvz",
+  "musicbrainz_release_id": "524a24e1-87f6-4f29-8b9d-eec249490c6c",
+  "musicbrainz_release_group_id": "aef00dcc-4d0c-4fc4-9d10-65415d28c0a4",
+  "last_updated": "2026-03-28"
 }

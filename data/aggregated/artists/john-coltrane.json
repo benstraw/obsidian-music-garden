@@ -1,7 +1,9 @@
 {
   "canonical_slug": "john-coltrane",
   "name": "John Coltrane",
+  "play_count": 43,
   "spotify_artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+  "musicbrainz_artist_id": "b625448e-bf4a-41c3-a421-72ad46cdb831",
   "spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf",
   "genres": [
     "bebop",
@@ -119,5 +121,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eEubulides\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

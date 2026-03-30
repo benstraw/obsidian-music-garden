@@ -1,16 +1,23 @@
 {
   "canonical_slug": "jaÿ-z",
-  "name": "JAŸ-Z",
+  "name": "JAY-Z",
+  "play_count": 3,
   "spotify_artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+  "musicbrainz_artist_id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
   "spotify_url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
   "genres": [
+    "alternative-hip-hop",
     "east-coast-hip-hop",
     "hip-hop",
     "rap"
   ],
   "source_genres": [
+    "alternative hip hop",
+    "chipmunk soul",
+    "conscious",
     "east coast hip hop",
     "hip hop",
+    "pop rap",
     "rap"
   ],
   "images": [
@@ -59,5 +66,5 @@
     "width": 1524,
     "height": 1905
   },
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

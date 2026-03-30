@@ -1,0 +1,37 @@
+{
+  "canonical_slug": "the-band",
+  "name": "The Band",
+  "play_count": 9,
+  "spotify_artist_id": "4vpDg7Y7fU982Ds30zawDA",
+  "spotify_url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA",
+  "genres": [
+    "americana",
+    "country-rock",
+    "folk-rock",
+    "southern-rock"
+  ],
+  "source_genres": [
+    "americana",
+    "folk rock",
+    "roots rock",
+    "southern rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4f262f1f5d28fcdc4c4226f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f4f262f1f5d28fcdc4c4226f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f4f262f1f5d28fcdc4c4226f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

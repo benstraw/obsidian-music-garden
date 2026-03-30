@@ -1,0 +1,107 @@
+{
+  "canonical_slug": "downtempo",
+  "display_title": "Downtempo",
+  "display_name": "Downtempo",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Downtempo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Downtempo",
+  "summary": "Downtempo is a broad label for electronic music that features an atmospheric sound and slower beats than would typically be found in dance music. Closely related to ambient music but with greater emphasis on rhythm, the style may be played in relaxation clubs or as \"warm-up or cool-down\" music during a DJ set. Examples of downtempo subgenres include trip hop, ambient house, chillwave, psybient and lofi hip hop.",
+  "candidates": [
+    "Don Templeton",
+    "Donte Moncrief",
+    "Donte Moss",
+    "Down Democrat",
+    "Down Memory Lane",
+    "Down Memory Lane (album)",
+    "Down-tempo chill music",
+    "Downie Point",
+    "Downtempo",
+    "Downtempo pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Downtempo",
+    "page_url": "https://en.wikipedia.org/wiki/Downtempo",
+    "retrieved_at": "2026-03-28T15:55:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wickethewok - Deepecho.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wickethewok_-_Deepecho.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wickethewok_-_Deepecho.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Wickethewok\" title=\"User:Wickethewok\"\u003eWickethewok\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--downtempo.json",
+      "url": "https://en.wikipedia.org/wiki/Downtempo",
+      "retrieved_at": "2026-03-28T15:55:04Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--downtempo.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

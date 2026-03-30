@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "paul-chambers",
+  "name": "Paul Chambers",
+  "play_count": 6,
+  "spotify_artist_id": "0M1UOBJZ9tcKJbrbnVlHZG",
+  "musicbrainz_artist_id": "b6ff4fd0-03ae-41a6-942e-7de13124b970",
+  "spotify_url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "american",
+    "bassist",
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdb23bb63e723d2fcea59f806",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174db23bb63e723d2fcea59f806",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178db23bb63e723d2fcea59f806",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Paul Chambers",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Chambers",
+  "summary": "Paul Laurence Dunbar Chambers Jr. was an American jazz double bassist. A fixture of rhythm sections during the 1950s and 1960s, he has become one of the most widely-known jazz bassists of the hard bop era. He was also known for his bowed solos. Chambers recorded about a dozen albums as a leader or co-leader, and more than 100 as a sideman, especially as the anchor of trumpeter Miles Davis's \"first great quintet\" (1955–63) and with pianist Wynton Kelly (1963–68).",
+  "candidates": [
+    "Paul Chamberlain",
+    "Paul Chamberlin",
+    "Paul Chambers",
+    "Paul Chambers (Paralympian)",
+    "Paul Chambers (academic)",
+    "Paul Chambers (disambiguation)",
+    "Paul Chambers (footballer)",
+    "Paul Chambers (industrialist)",
+    "Paul Chambers Quintet",
+    "Paul Chambers discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Paul Chambers",
+    "page_url": "https://en.wikipedia.org/wiki/Paul_Chambers",
+    "retrieved_at": "2026-03-28T10:41:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Paul Laurence Dunbar Chambers, Jr..jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Paul Laurence Dunbar Chambers, Jr..jpg"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

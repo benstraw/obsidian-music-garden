@@ -1,0 +1,43 @@
+{
+  "canonical_slug": "cody-jinks",
+  "name": "Cody Jinks",
+  "play_count": 27,
+  "spotify_artist_id": "2v7wIbCkIzxOfT3GnqCexD",
+  "musicbrainz_artist_id": "39540957-25e5-42b7-b183-48c1a269908f",
+  "spotify_url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd935f32144e6fd349e4ae4a3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d935f32144e6fd349e4ae4a3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d935f32144e6fd349e4ae4a3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Cody Jinks",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cody_Jinks",
+  "summary": "Meredith Cody Jinks is an American outlaw country music singer and songwriter. His breakout 2016 album, I'm Not the Devil, reached No. 4 on the Billboard Country Albums chart, while a number of other albums such as Lifers, After the Fire, and The Wanting reached No. 2 on the same chart.",
+  "candidates": [
+    "Cody Banks",
+    "Cody Jackson",
+    "Cody Jinks",
+    "Cody Jones",
+    "Cody Nickson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cody Jinks",
+    "page_url": "https://en.wikipedia.org/wiki/Cody_Jinks",
+    "retrieved_at": "2026-03-28T10:38:16Z"
+  },
+  "last_updated": "2026-03-28"
+}

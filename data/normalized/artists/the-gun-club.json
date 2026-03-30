@@ -1,0 +1,73 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3Un18X4NF1bpjgUk44lUzn",
+  "name": "The Gun Club",
+  "spotify_url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn",
+  "musicbrainz_artist_id": "e78cc47f-9b89-4ef7-86f8-8f9df4f9dac9",
+  "source_genres": [
+    "alternative rock",
+    "blues rock",
+    "cowpunk",
+    "dream pop",
+    "post-punk",
+    "psychobilly",
+    "punk blues"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "blues-rock",
+    "dream-pop",
+    "post-punk"
+  ],
+  "status": "matched",
+  "page_title": "The Gun Club",
+  "summary": "The Gun Club were an American rock band from Los Angeles that existed from 1979 to 1996, formed and led by singer-songwriter and guitarist Jeffrey Lee Pierce. They were notable as one of the first bands in the punk rock subculture to incorporate influences from blues, rockabilly, and country music. The Gun Club has been called a \"tribal psychobilly blues\" band, as well as initiators of punk blues and cowpunk – \"He (Pierce) took Robert Johnson and pre-war acoustic blues and 'punkified' it. Up until then bands were drawing on Iggy \u0026 the Stooges and the New York Dolls but he took it back so much further for inspiration.\"",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Gun_Club",
+  "candidates": [
+    "The Bug Club",
+    "The Fan Club",
+    "The Gin Club",
+    "The Grub Club",
+    "The Gun Album",
+    "The Gun Club",
+    "The Gun Club (secret society)",
+    "The Gunn Club",
+    "The Hunt Club"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Gun Club",
+    "page_url": "https://en.wikipedia.org/wiki/The_Gun_Club",
+    "retrieved_at": "2026-03-28T10:43:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jeffrey Lee Pierce cropped.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jeffrey_Lee_Pierce_cropped.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jeffrey_Lee_Pierce_cropped.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jeffrey_Lee_Pierce_cropped.jpg/960px-Jeffrey_Lee_Pierce_cropped.jpg",
+    "width": 2145,
+    "height": 2865,
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "Yves Lorson"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jeffrey Lee Pierce cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jeffrey_Lee_Pierce_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jeffrey_Lee_Pierce_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jeffrey_Lee_Pierce_cropped.jpg/960px-Jeffrey_Lee_Pierce_cropped.jpg",
+      "width": 2145,
+      "height": 2865,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "Yves Lorson"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Gun Club 1983.jpg"
+    }
+  ]
+}

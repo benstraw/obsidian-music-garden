@@ -1,0 +1,75 @@
+{
+  "canonical_slug": "ann-peebles",
+  "name": "Ann Peebles",
+  "play_count": 17,
+  "spotify_artist_id": "5dM7jA0PXh0Ozz8LT2YOCB",
+  "musicbrainz_artist_id": "a7e05e3f-7459-4ba6-9041-8b5cacf6338c",
+  "spotify_url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB",
+  "genres": [
+    "soul"
+  ],
+  "source_genres": [
+    "funk soul",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/68fc1febe9afa222cc8d0c5a3b20a67c4cfb4f7b",
+      "height": 590,
+      "width": 450
+    },
+    {
+      "url": "https://i.scdn.co/image/12707faf31894397c7d48bf0c45e1c4c66faae45",
+      "height": 262,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d358cf7a294af7a463d85c88406300f6885f2187",
+      "height": 84,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ann Peebles",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ann_Peebles",
+  "summary": "Ann Lee Peebles is a retired American singer and songwriter who gained popularity for her Memphis soul albums of the 1970s while signed to Hi Records. Her most successful singles include \"I Can't Stand the Rain,\" which she wrote with her husband Don Bryant and radio broadcaster Bernie Miller, and \"I'm Gonna Tear Your Playhouse Down.\" In 2014, she was inducted into the Memphis Music Hall of Fame.",
+  "candidates": [
+    "Andy Peebles",
+    "Ann Peebles",
+    "Ann Peoples",
+    "Ann Peoples (Antarctic manager)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ann Peebles",
+    "page_url": "https://en.wikipedia.org/wiki/Ann_Peebles",
+    "retrieved_at": "2026-03-28T10:37:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ann Peebles performing at the Beale Street Music Festival in 2007.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg/960px-Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg",
+    "width": 1936,
+    "height": 1288,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/91252560@N00\"\u003eLindsey T\u003c/a\u003e from Memphis, Tennessee, USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ann Peebles performing at the Beale Street Music Festival in 2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg/960px-Ann_Peebles_performing_at_the_Beale_Street_Music_Festival_in_2007.jpg",
+      "width": 1936,
+      "height": 1288,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/91252560@N00\"\u003eLindsey T\u003c/a\u003e from Memphis, Tennessee, USA"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

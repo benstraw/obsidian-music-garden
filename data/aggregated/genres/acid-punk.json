@@ -1,0 +1,49 @@
+{
+  "canonical_slug": "acid-punk",
+  "display_title": "Acid Punk",
+  "display_name": "Acid Punk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Neo-psychedelia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Neo-psychedelia",
+  "summary": "Neo-psychedelia is a genre of psychedelic music that draws inspiration from the music production approaches and songwriting of 1960s psychedelia, either exploring emulations of the sounds of the era or applying its ethos to new styles of music. It has occasionally seen mainstream pop success but is typically explored within alternative music, indie music and underground scenes.",
+  "candidates": [
+    "Acid Monkey",
+    "Acid Tunnel of Love",
+    "Acid funk",
+    "Acid pump",
+    "Acid punk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neo-psychedelia",
+    "page_url": "https://en.wikipedia.org/wiki/Neo-psychedelia",
+    "retrieved_at": "2026-03-28T15:52:40Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--acid-punk.json",
+      "url": "https://en.wikipedia.org/wiki/Neo-psychedelia",
+      "retrieved_at": "2026-03-28T15:52:40Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

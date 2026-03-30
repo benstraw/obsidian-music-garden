@@ -1,12 +1,19 @@
 {
   "canonical_slug": "baby-huey",
   "name": "Baby Huey",
+  "play_count": 4,
   "spotify_artist_id": "3YFP5QHEKv8RZZsPminjdv",
+  "musicbrainz_artist_id": "66c03e40-2337-4952-8b27-afcbc68a6e5a",
   "spotify_url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv",
   "genres": [
+    "funk",
     "soul"
   ],
   "source_genres": [
+    "funk",
+    "funk soul",
+    "psychedelic",
+    "rare groove a to z",
     "soul"
   ],
   "images": [
@@ -69,5 +76,5 @@
       "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Famous_Studios\" class=\"extiw\" title=\"w:Famous Studios\"\u003eFamous Studios\u003c/a\u003e (later known as Paramount Cartoon Studios before 1957) (1943–1967)"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "mr-bungle",
+  "name": "Mr. Bungle",
+  "spotify_artist_id": "2zq0uqN9Wq12tqrQQt1ozw",
+  "spotify_url": "https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw",
+  "genres": [
+    "experimental",
+    "funk-rock"
+  ],
+  "source_genres": [
+    "avant-garde",
+    "funk rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb57889458cd1c95a01dba403a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517457889458cd1c95a01dba403a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17857889458cd1c95a01dba403a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

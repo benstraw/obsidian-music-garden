@@ -6,7 +6,8 @@
   "aliases": [
     "classical piano"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Piano",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Piano",
@@ -38,110 +39,157 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 8,
-    "unique_artist_count": 4,
-    "unique_release_count": 7,
-    "unique_track_count": 7,
-    "first_played_at": "2026-02-28T23:52:25.049Z",
+    "play_count": 329,
+    "unique_artist_count": 5,
+    "unique_release_count": 57,
+    "unique_track_count": 198,
+    "first_played_at": "2024-01-01T00:00:00.40611012Z",
     "last_played_at": "2026-03-04T01:52:43.403Z"
   },
   "top_artists": [
     {
       "canonical_slug": "johann-sebastian-bach",
       "name": "Johann Sebastian Bach",
-      "play_count": 5,
+      "play_count": 235,
       "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+      "musicbrainz_artist_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
       "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-    },
-    {
-      "canonical_slug": "carl-philipp-emanuel-bach",
-      "name": "Carl Philipp Emanuel Bach",
-      "play_count": 1,
-      "spotify_artist_id": "3meioy7GWDwpwmjv2LPyAb",
-      "spotify_url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
     },
     {
       "canonical_slug": "edvard-grieg",
       "name": "Edvard Grieg",
-      "play_count": 1,
+      "play_count": 29,
       "spotify_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
+      "musicbrainz_artist_id": "013c8e5b-d72a-4cd3-8dee-6c64d6125823",
       "spotify_url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+    },
+    {
+      "canonical_slug": "glenn-gould",
+      "name": "Glenn Gould",
+      "play_count": 26,
+      "spotify_artist_id": "13dkPjqmbcchm8cXjEJQeP",
+      "musicbrainz_artist_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+      "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+    },
+    {
+      "canonical_slug": "carl-philipp-emanuel-bach",
+      "name": "Carl Philipp Emanuel Bach",
+      "play_count": 25,
+      "spotify_artist_id": "3meioy7GWDwpwmjv2LPyAb",
+      "musicbrainz_artist_id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
+      "spotify_url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
     },
     {
       "canonical_slug": "johannes-brahms",
       "name": "Johannes Brahms",
-      "play_count": 1,
+      "play_count": 14,
       "spotify_artist_id": "5wTAi7QkpP6kp8a54lmTOq",
+      "musicbrainz_artist_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
       "spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
-      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
-      "play_count": 2,
+      "canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "name": "Bach: Goldberg Variations, BWV 988",
+      "play_count": 58,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "5LajXmcx1qsfRdWCbD9S0v",
+      "musicbrainz_release_id": "c5843620-0c2c-438b-b20d-95ff98b5229c",
+      "musicbrainz_release_group_id": "e81da777-60ac-4b32-b845-a6de6635920d"
     },
     {
       "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
       "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
-      "play_count": 1,
+      "play_count": 50,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "1aCpHSQE5ghxibsQ5gkBe0"
     },
     {
-      "canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
-      "name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johannes-brahms",
-      "primary_artist_name": "Johannes Brahms"
-    },
-    {
-      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
-      "name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
-      "play_count": 1,
+      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1955-gould-remaster",
+      "name": "Bach: The Goldberg Variations, BWV 988 (1955 Gould Remaster)",
+      "play_count": 38,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "0ogm04LcccovebvmP9Mo6W"
     },
     {
       "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
       "name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
-      "play_count": 1,
+      "play_count": 35,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
-      "primary_artist_name": "Johann Sebastian Bach"
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "5NqQLA1NCo6hP2GHiHxip5"
+    },
+    {
+      "canonical_slug": "glenn-gould--the-young-maverick",
+      "name": "The Young Maverick",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "glenn-gould",
+      "primary_artist_name": "Glenn Gould",
+      "spotify_album_id": "37nqLDNDOkIzh1zuHUq7zO",
+      "musicbrainz_release_id": "99226a7f-6611-4015-a564-704c3de98d4b",
+      "musicbrainz_release_group_id": "ef88ad5e-6412-40b1-bd4d-258fb32c4c4d"
+    },
+    {
+      "canonical_slug": "ludwig-van-beethoven--classical-composure-piano-works",
+      "name": "Classical Composure: Piano Works",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "5Gr8p2i6L50evw7ecXjZ5R"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "0GzapjEt861MwBCY4XaLHc"
     },
     {
       "canonical_slug": "edvard-grieg--grieg-lyric-pieces",
       "name": "Grieg: Lyric Pieces",
-      "play_count": 1,
+      "play_count": 9,
       "primary_artist_canonical_slug": "edvard-grieg",
-      "primary_artist_name": "Edvard Grieg"
+      "primary_artist_name": "Edvard Grieg",
+      "spotify_album_id": "3GbarUsFr9ZQAraOJipds8"
     },
     {
-      "canonical_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
-      "name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
-      "play_count": 1,
+      "canonical_slug": "johann-sebastian-bach--bach-j-s-italian-concerto-chromatic-fantasia-and-fugue-12-little-preludes",
+      "name": "Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "1jsr9vMfjGJ9D1ELiZthZQ"
+    },
+    {
+      "canonical_slug": "carl-philipp-emanuel-bach--c-p-e-bach-the-complete-works-for-piano-solo-vol-7",
+      "name": "C.P.E. Bach: The Complete Works for Piano Solo, Vol. 7",
+      "play_count": 4,
       "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
-      "primary_artist_name": "Carl Philipp Emanuel Bach"
+      "primary_artist_name": "Carl Philipp Emanuel Bach",
+      "spotify_album_id": "1FXXB4iqgspG0pcV7t6Ods"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "johann-sebastian-bach--der-himmel-lacht-die-erde-jubiliert-bwv-31-no-4-fürst-des-lebens-starker-streiter-live",
-      "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, Fürst des Lebens! starker Streiter - Live",
-      "play_count": 2,
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-aria",
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "play_count": 5,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
       "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
-      "release_name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
-      "spotify_track_id": "6ORIEgFjR7h1YBWmGyTf3C",
-      "spotify_url": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C"
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "2H4kTqp11QWNh8gumWgiyf",
+      "spotify_url": "https://open.spotify.com/track/2H4kTqp11QWNh8gumWgiyf"
     },
     {
       "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
       "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
-      "play_count": 1,
+      "play_count": 5,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
       "primary_artist_name": "Johann Sebastian Bach",
       "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
@@ -150,59 +198,92 @@
       "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
     },
     {
-      "canonical_slug": "johannes-brahms--intermezzo-no-2-in-b-flat-minor-op-117-andante-non-troppo-e-con-molta-espressione-remastered",
-      "name": "Intermezzo No. 2 in B-Flat Minor, Op. 117 - Andante non troppo e con molta espressione - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "johannes-brahms",
-      "primary_artist_name": "Johannes Brahms",
-      "release_canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
-      "release_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
-      "spotify_track_id": "3IioJBugNl60myrfwIm1sz",
-      "spotify_url": "https://open.spotify.com/track/3IioJBugNl60myrfwIm1sz"
-    },
-    {
-      "canonical_slug": "edvard-grieg--lyric-pieces-book-7-op-62-no-4-brooklet",
-      "name": "Lyric Pieces, Book 7, Op. 62: No. 4, Brooklet",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "edvard-grieg",
-      "primary_artist_name": "Edvard Grieg",
-      "release_canonical_slug": "edvard-grieg--grieg-lyric-pieces",
-      "release_name": "Grieg: Lyric Pieces",
-      "spotify_track_id": "6Ht2XGwq8pfy2SRkD1wTqk",
-      "spotify_url": "https://open.spotify.com/track/6Ht2XGwq8pfy2SRkD1wTqk"
-    },
-    {
-      "canonical_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-iv-sarabande",
-      "name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
-      "play_count": 1,
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-11-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 11 a 2 Clav.",
+      "play_count": 4,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
       "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
-      "release_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
-      "spotify_track_id": "73xACzrJ509NZ3jq8Z5WV4",
-      "spotify_url": "https://open.spotify.com/track/73xACzrJ509NZ3jq8Z5WV4"
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "73NwMH0ND2cUkLe0kn9Ljz",
+      "spotify_url": "https://open.spotify.com/track/73NwMH0ND2cUkLe0kn9Ljz"
     },
     {
-      "canonical_slug": "johann-sebastian-bach--prelude-and-fugue-no-2-in-c-minor-bwv-847-prelude",
-      "name": "Prelude \u0026 Fugue No. 2 in C Minor, BWV 847: Prelude",
-      "play_count": 1,
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-12-canone-alla-quarta",
+      "name": "Goldberg Variations, BWV 988: Variation 12. Canone alla Quarta",
+      "play_count": 4,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
       "primary_artist_name": "Johann Sebastian Bach",
-      "release_canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
-      "release_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
-      "spotify_track_id": "4AMJBOgveh7OVHJKTZPwVh",
-      "spotify_url": "https://open.spotify.com/track/4AMJBOgveh7OVHJKTZPwVh"
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "4rdMJWrfeTABOUdhHtr6F2",
+      "spotify_url": "https://open.spotify.com/track/4rdMJWrfeTABOUdhHtr6F2"
     },
     {
-      "canonical_slug": "carl-philipp-emanuel-bach--sonata-in-a-minor-no-1-wq-49-württembergische-sonate-ii-andante-remastered",
-      "name": "Sonata in A Minor No. 1, Wq. 49 \" Württembergische Sonate\": II. Andante - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
-      "primary_artist_name": "Carl Philipp Emanuel Bach",
-      "release_canonical_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
-      "release_name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
-      "spotify_track_id": "51jJ6SHC7E4aQcrRyFIaov",
-      "spotify_url": "https://open.spotify.com/track/51jJ6SHC7E4aQcrRyFIaov"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-17-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 17 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "6dZcwV0SCe8ZRKPAYd7MA1",
+      "spotify_url": "https://open.spotify.com/track/6dZcwV0SCe8ZRKPAYd7MA1"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-19-a-1-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 19 a 1 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "6b1w0rV1rQ7o22QytG4MD4",
+      "spotify_url": "https://open.spotify.com/track/6b1w0rV1rQ7o22QytG4MD4"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-23-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 23 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "3uKsFbdcE8I44qGuE0Hwas",
+      "spotify_url": "https://open.spotify.com/track/3uKsFbdcE8I44qGuE0Hwas"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-24-canone-all-ottava-a-1-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 24. Canone all' Ottava. a 1 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "7buiS4VhffL1n2DXlZeVwC",
+      "spotify_url": "https://open.spotify.com/track/7buiS4VhffL1n2DXlZeVwC"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-28-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 28 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "4TI87x2ASmkIrDQSsmwA0t",
+      "spotify_url": "https://open.spotify.com/track/4TI87x2ASmkIrDQSsmwA0t"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-29-a-1-ovvero-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 29 a 1 ovvero 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "5ngwOSaiF8mph2OmuzfLme",
+      "spotify_url": "https://open.spotify.com/track/5ngwOSaiF8mph2OmuzfLme"
     }
   ],
   "source_refs": [
@@ -211,6 +292,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

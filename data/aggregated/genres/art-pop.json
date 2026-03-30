@@ -6,7 +6,8 @@
   "aliases": [
     "art pop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Art pop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Art_pop",
@@ -89,17 +90,229 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 22,
+    "unique_artist_count": 2,
+    "unique_release_count": 9,
+    "unique_track_count": 19,
+    "first_played_at": "2024-01-01T00:00:00.715232807Z",
+    "last_played_at": "2026-03-29T04:31:25.407Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 12,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "canonical_slug": "deerhoof",
+      "name": "Deerhoof",
+      "play_count": 10,
+      "spotify_artist_id": "7AZwAitWq1KcFoIJhRWb6V",
+      "musicbrainz_artist_id": "11eabe0c-2638-4808-92f9-1dbd9c453429",
+      "spotify_url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "deerhoof--breakup-song",
+      "name": "Breakup Song",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "5JunU3flt52yhYBKhmUnM1",
+      "musicbrainz_release_id": "a0800e93-d0da-40ed-ad71-cf814dd0a2d3",
+      "musicbrainz_release_group_id": "a186e8e5-7c3b-4080-b039-2cf92e0211a2"
+    },
+    {
+      "canonical_slug": "david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-2012-remaster",
+      "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    },
+    {
+      "canonical_slug": "deerhoof--deerhoof-vs-evil-deluxe-edition",
+      "name": "Deerhoof vs. Evil (Deluxe Edition)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "4X5mVOp3ue8IDeek5vKd5B"
+    },
+    {
+      "canonical_slug": "david-bowie--sound-and-vision-2013",
+      "name": "Sound and Vision 2013",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "spotify_album_id": "0Z0eeyJulKuTCZUiHj18NE"
+    },
+    {
+      "canonical_slug": "david-bowie--young-americans-2016-remaster",
+      "name": "Young Americans (2016 Remaster)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "spotify_album_id": "0lITGovWgaQGi42EfqcE5P"
+    },
+    {
+      "canonical_slug": "david-bowie--aladdin-sane-2013-remaster",
+      "name": "Aladdin Sane (2013 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    },
+    {
+      "canonical_slug": "david-bowie--hunky-dory-2015-remaster",
+      "name": "Hunky Dory (2015 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    },
+    {
+      "canonical_slug": "deerhoof--the-magic",
+      "name": "The Magic",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "3R7uZb9XFFM73Vz3G9X8i2",
+      "musicbrainz_release_id": "22c30843-59fb-4a1d-908c-a7b05b318a85",
+      "musicbrainz_release_group_id": "83663b9f-9195-4a33-af33-2e179387c217"
+    },
+    {
+      "canonical_slug": "david-bowie--the-man-who-sold-the-world-2015-remaster",
+      "name": "The Man Who Sold the World (2015 Remaster)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "deerhoof--breakup-songs",
+      "name": "Breakup Songs",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--breakup-song",
+      "release_name": "Breakup Song",
+      "spotify_track_id": "6KzDeUNlDMQyckjHFoIYvw",
+      "spotify_url": "https://open.spotify.com/track/6KzDeUNlDMQyckjHFoIYvw"
+    },
+    {
+      "canonical_slug": "deerhoof--flower",
+      "name": "Flower",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--breakup-song",
+      "release_name": "Breakup Song",
+      "spotify_track_id": "6rd9w2c0LhyZ3f5Gy0kkJV",
+      "spotify_url": "https://open.spotify.com/track/6rd9w2c0LhyZ3f5Gy0kkJV"
+    },
+    {
+      "canonical_slug": "david-bowie--sound-and-vision",
+      "name": "Sound and Vision",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--sound-and-vision-2013",
+      "release_name": "Sound and Vision 2013",
+      "spotify_track_id": "1uqQLKO4B1vPoMBMgfPW6j",
+      "spotify_url": "https://open.spotify.com/track/1uqQLKO4B1vPoMBMgfPW6j"
+    },
+    {
+      "canonical_slug": "deerhoof--behold-a-marvel-in-the-darkness",
+      "name": "Behold a Marvel in the Darkness",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--deerhoof-vs-evil-deluxe-edition",
+      "release_name": "Deerhoof vs. Evil (Deluxe Edition)",
+      "spotify_track_id": "3odG3LkmVsTRrHLUBJsF8Y",
+      "spotify_url": "https://open.spotify.com/track/3odG3LkmVsTRrHLUBJsF8Y"
+    },
+    {
+      "canonical_slug": "deerhoof--criminals-of-the-dream",
+      "name": "Criminals of the Dream",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--the-magic",
+      "release_name": "The Magic",
+      "spotify_track_id": "4Pnnlt0nreo3euGg7N05UM",
+      "spotify_url": "https://open.spotify.com/track/4Pnnlt0nreo3euGg7N05UM"
+    },
+    {
+      "canonical_slug": "david-bowie--fame-2016-remaster",
+      "name": "Fame - 2016 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--young-americans-2016-remaster",
+      "release_name": "Young Americans (2016 Remaster)",
+      "spotify_track_id": "1PehfITh0TTRx3LkDdV4h3",
+      "spotify_url": "https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3"
+    },
+    {
+      "canonical_slug": "david-bowie--five-years-2012-remaster",
+      "name": "Five Years - 2012 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-2012-remaster",
+      "release_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "spotify_track_id": "1JIzFhI9Lt5FyslawmHCBi",
+      "spotify_url": "https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi"
+    },
+    {
+      "canonical_slug": "david-bowie--it-ain-t-easy-2012-remaster",
+      "name": "It Ain't Easy - 2012 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-2012-remaster",
+      "release_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "spotify_track_id": "0xRUwscEziliaWCsmq7n2w",
+      "spotify_url": "https://open.spotify.com/track/0xRUwscEziliaWCsmq7n2w"
+    },
+    {
+      "canonical_slug": "david-bowie--lady-stardust-2012-remaster",
+      "name": "Lady Stardust - 2012 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-2012-remaster",
+      "release_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "spotify_track_id": "2ZWKuGuQ087pzwK4vO4E31",
+      "spotify_url": "https://open.spotify.com/track/2ZWKuGuQ087pzwK4vO4E31"
+    },
+    {
+      "canonical_slug": "david-bowie--oh-you-pretty-things-2015-remaster",
+      "name": "Oh! You Pretty Things - 2015 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--hunky-dory-2015-remaster",
+      "release_name": "Hunky Dory (2015 Remaster)",
+      "spotify_track_id": "7Js4OF5MUb2bqJe09g4uQE",
+      "spotify_url": "https://open.spotify.com/track/7Js4OF5MUb2bqJe09g4uQE"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -116,7 +329,14 @@
       "path": "normalized/genres/wikipedia--art-pop.json",
       "url": "https://en.wikipedia.org/wiki/Art_pop",
       "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-29T04:31:25.407Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:31:25.407Z"
 }

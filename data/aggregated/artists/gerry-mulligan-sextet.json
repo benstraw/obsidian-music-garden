@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "gerry-mulligan-sextet",
+  "name": "Gerry Mulligan Sextet",
+  "play_count": 5,
+  "spotify_artist_id": "6tzN9Ew9w6JB0UQr8culs1",
+  "musicbrainz_artist_id": "be86d9c6-4228-489d-9928-91d766b83b94",
+  "spotify_url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731f9a8489ece76072b2a77f7a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021f9a8489ece76072b2a77f7a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511f9a8489ece76072b2a77f7a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

@@ -4,6 +4,10 @@
   "name": "Who Cares?",
   "primary_artist_name": "Gnarls Barkley",
   "primary_artist_canonical_slug": "gnarls-barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_name": "St. Elsewhere",
   "release_canonical_slug": "gnarls-barkley--st-elsewhere",
   "spotify_url": "https://open.spotify.com/track/0K4w6QVP91FIkUQhco2g8L"

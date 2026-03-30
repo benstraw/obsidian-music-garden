@@ -1,0 +1,86 @@
+{
+  "source": "spotify",
+  "source_artist_id": "13nrWU0iAugxOj586gGfaw",
+  "name": "Patrick Gallois",
+  "spotify_url": "https://open.spotify.com/artist/13nrWU0iAugxOj586gGfaw",
+  "musicbrainz_artist_id": "fd7ff1bd-cd0b-48da-ae72-9de37c6691e4",
+  "source_genres": [
+    "classical",
+    "conductor",
+    "flutist",
+    "french",
+    "french flutist",
+    "performer"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Patrick Gallois",
+  "summary": "Patrick Gallois is a French flutist and conductor.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Patrick_Gallois",
+  "candidates": [
+    "Patrick Gallivan",
+    "Patrick Gallo",
+    "Patrick Gallois",
+    "Patrick Galloway",
+    "Patrick Gill (disambiguation)",
+    "Patrick Hall (disambiguation)",
+    "Patrick Wall (disambiguation)",
+    "Patrick of Galloway, 5th Earl of Atholl"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Patrick Gallois",
+    "page_url": "https://en.wikipedia.org/wiki/Patrick_Gallois",
+    "retrieved_at": "2026-03-28T10:41:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flat.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flat.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flat.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flat.svg/960px-Flat.svg.png",
+    "width": 6,
+    "height": 13,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flat.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flat.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flat.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flat.svg/960px-Flat.svg.png",
+      "width": 6,
+      "height": 13,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maestro.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maestro.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Maestro.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Maestro.svg/960px-Maestro.svg.png",
+      "width": 500,
+      "height": 500,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Blackngold29\" title=\"User:Blackngold29\"\u003eBlackngold29\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

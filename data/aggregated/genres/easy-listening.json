@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "easy-listening",
+  "display_title": "Easy Listening",
+  "display_name": "Easy Listening",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Easy listening",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Easy_listening",
+  "summary": "Easy listening is a popular music genre and radio format that was most popular during the 1950s to the 1970s. It is related to middle of the road (MOR) music and encompasses instrumental recordings of standards, hit songs, non-rock vocals and instrumental covers of selected popular rock songs. It mostly concentrates on music that pre-dates the rock and roll era, characteristically on music from the 1940s and 1950s. It was differentiated from the mostly instrumental beautiful music format by its variety of styles, including a percentage of vocals, arrangements and tempos to fit various parts of the broadcast day.",
+  "candidates": [
+    "Easy Listening (Billboard chart)",
+    "Easy Listening (Johnny Smith album)",
+    "Easy Listening (Maaya Sakamoto EP)",
+    "Easy Listening (Pigface album)",
+    "Easy Listening (disambiguation)",
+    "Easy Listening 4 Armageddon",
+    "Easy Listening for Iron Youth",
+    "Easy Listening for the Hard of Hearing",
+    "Easy Listening i",
+    "Easy listening"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Easy listening",
+    "page_url": "https://en.wikipedia.org/wiki/Easy_listening",
+    "retrieved_at": "2026-03-28T15:55:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--easy-listening.json",
+      "url": "https://en.wikipedia.org/wiki/Easy_listening",
+      "retrieved_at": "2026-03-28T15:55:17Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--easy-listening.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

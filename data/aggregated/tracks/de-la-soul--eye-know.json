@@ -1,11 +1,14 @@
 {
   "canonical_slug": "de-la-soul--eye-know",
   "name": "Eye Know",
+  "play_count": 3,
   "primary_artist_canonical_slug": "de-la-soul",
   "primary_artist_name": "De La Soul",
+  "additional_artist_slugs": [
+    "otis-redding"
+  ],
   "release_canonical_slug": "de-la-soul--3-feet-high-and-rising",
   "release_name": "3 Feet High and Rising",
   "spotify_track_id": "4xQMFoD33vx6stB1UzfA6s",
-  "spotify_url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
 }

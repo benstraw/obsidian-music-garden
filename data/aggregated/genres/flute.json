@@ -1,0 +1,134 @@
+{
+  "canonical_slug": "flute",
+  "display_title": "Flute",
+  "display_name": "Flute",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Flute",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Flute",
+  "summary": "The flute is a member of a family of musical instruments in the woodwind group. Like all woodwinds, flutes are aerophones, producing sound with a vibrating column of air. Flutes produce sound when the player's air flows across an opening. In the Hornbostel–Sachs classification system, flutes are edge-blown aerophones. A musician who plays the flute is called a flautist or flutist.",
+  "candidates": [
+    "Flue pipe",
+    "Flute",
+    "Flute (song)",
+    "Flute Force",
+    "Flute Sonata (Poulenc)",
+    "Flute Sonata in E major, BWV 1035",
+    "Flute circle",
+    "Flute-nosed bat",
+    "Flutemetamol (18F)",
+    "Riki Flutey"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Flute",
+    "page_url": "https://en.wikipedia.org/wiki/Flute",
+    "retrieved_at": "2026-03-28T15:56:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A medieval bone flute dating 11th-13th century. (FindID 621082).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_medieval_bone_flute_dating_11th-13th_century._(FindID_621082).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/A_medieval_bone_flute_dating_11th-13th_century._%28FindID_621082%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A_medieval_bone_flute_dating_11th-13th_century._%28FindID_621082%29.jpg/960px-A_medieval_bone_flute_dating_11th-13th_century._%28FindID_621082%29.jpg",
+    "width": 2207,
+    "height": 3643,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003cdiv class=\"fn value\"\u003e\nMuseum of London, Ben Paites, 2014-06-09 15:14:31\u003c/div\u003e",
+    "attribution_text": "The Portable Antiquities Scheme/ The Trustees of the British Museum"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A medieval bone flute dating 11th-13th century. (FindID 621082).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_medieval_bone_flute_dating_11th-13th_century._(FindID_621082).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/A_medieval_bone_flute_dating_11th-13th_century._%28FindID_621082%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A_medieval_bone_flute_dating_11th-13th_century._%28FindID_621082%29.jpg/960px-A_medieval_bone_flute_dating_11th-13th_century._%28FindID_621082%29.jpg",
+      "width": 2207,
+      "height": 3643,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nMuseum of London, Ben Paites, 2014-06-09 15:14:31\u003c/div\u003e",
+      "attribution_text": "The Portable Antiquities Scheme/ The Trustees of the British Museum"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cipriano Garcia playing a flute of the Tohono O'odham culture.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cipriano_Garcia_playing_a_flute_of_the_Tohono_O%27odham_culture.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cipriano_Garcia_playing_a_flute_of_the_Tohono_O%27odham_culture.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cipriano_Garcia_playing_a_flute_of_the_Tohono_O%27odham_culture.jpg",
+      "width": 954,
+      "height": 1444,
+      "license": "Public domain",
+      "author": "Frances Densmore"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eight Flute1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eight_Flute1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Eight_Flute1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eight_Flute1.JPG/960px-Eight_Flute1.JPG",
+      "width": 4000,
+      "height": 2248,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Copperstream\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Copperstream (page does not exist)\"\u003eCopperstream\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flute with musicial notes.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flute_with_musicial_notes.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flute_with_musicial_notes.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flute_with_musicial_notes.jpg/960px-Flute_with_musicial_notes.jpg",
+      "width": 4548,
+      "height": 3291,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:PetarM\" title=\"User:PetarM\"\u003ePetar Milošević\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gu Hongzhong's Night Revels, Detail 4.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gu_Hongzhong%27s_Night_Revels,_Detail_4.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gu_Hongzhong%27s_Night_Revels%2C_Detail_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gu_Hongzhong%27s_Night_Revels%2C_Detail_4.jpg",
+      "width": 468,
+      "height": 292,
+      "license": "Public domain",
+      "author": "Anonymous Song Chinese artist after the original by Gu Hongzhong"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--flute.json",
+      "url": "https://en.wikipedia.org/wiki/Flute",
+      "retrieved_at": "2026-03-28T15:56:00Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--flute.json",
+      "url": "https://commons.wikimedia.org/wiki/File:A_medieval_bone_flute_dating_11th-13th_century._(FindID_621082).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

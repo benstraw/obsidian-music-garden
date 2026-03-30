@@ -1,0 +1,126 @@
+{
+  "canonical_slug": "the-dead-milkmen",
+  "name": "The Dead Milkmen",
+  "play_count": 21,
+  "spotify_artist_id": "2fhngmJMaaKcdhXHCa4cPK",
+  "musicbrainz_artist_id": "cdd2e0f0-703d-454d-b5c7-cc3bb6dd5552",
+  "spotify_url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK",
+  "genres": [
+    "alternative-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "alternative rock",
+    "punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d09d32383cb822c3e463d215b9ed522b00fe358d",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/8238a1758581380017ec8e4915a09e3086977ec9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/b6883213526102140051f49c676a70f6298d2747",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/05517cfcbc890a5d75cf855fb7325b01ba7f7169",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Dead Milkmen",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dead_Milkmen",
+  "summary": "The Dead Milkmen is an American punk rock band formed in 1983 in Philadelphia. Their original lineup consisted of vocalist and keyboardist Rodney Linderman, guitarist and vocalist Joe Genaro, bassist Dave Schulthise and drummer Dean Sabatino.",
+  "candidates": [
+    "The Dead Milkmen"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Dead Milkmen",
+    "page_url": "https://en.wikipedia.org/wiki/The_Dead_Milkmen",
+    "retrieved_at": "2026-03-28T10:43:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dead milkmen 2024.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dead_milkmen_2024.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dead_milkmen_2024.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dead_milkmen_2024.jpg/960px-Dead_milkmen_2024.jpg",
+    "width": 5712,
+    "height": 4284,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Constantino14\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Constantino14 (page does not exist)\"\u003eConstantino14\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dead milkmen 2024.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dead_milkmen_2024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dead_milkmen_2024.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dead_milkmen_2024.jpg/960px-Dead_milkmen_2024.jpg",
+      "width": 5712,
+      "height": 4284,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Constantino14\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Constantino14 (page does not exist)\"\u003eConstantino14\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Philadelphia, Pennsylvania.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Philadelphia,_Pennsylvania.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg/960px-Flag_of_Philadelphia%2C_Pennsylvania.svg.png",
+      "width": 800,
+      "height": 533,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Dyfsunctional\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Dyfsunctional (page does not exist)\"\u003eDyfsunctional\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Joe Jack Talcum.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Joe_Jack_Talcum.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Joe_Jack_Talcum.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Joe_Jack_Talcum.jpg/960px-Joe_Jack_Talcum.jpg",
+      "width": 1728,
+      "height": 1152,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Photo by: Ryan Johnson"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Zipperhead south street philly.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Zipperhead_south_street_philly.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Zipperhead_south_street_philly.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Zipperhead_south_street_philly.jpg",
+      "width": 588,
+      "height": 847,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/22768390@N00\"\u003eSheri\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

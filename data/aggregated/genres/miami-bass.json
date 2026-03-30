@@ -6,7 +6,8 @@
   "aliases": [
     "miami bass"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Miami bass",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Miami_bass",
@@ -44,6 +45,7 @@
       "name": "World Class Wreckin' Cru",
       "play_count": 1,
       "spotify_artist_id": "3xA7r14Rok7gwRmVbrNFd9",
+      "musicbrainz_artist_id": "f2c428ae-b55b-4774-9b4f-fd7297d637bf",
       "spotify_url": "https://open.spotify.com/artist/3xA7r14Rok7gwRmVbrNFd9"
     }
   ],
@@ -53,7 +55,10 @@
       "name": "Gold",
       "play_count": 1,
       "primary_artist_canonical_slug": "world-class-wreckin-cru",
-      "primary_artist_name": "World Class Wreckin' Cru"
+      "primary_artist_name": "World Class Wreckin’ Cru",
+      "spotify_album_id": "0k7J5JZtMrIoP5gJRIo8w6",
+      "musicbrainz_release_id": "b55c0494-4c94-4251-b4b8-6e9c615b40a8",
+      "musicbrainz_release_group_id": "1e8cf1de-45b3-32df-886d-2df4b2ed455f"
     }
   ],
   "top_tracks": [
@@ -75,6 +80,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

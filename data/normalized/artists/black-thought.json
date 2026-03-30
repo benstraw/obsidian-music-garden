@@ -1,0 +1,81 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6DJEUXZm0e2rAohdoZ5Voo",
+  "name": "Black Thought",
+  "spotify_url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo",
+  "musicbrainz_artist_id": "5f39d33c-a167-4a63-9c44-71d27618b712",
+  "source_genres": [
+    "conscious hip hop",
+    "hip hop",
+    "political hip hop",
+    "rapper"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Black Thought",
+  "summary": "Tariq Luqmaan Trotter, better known as Black Thought, is an American rapper, singer, actor, television host, and the lead MC of the hip hop group The Roots, which he co-founded with drummer Questlove in Philadelphia. Regarded as \"one of the most skilled, incisive, and prolific rappers of his time\", he is widely lauded for his live performance skills, continuous multisyllabic rhyme schemes, complex lyricism, double entendres, and politically aware lyrics. He and The Roots perform as the house band for The Tonight Show Starring Jimmy Fallon, frequently playing games with Fallon and his guests.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Black_Thought",
+  "candidates": [
+    "Back Through Time",
+    "Black Thought",
+    "Black Thoughts",
+    "Black Thoughts Vol. 2"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Black Thought",
+    "page_url": "https://en.wikipedia.org/wiki/Black_Thought",
+    "retrieved_at": "2026-03-28T10:37:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Black Thought 2011.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Black_Thought_2011.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Black_Thought_2011.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Black_Thought_2011.jpg/960px-Black_Thought_2011.jpg",
+    "width": 2592,
+    "height": 2848,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9389001@N08\"\u003eCrillmatic\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Black Thought 2011.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Black_Thought_2011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Black_Thought_2011.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Black_Thought_2011.jpg/960px-Black_Thought_2011.jpg",
+      "width": 2592,
+      "height": 2848,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9389001@N08\"\u003eCrillmatic\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Black Thought sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Black_Thought_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Black_Thought_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Black_Thought_sig.svg/960px-Black_Thought_sig.svg.png",
+      "width": 400,
+      "height": 277,
+      "license": "Public domain",
+      "author": "Respective commons pages (reuploaded as SVG)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The roots-03.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_roots-03.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_roots-03.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_roots-03.jpg/960px-The_roots-03.jpg",
+      "width": 1357,
+      "height": 906,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Mika Väisänen"
+    }
+  ]
+}

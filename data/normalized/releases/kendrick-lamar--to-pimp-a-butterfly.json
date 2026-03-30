@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7ycBtnsMtyVbbwTfJwRjSP",
   "name": "To Pimp A Butterfly",
   "primary_artist_name": "Kendrick Lamar",
-  "primary_artist_canonical_slug": "kendrick-lamar"
+  "primary_artist_canonical_slug": "kendrick-lamar",
+  "musicbrainz_release_id": "8a426098-714d-4897-b180-dfd8f0a70fc9",
+  "musicbrainz_release_group_id": "d9103c72-3807-4378-9ce7-b6f3e8fdd547"
 }

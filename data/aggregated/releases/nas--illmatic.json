@@ -1,7 +1,11 @@
 {
   "canonical_slug": "nas--illmatic",
   "name": "Illmatic",
+  "play_count": 10,
   "primary_artist_canonical_slug": "nas",
   "primary_artist_name": "Nas",
-  "last_updated": "2026-03-27"
+  "spotify_album_id": "3kEtdS2pH6hKcMU9Wioob1",
+  "musicbrainz_release_id": "9651aac2-4296-381f-a595-f11e3242c997",
+  "musicbrainz_release_group_id": "28298e2c-4d70-3eed-a0f5-a3280c662b3d",
+  "last_updated": "2026-03-28"
 }

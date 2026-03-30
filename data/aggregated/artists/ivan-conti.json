@@ -1,7 +1,9 @@
 {
   "canonical_slug": "ivan-conti",
   "name": "Ivan Conti",
+  "play_count": 2,
   "spotify_artist_id": "2dfKG7aNtsTiPXBkXqQbVa",
+  "musicbrainz_artist_id": "ca70ca01-8b43-4198-b957-c075b8671399",
   "spotify_url": "https://open.spotify.com/artist/2dfKG7aNtsTiPXBkXqQbVa",
   "genres": [
     "jazz"
@@ -87,5 +89,5 @@
       "attribution_text": "Radio Boise KRBX"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

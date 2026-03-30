@@ -1,0 +1,79 @@
+{
+  "canonical_slug": "ini-kamoze",
+  "name": "iNi Kamoze",
+  "play_count": 3,
+  "spotify_artist_id": "1VJspRsoC6c0bvqhnSiFCs",
+  "musicbrainz_artist_id": "ce29fa89-8aed-4f7b-8b3e-a34d0c9ed0c6",
+  "spotify_url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs",
+  "genres": [
+    "dancehall",
+    "reggae",
+    "roots-reggae"
+  ],
+  "source_genres": [
+    "dancehall",
+    "reggae",
+    "roots reggae"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/dc120e719cd173c59ba90c2cc1c5710543930de3",
+      "height": 1003,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/c6924c38af6286d5d1f5ee73436f49d6602774e9",
+      "height": 642,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/89de11b7a09c3651137eade889b3fb4190d09b79",
+      "height": 201,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/4dd14629462604c589fa71721fe61389c6e2d0fc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ini Kamoze",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ini_Kamoze",
+  "summary": "Ini Kamoze is a Jamaican reggae singer who began his career in the early 1980s and rose to prominence in 1994 with the signature song \"Here Comes the Hotstepper\". The single topped the US Billboard Hot 100 as well as charts in Denmark and New Zealand, reaching No. 4 on the UK Singles Chart.",
+  "candidates": [
+    "Ini Kamoze",
+    "Inia Morehu Tauhia Watene Iarahi Waihurihia Te Wiata"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ini Kamoze",
+    "page_url": "https://en.wikipedia.org/wiki/Ini_Kamoze",
+    "retrieved_at": "2026-03-28T10:44:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ini Kamoze 980916.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ini_Kamoze_980916.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ini_Kamoze_980916.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ini_Kamoze_980916.jpg",
+    "width": 258,
+    "height": 325,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Caspiax\" title=\"User:Caspiax\"\u003eCaspiax\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ini Kamoze 980916.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ini_Kamoze_980916.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ini_Kamoze_980916.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ini_Kamoze_980916.jpg",
+      "width": 258,
+      "height": 325,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Caspiax\" title=\"User:Caspiax\"\u003eCaspiax\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

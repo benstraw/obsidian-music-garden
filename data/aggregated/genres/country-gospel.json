@@ -8,6 +8,7 @@
     "country gospel"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Christian country music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_country_music",
@@ -24,11 +25,11 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 18,
-    "unique_artist_count": 2,
-    "unique_release_count": 15,
-    "unique_track_count": 17,
-    "first_played_at": "2026-02-13T02:19:12.032Z",
+    "play_count": 19,
+    "unique_artist_count": 3,
+    "unique_release_count": 16,
+    "unique_track_count": 18,
+    "first_played_at": "2024-01-01T00:00:00.117142748Z",
     "last_played_at": "2026-03-09T00:01:20.747Z"
   },
   "top_artists": [
@@ -37,6 +38,7 @@
       "name": "Peech.",
       "play_count": 16,
       "spotify_artist_id": "0WQh63ofwTzWOy1ubiHMdk",
+      "musicbrainz_artist_id": "62040650-1a7f-4d01-99bc-a4d6f8e0c802",
       "spotify_url": "https://open.spotify.com/artist/0WQh63ofwTzWOy1ubiHMdk"
     },
     {
@@ -44,7 +46,16 @@
       "name": "Country's Family Reunion",
       "play_count": 2,
       "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+      "musicbrainz_artist_id": "0052ff05-af79-4488-b9aa-322d6acf722f",
       "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+    },
+    {
+      "canonical_slug": "iris-dement",
+      "name": "Iris DeMent",
+      "play_count": 1,
+      "spotify_artist_id": "3NPZs8XgXtaWslUcnIw6rY",
+      "musicbrainz_artist_id": "e06aa44d-4c98-40c6-bf1d-d54637fa0bde",
+      "spotify_url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
     }
   ],
   "top_releases": [
@@ -53,70 +64,88 @@
       "name": "Celebration (Live / Vol. 1)",
       "play_count": 2,
       "primary_artist_canonical_slug": "country-s-family-reunion",
-      "primary_artist_name": "Country's Family Reunion"
+      "primary_artist_name": "Country's Family Reunion",
+      "spotify_album_id": "3VBBvP1Tn6fjqIuqwwcbcs"
     },
     {
       "canonical_slug": "peech--forever-4-you",
       "name": "Forever 4 You.",
       "play_count": 2,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech.",
+      "spotify_album_id": "34FcY9CDqUUYTBDUJMe0uR"
     },
     {
       "canonical_slug": "peech--these-times-don-t-feel-right",
       "name": "These Times Don't Feel Right",
       "play_count": 2,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech.",
+      "spotify_album_id": "2FnckVDcyOqneablTpapOH"
     },
     {
       "canonical_slug": "peech--10-years",
       "name": "10 Years",
       "play_count": 1,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech.",
+      "spotify_album_id": "6EoNObrztFcufIEz9Jd8sf"
     },
     {
       "canonical_slug": "peech--alone",
       "name": "Alone",
       "play_count": 1,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech.",
+      "spotify_album_id": "5R0pdHbkNf1fmJlgB7sZYh"
     },
     {
       "canonical_slug": "peech--deep-end",
       "name": "Deep End",
       "play_count": 1,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech.",
+      "spotify_album_id": "6YTorNqfEcqjXMEYZhuMat"
     },
     {
       "canonical_slug": "peech--don-t-miss-your-moment",
       "name": "Don't Miss Your Moment",
       "play_count": 1,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech",
+      "spotify_album_id": "2Zg24O484ZRlDUdrTtz515",
+      "musicbrainz_release_id": "6809fc9b-0696-4062-94d0-ee02b8eafcdd",
+      "musicbrainz_release_group_id": "e783c356-f20c-4c42-804c-844be40cb343"
     },
     {
       "canonical_slug": "peech--going-west",
       "name": "Going West",
       "play_count": 1,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech",
+      "spotify_album_id": "2SSLFbCxmRcg7DeUKVB5ux",
+      "musicbrainz_release_id": "e1cd896b-3fa8-40e7-bf0c-59455d7489ea",
+      "musicbrainz_release_group_id": "d2ba776b-66c8-4a23-ab71-d0aacbfeca86"
+    },
+    {
+      "canonical_slug": "iris-dement--infamous-angel",
+      "name": "Infamous Angel",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "iris-dement",
+      "primary_artist_name": "Iris DeMent",
+      "spotify_album_id": "2GA3HnSHqkdonyJbfEcz6o",
+      "musicbrainz_release_id": "a4106179-25f7-347e-bedb-e747248bc1e6",
+      "musicbrainz_release_group_id": "66fe31bd-79b7-357a-8e0d-a6c111651441"
     },
     {
       "canonical_slug": "peech--mid-december",
       "name": "Mid December",
       "play_count": 1,
       "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
-    },
-    {
-      "canonical_slug": "peech--pain-baby",
-      "name": "Pain Baby",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech."
+      "primary_artist_name": "Peech",
+      "spotify_album_id": "4B3g0efO0BWHfpIQg01dA9",
+      "musicbrainz_release_id": "0a4011c2-d22a-4c4f-954e-ff2c83186ec8",
+      "musicbrainz_release_group_id": "bee35c37-a827-4b77-aace-7be96cce5afe"
     }
   ],
   "top_tracks": [
@@ -187,6 +216,17 @@
       "spotify_url": "https://open.spotify.com/track/7asUNUGWYPbWqgMqVCB8Js"
     },
     {
+      "canonical_slug": "iris-dement--let-the-mystery-be",
+      "name": "Let the Mystery Be",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "iris-dement",
+      "primary_artist_name": "Iris DeMent",
+      "release_canonical_slug": "iris-dement--infamous-angel",
+      "release_name": "Infamous Angel",
+      "spotify_track_id": "7MQivOZVwEtP6U6gvidRAP",
+      "spotify_url": "https://open.spotify.com/track/7MQivOZVwEtP6U6gvidRAP"
+    },
+    {
       "canonical_slug": "peech--mid-december",
       "name": "Mid December",
       "play_count": 1,
@@ -218,17 +258,6 @@
       "release_name": "Snowfall",
       "spotify_track_id": "4Ts94tFc3UVrBL7xMVsXn6",
       "spotify_url": "https://open.spotify.com/track/4Ts94tFc3UVrBL7xMVsXn6"
-    },
-    {
-      "canonical_slug": "peech--tell-me",
-      "name": "Tell Me",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "peech",
-      "primary_artist_name": "Peech.",
-      "release_canonical_slug": "peech--tell-me",
-      "release_name": "Tell Me",
-      "spotify_track_id": "7IhvWuNCHe0UPipzxxFfwA",
-      "spotify_url": "https://open.spotify.com/track/7IhvWuNCHe0UPipzxxFfwA"
     }
   ],
   "source_refs": [
@@ -237,6 +266,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

@@ -4,6 +4,11 @@
   "name": "Ice Cream (feat. Ghostface Killah, Method Man \u0026 Cappadonna)",
   "primary_artist_name": "Raekwon",
   "primary_artist_canonical_slug": "raekwon",
+  "additional_artist_slugs": [
+    "ghostface-killah",
+    "method-man",
+    "cappadonna"
+  ],
   "release_name": "Only Built 4 Cuban Linx...",
   "release_canonical_slug": "raekwon--only-built-4-cuban-linx",
   "spotify_url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"

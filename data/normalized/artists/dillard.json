@@ -1,0 +1,32 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5nAvegaN5UuHkKfAo9a2kq",
+  "name": "Dillard",
+  "spotify_url": "https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq",
+  "musicbrainz_artist_id": "43db7554-f047-4f39-bd15-47a9aa235970",
+  "source_genres": [
+    "downtempo",
+    "dubstep",
+    "electronic",
+    "electronica",
+    "trip hop",
+    "uk garage"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "uk-garage"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Annie Dillard",
+    "Dillard",
+    "Dillard Bleu Devils and Lady Bleu Devils",
+    "Dillard University",
+    "Dillard's",
+    "Doug Dillard",
+    "Jill Dillard",
+    "Oliver W. Dillard",
+    "Ricky Dillard",
+    "The Dillards"
+  ]
+}

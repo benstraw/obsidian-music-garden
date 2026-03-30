@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "metropopolis",
+  "display_title": "Metropopolis",
+  "display_name": "Metropopolis",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Metropolis",
+    "Metropolis (1927 film)",
+    "Metropolis (2001 film)",
+    "Metropolis (comics)",
+    "Metropolis GZM",
+    "Metropolis Pt. 2: Scenes from a Memory",
+    "Metropolis of Kiev (Patriarchate of Moscow)",
+    "Metropolis of Kiev and all Rus'",
+    "Metropolis of Kyiv",
+    "Metropolis–Hastings algorithm"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

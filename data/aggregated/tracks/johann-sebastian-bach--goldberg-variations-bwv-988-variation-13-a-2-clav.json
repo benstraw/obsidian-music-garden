@@ -1,11 +1,14 @@
 {
   "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
   "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
+  "play_count": 5,
   "primary_artist_canonical_slug": "johann-sebastian-bach",
   "primary_artist_name": "Johann Sebastian Bach",
+  "additional_artist_slugs": [
+    "glenn-gould"
+  ],
   "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
   "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
   "spotify_track_id": "2CI5exhYgmUhVMR8Mrunk4",
-  "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
 }

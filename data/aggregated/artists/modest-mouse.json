@@ -1,17 +1,55 @@
 {
   "canonical_slug": "modest-mouse",
   "name": "Modest Mouse",
+  "play_count": 1,
   "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+  "musicbrainz_artist_id": "a96ac800-bfcb-412a-8a63-0a98df600700",
   "spotify_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT",
   "genres": [
     "alternative-rock",
     "indie",
-    "indie-rock"
+    "indie-rock",
+    "rock"
   ],
   "source_genres": [
+    "addiction",
+    "afterlife",
+    "alienation",
+    "alternative and punk",
     "alternative rock",
+    "anthemic",
+    "anxious",
+    "atmospheric",
+    "autumn",
+    "bittersweet",
+    "bright",
+    "cynical",
+    "dark humor",
+    "death",
+    "depressive",
+    "drugs",
+    "eclectic",
+    "energetic",
+    "existential",
     "indie",
-    "indie rock"
+    "indie rock",
+    "introspective",
+    "longing",
+    "lyrical dissonance",
+    "male vocalist",
+    "manic",
+    "melancholic",
+    "melodic",
+    "noise rock",
+    "passionate",
+    "playful",
+    "poetic",
+    "quirky",
+    "rock",
+    "sarcastic",
+    "summer",
+    "surreal",
+    "warm"
   ],
   "images": [
     {
@@ -121,5 +159,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36416130@N03\"\u003eMoses\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

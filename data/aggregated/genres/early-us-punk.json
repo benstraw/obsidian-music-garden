@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "early-us-punk",
+  "display_title": "Early Us Punk",
+  "display_name": "Early Us Punk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "List of 1970s punk rock musicians",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_1970s_punk_rock_musicians",
+  "summary": "This is a list of notable first wave punk rock musicians (1971–1979).",
+  "candidates": [
+    "Early Punk Bands"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "List of 1970s punk rock musicians",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_1970s_punk_rock_musicians",
+    "retrieved_at": "2026-03-28T15:55:14Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--early-us-punk.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_1970s_punk_rock_musicians",
+      "retrieved_at": "2026-03-28T15:55:14Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

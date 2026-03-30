@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6GRzmk9UGL7odxprOPop1Q",
   "name": "Mos Def \u0026 Talib Kweli Are Black Star",
   "primary_artist_name": "Black Star",
-  "primary_artist_canonical_slug": "black-star"
+  "primary_artist_canonical_slug": "black-star",
+  "musicbrainz_release_id": "8d2645c7-8576-47ee-8827-80a887646fd8",
+  "musicbrainz_release_group_id": "aaa445c1-5f73-37c0-b53a-2444b279c538"
 }

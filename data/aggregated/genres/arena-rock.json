@@ -1,0 +1,112 @@
+{
+  "canonical_slug": "arena-rock",
+  "display_title": "Arena Rock",
+  "display_name": "Arena Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Arena rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arena_rock",
+  "summary": "Arena rock is a style of rock music that became mainstream in the 1970s. It typically involves radio-friendly rock music that was designed to be played for large audiences.",
+  "candidates": [
+    "Arena Racing Company",
+    "Arena Racing Company Grand Prix",
+    "Arena Racing USA",
+    "Arena Rock Recording Company",
+    "Arena racing",
+    "Arena rock",
+    "Ariana Rockefeller",
+    "Jack Arena",
+    "Rodolfo Arena",
+    "Romina Arena"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Arena rock",
+    "page_url": "https://en.wikipedia.org/wiki/Arena_rock",
+    "retrieved_at": "2026-03-28T15:53:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox question.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_question.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ambox_question.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/960px-Ambox_question.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mysid\" title=\"User:Mysid\"\u003eMysid\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox question.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_question.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ambox_question.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/960px-Ambox_question.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mysid\" title=\"User:Mysid\"\u003eMysid\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Queen 12041982 01 800b.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Queen_12041982_01_800b.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Queen_12041982_01_800b.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Queen_12041982_01_800b.jpg",
+      "width": 800,
+      "height": 523,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Helge Øverås"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:StevePerry.jpg"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--arena-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Arena_rock",
+      "retrieved_at": "2026-03-28T15:53:06Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--arena-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_question.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

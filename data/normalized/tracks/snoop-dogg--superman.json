@@ -4,6 +4,9 @@
   "name": "Superman",
   "primary_artist_name": "Snoop Dogg",
   "primary_artist_canonical_slug": "snoop-dogg",
+  "additional_artist_slugs": [
+    "willie-nelson"
+  ],
   "release_name": "Doggumentary",
   "release_canonical_slug": "snoop-dogg--doggumentary",
   "spotify_url": "https://open.spotify.com/track/5jcQZOQpMWFraXxn9hAQt0"

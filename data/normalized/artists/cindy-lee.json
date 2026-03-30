@@ -1,0 +1,38 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0TZExq5Dma8hecEIAKwQYA",
+  "name": "Cindy Lee",
+  "spotify_url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA",
+  "musicbrainz_artist_id": "a7537f5b-ef6f-424e-9f4d-9b990cb8866f",
+  "source_genres": [
+    "brill building",
+    "dream pop",
+    "electronic",
+    "hypnagogic pop",
+    "minimal wave",
+    "noise",
+    "noise pop",
+    "pop",
+    "rock",
+    "synth-pop"
+  ],
+  "canonical_genre_slugs": [
+    "dream-pop",
+    "electronic",
+    "pop",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Cindy Lee",
+    "Cindy Lee (band)",
+    "Cindy Lee (businesswoman)",
+    "Cindy Lee (scientist)",
+    "Cindy Lee Berryhill",
+    "Cindy Lee Garcia",
+    "Cindy Lee Hudspeth",
+    "Cindy Lee Miller Sheehan",
+    "Cindy Lee Van Dover",
+    "Cindy-Lee Dennis"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "jitka-čechová",
+  "name": "Jitka Čechová",
+  "spotify_artist_id": "5Y25U2cOdB0UQ56nL8RcKX",
+  "musicbrainz_artist_id": "c9701bf5-cc8e-438b-997f-6257b6d5feb0",
+  "spotify_url": "https://open.spotify.com/artist/5Y25U2cOdB0UQ56nL8RcKX",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb96cedecddf147e76c7906963",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517496cedecddf147e76c7906963",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17896cedecddf147e76c7906963",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

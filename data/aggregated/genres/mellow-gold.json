@@ -1,0 +1,108 @@
+{
+  "canonical_slug": "mellow-gold",
+  "display_title": "Mellow Gold",
+  "display_name": "Mellow Gold",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Mellow Gold",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mellow_Gold",
+  "summary": "Mellow Gold is the third studio album by American musician Beck, released on March 1, 1994, by DGC Records as Beck's major label debut album. Critics noted the album's hybrid of various styles including rock, hip hop, folk, blues, psychedelia, and country, as well as ironic, witty lyrics. Its decidedly anti-commercial attitude led to it becoming an unexpected commercial success, peaking at number thirteen in the United States and eventually being certified platinum. As of July 2008, Mellow Gold has sold over 1.2 million copies in the United States.",
+  "candidates": [
+    "In a Mellow Mood",
+    "Meadow Gold",
+    "Meadow Gold Dairies",
+    "Meadow Gold Dairies (Hawaii)",
+    "Meadow Gold sign",
+    "Meadow goldenrod",
+    "Mellow Gold",
+    "Mellow Mood",
+    "Mellow Mood (band)",
+    "Melogold"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mellow Gold",
+    "page_url": "https://en.wikipedia.org/wiki/Mellow_Gold",
+    "retrieved_at": "2026-03-28T15:58:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Loser.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Loser (Beck song - sample).ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MellowGold.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Star empty.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Star_empty.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/960px-Star_empty.svg.png",
+      "width": 108,
+      "height": 110,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eConti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eRedHotHeat\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited.\u003c/div\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--mellow-gold.json",
+      "url": "https://en.wikipedia.org/wiki/Mellow_Gold",
+      "retrieved_at": "2026-03-28T15:58:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--mellow-gold.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

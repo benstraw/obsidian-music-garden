@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "italian-composer",
+  "display_title": "Italian Composer",
+  "display_name": "Italian Composer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "List of Italian composers",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_Italian_composers",
+  "summary": "This is an alphabetical list of composers from Italy, whose notability is established by reliable sources in other Wikipedia articles.",
+  "candidates": [
+    "Italian (computer virus)",
+    "Italian composer"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "List of Italian composers",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_Italian_composers",
+    "retrieved_at": "2026-03-28T15:57:26Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Giuseppe_Verdi_by_Giovanni_Boldini.jpg/330px-Giuseppe_Verdi_by_Giovanni_Boldini.jpg",
+    "width": 900,
+    "height": 1234
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--italian-composer.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_Italian_composers",
+      "retrieved_at": "2026-03-28T15:57:26Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--italian-composer.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_Italian_composers",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

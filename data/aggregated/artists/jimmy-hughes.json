@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "jimmy-hughes",
+  "name": "Jimmy Hughes",
+  "play_count": 4,
+  "spotify_artist_id": "0Ac3Vb2xO8UGlSHlll7RFE",
+  "musicbrainz_artist_id": "04aba958-e878-4827-b547-88460ebbc9cb",
+  "spotify_url": "https://open.spotify.com/artist/0Ac3Vb2xO8UGlSHlll7RFE",
+  "genres": [
+    "soul"
+  ],
+  "source_genres": [
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27359520145a1630be15bb7e215",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0259520145a1630be15bb7e215",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485159520145a1630be15bb7e215",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Jim Hughes (1950s pitcher)",
+    "Jim Hughes (1970s pitcher)",
+    "Jim Hughes (academic)",
+    "Jim Hughes (politician)",
+    "Jimmy Hughes",
+    "Jimmy Hughes (British musician)",
+    "Jimmy Hughes (footballer)",
+    "Jimmy Hughes (singer)",
+    "Jimmy Hughes, Rookie Cop",
+    "Jimmy Humes"
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,78 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7De2eIqeHTw091YeAkkYXV",
+  "name": "Rahsaan Roland Kirk",
+  "spotify_url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV",
+  "musicbrainz_artist_id": "4a1f7fe0-e509-4c4a-9fa1-9cf6c3ca891c",
+  "source_genres": [
+    "avant-garde jazz",
+    "jazz",
+    "post-bop"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Rahsaan Roland Kirk",
+  "summary": "Rahsaan Roland Kirk, known earlier in his career simply as Roland Kirk, was an American jazz multi-instrumentalist who played tenor saxophone, flute, and many other instruments. He was renowned for his onstage vitality; in his shows, virtuoso improvisation was accompanied by comic banter, political ranting, and the simultaneous playing of several instruments.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk",
+  "candidates": [
+    "Rahsaan Roland Kirk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rahsaan Roland Kirk",
+    "page_url": "https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk",
+    "retrieved_at": "2026-03-28T10:42:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:19720100 RolandKirk KT 06.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:19720100_RolandKirk_KT_06.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/19720100_RolandKirk_KT_06.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19720100_RolandKirk_KT_06.jpg/960px-19720100_RolandKirk_KT_06.jpg",
+    "width": 1984,
+    "height": 3112,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Kentrethewey\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Kentrethewey (page does not exist)\"\u003eKentrethewey\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:19720100 RolandKirk KT 06.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:19720100_RolandKirk_KT_06.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/19720100_RolandKirk_KT_06.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/19720100_RolandKirk_KT_06.jpg/960px-19720100_RolandKirk_KT_06.jpg",
+      "width": 1984,
+      "height": 3112,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Kentrethewey\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Kentrethewey (page does not exist)\"\u003eKentrethewey\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rahsaan blackmysterypipes.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rahsaan flute clip.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rahsaan multiplesax.ogg"
+    }
+  ]
+}

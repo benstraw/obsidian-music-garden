@@ -1,0 +1,88 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3NPZs8XgXtaWslUcnIw6rY",
+  "name": "Iris DeMent",
+  "spotify_url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY",
+  "musicbrainz_artist_id": "e06aa44d-4c98-40c6-bf1d-d54637fa0bde",
+  "source_genres": [
+    "americana",
+    "country",
+    "country folk",
+    "country gospel",
+    "folk",
+    "world"
+  ],
+  "canonical_genre_slugs": [
+    "americana",
+    "country",
+    "country-gospel",
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "Iris DeMent",
+  "summary": "Iris Luella DeMent is an American singer-songwriter and musician. DeMent's musical style includes elements of folk, country and gospel. She has been nominated for a Grammy Award twice.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Iris_DeMent",
+  "candidates": [
+    "Ira De Ment",
+    "Iris Berent",
+    "Iris De Martin Pinter",
+    "Iris DeMent",
+    "Iris domestica",
+    "Iris, le gentil professeur",
+    "Irish Mental Hospital Workers' Union"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Iris DeMent",
+    "page_url": "https://en.wikipedia.org/wiki/Iris_DeMent",
+    "retrieved_at": "2026-03-28T10:39:38Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Iris Dement - Ron Baker - 2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Iris_Dement_-_Ron_Baker_-_2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Iris_Dement_-_Ron_Baker_-_2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Iris_Dement_-_Ron_Baker_-_2007.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Ron Baker (\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/kingsnake\"\u003ehttps://www.flickr.com/photos/kingsnake\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Iris Dement 2 - Ron Baker - 2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Iris_Dement_2_-_Ron_Baker_-_2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Iris_Dement_2_-_Ron_Baker_-_2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Iris_Dement_2_-_Ron_Baker_-_2007.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Crawlin_Kingsnake\" title=\"User:Crawlin Kingsnake\"\u003eRon Baker\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "canonical_slug": "thelonious-monk-quartet",
+  "name": "Thelonious Monk Quartet",
+  "play_count": 7,
+  "spotify_artist_id": "2ZUAe0H2nhsuuCOykSVsJ2",
+  "musicbrainz_artist_id": "1cbe3eea-4671-452a-9265-7ef1ef9d8d2e",
+  "spotify_url": "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab5c50241c3ddd0f3a19e72eb2a216d44d136ccf",
+      "height": 452,
+      "width": 600
+    },
+    {
+      "url": "https://i.scdn.co/image/11a616ed1ded4d0d486110f99bcc71f5b055918d",
+      "height": 151,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/19fbacf610a5b00d92f2098502e78436acd117ca",
+      "height": 48,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Thelonious Monk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thelonious_Monk",
+  "summary": "Thelonious Sphere Monk was an American jazz pianist and composer. He had a unique improvisational style and made numerous contributions to the standard jazz repertoire, including \"'Round Midnight\", \"Blue Monk\", \"Straight, No Chaser\", \"Ruby, My Dear\", \"In Walked Bud\", and \"Well, You Needn't\". Monk is the second-most-recorded jazz composer after Duke Ellington.",
+  "candidates": [
+    "Thelonious Monk Quartet",
+    "Thelonious Monk Quartet with John Coltrane at Carnegie Hall",
+    "Thelonious Monk Quintet",
+    "Thelonious Monk Quintet Blows for LP"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Thelonious Monk",
+    "page_url": "https://en.wikipedia.org/wiki/Thelonious_Monk",
+    "retrieved_at": "2026-03-28T10:43:33Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg/330px-Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg",
+    "width": 4898,
+    "height": 5148
+  },
+  "last_updated": "2026-03-28"
+}

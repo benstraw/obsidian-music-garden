@@ -7,7 +7,8 @@
     "big band",
     "swing music"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Big band",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Big_band",
@@ -103,68 +104,159 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 3,
-    "unique_artist_count": 2,
-    "unique_release_count": 3,
-    "unique_track_count": 3,
-    "first_played_at": "2026-03-11T00:00:24.746Z",
+    "play_count": 153,
+    "unique_artist_count": 4,
+    "unique_release_count": 35,
+    "unique_track_count": 91,
+    "first_played_at": "2024-01-01T00:00:00.129838207Z",
     "last_played_at": "2026-03-11T00:32:24.606Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "billie-holiday",
+      "name": "Billie Holiday",
+      "play_count": 97,
+      "spotify_artist_id": "1YzCsTRb22dQkh9lghPIrp",
+      "musicbrainz_artist_id": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "spotify_url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+    },
+    {
       "canonical_slug": "duke-ellington",
       "name": "Duke Ellington",
-      "play_count": 2,
+      "play_count": 26,
       "spotify_artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+      "musicbrainz_artist_id": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
       "spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
     },
     {
       "canonical_slug": "gil-evans",
       "name": "Gil Evans",
-      "play_count": 1,
+      "play_count": 21,
       "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+      "musicbrainz_artist_id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
       "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+    },
+    {
+      "canonical_slug": "wes-montgomery",
+      "name": "Wes Montgomery",
+      "play_count": 9,
+      "spotify_artist_id": "03YhcM6fxypfwckPCQV8pQ",
+      "musicbrainz_artist_id": "663f8232-8c46-4851-803f-a91d31593b14",
+      "spotify_url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
-      "name": "Duke Ellington \u0026 John Coltrane",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "duke-ellington",
-      "primary_artist_name": "Duke Ellington"
+      "canonical_slug": "billie-holiday--solitude",
+      "name": "Solitude",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "spotify_album_id": "4izD3SCRElbkO06i8yf4Zp",
+      "musicbrainz_release_id": "85a20729-d19e-4128-a278-b5a9a0ff8616",
+      "musicbrainz_release_group_id": "ecfcf28e-ec0e-3f88-906b-5544d898521d"
     },
     {
-      "canonical_slug": "duke-ellington--money-jungle",
-      "name": "Money Jungle",
-      "play_count": 1,
+      "canonical_slug": "billie-holiday--lady-sings-the-blues",
+      "name": "Lady Sings The Blues",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "spotify_album_id": "4Es5UWdUtj8CYn99AqCWPo",
+      "musicbrainz_release_id": "b05f05ec-e805-4866-8265-f9bc57927317",
+      "musicbrainz_release_group_id": "083f01d3-ed24-3121-8d7e-dd40e135377a"
+    },
+    {
+      "canonical_slug": "billie-holiday--lady-in-satin",
+      "name": "Lady In Satin",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "spotify_album_id": "4LrLP7DM1KBj8r2Sc098JA",
+      "musicbrainz_release_id": "1c5dad00-472b-4be6-8787-4f92eb50227c",
+      "musicbrainz_release_group_id": "cf7bc239-a3ba-3d87-80e5-261f750cb560"
+    },
+    {
+      "canonical_slug": "gil-evans--the-individualism-of-gil-evans",
+      "name": "The Individualism Of Gil Evans",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "gil-evans",
+      "primary_artist_name": "Gil Evans",
+      "spotify_album_id": "3dmkH0MnFScU9uB1naCAms",
+      "musicbrainz_release_id": "d9ed3ee2-20df-49b6-8a24-d646bb0e4312",
+      "musicbrainz_release_group_id": "3bdee04a-b28b-338e-b52e-0bb8544f0348"
+    },
+    {
+      "canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "name": "Duke Ellington \u0026 John Coltrane",
+      "play_count": 9,
       "primary_artist_canonical_slug": "duke-ellington",
-      "primary_artist_name": "Duke Ellington"
+      "primary_artist_name": "Duke Ellington",
+      "spotify_album_id": "1OvmilWKtrabJGEpPRlgK5"
     },
     {
       "canonical_slug": "gil-evans--sketches-of-spain",
       "name": "Sketches of Spain",
-      "play_count": 1,
+      "play_count": 9,
       "primary_artist_canonical_slug": "gil-evans",
-      "primary_artist_name": "Gil Evans"
+      "primary_artist_name": "Gil Evans",
+      "spotify_album_id": "2xyhltm9XWSQ5xok4C81BD"
+    },
+    {
+      "canonical_slug": "john-coltrane--late-night-john-coltrane",
+      "name": "Late Night John Coltrane",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "john-coltrane",
+      "primary_artist_name": "John Coltrane",
+      "spotify_album_id": "11E0Zcz6hs33WTWeli0N7W"
+    },
+    {
+      "canonical_slug": "billie-holiday--all-or-nothing-at-all",
+      "name": "All Or Nothing At All",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "spotify_album_id": "4euFXiaCTmBkwh9HXjagp9",
+      "musicbrainz_release_id": "7bc393ff-97bb-4b63-aa37-1f9f08430183",
+      "musicbrainz_release_group_id": "2cf5b1a1-423f-3ada-a445-eb78302a5c3d"
+    },
+    {
+      "canonical_slug": "billie-holiday--billie-holiday",
+      "name": "Billie Holiday",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "spotify_album_id": "4MkdTflpaaGGcXb5vtOYRs",
+      "musicbrainz_release_id": "0b77c15e-79b1-4030-93eb-afcd2cf96902",
+      "musicbrainz_release_group_id": "001e11cd-f76a-33d9-aac8-e9bfef38e5c7"
+    },
+    {
+      "canonical_slug": "billie-holiday--the-lady-sings",
+      "name": "The Lady Sings",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "spotify_album_id": "12Ie61TJvvha9qm27suytg",
+      "musicbrainz_release_id": "9b462659-bfdf-415b-bd94-75da82dc47df",
+      "musicbrainz_release_group_id": "c3e0a66c-1692-30b0-aab1-8f260eee5b1d"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "duke-ellington--fleurette-africaine-african-flower-remastered",
-      "name": "Fleurette Africaine (African Flower) - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "duke-ellington",
-      "primary_artist_name": "Duke Ellington",
-      "release_canonical_slug": "duke-ellington--money-jungle",
-      "release_name": "Money Jungle",
-      "spotify_track_id": "4Keh41jYFaVPP5C82DxmTG",
-      "spotify_url": "https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG"
+      "canonical_slug": "billie-holiday--i-m-a-fool-to-want-you",
+      "name": "I'm a Fool to Want You",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "release_canonical_slug": "billie-holiday--lady-in-satin-the-centennial-edition",
+      "release_name": "Lady In Satin: The Centennial Edition",
+      "spotify_track_id": "6SMbbPXKYIqOmmNulpuPSG",
+      "spotify_url": "https://open.spotify.com/track/6SMbbPXKYIqOmmNulpuPSG"
     },
     {
       "canonical_slug": "duke-ellington--stevie",
       "name": "Stevie",
-      "play_count": 1,
+      "play_count": 5,
       "primary_artist_canonical_slug": "duke-ellington",
       "primary_artist_name": "Duke Ellington",
       "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
@@ -173,15 +265,92 @@
       "spotify_url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
     },
     {
+      "canonical_slug": "duke-ellington--take-the-coltrane",
+      "name": "Take The Coltrane",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6aNnVdpAQu8R0qGq5NMXyZ",
+      "spotify_url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "canonical_slug": "billie-holiday--god-bless-the-child",
+      "name": "God Bless The Child",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "release_canonical_slug": "billie-holiday--lady-sings-the-blues",
+      "release_name": "Lady Sings The Blues",
+      "spotify_track_id": "6rX7Rgi2O5csTzLan7rL0c",
+      "spotify_url": "https://open.spotify.com/track/6rX7Rgi2O5csTzLan7rL0c"
+    },
+    {
+      "canonical_slug": "billie-holiday--solitude",
+      "name": "Solitude",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "release_canonical_slug": "billie-holiday--solitude",
+      "release_name": "Solitude",
+      "spotify_track_id": "30QD4VRP9yEneOh0eGTrtJ",
+      "spotify_url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
+    },
+    {
+      "canonical_slug": "duke-ellington--the-feeling-of-jazz",
+      "name": "The Feeling Of Jazz",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6aQjtWVOYLhaatELyPBt12",
+      "spotify_url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
+    },
+    {
       "canonical_slug": "gil-evans--will-o-the-wisp",
       "name": "Will O' the Wisp",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "gil-evans",
       "primary_artist_name": "Gil Evans",
       "release_canonical_slug": "gil-evans--sketches-of-spain",
       "release_name": "Sketches of Spain",
       "spotify_track_id": "3lpRlIEa9gnUXFHjDgI97p",
       "spotify_url": "https://open.spotify.com/track/3lpRlIEa9gnUXFHjDgI97p"
+    },
+    {
+      "canonical_slug": "duke-ellington--angelica",
+      "name": "Angelica",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "john-coltrane--late-night-john-coltrane",
+      "release_name": "Late Night John Coltrane",
+      "spotify_track_id": "5TH5dnCkxE1LUy6iutVJ0R",
+      "spotify_url": "https://open.spotify.com/track/5TH5dnCkxE1LUy6iutVJ0R"
+    },
+    {
+      "canonical_slug": "billie-holiday--autumn-in-new-york",
+      "name": "Autumn In New York",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "release_canonical_slug": "billie-holiday--recital",
+      "release_name": "Recital",
+      "spotify_track_id": "6o5RbQYhmF4yRRw7ZArxGL",
+      "spotify_url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
+    },
+    {
+      "canonical_slug": "billie-holiday--baby-i-don-t-cry-over-you",
+      "name": "Baby, I Don't Cry Over You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "release_canonical_slug": "billie-holiday--the-blues-are-brewin",
+      "release_name": "The Blues Are Brewin'",
+      "spotify_track_id": "5gXoSVnLyvxRFdvIhUElXS",
+      "spotify_url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     }
   ],
   "source_refs": [
@@ -190,6 +359,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

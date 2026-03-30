@@ -1,7 +1,9 @@
 {
   "canonical_slug": "shabaka",
   "name": "Shabaka",
+  "play_count": 1,
   "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+  "musicbrainz_artist_id": "5b0f26cc-1203-49d8-abe2-90bec87a2e71",
   "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js",
   "genres": [
     "ambient-jazz",
@@ -120,5 +122,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bryan_Derksen\" title=\"User:Bryan Derksen\"\u003eBryan Derksen\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

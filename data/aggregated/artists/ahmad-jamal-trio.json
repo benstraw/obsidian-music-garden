@@ -1,0 +1,43 @@
+{
+  "canonical_slug": "ahmad-jamal-trio",
+  "name": "Ahmad Jamal Trio",
+  "play_count": 32,
+  "spotify_artist_id": "0BqALs1lInR9TTOulUADH7",
+  "musicbrainz_artist_id": "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+  "spotify_url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7",
+  "genres": [
+    "jazz",
+    "soul"
+  ],
+  "source_genres": [
+    "1–4 wochen",
+    "jazz",
+    "offizielle charts",
+    "post-bop",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273b62b03a629fec8f1ac2d1c0d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e022eceabbc54b316b88e0bd8e7",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048512eceabbc54b316b88e0bd8e7",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Ahmad Jamal Trio Volume IV",
+    "Ahmad Jamal at the Top: Poinciana Revisited",
+    "The Ahmad Jamal Trio"
+  ],
+  "last_updated": "2026-03-28"
+}

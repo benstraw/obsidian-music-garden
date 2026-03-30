@@ -1,0 +1,40 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4UvhuGdFf75Cfan7lEU1J1",
+  "name": "The Books",
+  "spotify_url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1",
+  "musicbrainz_artist_id": "1270af14-9c17-4400-8ebb-3f0ac40dcfb0",
+  "source_genres": [
+    "electronic",
+    "experimental",
+    "folk",
+    "folktronica"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "experimental",
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "The Books",
+  "summary": "The Books were an American-Dutch duo, formed in New York City in 1999, consisting of guitarist and vocalist Nick Zammuto and cellist Paul de Jong. Their music typically incorporated samples of obscure sounds and speech. They released three critically acclaimed albums on the German label Tomlab, and released their fourth studio album, The Way Out, on Temporary Residence Limited in July 2010.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Books",
+  "candidates": [
+    "The Books",
+    "The Books of Abarat",
+    "The Books of Faerie",
+    "The Books of Homilies",
+    "The Books of Jacob",
+    "The Books of Magic",
+    "The Books of the Bible (book)",
+    "The Books of the Named",
+    "The Bookseller",
+    "The Bookshop (film)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Books",
+    "page_url": "https://en.wikipedia.org/wiki/The_Books",
+    "retrieved_at": "2026-03-28T10:43:05Z"
+  }
+}

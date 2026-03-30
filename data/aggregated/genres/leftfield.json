@@ -2,71 +2,8 @@
   "canonical_slug": "leftfield",
   "display_title": "Leftfield",
   "display_name": "Leftfield",
-  "parent_slug": "electronic",
-  "aliases": [
-    "leftfield"
-  ],
   "pending": true,
-  "status": "matched",
-  "wikipedia_title": "Leftfield",
-  "wikipedia_url": "https://en.wikipedia.org/wiki/Leftfield",
-  "summary": "Leftfield are a British electronic music group formed in London in 1989, a duo of Neil Barnes and Paul Daley. The duo was influential in the evolution of electronic music in the 1990s, with Mixmag describing them as \"the single most influential production team working in British dance music\". As with many of their contemporaries, such as The Chemical Brothers and Fatboy Slim, Leftfield are notable for their use of guest vocalists in their works. Among them are Toni Halliday on \"Original\", Johnny Rotten on \"Open Up\", Djum Djum on \"Afro-Left\", Earl 16 and Cheshire Cat on \"Release the Pressure\", and Grian Chatten of Fontaines D.C. on \"Full Way Round\". The term progressive house was coined to define their style, a fusion of house with dub and reggae.",
-  "candidates": [
-    "Left Field Lounge",
-    "Left Field Productions",
-    "Left field umpire",
-    "Left fielder",
-    "Left-field R\u0026B",
-    "Leftfield",
-    "Leftfield (disambiguation)",
-    "Leftfield Magazine",
-    "Leftfield hip hop",
-    "The Left Field"
-  ],
-  "attribution": {
-    "source": "wikipedia",
-    "page_title": "Leftfield",
-    "page_url": "https://en.wikipedia.org/wiki/Leftfield",
-    "retrieved_at": "2026-03-27T09:31:17Z"
-  },
-  "image": {
-    "source": "wikimedia-commons",
-    "file_title": "File:Djum Djum playing theremin.JPG",
-    "file_page_url": "https://commons.wikimedia.org/wiki/File:Djum_Djum_playing_theremin.JPG",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Djum_Djum_playing_theremin.JPG",
-    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Djum_Djum_playing_theremin.JPG/960px-Djum_Djum_playing_theremin.JPG",
-    "width": 2592,
-    "height": 1944,
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MartinPaulEve\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MartinPaulEve (page does not exist)\"\u003eMartinPaulEve\u003c/a\u003e"
-  },
-  "image_candidates": [
-    {
-      "source": "wikimedia-commons",
-      "file_title": "File:Djum Djum playing theremin.JPG",
-      "file_page_url": "https://commons.wikimedia.org/wiki/File:Djum_Djum_playing_theremin.JPG",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Djum_Djum_playing_theremin.JPG",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Djum_Djum_playing_theremin.JPG/960px-Djum_Djum_playing_theremin.JPG",
-      "width": 2592,
-      "height": 1944,
-      "license": "CC BY-SA 3.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MartinPaulEve\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MartinPaulEve (page does not exist)\"\u003eMartinPaulEve\u003c/a\u003e"
-    },
-    {
-      "source": "wikimedia-commons",
-      "file_title": "File:Leftfield (200519).jpg",
-      "file_page_url": "https://commons.wikimedia.org/wiki/File:Leftfield_(200519).jpg",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Leftfield_%28200519%29.jpg",
-      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Leftfield_%28200519%29.jpg",
-      "width": 900,
-      "height": 517,
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Tsaetre\" class=\"mw-redirect\" title=\"User:Tsaetre\"\u003eTore Sætre\u003c/a\u003e"
-    }
-  ],
+  "workflow_state": "draft",
   "listening_stats": {
     "source": "spotify-local-plays",
     "play_count": 0,
@@ -80,23 +17,6 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
-    },
-    {
-      "role": "editorial_summary",
-      "source": "wikipedia",
-      "path": "normalized/genres/wikipedia--leftfield.json",
-      "url": "https://en.wikipedia.org/wiki/Leftfield",
-      "retrieved_at": "2026-03-27T09:31:17Z",
-      "updated_at": "2026-03-27",
-      "note": "Editorial summary and page metadata come from Wikipedia normalization."
-    },
-    {
-      "role": "image_metadata",
-      "source": "wikimedia-commons",
-      "path": "normalized/genres/wikipedia--leftfield.json",
-      "url": "https://commons.wikimedia.org/wiki/File:Djum_Djum_playing_theremin.JPG",
-      "note": "Image metadata is carried forward for later review before downstream use."
     }
-  ],
-  "last_updated": "2026-03-27"
+  ]
 }

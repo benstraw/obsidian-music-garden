@@ -1,0 +1,112 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2ooIqOf4X2uz4mMptXCtie",
+  "name": "Neutral Milk Hotel",
+  "spotify_url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie",
+  "musicbrainz_artist_id": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
+  "source_genres": [
+    "alternative rock",
+    "anti-folk",
+    "elephant 6",
+    "folk punk",
+    "indie",
+    "indie folk",
+    "indie rock",
+    "lo-fi",
+    "noise pop"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "indie",
+    "indie-folk",
+    "indie-rock"
+  ],
+  "status": "matched",
+  "page_title": "Neutral Milk Hotel",
+  "summary": "Neutral Milk Hotel was an American band formed by Jeff Mangum in Ruston, Louisiana, in the late 1980s. They were active until 1998, and then from 2013 to 2015. The band's music featured a deliberately low-quality sound, influenced by indie rock and psychedelic folk. Mangum wrote surreal and opaque lyrics that covered a wide range of topics, including love, spirituality, nostalgia, sex, and loneliness. The band's recordings featured a variety of instruments, including non-traditional instruments like the singing saw and uilleann pipes.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Neutral_Milk_Hotel",
+  "candidates": [
+    "Neutral Milk Hotel",
+    "Neutral Milk Hotel discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neutral Milk Hotel",
+    "page_url": "https://en.wikipedia.org/wiki/Neutral_Milk_Hotel",
+    "retrieved_at": "2026-03-28T10:41:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Arcade Fire (27463874647).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Arcade_Fire_(27463874647).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Arcade_Fire_%2827463874647%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arcade_Fire_%2827463874647%29.jpg/960px-Arcade_Fire_%2827463874647%29.jpg",
+    "width": 5160,
+    "height": 3658,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11956470@N02\"\u003eleonardo samrani\u003c/a\u003e from rosario, argentina"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arcade Fire (27463874647).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arcade_Fire_(27463874647).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Arcade_Fire_%2827463874647%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arcade_Fire_%2827463874647%29.jpg/960px-Arcade_Fire_%2827463874647%29.jpg",
+      "width": 5160,
+      "height": 3658,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11956470@N02\"\u003eleonardo samrani\u003c/a\u003e from rosario, argentina"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jeff Mangum at the Atomic Music Hall, Athens, GA, circa 1997 (1296808020).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jeff_Mangum_at_the_Atomic_Music_Hall,_Athens,_GA,_circa_1997_(1296808020).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Jeff_Mangum_at_the_Atomic_Music_Hall%2C_Athens%2C_GA%2C_circa_1997_%281296808020%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jeff_Mangum_at_the_Atomic_Music_Hall%2C_Athens%2C_GA%2C_circa_1997_%281296808020%29.jpg/960px-Jeff_Mangum_at_the_Atomic_Music_Hall%2C_Athens%2C_GA%2C_circa_1997_%281296808020%29.jpg",
+      "width": 1086,
+      "height": 1638,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/44046918@N00\"\u003eMatt Billings\u003c/a\u003e",
+      "attribution_text": "Matt Billings"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jeff Mangum in 2014.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jeff_Mangum_in_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jeff_Mangum_in_2014.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Jeff_Mangum_in_2014.jpg/960px-Jeff_Mangum_in_2014.jpg",
+      "width": 4896,
+      "height": 3672,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "The Deli New England"
+    }
+  ]
+}

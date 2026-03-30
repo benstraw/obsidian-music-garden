@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "house",
+  "display_title": "House",
+  "display_name": "House",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "House",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/House",
+  "summary": "A house is a single-unit residential building. It may range in complexity from a rudimentary hut to a complex structure of wood, masonry, concrete or other material, outfitted with plumbing, electrical, and heating, ventilation, and air conditioning systems. Houses use a range of different roofing systems to keep precipitation such as rain from getting into the dwelling space. Houses generally have doors or locks to secure the dwelling space and protect its inhabitants and contents from burglars or other trespassers. Most conventional modern houses in Western cultures will contain one or more bedrooms and bathrooms, a kitchen or cooking area, and a living room. A house may have a separate dining room, or the eating area may be integrated into the kitchen or another room. Some large houses in North America have a recreation room. In traditional agriculture-oriented societies, domestic animals such as chickens or larger livestock may share part of the house with humans.",
+  "candidates": [
+    "House",
+    "House (TV series)",
+    "House Un-American Activities Committee",
+    "House of Bourbon",
+    "House of Commons of the United Kingdom",
+    "House of Habsburg",
+    "House of Lords",
+    "House of Romanov",
+    "House of Saud",
+    "House of the Dragon"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "House",
+    "page_url": "https://en.wikipedia.org/wiki/House",
+    "retrieved_at": "2026-03-28T15:57:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:103 Hanover.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:103_Hanover.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/103_Hanover.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/103_Hanover.jpg/960px-103_Hanover.jpg",
+    "width": 2373,
+    "height": 2238,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:ProfReader\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:ProfReader (page does not exist)\"\u003eProfReader\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:103 Hanover.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:103_Hanover.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/103_Hanover.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/103_Hanover.jpg/960px-103_Hanover.jpg",
+      "width": 2373,
+      "height": 2238,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:ProfReader\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:ProfReader (page does not exist)\"\u003eProfReader\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:14 Strada Vasile Conta, Bucharest (02).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:14_Strada_Vasile_Conta,_Bucharest_(02).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/14_Strada_Vasile_Conta%2C_Bucharest_%2802%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/14_Strada_Vasile_Conta%2C_Bucharest_%2802%29.jpg/960px-14_Strada_Vasile_Conta%2C_Bucharest_%2802%29.jpg",
+      "width": 1989,
+      "height": 2002,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Neoclassicism_Enthusiast\" title=\"User:Neoclassicism Enthusiast\"\u003eNeoclassicism Enthusiast\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:16, Calea Dorobanților, Bucharest (Romania) 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:16,_Calea_Doroban%C8%9Bilor,_Bucharest_(Romania)_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/16%2C_Calea_Doroban%C8%9Bilor%2C_Bucharest_%28Romania%29_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/16%2C_Calea_Doroban%C8%9Bilor%2C_Bucharest_%28Romania%29_1.jpg/960px-16%2C_Calea_Doroban%C8%9Bilor%2C_Bucharest_%28Romania%29_1.jpg",
+      "width": 2961,
+      "height": 2600,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Neoclassicism_Enthusiast\" title=\"User:Neoclassicism Enthusiast\"\u003eNeoclassicism Enthusiast\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:248 Ashley Ave - 2017.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:248_Ashley_Ave_-_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/248_Ashley_Ave_-_2017.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/248_Ashley_Ave_-_2017.jpg/960px-248_Ashley_Ave_-_2017.jpg",
+      "width": 1869,
+      "height": 1882,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:ProfReader\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:ProfReader (page does not exist)\"\u003eProfReader\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:8A, Bulevardul Aviatorilor , Bucharest (Romania).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:8A,_Bulevardul_Aviatorilor_,_Bucharest_(Romania).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/8A%2C_Bulevardul_Aviatorilor_%2C_Bucharest_%28Romania%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/8A%2C_Bulevardul_Aviatorilor_%2C_Bucharest_%28Romania%29.jpg/960px-8A%2C_Bulevardul_Aviatorilor_%2C_Bucharest_%28Romania%29.jpg",
+      "width": 3715,
+      "height": 2786,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Neoclassicism_Enthusiast\" title=\"User:Neoclassicism Enthusiast\"\u003eNeoclassicism Enthusiast\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--house.json",
+      "url": "https://en.wikipedia.org/wiki/House",
+      "retrieved_at": "2026-03-28T15:57:05Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--house.json",
+      "url": "https://commons.wikimedia.org/wiki/File:103_Hanover.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "jazz fusion"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Jazz fusion",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
@@ -96,64 +97,189 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 15,
-    "unique_artist_count": 2,
-    "unique_release_count": 5,
-    "unique_track_count": 6,
-    "first_played_at": "2026-02-26T02:46:11.482Z",
-    "last_played_at": "2026-03-19T01:35:34.990Z"
+    "play_count": 274,
+    "unique_artist_count": 13,
+    "unique_release_count": 76,
+    "unique_track_count": 196,
+    "first_played_at": "2024-01-01T00:00:00.060592468Z",
+    "last_played_at": "2026-03-29T04:18:25.665Z"
   },
   "top_artists": [
     {
       "canonical_slug": "miles-davis",
       "name": "Miles Davis",
-      "play_count": 13,
+      "play_count": 160,
       "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "musicbrainz_artist_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
       "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+    },
+    {
+      "canonical_slug": "yusef-lateef",
+      "name": "Yusef Lateef",
+      "play_count": 16,
+      "spotify_artist_id": "33XkS6h90eeK7e6OJHw0mq",
+      "musicbrainz_artist_id": "2968722f-03d8-4e2f-88bc-f9975f147503",
+      "spotify_url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+    },
+    {
+      "canonical_slug": "billy-cobham",
+      "name": "Billy Cobham",
+      "play_count": 15,
+      "spotify_artist_id": "0IwfuIL3gUJxjzUqY3wJ3j",
+      "musicbrainz_artist_id": "255497f8-26fb-4044-b97e-d4787d5974f6",
+      "spotify_url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
+    },
+    {
+      "canonical_slug": "chick-corea-elektric-band",
+      "name": "Chick Corea Elektric Band",
+      "play_count": 15,
+      "spotify_artist_id": "2ReTnNzaUAM6RgKCtlvMPf",
+      "musicbrainz_artist_id": "419c4478-1a5c-40e8-87e1-802cd7eb25c1",
+      "spotify_url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
+    },
+    {
+      "canonical_slug": "herbie-hancock",
+      "name": "Herbie Hancock",
+      "play_count": 15,
+      "spotify_artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "musicbrainz_artist_id": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+      "spotify_url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+    },
+    {
+      "canonical_slug": "chick-corea",
+      "name": "Chick Corea",
+      "play_count": 14,
+      "spotify_artist_id": "5olDKSsFhhmwh8UCWwKtpq",
+      "musicbrainz_artist_id": "8446fcca-109e-4c6d-a2ff-5a269b32b4c2",
+      "spotify_url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+    },
+    {
+      "canonical_slug": "return-to-forever",
+      "name": "Return To Forever",
+      "play_count": 12,
+      "spotify_artist_id": "1txWOvvuItlRlkB4rM0cUK",
+      "musicbrainz_artist_id": "5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36",
+      "spotify_url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
     },
     {
       "canonical_slug": "frank-zappa",
       "name": "Frank Zappa",
-      "play_count": 2,
+      "play_count": 8,
       "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "musicbrainz_artist_id": "e20747e7-55a4-452e-8766-7b985585082d",
       "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    {
+      "canonical_slug": "pat-metheny",
+      "name": "Pat Metheny",
+      "play_count": 7,
+      "spotify_artist_id": "3t58jfUhoMLYVO14XaUFLA",
+      "musicbrainz_artist_id": "7daac7f9-8fcc-485f-a14f-f8091d98cf25",
+      "spotify_url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+    },
+    {
+      "canonical_slug": "kurt-rosenwinkel",
+      "name": "Kurt Rosenwinkel",
+      "play_count": 4,
+      "spotify_artist_id": "253GMpCNwx1TJtASNAeDoP",
+      "musicbrainz_artist_id": "fc43556b-9657-4680-8809-e50295380f98",
+      "spotify_url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "miles-davis--miles-ahead-expanded-edition",
+      "name": "Miles Ahead (Expanded Edition)",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "6WOddaa5Vqp8gQZic8ZUw9"
+    },
+    {
+      "canonical_slug": "miles-davis--birth-of-the-cool",
+      "name": "Birth Of The Cool",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "0QWea2w5Y6pSoSWHuc7JMf",
+      "musicbrainz_release_id": "2c9af123-adef-4db0-9db8-145ce9b283c3",
+      "musicbrainz_release_group_id": "903d5fe8-ab43-33b2-9411-6738af50de19"
+    },
+    {
+      "canonical_slug": "chick-corea-elektric-band--the-chick-corea-elektric-band",
+      "name": "The Chick Corea Elektric Band",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "chick-corea-elektric-band",
+      "primary_artist_name": "Chick Corea Elektric Band",
+      "spotify_album_id": "19XYicKUAhG6g8cNcEHjjx",
+      "musicbrainz_release_id": "ccfe9661-6d79-4089-b1bf-424600305458",
+      "musicbrainz_release_group_id": "665adc8a-97ed-3faa-9613-5cf4eb978b98"
+    },
+    {
+      "canonical_slug": "miles-davis--bitches-brew-legacy-edition",
+      "name": "Bitches Brew (Legacy Edition)",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "1wVO8nHzgcim0IBzbXnYX0"
+    },
     {
       "canonical_slug": "miles-davis--in-a-silent-way",
       "name": "In A Silent Way",
       "play_count": 10,
       "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "0Hs3BomCdwIWRhgT57x22T",
+      "musicbrainz_release_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+      "musicbrainz_release_group_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3"
     },
     {
-      "canonical_slug": "frank-zappa--hot-rats",
-      "name": "Hot Rats",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "frank-zappa",
-      "primary_artist_name": "Frank Zappa"
-    },
-    {
-      "canonical_slug": "miles-davis--get-up-with-it",
-      "name": "Get Up With It",
-      "play_count": 1,
+      "canonical_slug": "miles-davis--porgy-and-bess",
+      "name": "Porgy And Bess",
+      "play_count": 9,
       "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "5TZUz4IkdUZY8i1cnbaAHz"
     },
     {
-      "canonical_slug": "miles-davis--someday-my-prince-will-come",
-      "name": "Someday My Prince Will Come",
-      "play_count": 1,
+      "canonical_slug": "miles-davis--round-about-midnight",
+      "name": "'Round About Midnight",
+      "play_count": 8,
       "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "4VUawqEDCHHfrUe77ScQ2K",
+      "musicbrainz_release_id": "0902b286-7ee1-4bb6-8373-f25e7aaac503",
+      "musicbrainz_release_group_id": "f493893b-3435-4c45-b38d-71cc8278fcab"
     },
     {
-      "canonical_slug": "miles-davis--volume-2-vol-2",
-      "name": "Volume 2 (Vol. 2)",
-      "play_count": 1,
+      "canonical_slug": "miles-davis--ascenseur-pour-l-échafaud",
+      "name": "Ascenseur pour l'échafaud",
+      "play_count": 8,
       "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "0aoOdlpGLfNCUFhQu7UIs2",
+      "musicbrainz_release_id": "2ee6e53c-29f8-4d9e-a6d5-c7816de60957",
+      "musicbrainz_release_group_id": "c5bfc8df-ca3a-3cd1-a8b7-b453e023a84c"
+    },
+    {
+      "canonical_slug": "billy-cobham--spectrum",
+      "name": "Spectrum",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "billy-cobham",
+      "primary_artist_name": "Billy Cobham",
+      "spotify_album_id": "5JmNk3ayVaujKO5hFvU5YA",
+      "musicbrainz_release_id": "b2784fc1-283f-4af7-8dc6-5061764e7076",
+      "musicbrainz_release_group_id": "30074be9-33ed-3b40-998d-ae60ef0ff0b9"
+    },
+    {
+      "canonical_slug": "return-to-forever--where-have-i-known-you-before",
+      "name": "Where Have I Known You Before",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "return-to-forever",
+      "primary_artist_name": "Return to Forever",
+      "spotify_album_id": "1LAARZVfnq12x7Ueei4jx7",
+      "musicbrainz_release_id": "a636a837-9e8d-4952-913d-1f5ce1b99c31",
+      "musicbrainz_release_group_id": "67111d58-d02b-36f3-9215-e196523b58a4"
     }
   ],
   "top_tracks": [
@@ -180,20 +306,20 @@
       "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
     },
     {
-      "canonical_slug": "frank-zappa--peaches-en-regalia",
-      "name": "Peaches En Regalia",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "frank-zappa",
-      "primary_artist_name": "Frank Zappa",
-      "release_canonical_slug": "frank-zappa--hot-rats",
-      "release_name": "Hot Rats",
-      "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
-      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+      "canonical_slug": "miles-davis--deception",
+      "name": "Deception",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--birth-of-the-cool",
+      "release_name": "Birth Of The Cool",
+      "spotify_track_id": "6Tq8Fj8jZQIO24XhXV5Dno",
+      "spotify_url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
     },
     {
       "canonical_slug": "miles-davis--drad-dog-feat-hank-mobley-wynton-kelly-paul-chambers-and-jimmy-cobb",
       "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "miles-davis",
       "primary_artist_name": "Miles Davis",
       "release_canonical_slug": "miles-davis--someday-my-prince-will-come",
@@ -202,26 +328,70 @@
       "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
     },
     {
-      "canonical_slug": "miles-davis--i-waited-for-you-remastered-1998",
-      "name": "I Waited For You - Remastered 1998",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--volume-2-vol-2",
-      "release_name": "Volume 2 (Vol. 2)",
-      "spotify_track_id": "5h7ww9vWMlfYJ2cPhmt9pz",
-      "spotify_url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+      "canonical_slug": "frank-zappa--peaches-en-regalia",
+      "name": "Peaches En Regalia",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa",
+      "release_canonical_slug": "frank-zappa--hot-rats",
+      "release_name": "Hot Rats",
+      "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
+      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
     },
     {
-      "canonical_slug": "miles-davis--red-china-blues",
-      "name": "Red China Blues",
-      "play_count": 1,
+      "canonical_slug": "miles-davis--airegin-rvg-remaster",
+      "name": "Airegin - RVG Remaster",
+      "play_count": 2,
       "primary_artist_canonical_slug": "miles-davis",
       "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--get-up-with-it",
-      "release_name": "Get Up With It",
-      "spotify_track_id": "0AEXHSEdAohlHhYIt6tcUf",
-      "spotify_url": "https://open.spotify.com/track/0AEXHSEdAohlHhYIt6tcUf"
+      "release_canonical_slug": "miles-davis--bags-groove-rudy-van-gelder-remaster",
+      "release_name": "Bags' Groove (Rudy Van Gelder Remaster)",
+      "spotify_track_id": "6KvK5mvFIx4JjfVU0gjl7j",
+      "spotify_url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+    },
+    {
+      "canonical_slug": "chick-corea-elektric-band--all-love",
+      "name": "All Love",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "chick-corea-elektric-band",
+      "primary_artist_name": "Chick Corea Elektric Band",
+      "release_canonical_slug": "chick-corea-elektric-band--the-chick-corea-elektric-band",
+      "release_name": "The Chick Corea Elektric Band",
+      "spotify_track_id": "2F8ibaJYtqHWu9bBPis7SO",
+      "spotify_url": "https://open.spotify.com/track/2F8ibaJYtqHWu9bBPis7SO"
+    },
+    {
+      "canonical_slug": "miles-davis--all-of-you-feat-john-coltrane-red-garland-paul-chambers-and-philly-joe-jones",
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers \u0026 Philly Joe Jones)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--round-about-midnight",
+      "release_name": "'Round About Midnight",
+      "spotify_track_id": "21HG0QIgIcVQ2EZeXubaqL",
+      "spotify_url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
+    },
+    {
+      "canonical_slug": "billy-cobham--anxiety",
+      "name": "Anxiety",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "billy-cobham",
+      "primary_artist_name": "Billy Cobham",
+      "release_canonical_slug": "billy-cobham--spectrum",
+      "release_name": "Spectrum",
+      "spotify_track_id": "01GiWvFmDRcaUBQEqLdNTU",
+      "spotify_url": "https://open.spotify.com/track/01GiWvFmDRcaUBQEqLdNTU"
+    },
+    {
+      "canonical_slug": "billy-cobham--bandits",
+      "name": "Bandits",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "billy-cobham",
+      "primary_artist_name": "Billy Cobham",
+      "release_canonical_slug": "billy-cobham--total-eclipse",
+      "release_name": "Total Eclipse",
+      "spotify_track_id": "0iV8XfcmnpqT7OIOI6nWcI",
+      "spotify_url": "https://open.spotify.com/track/0iV8XfcmnpqT7OIOI6nWcI"
     }
   ],
   "source_refs": [
@@ -230,6 +400,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -251,9 +427,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-19T01:35:34.990Z",
+      "updated_at": "2026-03-29T04:18:25.665Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:18:25.665Z"
 }

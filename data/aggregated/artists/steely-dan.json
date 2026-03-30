@@ -1,7 +1,9 @@
 {
   "canonical_slug": "steely-dan",
   "name": "Steely Dan",
+  "play_count": 49,
   "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
+  "musicbrainz_artist_id": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
   "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
   "genres": [
     "classic-rock",
@@ -113,5 +115,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/43547797@N00\"\u003eCarl Lender\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

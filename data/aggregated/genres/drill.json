@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "drill",
+  "display_title": "Drill",
+  "display_name": "Drill",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Drill",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Drill",
+  "summary": "A drill is a tool used for making round holes or driving fasteners. It is fitted with a drill bit for making holes, or a screwdriver bit for securing fasteners. Historically, they were powered by hand, and later mains power, but cordless battery-powered drills are proliferating due to increased efficiency and ease of use.",
+  "candidates": [
+    "Drill",
+    "Drill bit",
+    "Drill commands",
+    "Drill instructor",
+    "Drill music",
+    "Drill team",
+    "Drilling",
+    "Drilling fluid",
+    "Drilling rig",
+    "Drillmatic – Heart vs. Mind"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Drill",
+    "page_url": "https://en.wikipedia.org/wiki/Drill",
+    "retrieved_at": "2026-03-28T15:55:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bosch GBH5-40 LargeDrill.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bosch_GBH5-40_LargeDrill.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bosch_GBH5-40_LargeDrill.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bosch_GBH5-40_LargeDrill.jpg/960px-Bosch_GBH5-40_LargeDrill.jpg",
+    "width": 1916,
+    "height": 1064,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:KVDP\" class=\"mw-redirect\" title=\"User:KVDP\"\u003eKVDP\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bosch GBH5-40 LargeDrill.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bosch_GBH5-40_LargeDrill.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bosch_GBH5-40_LargeDrill.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bosch_GBH5-40_LargeDrill.jpg/960px-Bosch_GBH5-40_LargeDrill.jpg",
+      "width": 1916,
+      "height": 1064,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:KVDP\" class=\"mw-redirect\" title=\"User:KVDP\"\u003eKVDP\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CordlessDrill.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CordlessDrill.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/CordlessDrill.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CordlessDrill.jpg/960px-CordlessDrill.jpg",
+      "width": 2190,
+      "height": 1751,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Greg5030\" title=\"User:Greg5030\"\u003eGreg Hume\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Drill004cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Drill004cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Drill004cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drill004cropped.jpg/960px-Drill004cropped.jpg",
+      "width": 2820,
+      "height": 980,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Jayess\" class=\"extiw\" title=\"wikipedia:User:Jayess\"\u003eJayess\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Drill scheme.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Drill_scheme.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Drill_scheme.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Drill_scheme.svg/960px-Drill_scheme.svg.png",
+      "width": 744,
+      "height": 1052,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:W%C5%82odzimierz_Wysocki\" title=\"User:Włodzimierz Wysocki\"\u003eWłodzimierz Wysocki\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Drillpress.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Drillpress.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Drillpress.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Drillpress.jpg/960px-Drillpress.jpg",
+      "width": 1800,
+      "height": 1200,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:LHOON\" class=\"extiw\" title=\"en:User:LHOON\"\u003eLHOON\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--drill.json",
+      "url": "https://en.wikipedia.org/wiki/Drill",
+      "retrieved_at": "2026-03-28T15:55:05Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--drill.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Bosch_GBH5-40_LargeDrill.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

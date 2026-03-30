@@ -1,0 +1,26 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4v0R1feRiuCDch7aAheVhY",
+  "name": "John McLaughlin",
+  "spotify_url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY",
+  "musicbrainz_artist_id": "fcbc2086-5863-4659-b03d-44be704697d2",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "John McLaughlin",
+    "John McLaughlin (American football)",
+    "John McLaughlin (artist)",
+    "John McLaughlin (footballer, born 1948)",
+    "John McLaughlin (footballer, born 1952)",
+    "John McLaughlin (host)",
+    "John McLaughlin (musician)",
+    "John McLaughlin (pollster)",
+    "John McLaughlin Williams",
+    "John McLaughlin discography"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "earl-hooker",
+  "name": "Earl Hooker",
+  "play_count": 5,
+  "spotify_artist_id": "3Ev1WS21x5Jav9j214A19O",
+  "musicbrainz_artist_id": "ef11dd9b-4557-4fc5-b0e2-a431c5cfddbb",
+  "spotify_url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O",
+  "genres": [
+    "blues"
+  ],
+  "source_genres": [
+    "blues",
+    "chicago blues",
+    "electric blues"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9ee094ea44193592aeb7250dcad77926f296252c",
+      "height": 685,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/9b12f760c74d80cab27a5ccc2965d98a5f6f755f",
+      "height": 438,
+      "width": 639
+    },
+    {
+      "url": "https://i.scdn.co/image/f8ccc5632a24cc419e2d22ea9671c9f2c16607bf",
+      "height": 137,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/83524d8a5aac50404c649865a67b0b3f664a13a5",
+      "height": 44,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Earl Hooker",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Earl_Hooker",
+  "summary": "Earl Zebedee Hooker was a Chicago blues guitarist known for his slide guitar playing. Considered a \"musician's musician\", he performed with blues artists such as Sonny Boy Williamson II, Junior Wells, and John Lee Hooker and fronted his own bands. An early player of the electric guitar, Hooker was influenced by the modern urban styles of T-Bone Walker and Robert Nighthawk. He recorded several singles and albums as a bandleader and with other well-known artists. His \"Blue Guitar\", a slide guitar instrumental single, was popular in the Chicago area and was later overdubbed with vocals by Muddy Waters as \"You Shook Me\".",
+  "candidates": [
+    "Ear Booker Polka",
+    "Earl Cooper",
+    "Earl Cooper (American football)",
+    "Earl Hofert",
+    "Earl Hooker",
+    "Earl Horter",
+    "Earl of Holderness"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Earl Hooker",
+    "page_url": "https://en.wikipedia.org/wiki/Earl_Hooker",
+    "retrieved_at": "2026-03-28T10:38:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:American blues guitarist Earl Hooker.png"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:American blues guitarist Earl Hooker.png"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

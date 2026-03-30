@@ -1,0 +1,102 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5zaXYwewAXedKNCff45U5l",
+  "name": "Dusty Springfield",
+  "spotify_url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l",
+  "musicbrainz_artist_id": "b896aa8c-2761-40ce-b485-0e1fffd26167",
+  "source_genres": [
+    "pop",
+    "rock",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "pop",
+    "rock",
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Dusty Springfield",
+  "summary": "Mary Isobel Catherine Bernadette O'Brien, better known by her stage name Dusty Springfield, was an English singer. With her distinctive mezzo-soprano voice, she was a popular singer of blue-eyed soul, pop, and dramatic ballads, with French chanson, country, and jazz also in her repertoire. During her 1960s peak, she ranked among the most successful British performers on both sides of the Atlantic. Her image – marked by a peroxide blonde bouffant/beehive hairstyle, heavy makeup and evening gowns, as well as stylised, gestural performances – made her an icon of the Swinging Sixties.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Dusty_Springfield",
+  "candidates": [
+    "Dusty Springfield",
+    "Dusty Springfield discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dusty Springfield",
+    "page_url": "https://en.wikipedia.org/wiki/Dusty_Springfield",
+    "retrieved_at": "2026-03-28T10:38:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dusty Springfield.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dusty_Springfield.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dusty_Springfield.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dusty_Springfield.png",
+    "width": 527,
+    "height": 645,
+    "license": "Public domain",
+    "author": "Philips Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dusty Springfield.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dusty_Springfield.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dusty_Springfield.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dusty_Springfield.png",
+      "width": 527,
+      "height": 645,
+      "license": "Public domain",
+      "author": "Philips Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dusty Springfield Green Plaque in Ealing, West London.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dusty_Springfield_Green_Plaque_in_Ealing,_West_London.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dusty_Springfield_Green_Plaque_in_Ealing%2C_West_London.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dusty_Springfield_Green_Plaque_in_Ealing%2C_West_London.jpg/960px-Dusty_Springfield_Green_Plaque_in_Ealing%2C_West_London.jpg",
+      "width": 3229,
+      "height": 3229,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Roger_green\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Roger green (page does not exist)\"\u003eRoger Green\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dusty Springfield Sanremo 1965 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dusty_Springfield_Sanremo_1965_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dusty_Springfield_Sanremo_1965_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dusty_Springfield_Sanremo_1965_%28cropped%29.jpg",
+      "width": 705,
+      "height": 807,
+      "license": "Public domain",
+      "author": "Dezo Hoffman"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dusty Springfield blue plaque.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dusty_Springfield_blue_plaque.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dusty_Springfield_blue_plaque.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dusty_Springfield_blue_plaque.jpg/960px-Dusty_Springfield_blue_plaque.jpg",
+      "width": 3065,
+      "height": 3002,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Edwardx\" title=\"User:Edwardx\"\u003eEdwardx\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dusty Springfield niet op Grand Gala du Disque. Hier tijdens een bezoek in het S, Bestanddeelnr 921-1468.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dusty_Springfield_niet_op_Grand_Gala_du_Disque._Hier_tijdens_een_bezoek_in_het_S,_Bestanddeelnr_921-1468.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dusty_Springfield_niet_op_Grand_Gala_du_Disque._Hier_tijdens_een_bezoek_in_het_S%2C_Bestanddeelnr_921-1468.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dusty_Springfield_niet_op_Grand_Gala_du_Disque._Hier_tijdens_een_bezoek_in_het_S%2C_Bestanddeelnr_921-1468.jpg/960px-Dusty_Springfield_niet_op_Grand_Gala_du_Disque._Hier_tijdens_een_bezoek_in_het_S%2C_Bestanddeelnr_921-1468.jpg",
+      "width": 3703,
+      "height": 2455,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Anefo"
+    }
+  ]
+}

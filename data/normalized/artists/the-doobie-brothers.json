@@ -1,0 +1,18 @@
+{
+  "source": "spotify",
+  "source_artist_id": "39T6qqI0jDtSWWioX8eGJz",
+  "name": "The Doobie Brothers",
+  "spotify_url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz",
+  "source_genres": [
+    "classic rock",
+    "soft rock",
+    "southern rock",
+    "yacht rock"
+  ],
+  "canonical_genre_slugs": [
+    "classic-rock",
+    "soft-rock",
+    "southern-rock",
+    "yacht-rock"
+  ]
+}

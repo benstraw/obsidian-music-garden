@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "the-vaselines",
+  "name": "The Vaselines",
+  "play_count": 9,
+  "spotify_artist_id": "4wWQkHhmUNlXvhbHRUSqZW",
+  "musicbrainz_artist_id": "a70b63fd-cae7-4a5f-b338-b18343f3ee2f",
+  "spotify_url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW",
+  "source_genres": [
+    "british",
+    "classic pop and rock",
+    "scottish",
+    "uk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c5dae35d84770d8647c853cae",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd225dae35d84770d8647c853cae",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac35dae35d84770d8647c853cae",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f745dae35d84770d8647c853cae",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Vaselines",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Vaselines",
+  "summary": "The Vaselines are a Scottish alternative rock band. Formed in Glasgow in 1986, the band was originally a duo between its songwriters Eugene Kelly and Frances McKee, but later added James Seenan and Eugene's brother Charlie Kelly on bass and drums respectively from the band Secession.",
+  "candidates": [
+    "The Javelins",
+    "The Vaselines"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Vaselines",
+    "page_url": "https://en.wikipedia.org/wiki/The_Vaselines",
+    "retrieved_at": "2026-03-28T10:43:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Frances mckee.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Frances_mckee.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Frances_mckee.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Frances_mckee.jpg",
+    "width": 282,
+    "height": 368,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Utilizer\" title=\"User:Utilizer\"\u003eUtilizer\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frances mckee.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frances_mckee.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Frances_mckee.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Frances_mckee.jpg",
+      "width": 282,
+      "height": 368,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Utilizer\" title=\"User:Utilizer\"\u003eUtilizer\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Vaselines 2014.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Vaselines_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Vaselines_2014.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Vaselines_2014.jpg/960px-The_Vaselines_2014.jpg",
+      "width": 5472,
+      "height": 3648,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Aurelien Guichard"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,101 @@
+{
+  "canonical_slug": "chicago-hardcore",
+  "display_title": "Chicago Hardcore",
+  "display_name": "Chicago Hardcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Chicago hardcore",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago_hardcore",
+  "summary": "Chicago hardcore is the hardcore punk scene of Chicago and its surrounding area. It began in the 1980s with post-hardcore bands Naked Raygun, Big Black and the Effigies. By the 1990s, the scene had developed two separate sizable scenes: a straight edge metalcore scene including Arma Angelus and Racetraitor; and a thrashcore scene based on the South Side, including Los Crudos and Charles Bronson. During this time, Victory Records was founded in the city. They would go on to be one of the most prominent record labels in hardcore, releasing albums by seminal metalcore bands Integrity, Hatebreed and All Out War, as well as emo and pop-punk groups including Taking Back Sunday, Hawthorne Heights and A Day to Remember. Chicago hardcore experienced a mainstream crossover in the 2000s, when bands originating from the scene, including Rise Against, Fall Out Boy and the Lawrence Arms, received international success.",
+  "candidates": [
+    "Chicago hardcore"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chicago hardcore",
+    "page_url": "https://en.wikipedia.org/wiki/Chicago_hardcore",
+    "retrieved_at": "2026-03-28T15:54:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:AndyHurley2014.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:AndyHurley2014.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/AndyHurley2014.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AndyHurley2014.JPG/960px-AndyHurley2014.JPG",
+    "width": 4000,
+    "height": 3000,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bulba2036\" title=\"User:Bulba2036\"\u003eBulba2036\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AndyHurley2014.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AndyHurley2014.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/AndyHurley2014.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AndyHurley2014.JPG/960px-AndyHurley2014.JPG",
+      "width": 4000,
+      "height": 3000,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bulba2036\" title=\"User:Bulba2036\"\u003eBulba2036\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:RiseAgainst2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:RiseAgainst2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RiseAgainst2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/RiseAgainst2012.jpg",
+      "width": 960,
+      "height": 720,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://it.wikipedia.org/wiki/Utente:Fringio\" class=\"extiw\" title=\"it:Utente:Fringio\"\u003eFringio\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Steve Albini.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Steve_Albini.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Steve_Albini.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Steve_Albini.jpg/960px-Steve_Albini.jpg",
+      "width": 2000,
+      "height": 1333,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mixwiththemasters\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mixwiththemasters (page does not exist)\"\u003eMixwiththemasters\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chicago-hardcore.json",
+      "url": "https://en.wikipedia.org/wiki/Chicago_hardcore",
+      "retrieved_at": "2026-03-28T15:54:08Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chicago-hardcore.json",
+      "url": "https://commons.wikimedia.org/wiki/File:AndyHurley2014.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

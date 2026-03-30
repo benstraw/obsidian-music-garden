@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "jazz-piano",
+  "display_title": "Jazz Piano",
+  "display_name": "Jazz Piano",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Jazz piano",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_piano",
+  "summary": "Jazz piano is a collective term for the techniques pianists use when playing jazz. The piano has been an integral part of the jazz idiom since its inception, in both solo and ensemble settings. Its role is multifaceted due largely to the instrument's combined melodic and harmonic capabilities. For this reason it is an important tool of jazz musicians and composers for teaching and learning jazz theory and set arrangement, regardless of their main instrument. By extension the phrase 'jazz piano' can refer to similar techniques on any keyboard instrument.",
+  "candidates": [
+    "Jazz Dialogue",
+    "Jazz Giant",
+    "Jazz Giant (Benny Carter album)",
+    "Jazz Giants '58",
+    "Jazz Manouche",
+    "Jazz Piano Book",
+    "Jazz Piano Lineage",
+    "Jazz minor scale",
+    "Jazz pianists",
+    "Jazz piano"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz piano",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_piano",
+    "retrieved_at": "2026-03-28T15:57:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bill Evans.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Evans.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bill_Evans.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bill_Evans.jpg",
+    "width": 504,
+    "height": 567,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Evans.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Evans.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bill_Evans.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bill_Evans.jpg",
+      "width": 504,
+      "height": 567,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ODJBcard.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:ODJBcard.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/ODJBcard.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/ODJBcard.JPG",
+      "width": 545,
+      "height": 335,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-piano.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_piano",
+      "retrieved_at": "2026-03-28T15:57:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-piano.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Bill_Evans.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

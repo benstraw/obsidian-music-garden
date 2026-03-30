@@ -1,0 +1,76 @@
+{
+  "canonical_slug": "free-improvisation",
+  "display_title": "Free Improvisation",
+  "display_name": "Free Improvisation",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Free improvisation",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Free_improvisation",
+  "summary": "Free improvisation is a form of improvised music centered on a commitment to non-idiomatic musical expression. It developed through free jazz, serialism and indeterminacy, and is characterized by a general rejection of formal music theory and tonality, instead following the intuition of its performers and the exploration of dynamic, timbre and texture. The term can refer to both a technique—employed by any musician in any genre—and as a recognizable genre of experimental music in its own right.",
+  "candidates": [
+    "Free improvisation"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Free improvisation",
+    "page_url": "https://en.wikipedia.org/wiki/Free_improvisation",
+    "retrieved_at": "2026-03-28T15:56:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--free-improvisation.json",
+      "url": "https://en.wikipedia.org/wiki/Free_improvisation",
+      "retrieved_at": "2026-03-28T15:56:09Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--free-improvisation.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

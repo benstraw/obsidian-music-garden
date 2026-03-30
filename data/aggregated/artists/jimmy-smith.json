@@ -1,0 +1,47 @@
+{
+  "canonical_slug": "jimmy-smith",
+  "name": "Jimmy Smith",
+  "play_count": 17,
+  "spotify_artist_id": "5GXruybcLmXPjR9rKKFyS6",
+  "musicbrainz_artist_id": "4f8a0d9b-5777-40da-b29a-e9753d5ae693",
+  "spotify_url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "easy listening",
+    "jazz",
+    "jazz/soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6c3dfd0a4ae3804d6b07fafb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051746c3dfd0a4ae3804d6b07fafb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1786c3dfd0a4ae3804d6b07fafb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Jimmy Smith",
+    "Jimmy Smith (Australian footballer)",
+    "Jimmy Smith (cornerback)",
+    "Jimmy Smith (fighter)",
+    "Jimmy Smith (footballer, born 1947)",
+    "Jimmy Smith (footballer, born 1987)",
+    "Jimmy Smith (musician)",
+    "Jimmy Smith (wide receiver)",
+    "Jimmy Smith at the Organ (1957 albums)",
+    "Jimmy Smith discography"
+  ],
+  "last_updated": "2026-03-28"
+}

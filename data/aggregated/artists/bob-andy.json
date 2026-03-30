@@ -1,0 +1,66 @@
+{
+  "canonical_slug": "bob-andy",
+  "name": "Bob Andy",
+  "play_count": 13,
+  "spotify_artist_id": "6GFAZnwXhNER0WS76WMpS4",
+  "musicbrainz_artist_id": "c6df8ff5-cdea-4699-8579-89c007f7193c",
+  "spotify_url": "https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4",
+  "genres": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "source_genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9910fd0d90acf9200be50a43",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749910fd0d90acf9200be50a43",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789910fd0d90acf9200be50a43",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Bob Andy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Andy",
+  "summary": "Keith Anderson CD, better known by the stage name Bob Andy, was a Jamaican reggae vocalist and songwriter. He was widely regarded as one of reggae's most influential songwriters.",
+  "candidates": [
+    "Bob Andrews (guitarist)",
+    "Bob Andy",
+    "Bob Andy and Marcia Griffiths",
+    "Bob Andy's Song Book",
+    "Bob Dylan",
+    "Bob Dylan discography",
+    "Bob and Doug McKenzie",
+    "Bob and Margaret",
+    "Bob and Ray",
+    "Bob and the Showgram"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bob Andy",
+    "page_url": "https://en.wikipedia.org/wiki/Bob_Andy",
+    "retrieved_at": "2026-03-28T10:37:38Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bob Andy.jpeg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob Andy.jpeg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

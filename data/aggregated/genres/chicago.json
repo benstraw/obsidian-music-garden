@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "chicago",
+  "display_title": "Chicago",
+  "display_name": "Chicago",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Chicago",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago",
+  "summary": "Chicago is the most populous city in the U.S. state of Illinois and in the Midwestern United States. Located on the western shore of Lake Michigan, it is the third-most populous city in the United States, with a population of 2.74 million at the 2020 census. The Chicago metropolitan area has 9.41 million residents and is the third-largest metropolitan area in the country. Chicago is the seat of Cook County, the second-most populous county in the U.S.",
+  "candidates": [
+    "Chicago",
+    "Chicago (band)",
+    "Chicago (musical)",
+    "Chicago Bulls",
+    "Chicago Cubs",
+    "Chicago Fire FC",
+    "Chicago Outfit",
+    "Chicago White Sox",
+    "Chicago metropolitan area",
+    "University of Chicago"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chicago",
+    "page_url": "https://en.wikipedia.org/wiki/Chicago",
+    "retrieved_at": "2026-03-28T15:54:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1968 Democratic National Convention, Chicago. Sept 68 C15 8 1313, Photo by Bea A Corson, Chicago. Purchased at estate sale in 2011 by Victor Grigas Released Public Domain.tiff",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1968_Democratic_National_Convention,_Chicago._Sept_68_C15_8_1313,_Photo_by_Bea_A_Corson,_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1968_Democratic_National_Convention%2C_Chicago._Sept_68_C15_8_1313%2C_Photo_by_Bea_A_Corson%2C_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/1968_Democratic_National_Convention%2C_Chicago._Sept_68_C15_8_1313%2C_Photo_by_Bea_A_Corson%2C_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff/lossy-page1-960px-thumbnail.tiff.jpg",
+    "width": 4457,
+    "height": 3922,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Bea A Carson"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1968 Democratic National Convention, Chicago. Sept 68 C15 8 1313, Photo by Bea A Corson, Chicago. Purchased at estate sale in 2011 by Victor Grigas Released Public Domain.tiff",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1968_Democratic_National_Convention,_Chicago._Sept_68_C15_8_1313,_Photo_by_Bea_A_Corson,_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/1968_Democratic_National_Convention%2C_Chicago._Sept_68_C15_8_1313%2C_Photo_by_Bea_A_Corson%2C_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/1968_Democratic_National_Convention%2C_Chicago._Sept_68_C15_8_1313%2C_Photo_by_Bea_A_Corson%2C_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff/lossy-page1-960px-thumbnail.tiff.jpg",
+      "width": 4457,
+      "height": 3922,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Bea A Carson"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2004-09-07 1800x2400 chicago picasso.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2004-09-07_1800x2400_chicago_picasso.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/2004-09-07_1800x2400_chicago_picasso.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2004-09-07_1800x2400_chicago_picasso.jpg/960px-2004-09-07_1800x2400_chicago_picasso.jpg",
+      "width": 1800,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jcrocker\" title=\"User:Jcrocker\"\u003eJ. Crocker\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:20070909 Chicago Half Marathon.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:20070909_Chicago_Half_Marathon.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/20070909_Chicago_Half_Marathon.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/20070909_Chicago_Half_Marathon.JPG/960px-20070909_Chicago_Half_Marathon.JPG",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:TonyTheTiger\" class=\"extiw\" title=\"en:User:TonyTheTiger\"\u003een:User:TonyTheTiger\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:TonyTheTiger\" class=\"extiw\" title=\"wikipedia:User:TonyTheTiger\"\u003eTonyTheTiger\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2010-03-03 1856x2784 chicago chicago building.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2010-03-03_1856x2784_chicago_chicago_building.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/2010-03-03_1856x2784_chicago_chicago_building.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2010-03-03_1856x2784_chicago_chicago_building.jpg/960px-2010-03-03_1856x2784_chicago_chicago_building.jpg",
+      "width": 1280,
+      "height": 2304,
+      "license": "Attribution",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jcrocker\" title=\"User:Jcrocker\"\u003eJ. Crocker\u003c/a\u003e",
+      "attribution_text": "J. Crocker"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:20140802 38 Divvy Bikes (20836684981).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:20140802_38_Divvy_Bikes_(20836684981).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/20140802_38_Divvy_Bikes_%2820836684981%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/20140802_38_Divvy_Bikes_%2820836684981%29.jpg/960px-20140802_38_Divvy_Bikes_%2820836684981%29.jpg",
+      "width": 4000,
+      "height": 3000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32693718@N07\"\u003eDavid Wilson\u003c/a\u003e from Oak Park, Illinois, USA"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chicago.json",
+      "url": "https://en.wikipedia.org/wiki/Chicago",
+      "retrieved_at": "2026-03-28T15:54:06Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chicago.json",
+      "url": "https://commons.wikimedia.org/wiki/File:1968_Democratic_National_Convention,_Chicago._Sept_68_C15_8_1313,_Photo_by_Bea_A_Corson,_Chicago._Purchased_at_estate_sale_in_2011_by_Victor_Grigas_Released_Public_Domain.tiff",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

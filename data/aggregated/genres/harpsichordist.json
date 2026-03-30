@@ -1,0 +1,80 @@
+{
+  "canonical_slug": "harpsichordist",
+  "display_title": "Harpsichordist",
+  "display_name": "Harpsichordist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Harpsichordist",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harpsichordist",
+  "summary": "A harpsichordist is a person who plays the harpsichord. Harpsichordists may play as soloists, as accompanists, as chamber musicians, or as members of an orchestra, or some combination of these roles. Solo harpsichordists may play unaccompanied sonatas for harpsichord or concertos accompanied by orchestra. Accompanist harpsichordists might accompany singers or instrumentalists, either playing works written for a voice and harpsichord or an orchestral reduction of the orchestra parts. Chamber musician harpsichordists could play in small groups of instrumentalists, such as a quartet or quintet. Baroque-style orchestras and opera pit orchestras typically have a harpsichordist to play the chords in the basso continuo part.",
+  "candidates": [
+    "Harpsichord",
+    "Harpsichordist",
+    "Harpsichordists"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Harpsichordist",
+    "page_url": "https://en.wikipedia.org/wiki/Harpsichordist",
+    "retrieved_at": "2026-03-28T15:57:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Trevor Pinnock 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Trevor_Pinnock_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trevor_Pinnock_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Trevor_Pinnock_2.jpg/960px-Trevor_Pinnock_2.jpg",
+    "width": 1168,
+    "height": 1752,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Andrew Stepan: \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.andrewstepanphotography.co.uk/\"\u003ehttp://www.andrewstepanphotography.co.uk/\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Trevor Pinnock 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Trevor_Pinnock_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trevor_Pinnock_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Trevor_Pinnock_2.jpg/960px-Trevor_Pinnock_2.jpg",
+      "width": 1168,
+      "height": 1752,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Andrew Stepan: \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.andrewstepanphotography.co.uk/\"\u003ehttp://www.andrewstepanphotography.co.uk/\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--harpsichordist.json",
+      "url": "https://en.wikipedia.org/wiki/Harpsichordist",
+      "retrieved_at": "2026-03-28T15:57:00Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--harpsichordist.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Trevor_Pinnock_2.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

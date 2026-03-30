@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3uFZf8rykoHo7XMIQVYW6r",
   "name": "Axis: Bold As Love",
-  "primary_artist_name": "Jimi Hendrix",
-  "primary_artist_canonical_slug": "jimi-hendrix"
+  "primary_artist_name": "The Jimi Hendrix Experience",
+  "primary_artist_canonical_slug": "jimi-hendrix",
+  "musicbrainz_release_id": "a2662ae2-f06b-3cdd-892f-596646c03558",
+  "musicbrainz_release_group_id": "d0b1e21e-cef6-4575-8d92-1afea1894ca3"
 }

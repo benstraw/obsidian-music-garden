@@ -1,0 +1,30 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1LxdCpPSFpzNBKyQI22aDz",
+  "name": "Les Rallizes Dénudés",
+  "spotify_url": "https://open.spotify.com/artist/1LxdCpPSFpzNBKyQI22aDz",
+  "musicbrainz_artist_id": "6c37aa40-5c3b-424f-ab4a-41c46efae304",
+  "status": "matched",
+  "page_title": "Les Rallizes Dénudés",
+  "summary": "Les Rallizes Dénudés  were a Japanese psychedelic noise rock band formed in 1967 in Kyoto, Japan. They gained a reputation many years after their breakup as one of Japan's most legendary experimental bands, and were a forcible influence on the noise rock scene within Japan and abroad. Much of their popularity comes from their enigmatic, mysterious presence on and off stage, a scarcity of official releases and information on the band, an abnormally high number of live bootlegs from throughout their career, and a strong cult following.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Les_Rallizes_D%C3%A9nud%C3%A9s",
+  "candidates": [
+    "Les Rallizes Dénudés"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Les Rallizes Dénudés",
+    "page_url": "https://en.wikipedia.org/wiki/Les_Rallizes_D%C3%A9nud%C3%A9s",
+    "retrieved_at": "2026-03-28T10:40:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Les Rallizes Dénudés - 1974.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Les Rallizes Dénudés - 1974.jpg"
+    }
+  ]
+}

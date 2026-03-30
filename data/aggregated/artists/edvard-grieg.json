@@ -1,7 +1,9 @@
 {
   "canonical_slug": "edvard-grieg",
   "name": "Edvard Grieg",
+  "play_count": 29,
   "spotify_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
+  "musicbrainz_artist_id": "013c8e5b-d72a-4cd3-8dee-6c64d6125823",
   "spotify_url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy",
   "genres": [
     "classical",
@@ -121,5 +123,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/37381115@N04\"\u003eBergen Public Library Norway\u003c/a\u003e from Bergen, Norway"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

@@ -3,14 +3,18 @@
   "source_artist_id": "0IdJUMh8xVuehu7qlMcDth",
   "name": "Mauricio Kagel",
   "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth",
+  "musicbrainz_artist_id": "9f185094-f3d7-4e33-9f60-4588d4c63cb3",
   "source_genres": [
     "avant-garde",
+    "classical",
+    "composer",
     "contemporary classical",
     "electroacoustic",
     "expressionism",
     "musique concrète"
   ],
   "canonical_genre_slugs": [
+    "classical",
     "contemporary-classical",
     "electroacoustic",
     "experimental",

@@ -1,0 +1,49 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0QnqZZKkxzvl9bnSJnoV8E",
+  "name": "Blick Bassy",
+  "spotify_url": "https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E",
+  "musicbrainz_artist_id": "4aa2bed2-ad19-402f-8c5c-2c0e24e4d729",
+  "status": "matched",
+  "page_title": "Blick Bassy",
+  "summary": "Blick Bassy is a Bassa singer-songwriter from Cameroon. Bassy writes his songs in his native language, Bassa. His song \"Kiki\", from Akö, featured as the theme song for the worldwide launch of the iPhone 6 in 2015.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Blick_Bassy",
+  "candidates": [
+    "Black Bass: Lure Fishing",
+    "Black bass",
+    "Blick Bassy",
+    "The Black Bass",
+    "The Black Bass (1984 video game)",
+    "The Black Bass (1988 video game)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blick Bassy",
+    "page_url": "https://en.wikipedia.org/wiki/Blick_Bassy",
+    "retrieved_at": "2026-03-28T10:37:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Blick Bassy dehors La Sala Rossa.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Blick_Bassy_dehors_La_Sala_Rossa.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Blick_Bassy_dehors_La_Sala_Rossa.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Blick_Bassy_dehors_La_Sala_Rossa.png",
+    "width": 339,
+    "height": 463,
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Bull-Doser\" class=\"extiw\" title=\"en:User:Bull-Doser\"\u003eBull-Doser\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blick Bassy dehors La Sala Rossa.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blick_Bassy_dehors_La_Sala_Rossa.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Blick_Bassy_dehors_La_Sala_Rossa.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Blick_Bassy_dehors_La_Sala_Rossa.png",
+      "width": 339,
+      "height": 463,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Bull-Doser\" class=\"extiw\" title=\"en:User:Bull-Doser\"\u003eBull-Doser\u003c/a\u003e"
+    }
+  ]
+}

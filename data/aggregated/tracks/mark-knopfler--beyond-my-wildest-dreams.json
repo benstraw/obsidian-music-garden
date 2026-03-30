@@ -1,11 +1,14 @@
 {
   "canonical_slug": "mark-knopfler--beyond-my-wildest-dreams",
   "name": "Beyond My Wildest Dreams",
+  "play_count": 1,
   "primary_artist_canonical_slug": "mark-knopfler",
   "primary_artist_name": "Mark Knopfler",
+  "additional_artist_slugs": [
+    "emmylou-harris"
+  ],
   "release_canonical_slug": "mark-knopfler--all-the-roadrunning",
   "release_name": "All The Roadrunning",
   "spotify_track_id": "3SlOROUWa6OQe77oID5nix",
-  "spotify_url": "https://open.spotify.com/track/3SlOROUWa6OQe77oID5nix",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3SlOROUWa6OQe77oID5nix"
 }

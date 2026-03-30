@@ -4,6 +4,9 @@
   "name": "Beyond My Wildest Dreams",
   "primary_artist_name": "Mark Knopfler",
   "primary_artist_canonical_slug": "mark-knopfler",
+  "additional_artist_slugs": [
+    "emmylou-harris"
+  ],
   "release_name": "All The Roadrunning",
   "release_canonical_slug": "mark-knopfler--all-the-roadrunning",
   "spotify_url": "https://open.spotify.com/track/3SlOROUWa6OQe77oID5nix"

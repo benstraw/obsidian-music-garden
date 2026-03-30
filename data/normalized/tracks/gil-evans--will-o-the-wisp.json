@@ -4,6 +4,10 @@
   "name": "Will O' the Wisp",
   "primary_artist_name": "Gil Evans",
   "primary_artist_canonical_slug": "gil-evans",
+  "additional_artist_slugs": [
+    "manuel-de-falla",
+    "miles-davis"
+  ],
   "release_name": "Sketches of Spain",
   "release_canonical_slug": "gil-evans--sketches-of-spain",
   "spotify_url": "https://open.spotify.com/track/3lpRlIEa9gnUXFHjDgI97p"

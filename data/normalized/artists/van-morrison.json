@@ -1,0 +1,80 @@
+{
+  "source": "spotify",
+  "source_artist_id": "44NX2ffIYHr6D4n7RaZF7A",
+  "name": "Van Morrison",
+  "spotify_url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A",
+  "musicbrainz_artist_id": "a41ac10f-0a56-4672-9161-b83f9b223559",
+  "source_genres": [
+    "blue-eyed soul"
+  ],
+  "status": "matched",
+  "page_title": "Van Morrison",
+  "summary": "Sir George Ivan \"Van\" Morrison is a Northern Irish musician, singer and songwriter whose recording career started in the 1960s. Morrison's albums have performed well in the UK and Ireland, with more than 40 reaching the UK Top 40, as well as internationally, including in Germany, the Netherlands and Switzerland.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Van_Morrison",
+  "candidates": [
+    "Van Morrison",
+    "Van Morrison - The Philosopher's Stone",
+    "Van Morrison Music Teacher",
+    "Van Morrison at the Movies – Soundtrack Hits",
+    "Van Morrison discography",
+    "Van Morrison in Ireland",
+    "Van Morrison: No Surrender",
+    "Van Morrison: The Concert",
+    "Van Morrison: Too Late to Stop Now"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Van Morrison",
+    "page_url": "https://en.wikipedia.org/wiki/Van_Morrison",
+    "retrieved_at": "2026-03-28T10:43:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Astral Weeks Live.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Astral Weeks Live.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gloria - Them.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Moondance.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Moondance.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Moondance.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Moondance.jpg/960px-Moondance.jpg",
+      "width": 1600,
+      "height": 1063,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/sahlgoode/\"\u003esahlgoode\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Shana and Van Morrison.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Shana_and_Van_Morrison.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Shana_and_Van_Morrison.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Shana_and_Van_Morrison.jpg",
+      "width": 664,
+      "height": 576,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/76016463@N00\"\u003eArt Siegel\u003c/a\u003e"
+    }
+  ]
+}

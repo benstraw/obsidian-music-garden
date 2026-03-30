@@ -1,0 +1,128 @@
+{
+  "canonical_slug": "cantata",
+  "display_title": "Cantata",
+  "display_name": "Cantata",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Cantata",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cantata",
+  "summary": "A cantata is a vocal composition with instrumental accompaniment, typically in several movements and often involving a choir.",
+  "candidates": [
+    "Cantata",
+    "Cantata 700",
+    "Cantata Cycle 1716–1717 (Telemann)",
+    "Cantata Singers and Ensemble",
+    "Cantata academica",
+    "Cantata for the Coronation of Nicholas II",
+    "Cantata for the University Graduation Ceremonies of 1894",
+    "Cantata misericordium",
+    "Cantata profana",
+    "Cantata++"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cantata",
+    "page_url": "https://en.wikipedia.org/wiki/Cantata",
+    "retrieved_at": "2026-03-28T15:53:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bach, BWV 147, 10. Jesus bleibet meine Freude.ogg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bach,_BWV_147,_10._Jesus_bleibet_meine_Freude.ogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bach%2C_BWV_147%2C_10._Jesus_bleibet_meine_Freude.ogg",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Orchestra Gli Armonici"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bach, BWV 147, 10. Jesus bleibet meine Freude.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bach,_BWV_147,_10._Jesus_bleibet_meine_Freude.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Bach%2C_BWV_147%2C_10._Jesus_bleibet_meine_Freude.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Orchestra Gli Armonici"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Soloquartet and strings.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Soloquartet_and_strings.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soloquartet_and_strings.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Soloquartet_and_strings.jpg/960px-Soloquartet_and_strings.jpg",
+      "width": 2048,
+      "height": 1536,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Nahefoto\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Nahefoto (page does not exist)\"\u003eNahefoto\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wiki letter w cropped.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wiki_letter_w_cropped.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/960px-Wiki_letter_w_cropped.svg.png",
+      "width": 44,
+      "height": 31,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "derivative work by \u003ca href=\"//commons.wikimedia.org/wiki/User:Thumperward\" title=\"User:Thumperward\"\u003eThumperward\u003c/a\u003e / * \u003ca href=\"//commons.wikimedia.org/wiki/File:Wiki_letter_w.svg\" title=\"File:Wiki letter w.svg\"\u003eFile:Wiki letter w.svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:Jarkko_Piiroinen\" title=\"User:Jarkko Piiroinen\"\u003eJarkko Piiroinen\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--cantata.json",
+      "url": "https://en.wikipedia.org/wiki/Cantata",
+      "retrieved_at": "2026-03-28T15:53:55Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--cantata.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Bach,_BWV_147,_10._Jesus_bleibet_meine_Freude.ogg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

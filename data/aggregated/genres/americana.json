@@ -6,49 +6,146 @@
   "aliases": [
     "americana"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Americana music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Americana_music",
+  "summary": "Americana is a general term for roots or traditional music formed by the confluence of the shared and varied traditions that make up the musical ethos of the United States, with particular emphasis on music historically developed in the American South.",
   "candidates": [
-    "American Airlines",
-    "American Airlines Center",
-    "Americana",
-    "Americana (2023 film)",
-    "Americana (The Offspring album)",
-    "Americana (culture)",
-    "Americana Music Honors \u0026 Awards",
-    "Americana music",
-    "Americana, São Paulo",
-    "Americanah"
+    "Americana music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Americana music",
+    "page_url": "https://en.wikipedia.org/wiki/Americana_music",
+    "retrieved_at": "2026-03-29T17:22:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Joan Baez Bob Dylan.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Joan_Baez_Bob_Dylan.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Joan_Baez_Bob_Dylan.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Joan_Baez_Bob_Dylan.jpg/960px-Joan_Baez_Bob_Dylan.jpg",
+      "width": 2898,
+      "height": 2049,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Rowland_Scherman\" class=\"extiw\" title=\"w:en:Rowland Scherman\"\u003e\u003cspan title=\"American photographer\"\u003eRowland Scherman\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pete Seeger NYWTS.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pete_Seeger_NYWTS.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pete_Seeger_NYWTS.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pete_Seeger_NYWTS.jpg/960px-Pete_Seeger_NYWTS.jpg",
+      "width": 2177,
+      "height": 2585,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Fred_Palumbo\" title=\"Category:Fred Palumbo\"\u003eFred Palumbo\u003c/a\u003e, World Telegram staff photographer"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Lumineers @ Hollywood Bowl 09 15 2023 (53416643595).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Lumineers_@_Hollywood_Bowl_09_15_2023_(53416643595).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Lumineers_%40_Hollywood_Bowl_09_15_2023_%2853416643595%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Lumineers_%40_Hollywood_Bowl_09_15_2023_%2853416643595%29.jpg/960px-The_Lumineers_%40_Hollywood_Bowl_09_15_2023_%2853416643595%29.jpg",
+      "width": 3000,
+      "height": 2000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39400957@N03\"\u003eJustin Higuchi\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:X performing at the Greek Theater, 1983.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:X_performing_at_the_Greek_Theater,_1983.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/X_performing_at_the_Greek_Theater%2C_1983.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/X_performing_at_the_Greek_Theater%2C_1983.jpg/960px-X_performing_at_the_Greek_Theater%2C_1983.jpg",
+      "width": 3931,
+      "height": 2575,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Rick Meyer, Los Angeles Times"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 35,
-    "unique_artist_count": 9,
-    "unique_release_count": 16,
-    "unique_track_count": 19,
-    "first_played_at": "2026-02-13T02:25:41.986Z",
-    "last_played_at": "2026-03-20T02:33:37.149Z"
+    "play_count": 187,
+    "unique_artist_count": 13,
+    "unique_release_count": 43,
+    "unique_track_count": 124,
+    "first_played_at": "2024-01-01T00:00:00.117142748Z",
+    "last_played_at": "2026-03-29T19:15:19.979Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "play_count": 90,
+      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "musicbrainz_artist_id": "2ff49515-1701-4bac-a53a-04345893f3f3",
+      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 42,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "musicbrainz_artist_id": "0202af38-ac32-48d0-a546-87caaef2dee2",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    },
+    {
       "canonical_slug": "john-prine",
       "name": "John Prine",
-      "play_count": 19,
+      "play_count": 26,
       "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+      "musicbrainz_artist_id": "e86492c1-0376-4df0-8042-8ba058c83960",
       "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+    },
+    {
+      "canonical_slug": "the-band",
+      "name": "The Band",
+      "play_count": 9,
+      "spotify_artist_id": "4vpDg7Y7fU982Ds30zawDA",
+      "spotify_url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
     },
     {
       "canonical_slug": "brent-cobb",
       "name": "Brent Cobb",
-      "play_count": 6,
+      "play_count": 7,
       "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
       "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
     },
     {
       "canonical_slug": "emmylou-harris",
       "name": "Emmylou Harris",
-      "play_count": 3,
+      "play_count": 5,
       "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "musicbrainz_artist_id": "35ef61ca-43db-4772-ba27-0489e9ebcb69",
       "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
     },
     {
@@ -56,121 +153,140 @@
       "name": "Lori McKenna",
       "play_count": 2,
       "spotify_artist_id": "1OV5mEATxtVma7fleFaUyl",
+      "musicbrainz_artist_id": "886557b3-2fa6-494e-993d-b955e789dc57",
       "spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
     },
     {
-      "canonical_slug": "gillian-welch",
-      "name": "Gillian Welch",
+      "canonical_slug": "billy-strings",
+      "name": "Billy Strings",
       "play_count": 1,
-      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
-      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+      "spotify_artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+      "musicbrainz_artist_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+      "spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
     },
     {
-      "canonical_slug": "joshua-ray-walker",
-      "name": "Joshua Ray Walker",
+      "canonical_slug": "béla-fleck",
+      "name": "Béla Fleck",
       "play_count": 1,
-      "spotify_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
-      "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
+      "spotify_artist_id": "2ka8z2lwkcp13fG8Wyv3xU",
+      "spotify_url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
     },
     {
-      "canonical_slug": "old-crow-medicine-show",
-      "name": "Old Crow Medicine Show",
+      "canonical_slug": "iris-dement",
+      "name": "Iris DeMent",
       "play_count": 1,
-      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
-      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-    },
-    {
-      "canonical_slug": "rose-s-pawn-shop",
-      "name": "Rose's Pawn Shop",
-      "play_count": 1,
-      "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
-      "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
-    },
-    {
-      "canonical_slug": "townes-van-zandt",
-      "name": "Townes Van Zandt",
-      "play_count": 1,
-      "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
-      "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+      "spotify_artist_id": "3NPZs8XgXtaWslUcnIw6rY",
+      "musicbrainz_artist_id": "e06aa44d-4c98-40c6-bf1d-d54637fa0bde",
+      "spotify_url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "gillian-welch--boots-no-2-the-lost-songs",
+      "name": "Boots No. 2: The Lost Songs",
+      "play_count": 31,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0wDBoq9LTEIw8DXoAZTrfP",
+      "musicbrainz_release_id": "d61fa15a-c525-4b48-b20a-10c64b77d59c",
+      "musicbrainz_release_group_id": "d8c8298f-6148-4b32-9eae-21c00ac53232"
+    },
+    {
       "canonical_slug": "john-prine--in-spite-of-ourselves",
-      "name": "In Spite Of Ourselves",
-      "play_count": 12,
+      "name": "In Spite of Ourselves",
+      "play_count": 14,
       "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "primary_artist_name": "John Prine",
+      "spotify_album_id": "2t6hK5ERtgjbHXVgHlpqJ5",
+      "musicbrainz_release_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+      "musicbrainz_release_group_id": "41714b68-b219-333d-8a7d-cf143d492984"
+    },
+    {
+      "canonical_slug": "gillian-welch--all-the-good-times",
+      "name": "All The Good Times",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0JgpOuuz9D8eH50iZomnvD",
+      "musicbrainz_release_id": "68860171-db2b-41de-902c-f1bce7c22d31",
+      "musicbrainz_release_group_id": "e82cbc11-098d-4f42-a849-90a92cf06bd4"
+    },
+    {
+      "canonical_slug": "gillian-welch--revival",
+      "name": "Revival",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "733rVkP3oBulDHJbiuRANa",
+      "musicbrainz_release_id": "cdaf7475-71ad-49e2-bcb5-492957366d48",
+      "musicbrainz_release_group_id": "1b59c403-965a-3f63-bca2-2590f3a0660f"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--big-iron-world",
+      "name": "Big Iron World",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "503O014nLEUnB5NSbyDzAJ",
+      "musicbrainz_release_id": "dd963f84-0c3e-4396-8dd2-cc0c86fd6990",
+      "musicbrainz_release_group_id": "58798fed-3731-3d6d-b0cb-bac4e5be17a1"
+    },
+    {
+      "canonical_slug": "gillian-welch--soul-journey",
+      "name": "Soul Journey",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "75NIWZjBwsF7MyfbG8JPwr",
+      "musicbrainz_release_id": "b3d4dc24-fc81-4f5e-a43e-e60782b7ad2f",
+      "musicbrainz_release_group_id": "cf71f2e5-2cfe-3652-b572-8f24560f44b0"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "name": "O.C.M.S.",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "71oM4BPgOOgdwTYJeUPush",
+      "musicbrainz_release_id": "308cc1b5-b5cc-4ad5-8eed-79ed82e9e8e3",
+      "musicbrainz_release_group_id": "ba298c09-0020-34be-ab1a-04fb96fc2d81"
+    },
+    {
+      "canonical_slug": "gillian-welch--time-the-revelator",
+      "name": "Time (The Revelator)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "55FP2ypQcghszSqylyBRbp",
+      "musicbrainz_release_id": "917a723a-9449-4517-83be-1bc8a56ae64b",
+      "musicbrainz_release_group_id": "4f9a9d35-b16d-3b7b-80d0-32b29683633f"
     },
     {
       "canonical_slug": "brent-cobb--keep-em-on-they-toes",
       "name": "Keep 'Em on They Toes",
       "play_count": 6,
       "primary_artist_canonical_slug": "brent-cobb",
-      "primary_artist_name": "Brent Cobb"
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "0NrDp8wKKFdhyHSMlcHBnD",
+      "musicbrainz_release_id": "f07a248d-a28d-4b9e-ad16-1bfac4e44cc8",
+      "musicbrainz_release_group_id": "7fa57349-3794-4304-a46d-3b7e7151339c"
     },
     {
-      "canonical_slug": "john-prine--john-prine",
-      "name": "John Prine",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
-    },
-    {
-      "canonical_slug": "lori-mckenna--the-tunnel",
-      "name": "The Tunnel",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "lori-mckenna",
-      "primary_artist_name": "Lori McKenna"
-    },
-    {
-      "canonical_slug": "john-prine--bruised-orange",
-      "name": "Bruised Orange",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
-    },
-    {
-      "canonical_slug": "john-prine--diamonds-in-the-rough",
-      "name": "Diamonds in the Rough",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
-    },
-    {
-      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
-      "name": "Elite Hotel (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
-    },
-    {
-      "canonical_slug": "john-prine--fair-and-square",
-      "name": "Fair and Square",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
-    },
-    {
-      "canonical_slug": "rose-s-pawn-shop--gravity-well",
-      "name": "Gravity Well",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "rose-s-pawn-shop",
-      "primary_artist_name": "Rose's Pawn Shop"
-    },
-    {
-      "canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
+      "canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "name": "Tennessee Pusher",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "4m4WoEGrrAZ5mZvapu4dY3",
+      "musicbrainz_release_id": "bc27bde8-d00f-4fac-918d-56bd973046db",
+      "musicbrainz_release_group_id": "6556cc77-4473-3f3f-9060-8249b194aa2a"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "john-prine--in-spite-of-ourselves",
       "name": "In Spite of Ourselves",
-      "play_count": 6,
+      "play_count": 7,
       "primary_artist_canonical_slug": "john-prine",
       "primary_artist_name": "John Prine",
       "release_canonical_slug": "john-prine--in-spite-of-ourselves",
@@ -201,9 +317,31 @@
       "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
     },
     {
+      "canonical_slug": "gillian-welch--jackson",
+      "name": "Jackson",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--all-the-good-times",
+      "release_name": "All The Good Times",
+      "spotify_track_id": "3NQK1uTiWfaeO9DhRtkD1A",
+      "spotify_url": "https://open.spotify.com/track/3NQK1uTiWfaeO9DhRtkD1A"
+    },
+    {
+      "canonical_slug": "gillian-welch--shotgun-song",
+      "name": "Shotgun Song",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--boots-no-2-the-lost-songs-vol-1",
+      "release_name": "Boots No. 2: The Lost Songs, Vol. 1",
+      "spotify_track_id": "0HM87zIvkV8blF0RU6fmWQ",
+      "spotify_url": "https://open.spotify.com/track/0HM87zIvkV8blF0RU6fmWQ"
+    },
+    {
       "canonical_slug": "john-prine--spanish-pipedream",
       "name": "Spanish Pipedream",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "john-prine",
       "primary_artist_name": "John Prine",
       "release_canonical_slug": "john-prine--john-prine",
@@ -212,70 +350,48 @@
       "spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
     },
     {
-      "canonical_slug": "lori-mckenna--the-tunnel",
-      "name": "The Tunnel",
+      "canonical_slug": "old-crow-medicine-show--take-em-away",
+      "name": "Take 'Em Away",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "4PW2BiBPZS62HxJdeEx4qh",
+      "spotify_url": "https://open.spotify.com/track/4PW2BiBPZS62HxJdeEx4qh"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--alabama-hightest",
+      "name": "Alabama HighTest",
       "play_count": 2,
-      "primary_artist_canonical_slug": "lori-mckenna",
-      "primary_artist_name": "Lori McKenna",
-      "release_canonical_slug": "lori-mckenna--the-tunnel",
-      "release_name": "The Tunnel",
-      "spotify_track_id": "3sSyvsyG3chmMvsWgPqV6J",
-      "spotify_url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J"
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "release_name": "Tennessee Pusher",
+      "spotify_track_id": "0bkCgETw93o0CVMU8xFHpL",
+      "spotify_url": "https://open.spotify.com/track/0bkCgETw93o0CVMU8xFHpL"
     },
     {
-      "canonical_slug": "john-prine--angel-from-montgomery",
+      "canonical_slug": "old-crow-medicine-show--angel-from-montgomery",
       "name": "Angel from Montgomery",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--john-prine",
-      "release_name": "John Prine",
-      "spotify_track_id": "2qWKpYIleSvBT6aUMXoia5",
-      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--broken-hearts-and-dirty-windows-songs-of-john-prine",
+      "release_name": "Broken Hearts \u0026 Dirty Windows: Songs of John Prine",
+      "spotify_track_id": "2mKMIVcKPczPULJF13Ztvo",
+      "spotify_url": "https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo"
     },
     {
-      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
-      "name": "Bluebird Wine - 2003 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
-      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
-    },
-    {
-      "canonical_slug": "john-prine--clocks-and-spoons",
-      "name": "Clocks and Spoons",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--diamonds-in-the-rough",
-      "release_name": "Diamonds in the Rough",
-      "spotify_track_id": "57M2Tzakrrj4pecyVet6kM",
-      "spotify_url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM"
-    },
-    {
-      "canonical_slug": "rose-s-pawn-shop--country-blues",
-      "name": "Country Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "rose-s-pawn-shop",
-      "primary_artist_name": "Rose's Pawn Shop",
-      "release_canonical_slug": "rose-s-pawn-shop--gravity-well",
-      "release_name": "Gravity Well",
-      "spotify_track_id": "4902sigaZA0IflQ6FdWmtk",
-      "spotify_url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
-    },
-    {
-      "canonical_slug": "john-prine--fish-and-whistle",
-      "name": "Fish and Whistle",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--bruised-orange",
-      "release_name": "Bruised Orange",
-      "spotify_track_id": "4qA8M5hJn45rtFyWH5Ixar",
-      "spotify_url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar"
+      "canonical_slug": "old-crow-medicine-show--big-time-in-the-jungle",
+      "name": "Big Time In The Jungle",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "1SEeFmwl7pvAZxRW40KjQY",
+      "spotify_url": "https://open.spotify.com/track/1SEeFmwl7pvAZxRW40KjQY"
     }
   ],
   "source_refs": [
@@ -286,12 +402,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--americana.json",
+      "url": "https://en.wikipedia.org/wiki/Americana_music",
+      "retrieved_at": "2026-03-29T17:22:03Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--americana.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-20T02:33:37.149Z",
+      "updated_at": "2026-03-29T19:15:19.979Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T19:15:19.979Z"
 }

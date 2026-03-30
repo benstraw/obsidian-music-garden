@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "the-bar-kays",
+  "name": "The Bar-Kays",
+  "play_count": 4,
+  "spotify_artist_id": "0Z4CzYz9ieK8q9XiVMPkW5",
+  "musicbrainz_artist_id": "919ac2b3-aa04-4732-93f8-742ebb7a03f2",
+  "spotify_url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5",
+  "genres": [
+    "funk"
+  ],
+  "source_genres": [
+    "aln-sh",
+    "classic pop and rock",
+    "funk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb84b6425f5bc7eb9c6739f990",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517484b6425f5bc7eb9c6739f990",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17884b6425f5bc7eb9c6739f990",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Bar-Kays",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bar-Kays",
+  "summary": "The Bar-Kays is an American funk band formed in 1964. The band had dozens of charting singles from the 1960s to the 1980s, including \"Soul Finger\" in 1967, \"Son of Shaft\" in 1972, and \"Boogie Body Land\" in 1980. The Bar-Kays also served as the backing band for a variety of singers, including Isaac Hayes and Otis Redding.",
+  "candidates": [
+    "The Bad Days (EP)",
+    "The Bad Days EP",
+    "The Bar-Kays",
+    "The Barclays",
+    "The Car Keys",
+    "The Mar-Keys"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bar-Kays",
+    "page_url": "https://en.wikipedia.org/wiki/Bar-Kays",
+    "retrieved_at": "2026-03-28T10:43:02Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/The_Bar-Kays_1968_press_photo.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Bar-Kays_1968_press_photo.jpg/330px-The_Bar-Kays_1968_press_photo.jpg",
+    "width": 874,
+    "height": 1024
+  },
+  "last_updated": "2026-03-28"
+}

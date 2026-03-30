@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "milton-rosenstock",
+  "name": "Milton Rosenstock",
+  "spotify_artist_id": "1ymcuvFqWpOdqD3xVrTJJh",
+  "musicbrainz_artist_id": "ad0de950-0a9a-4a8d-9125-f45cc521c7bd",
+  "spotify_url": "https://open.spotify.com/artist/1ymcuvFqWpOdqD3xVrTJJh",
+  "source_genres": [
+    "arranger",
+    "composer",
+    "conductor"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Milton Rosenstock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Milton_Rosenstock",
+  "summary": "Milton Rosenstock was an American conductor, composer, and arranger.",
+  "candidates": [
+    "Milton Rosenstock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Milton Rosenstock",
+    "page_url": "https://en.wikipedia.org/wiki/Milton_Rosenstock",
+    "retrieved_at": "2026-03-28T10:41:18Z"
+  },
+  "last_updated": "2026-03-30"
+}

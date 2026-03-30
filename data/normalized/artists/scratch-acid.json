@@ -1,0 +1,63 @@
+{
+  "source": "spotify",
+  "source_artist_id": "219VCiRViG60EbPiocSWJp",
+  "name": "Scratch Acid",
+  "spotify_url": "https://open.spotify.com/artist/219VCiRViG60EbPiocSWJp",
+  "musicbrainz_artist_id": "75687111-1585-4df2-83e6-ce52e7fa2bb0",
+  "source_genres": [
+    "noise rock",
+    "punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Scratch Acid",
+  "summary": "Scratch Acid was an American noise rock band from Austin, Texas, formed in 1982. One of the pioneers of noise rock in the 1980s, the band is best remembered as a stepping stone for its frontman David Yow, and bass player David Wm. Sims, both later of the Jesus Lizard.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Scratch_Acid",
+  "candidates": [
+    "Scratch Acid",
+    "Scratch Acid (EP)",
+    "Scratch Addons",
+    "Scratch and Burn",
+    "Scratch and Crow",
+    "Scratch and Grounder",
+    "Scratch and Sniff Car Crash",
+    "Scratch and sniff",
+    "Scratch video",
+    "Scratchcard"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Scratch Acid",
+    "page_url": "https://en.wikipedia.org/wiki/Scratch_Acid",
+    "retrieved_at": "2026-03-28T10:42:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Scratch Acid Union Transfer 2011 01.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Scratch_Acid_Union_Transfer_2011_01.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Scratch_Acid_Union_Transfer_2011_01.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Scratch_Acid_Union_Transfer_2011_01.jpg/960px-Scratch_Acid_Union_Transfer_2011_01.jpg",
+    "width": 1214,
+    "height": 656,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Vladimir"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Scratch Acid Union Transfer 2011 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Scratch_Acid_Union_Transfer_2011_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Scratch_Acid_Union_Transfer_2011_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Scratch_Acid_Union_Transfer_2011_01.jpg/960px-Scratch_Acid_Union_Transfer_2011_01.jpg",
+      "width": 1214,
+      "height": 656,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Vladimir"
+    }
+  ]
+}

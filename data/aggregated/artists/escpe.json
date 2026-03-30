@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "escpe",
+  "name": "ESCPE",
+  "play_count": 5,
+  "spotify_artist_id": "0BmnB01PeIJC2Dqgnr5A1L",
+  "musicbrainz_artist_id": "bc3a8edf-6a8f-4d0a-a716-c385501b8c33",
+  "spotify_url": "https://open.spotify.com/artist/0BmnB01PeIJC2Dqgnr5A1L",
+  "genres": [
+    "electronic",
+    "experimental"
+  ],
+  "source_genres": [
+    "downtempo",
+    "electronic",
+    "electronica",
+    "experimental",
+    "instrumental",
+    "phonk",
+    "trap",
+    "wave",
+    "world fusion"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9cbd3abfb21d731bae51f14f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749cbd3abfb21d731bae51f14f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789cbd3abfb21d731bae51f14f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "ESCP-EAP",
+    "Escape Room: Tournament of Champions",
+    "Escape from L.A.",
+    "Escape from New York",
+    "Escape from Tarkov",
+    "Escape velocity",
+    "Escapement",
+    "Eschatology",
+    "Escherichia coli",
+    "M. C. Escher"
+  ],
+  "last_updated": "2026-03-28"
+}

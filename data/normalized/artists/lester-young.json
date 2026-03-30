@@ -1,0 +1,93 @@
+{
+  "source": "spotify",
+  "source_artist_id": "05E3NBxNMdnrPtxF9oraJm",
+  "name": "Lester Young",
+  "spotify_url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm",
+  "musicbrainz_artist_id": "d613e4ae-093a-49a1-b06a-579480f7f7e8",
+  "source_genres": [
+    "cool jazz",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "cool-jazz",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Lester Young",
+  "summary": "Lester Willis Young, nicknamed \"Pres\" or \"Prez\", was an American jazz tenor saxophonist and occasional clarinetist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lester_Young",
+  "candidates": [
+    "Lester (Yu-Gi-Oh! 5D's)",
+    "Lester Ong",
+    "Lester Wong",
+    "Lester Young",
+    "Lester Young Trio",
+    "Lester Young with the Oscar Peterson Trio",
+    "Letter to Yi Ŭngt'ae",
+    "Letters to a Young Poet",
+    "Mount Lester",
+    "The Lester Young Buddy Rich Trio"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lester Young",
+    "page_url": "https://en.wikipedia.org/wiki/Lester_Young",
+    "retrieved_at": "2026-03-28T10:40:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:GClef.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+    "width": 15,
+    "height": 41,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lester-Young-LIFE-1944.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lester-Young-LIFE-1944.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lester-Young-LIFE-1944.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lester-Young-LIFE-1944.jpg",
+      "width": 839,
+      "height": 992,
+      "license": "Public domain",
+      "author": "Photograph by Ojon Mili. Time Inc."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lester Young (Gottlieb 09431).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lester_Young_(Gottlieb_09431).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lester_Young_%28Gottlieb_09431%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lester_Young_%28Gottlieb_09431%29.jpg",
+      "width": 808,
+      "height": 948,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
+  ]
+}

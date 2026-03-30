@@ -1,0 +1,71 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1QAGLCom3FHTTiuRFsjzOj",
+  "name": "Carla Thomas",
+  "spotify_url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj",
+  "musicbrainz_artist_id": "66e2a444-5303-4cdf-b20f-d377ecf465ed",
+  "source_genres": [
+    "r\u0026b",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Carla Thomas",
+  "summary": "Carla Venita Thomas is an American singer, who is often referred to as the Queen of Memphis Soul. She is best known for her 1960s recordings for Atlantic and Stax including the hits \"Gee Whiz \" (1960), \"B-A-B-Y\" (1966) and \"Tramp\" (1967), a duet with Otis Redding. She is the daughter of Rufus Thomas.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Carla_Thomas",
+  "candidates": [
+    "Carl Thomas (singer)",
+    "Carl Thomas Anderson",
+    "Carl Thomas discography",
+    "Carl Thompson (boxer)",
+    "Carla Thomas",
+    "Carla Thomas (basketball)",
+    "Carol Thomas",
+    "Thomas A. Carlin",
+    "Thomas Carew",
+    "Thomas Carte"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Carla Thomas",
+    "page_url": "https://en.wikipedia.org/wiki/Carla_Thomas",
+    "retrieved_at": "2026-03-28T10:37:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Carla Thomas.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Carla_Thomas.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+    "width": 375,
+    "height": 614,
+    "license": "Public domain",
+    "author": "Stax"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carla Thomas.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carla_Thomas.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+      "width": 375,
+      "height": 614,
+      "license": "Public domain",
+      "author": "Stax"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carla Thomas billboard card.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carla_Thomas_billboard_card.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Carla_Thomas_billboard_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Carla_Thomas_billboard_card.jpg",
+      "width": 945,
+      "height": 1531,
+      "license": "Public domain",
+      "author": "Photo by Billboard."
+    }
+  ]
+}

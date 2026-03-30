@@ -1,21 +1,29 @@
 {
   "canonical_slug": "brent-cobb",
   "name": "Brent Cobb",
+  "play_count": 7,
   "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+  "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
   "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz",
   "genres": [
     "alt-country",
     "americana",
     "blues",
+    "country",
+    "country-rock",
+    "honky-tonk",
     "outlaw-country",
     "red-dirt"
   ],
   "source_genres": [
     "alt country",
     "americana",
+    "country",
     "country blues",
+    "honky tonk",
     "outlaw country",
-    "red dirt"
+    "red dirt",
+    "roots rock"
   ],
   "images": [
     {
@@ -94,5 +102,5 @@
       "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Sirsentence\" class=\"extiw\" title=\"en:User:Sirsentence\"\u003eSirsentence\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

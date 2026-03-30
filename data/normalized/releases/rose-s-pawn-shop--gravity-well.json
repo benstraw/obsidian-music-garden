@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4x3oQDSVcs6pZCooX5p9DB",
   "name": "Gravity Well",
-  "primary_artist_name": "Rose's Pawn Shop",
-  "primary_artist_canonical_slug": "rose-s-pawn-shop"
+  "primary_artist_name": "Rose’s Pawn Shop",
+  "primary_artist_canonical_slug": "rose-s-pawn-shop",
+  "musicbrainz_release_id": "7107c3e0-bcdb-4e1d-9240-c312a2dc163d",
+  "musicbrainz_release_group_id": "15153290-a5d8-44e4-8f3b-6003e2e6461c"
 }

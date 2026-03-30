@@ -6,7 +6,8 @@
   "aliases": [
     "cool jazz"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Cool jazz",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Cool_jazz",
@@ -79,134 +80,187 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 20,
-    "unique_artist_count": 7,
-    "unique_release_count": 11,
-    "unique_track_count": 12,
-    "first_played_at": "2026-02-26T02:46:11.482Z",
+    "play_count": 614,
+    "unique_artist_count": 13,
+    "unique_release_count": 155,
+    "unique_track_count": 423,
+    "first_played_at": "2024-01-01T00:00:00.055777023Z",
     "last_played_at": "2026-03-19T01:35:34.990Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "ahmad-jamal",
+      "name": "Ahmad Jamal",
+      "play_count": 197,
+      "spotify_artist_id": "6gc6oo3u2f7SqTd4mhe81O",
+      "musicbrainz_artist_id": "cf816800-4e0e-4d80-9cca-50a725e93787",
+      "spotify_url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+    },
+    {
       "canonical_slug": "miles-davis",
       "name": "Miles Davis",
-      "play_count": 13,
+      "play_count": 160,
       "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "musicbrainz_artist_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
       "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-    },
-    {
-      "canonical_slug": "duke-ellington",
-      "name": "Duke Ellington",
-      "play_count": 2,
-      "spotify_artist_id": "4F7Q5NV6h5TSwCainz8S5A",
-      "spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-    },
-    {
-      "canonical_slug": "bill-evans",
-      "name": "Bill Evans",
-      "play_count": 1,
-      "spotify_artist_id": "4jXfFzeP66Zy67HM2mvIIF",
-      "spotify_url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-    },
-    {
-      "canonical_slug": "gil-evans",
-      "name": "Gil Evans",
-      "play_count": 1,
-      "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
-      "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-    },
-    {
-      "canonical_slug": "john-coltrane",
-      "name": "John Coltrane",
-      "play_count": 1,
-      "spotify_artist_id": "2hGh5VOeeqimQFxqXvfCUf",
-      "spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-    },
-    {
-      "canonical_slug": "miles-davis-quintet",
-      "name": "Miles Davis Quintet",
-      "play_count": 1,
-      "spotify_artist_id": "71Ur25Abq58vksqJINpGdx",
-      "spotify_url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
     },
     {
       "canonical_slug": "the-dave-brubeck-quartet",
       "name": "The Dave Brubeck Quartet",
-      "play_count": 1,
+      "play_count": 58,
       "spotify_artist_id": "4iRZAbYvBqnxrbs6K25aJ7",
+      "musicbrainz_artist_id": "7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7",
       "spotify_url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+    },
+    {
+      "canonical_slug": "art-blakey-and-the-jazz-messengers",
+      "name": "Art Blakey \u0026 The Jazz Messengers",
+      "play_count": 50,
+      "spotify_artist_id": "6ykfXAed2KOLOMI3R0TZdz",
+      "musicbrainz_artist_id": "209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee",
+      "spotify_url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+    },
+    {
+      "canonical_slug": "john-coltrane",
+      "name": "John Coltrane",
+      "play_count": 43,
+      "spotify_artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+      "musicbrainz_artist_id": "b625448e-bf4a-41c3-a421-72ad46cdb831",
+      "spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+    },
+    {
+      "canonical_slug": "duke-ellington",
+      "name": "Duke Ellington",
+      "play_count": 26,
+      "spotify_artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+      "musicbrainz_artist_id": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
+      "spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+    },
+    {
+      "canonical_slug": "gil-evans",
+      "name": "Gil Evans",
+      "play_count": 21,
+      "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+      "musicbrainz_artist_id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+      "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+    },
+    {
+      "canonical_slug": "bud-powell",
+      "name": "Bud Powell",
+      "play_count": 16,
+      "spotify_artist_id": "570vCzcespB48HIQyTbDO6",
+      "musicbrainz_artist_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+      "spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+    },
+    {
+      "canonical_slug": "herbie-hancock",
+      "name": "Herbie Hancock",
+      "play_count": 15,
+      "spotify_artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "musicbrainz_artist_id": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+      "spotify_url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+    },
+    {
+      "canonical_slug": "charles-mingus",
+      "name": "Charles Mingus",
+      "play_count": 13,
+      "spotify_artist_id": "1W8TbFzNS15VwsempfY12H",
+      "musicbrainz_artist_id": "f3b8e107-abe8-4743-b6a3-4a4ee995e71f",
+      "spotify_url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "john-coltrane--late-night-john-coltrane",
+      "name": "Late Night John Coltrane",
+      "play_count": 28,
+      "primary_artist_canonical_slug": "john-coltrane",
+      "primary_artist_name": "John Coltrane",
+      "spotify_album_id": "11E0Zcz6hs33WTWeli0N7W"
+    },
+    {
+      "canonical_slug": "miles-davis--miles-ahead-expanded-edition",
+      "name": "Miles Ahead (Expanded Edition)",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "6WOddaa5Vqp8gQZic8ZUw9"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--the-complete-ahmad-jamal-trio-argo-sessions-1956-62",
+      "name": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
+      "play_count": 21,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "The Ahmad Jamal Trio",
+      "spotify_album_id": "6q6L2UOZxxE6qJNOexyBSj",
+      "musicbrainz_release_id": "ae408343-c9f3-41b6-a529-83c63fc429cb",
+      "musicbrainz_release_group_id": "27e6f350-303e-446e-aa2e-b5b3aa2c20d9"
+    },
+    {
+      "canonical_slug": "miles-davis--birth-of-the-cool",
+      "name": "Birth Of The Cool",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "0QWea2w5Y6pSoSWHuc7JMf",
+      "musicbrainz_release_id": "2c9af123-adef-4db0-9db8-145ce9b283c3",
+      "musicbrainz_release_group_id": "903d5fe8-ab43-33b2-9411-6738af50de19"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--3-original-album-classics",
+      "name": "3 Original Album Classics",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "spotify_album_id": "2crhuOZjVzdZV3aw3DOM6T"
+    },
+    {
+      "canonical_slug": "miles-davis--bitches-brew-legacy-edition",
+      "name": "Bitches Brew (Legacy Edition)",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "1wVO8nHzgcim0IBzbXnYX0"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--happy-moods",
+      "name": "Happy Moods",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "spotify_album_id": "0wulNVxoVugGBX7bwAAmGj",
+      "musicbrainz_release_id": "8d45d5d1-c0dd-475c-8d2a-10d4aa280db6",
+      "musicbrainz_release_group_id": "20f36996-60a0-478e-b051-811d45291c8a"
+    },
+    {
+      "canonical_slug": "the-dave-brubeck-quartet--time-further-out",
+      "name": "Time Further Out",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "the-dave-brubeck-quartet",
+      "primary_artist_name": "The Dave Brubeck Quartet",
+      "spotify_album_id": "0eMXd1VtCXCkuGWn9JjRDT",
+      "musicbrainz_release_id": "5cb94677-21c0-449f-966c-8b3c8b8a8db5",
+      "musicbrainz_release_group_id": "249a47f5-45ec-3789-afae-bf06cddfa20a"
+    },
     {
       "canonical_slug": "miles-davis--in-a-silent-way",
       "name": "In A Silent Way",
       "play_count": 10,
       "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
-    },
-    {
-      "canonical_slug": "miles-davis-quintet--blue-moods",
-      "name": "Blue Moods",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis-quintet",
-      "primary_artist_name": "Miles Davis Quintet"
-    },
-    {
-      "canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
-      "name": "Duke Ellington \u0026 John Coltrane",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "duke-ellington",
-      "primary_artist_name": "Duke Ellington"
-    },
-    {
-      "canonical_slug": "miles-davis--get-up-with-it",
-      "name": "Get Up With It",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
-    },
-    {
-      "canonical_slug": "john-coltrane--giant-steps-mono",
-      "name": "Giant Steps (Mono)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-coltrane",
-      "primary_artist_name": "John Coltrane"
+      "primary_artist_name": "Miles Davis",
+      "spotify_album_id": "0Hs3BomCdwIWRhgT57x22T",
+      "musicbrainz_release_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+      "musicbrainz_release_group_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3"
     },
     {
       "canonical_slug": "the-dave-brubeck-quartet--jazz-impressions-of-japan",
       "name": "Jazz Impressions Of Japan",
-      "play_count": 1,
+      "play_count": 10,
       "primary_artist_canonical_slug": "the-dave-brubeck-quartet",
-      "primary_artist_name": "The Dave Brubeck Quartet"
-    },
-    {
-      "canonical_slug": "duke-ellington--money-jungle",
-      "name": "Money Jungle",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "duke-ellington",
-      "primary_artist_name": "Duke Ellington"
-    },
-    {
-      "canonical_slug": "gil-evans--sketches-of-spain",
-      "name": "Sketches of Spain",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "gil-evans",
-      "primary_artist_name": "Gil Evans"
-    },
-    {
-      "canonical_slug": "miles-davis--someday-my-prince-will-come",
-      "name": "Someday My Prince Will Come",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
-    },
-    {
-      "canonical_slug": "miles-davis--volume-2-vol-2",
-      "name": "Volume 2 (Vol. 2)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis"
+      "primary_artist_name": "The Dave Brubeck Quartet",
+      "spotify_album_id": "7tOQ0wZyrxr2fqWTO6n8M7",
+      "musicbrainz_release_id": "457078de-3292-4196-9249-89e2ce6a1689",
+      "musicbrainz_release_group_id": "ad2253e8-8b2a-3eca-b6e9-f1a5243fb2dd"
     }
   ],
   "top_tracks": [
@@ -222,6 +276,17 @@
       "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
     },
     {
+      "canonical_slug": "ahmad-jamal--pavanne",
+      "name": "Pavanne",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "release_canonical_slug": "ahmad-jamal--the-complete-ahmad-jamal-trio-argo-sessions-1956-62",
+      "release_name": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
+      "spotify_track_id": "5dZ9RUJmRvt3pUXd6Y2pJg",
+      "spotify_url": "https://open.spotify.com/track/5dZ9RUJmRvt3pUXd6Y2pJg"
+    },
+    {
       "canonical_slug": "miles-davis--shhh-peaceful",
       "name": "Shhh / Peaceful",
       "play_count": 5,
@@ -233,92 +298,81 @@
       "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
     },
     {
-      "canonical_slug": "miles-davis--drad-dog-feat-hank-mobley-wynton-kelly-paul-chambers-and-jimmy-cobb",
-      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--someday-my-prince-will-come",
-      "release_name": "Someday My Prince Will Come",
-      "spotify_track_id": "6uvcEIzqz9mhRcEhrsODgf",
-      "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
-    },
-    {
-      "canonical_slug": "duke-ellington--fleurette-africaine-african-flower-remastered",
-      "name": "Fleurette Africaine (African Flower) - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "duke-ellington",
-      "primary_artist_name": "Duke Ellington",
-      "release_canonical_slug": "duke-ellington--money-jungle",
-      "release_name": "Money Jungle",
-      "spotify_track_id": "4Keh41jYFaVPP5C82DxmTG",
-      "spotify_url": "https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG"
-    },
-    {
-      "canonical_slug": "bill-evans--gary-s-theme-remastered-2003",
-      "name": "Gary's Theme - Remastered 2003",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "bill-evans",
-      "primary_artist_name": "Bill Evans",
-      "release_canonical_slug": "bill-evans--you-must-believe-in-spring-remastered-version",
-      "release_name": "You Must Believe In Spring (Remastered Version)",
-      "spotify_track_id": "3f9KhpRN6mMYoVnpuozgHD",
-      "spotify_url": "https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD"
-    },
-    {
-      "canonical_slug": "miles-davis--i-waited-for-you-remastered-1998",
-      "name": "I Waited For You - Remastered 1998",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--volume-2-vol-2",
-      "release_name": "Volume 2 (Vol. 2)",
-      "spotify_track_id": "5h7ww9vWMlfYJ2cPhmt9pz",
-      "spotify_url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
-    },
-    {
-      "canonical_slug": "john-coltrane--naima-mono",
-      "name": "Naima - Mono",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-coltrane",
-      "primary_artist_name": "John Coltrane",
-      "release_canonical_slug": "john-coltrane--giant-steps-mono",
-      "release_name": "Giant Steps (Mono)",
-      "spotify_track_id": "5cAwEKmadsW4nCYe9QUvgU",
-      "spotify_url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
-    },
-    {
-      "canonical_slug": "miles-davis-quintet--nature-boy",
-      "name": "Nature Boy",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis-quintet",
-      "primary_artist_name": "Miles Davis Quintet",
-      "release_canonical_slug": "miles-davis-quintet--blue-moods",
-      "release_name": "Blue Moods",
-      "spotify_track_id": "2tYCyhnQ3EYIK0YlsGExMa",
-      "spotify_url": "https://open.spotify.com/track/2tYCyhnQ3EYIK0YlsGExMa"
-    },
-    {
-      "canonical_slug": "miles-davis--red-china-blues",
-      "name": "Red China Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--get-up-with-it",
-      "release_name": "Get Up With It",
-      "spotify_track_id": "0AEXHSEdAohlHhYIt6tcUf",
-      "spotify_url": "https://open.spotify.com/track/0AEXHSEdAohlHhYIt6tcUf"
-    },
-    {
       "canonical_slug": "duke-ellington--stevie",
       "name": "Stevie",
-      "play_count": 1,
+      "play_count": 5,
       "primary_artist_canonical_slug": "duke-ellington",
       "primary_artist_name": "Duke Ellington",
       "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
       "release_name": "Duke Ellington \u0026 John Coltrane",
       "spotify_track_id": "6Ylpg33fqhQfJrXLwSxnzh",
       "spotify_url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
+    },
+    {
+      "canonical_slug": "art-blakey-and-the-jazz-messengers--are-you-real",
+      "name": "Are You Real",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "art-blakey-and-the-jazz-messengers",
+      "primary_artist_name": "Art Blakey \u0026 The Jazz Messengers",
+      "release_canonical_slug": "art-blakey--late-night-art-blakey",
+      "release_name": "Late Night Art Blakey",
+      "spotify_track_id": "1LJrbwO8OZPYofz1aOmL4u",
+      "spotify_url": "https://open.spotify.com/track/1LJrbwO8OZPYofz1aOmL4u"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--autumn-leaves",
+      "name": "Autumn Leaves",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "release_canonical_slug": "ahmad-jamal--the-ahmad-jamal-trio",
+      "release_name": "The Ahmad Jamal Trio",
+      "spotify_track_id": "5U35ZpwtS15QDRc821sXT0",
+      "spotify_url": "https://open.spotify.com/track/5U35ZpwtS15QDRc821sXT0"
+    },
+    {
+      "canonical_slug": "duke-ellington--take-the-coltrane",
+      "name": "Take The Coltrane",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6aNnVdpAQu8R0qGq5NMXyZ",
+      "spotify_url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--arabesque",
+      "name": "Arabesque",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "release_canonical_slug": "ahmad-jamal--crystal",
+      "release_name": "Crystal",
+      "spotify_track_id": "4v1lX3OGsVkW2RZ2DkOsfd",
+      "spotify_url": "https://open.spotify.com/track/4v1lX3OGsVkW2RZ2DkOsfd"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--bogota-live",
+      "name": "Bogota - Live",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "release_canonical_slug": "ahmad-jamal--outertimeinnerspace-live",
+      "release_name": "Outertimeinnerspace (Live)",
+      "spotify_track_id": "5Nc1xk9zx8t7MwLq0qzWxf",
+      "spotify_url": "https://open.spotify.com/track/5Nc1xk9zx8t7MwLq0qzWxf"
+    },
+    {
+      "canonical_slug": "miles-davis--deception",
+      "name": "Deception",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "miles-davis",
+      "primary_artist_name": "Miles Davis",
+      "release_canonical_slug": "miles-davis--birth-of-the-cool",
+      "release_name": "Birth Of The Cool",
+      "spotify_track_id": "6Tq8Fj8jZQIO24XhXV5Dno",
+      "spotify_url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
     }
   ],
   "source_refs": [
@@ -327,6 +381,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

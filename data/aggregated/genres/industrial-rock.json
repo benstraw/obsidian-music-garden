@@ -1,0 +1,121 @@
+{
+  "canonical_slug": "industrial-rock",
+  "display_title": "Industrial Rock",
+  "display_name": "Industrial Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Industrial rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Industrial_rock",
+  "summary": "Industrial rock is a fusion genre that fuses industrial music and rock music. Originally emerging in the late 1970s to early 1980s, pioneered by artists such as Chrome, Killing Joke, Swans, Big Black and Skinny Puppy, the movement was further proliferated in the late 1980s by Wax Trax! Records in Chicago, with artists like Front 242, Front Line Assembly, KMFDM, and Sister Machine Gun.",
+  "candidates": [
+    "Industrial Society and Its Future",
+    "Industrial Workers of the World",
+    "Industrial Workers of the World (Chile)",
+    "Industrial Workers of the World philosophy and tactics",
+    "Industrial process control",
+    "Industrial processes",
+    "Industrial robot",
+    "Industrial rock",
+    "Industrial rock sales and awards",
+    "Industrial society"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Industrial rock",
+    "page_url": "https://en.wikipedia.org/wiki/Industrial_rock",
+    "retrieved_at": "2026-03-28T15:57:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Big Black (1986).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Black_(1986).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Big_Black_%281986%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Big_Black_%281986%29.jpg/960px-Big_Black_%281986%29.jpg",
+    "width": 1080,
+    "height": 742,
+    "license": "Public domain",
+    "author": "Photograph by John Bohnen (\"Spell it right, fucker\")."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big Black (1986).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Black_(1986).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Big_Black_%281986%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Big_Black_%281986%29.jpg/960px-Big_Black_%281986%29.jpg",
+      "width": 1080,
+      "height": 742,
+      "license": "Public domain",
+      "author": "Photograph by John Bohnen (\"Spell it right, fucker\")."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KMFDM1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:KMFDM1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/KMFDM1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/KMFDM1.jpg/960px-KMFDM1.jpg",
+      "width": 2304,
+      "height": 1536,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Alejandro the Great"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nine inch nails - Staples Center - 11-8-13 (10755555065 16053de956 o).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nine_inch_nails_-_Staples_Center_-_11-8-13_(10755555065_16053de956_o).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nine_inch_nails_-_Staples_Center_-_11-8-13_%2810755555065_16053de956_o%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nine_inch_nails_-_Staples_Center_-_11-8-13_%2810755555065_16053de956_o%29.jpg/960px-Nine_inch_nails_-_Staples_Center_-_11-8-13_%2810755555065_16053de956_o%29.jpg",
+      "width": 3072,
+      "height": 1728,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/46612246@N00\"\u003eAl Pavangkanan\u003c/a\u003e from Van Nuys, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Orgy American band.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Orgy_American_band.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Orgy_American_band.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Orgy_American_band.jpg/960px-Orgy_American_band.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Jax_0677\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Jax 0677 (page does not exist)\"\u003eJax 0677\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--industrial-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Industrial_rock",
+      "retrieved_at": "2026-03-28T15:57:16Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--industrial-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Big_Black_(1986).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

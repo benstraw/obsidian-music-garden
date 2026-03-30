@@ -1,0 +1,46 @@
+{
+  "canonical_slug": "mafioso-rap",
+  "display_title": "Mafioso Rap",
+  "display_name": "Mafioso Rap",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Gangsta rap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gangsta_rap",
+  "summary": "Gangsta or gangster rap, initially called reality rap, is a subgenre of hip-hop that conveys the culture, values, and experiences of urban gangs and street hustlers, frequently discussing unpleasant realities of the world in general through an urban lens. Emerging in the late 1980s, gangsta rap's pioneers include Schoolly D and Ice-T, later expanding with artists such as N.W.A. In 1992, via record producer and rapper Dr. Dre, rapper Snoop Dogg, and their G-funk sound, gangster rap broadened to mainstream popularity.",
+  "candidates": [
+    "Mafioso rap",
+    "Marisora pergravis"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gangsta rap",
+    "page_url": "https://en.wikipedia.org/wiki/Gangsta_rap",
+    "retrieved_at": "2026-03-28T15:58:08Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--mafioso-rap.json",
+      "url": "https://en.wikipedia.org/wiki/Gangsta_rap",
+      "retrieved_at": "2026-03-28T15:58:08Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

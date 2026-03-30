@@ -1,11 +1,14 @@
 {
   "canonical_slug": "wet-leg--mangetout-the-dare-remix",
   "name": "mangetout - The Dare remix",
+  "play_count": 1,
   "primary_artist_canonical_slug": "wet-leg",
   "primary_artist_name": "Wet Leg",
+  "additional_artist_slugs": [
+    "the-dare"
+  ],
   "release_canonical_slug": "wet-leg--mangetout-the-dare-remix",
   "release_name": "mangetout (The Dare remix)",
   "spotify_track_id": "1IkSG0zP2JfECRpgPcr9Uq",
-  "spotify_url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
 }

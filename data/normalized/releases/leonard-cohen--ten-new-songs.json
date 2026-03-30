@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0AMbk6F6ZJ57OqlpB214gV",
   "name": "Ten New Songs",
   "primary_artist_name": "Leonard Cohen",
-  "primary_artist_canonical_slug": "leonard-cohen"
+  "primary_artist_canonical_slug": "leonard-cohen",
+  "musicbrainz_release_id": "28bb69f0-49b6-4708-9ebb-1de3d2e71e2b",
+  "musicbrainz_release_group_id": "b162cc5a-e4bb-3c65-b321-09245aea3e7a"
 }

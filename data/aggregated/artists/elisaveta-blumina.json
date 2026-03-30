@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "elisaveta-blumina",
+  "name": "Elisaveta Blumina",
+  "spotify_artist_id": "2PfSqNvD6yUMeq9krR7X3g",
+  "musicbrainz_artist_id": "faf355d2-0476-4e70-b145-a59d1f18879d",
+  "spotify_url": "https://open.spotify.com/artist/2PfSqNvD6yUMeq9krR7X3g",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a2427bf73a667f4384af35c9667c3c8c6de2022c",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/de1b2e1b1167ff77159ee89aefee39a9cefc15dc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/e5bc2911df3b987d334dcfe16ecf19b6484b7dd0",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/67467d1e536ea085cf51445883c1d0da911e6b87",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

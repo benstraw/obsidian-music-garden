@@ -1,0 +1,99 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2p0UyoPfYfI76PCStuXfOP",
+  "name": "Franz Schubert",
+  "spotify_url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP",
+  "musicbrainz_artist_id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+  "status": "matched",
+  "page_title": "Franz Schubert",
+  "summary": "Franz Peter Schubert was an Austrian composer of the late Classical and early Romantic eras. Despite his short life, Schubert left behind a vast oeuvre of thousands of works, including more than 600 Lieder and other vocal works, seven complete symphonies, sacred music, operas, incidental music, and a large body of piano and chamber music. His major works include the songs \"Gretchen am Spinnrade\", \"Erlkönig\" and \"Ave Maria\"; the Trout Quintet; the Symphony No. 8 in B minor (Unfinished); the Symphony No. 9 in C major ; the String Quartet No. 14 in D minor ; the String Quintet in C major; the Impromptus for solo piano; the last three piano sonatas; the Fantasia in F minor for piano four hands; the incidental music to the play Rosamunde; and the song cycles Die schöne Müllerin, Winterreise, and Schwanengesang.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Franz_Schubert",
+  "candidates": [
+    "Frank Shubert",
+    "Franz Schubert",
+    "Franz Schubert (film)",
+    "Franz Schubert (song)",
+    "Franz Schubert and Modern Music Competition",
+    "Franz Schubert's Ave Maria",
+    "Franz Schubert's Works",
+    "Franz Schubert: Thematisches Verzeichnis seiner Werke in chronologischer Folge",
+    "Franz Schuberts Begräbniß-Feyer",
+    "Franz Schuler"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Franz Schubert",
+    "page_url": "https://en.wikipedia.org/wiki/Franz_Schubert",
+    "retrieved_at": "2026-03-28T10:39:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alsergrund (Wien) - Schuberthaus (1).JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alsergrund_(Wien)_-_Schuberthaus_(1).JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Alsergrund_%28Wien%29_-_Schuberthaus_%281%29.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alsergrund_%28Wien%29_-_Schuberthaus_%281%29.JPG/960px-Alsergrund_%28Wien%29_-_Schuberthaus_%281%29.JPG",
+    "width": 4250,
+    "height": 2833,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bwag\" title=\"User:Bwag\"\u003eC.Stadler/Bwag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alsergrund (Wien) - Schuberthaus (1).JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alsergrund_(Wien)_-_Schuberthaus_(1).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Alsergrund_%28Wien%29_-_Schuberthaus_%281%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alsergrund_%28Wien%29_-_Schuberthaus_%281%29.JPG/960px-Alsergrund_%28Wien%29_-_Schuberthaus_%281%29.JPG",
+      "width": 4250,
+      "height": 2833,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bwag\" title=\"User:Bwag\"\u003eC.Stadler/Bwag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Austria.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/960px-Flag_of_Austria.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Landesverteidigung\" class=\"extiw\" title=\"de:Bundesministerium für Landesverteidigung\"\u003eBundesministerium für Landesverteidigung\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Franz Schubert Signature.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Franz_Schubert_Signature.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Franz_Schubert_Signature.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Franz_Schubert_Signature.svg/960px-Franz_Schubert_Signature.svg.png",
+      "width": 254,
+      "height": 137,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Connormah\" title=\"User:Connormah\"\u003eConnormah\u003c/a\u003e, Franz Schubert"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Franz Schubert by Kriehuber 1846.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Franz_Schubert_by_Kriehuber_1846.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Franz_Schubert_by_Kriehuber_1846.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Franz_Schubert_by_Kriehuber_1846.jpg/960px-Franz_Schubert_by_Kriehuber_1846.jpg",
+      "width": 2400,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Josef_Kriehuber\" class=\"extiw\" title=\"w:en:Josef Kriehuber\"\u003e\u003cspan title=\"Austrian lithographer and painter (1800–1876)\"\u003eJosef Kriehuber\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0q97TXwQIlhiPhSyBnc5uY",
+  "name": "Stephan MacLeod",
+  "spotify_url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY",
+  "musicbrainz_artist_id": "47343ef1-e67b-4fc4-a893-044d93d3d330",
+  "status": "matched",
+  "page_title": "Stephan MacLeod",
+  "summary": "Stephan MacLeod is a Swiss bass and conductor focused on Baroque music in historically informed performance who has performed internationally. He was first bass of the Huelgas Ensemble for five years and took part in the complete recording of Bach's cantatas by Masaaki Suzuki and the Bach Collegium Japan as both a soloist and a choir member. He founded his own ensemble, Gli Angeli Genève, and has also been professor of singing at the Lausanne Conservatory.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Stephan_MacLeod",
+  "candidates": [
+    "Stephan MacLeod",
+    "Stephen McLeod"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stephan MacLeod",
+    "page_url": "https://en.wikipedia.org/wiki/Stephan_MacLeod",
+    "retrieved_at": "2026-03-28T10:42:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Haydneum Stephan MacLeod - Fotó- Pilvax Films (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Haydneum_Stephan_MacLeod_-_Fot%C3%B3-_Pilvax_Films_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Haydneum_Stephan_MacLeod_-_Fot%C3%B3-_Pilvax_Films_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Haydneum_Stephan_MacLeod_-_Fot%C3%B3-_Pilvax_Films_%28cropped%29.jpg",
+    "width": 338,
+    "height": 499,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Pkoz2020\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Pkoz2020 (page does not exist)\"\u003ePkoz2020\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Haydneum Stephan MacLeod - Fotó- Pilvax Films (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Haydneum_Stephan_MacLeod_-_Fot%C3%B3-_Pilvax_Films_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Haydneum_Stephan_MacLeod_-_Fot%C3%B3-_Pilvax_Films_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Haydneum_Stephan_MacLeod_-_Fot%C3%B3-_Pilvax_Films_%28cropped%29.jpg",
+      "width": 338,
+      "height": 499,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Pkoz2020\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Pkoz2020 (page does not exist)\"\u003ePkoz2020\u003c/a\u003e"
+    }
+  ]
+}

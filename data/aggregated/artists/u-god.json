@@ -1,0 +1,74 @@
+{
+  "canonical_slug": "u-god",
+  "name": "U-God",
+  "spotify_artist_id": "0G070wUUUBptmqGEKAAUVx",
+  "musicbrainz_artist_id": "29edaca5-7e7d-4391-b137-ff1c94a4d262",
+  "spotify_url": "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "status": "matched",
+  "wikipedia_title": "U-God",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/U-God",
+  "summary": "Lamont Jody Hawkins, better known by his stage name U-God, meaning Universal-God, is an American rapper and member of the hip hop collective Wu-Tang Clan. He has been with the group since its inception, and is known for his deep voice and rhythmic flow that can alternate between gruff and smooth.",
+  "candidates": [
+    "U godini",
+    "U-God",
+    "U-God discography",
+    "U-Godzilla Presents The Hillside Scramblers",
+    "Ugo D'Alessio",
+    "Ugo Didier",
+    "Ugo La Malfa",
+    "Ugo d'Este",
+    "Ugo da Carpi",
+    "Ugo de Wilde"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "U-God",
+    "page_url": "https://en.wikipedia.org/wiki/U-God",
+    "retrieved_at": "2026-03-28T10:43:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:U-God in Paris, 2013 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:U-God_in_Paris,_2013_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/U-God_in_Paris%2C_2013_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/U-God_in_Paris%2C_2013_%28cropped%29.jpg/960px-U-God_in_Paris%2C_2013_%28cropped%29.jpg",
+    "width": 2861,
+    "height": 2989,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Coup d'Oreille"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:U-God in Paris, 2013 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:U-God_in_Paris,_2013_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/U-God_in_Paris%2C_2013_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/U-God_in_Paris%2C_2013_%28cropped%29.jpg/960px-U-God_in_Paris%2C_2013_%28cropped%29.jpg",
+      "width": 2861,
+      "height": 2989,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Coup d'Oreille"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:U-God performing in Atlanta.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:U-God_performing_in_Atlanta.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/U-God_performing_in_Atlanta.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/U-God_performing_in_Atlanta.jpg/960px-U-God_performing_in_Atlanta.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30661862@N00\"\u003eDom Brady\u003c/a\u003e from Atlanta, Georgia, United States"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

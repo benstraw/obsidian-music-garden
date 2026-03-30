@@ -1,7 +1,9 @@
 {
   "canonical_slug": "emmylou-harris",
   "name": "Emmylou Harris",
+  "play_count": 5,
   "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+  "musicbrainz_artist_id": "35ef61ca-43db-4772-ba27-0489e9ebcb69",
   "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP",
   "genres": [
     "alt-country",
@@ -133,5 +135,5 @@
       "author": "Emmylou Harris/scanned and edited by \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Kursebi\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Kursebi (page does not exist)\"\u003eKursebi\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

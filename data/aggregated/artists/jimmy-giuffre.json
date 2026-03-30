@@ -1,0 +1,53 @@
+{
+  "canonical_slug": "jimmy-giuffre",
+  "name": "Jimmy Giuffre",
+  "play_count": 6,
+  "spotify_artist_id": "4RncsrNJ1GDGsFBIxI76L6",
+  "musicbrainz_artist_id": "a7bd6de6-1739-4927-93f0-693b1f8fed32",
+  "spotify_url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273f13e832e7bb6125c03174c60",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02f13e832e7bb6125c03174c60",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851f13e832e7bb6125c03174c60",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Jimmy Giuffre",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Giuffre",
+  "summary": "James Peter Giuffre was an American jazz clarinetist, saxophonist, composer, and arranger. He is known for developing forms of jazz which allowed for free interplay between the musicians, anticipating forms of free improvisation.",
+  "candidates": [
+    "Jimmy Giuffre",
+    "Jimmy Giuffre (album)",
+    "The Jimmy Giuffre 3",
+    "The Jimmy Giuffre Clarinet",
+    "The Jimmy Giuffre Quartet in Person"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jimmy Giuffre",
+    "page_url": "https://en.wikipedia.org/wiki/Jimmy_Giuffre",
+    "retrieved_at": "2026-03-28T10:39:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jimmy Giuffre.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jimmy Giuffre.jpg"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

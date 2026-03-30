@@ -4,6 +4,10 @@
   "name": "Verses from the Abstract (feat. Vinia Mojica \u0026 Ron Carter)",
   "primary_artist_name": "A Tribe Called Quest",
   "primary_artist_canonical_slug": "a-tribe-called-quest",
+  "additional_artist_slugs": [
+    "vinia-mojica",
+    "ron-carter"
+  ],
   "release_name": "The Low End Theory",
   "release_canonical_slug": "a-tribe-called-quest--the-low-end-theory",
   "spotify_url": "https://open.spotify.com/track/6zrsmzrMoxNkXEQLubCWtA"

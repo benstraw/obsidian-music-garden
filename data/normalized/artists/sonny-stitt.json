@@ -1,0 +1,73 @@
+{
+  "source": "spotify",
+  "source_artist_id": "217b0uqAzsOOhGcnoANZqj",
+  "name": "Sonny Stitt",
+  "spotify_url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj",
+  "musicbrainz_artist_id": "d7828cdd-7d63-49c0-b09b-cf3df7ecaf80",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Sonny Stitt",
+  "summary": "Sonny Stitt was an American jazz saxophonist of the bebop/hard bop idiom. Known for his warm tone, he was one of the best-documented saxophonists of his era, recording over 100 albums. He was nicknamed the \"Lone Wolf\" by jazz critic Dan Morgenstern because of his tendency to rarely work with the same musicians for long despite his relentless touring and devotion to the craft. Stitt was sometimes regarded as a Charlie Parker mimic early in his career, but gradually developed his own sound and style, particularly when performing on the tenor saxophone and even occasionally baritone saxophone.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Sonny_Stitt",
+  "candidates": [
+    "Sonny Stitt",
+    "Sonny Stitt (album)",
+    "Sonny Stitt / Live at Ronnie Scott's",
+    "Sonny Stitt Blows the Blues",
+    "Sonny Stitt Plays",
+    "Sonny Stitt Plays Arrangements from the Pen of Quincy Jones",
+    "Sonny Stitt Sits in with the Oscar Peterson Trio",
+    "Sonny Stitt with Strings: A Tribute to Duke Ellington",
+    "Sonny Stitt with the New Yorkers",
+    "Sonny Stitt/Bud Powell/J. J. Johnson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sonny Stitt",
+    "page_url": "https://en.wikipedia.org/wiki/Sonny_Stitt",
+    "retrieved_at": "2026-03-28T10:42:48Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sonny Stitt-140911-0026-114WP.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Stitt-140911-0026-114WP.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sonny_Stitt-140911-0026-114WP.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sonny_Stitt-140911-0026-114WP.jpg/960px-Sonny_Stitt-140911-0026-114WP.jpg",
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:JPRoche\" title=\"User:JPRoche\"\u003eJPRoche\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Stitt-140911-0026-114WP.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Stitt-140911-0026-114WP.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sonny_Stitt-140911-0026-114WP.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sonny_Stitt-140911-0026-114WP.jpg/960px-Sonny_Stitt-140911-0026-114WP.jpg",
+      "width": 1024,
+      "height": 683,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:JPRoche\" title=\"User:JPRoche\"\u003eJPRoche\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Stitt.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Stitt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sonny_Stitt.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Sonny_Stitt.jpg/960px-Sonny_Stitt.jpg",
+      "width": 4267,
+      "height": 6433,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11447043@N00/\"\u003eTom Marcello\u003c/a\u003e Webster, New York, USA"
+    }
+  ]
+}

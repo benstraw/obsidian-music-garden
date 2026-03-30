@@ -1,0 +1,31 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1OCdpTg8d7Ehpj8B9j4iqa",
+  "name": "John Abercrombie",
+  "spotify_url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa",
+  "musicbrainz_artist_id": "80c75300-9cf2-4daf-bb23-5fe15964e671",
+  "source_genres": [
+    "jazz",
+    "jazz fusion",
+    "rock",
+    "rough guide jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "jazz-fusion",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Joe Abercrombie",
+    "John Abercrombie",
+    "John Abercrombie (congressman)",
+    "John Abercrombie (cricketer)",
+    "John Abercrombie (guitarist)",
+    "John Abercrombie (horticulturist)",
+    "John Abercrombie (physician)",
+    "John Abercrombie / Marc Johnson / Peter Erskine",
+    "John Abercromby (British Army officer)",
+    "John Abercromby, 5th Baron Abercromby"
+  ]
+}

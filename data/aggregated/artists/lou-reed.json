@@ -1,0 +1,144 @@
+{
+  "canonical_slug": "lou-reed",
+  "name": "Lou Reed",
+  "play_count": 7,
+  "spotify_artist_id": "42TFhl7WlMRXiNqzSrnzPL",
+  "musicbrainz_artist_id": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+  "spotify_url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL",
+  "genres": [
+    "alternative-rock",
+    "art-rock",
+    "baroque-pop",
+    "glam-rock",
+    "proto-punk",
+    "rock",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "alternative",
+    "art rock",
+    "baroque pop",
+    "glam rock",
+    "male vocalists",
+    "piano rock",
+    "proto-punk",
+    "rock",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/2e1e9a6fe696b536a1f9e6a27fc1ed23d2c97099",
+      "height": 1006,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/49b8173759e47ed5e74d1c7c11a932e4dc6a91f9",
+      "height": 644,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/bb3e155f456d2f3533b753417cf586408c00fff0",
+      "height": 201,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/cf74e6ba4644f8f5a552060f40d3864aeb6a4311",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Lou Reed",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lou_Reed",
+  "summary": "Lewis Allan Reed was an American musician, songwriter and poet. He was the guitarist, singer, and principal songwriter for the rock band the Velvet Underground and had a solo career that spanned five decades. Although not commercially successful during its existence, the Velvet Underground came to be regarded as one of the most influential bands in the history of underground and alternative rock music. Reed's distinctive deadpan voice, poetic and transgressive lyrics, and experimental guitar playing were trademarks throughout his long career.",
+  "candidates": [
+    "Lou Reed",
+    "Lou Reed (album)",
+    "Lou Reed (rugby union)",
+    "Lou Reed Live",
+    "Lou Reed Stowell",
+    "Lou Reed and Metallica",
+    "Lou Reed discography",
+    "Lou Reed's Berlin",
+    "Loureedia",
+    "Loureedia annulipes"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lou Reed",
+    "page_url": "https://en.wikipedia.org/wiki/Lou_Reed",
+    "retrieved_at": "2026-03-28T10:40:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Chuck Hammer and Lou Reed.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Chuck_Hammer_and_Lou_Reed.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chuck_Hammer_and_Lou_Reed.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chuck_Hammer_and_Lou_Reed.jpg",
+    "width": 750,
+    "height": 506,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Deeperknowledge22\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Deeperknowledge22 (page does not exist)\"\u003eDeeperknowledge22\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chuck Hammer and Lou Reed.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chuck_Hammer_and_Lou_Reed.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chuck_Hammer_and_Lou_Reed.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chuck_Hammer_and_Lou_Reed.jpg",
+      "width": 750,
+      "height": 506,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Deeperknowledge22\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Deeperknowledge22 (page does not exist)\"\u003eDeeperknowledge22\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lou Reed-Conspiracy of Hope-by Steven Toole.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lou_Reed-Conspiracy_of_Hope-by_Steven_Toole.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lou_Reed-Conspiracy_of_Hope-by_Steven_Toole.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lou_Reed-Conspiracy_of_Hope-by_Steven_Toole.jpg",
+      "width": 575,
+      "height": 604,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Smtoole\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Smtoole (page does not exist)\"\u003eSteven Toole\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lou Reed 1966(cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lou_Reed_1966(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lou_Reed_1966%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Lou_Reed_1966%28cropped%29.jpg",
+      "width": 429,
+      "height": 566,
+      "license": "Public domain",
+      "author": "Photographer unknown. Published by \u003ca href=\"https://en.wikipedia.org/wiki/Verve_Records\" class=\"extiw\" title=\"w:Verve Records\"\u003eVerve Records\u003c/a\u003e, a subsidiary of \u003ca href=\"https://en.wikipedia.org/wiki/MGM_Records\" class=\"extiw\" title=\"w:MGM Records\"\u003eMGM Records\u003c/a\u003e at the time."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lou Reed 1977.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lou_Reed_1977.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lou_Reed_1977.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lou_Reed_1977.JPG/960px-Lou_Reed_1977.JPG",
+      "width": 1106,
+      "height": 1554,
+      "license": "Public domain",
+      "author": "Arista Records/Photo by Mick Rock."
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

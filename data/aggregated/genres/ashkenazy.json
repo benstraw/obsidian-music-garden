@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "ashkenazy",
+  "display_title": "Ashkenazy",
+  "display_name": "Ashkenazy",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Ashkenazy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ashkenazy",
+  "summary": "Ashkenazy is a Jewish surname. Notable people with the name include:Ben Ashkenazy, American billionaire real estate developer\nDimitri Ashkenazy, clarinetist\nSeveryn Ashkenazy, American hotelier and philanthropist\nVladimir Ashkenazy, pianist and conductor\nVovka Ashkenazy, pianist and pedagogue",
+  "candidates": [
+    "Ashkenazi Jewish cuisine",
+    "Ashkenazi Jewish intelligence",
+    "Ashkenazi Jews",
+    "Ashkenazy",
+    "Ben Ashkenazy",
+    "Dimitri Ashkenazy",
+    "Gabi Ashkenazi",
+    "Severyn Ashkenazy",
+    "Tzvi Ashkenazi",
+    "Vladimir Ashkenazy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ashkenazy",
+    "page_url": "https://en.wikipedia.org/wiki/Ashkenazy",
+    "retrieved_at": "2026-03-28T15:53:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:WPanthroponymy.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:WPanthroponymy.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/WPanthroponymy.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/960px-WPanthroponymy.svg.png",
+    "width": 53,
+    "height": 51,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:WPanthroponymy.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:WPanthroponymy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/WPanthroponymy.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/960px-WPanthroponymy.svg.png",
+      "width": 53,
+      "height": 51,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ashkenazy.json",
+      "url": "https://en.wikipedia.org/wiki/Ashkenazy",
+      "retrieved_at": "2026-03-28T15:53:11Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--ashkenazy.json",
+      "url": "https://commons.wikimedia.org/wiki/File:WPanthroponymy.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,7 +1,9 @@
 {
   "canonical_slug": "flatland-cavalry",
   "name": "Flatland Cavalry",
+  "play_count": 1,
   "spotify_artist_id": "4SfGzWmeoNPKIOmiyc7Pav",
+  "musicbrainz_artist_id": "ada86294-d23d-4e54-a764-570d090f0d8e",
   "spotify_url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav",
   "genres": [
     "country",
@@ -69,5 +71,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Nichos\" title=\"User:Nichos\"\u003eNichos\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

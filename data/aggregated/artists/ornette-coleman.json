@@ -1,7 +1,9 @@
 {
   "canonical_slug": "ornette-coleman",
   "name": "Ornette Coleman",
+  "play_count": 3,
   "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
+  "musicbrainz_artist_id": "169c0d1b-fcb8-4a43-9097-829aa7b39205",
   "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P",
   "genres": [
     "bebop",
@@ -129,5 +131,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

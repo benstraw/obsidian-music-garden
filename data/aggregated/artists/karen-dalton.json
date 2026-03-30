@@ -1,0 +1,66 @@
+{
+  "canonical_slug": "karen-dalton",
+  "name": "Karen Dalton",
+  "play_count": 3,
+  "spotify_artist_id": "5O5V29YvM6AzAQ0rNt59fy",
+  "musicbrainz_artist_id": "09e1f320-5f26-415a-ad19-003f6e9969e8",
+  "spotify_url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy",
+  "genres": [
+    "blues"
+  ],
+  "source_genres": [
+    "blues",
+    "contemporary folk",
+    "country blues"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb77aa40ee58245b9801a1c309",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517477aa40ee58245b9801a1c309",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17877aa40ee58245b9801a1c309",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Karen Dalton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Karen_Dalton",
+  "summary": "Karen J. Dalton was an American country blues singer, guitarist, and banjo player. She was associated with the early 1960s Greenwich Village folk music scene, particularly with Fred Neil, the Holy Modal Rounders, and Bob Dylan. Although she did not enjoy much commercial success during her lifetime, her music has gained significant recognition since her death. Artists like Nick Cave, Devendra Banhart, and Joanna Newsom have noted her as an influence.",
+  "candidates": [
+    "Karen Almond",
+    "Karen Aston",
+    "Karen Dalton",
+    "Karen Dalton (basketball)",
+    "Karen Dillon (filmmaker)",
+    "Karen Dillon (journalist)",
+    "Karen Hanton",
+    "Karen Rolton",
+    "Karen Rolton Oval",
+    "Karen Walton"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Karen Dalton",
+    "page_url": "https://en.wikipedia.org/wiki/Karen_Dalton",
+    "retrieved_at": "2026-03-28T10:40:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:KarenDalton.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KarenDalton.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

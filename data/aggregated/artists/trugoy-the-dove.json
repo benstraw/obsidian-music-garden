@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "trugoy-the-dove",
+  "name": "Trugoy The Dove",
+  "spotify_artist_id": "2DGyhsOLrggY3ORo3GZNf0",
+  "musicbrainz_artist_id": "88740f5e-716d-4cb5-b6ec-0cca366f53ff",
+  "spotify_url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "status": "matched",
+  "wikipedia_title": "David Jolicoeur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Jolicoeur",
+  "summary": "David Jude Jolicoeur, also known as Trugoy the Dove, Plug Two, and Dave, was an American rapper best known as one third of the hip hop group De La Soul.",
+  "candidates": [
+    "Trugoy the Dove"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "David Jolicoeur",
+    "page_url": "https://en.wikipedia.org/wiki/David_Jolicoeur",
+    "retrieved_at": "2026-03-28T10:43:43Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/De_La_Soul_-_Gods_of_Rap_Tour_2019_-_Berlin_%2835_von_49%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/De_La_Soul_-_Gods_of_Rap_Tour_2019_-_Berlin_%2835_von_49%29.jpg/330px-De_La_Soul_-_Gods_of_Rap_Tour_2019_-_Berlin_%2835_von_49%29.jpg",
+    "width": 1642,
+    "height": 2463
+  },
+  "last_updated": "2026-03-30"
+}

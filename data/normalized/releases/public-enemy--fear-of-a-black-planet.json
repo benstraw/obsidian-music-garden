@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0aFNb4RDk2hmKKLa0bzXNz",
   "name": "Fear Of A Black Planet",
   "primary_artist_name": "Public Enemy",
-  "primary_artist_canonical_slug": "public-enemy"
+  "primary_artist_canonical_slug": "public-enemy",
+  "musicbrainz_release_id": "b1ec7150-bfd2-4dc2-b7c3-8a82826acc29",
+  "musicbrainz_release_group_id": "13cf2244-c850-304d-bc46-b30e3f10e0cc"
 }

@@ -3,13 +3,19 @@
   "source_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
   "name": "Trio Mocoto",
   "spotify_url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP",
+  "musicbrainz_artist_id": "3a558793-98d2-4b42-aff6-a22ab89bd6f3",
   "source_genres": [
     "bossa nova",
     "brazilian jazz",
+    "funk",
+    "latin",
+    "mpb",
+    "rare groove a to z",
     "samba"
   ],
   "canonical_genre_slugs": [
     "bossa-nova",
+    "funk",
     "jazz",
     "samba"
   ],

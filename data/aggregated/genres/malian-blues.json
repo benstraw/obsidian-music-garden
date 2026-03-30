@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "malian-blues",
+  "display_title": "Malian Blues",
+  "display_name": "Malian Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Mad Man Blues",
+    "Mali Blues (film)",
+    "Mali blues",
+    "Malian clubs in African competitions",
+    "Mardan Blue Star FC",
+    "Marian blue"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

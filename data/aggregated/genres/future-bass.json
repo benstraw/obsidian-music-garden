@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "future-bass",
+  "display_title": "Future Bass",
+  "display_name": "Future Bass",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Future bass",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Future_bass",
+  "summary": "Future bass is a style of electronic dance music which developed in the 2010s that mixes elements of dubstep and EDM trap with warmer, less abrasive rhythms. The genre was pioneered by producers such as Rustie, Hudson Mohawke, Lido, San Holo and Cashmere Cat, and it was popularised in the mid to late-2010s by artists such as Flume, Martin Garrix, Illenium, Louis the Child and Mura Masa. 2016 was seen as the breakout year for the genre.",
+  "candidates": [
+    "Future Assault Shell Technology helmet",
+    "Future Basketball",
+    "Future Classic",
+    "Future Days (The Last of Us)",
+    "Future Days (album)",
+    "Future Kiss",
+    "Future Past (Duncan James album)",
+    "Future Past (Duran Duran album)",
+    "Future bass",
+    "The Future Past World Tour"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Future bass",
+    "page_url": "https://en.wikipedia.org/wiki/Future_bass",
+    "retrieved_at": "2026-03-28T15:56:15Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--future-bass.json",
+      "url": "https://en.wikipedia.org/wiki/Future_bass",
+      "retrieved_at": "2026-03-28T15:56:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

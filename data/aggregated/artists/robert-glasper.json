@@ -1,0 +1,96 @@
+{
+  "canonical_slug": "robert-glasper",
+  "name": "Robert Glasper",
+  "play_count": 26,
+  "spotify_artist_id": "5cM1PvItlR21WUyBnsdMcn",
+  "musicbrainz_artist_id": "6e8f82ea-9e6d-4fdd-9b32-32feef13186b",
+  "spotify_url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebeac91c1b242fe7aff48894f5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174eac91c1b242fe7aff48894f5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178eac91c1b242fe7aff48894f5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Robert Glasper",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Glasper",
+  "summary": "Robert Andre Glasper is an American pianist, record producer, songwriter, and musical arranger. His music embodies numerous musical genres, primarily centered around jazz. Glasper has won five Grammy Awards from 11 nominations.",
+  "candidates": [
+    "Gaspard Robert",
+    "Robert Gaspar",
+    "Robert Gasser",
+    "Robert Glaeser",
+    "Robert Glaser",
+    "Robert Glasper",
+    "Robert Glasser",
+    "Robert Jasper Grootveld",
+    "Robert Jasper van der Capellen",
+    "Robert Jaspert"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Robert Glasper",
+    "page_url": "https://en.wikipedia.org/wiki/Robert_Glasper",
+    "retrieved_at": "2026-03-28T10:42:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Edit-clear.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+    "width": 48,
+    "height": 48,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:RG Trio 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:RG_Trio_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/RG_Trio_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/RG_Trio_3.jpg/960px-RG_Trio_3.jpg",
+      "width": 2400,
+      "height": 3600,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:SSPoffice\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:SSPoffice (page does not exist)\"\u003eSSPoffice\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Robert Glasper - Leverkusener Jazztage 2016-AL5550.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Robert_Glasper_-_Leverkusener_Jazztage_2016-AL5550.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Robert_Glasper_-_Leverkusener_Jazztage_2016-AL5550.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_Glasper_-_Leverkusener_Jazztage_2016-AL5550.jpg/960px-Robert_Glasper_-_Leverkusener_Jazztage_2016-AL5550.jpg",
+      "width": 5215,
+      "height": 3463,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fotandi\" title=\"User:Fotandi\"\u003eAndreas Lawen, Fotandi\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

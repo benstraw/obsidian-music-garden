@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2Zg24O484ZRlDUdrTtz515",
   "name": "Don't Miss Your Moment",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "6809fc9b-0696-4062-94d0-ee02b8eafcdd",
+  "musicbrainz_release_group_id": "e783c356-f20c-4c42-804c-844be40cb343"
 }

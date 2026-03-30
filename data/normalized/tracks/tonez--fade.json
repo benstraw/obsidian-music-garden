@@ -4,6 +4,9 @@
   "name": "FADE",
   "primary_artist_name": "Tonez",
   "primary_artist_canonical_slug": "tonez",
+  "additional_artist_slugs": [
+    "verdèzul"
+  ],
   "release_name": "Fade",
   "release_canonical_slug": "tonez--fade",
   "spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF"

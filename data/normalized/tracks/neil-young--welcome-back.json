@@ -4,6 +4,9 @@
   "name": "Welcome Back",
   "primary_artist_name": "Neil Young",
   "primary_artist_canonical_slug": "neil-young",
+  "additional_artist_slugs": [
+    "crazy-horse"
+  ],
   "release_name": "Barn",
   "release_canonical_slug": "neil-young--barn",
   "spotify_url": "https://open.spotify.com/track/7HN8yp30TJfls51uMH1ayC"

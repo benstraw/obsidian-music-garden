@@ -1,0 +1,76 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0pbIqPTefLfuOcbM2ojXdl",
+  "name": "Polvo",
+  "spotify_url": "https://open.spotify.com/artist/0pbIqPTefLfuOcbM2ojXdl",
+  "musicbrainz_artist_id": "a57e5515-555a-42d6-a92a-465deac3fdd1",
+  "source_genres": [
+    "indie rock",
+    "math rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "indie-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Polvo",
+  "summary": "Polvo is an American indie rock band from Chapel Hill, North Carolina. The band formed in 1990 and is fronted by guitarists/vocalists Ash Bowie and Dave Brylawski, with Steve Popson playing bass guitar and Brian Quast playing drums. Eddie Watkins was the band's original drummer, but did not rejoin the band upon its reunion in 2008, after breaking up in 1998.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Polvo",
+  "candidates": [
+    "Ana Polvorosa",
+    "Christopher Polvoorde",
+    "Ish Polvorosa",
+    "Polbo á feira",
+    "Polvo",
+    "Polvo de Gallina Negra",
+    "Polvonqori Madrasah",
+    "Polvoron video",
+    "Polvorón",
+    "Polvos Azules"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Polvo",
+    "page_url": "https://en.wikipedia.org/wiki/Polvo",
+    "retrieved_at": "2026-03-28T10:41:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Polvo 06-27-2010.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Polvo_06-27-2010.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Polvo_06-27-2010.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Polvo_06-27-2010.jpg/960px-Polvo_06-27-2010.jpg",
+    "width": 3904,
+    "height": 2622,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Michael Cory"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Polvo 06-27-2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Polvo_06-27-2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Polvo_06-27-2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Polvo_06-27-2010.jpg/960px-Polvo_06-27-2010.jpg",
+      "width": 3904,
+      "height": 2622,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Michael Cory"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

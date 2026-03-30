@@ -1,7 +1,9 @@
 {
   "canonical_slug": "de-la-soul",
   "name": "De La Soul",
+  "play_count": 90,
   "spotify_artist_id": "1Z8ODXyhEBi3WynYw0Rya6",
+  "musicbrainz_artist_id": "a8ebde98-7e91-46c7-992c-90039ba42017",
   "spotify_url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6",
   "genres": [
     "east-coast-hip-hop",
@@ -122,5 +124,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

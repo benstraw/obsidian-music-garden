@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4vramOSuKx9DJHCHswEnan",
   "name": "Bobby Bitch",
   "primary_artist_name": "Bobby Shmurda",
-  "primary_artist_canonical_slug": "bobby-shmurda"
+  "primary_artist_canonical_slug": "bobby-shmurda",
+  "musicbrainz_release_id": "a62c0a0d-1a36-42b1-b28d-aaeb56ec62fa",
+  "musicbrainz_release_group_id": "4416389c-387d-4b8a-abbc-6ce84db8cd1d"
 }

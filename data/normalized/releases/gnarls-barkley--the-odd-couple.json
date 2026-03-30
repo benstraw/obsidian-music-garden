@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3R2TOuSPrGi3jNafJNFixD",
   "name": "The Odd Couple",
   "primary_artist_name": "Gnarls Barkley",
-  "primary_artist_canonical_slug": "gnarls-barkley"
+  "primary_artist_canonical_slug": "gnarls-barkley",
+  "musicbrainz_release_id": "f1f270f1-7c05-485c-a4bc-e175b1cee92a",
+  "musicbrainz_release_group_id": "e46f634e-0bf0-38ff-9783-8a84dd88eea8"
 }

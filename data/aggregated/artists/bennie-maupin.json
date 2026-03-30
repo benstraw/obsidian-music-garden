@@ -1,0 +1,97 @@
+{
+  "canonical_slug": "bennie-maupin",
+  "name": "Bennie Maupin",
+  "play_count": 3,
+  "spotify_artist_id": "2mv4xHxofvyWTp2ViBqgZb",
+  "musicbrainz_artist_id": "c0050289-6969-437d-be83-0fcb608ead5c",
+  "spotify_url": "https://open.spotify.com/artist/2mv4xHxofvyWTp2ViBqgZb",
+  "genres": [
+    "jazz",
+    "jazz-funk"
+  ],
+  "source_genres": [
+    "jazz",
+    "jazz-funk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d706d6cd6cc5c96d5c2d3392de6adf1ef21a5645",
+      "height": 365,
+      "width": 500
+    },
+    {
+      "url": "https://i.scdn.co/image/c21f9cc9d4ed2ee4eb8bec998e67063cb8f8802c",
+      "height": 146,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/a33ab6f90b92737dc3be09acfeaa893e2aa8ce25",
+      "height": 47,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Bennie Maupin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bennie_Maupin",
+  "summary": "Bennie Maupin is an American jazz multi-instrumentalist who performs on various saxophones, flute, and bass clarinet.",
+  "candidates": [
+    "Bennie Maupin",
+    "Bernie Taupin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bennie Maupin",
+    "page_url": "https://en.wikipedia.org/wiki/Bennie_Maupin",
+    "retrieved_at": "2026-03-28T10:37:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bennie-maupin-1326016807.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bennie-maupin-1326016807.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bennie-maupin-1326016807.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bennie-maupin-1326016807.jpg/960px-Bennie-maupin-1326016807.jpg",
+    "width": 1024,
+    "height": 680,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "W. Schwertmann"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bennie-maupin-1326016807.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bennie-maupin-1326016807.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bennie-maupin-1326016807.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bennie-maupin-1326016807.jpg/960px-Bennie-maupin-1326016807.jpg",
+      "width": 1024,
+      "height": 680,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "W. Schwertmann"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bennie Maupin DSC0280.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bennie_Maupin_DSC0280.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bennie_Maupin_DSC0280.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bennie_Maupin_DSC0280.jpg/960px-Bennie_Maupin_DSC0280.jpg",
+      "width": 2832,
+      "height": 4256,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Marek_Lazarski\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Marek Lazarski (page does not exist)\"\u003eMarek Lazarski\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Herbie Hancock and The Headhunters 1975.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Herbie_Hancock_and_The_Headhunters_1975.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Herbie_Hancock_and_The_Headhunters_1975.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Herbie_Hancock_and_The_Headhunters_1975.JPG",
+      "width": 684,
+      "height": 792,
+      "license": "Public domain",
+      "author": "ICM-International Creative Management (management)"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

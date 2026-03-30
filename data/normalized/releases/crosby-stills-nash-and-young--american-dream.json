@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0o3kj09k9lKCisAfkfUSN2",
   "name": "American Dream",
   "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
-  "primary_artist_canonical_slug": "crosby-stills-nash-and-young"
+  "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+  "musicbrainz_release_id": "62539322-7148-4910-a7fd-234a56cf03f9",
+  "musicbrainz_release_group_id": "c6156273-c3ff-3d0c-98df-b2f85787b668"
 }

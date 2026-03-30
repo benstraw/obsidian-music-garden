@@ -1,8 +1,16 @@
 {
   "canonical_slug": "christian-bollmann",
   "name": "Christian Bollmann",
+  "play_count": 1,
   "spotify_artist_id": "7zLDabVhJXJvgPMaVIsW3G",
+  "musicbrainz_artist_id": "f509b122-bc44-4995-ba2c-d8558c16593a",
   "spotify_url": "https://open.spotify.com/artist/7zLDabVhJXJvgPMaVIsW3G",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb3fc9e8c5cdce8f902069ae50",
@@ -25,5 +33,5 @@
     "Christian Dillmann",
     "Christina Kollmann"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

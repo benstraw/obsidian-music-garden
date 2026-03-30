@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1iI8thQSDO3kvRxMtxNuTD",
   "name": "Escape from Noise",
   "primary_artist_name": "Negativland",
-  "primary_artist_canonical_slug": "negativland"
+  "primary_artist_canonical_slug": "negativland",
+  "musicbrainz_release_id": "bfd0eb6b-d1f1-42a4-9bad-a440ee36053f",
+  "musicbrainz_release_group_id": "138fcf27-19b8-3a2d-bfc1-a603e87fa62d"
 }

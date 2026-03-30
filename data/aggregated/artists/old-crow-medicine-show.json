@@ -1,7 +1,9 @@
 {
   "canonical_slug": "old-crow-medicine-show",
   "name": "Old Crow Medicine Show",
+  "play_count": 42,
   "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+  "musicbrainz_artist_id": "0202af38-ac32-48d0-a546-87caaef2dee2",
   "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi",
   "genres": [
     "alt-country",
@@ -123,5 +125,5 @@
       "author": "Sean Russell"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

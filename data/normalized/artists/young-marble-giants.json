@@ -1,0 +1,105 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0tQ2Q4y9iUkKszxXyB14ZH",
+  "name": "Young Marble Giants",
+  "spotify_url": "https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH",
+  "musicbrainz_artist_id": "3d113367-769f-4200-9ff8-e19d47def451",
+  "source_genres": [
+    "british",
+    "diy",
+    "indie pop",
+    "lo-fi",
+    "minimal",
+    "minimal wave",
+    "post-punk",
+    "rough trade",
+    "welsh"
+  ],
+  "canonical_genre_slugs": [
+    "indie-pop",
+    "post-punk"
+  ],
+  "status": "matched",
+  "page_title": "Young Marble Giants",
+  "summary": "Young Marble Giants were a Welsh post-punk band formed in Cardiff, Wales, in 1978. Their music was based around the vocals of Alison Statton along with the minimalist instrumentation of brothers Philip and Stuart Moxham. Their early sound was a sharp contrast with the more aggressive punk rock that dominated the underground at the time. Young Marble Giants released just one studio album, Colossal Youth, in 1980. They also released two EPs and recorded a John Peel session.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Young_Marble_Giants",
+  "candidates": [
+    "Young Marble Giants"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Young Marble Giants",
+    "page_url": "https://en.wikipedia.org/wiki/Young_Marble_Giants",
+    "retrieved_at": "2026-03-28T10:44:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ymg 001.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ymg_001.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ymg_001.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ymg_001.jpg",
+      "width": 640,
+      "height": 426,
+      "license": "Public domain",
+      "author": "Original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Duncanssmith\" class=\"extiw\" title=\"en:User:Duncanssmith\"\u003eDuncanssmith\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ymg 002.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ymg_002.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ymg_002.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ymg_002.jpg",
+      "width": 640,
+      "height": 420,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Duncanssmith\" class=\"extiw\" title=\"wikipedia:User:Duncanssmith\"\u003eDuncanssmith\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ymg 005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ymg_005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ymg_005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ymg_005.jpg",
+      "width": 640,
+      "height": 424,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Duncanssmith\" class=\"extiw\" title=\"wikipedia:User:Duncanssmith\"\u003eDuncanssmith\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ymg 006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ymg_006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ymg_006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ymg_006.jpg",
+      "width": 640,
+      "height": 444,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Duncanssmith\" class=\"extiw\" title=\"wikipedia:User:Duncanssmith\"\u003eDuncanssmith\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ]
+}

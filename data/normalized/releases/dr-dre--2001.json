@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7q2B4M5EiBkqrlsNW8lB7N",
   "name": "2001",
   "primary_artist_name": "Dr. Dre",
-  "primary_artist_canonical_slug": "dr-dre"
+  "primary_artist_canonical_slug": "dr-dre",
+  "musicbrainz_release_id": "9545a5e5-014e-3381-8d8a-32a780b450ae",
+  "musicbrainz_release_group_id": "f28e065d-fd56-3929-b0a4-6aa1b4c78bdb"
 }

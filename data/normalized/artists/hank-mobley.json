@@ -1,0 +1,57 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5cbutZUQE7SUCA6MsEMbBv",
+  "name": "Hank Mobley",
+  "spotify_url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv",
+  "musicbrainz_artist_id": "026b096e-e024-42ab-82f3-107bddae77c2",
+  "status": "matched",
+  "page_title": "Hank Mobley",
+  "summary": "Henry Mobley was an American tenor saxophonist and composer. Mobley was described by Leonard Feather as the \"middleweight champion of the tenor saxophone\", a metaphor used to describe his tone, that was neither as aggressive as John Coltrane nor as mellow as Lester Young, and his style that was laid-back, subtle and melodic, especially in contrast with players such as Coltrane and Sonny Rollins. The critic Stacia Proefrock claimed him \"one of the most underrated musicians of the bop era.\" Mobley's compositions include \"Double Exposure\", \"Soul Station\", and \"Dig Dis\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Hank_Mobley",
+  "candidates": [
+    "Hank Foley",
+    "Hank Mobley",
+    "Hank Mobley (album)",
+    "Hank Mobley Quartet",
+    "Hank Mobley Quintet",
+    "Hank Mobley Sextet",
+    "Hank Mobley and His All Stars",
+    "Hank Mobley discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hank Mobley",
+    "page_url": "https://en.wikipedia.org/wiki/Hank_Mobley",
+    "retrieved_at": "2026-03-28T10:39:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gedenktafel Alfred-Lion-Steg (Schön) Alfred Lion (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Alfred-Lion-Steg_(Sch%C3%B6n)_Alfred_Lion_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gedenktafel_Alfred-Lion-Steg_%28Sch%C3%B6n%29_Alfred_Lion_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gedenktafel_Alfred-Lion-Steg_%28Sch%C3%B6n%29_Alfred_Lion_%28cropped%29.jpg",
+    "width": 624,
+    "height": 670,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:OTFW\" title=\"User:OTFW\"\u003eOTFW\u003c/a\u003e, Berlin"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gedenktafel Alfred-Lion-Steg (Schön) Alfred Lion (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gedenktafel_Alfred-Lion-Steg_(Sch%C3%B6n)_Alfred_Lion_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gedenktafel_Alfred-Lion-Steg_%28Sch%C3%B6n%29_Alfred_Lion_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Gedenktafel_Alfred-Lion-Steg_%28Sch%C3%B6n%29_Alfred_Lion_%28cropped%29.jpg",
+      "width": 624,
+      "height": 670,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:OTFW\" title=\"User:OTFW\"\u003eOTFW\u003c/a\u003e, Berlin"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hank Mobley.jpg"
+    }
+  ]
+}

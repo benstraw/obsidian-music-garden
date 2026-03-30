@@ -1,11 +1,14 @@
 {
   "canonical_slug": "kendrick-lamar--loyalty-feat-rihanna",
   "name": "LOYALTY. FEAT. RIHANNA.",
+  "play_count": 1,
   "primary_artist_canonical_slug": "kendrick-lamar",
   "primary_artist_name": "Kendrick Lamar",
+  "additional_artist_slugs": [
+    "rihanna"
+  ],
   "release_canonical_slug": "kendrick-lamar--damn",
   "release_name": "DAMN.",
   "spotify_track_id": "6SwRhMLwNqEi6alNPVG00n",
-  "spotify_url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
 }

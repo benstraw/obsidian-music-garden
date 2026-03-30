@@ -1,0 +1,84 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2UqjDAXnDxejEyE0CzfUrZ",
+  "name": "Robert Schumann",
+  "spotify_url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ",
+  "musicbrainz_artist_id": "3cd3882c-00f8-4362-a0c2-ad89ed248533",
+  "status": "matched",
+  "page_title": "Robert Schumann",
+  "summary": "Robert Schumann was a German composer, pianist, and music critic of the early Romantic era. He composed in all the main musical genres of the time, writing for solo piano, voice and piano, chamber groups, orchestra, choir and the opera. His works typify the spirit of the Romantic era in German music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Robert_Schumann",
+  "candidates": [
+    "Robert Schumann",
+    "Robert Schumann Hochschule",
+    "Robert Schumann House",
+    "Robert Schumann International Competition for Pianists and Singers",
+    "Robert Schumann Prize",
+    "Robert Schumann Prize for Poetry and Music",
+    "Robert Schumann Prize of the City of Zwickau",
+    "Robert Schumann in Three Pieces",
+    "Robert Schumann's Davidsbündlertänze",
+    "Robert-Schumann-Philharmonie"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Robert Schumann",
+    "page_url": "https://en.wikipedia.org/wiki/Robert_Schumann",
+    "retrieved_at": "2026-03-28T10:42:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clara-Wieck-1832-signed-illegible.png"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clara und Robert Schumann Relief MIM.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clara_und_Robert_Schumann_Relief_MIM.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Clara_und_Robert_Schumann_Relief_MIM.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clara_und_Robert_Schumann_Relief_MIM.jpg/960px-Clara_und_Robert_Schumann_Relief_MIM.jpg",
+      "width": 2154,
+      "height": 2113,
+      "license": "Public domain",
+      "author": "Museumsinsulaner"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Du Ring an meinem Finger.jpg"
+    }
+  ]
+}

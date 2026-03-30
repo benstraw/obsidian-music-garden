@@ -1,0 +1,47 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5O5V29YvM6AzAQ0rNt59fy",
+  "name": "Karen Dalton",
+  "spotify_url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy",
+  "musicbrainz_artist_id": "09e1f320-5f26-415a-ad19-003f6e9969e8",
+  "source_genres": [
+    "blues",
+    "contemporary folk",
+    "country blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues"
+  ],
+  "status": "matched",
+  "page_title": "Karen Dalton",
+  "summary": "Karen J. Dalton was an American country blues singer, guitarist, and banjo player. She was associated with the early 1960s Greenwich Village folk music scene, particularly with Fred Neil, the Holy Modal Rounders, and Bob Dylan. Although she did not enjoy much commercial success during her lifetime, her music has gained significant recognition since her death. Artists like Nick Cave, Devendra Banhart, and Joanna Newsom have noted her as an influence.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Karen_Dalton",
+  "candidates": [
+    "Karen Almond",
+    "Karen Aston",
+    "Karen Dalton",
+    "Karen Dalton (basketball)",
+    "Karen Dillon (filmmaker)",
+    "Karen Dillon (journalist)",
+    "Karen Hanton",
+    "Karen Rolton",
+    "Karen Rolton Oval",
+    "Karen Walton"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Karen Dalton",
+    "page_url": "https://en.wikipedia.org/wiki/Karen_Dalton",
+    "retrieved_at": "2026-03-28T10:40:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:KarenDalton.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KarenDalton.jpg"
+    }
+  ]
+}

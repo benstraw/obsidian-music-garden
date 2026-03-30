@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4B3g0efO0BWHfpIQg01dA9",
   "name": "Mid December",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "0a4011c2-d22a-4c4f-954e-ff2c83186ec8",
+  "musicbrainz_release_group_id": "bee35c37-a827-4b77-aace-7be96cce5afe"
 }

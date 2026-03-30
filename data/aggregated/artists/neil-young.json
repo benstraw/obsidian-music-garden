@@ -1,7 +1,9 @@
 {
   "canonical_slug": "neil-young",
   "name": "Neil Young",
+  "play_count": 46,
   "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+  "musicbrainz_artist_id": "75167b8b-44e4-407b-9d35-effe87b223cf",
   "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm",
   "genres": [
     "classic-rock",
@@ -129,5 +131,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bodoklecksel\" title=\"User:Bodoklecksel\"\u003eBodoklecksel\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

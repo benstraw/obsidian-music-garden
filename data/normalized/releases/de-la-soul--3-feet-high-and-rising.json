@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "34LxHI9x14qXUOS8AWRrYD",
   "name": "3 Feet High and Rising",
   "primary_artist_name": "De La Soul",
-  "primary_artist_canonical_slug": "de-la-soul"
+  "primary_artist_canonical_slug": "de-la-soul",
+  "musicbrainz_release_id": "6ae7ef0b-f175-4f5e-8b2b-1e71f561ce41",
+  "musicbrainz_release_group_id": "5243f39c-c344-3989-a0f6-2a2f75a9d827"
 }

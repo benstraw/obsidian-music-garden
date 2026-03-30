@@ -1,0 +1,76 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0Wxy5Qka8BN9crcFkiAxSR",
+  "name": "Howlin' Wolf",
+  "spotify_url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR",
+  "musicbrainz_artist_id": "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
+  "source_genres": [
+    "blues",
+    "blues rock",
+    "classic blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "blues-rock"
+  ],
+  "status": "matched",
+  "page_title": "Howlin' Wolf",
+  "summary": "Chester Arthur Burnett, better known by his stage name Howlin' Wolf, was an American blues singer, guitarist and harmonica player. He was at the forefront of transforming acoustic Delta blues into electric Chicago blues, and over a four-decade career, recorded blues, rhythm and blues, rock and roll, and psychedelic rock. He is regarded as one of the most influential blues musicians ever.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Howlin'_Wolf",
+  "candidates": [
+    "Howleen Wolf",
+    "Howlin' Wolf",
+    "Howlin' Wolf (album)",
+    "Howlin' Wolf London Sessions",
+    "Howling Wolf",
+    "Howling Wolf (Cheyenne)",
+    "Howling Wolf Sings the Blues",
+    "The Howlin' Wolf",
+    "The Howlin' Wolf Album",
+    "The Howlin' Wolf Story – The Secret History of Rock \u0026 Roll"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Howlin' Wolf",
+    "page_url": "https://en.wikipedia.org/wiki/Howlin'_Wolf",
+    "retrieved_at": "2026-03-28T10:39:29Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Howlin Wolf AABF 1970 JT.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Howlin_Wolf_AABF_1970_JT.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Howlin_Wolf_AABF_1970_JT.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Howlin_Wolf_AABF_1970_JT.jpg/960px-Howlin_Wolf_AABF_1970_JT.jpg",
+    "width": 1353,
+    "height": 1800,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Eatonland\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Eatonland (page does not exist)\"\u003eEatonland\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Howlin Wolf AABF 1970 JT.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Howlin_Wolf_AABF_1970_JT.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Howlin_Wolf_AABF_1970_JT.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Howlin_Wolf_AABF_1970_JT.jpg/960px-Howlin_Wolf_AABF_1970_JT.jpg",
+      "width": 1353,
+      "height": 1800,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Eatonland\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Eatonland (page does not exist)\"\u003eEatonland\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

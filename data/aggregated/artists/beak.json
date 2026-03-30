@@ -1,0 +1,50 @@
+{
+  "canonical_slug": "beak",
+  "name": "Beak\u003e",
+  "play_count": 4,
+  "spotify_artist_id": "5MGxwE9JG5IA6uqswrgNL6",
+  "musicbrainz_artist_id": "bda0beab-8c08-4a34-9af0-97a1b647ad9b",
+  "spotify_url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6",
+  "genres": [
+    "experimental",
+    "krautrock",
+    "post-rock"
+  ],
+  "source_genres": [
+    "drone",
+    "experimental",
+    "krautrock",
+    "post-rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0dd34ec8f956be0904d8717f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051740dd34ec8f956be0904d8717f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1780dd34ec8f956be0904d8717f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Beak",
+    "Beak trimming",
+    "Beaked whale",
+    "Beaker (Muppet)",
+    "Beakerhead",
+    "Beakman's World",
+    "Beaky Buzzard",
+    "Daniel Beak",
+    "Norman Beaker",
+    "The Beaker Girls"
+  ],
+  "last_updated": "2026-03-28"
+}

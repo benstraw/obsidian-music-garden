@@ -264,6 +264,44 @@ This command also writes compatibility artifacts for downstream URL continuity:
 
 ---
 
+## import-legacy-plays
+
+```bash
+./music-garden import-legacy-plays --source-dir /path/to/benstrawbridge.com/data/spotify [--dry-run] [--force] [--artist VALUE] [--fallback-from YYYY-MM-DD] [--fallback-to YYYY-MM-DD]
+```
+
+Imports historical playback from the old site's `topTracks.json` into the
+garden's normal sharded play history.
+
+**Import scope:**
+- `topTracks.json` as the primary playback source
+- `artists.json` as support data for raw genres and `first_seen` / `last_seen`
+  date hints
+
+**Behavior:**
+- one `topTracks.json` item becomes one synthetic historical play
+- imported plays are written into `data/plays/YYYY/YYYY-WNN.json`
+- imported plays are marked with `source: legacy-backfill`
+- timestamps are assigned deterministically across each artist's historical date
+  window, or a fallback window when no legacy dates exist
+- a manifest is written to `data/import-manifests/legacy-plays.json`
+
+**Flags:**
+
+| Flag | Default | Description |
+|------|---------|-------------|
+| `--source-dir` | required | Legacy `data/spotify` directory |
+| `--dry-run` | false | Report prepared play counts without writing shards or manifest |
+| `--force` | false | Override an existing legacy play import manifest |
+| `--artist` | none | Limit import to one legacy primary artist by slug, name, or Spotify ID |
+| `--fallback-from` | `2024-01-01` | Start date for artists with no legacy `first_seen` |
+| `--fallback-to` | `2024-12-31` | End date for artists with no legacy `last_seen` |
+
+This is a one-time historical backfill tool. It is not intended as a recurring
+sync path.
+
+---
+
 ## persona
 
 ```bash

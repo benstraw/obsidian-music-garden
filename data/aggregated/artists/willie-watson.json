@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "willie-watson",
+  "name": "Willie Watson",
+  "play_count": 6,
+  "spotify_artist_id": "5j9IEu1SEY0JslCPmfVsgq",
+  "musicbrainz_artist_id": "6310db9e-f2c7-4e76-8af4-e56905993482",
+  "spotify_url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef2c189fdcb42143020dd420",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ef2c189fdcb42143020dd420",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ef2c189fdcb42143020dd420",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "William Watson",
+    "William Wilson",
+    "Willie Mason",
+    "Willie Watson (English cricketer)",
+    "Willie Watson (English footballer)",
+    "Willie Watson (New Zealand cricketer)",
+    "Willie Watson (bowls)",
+    "Willie Watson (footballer, born 1949)",
+    "Willie Watson (musician)",
+    "Willie Wilson (businessman)"
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,58 @@
+{
+  "canonical_slug": "the-modern-jazz-quartet",
+  "name": "The Modern Jazz Quartet",
+  "play_count": 9,
+  "spotify_artist_id": "7wBFjZMHsC6nfV0HOSd6uI",
+  "musicbrainz_artist_id": "75472b2f-55ca-47bb-a192-5ac8601350ba",
+  "spotify_url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/a711b799e8ccc15dba9c1fb9eb122b4e2d1c98a7",
+      "height": 1015,
+      "width": 868
+    },
+    {
+      "url": "https://i.scdn.co/image/62d26653cedde95fe304fec36ee3a2679ea59c07",
+      "height": 748,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ac83b10b65711abc366ec8c66a65c139434ec69d",
+      "height": 234,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/821eaa4e2752e5ab6d3abed56b1a20e1e5abe91d",
+      "height": 75,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Modern Jazz Quartet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Modern_Jazz_Quartet",
+  "summary": "The Modern Jazz Quartet (MJQ) was a jazz combo established in 1952 that played music influenced by classical, cool jazz, blues and bebop. The Quartet consisted of John Lewis (piano), Milt Jackson (vibraphone), Percy Heath, and various drummers, most notably Kenny Clarke and Connie Kay. The group grew out of the rhythm section of Dizzy Gillespie's big band from 1946 to 1948, which consisted of Lewis, Jackson, and Clarke along with bassist Ray Brown. They recorded as the Milt Jackson Quartet in 1951 and Brown left the group, being replaced on bass by Heath. During the early-to-mid-1950s they became the Modern Jazz Quartet, Lewis became the group's musical director, and they made several recordings with Prestige Records, including the original versions of their two best-known compositions, Lewis's \"Django\" and Jackson's \"Bags' Groove\". Clarke left the group in 1955 and was replaced as drummer by Kay, and in 1956 they moved to Atlantic Records and made their first tour to Europe.",
+  "candidates": [
+    "The Modern Jazz Quartet",
+    "The Modern Jazz Quartet \u0026 Orchestra",
+    "The Modern Jazz Quartet (album)",
+    "The Modern Jazz Quartet Plays George Gershwin's Porgy and Bess",
+    "The Modern Jazz Quartet Plays No Sun in Venice",
+    "The Modern Jazz Quartet and the Oscar Peterson Trio at the Opera House",
+    "The Modern Jazz Quartet at Music Inn",
+    "The Modern Jazz Quartet at Music Inn Volume 2"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Modern Jazz Quartet",
+    "page_url": "https://en.wikipedia.org/wiki/Modern_Jazz_Quartet",
+    "retrieved_at": "2026-03-28T10:43:19Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Modern_Jazz_Quartet.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Modern_Jazz_Quartet.png/330px-Modern_Jazz_Quartet.png",
+    "width": 589,
+    "height": 509
+  },
+  "last_updated": "2026-03-30"
+}

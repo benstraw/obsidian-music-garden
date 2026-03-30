@@ -7,7 +7,8 @@
     "indie electronic",
     "indietronica"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Electronic music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Electronic_music",
@@ -26,17 +27,60 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 1,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 1,
+    "first_played_at": "2026-03-08T19:21:51.573Z",
+    "last_played_at": "2026-03-08T19:21:51.573Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "the-flaming-lips",
+      "name": "The Flaming Lips",
+      "play_count": 1,
+      "spotify_artist_id": "16eRpMNXSQ15wuJoeqguaB",
+      "musicbrainz_artist_id": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
+      "spotify_url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots",
+      "name": "Yoshimi Battles the Pink Robots",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-flaming-lips",
+      "primary_artist_name": "The Flaming Lips",
+      "spotify_album_id": "49LA20VMk65fQyEaIzYdvf",
+      "musicbrainz_release_id": "5ee8b734-e29a-36d9-9913-3319e21b5444",
+      "musicbrainz_release_group_id": "54b1ad4e-7e86-308d-b053-a0843f6abbdb"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots-pt-1",
+      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-flaming-lips",
+      "primary_artist_name": "The Flaming Lips",
+      "release_canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots",
+      "release_name": "Yoshimi Battles the Pink Robots",
+      "spotify_track_id": "0ccCwNzXvr1Yoz91vKz31Z",
+      "spotify_url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -46,6 +90,13 @@
       "retrieved_at": "2026-03-27T09:31:03Z",
       "updated_at": "2026-03-27",
       "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T19:21:51.573Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
   "last_updated": "2026-03-27"

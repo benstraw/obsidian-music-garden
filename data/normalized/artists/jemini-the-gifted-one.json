@@ -1,0 +1,46 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4UyhNzUvOoBzdjdvoZ9fng",
+  "name": "Jemini the Gifted One",
+  "spotify_url": "https://open.spotify.com/artist/4UyhNzUvOoBzdjdvoZ9fng",
+  "musicbrainz_artist_id": "218fb17d-20d2-4eda-bf30-a3a8ef32a041",
+  "status": "matched",
+  "page_title": "Jemini the Gifted One",
+  "summary": "Thomas Smith, better known by his stage name Jemini the Gifted One, was an American rapper from Brooklyn, New York. He most notably worked with Danger Mouse on the 2003 album Ghetto Pop Life, which features rappers such as The Pharcyde, Tha Alkaholiks, J-Zone, and Prince Po from Organized Konfusion.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jemini_the_Gifted_One",
+  "candidates": [
+    "Jemini the Gifted One"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jemini the Gifted One",
+    "page_url": "https://en.wikipedia.org/wiki/Jemini_the_Gifted_One",
+    "retrieved_at": "2026-03-28T10:39:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

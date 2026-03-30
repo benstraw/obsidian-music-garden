@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "dc-hardcore",
+  "display_title": "Dc Hardcore",
+  "display_name": "Dc Hardcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Washington, D.C., hardcore",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Washington%2C_D.C.%2C_hardcore",
+  "summary": "Washington, D.C., hardcore, commonly referred to as D.C. hardcore, sometimes styled in writing as harDCore, is the hardcore punk scene of Washington, D.C. Emerging in late 1979, it is considered one of the first and most influential punk scenes in the United States.",
+  "candidates": [
+    "DC Hardcore",
+    "Dr. McHardcore"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Washington, D.C., hardcore",
+    "page_url": "https://en.wikipedia.org/wiki/Washington%2C_D.C.%2C_hardcore",
+    "retrieved_at": "2026-03-28T15:54:51Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bad_brains_1983.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bad_brains_1983.jpg/330px-Bad_brains_1983.jpg",
+    "width": 3484,
+    "height": 2336
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--dc-hardcore.json",
+      "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C.%2C_hardcore",
+      "retrieved_at": "2026-03-28T15:54:51Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--dc-hardcore.json",
+      "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C.%2C_hardcore",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

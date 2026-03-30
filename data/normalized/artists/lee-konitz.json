@@ -1,0 +1,96 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4YNvbaOaqp5pzC5US5t48k",
+  "name": "Lee Konitz",
+  "spotify_url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k",
+  "musicbrainz_artist_id": "9136db51-46ba-4208-afd6-7753fb0739aa",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Lee Konitz",
+  "summary": "Leon \"Lee\" Konitz was an American jazz alto saxophonist and composer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lee_Konitz",
+  "candidates": [
+    "Lee Konitz",
+    "Lee Konitz Meets Jimmy Giuffre",
+    "Lee Konitz Meets Warne Marsh Again",
+    "Lee Konitz Nonet",
+    "Lee Konitz Plays with the Gerry Mulligan Quartet",
+    "Lee Konitz at Storyville",
+    "Lee Konitz discography",
+    "Lee Konitz in Harvard Square",
+    "Lee Konitz with Warne Marsh",
+    "The Lee Konitz Quintet"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lee Konitz",
+    "page_url": "https://en.wikipedia.org/wiki/Lee_Konitz",
+    "retrieved_at": "2026-03-28T10:40:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Konitz Lee Koeln altes pfandhaus 201207.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg/960px-Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg",
+    "width": 1321,
+    "height": 878,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Hans Peter Schaefer, \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.reserv-a-rt.de\"\u003ehttp://www.reserv-a-rt.de\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Konitz Lee Koeln altes pfandhaus 201207.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg/960px-Konitz_Lee_Koeln_altes_pfandhaus_201207.jpg",
+      "width": 1321,
+      "height": 878,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Hans Peter Schaefer, \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.reserv-a-rt.de\"\u003ehttp://www.reserv-a-rt.de\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lee Konitz.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lee_Konitz.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lee_Konitz.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lee_Konitz.jpg",
+      "width": 450,
+      "height": 684,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lee Konitz making of Beautiful Doll, New York, N.Y., ca. Sept. 1947.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lee_Konitz_making_of_Beautiful_Doll,_New_York,_N.Y.,_ca._Sept._1947.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lee_Konitz_making_of_Beautiful_Doll%2C_New_York%2C_N.Y.%2C_ca._Sept._1947.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lee_Konitz_making_of_Beautiful_Doll%2C_New_York%2C_N.Y.%2C_ca._Sept._1947.jpg",
+      "width": 551,
+      "height": 588,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "William P Gottlieb"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Text document with red question mark.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/960px-Text_document_with_red_question_mark.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    }
+  ]
+}

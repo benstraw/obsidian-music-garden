@@ -1,0 +1,69 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4sSSkVtrCTzENCgm2vokiY",
+  "name": "Roots Manuva",
+  "spotify_url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY",
+  "musicbrainz_artist_id": "4f6dd51e-bfd7-4153-ace7-9316d1757a57",
+  "source_genres": [
+    "conscious",
+    "conscious hip hop",
+    "hip hop",
+    "hip-hop",
+    "ragga",
+    "trip hop",
+    "uk hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop",
+    "ragga"
+  ],
+  "status": "matched",
+  "page_title": "Roots Manuva",
+  "summary": "Rodney Hylton Smith, better known by his stage name Roots Manuva, is a British rapper and producer. Since his debut in 1994, he has produced numerous albums and singles on the label Big Dada, achieving commercial success with albums Run Come Save Me and Slime \u0026 Reason. He has been described as \"one of the most influential artists in British music history.\" His most recent studio album, Bleeds, was released in October 2015.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Roots_Manuva",
+  "candidates": [
+    "Roots Manuva"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Roots Manuva",
+    "page_url": "https://en.wikipedia.org/wiki/Roots_Manuva",
+    "retrieved_at": "2026-03-28T10:42:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Roots Manuva Anais photography Auckland concert-2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Roots_Manuva_Anais_photography_Auckland_concert-2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Roots_Manuva_Anais_photography_Auckland_concert-2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Roots_Manuva_Anais_photography_Auckland_concert-2.jpg/960px-Roots_Manuva_Anais_photography_Auckland_concert-2.jpg",
+      "width": 2726,
+      "height": 4104,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Anais21\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Anais21 (page does not exist)\"\u003eAnaïs Chaine\u003c/a\u003e"
+    }
+  ]
+}

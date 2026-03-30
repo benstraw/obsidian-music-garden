@@ -1,0 +1,17 @@
+{
+  "source": "spotify",
+  "source_artist_id": "07XCuLAlan1rpEFzbegCWE",
+  "name": "Orchester der J. S. Bach-Stiftung",
+  "spotify_url": "https://open.spotify.com/artist/07XCuLAlan1rpEFzbegCWE",
+  "musicbrainz_artist_id": "7ec77a1b-c25e-4ef9-9f3e-8cc1e497bcaf",
+  "source_genres": [
+    "baroque",
+    "classical",
+    "orchestra",
+    "swiss orchestra"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "not_found"
+}

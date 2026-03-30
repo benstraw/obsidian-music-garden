@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0ObliAtls0po56kVnacsOd",
+  "name": "Bugseed",
+  "spotify_url": "https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd",
+  "musicbrainz_artist_id": "0ac8acec-5828-449d-8dbe-9d7a1293673a",
+  "source_genres": [
+    "electronic",
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Bugseed",
+  "summary": "Bugseed is a common name for a plant that may refer to:Corispermum, Chenopodiaceae\nDicoria canescens, Asteraceae",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bugseed",
+  "candidates": [
+    "Bugesera invasion",
+    "Bugger",
+    "Bugseed",
+    "Bugsy Siegel",
+    "Bus",
+    "Busted (2002 Busted album)",
+    "Busted (band)",
+    "Busted Stuff",
+    "Busted!",
+    "BuzzFeed"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bugseed",
+    "page_url": "https://en.wikipedia.org/wiki/Bugseed",
+    "retrieved_at": "2026-03-28T10:37:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:DAB list gray.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:DAB_list_gray.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/DAB_list_gray.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DAB_list_gray.svg/960px-DAB_list_gray.svg.png",
+    "width": 220,
+    "height": 168,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Edokter\" title=\"User:Edokter\"\u003eEdokter\u003c/a\u003e (modified version)",
+    "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Edokter\" title=\"User:Edokter\"\u003eEdokter\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DAB list gray.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DAB_list_gray.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/DAB_list_gray.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/DAB_list_gray.svg/960px-DAB_list_gray.svg.png",
+      "width": 220,
+      "height": 168,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Edokter\" title=\"User:Edokter\"\u003eEdokter\u003c/a\u003e (modified version)",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Edokter\" title=\"User:Edokter\"\u003eEdokter\u003c/a\u003e"
+    }
+  ]
+}

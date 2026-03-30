@@ -1,0 +1,88 @@
+{
+  "canonical_slug": "larry-coryell",
+  "name": "Larry Coryell",
+  "play_count": 6,
+  "spotify_artist_id": "25s8YpOLWqI2SgTlvapJyQ",
+  "musicbrainz_artist_id": "5a8f286f-cb7c-4e31-b021-935173f160ed",
+  "spotify_url": "https://open.spotify.com/artist/25s8YpOLWqI2SgTlvapJyQ",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9ada8e6f72ce925e94288ca2ce6fa9b200181014",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/4418dc9fef959656594a01bd638ff3b58428969d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1cdc5eb09537b0fc96009a99c1afcb207a079ff1",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/a58f0fe43af2ccfa111a21bddf9fd64ffa81af84",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Larry Coryell",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Larry_Coryell",
+  "summary": "Larry Coryell was an American jazz guitarist, widely considered the \"godfather of fusion\". Alongside Gábor Szabó, he was a pioneer in melding jazz, country and rock music. Coryell was also a music teacher and a writer, penning a monthly column for Guitar Player magazine from 1977 to 1989. He collaborated with a number of other high-profile musicians, including John McLaughlin, Chick Corea, Miroslav Vitouš, Billy Cobham, Lenny White, Emily Remler, Al Di Meola, Paco de Lucía, Steve Morse and others.",
+  "candidates": [
+    "Lady Coryell",
+    "Larry Carwell",
+    "Larry Cochell",
+    "Larry Coryell",
+    "Larry Coryell at the Village Gate",
+    "Larry Costello",
+    "Larry Worrell"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Larry Coryell",
+    "page_url": "https://en.wikipedia.org/wiki/Larry_Coryell",
+    "retrieved_at": "2026-03-28T10:40:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Larry-coryell-ffm-001.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Larry-coryell-ffm-001.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larry-coryell-ffm-001.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larry-coryell-ffm-001.jpg",
+    "width": 769,
+    "height": 1411,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dontworry\" title=\"User:Dontworry\"\u003eDontworry\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Larry-coryell-ffm-001.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Larry-coryell-ffm-001.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larry-coryell-ffm-001.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Larry-coryell-ffm-001.jpg",
+      "width": 769,
+      "height": 1411,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dontworry\" title=\"User:Dontworry\"\u003eDontworry\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Larry Coryell 1979.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Larry_Coryell_1979.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Larry_Coryell_1979.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Larry_Coryell_1979.jpg",
+      "width": 420,
+      "height": 635,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

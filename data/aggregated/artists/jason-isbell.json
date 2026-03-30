@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "jason-isbell",
+  "name": "Jason Isbell",
+  "spotify_artist_id": "3Q8wgwyVVv0z4UEh1HB0KY",
+  "spotify_url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY",
+  "genres": [
+    "alt-country",
+    "americana",
+    "country-rock",
+    "red-dirt"
+  ],
+  "source_genres": [
+    "alt country",
+    "americana",
+    "red dirt",
+    "roots rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9c4def51159843ebc3182b11",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749c4def51159843ebc3182b11",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

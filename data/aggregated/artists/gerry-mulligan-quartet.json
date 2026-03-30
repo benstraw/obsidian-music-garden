@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "gerry-mulligan-quartet",
+  "name": "Gerry Mulligan Quartet",
+  "play_count": 8,
+  "spotify_artist_id": "6nLkWu5DSXItXcB6q2ISTO",
+  "musicbrainz_artist_id": "78b711d1-43d7-464c-a110-490a8041fcf7",
+  "spotify_url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27372af4a9b46118c869296f4c8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0272af4a9b46118c869296f4c8",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485172af4a9b46118c869296f4c8",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Gerry Mulligan Quartet Volume 1",
+    "Gerry Mulligan Quartet Volume 2",
+    "The Gerry Mulligan Quartet",
+    "The Gerry Mulligan Quartet (1962 album)"
+  ],
+  "last_updated": "2026-03-28"
+}

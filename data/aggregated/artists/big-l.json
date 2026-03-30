@@ -1,20 +1,29 @@
 {
   "canonical_slug": "big-l",
   "name": "Big L",
+  "play_count": 1,
   "spotify_artist_id": "30fiiwr2EeZp1tAhzYCmyM",
+  "musicbrainz_artist_id": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
   "spotify_url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM",
   "genres": [
     "boom-bap",
     "east-coast-hip-hop",
     "hardcore-hip-hop",
     "hip-hop",
+    "jazz-rap",
     "old-school-hip-hop"
   ],
   "source_genres": [
     "boom bap",
     "east coast hip hop",
+    "gangsta rap",
     "hardcore hip hop",
     "hip hop",
+    "hip hop rap",
+    "hip-hop",
+    "horrorcore",
+    "jazz rap",
+    "mafioso rap",
     "old school hip hop"
   ],
   "images": [
@@ -92,5 +101,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

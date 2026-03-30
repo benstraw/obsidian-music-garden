@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "microhouse",
+  "display_title": "Microhouse",
+  "display_name": "Microhouse",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Microhouse",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Microhouse",
+  "summary": "Microhouse, buftech or sometimes just minimal, is a subgenre of house music strongly influenced by minimalism and 1990s techno.",
+  "candidates": [
+    "George Mirehouse",
+    "Micro House EZ-BIOS",
+    "MicroMUSE",
+    "Microhospital",
+    "Microhouse",
+    "Microhousing",
+    "Microhyus",
+    "Micromouse",
+    "Micromuse",
+    "The Micro User"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Microhouse",
+    "page_url": "https://en.wikipedia.org/wiki/Microhouse",
+    "retrieved_at": "2026-03-28T15:58:22Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--microhouse.json",
+      "url": "https://en.wikipedia.org/wiki/Microhouse",
+      "retrieved_at": "2026-03-28T15:58:22Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2zs0GVCzgBvCtDBSdRn8Q9",
   "name": "HEY TONY!",
   "primary_artist_name": "JID",
-  "primary_artist_canonical_slug": "jid"
+  "primary_artist_canonical_slug": "jid",
+  "musicbrainz_release_id": "1a4bc073-0163-4cf6-9eba-d32f8dbb3b0c",
+  "musicbrainz_release_group_id": "57cf0f08-3b29-4db9-a19c-9a2d62ea0e00"
 }

@@ -1,11 +1,14 @@
 {
   "canonical_slug": "kendrick-lamar--the-recipe-bonus-track",
   "name": "The Recipe - Bonus Track",
+  "play_count": 1,
   "primary_artist_canonical_slug": "kendrick-lamar",
   "primary_artist_name": "Kendrick Lamar",
+  "additional_artist_slugs": [
+    "dr-dre"
+  ],
   "release_canonical_slug": "kendrick-lamar--good-kid-m-a-a-d-city-deluxe",
   "release_name": "good kid, m.A.A.d city (Deluxe)",
   "spotify_track_id": "1eRBW1HcyM1zPlxO26cScZ",
-  "spotify_url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"
 }

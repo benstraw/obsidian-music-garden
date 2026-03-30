@@ -4,6 +4,9 @@
   "name": "Acid Raindrops",
   "primary_artist_name": "People Under The Stairs",
   "primary_artist_canonical_slug": "people-under-the-stairs",
+  "additional_artist_slugs": [
+    "camel-mc"
+  ],
   "release_name": "O.S.T.",
   "release_canonical_slug": "people-under-the-stairs--o-s-t",
   "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp"

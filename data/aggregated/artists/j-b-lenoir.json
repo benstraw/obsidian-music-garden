@@ -1,0 +1,52 @@
+{
+  "canonical_slug": "j-b-lenoir",
+  "name": "J.B. Lenoir",
+  "play_count": 6,
+  "spotify_artist_id": "3enRG6NEAfCkJI2muGcnT1",
+  "musicbrainz_artist_id": "29b9edaa-058f-489a-b54a-73cc3627661c",
+  "spotify_url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1",
+  "genres": [
+    "blues"
+  ],
+  "source_genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273c66e0f533d2dd6182d2a6c40",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02c66e0f533d2dd6182d2a6c40",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851c66e0f533d2dd6182d2a6c40",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "J. B. Lenoir",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/J._B._Lenoir",
+  "summary": "J. B. Lenoir was an American blues guitarist and singer-songwriter, active in the Chicago blues scene in the 1950s and 1960s.",
+  "candidates": [
+    "J.B. Lenoir"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "J. B. Lenoir",
+    "page_url": "https://en.wikipedia.org/wiki/J._B._Lenoir",
+    "retrieved_at": "2026-03-28T10:39:42Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/J_B_Lenoir.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/J_B_Lenoir.jpg",
+    "width": 250,
+    "height": 253
+  },
+  "last_updated": "2026-03-28"
+}

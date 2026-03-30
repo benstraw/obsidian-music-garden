@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "fabloo",
+  "display_title": "Fabloo",
+  "display_name": "Fabloo",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Tally Hall",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tally_Hall",
+  "summary": "Tally Hall is an American rock band formed in Ann Arbor, Michigan, in December 2002, and publicly active until the conclusion of their Good \u0026 Evil tour in 2011. The band is known for its eclectic musical style, extensive use of vocal harmonies, and matching outfits featuring white button up shirts, colored neckties, and after 2008, black vests. The members originally described their musical style as \"wonky rock\", later redefining their sound as \"fabloo\", to not let any particular genres define their music after critics began defining the characteristics of \"wonky rock\".",
+  "candidates": [
+    "Fabio Cannavaro",
+    "Fabio Capello",
+    "Fable (2004 video game)",
+    "Fable (2026 video game)",
+    "Fable II",
+    "Fablehaven",
+    "Fables (comics)",
+    "Fables of the Reconstruction",
+    "Fabloo",
+    "Facebook"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tally Hall",
+    "page_url": "https://en.wikipedia.org/wiki/Tally_Hall",
+    "retrieved_at": "2026-03-28T15:55:45Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/TallyHall.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/TallyHall.jpg/330px-TallyHall.jpg",
+    "width": 2816,
+    "height": 2112
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--fabloo.json",
+      "url": "https://en.wikipedia.org/wiki/Tally_Hall",
+      "retrieved_at": "2026-03-28T15:55:45Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--fabloo.json",
+      "url": "https://en.wikipedia.org/wiki/Tally_Hall",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

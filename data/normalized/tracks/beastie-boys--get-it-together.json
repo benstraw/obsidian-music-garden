@@ -4,6 +4,9 @@
   "name": "Get It Together",
   "primary_artist_name": "Beastie Boys",
   "primary_artist_canonical_slug": "beastie-boys",
+  "additional_artist_slugs": [
+    "q-tip"
+  ],
   "release_name": "Ill Communication",
   "release_canonical_slug": "beastie-boys--ill-communication",
   "spotify_url": "https://open.spotify.com/track/6aaPceG6TnixvAZQ1wBMdp"

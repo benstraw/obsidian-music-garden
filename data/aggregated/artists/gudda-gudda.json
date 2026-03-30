@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "gudda-gudda",
+  "name": "Gudda Gudda",
+  "spotify_artist_id": "7s47glsDg6fwq9KXNTsTpa",
+  "musicbrainz_artist_id": "2833c498-bc1c-4f2b-8417-00636f600479",
+  "spotify_url": "https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa",
+  "status": "matched",
+  "wikipedia_title": "Gudda Gudda",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gudda_Gudda",
+  "summary": "Carl Eugene Lilly Jr., better known by his stage name Gudda Gudda, is an American rapper from New Orleans, Louisiana. He performed on Young Money Entertainment's 2009 single \"BedRock\", which peaked at number two on the Billboard Hot 100.",
+  "candidates": [
+    "Guda Guda Community",
+    "Gudaguda Fairies",
+    "Gudda Gudda",
+    "Guddi Gudda",
+    "Guledgud Assembly constituency"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gudda Gudda",
+    "page_url": "https://en.wikipedia.org/wiki/Gudda_Gudda",
+    "retrieved_at": "2026-03-28T10:39:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gudda Gudda performing at General Motors Place.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gudda_Gudda_performing_at_General_Motors_Place.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gudda_Gudda_performing_at_General_Motors_Place.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gudda_Gudda_performing_at_General_Motors_Place.jpg",
+    "width": 524,
+    "height": 555,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/79486775@N00\"\u003eAlice Lin\u003c/a\u003e from Vancouver, Canada"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gudda Gudda performing at General Motors Place.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gudda_Gudda_performing_at_General_Motors_Place.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gudda_Gudda_performing_at_General_Motors_Place.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Gudda_Gudda_performing_at_General_Motors_Place.jpg",
+      "width": 524,
+      "height": 555,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/79486775@N00\"\u003eAlice Lin\u003c/a\u003e from Vancouver, Canada"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

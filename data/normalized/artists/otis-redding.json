@@ -3,11 +3,14 @@
   "source_artist_id": "60df5JBRRPcnSpsIMxxwQm",
   "name": "Otis Redding",
   "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
+  "musicbrainz_artist_id": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
   "source_genres": [
     "classic soul",
+    "funk soul",
     "motown",
     "soul",
-    "soul blues"
+    "soul blues",
+    "southern soul"
   ],
   "canonical_genre_slugs": [
     "blues",

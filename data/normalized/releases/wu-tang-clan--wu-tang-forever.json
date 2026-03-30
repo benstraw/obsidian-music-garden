@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4r3TaXjF2b1qwCpxjIpW43",
   "name": "Wu-Tang Forever",
-  "primary_artist_name": "Wu-Tang Clan",
-  "primary_artist_canonical_slug": "wu-tang-clan"
+  "primary_artist_name": "Wu‐Tang Clan",
+  "primary_artist_canonical_slug": "wu-tang-clan",
+  "musicbrainz_release_id": "05ceec03-fe5d-39b2-b535-3e56bfeb9e3d",
+  "musicbrainz_release_group_id": "9c175231-56c2-35f1-a8f0-6059ad587d59"
 }

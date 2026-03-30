@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "porno-for-pyros",
+  "name": "Porno for Pyros",
+  "play_count": 9,
+  "spotify_artist_id": "58etTNn7xmsQZhjnfjpAXL",
+  "musicbrainz_artist_id": "211ee5ca-67e3-4845-8313-6e6cbab95b1b",
+  "spotify_url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL",
+  "genres": [
+    "alternative-pop-rock",
+    "alternative-rock",
+    "pop",
+    "rock"
+  ],
+  "source_genres": [
+    "alt rock",
+    "alternative",
+    "alternative pop/rock",
+    "alternative rock",
+    "alternative/indie rock",
+    "dance-rock",
+    "heavy metal",
+    "pop/rock",
+    "rock",
+    "self-titled",
+    "spaceship on cover"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb66eb9aa916b01b9281afed0b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517466eb9aa916b01b9281afed0b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17866eb9aa916b01b9281afed0b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Porno for Pyros",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Porno_for_Pyros",
+  "summary": "Porno for Pyros was an American alternative rock band formed in Los Angeles, California, in 1992, following the first break-up of Jane's Addiction. The band currently consists of Jane's Addiction members Perry Farrell (vocals) and Stephen Perkins (drums), alongside Peter DiStefano (guitar) and Mike Watt (bass). Founding bass guitarist Martyn LeNoble was a member of the band between 1992 and 1995, and was initially committed to the band's reunion between 2022 and 2023.",
+  "candidates": [
+    "Porno for Pyros",
+    "Porno for Pyros (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Porno for Pyros",
+    "page_url": "https://en.wikipedia.org/wiki/Porno_for_Pyros",
+    "retrieved_at": "2026-03-28T10:41:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Farrell - Watt.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Farrell_-_Watt.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Farrell_-_Watt.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Farrell_-_Watt.jpg/960px-Farrell_-_Watt.jpg",
+    "width": 1531,
+    "height": 1081,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Constantino14\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Constantino14 (page does not exist)\"\u003eConstantino14\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Farrell - Watt.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Farrell_-_Watt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Farrell_-_Watt.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Farrell_-_Watt.jpg/960px-Farrell_-_Watt.jpg",
+      "width": 1531,
+      "height": 1081,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Constantino14\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Constantino14 (page does not exist)\"\u003eConstantino14\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Porno for Pyros in 1993.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

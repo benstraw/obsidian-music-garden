@@ -3,13 +3,14 @@
   "source_artist_id": "1eEfMU2AhEo7XnKgL7c304",
   "name": "Carpenters",
   "spotify_url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304",
+  "musicbrainz_artist_id": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
   "source_genres": [
     "adult standards",
     "christmas"
   ],
   "canonical_genre_slugs": [
     "adult-standards",
-    "christmas"
+    "christmas-music"
   ],
   "status": "ambiguous",
   "candidates": [

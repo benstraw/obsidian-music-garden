@@ -1,0 +1,48 @@
+{
+  "canonical_slug": "cortex",
+  "name": "Cortex",
+  "play_count": 3,
+  "spotify_artist_id": "7EhUXju6pssa8o3CvFJTew",
+  "musicbrainz_artist_id": "37e91401-0402-40cb-a5e9-b2a63746bd32",
+  "spotify_url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew",
+  "genres": [
+    "funk",
+    "jazz"
+  ],
+  "source_genres": [
+    "funk",
+    "jazz",
+    "jazz rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb442921fca18cfc00575ce410",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174442921fca18cfc00575ce410",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178442921fca18cfc00575ce410",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Cortex",
+    "Cortex (anatomy)",
+    "Cortex (band)",
+    "Cortex (botany)",
+    "Cortex (journal)",
+    "Cortex Classic System",
+    "Cortex Command",
+    "Cortex Innovation Community",
+    "Cortex Plus",
+    "Cortex System"
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6IjhOxJSTPh15KgFTSZ68K",
+  "name": "Grand Puba",
+  "spotify_url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K",
+  "musicbrainz_artist_id": "fabe923b-4c57-4f77-b98a-198bf6ddc1b5",
+  "source_genres": [
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Grand Puba",
+  "summary": "Maxwell Dixon, known professionally as Grand Puba, is an American rapper and record producer, best known as a member of Brand Nubian from New Rochelle, New York. He was formerly a member of Masters of Ceremony.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Grand_Puba",
+  "candidates": [
+    "Grand Palace",
+    "Grand Paris Express",
+    "Grand Poobah",
+    "Grand Prairie Stadium",
+    "Grand Prairie, Texas",
+    "Grand Puba",
+    "Grand Puba discography",
+    "Grand Puba, Positive",
+    "Grand-Place",
+    "Grandparent"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Grand Puba",
+    "page_url": "https://en.wikipedia.org/wiki/Grand_Puba",
+    "retrieved_at": "2026-03-28T10:39:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Grand Puba in 2014.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Grand_Puba_in_2014.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Grand_Puba_in_2014.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grand_Puba_in_2014.jpg/960px-Grand_Puba_in_2014.jpg",
+    "width": 1129,
+    "height": 1427,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DeShaun_Craddock\" title=\"User:DeShaun Craddock\"\u003eDeShaun Craddock\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Grand Puba in 2014.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Grand_Puba_in_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Grand_Puba_in_2014.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grand_Puba_in_2014.jpg/960px-Grand_Puba_in_2014.jpg",
+      "width": 1129,
+      "height": 1427,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DeShaun_Craddock\" title=\"User:DeShaun Craddock\"\u003eDeShaun Craddock\u003c/a\u003e"
+    }
+  ]
+}

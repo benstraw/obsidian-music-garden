@@ -1,0 +1,97 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2wOqMjp9TyABvtHdOSOTUS",
+  "name": "Ludwig van Beethoven",
+  "spotify_url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+  "musicbrainz_artist_id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+  "status": "matched",
+  "page_title": "Ludwig van Beethoven",
+  "summary": "Ludwig van Beethoven was a German composer and pianist. He is widely regarded as one of the greatest composers in the history of classical music, and his symphonies redefined the medium for later musicians.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+  "candidates": [
+    "Ludwig Van Beethoven's Ninth Symphony",
+    "Ludwig van Beethoven",
+    "Ludwig van Beethoven (Baerer)",
+    "Ludwig van Beethoven (disambiguation)",
+    "Ludwig van Beethoven and Wolfgang Amadeus Mozart",
+    "Ludwig van Beethoven in film",
+    "Ludwig van Beethoven the Elder",
+    "Ludwig van Beethoven's piano sonatas",
+    "Ludwig van Beethovens Werke"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ludwig van Beethoven",
+    "page_url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+    "retrieved_at": "2026-03-28T10:40:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Antonie Brentano3.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Antonie_Brentano3.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Antonie_Brentano3.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Antonie_Brentano3.jpg/960px-Antonie_Brentano3.jpg",
+    "width": 1506,
+    "height": 2334,
+    "license": "Public domain",
+    "author": "Josef Karl Stieler (1781–1858)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Antonie Brentano3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Antonie_Brentano3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Antonie_Brentano3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Antonie_Brentano3.jpg/960px-Antonie_Brentano3.jpg",
+      "width": 1506,
+      "height": 2334,
+      "license": "Public domain",
+      "author": "Josef Karl Stieler (1781–1858)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beethoven 5th Symphony Holograph manuscript.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beethoven_5th_Symphony_Holograph_manuscript.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Beethoven_5th_Symphony_Holograph_manuscript.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Beethoven_5th_Symphony_Holograph_manuscript.jpg/960px-Beethoven_5th_Symphony_Holograph_manuscript.jpg",
+      "width": 1200,
+      "height": 873,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Beethoven"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beethoven 7.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beethoven_7.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Beethoven_7.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Beethoven_7.jpg",
+      "width": 440,
+      "height": 640,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q765093\" class=\"extiw\" title=\"d:Q765093\"\u003e\u003cspan title=\"German painter (1793-1864)\"\u003eAugust von Kloeber\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beethoven Funerals (without frame).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beethoven_Funerals_(without_frame).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Beethoven_Funerals_%28without_frame%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Beethoven_Funerals_%28without_frame%29.jpg/960px-Beethoven_Funerals_%28without_frame%29.jpg",
+      "width": 1774,
+      "height": 1073,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Franz_Xaver_St%C3%B6ber\" class=\"extiw\" title=\"w:en:Franz Xaver Stöber\"\u003e\u003cspan title=\"Austrian etcher (1795-1858)\"\u003eFranz Xaver Stöber\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

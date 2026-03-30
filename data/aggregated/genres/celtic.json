@@ -6,19 +6,91 @@
   "aliases": [
     "celtic"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Celtic music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Celtic_music",
+  "summary": "Celtic music is a broad grouping of music genres that evolved out of the folk music traditions of the Celtic people of Northwestern Europe. It refers to both orally-transmitted traditional music and recorded music and the styles vary considerably to include everything from traditional music to a wide range of hybrids.",
   "candidates": [
-    "Celtic",
-    "Celtic Britons",
-    "Celtic Christianity",
-    "Celtic F.C.",
-    "Celtic Tiger",
-    "Celtic Woman",
-    "Celtic deities",
-    "Celtic languages",
-    "Celtic nations",
-    "Celtics–Lakers rivalry"
+    "Celtic music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Celtic music",
+    "page_url": "https://en.wikipedia.org/wiki/Celtic_music",
+    "retrieved_at": "2026-03-30T04:11:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A Stivell 072707 Nuremberg 02.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_Stivell_072707_Nuremberg_02.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/A_Stivell_072707_Nuremberg_02.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A_Stivell_072707_Nuremberg_02.JPG/960px-A_Stivell_072707_Nuremberg_02.JPG",
+    "width": 3024,
+    "height": 2016,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Zinnmann\" title=\"User:Zinnmann\"\u003eZinnmann\u003c/a\u003e",
+    "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/wiki/User:Zinnmann\" title=\"User:Zinnmann\"\u003eZinnmann\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A Stivell 072707 Nuremberg 02.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_Stivell_072707_Nuremberg_02.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/A_Stivell_072707_Nuremberg_02.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/A_Stivell_072707_Nuremberg_02.JPG/960px-A_Stivell_072707_Nuremberg_02.JPG",
+      "width": 3024,
+      "height": 2016,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Zinnmann\" title=\"User:Zinnmann\"\u003eZinnmann\u003c/a\u003e",
+      "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/wiki/User:Zinnmann\" title=\"User:Zinnmann\"\u003eZinnmann\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anoriant3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anoriant3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Anoriant3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Anoriant3.jpg",
+      "width": 341,
+      "height": 256,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Maelor\" class=\"extiw\" title=\"wikipedia:User:Maelor\"\u003eMaelor\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Celtic round dogs.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Celtic_round_dogs.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Celtic_round_dogs.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Celtic_round_dogs.svg/960px-Celtic_round_dogs.svg.png",
+      "width": 1400,
+      "height": 1400,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ch1902\" title=\"User:Ch1902\"\u003eCh1902\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dancing Willow - Demo-CD 2007 01 - The wind that shakes that Barley.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dancing_Willow_-_Demo-CD_2007_01_-_The_wind_that_shakes_that_Barley.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dancing_Willow_-_Demo-CD_2007_01_-_The_wind_that_shakes_that_Barley.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "trad."
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
@@ -35,6 +107,7 @@
       "name": "The Royal Scots Dragoon Guards",
       "play_count": 2,
       "spotify_artist_id": "4QtPvWkKXNZ5NJ4KRaKWql",
+      "musicbrainz_artist_id": "dacbd425-209a-4f38-be22-d17f637934b7",
       "spotify_url": "https://open.spotify.com/artist/4QtPvWkKXNZ5NJ4KRaKWql"
     }
   ],
@@ -44,7 +117,10 @@
       "name": "Auld Lang Syne",
       "play_count": 2,
       "primary_artist_canonical_slug": "the-royal-scots-dragoon-guards",
-      "primary_artist_name": "The Royal Scots Dragoon Guards"
+      "primary_artist_name": "The Royal Scots Dragoon Guards",
+      "spotify_album_id": "2wEGwkzLPWgtuiGL625AON",
+      "musicbrainz_release_id": "d80e8596-8670-484a-846a-9717751054df",
+      "musicbrainz_release_group_id": "2bee1cd3-b64b-4b44-bbf2-8ae2457cd3d0"
     }
   ],
   "top_tracks": [
@@ -79,6 +155,28 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--celtic.json",
+      "url": "https://en.wikipedia.org/wiki/Celtic_music",
+      "retrieved_at": "2026-03-30T04:11:25Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--celtic.json",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Stivell_072707_Nuremberg_02.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -86,5 +184,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

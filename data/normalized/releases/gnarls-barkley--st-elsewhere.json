@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2NQH7gYB2buQCbdvHBNRif",
   "name": "St. Elsewhere",
   "primary_artist_name": "Gnarls Barkley",
-  "primary_artist_canonical_slug": "gnarls-barkley"
+  "primary_artist_canonical_slug": "gnarls-barkley",
+  "musicbrainz_release_id": "a486b2be-c278-3adf-9822-5bc7b79699d0",
+  "musicbrainz_release_group_id": "3c47e22a-82a6-3e49-baf8-70519b6097b7"
 }

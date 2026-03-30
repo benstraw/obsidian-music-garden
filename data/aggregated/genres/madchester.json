@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "madchester",
+  "display_title": "Madchester",
+  "display_name": "Madchester",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Madchester",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Madchester",
+  "summary": "Madchester was a musical and cultural scene that emerged in the English city of Manchester during the late 1980s, closely associated with the indie dance movement. Indie dance blended indie rock with elements of acid house, psychedelia, and 1960s pop.",
+  "candidates": [
+    "Madchester",
+    "Madchester Rave On",
+    "Manchester",
+    "Manchester Airport",
+    "Manchester Arena bombing",
+    "Manchester City F.C.",
+    "Manchester United F.C.",
+    "Manchester by the Sea (film)",
+    "Manchester, New Hampshire",
+    "University of Manchester"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Madchester",
+    "page_url": "https://en.wikipedia.org/wiki/Madchester",
+    "retrieved_at": "2026-03-28T15:58:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Retro-flower-ornaments.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Retro-flower-ornaments.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Retro-flower-ornaments.svg/960px-Retro-flower-ornaments.svg.png",
+    "width": 936,
+    "height": 900,
+    "license": "Public domain",
+    "author": "AnonMoos"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Retro-flower-ornaments.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Retro-flower-ornaments.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Retro-flower-ornaments.svg/960px-Retro-flower-ornaments.svg.png",
+      "width": 936,
+      "height": 900,
+      "license": "Public domain",
+      "author": "AnonMoos"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--madchester.json",
+      "url": "https://en.wikipedia.org/wiki/Madchester",
+      "retrieved_at": "2026-03-28T15:58:08Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--madchester.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

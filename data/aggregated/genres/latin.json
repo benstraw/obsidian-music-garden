@@ -1,0 +1,127 @@
+{
+  "canonical_slug": "latin",
+  "display_title": "Latin",
+  "display_name": "Latin",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Latin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Latin",
+  "summary": "Latin is a classical language belonging to the Italic branch of the Indo-European languages. Latin was originally spoken by the Latins in Latium, the lower Tiber area around Rome, Italy. Through the expansion of the Roman Republic, it became the dominant language in the Italian Peninsula and subsequently throughout the Roman Empire. It has greatly influenced many languages, including English, having contributed many words to the English lexicon, particularly after the Christianisation of the Anglo-Saxons and the Norman Conquest. Latin roots appear frequently in the technical vocabulary used by fields such as theology, the sciences, medicine, and law.",
+  "candidates": [
+    "Latin",
+    "Latin America",
+    "Latin American Canadians",
+    "Latin Church",
+    "Latin Kings",
+    "Latin honors",
+    "Latin obscenity",
+    "Latin phonology and orthography",
+    "Latin script",
+    "Latins (Italic tribe)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Latin",
+    "page_url": "https://en.wikipedia.org/wiki/Latin",
+    "retrieved_at": "2026-03-28T15:57:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:046CupolaSPietro.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+    "width": 800,
+    "height": 600,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MarkusMark\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MarkusMark (page does not exist)\"\u003eMarkusMark\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:046CupolaSPietro.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MarkusMark\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MarkusMark (page does not exist)\"\u003eMarkusMark\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ave Maria in Latin language.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ave_Maria_in_Latin_language.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ave_Maria_in_Latin_language.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:OrbiliusMagister\" title=\"User:OrbiliusMagister\"\u003eOrbiliusMagister\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Calligraphy.malmesbury.bible.arp.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Calligraphy.malmesbury.bible.arp.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Calligraphy.malmesbury.bible.arp.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Calligraphy.malmesbury.bible.arp.jpg/960px-Calligraphy.malmesbury.bible.arp.jpg",
+      "width": 1500,
+      "height": 1011,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nGerard Brils\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Commentarii de Bello Gallico.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Commentarii_de_Bello_Gallico.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Commentarii_de_Bello_Gallico.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Commentarii_de_Bello_Gallico.jpg",
+      "width": 640,
+      "height": 509,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duenos inscription.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duenos_inscription.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Duenos_inscription.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Duenos_inscription.jpg",
+      "width": 448,
+      "height": 464,
+      "license": "Public domain"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--latin.json",
+      "url": "https://en.wikipedia.org/wiki/Latin",
+      "retrieved_at": "2026-03-28T15:57:52Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--latin.json",
+      "url": "https://commons.wikimedia.org/wiki/File:046CupolaSPietro.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

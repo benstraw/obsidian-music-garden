@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "mainstream-jazz",
+  "display_title": "Mainstream Jazz",
+  "display_name": "Mainstream Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Mainstream jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mainstream_jazz",
+  "summary": "Mainstream jazz is a term coined in the 1950s by music journalist Stanley Dance, who considered anything within the popular jazz of the Swing Era \"mainstream\", and did not include the bebop style.",
+  "candidates": [
+    "Mainstream (fanzine)",
+    "Mainstream jazz",
+    "Mainstream of Jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mainstream jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Mainstream_jazz",
+    "retrieved_at": "2026-03-28T15:58:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Duke Ellington trumpet section Apr 1943.tif",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_trumpet_section_Apr_1943.tif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Duke_Ellington_trumpet_section_Apr_1943.tif",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Duke_Ellington_trumpet_section_Apr_1943.tif/lossy-page1-500px-Duke_Ellington_trumpet_section_Apr_1943.tif.jpg",
+    "width": 560,
+    "height": 456,
+    "license": "Public domain",
+    "author": "Gordon Parks for the U.S. Office of War Information"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duke Ellington trumpet section Apr 1943.tif",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_trumpet_section_Apr_1943.tif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Duke_Ellington_trumpet_section_Apr_1943.tif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Duke_Ellington_trumpet_section_Apr_1943.tif/lossy-page1-500px-Duke_Ellington_trumpet_section_Apr_1943.tif.jpg",
+      "width": 560,
+      "height": 456,
+      "license": "Public domain",
+      "author": "Gordon Parks for the U.S. Office of War Information"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--mainstream-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Mainstream_jazz",
+      "retrieved_at": "2026-03-28T15:58:09Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--mainstream-jazz.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_trumpet_section_Apr_1943.tif",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

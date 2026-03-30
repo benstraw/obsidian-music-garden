@@ -3,15 +3,18 @@
   "source_artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
   "name": "J.J. Cale",
   "spotify_url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN",
+  "musicbrainz_artist_id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
   "source_genres": [
     "blues",
     "blues rock",
+    "rock",
     "roots rock"
   ],
   "canonical_genre_slugs": [
     "blues",
     "blues-rock",
-    "country-rock"
+    "country-rock",
+    "rock"
   ],
   "status": "matched",
   "page_title": "JJ Cale",

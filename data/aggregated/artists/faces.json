@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "faces",
+  "name": "Faces",
+  "play_count": 9,
+  "spotify_artist_id": "3v4feUQnU3VEUqFrjmtekL",
+  "spotify_url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL",
+  "genres": [
+    "glam-rock"
+  ],
+  "source_genres": [
+    "glam rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/228b37f3fd1bb220f6d1922ca179bc1d933adc37",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/d63030262e9b5452cedecd885c55d4162b839f46",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/3912a6e66a69441e993c2073e22faaa7ceccae0e",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/e348cb3082d6c559a1715d392d8ab2b2e6fb31c7",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

@@ -4,6 +4,9 @@
   "name": "He Got Game",
   "primary_artist_name": "Public Enemy",
   "primary_artist_canonical_slug": "public-enemy",
+  "additional_artist_slugs": [
+    "stephen-stills"
+  ],
   "release_name": "He Got Game (Original Motion Picture Soundtrack)",
   "release_canonical_slug": "public-enemy--he-got-game-original-motion-picture-soundtrack",
   "spotify_url": "https://open.spotify.com/track/48zajk3g8P3BMT7F9BbDoD"

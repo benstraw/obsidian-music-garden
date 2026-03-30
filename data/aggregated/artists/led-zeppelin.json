@@ -1,0 +1,35 @@
+{
+  "canonical_slug": "led-zeppelin",
+  "name": "Led Zeppelin",
+  "play_count": 2,
+  "spotify_artist_id": "36QJpDe2go2KgaRleHCDTp",
+  "spotify_url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp",
+  "genres": [
+    "classic-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "classic rock",
+    "hard rock",
+    "rock",
+    "rock and roll"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+      "height": 600,
+      "width": 600
+    },
+    {
+      "url": "https://i.scdn.co/image/b0248a44865493e6a03832aa89854ada16ff07a8",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/16eb3cdae0d824b520ac17710e943a99d3ef6602",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "dancehall"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Dancehall",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Dancehall",
@@ -104,29 +105,69 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T02:24:03.192Z",
+    "play_count": 4,
+    "unique_artist_count": 2,
+    "unique_release_count": 4,
+    "unique_track_count": 4,
+    "first_played_at": "2024-01-01T00:00:00.140049339Z",
     "last_played_at": "2026-03-03T02:24:03.192Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "ini-kamoze",
+      "name": "iNi Kamoze",
+      "play_count": 3,
+      "spotify_artist_id": "1VJspRsoC6c0bvqhnSiFCs",
+      "musicbrainz_artist_id": "ce29fa89-8aed-4f7b-8b3e-a34d0c9ed0c6",
+      "spotify_url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
+    },
     {
       "canonical_slug": "burna-boy",
       "name": "Burna Boy",
       "play_count": 1,
       "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+      "musicbrainz_artist_id": "78a19169-ac75-4868-b504-7e2e073118e0",
       "spotify_url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "ini-kamoze--16-vibes",
+      "name": "16 Vibes",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ini-kamoze",
+      "primary_artist_name": "Ini Kamoze",
+      "spotify_album_id": "75hZo1YjXDoO8iPJS25Jq4",
+      "musicbrainz_release_id": "794cd2c5-2e2d-4b19-bad1-ca10f6acac66",
+      "musicbrainz_release_group_id": "7259c0a3-c558-456f-9b4a-ace2fd38a448"
+    },
+    {
       "canonical_slug": "burna-boy--african-giant",
       "name": "African Giant",
       "play_count": 1,
       "primary_artist_canonical_slug": "burna-boy",
-      "primary_artist_name": "Burna Boy"
+      "primary_artist_name": "Burna Boy",
+      "spotify_album_id": "34vlTd4355ddD4q9pPsoqF",
+      "musicbrainz_release_id": "66bf6a99-013c-4987-886f-57c4ce0b116d",
+      "musicbrainz_release_group_id": "84444c7d-ef0e-433e-b649-72f71c054eb6"
+    },
+    {
+      "canonical_slug": "ini-kamoze--debut",
+      "name": "Debut",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ini-kamoze",
+      "primary_artist_name": "Ini Kamoze",
+      "spotify_album_id": "2ja52hUBGscIKCIiJ4vWjz",
+      "musicbrainz_release_id": "7ce7a75e-0cdc-47cb-bf8d-b525818fe2a0",
+      "musicbrainz_release_group_id": "8a7a1529-d845-38cf-a1e1-d2fd0c20fb42"
+    },
+    {
+      "canonical_slug": "ini-kamoze--ini-kamoze-2017-remastered-version",
+      "name": "Ini Kamoze (2017 Remastered Version)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ini-kamoze",
+      "primary_artist_name": "iNi Kamoze",
+      "spotify_album_id": "0KT4wAMLmol5VLFJg8qf2A"
     }
   ],
   "top_tracks": [
@@ -140,6 +181,39 @@
       "release_name": "African Giant",
       "spotify_track_id": "7rpWDu9GPlLxbLorYKVys7",
       "spotify_url": "https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7"
+    },
+    {
+      "canonical_slug": "ini-kamoze--jump-for-jah",
+      "name": "Jump for Jah",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ini-kamoze",
+      "primary_artist_name": "iNi Kamoze",
+      "release_canonical_slug": "ini-kamoze--debut",
+      "release_name": "Debut",
+      "spotify_track_id": "3qJXET6GyHY0v0WHsEBqh3",
+      "spotify_url": "https://open.spotify.com/track/3qJXET6GyHY0v0WHsEBqh3"
+    },
+    {
+      "canonical_slug": "ini-kamoze--trouble-you-a-trouble-me-2017-remastered-version",
+      "name": "Trouble You a Trouble Me (2017 Remastered Version)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ini-kamoze",
+      "primary_artist_name": "iNi Kamoze",
+      "release_canonical_slug": "ini-kamoze--ini-kamoze-2017-remastered-version",
+      "release_name": "Ini Kamoze (2017 Remastered Version)",
+      "spotify_track_id": "55xk7x07sBUfVAYS5tuQwM",
+      "spotify_url": "https://open.spotify.com/track/55xk7x07sBUfVAYS5tuQwM"
+    },
+    {
+      "canonical_slug": "ini-kamoze--world-a-reggae-music",
+      "name": "World-a-Reggae Music",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "ini-kamoze",
+      "primary_artist_name": "iNi Kamoze",
+      "release_canonical_slug": "ini-kamoze--16-vibes",
+      "release_name": "16 Vibes",
+      "spotify_track_id": "0hr9CoeDSUMmQQ7ZgTLRzh",
+      "spotify_url": "https://open.spotify.com/track/0hr9CoeDSUMmQQ7ZgTLRzh"
     }
   ],
   "source_refs": [
@@ -148,6 +222,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

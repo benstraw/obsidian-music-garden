@@ -1,0 +1,106 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4Ww5mwS7BWYjoZTUIrMHfC",
+  "name": "Charlie Parker",
+  "spotify_url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC",
+  "musicbrainz_artist_id": "c7356af9-9ea6-4a78-a55b-c73775716312",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Charlie Parker",
+  "summary": "Charles Parker Jr., nicknamed \"Bird\" or \"Yardbird\", was an American jazz saxophonist, bandleader, and composer. Parker was a highly influential soloist and leading figure in the development of bebop, a form of jazz characterized by fast tempos, virtuosic technique, and advanced harmonies. He was a virtuoso and introduced revolutionary rhythmic and harmonic ideas into jazz, including rapid passing chords, new variants of altered chords, and chord substitutions. Parker primarily played the alto saxophone.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Charlie_Parker",
+  "candidates": [
+    "Charlie Parker",
+    "Charlie Parker (Nova Scotia politician)",
+    "Charlie Parker (basketball)",
+    "Charlie Parker (cricketer)",
+    "Charlie Parker (footballer)",
+    "Charlie Parker discography",
+    "Charlie Parker on Dial",
+    "Charlie Parker with Strings",
+    "Charlie Parker's Savoy and Dial sessions",
+    "Charlie Parker's Yardbird"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Charlie Parker",
+    "page_url": "https://en.wikipedia.org/wiki/Charlie_Parker",
+    "retrieved_at": "2026-03-28T10:38:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:(52nd Street, New York, N.Y., ca. 1948) (LOC) (4976463491) (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:(52nd_Street,_New_York,_N.Y.,_ca._1948)_(LOC)_(4976463491)_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%2852nd_Street%2C_New_York%2C_N.Y.%2C_ca._1948%29_%28LOC%29_%284976463491%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%2852nd_Street%2C_New_York%2C_N.Y.%2C_ca._1948%29_%28LOC%29_%284976463491%29_%28cropped%29.jpg",
+    "width": 876,
+    "height": 581,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8623220@N02\"\u003eThe Library of Congress\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:(52nd Street, New York, N.Y., ca. 1948) (LOC) (4976463491) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:(52nd_Street,_New_York,_N.Y.,_ca._1948)_(LOC)_(4976463491)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%2852nd_Street%2C_New_York%2C_N.Y.%2C_ca._1948%29_%28LOC%29_%284976463491%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%2852nd_Street%2C_New_York%2C_N.Y.%2C_ca._1948%29_%28LOC%29_%284976463491%29_%28cropped%29.jpg",
+      "width": 876,
+      "height": 581,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8623220@N02\"\u003eThe Library of Congress\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bird's sax NMAAHC-2019.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bird%27s_sax_NMAAHC-2019.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bird%27s_sax_NMAAHC-2019.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bird%27s_sax_NMAAHC-2019.jpg/960px-Bird%27s_sax_NMAAHC-2019.jpg",
+      "width": 6102,
+      "height": 8543,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Smithsonian Institution"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Parker, Tommy Potter, Miles Davis, Duke Jordan, Max Roach (Gottlieb 06851).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker,_Tommy_Potter,_Miles_Davis,_Duke_Jordan,_Max_Roach_(Gottlieb_06851).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg/960px-Charlie_Parker%2C_Tommy_Potter%2C_Miles_Davis%2C_Duke_Jordan%2C_Max_Roach_%28Gottlieb_06851%29.jpg",
+      "width": 4813,
+      "height": 3613,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Parker (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Charlie_Parker_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Charlie_Parker_%28cropped%29.jpg",
+      "width": 888,
+      "height": 1155,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "pinelife"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Charlie Parker Lincoln Cemetery.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Charlie_Parker_Lincoln_Cemetery.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Charlie_Parker_Lincoln_Cemetery.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Charlie_Parker_Lincoln_Cemetery.jpg/960px-Charlie_Parker_Lincoln_Cemetery.jpg",
+      "width": 1280,
+      "height": 960,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/30545211@N00\"\u003ecool valley\u003c/a\u003e from Gladstone, MO, USA"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "68nJ4u9Ksp29uysSXzGZQG",
+  "name": "Weedthief",
+  "spotify_url": "https://open.spotify.com/artist/68nJ4u9Ksp29uysSXzGZQG",
+  "status": "matched",
+  "page_title": "Weeshie Fogarty",
+  "summary": "Aloysius \"Weeshie\" Fogarty was an Irish Gaelic footballer, referee and sports broadcaster. His league and championship career with the Kerry senior team lasted three seasons from 1969 to 1971.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Weeshie_Fogarty",
+  "candidates": [
+    "Weeshie Fogarty"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Weeshie Fogarty",
+    "page_url": "https://en.wikipedia.org/wiki/Weeshie_Fogarty",
+    "retrieved_at": "2026-03-28T10:43:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Irish sports broadcaster Weeshie Fogarty.png"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Irish sports broadcaster Weeshie Fogarty.png"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "canonical_slug": "the-doobie-brothers",
+  "name": "The Doobie Brothers",
+  "play_count": 1,
+  "spotify_artist_id": "39T6qqI0jDtSWWioX8eGJz",
+  "spotify_url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz",
+  "genres": [
+    "classic-rock",
+    "soft-rock",
+    "southern-rock",
+    "yacht-rock"
+  ],
+  "source_genres": [
+    "classic rock",
+    "soft rock",
+    "southern rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb28f5622994674caec36fd95c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517428f5622994674caec36fd95c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17828f5622994674caec36fd95c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

@@ -1,0 +1,16 @@
+{
+  "source": "spotify",
+  "source_artist_id": "59QxeZBL6k9L4oJBGSyukd",
+  "name": "The Marshall Tucker Band",
+  "spotify_url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd",
+  "source_genres": [
+    "classic rock",
+    "country rock",
+    "southern rock"
+  ],
+  "canonical_genre_slugs": [
+    "classic-rock",
+    "country-rock",
+    "southern-rock"
+  ]
+}

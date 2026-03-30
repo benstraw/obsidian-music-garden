@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "paul-simon",
+  "name": "Paul Simon",
+  "play_count": 6,
+  "spotify_artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+  "spotify_url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
+  "genres": [
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ddc148cfa465c2065846c636",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ddc148cfa465c2065846c636",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

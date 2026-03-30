@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "gerald-peregrine",
+  "name": "Gerald Peregrine",
+  "spotify_artist_id": "4mpoecueQYD4qDdoj81bNF",
+  "musicbrainz_artist_id": "dcb448e3-10b1-4b34-b299-3acc97b79e64",
+  "spotify_url": "https://open.spotify.com/artist/4mpoecueQYD4qDdoj81bNF",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4c33ab6f7a4a1c38ddb32d66",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744c33ab6f7a4a1c38ddb32d66",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784c33ab6f7a4a1c38ddb32d66",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

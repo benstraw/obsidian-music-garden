@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "50MREZ0LJcSvrtKuyTV8Su",
+  "name": "Peter Breiner",
+  "spotify_url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su",
+  "musicbrainz_artist_id": "4a8005fa-b151-43a1-8ca4-3dfbbec086e0",
+  "source_genres": [
+    "classical",
+    "conductor",
+    "slovak conductor"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Peter Breiner",
+  "summary": "Peter Breiner is a Slovak pianist, conductor, and composer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Peter_Breiner",
+  "candidates": [
+    "Peter Beinart",
+    "Peter Benner",
+    "Peter Berner",
+    "Peter Breiner",
+    "Peter Breinholt",
+    "Peter Breuer",
+    "Peter Bruner",
+    "Peter H. Brieger",
+    "Peter Reinberg",
+    "Peter Steiner (cartoonist)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Peter Breiner",
+    "page_url": "https://en.wikipedia.org/wiki/Peter_Breiner",
+    "retrieved_at": "2026-03-28T10:41:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ]
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "acid rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Acid rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Acid_rock",
@@ -92,103 +93,153 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 10,
-    "unique_artist_count": 3,
-    "unique_release_count": 7,
-    "unique_track_count": 9,
-    "first_played_at": "2026-02-13T01:44:42.669Z",
-    "last_played_at": "2026-03-19T02:11:24.325Z"
+    "play_count": 112,
+    "unique_artist_count": 4,
+    "unique_release_count": 22,
+    "unique_track_count": 88,
+    "first_played_at": "2024-01-01T00:00:00.36970056Z",
+    "last_played_at": "2026-03-29T04:21:25.545Z"
   },
   "top_artists": [
     {
       "canonical_slug": "grateful-dead",
       "name": "Grateful Dead",
-      "play_count": 4,
+      "play_count": 91,
       "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+      "musicbrainz_artist_id": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
       "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
     },
     {
       "canonical_slug": "jimi-hendrix",
       "name": "Jimi Hendrix",
-      "play_count": 3,
+      "play_count": 10,
       "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "musicbrainz_artist_id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
       "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
     },
     {
       "canonical_slug": "the-doors",
       "name": "The Doors",
-      "play_count": 3,
+      "play_count": 6,
       "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+      "musicbrainz_artist_id": "9efff43b-3b29-4082-824e-bc82f646f93d",
       "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "canonical_slug": "cream",
+      "name": "Cream",
+      "play_count": 5,
+      "spotify_artist_id": "74oJ4qxwOZvX6oSsu1DGnw",
+      "musicbrainz_artist_id": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+      "spotify_url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "name": "Axis: Bold As Love",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix"
-    },
-    {
-      "canonical_slug": "the-doors--the-soft-parade",
-      "name": "The Soft Parade",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors"
-    },
-    {
-      "canonical_slug": "grateful-dead--blues-for-allah-2013-remaster",
-      "name": "Blues for Allah (2013 Remaster)",
-      "play_count": 1,
+      "canonical_slug": "grateful-dead--europe-72-vol-1-wembley-empire-pool-london-england-4-7-72-live",
+      "name": "Europe '72 Vol. 1: Wembley Empire Pool, London, England 4/7/72 (Live)",
+      "play_count": 24,
       "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
-    },
-    {
-      "canonical_slug": "grateful-dead--europe-72-live-2001-remaster",
-      "name": "Europe '72 (Live; 2001 Remaster)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "6j3vuVPhMRB0H5CgPZ8wTd"
     },
     {
       "canonical_slug": "grateful-dead--reckoning-live",
       "name": "Reckoning (Live)",
-      "play_count": 1,
+      "play_count": 17,
       "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "1T7YIthjEvwsxbUHZ7NdBD"
     },
     {
-      "canonical_slug": "the-doors--the-doors",
-      "name": "The Doors",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors"
+      "canonical_slug": "grateful-dead--grateful-dead-skull-and-roses-live",
+      "name": "Grateful Dead (Skull \u0026 Roses) [Live]",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "0ObxRAQTpVO1u7bT3VxrIN"
     },
     {
-      "canonical_slug": "grateful-dead--workingman-s-dead",
-      "name": "Workingman's Dead",
-      "play_count": 1,
+      "canonical_slug": "grateful-dead--cornell-5-8-77-live",
+      "name": "Cornell 5/8/77 (Live)",
+      "play_count": 14,
       "primary_artist_canonical_slug": "grateful-dead",
-      "primary_artist_name": "Grateful Dead"
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "3T9UKU0jMIyrRD0PtKXqPJ"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "name": "Axis: Bold As Love",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "The Jimi Hendrix Experience",
+      "spotify_album_id": "3uFZf8rykoHo7XMIQVYW6r",
+      "musicbrainz_release_id": "a2662ae2-f06b-3cdd-892f-596646c03558",
+      "musicbrainz_release_group_id": "d0b1e21e-cef6-4575-8d92-1afea1894ca3"
+    },
+    {
+      "canonical_slug": "cream--disraeli-gears-deluxe-edition",
+      "name": "Disraeli Gears (Deluxe Edition)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "cream",
+      "primary_artist_name": "Cream",
+      "spotify_album_id": "3W6CI0Lw7lElAPID2Fd3B4"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--both-sides-of-the-sky",
+      "name": "Both Sides of the Sky",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "Jimi Hendrix",
+      "spotify_album_id": "0EfHWQeb3T1UJw9KrqN407"
+    },
+    {
+      "canonical_slug": "grateful-dead--go-to-heaven",
+      "name": "Go to Heaven",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "6x3mttp1a5pLHj8rDDSEbT",
+      "musicbrainz_release_id": "ae746c02-42f8-4af6-843c-854bf4c0af19",
+      "musicbrainz_release_group_id": "dfa266ba-e606-3abd-ab29-4086634a7566"
+    },
+    {
+      "canonical_slug": "grateful-dead--shakedown-street",
+      "name": "Shakedown Street",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "0MLCxvyIfAuh5xwPORv8p6",
+      "musicbrainz_release_id": "b80e64be-c10a-45b7-b0d0-5c94355d8b4f",
+      "musicbrainz_release_group_id": "ef90cd5a-6d54-46ac-b31d-930a504f745c"
+    },
+    {
+      "canonical_slug": "grateful-dead--american-beauty",
+      "name": "American Beauty",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "7rqgm1BnAZ8I4d6hukpkdg",
+      "musicbrainz_release_id": "193be930-94f7-340a-9131-70185d22d238",
+      "musicbrainz_release_group_id": "994c2c59-d32f-304e-8f53-bda17a254f52"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "the-doors--the-soft-parade",
-      "name": "The Soft Parade",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors",
-      "release_canonical_slug": "the-doors--the-soft-parade",
-      "release_name": "The Soft Parade",
-      "spotify_track_id": "0YMzPd9mYx4txOuCnhYUGU",
-      "spotify_url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+      "canonical_slug": "grateful-dead--althea-2013-remaster",
+      "name": "Althea - 2013 Remaster",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--go-to-heaven",
+      "release_name": "Go to Heaven",
+      "spotify_track_id": "7M7AwtGvWdMYudqx5Iuh1m",
+      "spotify_url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
     },
     {
       "canonical_slug": "the-doors--alabama-song-whisky-bar",
       "name": "Alabama Song (Whisky Bar)",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "the-doors",
       "primary_artist_name": "The Doors",
       "release_canonical_slug": "the-doors--the-doors",
@@ -197,20 +248,20 @@
       "spotify_url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
     },
     {
-      "canonical_slug": "grateful-dead--casey-jones-2013-remaster",
-      "name": "Casey Jones - 2013 Remaster",
-      "play_count": 1,
+      "canonical_slug": "grateful-dead--big-boss-man-live-at-fillmore-east-new-yor-ny-april-26-1971",
+      "name": "Big Boss Man - Live at Fillmore East, New Yor, NY, April 26, 1971",
+      "play_count": 2,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
-      "release_canonical_slug": "grateful-dead--workingman-s-dead",
-      "release_name": "Workingman's Dead",
-      "spotify_track_id": "7LbfuQVct78YoghmoPtsQ8",
-      "spotify_url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
+      "release_canonical_slug": "grateful-dead--grateful-dead-skull-and-roses-live",
+      "release_name": "Grateful Dead (Skull \u0026 Roses) [Live]",
+      "spotify_track_id": "7iFlT9cRGMoM3OHWiXO4MI",
+      "spotify_url": "https://open.spotify.com/track/7iFlT9cRGMoM3OHWiXO4MI"
     },
     {
       "canonical_slug": "grateful-dead--cassidy-live",
       "name": "Cassidy - Live",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
       "release_canonical_slug": "grateful-dead--reckoning-live",
@@ -219,20 +270,42 @@
       "spotify_url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB"
     },
     {
-      "canonical_slug": "jimi-hendrix--castles-made-of-sand",
-      "name": "Castles Made of Sand",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix",
-      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "release_name": "Axis: Bold As Love",
-      "spotify_track_id": "3qebSLgUwaEqbwCM5sj5Kh",
-      "spotify_url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
+      "canonical_slug": "grateful-dead--chinatown-shuffle-live-at-wembley-empire-pool-london-england-4-7-1972",
+      "name": "Chinatown Shuffle - Live at Wembley Empire Pool, London, England 4/7/1972",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--europe-72-vol-1-wembley-empire-pool-london-england-4-7-72-live",
+      "release_name": "Europe '72 Vol. 1: Wembley Empire Pool, London, England 4/7/72 (Live)",
+      "spotify_track_id": "5ZjS3qFVbO7BwXkViZYIOf",
+      "spotify_url": "https://open.spotify.com/track/5ZjS3qFVbO7BwXkViZYIOf"
+    },
+    {
+      "canonical_slug": "grateful-dead--dark-star-live-in-veneta-oregon-8-27-72",
+      "name": "Dark Star - Live in Veneta, Oregon 8/27/72",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--veneta-or-8-27-72-the-complete-sunshine-daydream-concert-live",
+      "release_name": "Veneta, OR 8/27/72: The Complete Sunshine Daydream Concert (Live)",
+      "spotify_track_id": "2vlf8Kfh8OqPO1u8avPuEN",
+      "spotify_url": "https://open.spotify.com/track/2vlf8Kfh8OqPO1u8avPuEN"
+    },
+    {
+      "canonical_slug": "grateful-dead--fire-on-the-mountain-2013-remaster",
+      "name": "Fire on the Mountain - 2013 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--shakedown-street",
+      "release_name": "Shakedown Street",
+      "spotify_track_id": "4DpBfWl3q8e0gGB76lAaox",
+      "spotify_url": "https://open.spotify.com/track/4DpBfWl3q8e0gGB76lAaox"
     },
     {
       "canonical_slug": "grateful-dead--franklin-s-tower-2013-remaster",
       "name": "Franklin's Tower - 2013 Remaster",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
       "release_canonical_slug": "grateful-dead--blues-for-allah-2013-remaster",
@@ -241,37 +314,26 @@
       "spotify_url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
     },
     {
-      "canonical_slug": "grateful-dead--ramble-on-rose-live-at-the-strand-lyceum-london-england-5-26-72-2001-remaster",
-      "name": "Ramble on Rose (Live at the Strand Lyceum, London, England, 5/26/72) - 2001 Remaster",
-      "play_count": 1,
+      "canonical_slug": "grateful-dead--friend-of-the-devil",
+      "name": "Friend of the Devil",
+      "play_count": 2,
       "primary_artist_canonical_slug": "grateful-dead",
       "primary_artist_name": "Grateful Dead",
-      "release_canonical_slug": "grateful-dead--europe-72-live-2001-remaster",
-      "release_name": "Europe '72 (Live; 2001 Remaster)",
-      "spotify_track_id": "24ei2BLeVEpGWLZ2qfLXJO",
-      "spotify_url": "https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO"
+      "release_canonical_slug": "grateful-dead--american-beauty",
+      "release_name": "American Beauty",
+      "spotify_track_id": "5ZLzl6T8JwqMTMdoE0nCbU",
+      "spotify_url": "https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU"
     },
     {
-      "canonical_slug": "jimi-hendrix--spanish-castle-magic",
-      "name": "Spanish Castle Magic",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix",
-      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "release_name": "Axis: Bold As Love",
-      "spotify_track_id": "2KFE98Iw0X23sf4vJYcbLH",
-      "spotify_url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
-    },
-    {
-      "canonical_slug": "jimi-hendrix--you-got-me-floatin",
-      "name": "You Got Me Floatin'",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix",
-      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "release_name": "Axis: Bold As Love",
-      "spotify_track_id": "2Fu2CXFkfiKKXPGtbDDlvj",
-      "spotify_url": "https://open.spotify.com/track/2Fu2CXFkfiKKXPGtbDDlvj"
+      "canonical_slug": "grateful-dead--johnny-b-goode-live-at-winterland-san-francisco-ca-march-24-1971",
+      "name": "Johnny B. Goode - Live at Winterland, San Francisco, CA, March 24, 1971",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--grateful-dead-skull-and-roses-live",
+      "release_name": "Grateful Dead (Skull \u0026 Roses) [Live]",
+      "spotify_track_id": "3lPTxkuBMtSYZVu9OBrdV1",
+      "spotify_url": "https://open.spotify.com/track/3lPTxkuBMtSYZVu9OBrdV1"
     }
   ],
   "source_refs": [
@@ -280,6 +342,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -301,9 +369,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-19T02:11:24.325Z",
+      "updated_at": "2026-03-29T04:21:25.545Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:21:25.545Z"
 }

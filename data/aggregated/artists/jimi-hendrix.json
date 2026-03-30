@@ -1,7 +1,9 @@
 {
   "canonical_slug": "jimi-hendrix",
   "name": "Jimi Hendrix",
+  "play_count": 10,
   "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+  "musicbrainz_artist_id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
   "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4",
   "genres": [
     "acid-rock",
@@ -111,5 +113,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39281458@N05\"\u003eDenis Bourez\u003c/a\u003e from France"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

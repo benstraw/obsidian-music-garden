@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "british-folk",
+  "display_title": "British Folk",
+  "display_name": "British Folk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Music of the United Kingdom",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Music_of_the_United_Kingdom",
+  "summary": "Throughout the history of the British Isles, the land that is now the United Kingdom has been a major music producer, drawing inspiration from church music and traditional folk music, using instruments from England, Scotland, Northern Ireland, and Wales. Each of the four countries of the United Kingdom has its own diverse and distinctive folk music forms, which flourished until the era of industrialisation when they began to be replaced by new forms of popular music, including music hall and brass bands. Many British musicians have influenced modern music on a global scale, and the UK has one of the world's largest music industries. English, Scottish, Irish, and Welsh folk music as well as other British styles of music heavily influenced American music such as American folk music, American march music, old-time, ragtime, blues, country, and bluegrass. The UK has birthed many popular music genres such as beat music, psychedelic music, progressive rock/pop, heavy metal, new wave, industrial music, and drum and bass.",
+  "candidates": [
+    "British Columbia",
+    "British Forces casualties in Afghanistan (2001–2021)",
+    "British colonization of the Americas",
+    "British folk",
+    "British folk revival",
+    "British folk rock",
+    "British folk sports",
+    "British folklore",
+    "British folks",
+    "University of British Columbia"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Music of the United Kingdom",
+    "page_url": "https://en.wikipedia.org/wiki/Music_of_the_United_Kingdom",
+    "retrieved_at": "2026-03-28T15:53:42Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Proms-albert-hall-04.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Proms-albert-hall-04.jpg/330px-Proms-albert-hall-04.jpg",
+    "width": 800,
+    "height": 596
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--british-folk.json",
+      "url": "https://en.wikipedia.org/wiki/Music_of_the_United_Kingdom",
+      "retrieved_at": "2026-03-28T15:53:42Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--british-folk.json",
+      "url": "https://en.wikipedia.org/wiki/Music_of_the_United_Kingdom",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

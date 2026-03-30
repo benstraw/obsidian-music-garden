@@ -1,7 +1,9 @@
 {
   "canonical_slug": "miles-davis",
   "name": "Miles Davis",
+  "play_count": 160,
   "spotify_artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+  "musicbrainz_artist_id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
   "spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
   "genres": [
     "bebop",
@@ -133,5 +135,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Bastoszak\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Bastoszak (page does not exist)\"\u003eBastoszak\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

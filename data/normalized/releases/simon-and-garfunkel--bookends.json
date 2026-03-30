@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3bzgbgiytguTDnwzflAZr2",
   "name": "Bookends",
   "primary_artist_name": "Simon \u0026 Garfunkel",
-  "primary_artist_canonical_slug": "simon-and-garfunkel"
+  "primary_artist_canonical_slug": "simon-and-garfunkel",
+  "musicbrainz_release_id": "b6c6da64-7135-47ff-b415-2b27db3a65e0",
+  "musicbrainz_release_group_id": "f4a26672-dcd8-342d-ad09-2b612d91c9fb"
 }

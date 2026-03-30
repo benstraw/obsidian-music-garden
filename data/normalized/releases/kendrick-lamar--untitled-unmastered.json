@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0kL3TYRsSXnu0iJvFO3rud",
   "name": "untitled unmastered.",
   "primary_artist_name": "Kendrick Lamar",
-  "primary_artist_canonical_slug": "kendrick-lamar"
+  "primary_artist_canonical_slug": "kendrick-lamar",
+  "musicbrainz_release_id": "c002fef6-2b03-4d98-ac41-39d45bb2d95c",
+  "musicbrainz_release_group_id": "4e44335c-3f2b-4874-a6c3-71b5e65f75d5"
 }

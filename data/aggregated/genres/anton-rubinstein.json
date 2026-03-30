@@ -1,0 +1,123 @@
+{
+  "canonical_slug": "anton-rubinstein",
+  "display_title": "Anton Rubinstein",
+  "display_name": "Anton Rubinstein",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Anton Rubinstein",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anton_Rubinstein",
+  "summary": "Anton Grigoryevich Rubinstein was a Russian pianist, composer and conductor who founded the Saint Petersburg Conservatory. He was the elder brother of Nikolai Rubinstein, who founded the Moscow Conservatory.",
+  "candidates": [
+    "Amnon Rubinstein",
+    "Anton Rubinstein",
+    "Anton Rubinstein Competition"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Anton Rubinstein",
+    "page_url": "https://en.wikipedia.org/wiki/Anton_Rubinstein",
+    "retrieved_at": "2026-03-28T15:53:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Anton Rubenstein.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Rubenstein.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anton_Rubenstein.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anton_Rubenstein.jpg",
+    "width": 825,
+    "height": 1134,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:W._%26_D._Downey\" title=\"Category:W. \u0026amp; D. Downey\"\u003eW. \u0026amp; D. Downey\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anton Rubenstein.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Rubenstein.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anton_Rubenstein.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Anton_Rubenstein.jpg",
+      "width": 825,
+      "height": 1134,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:W._%26_D._Downey\" title=\"Category:W. \u0026amp; D. Downey\"\u003eW. \u0026amp; D. Downey\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anton Rubinstein by J Ganz.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Rubinstein_by_J_Ganz.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anton_Rubinstein_by_J_Ganz.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Anton_Rubinstein_by_J_Ganz.png/960px-Anton_Rubinstein_by_J_Ganz.png",
+      "width": 1551,
+      "height": 2130,
+      "license": "Public domain",
+      "author": "J Ganz, Brussels"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anton Rubinstein headstone in Tikhvin Cemetery.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Rubinstein_headstone_in_Tikhvin_Cemetery.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Anton_Rubinstein_headstone_in_Tikhvin_Cemetery.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Anton_Rubinstein_headstone_in_Tikhvin_Cemetery.jpg/960px-Anton_Rubinstein_headstone_in_Tikhvin_Cemetery.jpg",
+      "width": 2033,
+      "height": 2840,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Dolly442\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Dolly442 (page does not exist)\"\u003eDolly442\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anton Rubinstein playing.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Rubinstein_playing.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Anton_Rubinstein_playing.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Anton_Rubinstein_playing.jpg",
+      "width": 661,
+      "height": 1024,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio-input-microphone.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Audio-input-microphone.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Audio-input-microphone.svg/960px-Audio-input-microphone.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--anton-rubinstein.json",
+      "url": "https://en.wikipedia.org/wiki/Anton_Rubinstein",
+      "retrieved_at": "2026-03-28T15:53:03Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--anton-rubinstein.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Anton_Rubenstein.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

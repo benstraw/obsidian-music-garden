@@ -1,0 +1,26 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4Hv8naKkLxWrfxkRMPz5bM",
+  "name": "Péter Nagy",
+  "spotify_url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM",
+  "musicbrainz_artist_id": "918efe49-424b-4c31-9d5b-fe102ea29cb2",
+  "source_genres": [
+    "classical"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Peter Nagy (artist)",
+    "Peter Nagy (canoeist)",
+    "Peter Nagy (singer)",
+    "Peter Navarro",
+    "Péter Magyar",
+    "Péter Nagy",
+    "Péter Nagy (footballer)",
+    "Péter Nagy (tennis)",
+    "Péter Nagy (volleyball)",
+    "Péter Nagy (weightlifter)"
+  ]
+}

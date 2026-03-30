@@ -1,0 +1,86 @@
+{
+  "canonical_slug": "big-daddy-kane",
+  "name": "Big Daddy Kane",
+  "spotify_artist_id": "6futYSDVulYR2PktBjTB5W",
+  "musicbrainz_artist_id": "8e75d270-4d53-4a4a-bc14-e3ace37ebd4e",
+  "spotify_url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W",
+  "genres": [
+    "east-coast-hip-hop",
+    "hip-hop"
+  ],
+  "source_genres": [
+    "east coast hip hop",
+    "hip hop"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Big Daddy Kane",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Daddy_Kane",
+  "summary": "Antonio Hardy, better known by his stage name Big Daddy Kane, is an American rapper, producer and actor who began his career in 1986 as a member of the Juice Crew. He is widely regarded as one of the most influential and skilled MCs in hip-hop. Rolling Stone ranked his song \"Ain't No Half-Steppin'\" 25th on its list of The 50 Greatest Hip-Hop Songs of All Time, calling him \"a master wordsmith of rap's ... golden age and a huge influence on a generation of MCs.\"",
+  "candidates": [
+    "Big Daddy (band)",
+    "Big Daddy (dune)",
+    "Big Daddy General Idi Amin Dada",
+    "Big Daddy Kane",
+    "Big Daddy Kane discography",
+    "Big Daddy Karsten",
+    "Big Daddy Kinsey",
+    "Big Daddy Kinsey and the Kinsey Report"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Big Daddy Kane",
+    "page_url": "https://en.wikipedia.org/wiki/Big_Daddy_Kane",
+    "retrieved_at": "2026-03-28T10:37:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Big Daddy Kane-03.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Daddy_Kane-03.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Big_Daddy_Kane-03.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Big_Daddy_Kane-03.jpg",
+    "width": 717,
+    "height": 1071,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big Daddy Kane-03.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Daddy_Kane-03.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Big_Daddy_Kane-03.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Big_Daddy_Kane-03.jpg",
+      "width": 717,
+      "height": 1071,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big Daddy Kane The 85 South Show Podcast 1.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Daddy_Kane_The_85_South_Show_Podcast_1.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Big_Daddy_Kane_The_85_South_Show_Podcast_1.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Big_Daddy_Kane_The_85_South_Show_Podcast_1.png",
+      "width": 815,
+      "height": 1080,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "The 85 South Comedy Show"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big Daddy Kane at Hip Hop Kemp 2013 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Daddy_Kane_at_Hip_Hop_Kemp_2013_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Big_Daddy_Kane_at_Hip_Hop_Kemp_2013_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Big_Daddy_Kane_at_Hip_Hop_Kemp_2013_%28cropped%29.jpg/960px-Big_Daddy_Kane_at_Hip_Hop_Kemp_2013_%28cropped%29.jpg",
+      "width": 2589,
+      "height": 3143,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39620836@N05\"\u003eRustyShack\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

@@ -1,0 +1,44 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6QA1jIAC7i52uJi8jbJDWB",
+  "name": "Will Sessions",
+  "spotify_url": "https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB",
+  "musicbrainz_artist_id": "232d690a-7089-4cb1-90d0-d1ced370d051",
+  "status": "matched",
+  "page_title": "Will Sessoms",
+  "summary": "William Douglas Sessoms Jr. is an American politician and bank officer who served as the mayor of Virginia Beach, Virginia from 2008 until his resignation in April, 2018. He was president and CEO of Towne Financial Services Group, a division of TowneBank of Hampton Roads, Virginia from 2011 to 2014.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Will_Sessoms",
+  "candidates": [
+    "Will Sessoms"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Will Sessoms",
+    "page_url": "https://en.wikipedia.org/wiki/Will_Sessoms",
+    "retrieved_at": "2026-03-28T10:44:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Will Sessoms (cropped 1).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Will_Sessoms_(cropped_1).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Will_Sessoms_%28cropped_1%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Will_Sessoms_%28cropped_1%29.jpg",
+    "width": 771,
+    "height": 925,
+    "license": "Public domain",
+    "author": "Virginia Guard Public Affairs"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Will Sessoms (cropped 1).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Will_Sessoms_(cropped_1).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Will_Sessoms_%28cropped_1%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Will_Sessoms_%28cropped_1%29.jpg",
+      "width": 771,
+      "height": 925,
+      "license": "Public domain",
+      "author": "Virginia Guard Public Affairs"
+    }
+  ]
+}

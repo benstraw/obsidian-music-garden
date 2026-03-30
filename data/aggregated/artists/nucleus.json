@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "nucleus",
+  "name": "Nucleus",
+  "play_count": 5,
+  "spotify_artist_id": "3SwIVQwDvadSKIlIq8biB6",
+  "musicbrainz_artist_id": "02614aa0-a9f2-4f0f-85c2-2aea518deb03",
+  "spotify_url": "https://open.spotify.com/artist/3SwIVQwDvadSKIlIq8biB6",
+  "genres": [
+    "rock"
+  ],
+  "source_genres": [
+    "fusion",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4b9b764478fcfbcdcb9f07cbebd6c55be61cb8c3",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/2fde8f1f60998e79070647475989b73a82a56c82",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/35090b941f21e18ecd53e333cd0bd6be56cda26e",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/3915aad9bcc6a8e813ad8f6daea8f37a3f450c0c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Nuclear organization",
+    "Nucleus",
+    "Nucleus (band)",
+    "Nucleus RTOS",
+    "Nucleus Software Exports",
+    "Nucleus accumbens",
+    "Nucleus ambiguus",
+    "Nucleus basalis",
+    "Nucleus estate and smallholder",
+    "Nucleus incertus"
+  ],
+  "last_updated": "2026-03-28"
+}

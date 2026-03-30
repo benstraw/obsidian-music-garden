@@ -1,0 +1,14 @@
+{
+  "source": "spotify",
+  "source_artist_id": "67ea9eGLXYMsO2eYQRui3w",
+  "name": "The Who",
+  "spotify_url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w",
+  "source_genres": [
+    "classic rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "classic-rock",
+    "rock"
+  ]
+}

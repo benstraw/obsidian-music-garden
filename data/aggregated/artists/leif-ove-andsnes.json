@@ -1,0 +1,106 @@
+{
+  "canonical_slug": "leif-ove-andsnes",
+  "name": "Leif Ove Andsnes",
+  "spotify_artist_id": "7J9Fo9dMjGNYY8usNMietL",
+  "musicbrainz_artist_id": "2c094b77-1268-4609-ba95-7545c2c5eb62",
+  "spotify_url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "norwegian",
+    "norwegian pianist",
+    "pianiast"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebff8270ee84ee76f76debb067",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ff8270ee84ee76f76debb067",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ff8270ee84ee76f76debb067",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Leif Ove Andsnes",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leif_Ove_Andsnes",
+  "summary": "Leif Ove Andsnes is a Norwegian pianist and chamber musician. Andsnes has made several recordings for Virgin and EMI. In 2012, he signed with Sony Classical, and recorded for the label the \"Beethoven Journey\" project, which included the five piano concertos with the Mahler Chamber Orchestra. The works were recorded over three years, beginning with Nos. 1 and 3 in 2012, followed by Nos. 2 and 4 in 2013 and the Fifth Piano Concerto and Choral Fantasy in 2014. He is represented by IMG.",
+  "candidates": [
+    "Leif Ove Andsnes"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Leif Ove Andsnes",
+    "page_url": "https://en.wikipedia.org/wiki/Leif_Ove_Andsnes",
+    "retrieved_at": "2026-03-28T10:40:39Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Norway.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/960px-Flag_of_Norway.svg.png",
+      "width": 512,
+      "height": 372,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gutten_p%C3%A5_Hemsen\" title=\"User:Gutten på Hemsen\"\u003eGutten på Hemsen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Leif Ove Andsnes in 2017.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Leif_Ove_Andsnes_in_2017.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Leif_Ove_Andsnes_in_2017.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Leif_Ove_Andsnes_in_2017.png",
+      "width": 410,
+      "height": 412,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Rachmaninoff Network",
+      "attribution_text": "Rachmaninoff Network"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

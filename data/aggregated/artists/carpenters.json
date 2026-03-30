@@ -1,11 +1,13 @@
 {
   "canonical_slug": "carpenters",
   "name": "Carpenters",
+  "play_count": 24,
   "spotify_artist_id": "1eEfMU2AhEo7XnKgL7c304",
+  "musicbrainz_artist_id": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
   "spotify_url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304",
   "genres": [
     "adult-standards",
-    "christmas"
+    "christmas-music"
   ],
   "source_genres": [
     "adult standards",
@@ -41,5 +43,5 @@
     "Carpentersville, Illinois",
     "Carpentry"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

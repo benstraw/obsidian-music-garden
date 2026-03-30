@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "icon",
+  "display_title": "Icon",
+  "display_name": "Icon",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Icon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Icon",
+  "summary": "An icon is a religious work of art, most commonly a painting, in the cultures of the Eastern Orthodox, Oriental Orthodox, Catholic, and Lutheran churches. The most common subjects include Jesus, Mary, saints, and angels. Although especially associated with portrait style images concentrating on one or two main figures, the term also covers most of the religious images in a variety of artistic media produced by Eastern Christianity, including narrative scenes, usually from the Bible or The lives of saints.",
+  "candidates": [
+    "Icon",
+    "Icon (computing)",
+    "Icon Productions",
+    "Icon for Hire",
+    "Icon of the Seas",
+    "Icona Pop",
+    "Iconic memory",
+    "Iconoclasm",
+    "Iconography",
+    "Iconography of Shiva temples in Tamil Nadu"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Icon",
+    "page_url": "https://en.wikipedia.org/wiki/Icon",
+    "retrieved_at": "2026-03-28T15:57:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Archangel Michael Hajdudorog.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Archangel_Michael_Hajdudorog.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Archangel_Michael_Hajdudorog.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Archangel_Michael_Hajdudorog.JPG/960px-Archangel_Michael_Hajdudorog.JPG",
+    "width": 1728,
+    "height": 2304,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jojojoe\" title=\"User:Jojojoe\"\u003eJojojoe\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Archangel Michael Hajdudorog.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Archangel_Michael_Hajdudorog.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Archangel_Michael_Hajdudorog.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Archangel_Michael_Hajdudorog.JPG/960px-Archangel_Michael_Hajdudorog.JPG",
+      "width": 1728,
+      "height": 2304,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jojojoe\" title=\"User:Jojojoe\"\u003eJojojoe\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Avraamovs Feodorovskaya.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Avraamovs_Feodorovskaya.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Avraamovs_Feodorovskaya.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Avraamovs_Feodorovskaya.jpg",
+      "width": 600,
+      "height": 799,
+      "license": "Public domain",
+      "author": "Георгий Авраамов"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Byzantine - Saint Arethas - Walters 4820862.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Saint_Arethas_-_Walters_4820862.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Byzantine_-_Saint_Arethas_-_Walters_4820862.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Byzantine_-_Saint_Arethas_-_Walters_4820862.jpg/960px-Byzantine_-_Saint_Arethas_-_Walters_4820862.jpg",
+      "width": 1791,
+      "height": 1800,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\n\u003cspan lang=\"en\"\u003eAnonymous\u003c/span\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/en:Byzantine_Empire\" class=\"extiw\" title=\"w:en:Byzantine Empire\"\u003e\u003cspan title=\"Roman Empire during Late Antiquity and the Middle Ages\"\u003eByzantine Empire\u003c/span\u003e\u003c/a\u003e)\u003cspan style=\"display:none\"\u003eUnknown author\u003c/span\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chapkanov-Saint-Nicholas.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chapkanov-Saint-Nicholas.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chapkanov-Saint-Nicholas.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chapkanov-Saint-Nicholas.jpg/960px-Chapkanov-Saint-Nicholas.jpg",
+      "width": 1742,
+      "height": 1730,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Apcbg\" title=\"User:Apcbg\"\u003eApcbg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Christ Pantocrator mosaic from Hagia Sophia 2744 x 2900 pixels 3.1 MB.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg/960px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg",
+      "width": 2744,
+      "height": 2900,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dianelos\" title=\"User:Dianelos\"\u003eDianelos Georgoudis\u003c/a\u003e \u003cspan class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg#P170\" title=\"Edit this at Structured Data on Commons\"\u003e\u003cimg alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"\u003e\u003c/a\u003e\u003c/span\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--icon.json",
+      "url": "https://en.wikipedia.org/wiki/Icon",
+      "retrieved_at": "2026-03-28T15:57:08Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--icon.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Archangel_Michael_Hajdudorog.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

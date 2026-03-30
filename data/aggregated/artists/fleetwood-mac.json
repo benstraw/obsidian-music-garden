@@ -1,15 +1,22 @@
 {
   "canonical_slug": "fleetwood-mac",
   "name": "Fleetwood Mac",
+  "play_count": 8,
   "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+  "musicbrainz_artist_id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
   "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
   "genres": [
+    "blues-rock",
     "classic-rock",
+    "rock",
     "soft-rock",
     "yacht-rock"
   ],
   "source_genres": [
+    "blues rock",
+    "british blues",
     "classic rock",
+    "rock",
     "soft rock",
     "yacht rock"
   ],
@@ -126,5 +133,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:W.W.Thaler\" title=\"User:W.W.Thaler\"\u003eW.W.Thaler - H. Weber, Hildesheim\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

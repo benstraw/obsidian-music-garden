@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2Se4ZylF9NkFGD92yv1aZC",
   "name": "The Piper at the Gates of Dawn",
   "primary_artist_name": "Pink Floyd",
-  "primary_artist_canonical_slug": "pink-floyd"
+  "primary_artist_canonical_slug": "pink-floyd",
+  "musicbrainz_release_id": "6c7cdad8-4daf-3248-b6c1-ea896c2e568e",
+  "musicbrainz_release_group_id": "6792b6d1-4e65-3c3c-9d20-d08aa1dcfc60"
 }

@@ -1,0 +1,33 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2fj5pzLyOKDpUOPZs9q3wt",
+  "name": "The Del McCoury Band",
+  "spotify_url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt",
+  "musicbrainz_artist_id": "7e5a0c3f-339a-4e5d-aed0-1946112b4a66",
+  "source_genres": [
+    "folk"
+  ],
+  "canonical_genre_slugs": [
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "Del McCoury Band",
+  "summary": "The Del McCoury Band is a Grammy Award-winning American bluegrass band.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Del_McCoury_Band",
+  "candidates": [
+    "The Del McCoury Band"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Del McCoury Band",
+    "page_url": "https://en.wikipedia.org/wiki/Del_McCoury_Band",
+    "retrieved_at": "2026-03-28T10:43:09Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HSB_2005_-_Del_McCoury_Band.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/HSB_2005_-_Del_McCoury_Band.jpg/330px-HSB_2005_-_Del_McCoury_Band.jpg",
+    "width": 640,
+    "height": 480
+  }
+}

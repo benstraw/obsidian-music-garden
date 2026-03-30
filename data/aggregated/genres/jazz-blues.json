@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "jazz-blues",
+  "display_title": "Jazz Blues",
+  "display_name": "Jazz Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Twelve-bar blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Twelve-bar_blues",
+  "summary": "The twelve-bar blues is one of the most prominent chord progressions in popular music. The blues progression has a distinctive form in lyrics, phrase, chord structure, and duration. In its basic form, it is predominantly based on the I, IV, and V chords of a key. Mastery of the blues and rhythm changes are \"critical elements for building a jazz repertoire\".",
+  "candidates": [
+    "Jake Blues",
+    "Jay-Z The Blueprint 3",
+    "Jazz \u0026 Blues Award",
+    "Jazz Blues Fusion",
+    "Jazz blues",
+    "Jazzles",
+    "The Jazz \u0026 Blues Box"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Twelve-bar blues",
+    "page_url": "https://en.wikipedia.org/wiki/Twelve-bar_blues",
+    "retrieved_at": "2026-03-28T15:57:30Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-blues.json",
+      "url": "https://en.wikipedia.org/wiki/Twelve-bar_blues",
+      "retrieved_at": "2026-03-28T15:57:30Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -3,11 +3,32 @@
   "source_artist_id": "16eRpMNXSQ15wuJoeqguaB",
   "name": "The Flaming Lips",
   "spotify_url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB",
+  "musicbrainz_artist_id": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
   "source_genres": [
-    "neo-psychedelic"
+    "alternative rock",
+    "downtempo",
+    "dream pop",
+    "electronic",
+    "experimental rock",
+    "indie rock",
+    "indietronica",
+    "neo-psychedelia",
+    "neo-psychedelic",
+    "progressive pop",
+    "psychedelic pop",
+    "rock",
+    "space rock revival",
+    "trip hop"
   ],
   "canonical_genre_slugs": [
-    "neo-psychedelic"
+    "alternative-rock",
+    "dream-pop",
+    "electronic",
+    "experimental-rock",
+    "indie-electronic",
+    "indie-rock",
+    "neo-psychedelic",
+    "rock"
   ],
   "status": "matched",
   "page_title": "The Flaming Lips",

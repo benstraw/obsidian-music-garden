@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "new-orleans-r-andb",
+  "display_title": "New Orleans R Andb",
+  "display_name": "New Orleans R Andb",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "New Orleans Grand Prix",
+    "New Orleans Handicap",
+    "New Orleans Wanderers",
+    "The New Orleans Radiators"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

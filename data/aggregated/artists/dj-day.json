@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "dj-day",
+  "name": "DJ Day",
+  "play_count": 5,
+  "spotify_artist_id": "64nlNvqVtLkdY4x8Hhvq6T",
+  "musicbrainz_artist_id": "173dd169-89b6-4031-a56e-74ffe3933e69",
+  "spotify_url": "https://open.spotify.com/artist/64nlNvqVtLkdY4x8Hhvq6T",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6ef9d35ba715208d024e228",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f6ef9d35ba715208d024e228",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f6ef9d35ba715208d024e228",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "DJ Day",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/DJ_Day",
+  "summary": "DJ Day is an American DJ, producer, and multi-instrumentalist from Palm Springs, California. Known for blending elements of hip hop, jazz, funk, soul, and electronic music, his style incorporates sampling, turntablism, and live instrumentation.",
+  "candidates": [
+    "DJ AM",
+    "DJ Ashba",
+    "DJ Campbell",
+    "DJ Dahi",
+    "DJ Day",
+    "DJ Disciple",
+    "DJ Drama",
+    "DJ Mag",
+    "DJ Maphorisa",
+    "DJ Paul"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "DJ Day",
+    "page_url": "https://en.wikipedia.org/wiki/DJ_Day",
+    "retrieved_at": "2026-03-28T10:38:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:DJ Day.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:DJ_Day.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/DJ_Day.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DJ_Day.jpg/960px-DJ_Day.jpg",
+    "width": 1536,
+    "height": 2304,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Peter Nguyen"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DJ Day.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DJ_Day.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/DJ_Day.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/DJ_Day.jpg/960px-DJ_Day.jpg",
+      "width": 1536,
+      "height": 2304,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Peter Nguyen"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Unbalanced scales.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Unbalanced_scales.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Unbalanced_scales.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/960px-Unbalanced_scales.svg.png",
+      "width": 400,
+      "height": 354,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chris-martin\" class=\"mw-redirect\" title=\"User:Chris-martin\"\u003eChris-martin\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "glam rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Glam rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Glam_rock",
@@ -104,32 +105,230 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T11:48:07.771Z",
-    "last_played_at": "2026-03-03T11:48:07.771Z"
+    "play_count": 34,
+    "unique_artist_count": 4,
+    "unique_release_count": 15,
+    "unique_track_count": 27,
+    "first_played_at": "2024-01-01T00:00:00.179543953Z",
+    "last_played_at": "2026-03-29T04:37:25.499Z"
   },
   "top_artists": [
     {
       "canonical_slug": "david-bowie",
       "name": "David Bowie",
-      "play_count": 1,
+      "play_count": 12,
       "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
       "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "canonical_slug": "faces",
+      "name": "Faces",
+      "play_count": 9,
+      "spotify_artist_id": "3v4feUQnU3VEUqFrjmtekL",
+      "spotify_url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+    },
+    {
+      "canonical_slug": "lou-reed",
+      "name": "Lou Reed",
+      "play_count": 7,
+      "spotify_artist_id": "42TFhl7WlMRXiNqzSrnzPL",
+      "musicbrainz_artist_id": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+      "spotify_url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+    },
+    {
+      "canonical_slug": "brian-eno",
+      "name": "Brian Eno",
+      "play_count": 6,
+      "spotify_artist_id": "7MSUfLeTdDEoZiJPDSBXgi",
+      "musicbrainz_artist_id": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+      "spotify_url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-2012-remaster",
+      "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie"
+    },
+    {
+      "canonical_slug": "lou-reed--coney-island-baby",
+      "name": "Coney Island Baby",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "spotify_album_id": "3Kawndiz86cIHkPsKtFiKx",
+      "musicbrainz_release_id": "1a229243-a099-4d01-b793-de7a7d6a0f89",
+      "musicbrainz_release_group_id": "c517ee05-356e-3944-b13f-8d505a4012cb"
+    },
+    {
+      "canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "name": "Here Come The Warm Jets",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "spotify_album_id": "74jn28Kr29iyh8eZXSvnwi",
+      "musicbrainz_release_id": "46a2f184-ef38-4025-a6e8-c0507f790d90",
+      "musicbrainz_release_group_id": "90d9be4c-30be-3e28-949a-66ee22c3a63a"
+    },
+    {
+      "canonical_slug": "faces--ooh-la-la",
+      "name": "Ooh La La",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "faces",
+      "primary_artist_name": "Faces"
+    },
+    {
+      "canonical_slug": "faces--a-nod-is-as-good-as-a-wink-to-a-blind-horse",
+      "name": "A Nod Is as Good as a Wink... to a Blind Horse",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "faces",
+      "primary_artist_name": "Faces"
+    },
+    {
+      "canonical_slug": "brian-eno--another-green-world-2004-remaster",
+      "name": "Another Green World (2004 Remaster)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "spotify_album_id": "6uoeezh45SYEb8lcT8gDTY"
+    },
+    {
+      "canonical_slug": "lou-reed--songs-for-drella",
+      "name": "Songs For Drella",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "spotify_album_id": "4Nyu5zVDr4XV6QOBCqdTrk",
+      "musicbrainz_release_id": "244d099e-9522-4f6e-ad62-d64fc274f907",
+      "musicbrainz_release_group_id": "97d100a8-e42c-38ff-8ae5-eb31331fd82b"
+    },
+    {
+      "canonical_slug": "david-bowie--sound-and-vision-2013",
+      "name": "Sound and Vision 2013",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "spotify_album_id": "0Z0eeyJulKuTCZUiHj18NE"
+    },
+    {
       "canonical_slug": "david-bowie--young-americans-2016-remaster",
       "name": "Young Americans (2016 Remaster)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "spotify_album_id": "0lITGovWgaQGi42EfqcE5P"
+    },
+    {
+      "canonical_slug": "david-bowie--aladdin-sane-2013-remaster",
+      "name": "Aladdin Sane (2013 Remaster)",
       "play_count": 1,
       "primary_artist_canonical_slug": "david-bowie",
       "primary_artist_name": "David Bowie"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "lou-reed--charley-s-girl",
+      "name": "Charley's Girl",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--coney-island-baby",
+      "release_name": "Coney Island Baby",
+      "spotify_track_id": "70tBw295bLL8B13Jg3SNUs",
+      "spotify_url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "canonical_slug": "brian-eno--cindy-tells-me-2004-digital-remaster",
+      "name": "Cindy Tells Me - 2004 Digital Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "release_name": "Here Come The Warm Jets",
+      "spotify_track_id": "5bF63YObFP3gfcIfbX84NH",
+      "spotify_url": "https://open.spotify.com/track/5bF63YObFP3gfcIfbX84NH"
+    },
+    {
+      "canonical_slug": "lou-reed--coney-island-baby",
+      "name": "Coney Island Baby",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--coney-island-baby",
+      "release_name": "Coney Island Baby",
+      "spotify_track_id": "0ivHDucXMbjTjiU4lMIkBO",
+      "spotify_url": "https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO"
+    },
+    {
+      "canonical_slug": "brian-eno--dead-finks-don-t-talk-2004-digital-remaster",
+      "name": "Dead Finks Don't Talk - 2004 Digital Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "release_name": "Here Come The Warm Jets",
+      "spotify_track_id": "2asnQKwHCVy0FT96Jw5H2x",
+      "spotify_url": "https://open.spotify.com/track/2asnQKwHCVy0FT96Jw5H2x"
+    },
+    {
+      "canonical_slug": "lou-reed--nobody-but-you",
+      "name": "Nobody but You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--songs-for-drella",
+      "release_name": "Songs For Drella",
+      "spotify_track_id": "1zwtvbJL8H8jG0qbbomS1P",
+      "spotify_url": "https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P"
+    },
+    {
+      "canonical_slug": "brian-eno--sombre-reptiles-2004-remaster",
+      "name": "Sombre Reptiles - 2004 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--another-green-world-2004-remaster",
+      "release_name": "Another Green World (2004 Remaster)",
+      "spotify_track_id": "09owruFWkS2w3SXKdbmBbw",
+      "spotify_url": "https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw"
+    },
+    {
+      "canonical_slug": "david-bowie--sound-and-vision",
+      "name": "Sound and Vision",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "david-bowie",
+      "primary_artist_name": "David Bowie",
+      "release_canonical_slug": "david-bowie--sound-and-vision-2013",
+      "release_name": "Sound and Vision 2013",
+      "spotify_track_id": "1uqQLKO4B1vPoMBMgfPW6j",
+      "spotify_url": "https://open.spotify.com/track/1uqQLKO4B1vPoMBMgfPW6j"
+    },
+    {
+      "canonical_slug": "faces--as-long-as-you-tell-him-single-version",
+      "name": "As Long as You Tell Him - Single Version",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "faces",
+      "primary_artist_name": "Faces",
+      "release_canonical_slug": "faces--stay-with-me-the-faces-anthology",
+      "release_name": "Stay With Me: The Faces Anthology",
+      "spotify_track_id": "7GpH1jwAg6vKAKKLEfm1ie",
+      "spotify_url": "https://open.spotify.com/track/7GpH1jwAg6vKAKKLEfm1ie"
+    },
+    {
+      "canonical_slug": "faces--debris",
+      "name": "Debris",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "faces",
+      "primary_artist_name": "Faces",
+      "release_canonical_slug": "faces--a-nod-is-as-good-as-a-wink-to-a-blind-horse",
+      "release_name": "A Nod Is as Good as a Wink... to a Blind Horse",
+      "spotify_track_id": "2gFXQQ7dDY4lquHpUNeDTM",
+      "spotify_url": "https://open.spotify.com/track/2gFXQQ7dDY4lquHpUNeDTM"
+    },
     {
       "canonical_slug": "david-bowie--fame-2016-remaster",
       "name": "Fame - 2016 Remaster",
@@ -148,6 +347,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -169,9 +374,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T11:48:07.771Z",
+      "updated_at": "2026-03-29T04:37:25.499Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:37:25.499Z"
 }

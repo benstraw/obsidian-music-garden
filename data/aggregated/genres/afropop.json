@@ -6,7 +6,8 @@
   "aliases": [
     "afropop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "African popular music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/African_popular_music",
@@ -51,6 +52,7 @@
       "name": "Burna Boy",
       "play_count": 1,
       "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+      "musicbrainz_artist_id": "78a19169-ac75-4868-b504-7e2e073118e0",
       "spotify_url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
     }
   ],
@@ -60,7 +62,10 @@
       "name": "African Giant",
       "play_count": 1,
       "primary_artist_canonical_slug": "burna-boy",
-      "primary_artist_name": "Burna Boy"
+      "primary_artist_name": "Burna Boy",
+      "spotify_album_id": "34vlTd4355ddD4q9pPsoqF",
+      "musicbrainz_release_id": "66bf6a99-013c-4987-886f-57c4ce0b116d",
+      "musicbrainz_release_group_id": "84444c7d-ef0e-433e-b649-72f71c054eb6"
     }
   ],
   "top_tracks": [
@@ -82,6 +87,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

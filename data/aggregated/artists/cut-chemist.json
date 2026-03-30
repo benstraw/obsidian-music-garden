@@ -1,0 +1,83 @@
+{
+  "canonical_slug": "cut-chemist",
+  "name": "Cut Chemist",
+  "play_count": 10,
+  "spotify_artist_id": "4743DlrFCsAlAV4N26Kdgh",
+  "musicbrainz_artist_id": "e0975164-e68b-45d6-9854-d5d0ce84e671",
+  "spotify_url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh",
+  "genres": [
+    "electronic",
+    "experimental",
+    "hip-hop",
+    "rock"
+  ],
+  "source_genres": [
+    "electronic",
+    "experimental",
+    "hip hop",
+    "rock",
+    "turntablism"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbe3a1edabb53853b1239178b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174be3a1edabb53853b1239178b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178be3a1edabb53853b1239178b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Cut Chemist",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cut_Chemist",
+  "summary": "Lucas MacFadden, better known as Cut Chemist, is an American DJ and record producer. He is a former member of Jurassic 5 and Ozomatli. He has collaborated with DJ Shadow on a number of projects.",
+  "candidates": [
+    "C1 chemistry",
+    "CAN (chemistry)",
+    "Cure (chemistry)",
+    "Cut Chemist",
+    "Cut Chemist Suite (song)",
+    "Cytochemistry"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cut Chemist",
+    "page_url": "https://en.wikipedia.org/wiki/Cut_Chemist",
+    "retrieved_at": "2026-03-28T10:38:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cut chemist-mika.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cut_chemist-mika.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cut_chemist-mika.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cut_chemist-mika.jpg",
+    "width": 714,
+    "height": 1072,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cut chemist-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cut_chemist-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cut_chemist-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cut_chemist-mika.jpg",
+      "width": 714,
+      "height": 1072,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

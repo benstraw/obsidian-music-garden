@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "crank-wave",
+  "display_title": "Crank Wave",
+  "display_name": "Crank Wave",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Crank wave",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Crank_wave",
+  "summary": "Crank wave is a music scene and style of post-punk that emerged in the 2010s. The term \"crank wave\" was originally coined in September 2019 by writer Mark Beaumont in an article for NME. He had previously coined the term \"gristle rock\" to describe the South London post-punk scene, which was spearheaded by the band Fat White Family.",
+  "candidates": [
+    "Crank (novel)",
+    "Crank Caverns",
+    "Crank wave",
+    "Crankcase",
+    "Crankcase ventilation system",
+    "Crankwave",
+    "David Crank",
+    "The Crane Wives",
+    "Wade Crane",
+    "Waterman Crane"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Crank wave",
+    "page_url": "https://en.wikipedia.org/wiki/Crank_wave",
+    "retrieved_at": "2026-03-28T15:54:43Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Idles - Haldern Pop Festival 2017 - Alexander Kellner - 8.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg/960px-Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+    "width": 5671,
+    "height": 3781,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "© \u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:soundwavedesigner\" class=\"extiw\" title=\"de:Benutzer:soundwavedesigner\"\u003eAlexander Kellner\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Idles - Haldern Pop Festival 2017 - Alexander Kellner - 8.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg/960px-Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+      "width": 5671,
+      "height": 3781,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "© \u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:soundwavedesigner\" class=\"extiw\" title=\"de:Benutzer:soundwavedesigner\"\u003eAlexander Kellner\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--crank-wave.json",
+      "url": "https://en.wikipedia.org/wiki/Crank_wave",
+      "retrieved_at": "2026-03-28T15:54:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--crank-wave.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Idles_-_Haldern_Pop_Festival_2017_-_Alexander_Kellner_-_8.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

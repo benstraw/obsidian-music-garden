@@ -1,7 +1,9 @@
 {
   "canonical_slug": "stephen-wilson-jr",
   "name": "Stephen Wilson Jr.",
+  "play_count": 9,
   "spotify_artist_id": "4DSDa4HvAWqvb3dMHUOAfd",
+  "musicbrainz_artist_id": "c28bcdb2-6e32-4b15-a9b0-77a4d88c6c74",
   "spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
   "images": [
     {
@@ -39,5 +41,5 @@
     "page_url": "https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.",
     "retrieved_at": "2026-03-27T09:28:04Z"
   },
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

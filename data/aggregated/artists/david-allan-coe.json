@@ -1,16 +1,20 @@
 {
   "canonical_slug": "david-allan-coe",
   "name": "David Allan Coe",
+  "play_count": 3,
   "spotify_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
+  "musicbrainz_artist_id": "d6ad0ad1-2a7c-4d5f-8776-331a3732360c",
   "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6",
   "genres": [
     "country",
+    "folk",
     "honky-tonk",
     "outlaw-country"
   ],
   "source_genres": [
     "classic country",
     "country",
+    "folk",
     "honky tonk",
     "outlaw country"
   ],
@@ -96,5 +100,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/93331813@N00\"\u003eMatthew Woitunski\u003c/a\u003e from Amesbury, MA, USA"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "madvillain",
+  "name": "Madvillain",
+  "play_count": 1,
+  "spotify_artist_id": "2aoFQUeHD1U7pL098lRsDU",
+  "spotify_url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU",
+  "genres": [
+    "alternative-hip-hop",
+    "jazz-rap"
+  ],
+  "source_genres": [
+    "alternative hip hop",
+    "experimental hip hop",
+    "jazz rap"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cb9878d95dea673d99fa6bcaa",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22b9878d95dea673d99fa6bcaa",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3b9878d95dea673d99fa6bcaa",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74b9878d95dea673d99fa6bcaa",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

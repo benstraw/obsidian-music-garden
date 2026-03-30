@@ -1,11 +1,15 @@
 {
   "canonical_slug": "gnarls-barkley--just-a-thought",
   "name": "Just a Thought",
+  "play_count": 1,
   "primary_artist_canonical_slug": "gnarls-barkley",
   "primary_artist_name": "Gnarls Barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_canonical_slug": "gnarls-barkley--st-elsewhere",
   "release_name": "St. Elsewhere",
   "spotify_track_id": "0rdfgluOJWUfO15zsS170R",
-  "spotify_url": "https://open.spotify.com/track/0rdfgluOJWUfO15zsS170R",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/0rdfgluOJWUfO15zsS170R"
 }

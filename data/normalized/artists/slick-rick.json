@@ -3,12 +3,16 @@
   "source_artist_id": "1W9qOBYRTfP7HcizWN43G1",
   "name": "Slick Rick",
   "spotify_url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1",
+  "musicbrainz_artist_id": "486af4f0-a79b-468f-be73-527cd4caf6ea",
   "source_genres": [
     "east coast hip hop",
+    "hip hop",
+    "hip hop rap",
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
     "east-coast-hip-hop",
+    "hip-hop",
     "old-school-hip-hop"
   ],
   "status": "matched",

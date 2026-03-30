@@ -4,6 +4,9 @@
   "name": "The World (Is Going Up in Flames)",
   "primary_artist_name": "Charles Bradley",
   "primary_artist_canonical_slug": "charles-bradley",
+  "additional_artist_slugs": [
+    "menahan-street-band"
+  ],
   "release_name": "No Time For Dreaming",
   "release_canonical_slug": "charles-bradley--no-time-for-dreaming",
   "spotify_url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"

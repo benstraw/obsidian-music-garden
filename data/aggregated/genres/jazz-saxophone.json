@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "jazz-saxophone",
+  "display_title": "Jazz Saxophone",
+  "display_name": "Jazz Saxophone",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "List of jazz saxophonists",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_jazz_saxophonists",
+  "summary": "Jazz saxophonists are musicians who play various types of saxophones in jazz and its associated subgenres. The techniques and instrumentation of this type of performance have evolved over the 20th century, influenced by both movements of musicians that became the subgenres and by particularly influential sax players who helped reshape the music.",
+  "candidates": [
+    "Jazz saxophone"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "List of jazz saxophonists",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_jazz_saxophonists",
+    "retrieved_at": "2026-03-28T15:57:43Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-saxophone.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_jazz_saxophonists",
+      "retrieved_at": "2026-03-28T15:57:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

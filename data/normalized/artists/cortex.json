@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7EhUXju6pssa8o3CvFJTew",
+  "name": "Cortex",
+  "spotify_url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew",
+  "musicbrainz_artist_id": "37e91401-0402-40cb-a5e9-b2a63746bd32",
+  "source_genres": [
+    "funk",
+    "jazz",
+    "jazz rock"
+  ],
+  "canonical_genre_slugs": [
+    "funk",
+    "jazz"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Cortex",
+    "Cortex (anatomy)",
+    "Cortex (band)",
+    "Cortex (botany)",
+    "Cortex (journal)",
+    "Cortex Classic System",
+    "Cortex Command",
+    "Cortex Innovation Community",
+    "Cortex Plus",
+    "Cortex System"
+  ]
+}

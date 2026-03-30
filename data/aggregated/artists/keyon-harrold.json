@@ -1,0 +1,40 @@
+{
+  "canonical_slug": "keyon-harrold",
+  "name": "Keyon Harrold",
+  "play_count": 14,
+  "spotify_artist_id": "4JG781pl96pL2h0AoERgOA",
+  "musicbrainz_artist_id": "a5a0b33e-862f-49d3-a921-edc78ed8692a",
+  "spotify_url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb15ef85e0123ee6e40ea9a949",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517415ef85e0123ee6e40ea9a949",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17815ef85e0123ee6e40ea9a949",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Keyon Harrold",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Keyon_Harrold",
+  "summary": "Keyon Karim Harrold is an American jazz trumpeter, vocalist, songwriter, and producer.",
+  "candidates": [
+    "Kevin Harrold",
+    "Keyon Harrold"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Keyon Harrold",
+    "page_url": "https://en.wikipedia.org/wiki/Keyon_Harrold",
+    "retrieved_at": "2026-03-28T10:40:24Z"
+  },
+  "last_updated": "2026-03-30"
+}

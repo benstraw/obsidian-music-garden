@@ -1,0 +1,57 @@
+{
+  "source": "spotify",
+  "source_artist_id": "58Wl2AJZWwfvEn2eAWJbIG",
+  "name": "The Last Poets",
+  "spotify_url": "https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG",
+  "musicbrainz_artist_id": "9457a08d-a2d0-4f2d-9876-b8870612d54f",
+  "status": "matched",
+  "page_title": "The Last Poets",
+  "summary": "The Last Poets is a poetry collective and musical group that arose in the late 1960s as part of the African-American civil rights movement and black nationalism. The name was inspired by revolutionary South African poet Keorapetse Kgositsile who believed he was in the last era of poetry before guns took over.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Last_Poets",
+  "candidates": [
+    "The Last Person to See Teresa Alive",
+    "The Last Poets",
+    "The Last Poets (album)",
+    "The Last Port",
+    "The Last Posse",
+    "The Last Post (TV series)",
+    "The Last Post (audio drama)",
+    "The Last Post (film)",
+    "The Last President",
+    "The Last Protest Singer"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Last Poets",
+    "page_url": "https://en.wikipedia.org/wiki/The_Last_Poets",
+    "retrieved_at": "2026-03-28T10:43:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Quill and ink.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Quill_and_ink.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Quill_and_ink.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/960px-Quill_and_ink.svg.png",
+    "width": 152,
+    "height": 152,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/ca:User:Ebrenc\" class=\"extiw\" title=\"w:ca:User:Ebrenc\"\u003eEbrenc\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/ca:\" class=\"extiw\" title=\"w:ca:\"\u003eCatalan Wikipedia\u003c/a\u003e",
+    "attribution_text": "Joan M. Borràs (\u003ca href=\"https://ca.wikipedia.org/wiki/Usuari:Ebrenc\" class=\"extiw\" title=\"ca:Usuari:Ebrenc\"\u003eebrenc\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Quill and ink.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Quill_and_ink.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Quill_and_ink.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/960px-Quill_and_ink.svg.png",
+      "width": 152,
+      "height": 152,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/ca:User:Ebrenc\" class=\"extiw\" title=\"w:ca:User:Ebrenc\"\u003eEbrenc\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/ca:\" class=\"extiw\" title=\"w:ca:\"\u003eCatalan Wikipedia\u003c/a\u003e",
+      "attribution_text": "Joan M. Borràs (\u003ca href=\"https://ca.wikipedia.org/wiki/Usuari:Ebrenc\" class=\"extiw\" title=\"ca:Usuari:Ebrenc\"\u003eebrenc\u003c/a\u003e)"
+    }
+  ]
+}

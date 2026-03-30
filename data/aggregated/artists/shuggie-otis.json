@@ -1,8 +1,23 @@
 {
   "canonical_slug": "shuggie-otis",
   "name": "Shuggie Otis",
+  "play_count": 4,
   "spotify_artist_id": "4YHtIE7FI8ITfekzzN5Jpl",
+  "musicbrainz_artist_id": "ff9542ca-7859-4db2-8796-c1e3c39b9c0a",
   "spotify_url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl",
+  "genres": [
+    "blues",
+    "blues-rock",
+    "rock",
+    "soul"
+  ],
+  "source_genres": [
+    "blues",
+    "blues rock",
+    "psychedelic soul",
+    "rock",
+    "soul"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/7811a1e80b838569427b817331c3687ea2c1ad96",
@@ -74,5 +89,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/sachyn/\"\u003eSachyn Mital\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

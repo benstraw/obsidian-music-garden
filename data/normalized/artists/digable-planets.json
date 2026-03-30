@@ -1,0 +1,55 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0gqIrDRL7CEPBWMmkuZPdQ",
+  "name": "Digable Planets",
+  "spotify_url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ",
+  "musicbrainz_artist_id": "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+  "source_genres": [
+    "alternative rap",
+    "hip hop",
+    "jazz rap"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop",
+    "jazz-rap"
+  ],
+  "status": "matched",
+  "page_title": "Digable Planets",
+  "summary": "Digable Planets is an American hip hop trio formed in 1987. The trio is composed of rappers Ishmael \"Butterfly\" Butler, Mariana \"Ladybug Mecca\" Vieira, and Craig \"Doodlebug\" Irving. The group is notable for their contributions to the subgenres of jazz rap and alternative hip hop.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Digable_Planets",
+  "candidates": [
+    "Digable Planets"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Digable Planets",
+    "page_url": "https://en.wikipedia.org/wiki/Digable_Planets",
+    "retrieved_at": "2026-03-28T10:38:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:171 Digable Planets (5251694375).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:171_Digable_Planets_(5251694375).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/171_Digable_Planets_%285251694375%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/171_Digable_Planets_%285251694375%29.jpg/960px-171_Digable_Planets_%285251694375%29.jpg",
+    "width": 1024,
+    "height": 768,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39075416@N03\"\u003eJester Jay Goldman\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:171 Digable Planets (5251694375).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:171_Digable_Planets_(5251694375).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/171_Digable_Planets_%285251694375%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/171_Digable_Planets_%285251694375%29.jpg/960px-171_Digable_Planets_%285251694375%29.jpg",
+      "width": 1024,
+      "height": 768,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39075416@N03\"\u003eJester Jay Goldman\u003c/a\u003e"
+    }
+  ]
+}

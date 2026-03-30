@@ -6,7 +6,8 @@
   "aliases": [
     "indie folk"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Indie folk",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Indie_folk",
@@ -67,67 +68,263 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 2,
-    "unique_artist_count": 2,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-03T01:52:33.290Z",
-    "last_played_at": "2026-03-03T02:37:33.420Z"
+    "play_count": 75,
+    "unique_artist_count": 5,
+    "unique_release_count": 17,
+    "unique_track_count": 42,
+    "first_played_at": "2024-01-01T00:00:00.451127706Z",
+    "last_played_at": "2026-03-29T04:24:55.741Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 42,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "musicbrainz_artist_id": "0202af38-ac32-48d0-a546-87caaef2dee2",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields",
+      "name": "The Magnetic Fields",
+      "play_count": 25,
+      "spotify_artist_id": "6RWjTQqILL7a1tQ0VapyLK",
+      "musicbrainz_artist_id": "3ff72a59-f39d-411d-9f93-2d4a86413013",
+      "spotify_url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+    },
+    {
+      "canonical_slug": "neutral-milk-hotel",
+      "name": "Neutral Milk Hotel",
+      "play_count": 5,
+      "spotify_artist_id": "2ooIqOf4X2uz4mMptXCtie",
+      "musicbrainz_artist_id": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
+      "spotify_url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+    },
+    {
+      "canonical_slug": "piers-faccini",
+      "name": "Piers Faccini",
+      "play_count": 2,
+      "spotify_artist_id": "2hK2gWQ2TequHGKZe5dzHd",
+      "musicbrainz_artist_id": "99698ee5-9b92-4bea-bdf5-418270d820f4",
+      "spotify_url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+    },
     {
       "canonical_slug": "mumford-and-sons",
       "name": "Mumford \u0026 Sons",
       "play_count": 1,
       "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+      "musicbrainz_artist_id": "c44e9c22-ef82-4a77-9bcd-af6c958446d6",
       "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-    },
-    {
-      "canonical_slug": "old-crow-medicine-show",
-      "name": "Old Crow Medicine Show",
-      "play_count": 1,
-      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
-      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "mumford-and-sons--delta",
-      "name": "Delta",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mumford-and-sons",
-      "primary_artist_name": "Mumford \u0026 Sons"
+      "canonical_slug": "the-magnetic-fields--69-love-songs",
+      "name": "69 Love Songs",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "spotify_album_id": "2GuROKcqyHdpIDcgxml1C7",
+      "musicbrainz_release_id": "3404f020-f022-4afa-bc03-d1a11f30fd2d",
+      "musicbrainz_release_group_id": "5dfac852-1aed-35b2-93b6-e8f9c93fe521"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--big-iron-world",
+      "name": "Big Iron World",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "503O014nLEUnB5NSbyDzAJ",
+      "musicbrainz_release_id": "dd963f84-0c3e-4396-8dd2-cc0c86fd6990",
+      "musicbrainz_release_group_id": "58798fed-3731-3d6d-b0cb-bac4e5be17a1"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "name": "O.C.M.S.",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "71oM4BPgOOgdwTYJeUPush",
+      "musicbrainz_release_id": "308cc1b5-b5cc-4ad5-8eed-79ed82e9e8e3",
+      "musicbrainz_release_group_id": "ba298c09-0020-34be-ab1a-04fb96fc2d81"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "name": "Tennessee Pusher",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "4m4WoEGrrAZ5mZvapu4dY3",
+      "musicbrainz_release_id": "bc27bde8-d00f-4fac-918d-56bd973046db",
+      "musicbrainz_release_group_id": "6556cc77-4473-3f3f-9060-8249b194aa2a"
     },
     {
       "canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
       "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
-      "play_count": 1,
+      "play_count": 4,
       "primary_artist_canonical_slug": "old-crow-medicine-show",
-      "primary_artist_name": "Old Crow Medicine Show"
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "1mLpBp6D3h869hhvLsb52a"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--broken-hearts-and-dirty-windows-songs-of-john-prine",
+      "name": "Broken Hearts \u0026 Dirty Windows: Songs of John Prine",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "2L1Y2FRrjQ1jhGJ6d4MGnL"
+    },
+    {
+      "canonical_slug": "neutral-milk-hotel--in-the-aeroplane-over-the-sea",
+      "name": "In the Aeroplane Over the Sea",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "neutral-milk-hotel",
+      "primary_artist_name": "Neutral Milk Hotel",
+      "spotify_album_id": "0vVekV45lOaVKs6RZQQNob",
+      "musicbrainz_release_id": "318eb89c-49e6-392b-ac28-708b08f89586",
+      "musicbrainz_release_group_id": "8f310800-045b-3e12-8268-50b3d33a2267"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--jubilee",
+      "name": "Jubilee",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "1kFrfbpzO4oDKzLMhLtxHN",
+      "musicbrainz_release_id": "62f99d41-a7a7-45d8-b940-97742391e24f",
+      "musicbrainz_release_group_id": "756d3011-fa31-4223-8e7c-59fd74c1952f"
+    },
+    {
+      "canonical_slug": "piers-faccini--mother-time",
+      "name": "Mother Time",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "piers-faccini",
+      "primary_artist_name": "Blick Bassy",
+      "spotify_album_id": "4v3XwAEO8CmwWsI23a9C8I",
+      "musicbrainz_release_id": "4729bc07-a1a0-4cdc-8668-0bfec71164f2",
+      "musicbrainz_release_group_id": "790645b6-63ab-46cc-b9e3-00feb9116a1e"
+    },
+    {
+      "canonical_slug": "neutral-milk-hotel--on-avery-island",
+      "name": "On Avery Island",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "neutral-milk-hotel",
+      "primary_artist_name": "Neutral Milk Hotel",
+      "spotify_album_id": "3QTmNqASavj7H8DPhFss1r",
+      "musicbrainz_release_id": "9b8e326b-a659-37dc-90d9-1e07955e86f5",
+      "musicbrainz_release_group_id": "32fc6059-148d-3bd6-991f-70c47653fb8c"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "mumford-and-sons--forever",
-      "name": "Forever",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mumford-and-sons",
-      "primary_artist_name": "Mumford \u0026 Sons",
-      "release_canonical_slug": "mumford-and-sons--delta",
-      "release_name": "Delta",
-      "spotify_track_id": "5VemD3t5rwdj4zZlpiX8xh",
-      "spotify_url": "https://open.spotify.com/track/5VemD3t5rwdj4zZlpiX8xh"
-    },
-    {
-      "canonical_slug": "old-crow-medicine-show--this-train-is-bound-for-glory",
-      "name": "This Train is Bound for Glory",
-      "play_count": 1,
+      "canonical_slug": "old-crow-medicine-show--take-em-away",
+      "name": "Take 'Em Away",
+      "play_count": 3,
       "primary_artist_canonical_slug": "old-crow-medicine-show",
       "primary_artist_name": "Old Crow Medicine Show",
-      "release_canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
-      "release_name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
-      "spotify_track_id": "7mfn1O2YQifrW5nZhAhCGL",
-      "spotify_url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "4PW2BiBPZS62HxJdeEx4qh",
+      "spotify_url": "https://open.spotify.com/track/4PW2BiBPZS62HxJdeEx4qh"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--crazy-for-you-but-not-that-crazy",
+      "name": "(Crazy for You But) Not That Crazy",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "2b6MeXEpjZ43o7QVkMU3FM",
+      "spotify_url": "https://open.spotify.com/track/2b6MeXEpjZ43o7QVkMU3FM"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--acoustic-guitar",
+      "name": "Acoustic Guitar",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6ZMQVLuKlJgUvEscKnUkNY",
+      "spotify_url": "https://open.spotify.com/track/6ZMQVLuKlJgUvEscKnUkNY"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--alabama-hightest",
+      "name": "Alabama HighTest",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "release_name": "Tennessee Pusher",
+      "spotify_track_id": "0bkCgETw93o0CVMU8xFHpL",
+      "spotify_url": "https://open.spotify.com/track/0bkCgETw93o0CVMU8xFHpL"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--all-my-little-words",
+      "name": "All My Little Words",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "3KvTZQPpzPw9UKxaGlJkBs",
+      "spotify_url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--angel-from-montgomery",
+      "name": "Angel from Montgomery",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--broken-hearts-and-dirty-windows-songs-of-john-prine",
+      "release_name": "Broken Hearts \u0026 Dirty Windows: Songs of John Prine",
+      "spotify_track_id": "2mKMIVcKPczPULJF13Ztvo",
+      "spotify_url": "https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--big-time-in-the-jungle",
+      "name": "Big Time In The Jungle",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "1SEeFmwl7pvAZxRW40KjQY",
+      "spotify_url": "https://open.spotify.com/track/1SEeFmwl7pvAZxRW40KjQY"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--boa-constrictor",
+      "name": "Boa Constrictor",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6gNrp68wiWJBPTszkFc4LM",
+      "spotify_url": "https://open.spotify.com/track/6gNrp68wiWJBPTszkFc4LM"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--busby-berkeley-dreams",
+      "name": "Busby Berkeley Dreams",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "0xR82DzxszFTagYuvAwIUz",
+      "spotify_url": "https://open.spotify.com/track/0xR82DzxszFTagYuvAwIUz"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--cocaine-habit",
+      "name": "Cocaine Habit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--big-iron-world",
+      "release_name": "Big Iron World",
+      "spotify_track_id": "4aPoeldfsklZtRbh6M9219",
+      "spotify_url": "https://open.spotify.com/track/4aPoeldfsklZtRbh6M9219"
     }
   ],
   "source_refs": [
@@ -136,6 +333,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -157,9 +360,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T02:37:33.420Z",
+      "updated_at": "2026-03-29T04:24:55.741Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:24:55.741Z"
 }

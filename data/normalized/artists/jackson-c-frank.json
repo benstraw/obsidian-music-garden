@@ -1,0 +1,51 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5TNmizItgJPfvCoPKXAMGz",
+  "name": "Jackson C. Frank",
+  "spotify_url": "https://open.spotify.com/artist/5TNmizItgJPfvCoPKXAMGz",
+  "musicbrainz_artist_id": "ffa665e1-79c0-44fc-b963-6740619b91f5",
+  "status": "matched",
+  "page_title": "Jackson C. Frank",
+  "summary": "Jackson Carey Frank was an American folk musician. He released his first and only album in 1965, produced by Paul Simon. After the release of the record, Frank was plagued by a series of personal issues, and was diagnosed with schizophrenia and protracted depression that prevented him from maintaining his career.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jackson_C._Frank",
+  "candidates": [
+    "Francis Ernest Jackson",
+    "Francis Jackson (abolitionist)",
+    "Francis Jackson (composer)",
+    "Francis Jackson (kidnapping victim)",
+    "Frank Cameron Jackson",
+    "Frank G. Jackson",
+    "Frank Jackson (basketball)",
+    "Franz Jackson",
+    "Jackson C. Frank",
+    "Jackson C. Frank (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jackson C. Frank",
+    "page_url": "https://en.wikipedia.org/wiki/Jackson_C._Frank",
+    "retrieved_at": "2026-03-28T10:39:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jackson C. Frank.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jackson C. Frank.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

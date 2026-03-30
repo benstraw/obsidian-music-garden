@@ -1,0 +1,106 @@
+{
+  "source": "spotify",
+  "source_artist_id": "13dkPjqmbcchm8cXjEJQeP",
+  "name": "Glenn Gould",
+  "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP",
+  "musicbrainz_artist_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+  "source_genres": [
+    "baroque",
+    "classical",
+    "classical piano"
+  ],
+  "canonical_genre_slugs": [
+    "classical",
+    "classical-piano"
+  ],
+  "status": "matched",
+  "page_title": "Glenn Gould",
+  "summary": "Glenn Herbert Gould was a Canadian pianist and broadcaster. Widely regarded as one of the greatest pianists of all time, he was renowned as an interpreter of the keyboard works of Johann Sebastian Bach. His playing was distinguished by remarkable technical proficiency and a capacity to articulate the contrapuntal texture of Bach's music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Glenn_Gould",
+  "candidates": [
+    "Glenn Goldberg",
+    "Glenn Gordon Caron",
+    "Glenn Gould",
+    "Glenn Gould Foundation",
+    "Glenn Gould Prize",
+    "Glenn Gould Studio",
+    "Glenn Gould discography",
+    "Glenn Gould film",
+    "Glenngould",
+    "The Glenn Gould School"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Glenn Gould",
+    "page_url": "https://en.wikipedia.org/wiki/Glenn_Gould",
+    "retrieved_at": "2026-03-28T10:39:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glenn Gould's chair.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Gould%27s_chair.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glenn_Gould%27s_chair.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glenn_Gould%27s_chair.JPG/960px-Glenn_Gould%27s_chair.JPG",
+      "width": 1224,
+      "height": 1632,
+      "license": "Public domain",
+      "author": "Original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Mandretta\" class=\"extiw\" title=\"en:User:Mandretta\"\u003eMandretta\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glenn Gould (signature).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Gould_(signature).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Glenn_Gould_%28signature%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Glenn_Gould_%28signature%29.svg/960px-Glenn_Gould_%28signature%29.svg.png",
+      "width": 1250,
+      "height": 380,
+      "license": "Public domain",
+      "author": "Glenn Gould"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glenn Gould 1961 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Gould_1961_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Glenn_Gould_1961_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Glenn_Gould_1961_%28cropped%29.jpg/960px-Glenn_Gould_1961_%28cropped%29.jpg",
+      "width": 1541,
+      "height": 2077,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Richard_Avedon\" class=\"extiw\" title=\"w:en:Richard Avedon\"\u003e\u003cspan title=\"American photographer (1923–2004)\"\u003eRichard Avedon\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

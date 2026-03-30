@@ -1,0 +1,64 @@
+{
+  "canonical_slug": "bill-evans-trio",
+  "name": "Bill Evans Trio",
+  "play_count": 16,
+  "spotify_artist_id": "3VEG6gxFIMfl4Cdog26avS",
+  "musicbrainz_artist_id": "d0630a08-3b40-4cb4-9f48-7d525262c1f6",
+  "spotify_url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "1–4 wochen",
+    "instrumental jazz",
+    "jazz",
+    "offizielle charts"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9ac6d198565813f217ef6ae116f7eee5ce5b67ef",
+      "height": 669,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/c597d97f26ec86f84b1c99baa0ade78c8f9aa46d",
+      "height": 428,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/66d7744aa791b7edfd287156c3c78f2e4498984c",
+      "height": 134,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/f219d16d5905e011caacec0b33400aadfe69ccac",
+      "height": 43,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Bill Evans",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Evans",
+  "summary": "William John Evans was an American jazz pianist and composer who worked primarily as the leader of his trio. His extensive use of impressionist harmony, block chords, innovative chord voicings, and trademark rhythmically independent \"singing\" melodic lines continue to influence jazz pianists today.",
+  "candidates": [
+    "Bill Evans Trio",
+    "Bill Evans Trio with Symphony Orchestra",
+    "Bill Evans at Town Hall",
+    "Bill Evans tribute albums",
+    "The Bill Evans Trio \"Live\""
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bill Evans",
+    "page_url": "https://en.wikipedia.org/wiki/Bill_Evans",
+    "retrieved_at": "2026-03-28T10:37:27Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bill_Evans_%281961_publicity_photo_by_Steve_Schapiro%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bill_Evans_%281961_publicity_photo_by_Steve_Schapiro%29.jpg/330px-Bill_Evans_%281961_publicity_photo_by_Steve_Schapiro%29.jpg",
+    "width": 1616,
+    "height": 2048
+  },
+  "last_updated": "2026-03-28"
+}

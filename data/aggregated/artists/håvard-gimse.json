@@ -1,0 +1,47 @@
+{
+  "canonical_slug": "håvard-gimse",
+  "name": "Håvard Gimse",
+  "spotify_artist_id": "1dk8ZJIE1IET4n4LrxzD6I",
+  "musicbrainz_artist_id": "cf7c21be-35e4-417d-af34-ee4bc8b3b55b",
+  "spotify_url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "norwegian pianist",
+    "pianist"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bee047ed1b6c2181b9c7e01",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e025bee047ed1b6c2181b9c7e01",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048515bee047ed1b6c2181b9c7e01",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Håvard Gimse",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%A5vard_Gimse",
+  "summary": "Håvard Gimse is a Norwegian classical pianist from Kongsvinger, and the brother of the cellist Øyvind Gimse. He has received the Griegprisen (1996) and the Steinway Award (1995). Gimse has done several recordings for Naim Audio, Naxos Records, Sony Classical Records, Chandos Records and Simax.",
+  "candidates": [
+    "Håvard Gibøen",
+    "Håvard Gimse"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Håvard Gimse",
+    "page_url": "https://en.wikipedia.org/wiki/H%C3%A5vard_Gimse",
+    "retrieved_at": "2026-03-28T10:39:34Z"
+  },
+  "last_updated": "2026-03-30"
+}

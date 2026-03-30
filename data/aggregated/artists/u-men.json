@@ -1,0 +1,44 @@
+{
+  "canonical_slug": "u-men",
+  "name": "U-Men",
+  "play_count": 5,
+  "spotify_artist_id": "22WypD8tTI2wltNMQJZhj6",
+  "musicbrainz_artist_id": "0947de9a-ba43-4c59-a7f7-87290daf1f91",
+  "spotify_url": "https://open.spotify.com/artist/22WypD8tTI2wltNMQJZhj6",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/deedaec06c584f443be5c3c88cc0bb5211af6dec",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/20c717188e8cac1139a03768dd526de0cca5c317",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1f945610a702ad5f65e2e37f6ba578c534dc6ddd",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/843b9ad367892a70385dae918144670045565a21",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Genji Umeno",
+    "Osi Umenyiora",
+    "Ryutaro Umeno",
+    "Serhiy Umen",
+    "The U-Men",
+    "U-Men (EP)",
+    "U-Men (album)",
+    "U-Men (comics)",
+    "Umenocoleidae",
+    "Umenomiya Taisha"
+  ],
+  "last_updated": "2026-03-28"
+}

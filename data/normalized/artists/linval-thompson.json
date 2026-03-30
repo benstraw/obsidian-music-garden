@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7IURtrIM8SBTlCI9qrAuUQ",
+  "name": "Linval Thompson",
+  "spotify_url": "https://open.spotify.com/artist/7IURtrIM8SBTlCI9qrAuUQ",
+  "musicbrainz_artist_id": "c60178ab-c3d9-4f9d-ac56-4bf2eb93feed",
+  "status": "matched",
+  "page_title": "Linval Thompson",
+  "summary": "Leval Alphonso Thompson, also known as Linval Thompson, is a Jamaican conscious roots reggae vocalist, dub musician and record producer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Linval_Thompson",
+  "candidates": [
+    "Linda D. Thompson",
+    "Linda G. Thompson",
+    "Linda Thompson",
+    "Linda Thompson (artistic director)",
+    "Linda Thompson (attorney)",
+    "Linda Thompson (disambiguation)",
+    "Linda Thompson (singer)",
+    "Linval Thompson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Linval Thompson",
+    "page_url": "https://en.wikipedia.org/wiki/Linval_Thompson",
+    "retrieved_at": "2026-03-28T10:40:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bob-Marley-in-Concert Zurich 05-30-801.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+    "width": 76,
+    "height": 64,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Ueli Frey"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bob-Marley-in-Concert Zurich 05-30-801.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bob-Marley-in-Concert_Zurich_05-30-801.jpg",
+      "width": 76,
+      "height": 64,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Ueli Frey"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Linval Thompson Marijuana.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Linval_Thompson_Marijuana.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Linval_Thompson_Marijuana.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Linval_Thompson_Marijuana.jpg/960px-Linval_Thompson_Marijuana.jpg",
+      "width": 6016,
+      "height": 4016,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Peter_Verwimp\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Peter Verwimp (page does not exist)\"\u003ePeter Verwimp\u003c/a\u003e"
+    }
+  ]
+}

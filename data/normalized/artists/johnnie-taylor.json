@@ -1,0 +1,87 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4OGuNAnRFWZOgOA2d51taz",
+  "name": "Johnnie Taylor",
+  "spotify_url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz",
+  "musicbrainz_artist_id": "4c1c21bc-56d9-4bed-8b58-360b08e76ffa",
+  "source_genres": [
+    "disco",
+    "r\u0026b",
+    "soul",
+    "soul blues",
+    "southern soul"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Johnnie Taylor",
+  "summary": "Johnnie Harrison Taylor was an American recording artist and songwriter who performed a wide variety of genres, from blues, rhythm and blues, soul, and gospel to pop, doo-wop, and disco. He was initially successful at Stax Records with the number-one R\u0026B hits \"Who's Making Love\" (1968), \"Jody's Got Your Girl and Gone\" (1971) and \"I Believe in You \" (1973), and reached number one on the US pop charts with \"Disco Lady\" in 1976.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Johnnie_Taylor",
+  "candidates": [
+    "John I. Taylor",
+    "John Taylor",
+    "Johnnie Taylor",
+    "Johnnie Tyler",
+    "Johnny C. Taylor Jr.",
+    "Johnny Taylor (Tracy Beaker Returns character)",
+    "Johnny Taylor (basketball)",
+    "Johnny Taylor (comedian)",
+    "Johnny Taylor (painter)",
+    "Johnny Taylor (sportsman)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Johnnie Taylor",
+    "page_url": "https://en.wikipedia.org/wiki/Johnnie_Taylor",
+    "retrieved_at": "2026-03-28T10:40:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Black Soul Singer Johnny Taylor Performs At The International Amphitheater In Chicago, 10-1973 (8675935742) (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago,_10-1973_(8675935742)_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago%2C_10-1973_%288675935742%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago%2C_10-1973_%288675935742%29_%28cropped%29.jpg/960px-Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago%2C_10-1973_%288675935742%29_%28cropped%29.jpg",
+    "width": 1800,
+    "height": 1959,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35740357@N03\"\u003eThe U.S. National Archives\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Black Soul Singer Johnny Taylor Performs At The International Amphitheater In Chicago, 10-1973 (8675935742) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago,_10-1973_(8675935742)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago%2C_10-1973_%288675935742%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago%2C_10-1973_%288675935742%29_%28cropped%29.jpg/960px-Black_Soul_Singer_Johnny_Taylor_Performs_At_The_International_Amphitheater_In_Chicago%2C_10-1973_%288675935742%29_%28cropped%29.jpg",
+      "width": 1800,
+      "height": 1959,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35740357@N03\"\u003eThe U.S. National Archives\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Johnnie Taylor (1967).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Johnnie_Taylor_(1967).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Johnnie_Taylor_%281967%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Johnnie_Taylor_%281967%29.png",
+      "width": 314,
+      "height": 598,
+      "license": "Public domain",
+      "author": "Atlantic Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

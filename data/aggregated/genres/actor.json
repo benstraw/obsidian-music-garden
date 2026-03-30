@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "actor",
+  "display_title": "Actor",
+  "display_name": "Actor",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Actor",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Actor",
+  "summary": "An actor (masculine/gender-neutral), or actress (feminine), is a person who portrays a character in a production. The actor performs \"in the flesh\" in the traditional medium of the theatre or in modern media such as film, radio, and television. The analogous Greek term is ὑποκριτής (hupokritḗs), literally \"one who answers\". The actor's interpretation of a role—the art of acting pertains to the role played, whether based on a real person or fictional character. This can also be considered an \"actor's role\", which was called this due to scrolls being used in the theaters. Interpretation occurs even when the actor is \"playing themselves\", as in some forms of experimental performance art.",
+  "candidates": [
+    "32nd Actor Awards",
+    "Actor",
+    "Actor Award for Outstanding Performance by a Cast in a Motion Picture",
+    "Actor Award for Outstanding Performance by a Female Actor in a Leading Role",
+    "Actor Award for Outstanding Performance by a Female Actor in a Supporting Role",
+    "Actor Award for Outstanding Performance by a Male Actor in a Leading Role",
+    "Actor Award for Outstanding Performance by a Male Actor in a Supporting Role",
+    "Actor Awards",
+    "Actor model",
+    "Actor–network theory"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Actor",
+    "page_url": "https://en.wikipedia.org/wiki/Actor",
+    "retrieved_at": "2026-03-28T15:52:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox globe content.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_globe_content.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_globe_content.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/960px-Ambox_globe_content.svg.png",
+    "width": 350,
+    "height": 290,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox globe content.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_globe_content.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_globe_content.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/960px-Ambox_globe_content.svg.png",
+      "width": 350,
+      "height": 290,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arusyak Papazyan.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arusyak_Papazyan.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arusyak_Papazyan.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Arusyak_Papazyan.jpg",
+      "width": 417,
+      "height": 627,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%D4%BB%D6%80%D5%AB%D5%B6%D5%A1%CC%A0%D5%82%D5%A1%D5%A6%D5%A1%D6%80%D5%B5%D5%A1%D5%B6\" title=\"User:Իրինա̠Ղազարյան\"\u003eԻրինա̠Ղազարյան\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blank television set.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blank_television_set.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blank_television_set.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/960px-Blank_television_set.svg.png",
+      "width": 138,
+      "height": 92,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Stannered\" title=\"User:Stannered\"\u003eStannered\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Stannered\" title=\"User:Stannered\"\u003eStannered\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clara Bow in Call Her Savage - The Film Daily, Jan-Jun 1932 (page 1153 crop).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clara_Bow_in_Call_Her_Savage_-_The_Film_Daily,_Jan-Jun_1932_(page_1153_crop).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Clara_Bow_in_Call_Her_Savage_-_The_Film_Daily%2C_Jan-Jun_1932_%28page_1153_crop%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clara_Bow_in_Call_Her_Savage_-_The_Film_Daily%2C_Jan-Jun_1932_%28page_1153_crop%29.jpg/960px-Clara_Bow_in_Call_Her_Savage_-_The_Film_Daily%2C_Jan-Jun_1932_%28page_1153_crop%29.jpg",
+      "width": 2469,
+      "height": 3291,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nNew York, Wid's Films and Film Folks, Inc.\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Henry Irving Vanity Fair.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Henry_Irving_Vanity_Fair.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Henry_Irving_Vanity_Fair.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Henry_Irving_Vanity_Fair.jpg",
+      "width": 490,
+      "height": 822,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Carlo_Pellegrini_(caricaturist)\" class=\"extiw\" title=\"w:en:Carlo Pellegrini (caricaturist)\"\u003e\u003cspan title=\"Italian caricaturist (1839-1889)\"\u003eCarlo Pellegrini\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--actor.json",
+      "url": "https://en.wikipedia.org/wiki/Actor",
+      "retrieved_at": "2026-03-28T15:52:44Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--actor.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_globe_content.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,7 +1,9 @@
 {
   "canonical_slug": "gnarls-barkley",
   "name": "Gnarls Barkley",
+  "play_count": 19,
   "spotify_artist_id": "5SbkVQYYzlw1kte75QIabH",
+  "musicbrainz_artist_id": "a47c3aa2-7d87-475c-a2c7-1e2047dafb09",
   "spotify_url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH",
   "images": [
     {
@@ -73,5 +75,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/ssandars\"\u003eScott Sandars\u003c/a\u003e from Melbourne, Australia"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

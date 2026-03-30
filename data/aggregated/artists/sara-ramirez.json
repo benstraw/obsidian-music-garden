@@ -1,0 +1,66 @@
+{
+  "canonical_slug": "sara-ramirez",
+  "name": "Sara Ramirez",
+  "spotify_artist_id": "369G5DRwe0MjvyOoyyVXGN",
+  "musicbrainz_artist_id": "92f91947-0d8e-4a9c-ae6a-68906e93a079",
+  "spotify_url": "https://open.spotify.com/artist/369G5DRwe0MjvyOoyyVXGN",
+  "status": "matched",
+  "wikipedia_title": "Sara Ramirez",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sara_Ramirez",
+  "summary": "Sara Elena Ramírez Vargas is an American actor, singer and activist. Born in Mazatlán, Sinaloa, Ramírez moved from Mexico to the United States at eight years old, eventually graduating with a fine arts degree from the Juilliard School.",
+  "candidates": [
+    "Sandra Ramírez",
+    "Sara Ramirez",
+    "Sara Ramirez (EP)",
+    "Sara Ramírez (disambiguation)",
+    "Sara Ramírez (table tennis)",
+    "Sara Samir Elsayed Mohamed Ahmed",
+    "Sardar amir azam",
+    "Saúl Ramírez"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sara Ramirez",
+    "page_url": "https://en.wikipedia.org/wiki/Sara_Ramirez",
+    "retrieved_at": "2026-03-28T10:42:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sara Ramirez.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Sara_Ramirez.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sara_Ramirez.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sara_Ramirez.jpg",
+    "width": 459,
+    "height": 710,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21943577@N03\"\u003eThe Heart Truth\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sara Ramirez.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sara_Ramirez.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sara_Ramirez.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sara_Ramirez.jpg",
+      "width": 459,
+      "height": 710,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21943577@N03\"\u003eThe Heart Truth\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sara Ramírez3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sara_Ram%C3%ADrez3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sara_Ram%C3%ADrez3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Sara_Ram%C3%ADrez3.jpg",
+      "width": 533,
+      "height": 800,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21943577@N03\"\u003eThe Heart Truth\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

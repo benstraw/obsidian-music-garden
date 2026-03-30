@@ -4,6 +4,9 @@
   "name": "LOYALTY. FEAT. RIHANNA.",
   "primary_artist_name": "Kendrick Lamar",
   "primary_artist_canonical_slug": "kendrick-lamar",
+  "additional_artist_slugs": [
+    "rihanna"
+  ],
   "release_name": "DAMN.",
   "release_canonical_slug": "kendrick-lamar--damn",
   "spotify_url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"

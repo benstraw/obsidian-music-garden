@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "ireland",
+  "display_title": "Ireland",
+  "display_name": "Ireland",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Ireland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ireland",
+  "summary": "Ireland is an island in the North Atlantic Ocean, in Northwestern Europe. Geopolitically, the island is divided between the Republic of Ireland and Northern Ireland. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel. Ireland is the second-largest island of the British Isles, the third-largest in Europe, and the twentieth-largest in the world. As of 2022, the population of the entire island is just over 7 million, with 5.1 million in the Republic of Ireland and 1.9 million in Northern Ireland, ranking it the second-most populous island in Europe after Great Britain.",
+  "candidates": [
+    "Flag of Ireland",
+    "Ireland",
+    "Ireland and World War I",
+    "Ireland cricket team",
+    "Ireland national rugby union team",
+    "Ireland–United Kingdom relations",
+    "Ireland–United States relations",
+    "Kathy Ireland",
+    "Republic of Ireland",
+    "Stephen Ireland"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ireland",
+    "page_url": "https://en.wikipedia.org/wiki/Ireland",
+    "retrieved_at": "2026-03-28T15:57:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Anglo-Irish Treaty Griffith annotated2.gif",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Anglo-Irish_Treaty_Griffith_annotated2.gif",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Anglo-Irish_Treaty_Griffith_annotated2.gif",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Anglo-Irish_Treaty_Griffith_annotated2.gif",
+    "width": 608,
+    "height": 870,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anglo-Irish Treaty Griffith annotated2.gif",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anglo-Irish_Treaty_Griffith_annotated2.gif",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Anglo-Irish_Treaty_Griffith_annotated2.gif",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Anglo-Irish_Treaty_Griffith_annotated2.gif",
+      "width": 608,
+      "height": 870,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2 DS-25 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2_DS-25_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2_DS-25_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2_DS-25_%28cropped%29.jpg",
+      "width": 834,
+      "height": 1173,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ardboe Cross.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ardboe_Cross.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ardboe_Cross.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ardboe_Cross.jpg",
+      "width": 480,
+      "height": 640,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/5728\"\u003eHENRY CLARK\u003c/a\u003e",
+      "attribution_text": "HENRY CLARK"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Belfast City Hall 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Belfast_City_Hall_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Belfast_City_Hall_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Belfast_City_Hall_2.jpg/960px-Belfast_City_Hall_2.jpg",
+      "width": 1024,
+      "height": 677,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Macnolete"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:British–European Union frontier in Ireland.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:British%E2%80%93European_Union_frontier_in_Ireland.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/British%E2%80%93European_Union_frontier_in_Ireland.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/British%E2%80%93European_Union_frontier_in_Ireland.svg/960px-British%E2%80%93European_Union_frontier_in_Ireland.svg.png",
+      "width": 1450,
+      "height": 1807,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Own work based on: \u003ca href=\"//commons.wikimedia.org/wiki/File:Counties_of_Ireland.svg\" title=\"File:Counties of Ireland.svg\"\u003eCounties of Ireland.svg\u003c/a\u003e: \u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Counties_of_Ireland.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Counties_of_Ireland.svg/40px-Counties_of_Ireland.svg.png\" decoding=\"async\" width=\"24\" height=\"30\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Counties_of_Ireland.svg/60px-Counties_of_Ireland.svg.png 2x\" data-file-width=\"1450\" data-file-height=\"1807\"\u003e\u003c/a\u003e\u003c/span\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(2-3).svg\" title=\"File:Flag of the United Kingdom (2-3).svg\"\u003eFlag of the United Kingdom (2-3).svg\u003c/a\u003e: \u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(2-3).svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/40px-Flag_of_the_United_Kingdom_%282-3%29.svg.png\" decoding=\"async\" width=\"24\" height=\"16\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_the_United_Kingdom_%282-3%29.svg/60px-Flag_of_the_United_Kingdom_%282-3%29.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"\u003e\u003c/a\u003e\u003c/span\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/File:Flag_of_Ireland_(3-2).svg\" title=\"File:Flag of Ireland (3-2).svg\"\u003eFlag of Ireland (3-2).svg\u003c/a\u003e: \u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Flag_of_Ireland_(3-2).svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Ireland_%283-2%29.svg/40px-Flag_of_Ireland_%283-2%29.svg.png\" decoding=\"async\" width=\"24\" height=\"16\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Ireland_%283-2%29.svg/60px-Flag_of_Ireland_%283-2%29.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"\u003e\u003c/a\u003e\u003c/span\u003e  and \u003ca href=\"//commons.wikimedia.org/wiki/File:Flag_of_Europe.svg\" title=\"File:Flag of Europe.svg\"\u003eFlag of Europe.svg\u003c/a\u003e: \u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Flag_of_Europe.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/40px-Flag_of_Europe.svg.png\" decoding=\"async\" width=\"24\" height=\"16\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/60px-Flag_of_Europe.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"\u003e\u003c/a\u003e\u003c/span\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ireland.json",
+      "url": "https://en.wikipedia.org/wiki/Ireland",
+      "retrieved_at": "2026-03-28T15:57:21Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--ireland.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Anglo-Irish_Treaty_Griffith_annotated2.gif",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

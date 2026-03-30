@@ -1,14 +1,19 @@
 {
   "canonical_slug": "world-class-wreckin-cru",
   "name": "World Class Wreckin' Cru",
+  "play_count": 1,
   "spotify_artist_id": "3xA7r14Rok7gwRmVbrNFd9",
+  "musicbrainz_artist_id": "f2c428ae-b55b-4774-9b4f-fd7297d637bf",
   "spotify_url": "https://open.spotify.com/artist/3xA7r14Rok7gwRmVbrNFd9",
   "genres": [
+    "hip-hop",
     "miami-bass",
     "old-school-hip-hop",
     "soul"
   ],
   "source_genres": [
+    "electro",
+    "hip hop",
     "miami bass",
     "old school hip hop",
     "quiet storm"
@@ -64,5 +69,5 @@
       "author": "\u003cp\u003eKru-Cut Records \u003cbr\u003e\n\u003c/p\u003e\nDarryl Davis (Cover artist)"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

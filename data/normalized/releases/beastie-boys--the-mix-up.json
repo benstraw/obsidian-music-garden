@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7ndbBA9C4LO0GqATIpg1iV",
   "name": "The Mix-Up",
   "primary_artist_name": "Beastie Boys",
-  "primary_artist_canonical_slug": "beastie-boys"
+  "primary_artist_canonical_slug": "beastie-boys",
+  "musicbrainz_release_id": "da94de00-9a88-335c-b86d-2d12edd0d22e",
+  "musicbrainz_release_group_id": "e24fee15-4e30-35ec-b68b-9fd861dceb41"
 }

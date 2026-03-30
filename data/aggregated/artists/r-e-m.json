@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "r-e-m",
+  "name": "R.E.M.",
+  "play_count": 12,
+  "spotify_artist_id": "4KWTAlx2RvbpseOGMEmROg",
+  "musicbrainz_artist_id": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+  "spotify_url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg",
+  "genres": [
+    "alternative-rock",
+    "indie-rock",
+    "pop",
+    "rock"
+  ],
+  "source_genres": [
+    "acoustic rock",
+    "adult alternative pop/rock",
+    "adult alternative rock",
+    "alternative",
+    "alternative rock",
+    "indie rock",
+    "jangle pop",
+    "pop rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6334ab6a83196f36475ada7f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051746334ab6a83196f36475ada7f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1786334ab6a83196f36475ada7f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "R.E.M.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/R.E.M.",
+  "summary": "R.E.M. was an American rock band formed in Athens, Georgia, in 1980 by drummer Bill Berry, guitarist Peter Buck, bassist Mike Mills, and lead vocalist Michael Stipe, who were students at the University of Georgia. R.E.M. was noted for Buck's arpeggiated \"jangle\" guitar playing; Stipe's distinctive vocal style, unique stage presence, and cryptic lyrics; Mills's countermelodic bass lines and backing vocals; and Berry's tight, economical drumming. In the early 1990s, other alternative rock acts such as Nirvana, Pixies, and Pavement named R.E.M. as a pioneer of the genre. After Berry left in 1997, the remaining members continued with mixed critical and commercial success. The band broke up amicably in 2011, having sold more than 90 million albums worldwide and becoming one of the world's best-selling music acts.",
+  "candidates": [
+    "R.E.M.",
+    "R.E.M. (song)",
+    "R.E.M. Beauty",
+    "R.E.M. Live",
+    "R.E.M. at the BBC",
+    "R.E.M. discography",
+    "R.E.M. sleep",
+    "R.E.M.: In the Attic – Alternative Recordings 1985–1989",
+    "R.E.M.: Singles Collected",
+    "R.e.m.IX"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "R.E.M.",
+    "page_url": "https://en.wikipedia.org/wiki/R.E.M.",
+    "retrieved_at": "2026-03-28T10:42:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Athens Church Steeple.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Athens_Church_Steeple.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Athens_Church_Steeple.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Athens_Church_Steeple.jpg/960px-Athens_Church_Steeple.jpg",
+    "width": 3456,
+    "height": 5184,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Nicolas Henderson"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Athens Church Steeple.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Athens_Church_Steeple.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Athens_Church_Steeple.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Athens_Church_Steeple.jpg/960px-Athens_Church_Steeple.jpg",
+      "width": 3456,
+      "height": 5184,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Nicolas Henderson"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Billberry.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Billberry.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Billberry.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Billberry.jpg",
+      "width": 400,
+      "height": 300,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32293416@N08/\"\u003ejoesomeone2010\u003c/a\u003e \u003cspan class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Billberry.jpg#P170\" title=\"Edit this at Structured Data on Commons\"\u003e\u003cimg alt=\"Edit this at Structured Data on Commons\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png\" decoding=\"async\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"\u003e\u003c/a\u003e\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Georgia (U.S. state).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Georgia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_State_of_Georgia.svg/960px-Flag_of_the_State_of_Georgia.svg.png",
+      "width": 960,
+      "height": 600,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the State of Georgia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Georgia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_State_of_Georgia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_the_State_of_Georgia.svg/960px-Flag_of_the_State_of_Georgia.svg.png",
+      "width": 960,
+      "height": 600,
+      "license": "Public domain"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

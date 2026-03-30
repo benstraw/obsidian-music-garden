@@ -4,6 +4,10 @@
   "name": "Aquamarine (feat. Michael Kiwanuka)",
   "primary_artist_name": "Danger Mouse",
   "primary_artist_canonical_slug": "danger-mouse",
+  "additional_artist_slugs": [
+    "black-thought",
+    "michael-kiwanuka"
+  ],
   "release_name": "Cheat Codes",
   "release_canonical_slug": "danger-mouse--cheat-codes",
   "spotify_url": "https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr"

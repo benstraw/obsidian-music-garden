@@ -1,0 +1,19 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0dGQQCxO2lPSsWaUjCDpxh",
+  "name": "Kiev Chamber Choir",
+  "spotify_url": "https://open.spotify.com/artist/0dGQQCxO2lPSsWaUjCDpxh",
+  "status": "matched",
+  "page_title": "Kyiv Chamber Choir",
+  "summary": "The Kyiv Chamber Choir is a chamber choir based in Kyiv, Ukraine. The choir was founded in December 1990 by conductor Mykola Hobdych. It has performed thousands of concerts in at least 21 countries. The choir also records music, releasing over 40 compact disks. More than half of these compositions were recorded for the first time. The choir has performed at renowned American venues such as Carnegie Hall, the National Cathedral, and the White House. Kyiv Chamber Choir sings much of its music a cappella. Its repertoire includes well-known classical compositions, but also that of Ukrainian composers such as Mykola Lysenko, Mykola Leontovych, Kyrylo Stetsenko, Artem Vedel, and Mykola Diletsky.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Kyiv_Chamber_Choir",
+  "candidates": [
+    "Kiev Chamber Choir"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Kyiv Chamber Choir",
+    "page_url": "https://en.wikipedia.org/wiki/Kyiv_Chamber_Choir",
+    "retrieved_at": "2026-03-28T10:40:26Z"
+  }
+}

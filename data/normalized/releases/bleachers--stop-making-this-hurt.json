@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6Zumf6wFEd0VHxHIUoMXhX",
   "name": "Stop Making This Hurt",
   "primary_artist_name": "Bleachers",
-  "primary_artist_canonical_slug": "bleachers"
+  "primary_artist_canonical_slug": "bleachers",
+  "musicbrainz_release_id": "16b899f8-8dec-4fdf-b451-6f87fdb78504",
+  "musicbrainz_release_group_id": "d96d2316-02b6-48b7-8583-196f9ae8b6ef"
 }

@@ -1,0 +1,103 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6zHRqvws8dVeqL8D31ponr",
+  "name": "Tim Buckley",
+  "spotify_url": "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr",
+  "musicbrainz_artist_id": "8546949d-f46c-45ab-8391-85b26dda6b65",
+  "source_genres": [
+    "ballad",
+    "experimental",
+    "experimental rock",
+    "pop",
+    "pop rock",
+    "rock",
+    "soft rock"
+  ],
+  "canonical_genre_slugs": [
+    "experimental",
+    "experimental-rock",
+    "pop",
+    "rock",
+    "soft-rock"
+  ],
+  "status": "matched",
+  "page_title": "Tim Buckley",
+  "summary": "Timothy Charles Buckley III was an American musician. He began his career based in folk rock, but subsequently experimented with genres such as psychedelia, jazz, the avant-garde, and funk.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Tim_Buckley",
+  "candidates": [
+    "T. Buckley",
+    "Ted Buckley",
+    "Tim Buckley",
+    "Tim Buckley (Neighbours)",
+    "Tim Buckley (album)",
+    "Tim Buckley (basketball)",
+    "Tim Buckley (comics)",
+    "Tim Buckley (disambiguation)",
+    "Tim Buckley: My Fleeting House",
+    "Tim Yackley"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tim Buckley",
+    "page_url": "https://en.wikipedia.org/wiki/Tim_Buckley",
+    "retrieved_at": "2026-03-28T10:43:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Buckley photographed by Jørgen Angel, 1974.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Buckley_photographed_by_J%C3%B8rgen_Angel,_1974.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Buckley_photographed_by_J%C3%B8rgen_Angel%2C_1974.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Buckley_photographed_by_J%C3%B8rgen_Angel%2C_1974.jpg/960px-Buckley_photographed_by_J%C3%B8rgen_Angel%2C_1974.jpg",
+    "width": 1170,
+    "height": 1704,
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "Jørgen Angel"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Buckley photographed by Jørgen Angel, 1974.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Buckley_photographed_by_J%C3%B8rgen_Angel,_1974.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Buckley_photographed_by_J%C3%B8rgen_Angel%2C_1974.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Buckley_photographed_by_J%C3%B8rgen_Angel%2C_1974.jpg/960px-Buckley_photographed_by_J%C3%B8rgen_Angel%2C_1974.jpg",
+      "width": 1170,
+      "height": 1704,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "Jørgen Angel"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tim-Buckley.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Tim-Buckley.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Tim-Buckley.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tim-Buckley.jpg/960px-Tim-Buckley.jpg",
+      "width": 2048,
+      "height": 1254,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Grant Gouldon"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tim Buckley - I Never Asked to Be Your Mountain.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tim Buckley - Pleasant Street.ogg"
+    }
+  ]
+}

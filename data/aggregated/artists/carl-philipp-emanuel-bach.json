@@ -1,7 +1,9 @@
 {
   "canonical_slug": "carl-philipp-emanuel-bach",
   "name": "Carl Philipp Emanuel Bach",
+  "play_count": 25,
   "spotify_artist_id": "3meioy7GWDwpwmjv2LPyAb",
+  "musicbrainz_artist_id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
   "spotify_url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb",
   "genres": [
     "classical",
@@ -10,7 +12,10 @@
   "source_genres": [
     "baroque",
     "classical",
-    "classical piano"
+    "classical period",
+    "classical piano",
+    "composer",
+    "german composer"
   ],
   "images": [
     {
@@ -107,5 +112,5 @@
       "author": "Alex Murray (traverso) and Martha Goldstein (harpsichord)"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

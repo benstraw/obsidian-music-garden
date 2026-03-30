@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "jazz-pop",
+  "display_title": "Jazz Pop",
+  "display_name": "Jazz Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Jazz fusion",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+  "summary": "Jazz fusion is a popular music genre that developed in the late 1960s when musicians combined jazz harmony and improvisation with rock music, funk, and rhythm and blues. Electric guitars and basses, amplifiers, and keyboard instruments that were popular in rock began to be used by jazz musicians, particularly those who had grown up listening to rock and roll.",
+  "candidates": [
+    "Jaz Coleman",
+    "Jazz \u0026 Pop",
+    "Jazz (word)",
+    "Jazz Hot",
+    "Jazz Impressions of A Boy Named Charlie Brown",
+    "Jazz Impressions of Black Orpheus",
+    "Jazz Pharmaceuticals",
+    "Jazz improvisation",
+    "Jazz pop",
+    "Jazz rap"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz fusion",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+    "retrieved_at": "2026-03-28T15:57:41Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_fusion",
+      "retrieved_at": "2026-03-28T15:57:41Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "dr-john",
+  "name": "Dr. John",
+  "play_count": 3,
+  "spotify_artist_id": "320TrJub4arztwXRm7kqVO",
+  "spotify_url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO",
+  "genres": [
+    "cajun"
+  ],
+  "source_genres": [
+    "cajun",
+    "zydeco"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfed5626c008ba961a81dd218",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fed5626c008ba961a81dd218",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fed5626c008ba961a81dd218",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

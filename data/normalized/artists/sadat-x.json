@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7fDLDq2weBagiAFD2j17Al",
+  "name": "Sadat X",
+  "spotify_url": "https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al",
+  "musicbrainz_artist_id": "bd6f11fd-b4a8-42bd-9a6b-d1cc3616a6d4",
+  "source_genres": [
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Sadat X",
+  "summary": "Derek W. Murphy, better known as Sadat X, is an American rapper, best known as a member of alternative hip-hop group Brand Nubian. Originally known as Derek X, Sadat takes his name from former Egyptian president Anwar Sadat.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Sadat_X",
+  "candidates": [
+    "Anwar Sadat",
+    "SADAT International Defense Consultancy",
+    "Sada Abe",
+    "Sada Baby",
+    "Sadak 2",
+    "Sadat Hossain",
+    "Sadat X",
+    "Saddam Hussein",
+    "Sadr City",
+    "Santa Claus"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sadat X",
+    "page_url": "https://en.wikipedia.org/wiki/Sadat_X",
+    "retrieved_at": "2026-03-28T10:42:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sadat X in 2016.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Sadat_X_in_2016.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sadat_X_in_2016.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sadat_X_in_2016.jpg/960px-Sadat_X_in_2016.jpg",
+    "width": 1000,
+    "height": 667,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/stevenpisano/\"\u003eSteven Pisano\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sadat X in 2016.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sadat_X_in_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sadat_X_in_2016.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sadat_X_in_2016.jpg/960px-Sadat_X_in_2016.jpg",
+      "width": 1000,
+      "height": 667,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/stevenpisano/\"\u003eSteven Pisano\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,15 +1,20 @@
 {
   "canonical_slug": "people-under-the-stairs",
   "name": "People Under The Stairs",
+  "play_count": 6,
   "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+  "musicbrainz_artist_id": "3dc00dcb-6106-43d1-b48d-21d236f53983",
   "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh",
   "genres": [
     "alternative-hip-hop",
+    "hip-hop",
     "jazz-rap",
     "underground-hip-hop"
   ],
   "source_genres": [
     "alternative hip hop",
+    "general hip hop",
+    "hip hop",
     "jazz rap",
     "underground hip hop"
   ],
@@ -71,5 +76,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Piecelock70\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Piecelock70 (page does not exist)\"\u003ePiecelock70\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

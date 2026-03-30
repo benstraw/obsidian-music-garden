@@ -1,0 +1,134 @@
+{
+  "canonical_slug": "nina-simone",
+  "name": "Nina Simone",
+  "play_count": 3,
+  "spotify_artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+  "musicbrainz_artist_id": "2944824d-4c26-476f-a981-be849081942f",
+  "spotify_url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+  "genres": [
+    "folk",
+    "jazz",
+    "pop",
+    "soul"
+  ],
+  "source_genres": [
+    "folk",
+    "jazz",
+    "pop",
+    "soul",
+    "soul-jazz",
+    "vocals"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174136c51c848c26a6cce7f9e56",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178136c51c848c26a6cce7f9e56",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Nina Simone",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nina_Simone",
+  "summary": "Nina Simone was an American pianist, singer, songwriter, and civil rights activist. Her music spanned styles including classical, folk, gospel, blues, jazz, R\u0026B, and pop. Her piano playing was strongly influenced by baroque and classical music, especially Johann Sebastian Bach, and accompanied expressive, jazz-like singing in her contralto voice. Rolling Stone named Simone one of the greatest singers on various lists.",
+  "candidates": [
+    "Nina Simone",
+    "Nina Simone Sings the Blues",
+    "Nina Simone and Her Friends",
+    "Nina Simone and Piano",
+    "Nina Simone at Carnegie Hall",
+    "Nina Simone at Newport",
+    "Nina Simone at Town Hall",
+    "Nina Simone discography",
+    "Nina Simone in Concert",
+    "Nina Simone with Strings"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Nina Simone",
+    "page_url": "https://en.wikipedia.org/wiki/Nina_Simone",
+    "retrieved_at": "2026-03-28T10:41:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:GClef.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+    "width": 15,
+    "height": 41,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hotel Belvoir Nijmegen. Residence of Nina Simone between 1988 and 1991. Graadt van Roggenstraat.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hotel_Belvoir_Nijmegen._Residence_of_Nina_Simone_between_1988_and_1991._Graadt_van_Roggenstraat.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hotel_Belvoir_Nijmegen._Residence_of_Nina_Simone_between_1988_and_1991._Graadt_van_Roggenstraat.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hotel_Belvoir_Nijmegen._Residence_of_Nina_Simone_between_1988_and_1991._Graadt_van_Roggenstraat.jpg/960px-Hotel_Belvoir_Nijmegen._Residence_of_Nina_Simone_between_1988_and_1991._Graadt_van_Roggenstraat.jpg",
+      "width": 6016,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:BabiBandung\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:BabiBandung (page does not exist)\"\u003eRoger Veringemeier\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NinaSimone PlayboyJazzFestival1986.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NinaSimone_PlayboyJazzFestival1986.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/NinaSimone_PlayboyJazzFestival1986.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NinaSimone_PlayboyJazzFestival1986.jpg/960px-NinaSimone_PlayboyJazzFestival1986.jpg",
+      "width": 3408,
+      "height": 2248,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Jose Galvez, Los Angeles Times"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nina Simone14.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nina_Simone14.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nina_Simone14.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nina_Simone14.JPG/960px-Nina_Simone14.JPG",
+      "width": 3681,
+      "height": 2481,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Teddyyy\" title=\"User:Teddyyy\"\u003eRoland Godefroy\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nina Simone (1965).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nina_Simone_(1965).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Nina_Simone_%281965%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nina_Simone_%281965%29.jpg/960px-Nina_Simone_%281965%29.jpg",
+      "width": 1660,
+      "height": 2213,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Ron_Kroon\" title=\"Category:Ron Kroon\"\u003eRon Kroon\u003c/a\u003e for \u003ca href=\"//commons.wikimedia.org/wiki/Category:Anefo\" title=\"Category:Anefo\"\u003eAnefo\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

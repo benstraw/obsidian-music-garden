@@ -1,7 +1,9 @@
 {
   "canonical_slug": "kanye-west",
   "name": "Kanye West",
+  "play_count": 6,
   "spotify_artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+  "musicbrainz_artist_id": "0eb17834-1d29-47ef-a422-9dc68d73c5e4",
   "spotify_url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x",
   "genres": [
     "rap"
@@ -120,5 +122,5 @@
       "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

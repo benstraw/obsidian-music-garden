@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0dS5xeDefwoUNasLUHnCjR",
+  "name": "Cappadonna",
+  "spotify_url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR",
+  "musicbrainz_artist_id": "20292c32-1fe2-4e5d-82c8-7e04e6b8cf73",
+  "source_genres": [
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Cappadonna",
+  "summary": "Darryl Hill, better known by his stage name Cappadonna, is an American rapper. He is a member of the hip-hop collective Wu-Tang Clan and is a member of the hip-hop group Theodore Unit together with Ghostface Killah.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Cappadonna",
+  "candidates": [
+    "Cappadocia",
+    "Cappadocia (Roman province)",
+    "Cappadocia University",
+    "Cappadocia, Abruzzo",
+    "Cappadocian Fathers",
+    "Cappadocian Greek",
+    "Cappadocian Greeks",
+    "Cappadonna",
+    "Cappadonna Hits",
+    "Lucy Cappadona"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cappadonna",
+    "page_url": "https://en.wikipedia.org/wiki/Cappadonna",
+    "retrieved_at": "2026-03-28T10:37:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cappadonna2.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cappadonna2.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cappadonna2.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cappadonna2.png/960px-Cappadonna2.png",
+    "width": 1008,
+    "height": 1448,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/soundfromwayout\"\u003eErik Abderhalden\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cappadonna2.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cappadonna2.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cappadonna2.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cappadonna2.png/960px-Cappadonna2.png",
+      "width": 1008,
+      "height": 1448,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/soundfromwayout\"\u003eErik Abderhalden\u003c/a\u003e"
+    }
+  ]
+}

@@ -7,7 +7,8 @@
   "aliases": [
     "britrock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "British rock music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/British_rock_music",

@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "actors",
+  "display_title": "Actors",
+  "display_name": "Actors",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Actor",
+    "Actors (band)",
+    "Actors Federal Credit Union",
+    "Actors Studio",
+    "Actors Theatre of Louisville",
+    "Actors and Actresses Union Awards",
+    "Actors of the Comédie-Française",
+    "Actors' Equity Association",
+    "Actors' Fidelity League",
+    "Actors: Songs Connection"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

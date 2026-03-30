@@ -1,0 +1,37 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4x2osw7xi8s1Jy04R6rTrn",
+  "name": "The Mad Lads",
+  "spotify_url": "https://open.spotify.com/artist/4x2osw7xi8s1Jy04R6rTrn",
+  "musicbrainz_artist_id": "df597575-db24-48e2-8ce7-48b49219d893",
+  "source_genres": [
+    "funk",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "funk",
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "The Mad Lads",
+  "summary": "The Mad Lads were an American rhythm and blues vocal group, who recorded on the Stax subsidiary label Volt in the 1960s. Their biggest hits were \"Don't Have to Shop Around\" (1965) and \"I Want Someone\" (1966).",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Mad_Lads",
+  "candidates": [
+    "The Mad Adventures of Rabbi Jacob",
+    "The Mad Bad Ad Show",
+    "The Mad Capsule Market's",
+    "The Mad Capsule Markets",
+    "The Mad Capsule Markets discography",
+    "The Mad Dash",
+    "The Mad Gasser",
+    "The Mad Lads",
+    "The Mad Parson",
+    "The Mad, Mad, Mad Comedians"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Mad Lads",
+    "page_url": "https://en.wikipedia.org/wiki/The_Mad_Lads",
+    "retrieved_at": "2026-03-28T10:43:18Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5olDKSsFhhmwh8UCWwKtpq",
+  "name": "Chick Corea",
+  "spotify_url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq",
+  "musicbrainz_artist_id": "8446fcca-109e-4c6d-a2ff-5a269b32b4c2",
+  "source_genres": [
+    "jazz",
+    "jazz fusion"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "jazz-fusion"
+  ],
+  "status": "matched",
+  "page_title": "Chick Corea",
+  "summary": "Armando Anthony \"Chick\" Corea was an American jazz pianist, composer, bandleader, and occasional percussionist. His compositions \"Spain\", \"500 Miles High\", \"La Fiesta\", \"Armando's Rhumba\", and \"Windows\" are considered jazz standards.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Chick_Corea",
+  "candidates": [
+    "Chick Corea",
+    "Chick Corea \u0026 Return to Forever",
+    "Chick Corea Akoustic Band",
+    "Chick Corea Elektric Band",
+    "Chick Corea Featuring Lionel Hampton",
+    "Chick Corea discography",
+    "Is (Chick Corea album)",
+    "Norma Chick",
+    "The Chick Corea Elektric Band (album)",
+    "The Chick Corea Songbook"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chick Corea",
+    "page_url": "https://en.wikipedia.org/wiki/Chick_Corea",
+    "retrieved_at": "2026-03-28T10:38:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Al Di Meola \u0026 Chick Corea.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Di_Meola_%26_Chick_Corea.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Al_Di_Meola_%26_Chick_Corea.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Al_Di_Meola_%26_Chick_Corea.jpg/960px-Al_Di_Meola_%26_Chick_Corea.jpg",
+    "width": 8581,
+    "height": 5689,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Tom Marcello"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Al Di Meola \u0026 Chick Corea.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Di_Meola_%26_Chick_Corea.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Al_Di_Meola_%26_Chick_Corea.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Al_Di_Meola_%26_Chick_Corea.jpg/960px-Al_Di_Meola_%26_Chick_Corea.jpg",
+      "width": 8581,
+      "height": 5689,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Tom Marcello"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bobby McFerrin and Chick Corea.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bobby_McFerrin_and_Chick_Corea.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bobby_McFerrin_and_Chick_Corea.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bobby_McFerrin_and_Chick_Corea.jpg/960px-Bobby_McFerrin_and_Chick_Corea.jpg",
+      "width": 2094,
+      "height": 1206,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://flickr.com/people/23206669@N03\"\u003eDaniele Marcucci\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Béla Fleck and Chick Corea 2, March 1, 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:B%C3%A9la_Fleck_and_Chick_Corea_2,_March_1,_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/B%C3%A9la_Fleck_and_Chick_Corea_2%2C_March_1%2C_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/B%C3%A9la_Fleck_and_Chick_Corea_2%2C_March_1%2C_2008.jpg/960px-B%C3%A9la_Fleck_and_Chick_Corea_2%2C_March_1%2C_2008.jpg",
+      "width": 1675,
+      "height": 1118,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ragesoss\" title=\"User:Ragesoss\"\u003eRagesoss\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chick Corea (ZMF 2019) IMGP8025 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chick_Corea_(ZMF_2019)_IMGP8025_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Chick_Corea_%28ZMF_2019%29_IMGP8025_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Chick_Corea_%28ZMF_2019%29_IMGP8025_%28cropped%29.jpg/960px-Chick_Corea_%28ZMF_2019%29_IMGP8025_%28cropped%29.jpg",
+      "width": 2012,
+      "height": 2611,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ice_Boy_Tell\" title=\"User:Ice Boy Tell\"\u003eIce Boy Tell\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chick Corea 1976.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chick_Corea_1976.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chick_Corea_1976.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chick_Corea_1976.JPG",
+      "width": 780,
+      "height": 908,
+      "license": "Public domain",
+      "author": "Polydor Records"
+    }
+  ]
+}

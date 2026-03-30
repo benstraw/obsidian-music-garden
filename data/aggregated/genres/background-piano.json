@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "background-piano",
+  "display_title": "Background Piano",
+  "display_name": "Background Piano",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Background artist",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Background_artist",
+  "summary": "A background artist or sometimes called a background stylist or background painter is one who is involved in the process of animation who establishes the color, style, and mood of a scene drawn by an animation layout artist. The methods used can either be through traditional painting or by digital media such as Adobe Photoshop. Traditional methods involved painting entire production scenes for a television program or film. Current methods may involve painting primarily background keys or the establishing shot while production background artists paint the corresponding background paintings.",
+  "candidates": [
+    "Background painter"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Background artist",
+    "page_url": "https://en.wikipedia.org/wiki/Background_artist",
+    "retrieved_at": "2026-03-28T15:53:16Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--background-piano.json",
+      "url": "https://en.wikipedia.org/wiki/Background_artist",
+      "retrieved_at": "2026-03-28T15:53:16Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

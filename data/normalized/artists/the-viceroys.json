@@ -1,0 +1,25 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1D9gvipi900QNpsgh679xb",
+  "name": "The Viceroys",
+  "spotify_url": "https://open.spotify.com/artist/1D9gvipi900QNpsgh679xb",
+  "musicbrainz_artist_id": "0e98ba03-b70e-4656-8a15-3d2f4d784224",
+  "source_genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "canonical_genre_slugs": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "The Viceroy of Ouidah",
+    "The Viceroyalty of New Granada",
+    "The Viceroyalty of Peru",
+    "The Viceroyalty of Rio de la Plata",
+    "The Viceroys",
+    "The Viceroys (musical group)",
+    "The Viceroys (novel)"
+  ]
+}

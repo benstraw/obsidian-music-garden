@@ -1,0 +1,37 @@
+{
+  "canonical_slug": "atlanta-rhythm-section",
+  "name": "Atlanta Rhythm Section",
+  "play_count": 1,
+  "spotify_artist_id": "0WgyCbru4tXnMsbTmX4mFw",
+  "spotify_url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw",
+  "genres": [
+    "country-rock",
+    "soft-rock",
+    "southern-rock",
+    "yacht-rock"
+  ],
+  "source_genres": [
+    "country rock",
+    "soft rock",
+    "southern rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8bf9437c1c695ca517c9710",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d8bf9437c1c695ca517c9710",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d8bf9437c1c695ca517c9710",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

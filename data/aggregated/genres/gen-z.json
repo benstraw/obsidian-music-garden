@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "gen-z",
+  "display_title": "Gen Z",
+  "display_name": "Gen Z",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Generation Z",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Generation_Z",
+  "summary": "Generation Z, often shortened to Gen Z and informally known as Zoomers, is the demographic cohort succeeding Millennials and preceding Generation Alpha. Researchers and popular media use the mid-to-late 1990s as starting birth years and the early 2010s as ending birth years, with the generation typically being defined as people born from 1997 to 2012. Most members of Generation Z are the children of members of Generation X, and it is predicted that many will be the parents of Generation Beta.",
+  "candidates": [
+    "Gen Z protest in Nepal",
+    "Gen Z protests",
+    "Gen Z protests in Asia",
+    "Gen Z stare",
+    "Gen Zennials",
+    "Gen Zia",
+    "Gen z",
+    "Gen z slang",
+    "Gen-Z (consortium)",
+    "Gen-Z for Change"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Generation Z",
+    "page_url": "https://en.wikipedia.org/wiki/Generation_Z",
+    "retrieved_at": "2026-03-28T15:56:29Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Generation_timeline_simple.svg/960px-Generation_timeline_simple.svg.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Generation_timeline_simple.svg/330px-Generation_timeline_simple.svg.png",
+    "width": 512,
+    "height": 320
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--gen-z.json",
+      "url": "https://en.wikipedia.org/wiki/Generation_Z",
+      "retrieved_at": "2026-03-28T15:56:29Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--gen-z.json",
+      "url": "https://en.wikipedia.org/wiki/Generation_Z",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

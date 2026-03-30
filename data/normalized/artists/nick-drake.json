@@ -1,0 +1,119 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5c3GLXai8YOMid29ZEuR9y",
+  "name": "Nick Drake",
+  "spotify_url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y",
+  "musicbrainz_artist_id": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+  "source_genres": [
+    "british",
+    "contemporary folk",
+    "english",
+    "english folk",
+    "folk",
+    "folk baroque",
+    "folk pop",
+    "folk rock",
+    "singer-songwriter",
+    "uk",
+    "world"
+  ],
+  "canonical_genre_slugs": [
+    "folk",
+    "folk-rock",
+    "singer-songwriter"
+  ],
+  "status": "matched",
+  "page_title": "Nick Drake",
+  "summary": "Nicholas Rodney Drake was an English singer-songwriter. An accomplished acoustic guitarist, Drake signed to Island Records at the age of twenty while still a student at the University of Cambridge. His debut album, Five Leaves Left, was released in 1969, and was followed by two more albums, Bryter Layter (1971) and Pink Moon (1972). Drake did not reach a wide audience during his lifetime, but found acclaim and wider recognition following his death.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Nick_Drake",
+  "candidates": [
+    "Nick Barker (drummer)",
+    "Nick Darke",
+    "Nick Drake",
+    "Nick Drake (album)",
+    "Nick Drake (disambiguation)",
+    "Nick Drake (poet)",
+    "Nick Drake (racing driver)",
+    "Nick Drake discography",
+    "Nick Drake-Lee",
+    "Nick Driver"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Nick Drake",
+    "page_url": "https://en.wikipedia.org/wiki/Nick_Drake",
+    "retrieved_at": "2026-03-28T10:41:32Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cscr-featured.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+    "width": 466,
+    "height": 443,
+    "license": "LGPL",
+    "license_url": "http://www.gnu.org/licenses/lgpl.html",
+    "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Drake's Family Grave Gravestone.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Drake%27s_Family_Grave_Gravestone.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Drake%27s_Family_Grave_Gravestone.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Drake%27s_Family_Grave_Gravestone.jpg/960px-Drake%27s_Family_Grave_Gravestone.jpg",
+      "width": 2017,
+      "height": 2710,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:RaZUpaTO\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:RaZUpaTO (page does not exist)\"\u003eRaZUpaTO\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:En wikipedia Nick Drake.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:En_wikipedia_Nick_Drake.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/En_wikipedia_Nick_Drake.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Ailes_Grises\" class=\"extiw\" title=\"wikipedia:User:Ailes Grises\"\u003eAiles Grises\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Ailes_Grises\" class=\"extiw\" title=\"wikipedia:User:Ailes Grises\"\u003eAiles Grises\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fitzwilliam College 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fitzwilliam_College_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fitzwilliam_College_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fitzwilliam_College_2012.jpg/960px-Fitzwilliam_College_2012.jpg",
+      "width": 4267,
+      "height": 2832,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mooseling1\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mooseling1 (page does not exist)\"\u003eD.Anderson\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ]
+}

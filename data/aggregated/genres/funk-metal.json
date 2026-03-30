@@ -1,0 +1,111 @@
+{
+  "canonical_slug": "funk-metal",
+  "display_title": "Funk Metal",
+  "display_name": "Funk Metal",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Funk metal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Funk_metal",
+  "summary": "Funk metal is a subgenre of funk rock and alternative metal that infuses heavy metal music with elements of funk and punk rock. Funk metal was part of the alternative metal movement, and has been described as a \"brief but extremely media-hyped stylistic fad\".",
+  "candidates": [
+    "Full Metal Daemon: Muramasa",
+    "Full Metal Dojo",
+    "Full Metal Jacket",
+    "Full Metal Panic!",
+    "Full metal jacket (ammunition)",
+    "Fullmetal Alchemist",
+    "Fullmetal Alchemist: Brotherhood",
+    "Fundamental group",
+    "Funk melody",
+    "Funk metal"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Funk metal",
+    "page_url": "https://en.wikipedia.org/wiki/Funk_metal",
+    "retrieved_at": "2026-03-28T15:56:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Claypool to wiki.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Claypool_to_wiki.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Claypool_to_wiki.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Claypool_to_wiki.jpg",
+    "width": 780,
+    "height": 1024,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Male-zet\" title=\"User:Male-zet\"\u003eMale-zet\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Claypool to wiki.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Claypool_to_wiki.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Claypool_to_wiki.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Claypool_to_wiki.jpg",
+      "width": 780,
+      "height": 1024,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Male-zet\" title=\"User:Male-zet\"\u003eMale-zet\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Faith No More 2009.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Faith_No_More_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Faith_No_More_2009.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Faith_No_More_2009.jpg/960px-Faith_No_More_2009.jpg",
+      "width": 1024,
+      "height": 460,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/joserubio/\"\u003eJose Rubio\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rage Against The Machine at Vegoose 2007 11.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rage_Against_The_Machine_at_Vegoose_2007_11.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Rage_Against_The_Machine_at_Vegoose_2007_11.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rage_Against_The_Machine_at_Vegoose_2007_11.jpg/960px-Rage_Against_The_Machine_at_Vegoose_2007_11.jpg",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Scott Penner"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--funk-metal.json",
+      "url": "https://en.wikipedia.org/wiki/Funk_metal",
+      "retrieved_at": "2026-03-28T15:56:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--funk-metal.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Claypool_to_wiki.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

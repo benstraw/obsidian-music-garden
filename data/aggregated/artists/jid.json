@@ -1,8 +1,27 @@
 {
   "canonical_slug": "jid",
   "name": "JID",
+  "play_count": 3,
   "spotify_artist_id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+  "musicbrainz_artist_id": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
   "spotify_url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7",
+  "genres": [
+    "boom-bap",
+    "hip-hop",
+    "jazz-rap",
+    "neo-soul",
+    "southern-hip-hop"
+  ],
+  "source_genres": [
+    "boom bap",
+    "conscious hip hop",
+    "contemporary r\u0026b",
+    "hip hop",
+    "jazz rap",
+    "neo soul",
+    "southern hip hop",
+    "trap"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb02e4e47e711e07e363ecc6e0",
@@ -99,5 +118,5 @@
       "license": "Public domain"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

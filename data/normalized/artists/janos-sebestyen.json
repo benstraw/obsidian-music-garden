@@ -1,0 +1,36 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3XqsvVsJuMXQsfVwpYZLFZ",
+  "name": "Janos Sebestyen",
+  "spotify_url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ",
+  "musicbrainz_artist_id": "f7ccbb3f-8282-43f1-82c2-bccfcaf778b9",
+  "source_genres": [
+    "classical",
+    "harpsichordist",
+    "hungarian organist",
+    "organist"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "János Sebestyén",
+  "summary": "János Sebestyén was a Hungarian organist, harpsichordist, pianist and journalist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/J%C3%A1nos_Sebesty%C3%A9n",
+  "candidates": [
+    "Janos Sebestyen"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "János Sebestyén",
+    "page_url": "https://en.wikipedia.org/wiki/J%C3%A1nos_Sebesty%C3%A9n",
+    "retrieved_at": "2026-03-28T10:39:50Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Janos_Sebestyen_2004.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Janos_Sebestyen_2004.jpg/330px-Janos_Sebestyen_2004.jpg",
+    "width": 500,
+    "height": 618
+  }
+}

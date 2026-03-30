@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "acoustic-rock",
+  "display_title": "Acoustic Rock",
+  "display_name": "Acoustic Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Acoustic music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Acoustic_music",
+  "summary": "Acoustic music is music that solely or primarily uses instruments that produce sound through acoustic means, as opposed to electric or electronic means. While all music was once acoustic, the retronym \"acoustic music\" appeared after the advent of electric instruments, such as the electric guitar, electric violin, electric organ and synthesizer. Acoustic string instrumentations had long been a subset of popular music, particularly in folk. It stood in contrast to various other types of music in various eras, including big band music in the pre-rock era, and electric music in the rock era.",
+  "candidates": [
+    "Acoustic Recordings (album)",
+    "Acoustic Recordings 1998–2016",
+    "Acoustic Rooster and His Barnyard Band",
+    "Acoustic Roots: Live \u0026 Direct",
+    "Acoustic Works 1981-1986",
+    "Acoustic folk",
+    "Acoustic location",
+    "Acoustic recording",
+    "Acoustic rock",
+    "Acoustic shock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Acoustic music",
+    "page_url": "https://en.wikipedia.org/wiki/Acoustic_music",
+    "retrieved_at": "2026-03-28T15:52:43Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Guitar_1.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Guitar_1.jpg/330px-Guitar_1.jpg",
+    "width": 870,
+    "height": 1708
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--acoustic-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Acoustic_music",
+      "retrieved_at": "2026-03-28T15:52:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--acoustic-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Acoustic_music",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

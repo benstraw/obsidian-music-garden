@@ -4,6 +4,9 @@
   "name": "Mercury",
   "primary_artist_name": "Gaiea Sanskrit",
   "primary_artist_canonical_slug": "gaiea-sanskrit",
+  "additional_artist_slugs": [
+    "lucid-mantra"
+  ],
   "release_name": "Nine",
   "release_canonical_slug": "gaiea-sanskrit--nine",
   "spotify_url": "https://open.spotify.com/track/1IB4130qxWhxW4ckja7ZLV"

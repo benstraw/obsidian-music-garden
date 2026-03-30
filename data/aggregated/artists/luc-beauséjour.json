@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "luc-beauséjour",
+  "name": "Luc Beauséjour",
+  "play_count": 8,
+  "spotify_artist_id": "4NZRSSWL98NOusNDAzbfD3",
+  "musicbrainz_artist_id": "dd7c23ca-0b08-4d55-a333-b6538fcb074c",
+  "spotify_url": "https://open.spotify.com/artist/4NZRSSWL98NOusNDAzbfD3",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/653ee5df31b9b80326f08ee2bd31bbf4013718a9",
+      "height": 531,
+      "width": 800
+    },
+    {
+      "url": "https://i.scdn.co/image/69a0f1ed096c3e726789688a6778a7539f5ba289",
+      "height": 425,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/4bec9900b6ed224668c13ccafe628acbb6fe2540",
+      "height": 133,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/db1e41454e910e817a02d82da2efa43278026015",
+      "height": 42,
+      "width": 63
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

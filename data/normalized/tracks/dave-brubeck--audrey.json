@@ -1,0 +1,13 @@
+{
+  "source": "spotify",
+  "source_track_id": "1u1yAXbpeZbObTD7OvaKa3",
+  "name": "Audrey",
+  "primary_artist_name": "Dave Brubeck",
+  "primary_artist_canonical_slug": "dave-brubeck",
+  "additional_artist_slugs": [
+    "the-dave-brubeck-quartet"
+  ],
+  "release_name": "Love Songs",
+  "release_canonical_slug": "dave-brubeck--love-songs",
+  "spotify_url": "https://open.spotify.com/track/1u1yAXbpeZbObTD7OvaKa3"
+}

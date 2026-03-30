@@ -1,0 +1,125 @@
+{
+  "canonical_slug": "pat-metheny",
+  "name": "Pat Metheny",
+  "play_count": 7,
+  "spotify_artist_id": "3t58jfUhoMLYVO14XaUFLA",
+  "musicbrainz_artist_id": "7daac7f9-8fcc-485f-a14f-f8091d98cf25",
+  "spotify_url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA",
+  "genres": [
+    "jazz",
+    "jazz-fusion"
+  ],
+  "source_genres": [
+    "contemporary jazz",
+    "fusion",
+    "jazz",
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba093df613deeb238051bd7fe",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a093df613deeb238051bd7fe",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a093df613deeb238051bd7fe",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Pat Metheny",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pat_Metheny",
+  "summary": "Patrick Bruce Metheny is an American jazz guitarist and composer.",
+  "candidates": [
+    "Pat Metheny",
+    "Pat Metheny Group",
+    "Pat Metheny Group (album)",
+    "Pat Metheny discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pat Metheny",
+    "page_url": "https://en.wikipedia.org/wiki/Pat_Metheny",
+    "retrieved_at": "2026-03-28T10:41:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jazzvitoria Metheny.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jazzvitoria_Metheny.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jazzvitoria_Metheny.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jazzvitoria_Metheny.jpg",
+    "width": 700,
+    "height": 467,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "L\u0026amp;P"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jazzvitoria Metheny.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jazzvitoria_Metheny.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jazzvitoria_Metheny.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jazzvitoria_Metheny.jpg",
+      "width": 700,
+      "height": 467,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "L\u0026amp;P"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MethenyPikasso.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MethenyPikasso.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MethenyPikasso.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MethenyPikasso.JPG/960px-MethenyPikasso.JPG",
+      "width": 2560,
+      "height": 1920,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:PaulCHebert\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:PaulCHebert (page does not exist)\"\u003ePaulCHebert\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pat Metheny KJAZ.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat_Metheny_KJAZ.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pat_Metheny_KJAZ.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pat_Metheny_KJAZ.jpg",
+      "width": 721,
+      "height": 864,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pat Metheny Venice.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat_Metheny_Venice.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pat_Metheny_Venice.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pat_Metheny_Venice.jpg/960px-Pat_Metheny_Venice.jpg",
+      "width": 2639,
+      "height": 2618,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Matt.mac\" title=\"User:Matt.mac\"\u003eMatt.mac\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pat metheny orch2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat_metheny_orch2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Pat_metheny_orch2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pat_metheny_orch2.jpg/960px-Pat_metheny_orch2.jpg",
+      "width": 1518,
+      "height": 1700,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8386148@N06\"\u003eR. Steven Rainwater\u003c/a\u003e from Dallas, US"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

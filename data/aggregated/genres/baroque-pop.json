@@ -6,7 +6,8 @@
   "aliases": [
     "baroque pop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Baroque pop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Baroque_pop",
@@ -102,32 +103,152 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T02:20:33.126Z",
-    "last_played_at": "2026-03-03T02:20:33.126Z"
+    "play_count": 13,
+    "unique_artist_count": 3,
+    "unique_release_count": 6,
+    "unique_track_count": 8,
+    "first_played_at": "2024-01-01T00:00:00.074881507Z",
+    "last_played_at": "2026-03-29T04:37:25.499Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "lou-reed",
+      "name": "Lou Reed",
+      "play_count": 7,
+      "spotify_artist_id": "42TFhl7WlMRXiNqzSrnzPL",
+      "musicbrainz_artist_id": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+      "spotify_url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+    },
+    {
+      "canonical_slug": "elvis-costello",
+      "name": "Elvis Costello",
+      "play_count": 5,
+      "spotify_artist_id": "2BGRfQgtzikz1pzAD0kaEn",
+      "musicbrainz_artist_id": "8a338e06-d182-46f2-bd16-30a09bc840ba",
+      "spotify_url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+    },
     {
       "canonical_slug": "harry-nilsson",
       "name": "Harry Nilsson",
       "play_count": 1,
       "spotify_artist_id": "3RTzAwFprBqiskp550eSJX",
+      "musicbrainz_artist_id": "e5963d26-01fa-40f5-b200-e0127f410a45",
       "spotify_url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "lou-reed--coney-island-baby",
+      "name": "Coney Island Baby",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "spotify_album_id": "3Kawndiz86cIHkPsKtFiKx",
+      "musicbrainz_release_id": "1a229243-a099-4d01-b793-de7a7d6a0f89",
+      "musicbrainz_release_group_id": "c517ee05-356e-3944-b13f-8d505a4012cb"
+    },
+    {
+      "canonical_slug": "elvis-costello--my-aim-is-true",
+      "name": "My Aim Is True",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "spotify_album_id": "1aucGNKimhgARC7iO2xLt2",
+      "musicbrainz_release_id": "a1566ca6-f80c-47eb-a203-75f2ea4d80dc",
+      "musicbrainz_release_group_id": "c7a4740f-2729-3895-8498-08c521886a95"
+    },
+    {
+      "canonical_slug": "elvis-costello--painted-from-memory",
+      "name": "Painted From Memory",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "spotify_album_id": "0rhmwOflgYrPntNuEe8chN",
+      "musicbrainz_release_id": "17614f1d-546c-4216-997a-32ed58b8fa24",
+      "musicbrainz_release_group_id": "52bfe14f-48a5-331c-9a9b-b5cd81feee43"
+    },
+    {
+      "canonical_slug": "lou-reed--songs-for-drella",
+      "name": "Songs For Drella",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "spotify_album_id": "4Nyu5zVDr4XV6QOBCqdTrk",
+      "musicbrainz_release_id": "244d099e-9522-4f6e-ad62-d64fc274f907",
+      "musicbrainz_release_group_id": "97d100a8-e42c-38ff-8ae5-eb31331fd82b"
+    },
+    {
       "canonical_slug": "harry-nilsson--aerial-ballet",
       "name": "Aerial Ballet",
       "play_count": 1,
       "primary_artist_canonical_slug": "harry-nilsson",
-      "primary_artist_name": "Harry Nilsson"
+      "primary_artist_name": "Harry Nilsson",
+      "spotify_album_id": "0H3v4snD6xhworsjXndsai"
+    },
+    {
+      "canonical_slug": "lou-reed--transformer",
+      "name": "Transformer",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "elvis-costello--alison",
+      "name": "Alison",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "release_canonical_slug": "elvis-costello--my-aim-is-true",
+      "release_name": "My Aim Is True",
+      "spotify_track_id": "1v98rfd0an913AzHvMNG8a",
+      "spotify_url": "https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a"
+    },
+    {
+      "canonical_slug": "lou-reed--charley-s-girl",
+      "name": "Charley's Girl",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--coney-island-baby",
+      "release_name": "Coney Island Baby",
+      "spotify_track_id": "70tBw295bLL8B13Jg3SNUs",
+      "spotify_url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "canonical_slug": "lou-reed--coney-island-baby",
+      "name": "Coney Island Baby",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--coney-island-baby",
+      "release_name": "Coney Island Baby",
+      "spotify_track_id": "0ivHDucXMbjTjiU4lMIkBO",
+      "spotify_url": "https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO"
+    },
+    {
+      "canonical_slug": "lou-reed--nobody-but-you",
+      "name": "Nobody but You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--songs-for-drella",
+      "release_name": "Songs For Drella",
+      "spotify_track_id": "1zwtvbJL8H8jG0qbbomS1P",
+      "spotify_url": "https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P"
+    },
+    {
+      "canonical_slug": "elvis-costello--this-house-is-empty-now",
+      "name": "This House Is Empty Now",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "release_canonical_slug": "elvis-costello--painted-from-memory",
+      "release_name": "Painted From Memory",
+      "spotify_track_id": "7zA1QdWBKhVbXKTDZX3VOn",
+      "spotify_url": "https://open.spotify.com/track/7zA1QdWBKhVbXKTDZX3VOn"
+    },
     {
       "canonical_slug": "harry-nilsson--everybody-s-talkin-from-midnight-cowboy",
       "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
@@ -138,6 +259,28 @@
       "release_name": "Aerial Ballet",
       "spotify_track_id": "1jcPcDu2YawPfLhwjYnqK2",
       "spotify_url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+    },
+    {
+      "canonical_slug": "lou-reed--perfect-day",
+      "name": "Perfect Day",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--transformer",
+      "release_name": "Transformer",
+      "spotify_track_id": "4TOMI010Sd4ZAX4aZ5TS85",
+      "spotify_url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
+    },
+    {
+      "canonical_slug": "elvis-costello--watching-the-detectives-single-version",
+      "name": "Watching The Detectives - Single Version",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "release_canonical_slug": "elvis-costello--my-aim-is-true",
+      "release_name": "My Aim Is True",
+      "spotify_track_id": "0KrYPz4S4mKHeBjCwYJp0s",
+      "spotify_url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
     }
   ],
   "source_refs": [
@@ -146,6 +289,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -167,9 +316,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T02:20:33.126Z",
+      "updated_at": "2026-03-29T04:37:25.499Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:37:25.499Z"
 }

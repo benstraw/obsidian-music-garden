@@ -4,6 +4,9 @@
   "name": "Gunwalk",
   "primary_artist_name": "Lil Wayne",
   "primary_artist_canonical_slug": "lil-wayne",
+  "additional_artist_slugs": [
+    "gudda-gudda"
+  ],
   "release_name": "I Am Not A Human Being II (Deluxe)",
   "release_canonical_slug": "lil-wayne--i-am-not-a-human-being-ii-deluxe",
   "spotify_url": "https://open.spotify.com/track/4C74fzgOAALiqMqRmSDOxf"

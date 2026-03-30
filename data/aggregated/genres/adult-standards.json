@@ -6,7 +6,8 @@
   "aliases": [
     "adult standards"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Adult standards",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Adult_standards",
@@ -62,6 +63,7 @@
       "name": "Carpenters",
       "play_count": 24,
       "spotify_artist_id": "1eEfMU2AhEo7XnKgL7c304",
+      "musicbrainz_artist_id": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
       "spotify_url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
     }
   ],
@@ -71,56 +73,78 @@
       "name": "A Kind Of Hush",
       "play_count": 5,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "7FumsdTmFk5Yq4TN3A4XTl",
+      "musicbrainz_release_id": "c6197333-e615-4596-9825-467e894b3f11",
+      "musicbrainz_release_group_id": "e57e6075-994a-3f52-b7ba-31175804a37f"
     },
     {
       "canonical_slug": "carpenters--a-song-for-you",
       "name": "A Song For You",
       "play_count": 4,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "1nA6Exnq2mWD8678q3E4Ov",
+      "musicbrainz_release_id": "c44b7976-aec8-4ebc-bad3-25fac5df3450",
+      "musicbrainz_release_group_id": "1d47f2fc-cc62-3462-8c0d-d9259820953f"
     },
     {
       "canonical_slug": "carpenters--horizon",
       "name": "Horizon",
       "play_count": 4,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "0ESCnyuOCpztPojn8m0uqi",
+      "musicbrainz_release_id": "ec5d3abf-3181-42c3-9036-671cc565c1c9",
+      "musicbrainz_release_group_id": "33e96e78-0caf-347c-aa2f-6119ba792be0"
     },
     {
       "canonical_slug": "carpenters--carpenters",
       "name": "Carpenters",
       "play_count": 3,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "3Br6amYT7sC9y3uvHkfRDI",
+      "musicbrainz_release_id": "bb32a4d7-329c-41a2-b23b-464394d83be8",
+      "musicbrainz_release_group_id": "7b643855-d7cb-3177-8288-a9f080934657"
     },
     {
       "canonical_slug": "carpenters--close-to-you",
       "name": "Close To You",
       "play_count": 3,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "1CsuCA05y9r7ftG9bGGtWV",
+      "musicbrainz_release_id": "d90e72fb-5766-4826-80aa-1864abe6c2fb",
+      "musicbrainz_release_group_id": "ca8d0ba2-f227-3665-9104-30e3c09eafae"
     },
     {
       "canonical_slug": "carpenters--now-and-then-reissue",
       "name": "Now \u0026 Then (Reissue)",
       "play_count": 3,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "0A7WaXRUZ2fkHtUYfeoF73"
     },
     {
       "canonical_slug": "carpenters--made-in-america",
       "name": "Made In America",
       "play_count": 1,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "1FqAKMZw9yexfKjrnsLGAF",
+      "musicbrainz_release_id": "8800b676-e842-4601-ba13-0147f9a8bd6a",
+      "musicbrainz_release_group_id": "c54a9328-4a5e-3d21-bf72-140be159a710"
     },
     {
       "canonical_slug": "carpenters--passage",
       "name": "Passage",
       "play_count": 1,
       "primary_artist_canonical_slug": "carpenters",
-      "primary_artist_name": "Carpenters"
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "2tfjNPxq1v6kmx5TFEBUaS",
+      "musicbrainz_release_id": "a467c1e4-313e-4422-a9f6-bc52ac74020c",
+      "musicbrainz_release_group_id": "0a894864-3a05-301f-a7a4-ac4af8a48b0f"
     }
   ],
   "top_tracks": [
@@ -241,6 +265,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

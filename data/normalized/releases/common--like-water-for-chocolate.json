@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "72GMOkq47rXzdAMJrjf4RV",
   "name": "Like Water For Chocolate",
   "primary_artist_name": "Common",
-  "primary_artist_canonical_slug": "common"
+  "primary_artist_canonical_slug": "common",
+  "musicbrainz_release_id": "0eaf3a43-f00e-4416-8ea3-759d1841e3c9",
+  "musicbrainz_release_group_id": "fabc3ec9-2656-3a98-8fdd-4bc40a9ca8ba"
 }

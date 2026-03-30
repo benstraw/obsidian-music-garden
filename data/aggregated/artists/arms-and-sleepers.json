@@ -1,0 +1,77 @@
+{
+  "canonical_slug": "arms-and-sleepers",
+  "name": "Arms and Sleepers",
+  "play_count": 5,
+  "spotify_artist_id": "0KjF9pkI2bO9EMuB7LnHqP",
+  "musicbrainz_artist_id": "d4dae588-8b66-4aa9-877f-04c604f552a8",
+  "spotify_url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP",
+  "genres": [
+    "alternative-hip-hop",
+    "ambient",
+    "post-rock"
+  ],
+  "source_genres": [
+    "alternative hip hop",
+    "ambient",
+    "instrumental hip hop",
+    "post-rock",
+    "trip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc3f16d5dc69349b4467ef49d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c3f16d5dc69349b4467ef49d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c3f16d5dc69349b4467ef49d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Arms and Sleepers",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arms_and_Sleepers",
+  "summary": "Arms and Sleepers is an American ambient/trip hop duo consisting of Max Lewis and Mirza Ramic. The band was formed in 2006 and has since released a handful of albums and EPs, including Bliss Was It in That Dawn to Be Alive, an EP released in 2006; Black Paris 86, an album released in 2007; and Matador, which was released in November 2009.",
+  "candidates": [
+    "Arms and Sleepers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Arms and Sleepers",
+    "page_url": "https://en.wikipedia.org/wiki/Arms_and_Sleepers",
+    "retrieved_at": "2026-03-28T10:37:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

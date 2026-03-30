@@ -1,0 +1,27 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3SwIVQwDvadSKIlIq8biB6",
+  "name": "Nucleus",
+  "spotify_url": "https://open.spotify.com/artist/3SwIVQwDvadSKIlIq8biB6",
+  "musicbrainz_artist_id": "02614aa0-a9f2-4f0f-85c2-2aea518deb03",
+  "source_genres": [
+    "fusion",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Nuclear organization",
+    "Nucleus",
+    "Nucleus (band)",
+    "Nucleus RTOS",
+    "Nucleus Software Exports",
+    "Nucleus accumbens",
+    "Nucleus ambiguus",
+    "Nucleus basalis",
+    "Nucleus estate and smallholder",
+    "Nucleus incertus"
+  ]
+}

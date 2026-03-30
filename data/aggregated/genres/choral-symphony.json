@@ -1,0 +1,126 @@
+{
+  "canonical_slug": "choral-symphony",
+  "display_title": "Choral Symphony",
+  "display_name": "Choral Symphony",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Choral symphony",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Choral_symphony",
+  "summary": "A choral symphony is a musical composition for orchestra, choir, and sometimes solo vocalists that, in its internal workings and overall musical architecture, adheres broadly to symphonic musical form. The term \"choral symphony\" in this context was coined by Hector Berlioz when he described his Roméo et Juliette as such in his five-paragraph introduction to that work. The direct antecedent for the choral symphony is Ludwig van Beethoven's Ninth Symphony. Beethoven's Ninth incorporates part of the ode An die Freude, a poem by Friedrich Schiller, with text sung by soloists and chorus in the last movement. It is the first example of a major composer's use of the human voice on the same level as instruments in a symphony.",
+  "candidates": [
+    "Choral Symphony (Dyson)",
+    "Choral Symphony (Holst)",
+    "Choral symphony",
+    "Choral symphony (disambiguation)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Choral symphony",
+    "page_url": "https://en.wikipedia.org/wiki/Choral_symphony",
+    "retrieved_at": "2026-03-28T15:54:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bundesarchiv Bild 183-18684-0002, Dresden, Tod Stalin, Parade KVP.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-18684-0002,_Dresden,_Tod_Stalin,_Parade_KVP.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bundesarchiv_Bild_183-18684-0002%2C_Dresden%2C_Tod_Stalin%2C_Parade_KVP.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bundesarchiv_Bild_183-18684-0002%2C_Dresden%2C_Tod_Stalin%2C_Parade_KVP.jpg",
+      "width": 584,
+      "height": 800,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nHöhne, Erich; Pohl, Erich\u003c/div\u003e",
+      "attribution_text": "Bundesarchiv, Bild 183-18684-0002 / Höhne, Erich; Pohl, Erich / CC-BY-SA 3.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gustav-Mahler-Kohut.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gustav-Mahler-Kohut.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gustav-Mahler-Kohut.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gustav-Mahler-Kohut.jpg/960px-Gustav-Mahler-Kohut.jpg",
+      "width": 1140,
+      "height": 1443,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q15825640\" class=\"extiw\" title=\"d:Q15825640\"\u003e\u003cspan title=\"German photographer (1841-1931)\"\u003eLeonard Berlin\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e / \u003cbdi\u003eE. Bieber\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hector berlioz.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hector_berlioz.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hector_berlioz.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hector_berlioz.jpg",
+      "width": 743,
+      "height": 923,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Andr%C3%A9_Gill\" class=\"extiw\" title=\"w:en:André Gill\"\u003e\u003cspan title=\"French caricaturist (1840-1885)\"\u003eAndré Gill\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--choral-symphony.json",
+      "url": "https://en.wikipedia.org/wiki/Choral_symphony",
+      "retrieved_at": "2026-03-28T15:54:16Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--choral-symphony.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

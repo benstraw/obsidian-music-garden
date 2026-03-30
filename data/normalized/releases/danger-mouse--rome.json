@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2nBo5nFoszkjuY0bxv1y0A",
   "name": "Rome",
   "primary_artist_name": "Danger Mouse",
-  "primary_artist_canonical_slug": "danger-mouse"
+  "primary_artist_canonical_slug": "danger-mouse",
+  "musicbrainz_release_id": "d1d13c8b-6f5f-4e80-8f0d-cae80383db84",
+  "musicbrainz_release_group_id": "59654e61-9ef3-4093-87a1-8c6fb8c628dc"
 }

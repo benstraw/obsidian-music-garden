@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "20th-century",
+  "display_title": "20th Century",
+  "display_name": "20th Century",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "20th century",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/20th_century",
+  "summary": "The 20th century began on 1 January 1901 (MCMI), and ended on 31 December 2000 (MM). It was the 10th and last century in the 2nd millennium and was marked by new models of scientific understanding, unprecedented scopes of warfare, new modes of communication that would operate at nearly instant speeds, and new forms of art and entertainment. Population growth was also unprecedented, as the century started with around 1.6 billion people, and ended with around 6.2 billion.",
+  "candidates": [
+    "20th Century Animation",
+    "20th Century Boys",
+    "20th Century Ghosts",
+    "20th Century Girl",
+    "20th Century Home Entertainment",
+    "20th Century Studios",
+    "20th century",
+    "20th-century Western painting",
+    "20th-century classical music",
+    "20th-century municipal history of Quebec"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "20th century",
+    "page_url": "https://en.wikipedia.org/wiki/20th_century",
+    "retrieved_at": "2026-03-28T15:52:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:20091002 Hong Kong 6269.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:20091002_Hong_Kong_6269.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/20091002_Hong_Kong_6269.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20091002_Hong_Kong_6269.jpg/960px-20091002_Hong_Kong_6269.jpg",
+    "width": 2873,
+    "height": 1909,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\"\u003eJakub Hałun\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:20091002 Hong Kong 6269.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:20091002_Hong_Kong_6269.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/20091002_Hong_Kong_6269.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20091002_Hong_Kong_6269.jpg/960px-20091002_Hong_Kong_6269.jpg",
+      "width": 2873,
+      "height": 1909,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jakubhal\" title=\"User:Jakubhal\"\u003eJakub Hałun\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Africa independence dates.PNG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Africa_independence_dates.PNG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Africa_independence_dates.PNG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Africa_independence_dates.PNG",
+      "width": 752,
+      "height": 800,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alan Turing portré.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alan_Turing_portr%C3%A9.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Alan_Turing_portr%C3%A9.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Alan_Turing_portr%C3%A9.jpg",
+      "width": 256,
+      "height": 304,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Andromeda Galaxy 2025.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andromeda_Galaxy_2025.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Andromeda_Galaxy_2025.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/960px-Andromeda_Galaxy_2025.png",
+      "width": 5827,
+      "height": 3803,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Brody_Wesner\" title=\"User:Brody Wesner\"\u003eBrody Wesner\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Atomic cloud over Hiroshima - NARA 542192 - Edit.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg/960px-Atomic_cloud_over_Hiroshima_-_NARA_542192_-_Edit.jpg",
+      "width": 2498,
+      "height": 2943,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:George_R._Caron\" class=\"extiw\" title=\"w:en:George R. Caron\"\u003e\u003cspan title=\"US Army Air Force soldier\"\u003eGeorge R. Caron\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--20th-century.json",
+      "url": "https://en.wikipedia.org/wiki/20th_century",
+      "retrieved_at": "2026-03-28T15:52:33Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--20th-century.json",
+      "url": "https://commons.wikimedia.org/wiki/File:20091002_Hong_Kong_6269.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

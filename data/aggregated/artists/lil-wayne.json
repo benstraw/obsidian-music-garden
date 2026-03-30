@@ -1,15 +1,32 @@
 {
   "canonical_slug": "lil-wayne",
   "name": "Lil Wayne",
+  "play_count": 1,
   "spotify_artist_id": "55Aa2cqylxrFIXC767Z865",
+  "musicbrainz_artist_id": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
   "spotify_url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865",
   "genres": [
     "hip-hop",
-    "rap"
+    "pop",
+    "rap",
+    "rap-rock",
+    "rock",
+    "southern-hip-hop"
   ],
   "source_genres": [
+    "2000s",
+    "2010s",
+    "criminal",
+    "gangsta rap",
     "hip hop",
-    "rap"
+    "pop",
+    "pop rap",
+    "r\u0026b",
+    "rap",
+    "rap rock",
+    "rock",
+    "southern hip hop",
+    "trap"
   ],
   "images": [
     {
@@ -120,5 +137,5 @@
       "author": "RJ"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

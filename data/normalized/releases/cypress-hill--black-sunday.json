@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "02lktkm4J7K7N8T63Gm7KX",
   "name": "Black Sunday",
   "primary_artist_name": "Cypress Hill",
-  "primary_artist_canonical_slug": "cypress-hill"
+  "primary_artist_canonical_slug": "cypress-hill",
+  "musicbrainz_release_id": "08af217f-4b6f-33ee-be39-df41fedd96ba",
+  "musicbrainz_release_group_id": "fe860e74-7eb8-4bc3-8b8d-cbf621aed500"
 }

@@ -1,0 +1,55 @@
+{
+  "canonical_slug": "allman-brothers-band",
+  "name": "Allman Brothers Band",
+  "play_count": 22,
+  "spotify_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+  "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+  "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR",
+  "genres": [
+    "blues-rock",
+    "classic-rock",
+    "country-rock",
+    "jam-band",
+    "rock",
+    "southern-rock"
+  ],
+  "source_genres": [
+    "blues rock",
+    "classic rock",
+    "country rock",
+    "jam band",
+    "rock",
+    "southern rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c08f5d15585b77b0cb059717b",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2208f5d15585b77b0cb059717b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac308f5d15585b77b0cb059717b",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7408f5d15585b77b0cb059717b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Allman Brothers Band Museum",
+    "The Allman Brothers Band",
+    "The Allman Brothers Band (album)",
+    "The Allman Brothers Band at Fillmore East",
+    "The Allman Brothers Band discography"
+  ],
+  "last_updated": "2026-03-29"
+}

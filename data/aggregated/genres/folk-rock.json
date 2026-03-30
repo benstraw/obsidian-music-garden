@@ -7,6 +7,7 @@
     "folk rock"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Folk rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Folk_rock",
@@ -79,130 +80,200 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 40,
-    "unique_artist_count": 6,
-    "unique_release_count": 21,
-    "unique_track_count": 27,
-    "first_played_at": "2026-02-13T01:48:42.202Z",
-    "last_played_at": "2026-03-17T00:28:36.877Z"
+    "play_count": 290,
+    "unique_artist_count": 21,
+    "unique_release_count": 77,
+    "unique_track_count": 212,
+    "first_played_at": "2024-01-01T00:00:00.114151416Z",
+    "last_played_at": "2026-03-29T17:25:55.795Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "bob-dylan",
+      "name": "Bob Dylan",
+      "play_count": 46,
+      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+      "musicbrainz_artist_id": "72c536dc-7137-4477-a521-567eeb840fa8",
+      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+    },
+    {
       "canonical_slug": "neil-young",
       "name": "Neil Young",
-      "play_count": 16,
+      "play_count": 46,
       "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+      "musicbrainz_artist_id": "75167b8b-44e4-407b-9d35-effe87b223cf",
       "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    {
+      "canonical_slug": "tim-hardin",
+      "name": "Tim Hardin",
+      "play_count": 44,
+      "spotify_artist_id": "39GVRVaqlKh7JL8Yl5ZKcb",
+      "musicbrainz_artist_id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+      "spotify_url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
     },
     {
       "canonical_slug": "crosby-stills-nash-and-young",
       "name": "Crosby, Stills, Nash \u0026 Young",
-      "play_count": 14,
+      "play_count": 24,
       "spotify_artist_id": "1CYsQCypByMVgnv17qsSbQ",
+      "musicbrainz_artist_id": "46a782ea-4308-476b-abd1-a91b197f3037",
       "spotify_url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+    },
+    {
+      "canonical_slug": "rodríguez",
+      "name": "Rodríguez",
+      "play_count": 17,
+      "spotify_artist_id": "5PrHzxc3kFm4hIrGNmelpX",
+      "musicbrainz_artist_id": "42e1a761-429e-403c-971a-e85c2f748cfa",
+      "spotify_url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+    },
+    {
+      "canonical_slug": "violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 16,
+      "spotify_artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+      "musicbrainz_artist_id": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+      "spotify_url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
     },
     {
       "canonical_slug": "simon-and-garfunkel",
       "name": "Simon \u0026 Garfunkel",
-      "play_count": 6,
+      "play_count": 14,
       "spotify_artist_id": "70cRZdQywnSFp9pnc2WTCE",
+      "musicbrainz_artist_id": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
       "spotify_url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
     },
     {
       "canonical_slug": "buffalo-springfield",
       "name": "Buffalo Springfield",
-      "play_count": 2,
+      "play_count": 12,
       "spotify_artist_id": "3eskO5m0H4yiF64vRySBjr",
+      "musicbrainz_artist_id": "22dc19af-d085-4c9b-adfb-22ec256251f1",
       "spotify_url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
     },
     {
-      "canonical_slug": "bob-dylan",
-      "name": "Bob Dylan",
-      "play_count": 1,
-      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
-      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+      "canonical_slug": "nick-drake",
+      "name": "Nick Drake",
+      "play_count": 11,
+      "spotify_artist_id": "5c3GLXai8YOMid29ZEuR9y",
+      "musicbrainz_artist_id": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+      "spotify_url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
     },
     {
-      "canonical_slug": "mumford-and-sons",
-      "name": "Mumford \u0026 Sons",
-      "play_count": 1,
-      "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
-      "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+      "canonical_slug": "jim-croce",
+      "name": "Jim Croce",
+      "play_count": 9,
+      "spotify_artist_id": "1R6Hx1tJ2VOUyodEpC12xM",
+      "spotify_url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
-      "name": "Harvest (50th Anniversary Edition)",
-      "play_count": 7,
+      "canonical_slug": "bob-dylan--the-complete-budokan-1978-live",
+      "name": "The Complete Budokan 1978 (Live)",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "spotify_album_id": "6LosaBGHSd97BYSVI7x4ni"
+    },
+    {
+      "canonical_slug": "tim-hardin--tim-hardin-1",
+      "name": "Tim Hardin 1",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "7GWTeFyEAmLUNYHwba9YvX",
+      "musicbrainz_release_id": "70d857a1-173e-49bb-8e36-5e0b726ef9b0",
+      "musicbrainz_release_group_id": "b1dc278a-ddeb-36ce-856d-ea633649e9eb"
+    },
+    {
+      "canonical_slug": "bob-dylan--john-wesley-harding",
+      "name": "John Wesley Harding",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "spotify_album_id": "2KzCDxKpgLqBffHu1IZ7Kn",
+      "musicbrainz_release_id": "8e7e12b2-46ff-4e6b-8384-2ce538d90dcc",
+      "musicbrainz_release_group_id": "32981714-597a-32dd-9f29-b2f7566fed89"
+    },
+    {
+      "canonical_slug": "violent-femmes--violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "0Ojio25IPzIrw1rUmgrhrG",
+      "musicbrainz_release_id": "47db7a62-72b5-458d-9877-efd463a13f32",
+      "musicbrainz_release_group_id": "616a1d80-83d0-3234-bf71-fe3de8109f99"
+    },
+    {
+      "canonical_slug": "rodríguez--cold-fact",
+      "name": "Cold Fact",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "rodríguez",
+      "primary_artist_name": "Rodriguez",
+      "spotify_album_id": "3q90UAYeHLvAtnowiQlmgp",
+      "musicbrainz_release_id": "f8abbbaa-865b-4d46-8929-950037f2f10a",
+      "musicbrainz_release_group_id": "25d9f5f8-ece0-311c-bf2a-092f26315e0e"
+    },
+    {
+      "canonical_slug": "neil-young--neil-young-2009-remaster",
+      "name": "Neil Young (2009 Remaster)",
+      "play_count": 12,
       "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
-    },
-    {
-      "canonical_slug": "crosby-stills-nash-and-young--american-dream",
-      "name": "American Dream",
-      "play_count": 6,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
-    },
-    {
-      "canonical_slug": "neil-young--barn",
-      "name": "Barn",
-      "play_count": 5,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
-    },
-    {
-      "canonical_slug": "crosby-stills-nash-and-young--4-way-street",
-      "name": "4 Way Street",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
-    },
-    {
-      "canonical_slug": "simon-and-garfunkel--bookends",
-      "name": "Bookends",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel"
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2dw9jX2uocV1da5WsnJ2Pl"
     },
     {
       "canonical_slug": "crosby-stills-nash-and-young--deja-vu",
       "name": "Deja Vu",
-      "play_count": 2,
+      "play_count": 11,
       "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young"
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "spotify_album_id": "5bHkK1X4WEOzNvRhehvOcb",
+      "musicbrainz_release_id": "402352dc-85ff-4b51-a3de-09efbad9a7d3",
+      "musicbrainz_release_group_id": "3412fd44-c6e6-3a3b-b91a-964a055192ec"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--live-1969",
-      "name": "Live 1969",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel"
-    },
-    {
-      "canonical_slug": "neil-young--after-the-gold-rush-2009-remaster",
-      "name": "After the Gold Rush (2009 Remaster)",
-      "play_count": 1,
+      "canonical_slug": "neil-young--tonight-s-the-night",
+      "name": "Tonight's the Night",
+      "play_count": 11,
       "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2wjrhhAibIUwC40oFMALtr",
+      "musicbrainz_release_id": "a75df175-7a8b-4b88-b04e-47cf44e9c17d",
+      "musicbrainz_release_group_id": "e0207e33-af06-3862-baba-f42ca722de0d"
     },
     {
-      "canonical_slug": "neil-young--american-stars-n-bars",
-      "name": "American Stars 'N Bars",
-      "play_count": 1,
+      "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
+      "name": "Harvest (50th Anniversary Edition)",
+      "play_count": 9,
       "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2LOpi63tYGh0Suy8eLJDVQ"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--bridge-over-troubled-water",
-      "name": "Bridge Over Troubled Water",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel"
+      "canonical_slug": "tim-hardin--tim-hardin-2-expanded-edition",
+      "name": "Tim Hardin 2 (Expanded Edition)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "4IV5VvubCVcUKaZ1Kgu3ka"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "crosby-stills-nash-and-young--almost-cut-my-hair",
+      "name": "Almost Cut My Hair",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
+      "release_canonical_slug": "crosby-stills-nash-and-young--deja-vu",
+      "release_name": "Deja Vu",
+      "spotify_track_id": "0gCJkpD0RhF2rjiALLHBQL",
+      "spotify_url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
+    },
     {
       "canonical_slug": "crosby-stills-nash-and-young--clear-blue-skies",
       "name": "Clear Blue Skies",
@@ -237,31 +308,31 @@
       "spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--bookends-theme-reprise",
-      "name": "Bookends Theme - Reprise",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel",
-      "release_canonical_slug": "simon-and-garfunkel--bookends",
-      "release_name": "Bookends",
-      "spotify_track_id": "0Q3GpBYKy5Mx97TNBJVibl",
-      "spotify_url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl"
+      "canonical_slug": "carole-king--bitter-with-the-sweet",
+      "name": "Bitter with the Sweet",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "release_canonical_slug": "carole-king--rhymes-and-reasons",
+      "release_name": "Rhymes \u0026 Reasons",
+      "spotify_track_id": "6MBS3ARYYlI4FtYjaTinK5",
+      "spotify_url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
-      "canonical_slug": "simon-and-garfunkel--old-friends-bookends-theme-live-in-toledo-oh-november-1969",
-      "name": "Old Friends / Bookends Theme - Live in Toledo, OH - November 1969",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "simon-and-garfunkel",
-      "primary_artist_name": "Simon \u0026 Garfunkel",
-      "release_canonical_slug": "simon-and-garfunkel--live-1969",
-      "release_name": "Live 1969",
-      "spotify_track_id": "5dKUMWNp0Y18VHkGGJCJR9",
-      "spotify_url": "https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9"
+      "canonical_slug": "buffalo-springfield--mr-soul",
+      "name": "Mr. Soul",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "buffalo-springfield",
+      "primary_artist_name": "Buffalo Springfield",
+      "release_canonical_slug": "buffalo-springfield--buffalo-springfield-again",
+      "release_name": "Buffalo Springfield Again",
+      "spotify_track_id": "042v1NacbKJzCyi6nBme7T",
+      "spotify_url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
     },
     {
       "canonical_slug": "neil-young--out-on-the-weekend",
       "name": "Out on the Weekend",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "neil-young",
       "primary_artist_name": "Neil Young",
       "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
@@ -270,48 +341,37 @@
       "spotify_url": "https://open.spotify.com/track/15Z3JEayO4OEcbJQsasWHh"
     },
     {
-      "canonical_slug": "crosby-stills-nash-and-young--this-old-house",
-      "name": "This Old House",
+      "canonical_slug": "bob-dylan--the-man-in-me",
+      "name": "The Man in Me",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "release_canonical_slug": "bob-dylan--new-morning",
+      "release_name": "New Morning",
+      "spotify_track_id": "7xRemq7GLu0Tbqe9OckG87",
+      "spotify_url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
+    },
+    {
+      "canonical_slug": "bob-dylan--a-hard-rain-s-a-gonna-fall-live-at-nippon-budokan-hall-tokyo-japan-february-28-1978",
+      "name": "A Hard Rain's A-Gonna Fall - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
       "play_count": 2,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
-      "release_canonical_slug": "crosby-stills-nash-and-young--american-dream",
-      "release_name": "American Dream",
-      "spotify_track_id": "3QqRShyg7ABnLZbX3jwFSm",
-      "spotify_url": "https://open.spotify.com/track/3QqRShyg7ABnLZbX3jwFSm"
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "release_canonical_slug": "bob-dylan--the-complete-budokan-1978-live",
+      "release_name": "The Complete Budokan 1978 (Live)",
+      "spotify_track_id": "6e5TJqqoSluCky176eZLCA",
+      "spotify_url": "https://open.spotify.com/track/6e5TJqqoSluCky176eZLCA"
     },
     {
-      "canonical_slug": "crosby-stills-nash-and-young--almost-cut-my-hair",
-      "name": "Almost Cut My Hair",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
-      "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
-      "release_canonical_slug": "crosby-stills-nash-and-young--deja-vu",
-      "release_name": "Deja Vu",
-      "spotify_track_id": "0gCJkpD0RhF2rjiALLHBQL",
-      "spotify_url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL"
-    },
-    {
-      "canonical_slug": "neil-young--are-you-ready-for-the-country",
-      "name": "Are You Ready for the Country?",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young",
-      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
-      "release_name": "Harvest (50th Anniversary Edition)",
-      "spotify_track_id": "3LJy93lXURXqAIFU33GIS4",
-      "spotify_url": "https://open.spotify.com/track/3LJy93lXURXqAIFU33GIS4"
-    },
-    {
-      "canonical_slug": "simon-and-garfunkel--bleecker-street",
-      "name": "Bleecker Street",
-      "play_count": 1,
+      "canonical_slug": "simon-and-garfunkel--april-come-she-will",
+      "name": "April Come She Will",
+      "play_count": 2,
       "primary_artist_canonical_slug": "simon-and-garfunkel",
       "primary_artist_name": "Simon \u0026 Garfunkel",
-      "release_canonical_slug": "simon-and-garfunkel--wednesday-morning-3-a-m",
-      "release_name": "Wednesday Morning, 3 A.M.",
-      "spotify_track_id": "4c0ecVwn17owdwpIBL07wC",
-      "spotify_url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC"
+      "release_canonical_slug": "simon-and-garfunkel--sounds-of-silence",
+      "release_name": "Sounds Of Silence",
+      "spotify_track_id": "0djZ2ndRfAL69WYNra5jRC",
+      "spotify_url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
     }
   ],
   "source_refs": [
@@ -320,6 +380,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -341,9 +407,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-17T00:28:36.877Z",
+      "updated_at": "2026-03-29T17:25:55.795Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:25:55.795Z"
 }

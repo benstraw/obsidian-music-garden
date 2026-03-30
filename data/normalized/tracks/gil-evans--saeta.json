@@ -1,0 +1,13 @@
+{
+  "source": "spotify",
+  "source_track_id": "1KqV8uw64FFQ8JNemG7hTF",
+  "name": "Saeta",
+  "primary_artist_name": "Gil Evans",
+  "primary_artist_canonical_slug": "gil-evans",
+  "additional_artist_slugs": [
+    "miles-davis"
+  ],
+  "release_name": "Sketches of Spain",
+  "release_canonical_slug": "gil-evans--sketches-of-spain",
+  "spotify_url": "https://open.spotify.com/track/1KqV8uw64FFQ8JNemG7hTF"
+}

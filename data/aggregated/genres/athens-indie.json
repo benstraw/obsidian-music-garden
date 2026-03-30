@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "athens-indie",
+  "display_title": "Athens Indie",
+  "display_name": "Athens Indie",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Athens Independent School District",
+    "Athens Indoor Hall",
+    "Athens International Airport",
+    "Athens International Airport Archaeological Collection",
+    "Athens International Airport S.A.",
+    "Athens International Radio",
+    "Athens International Ultramarathon Festival",
+    "Athens Internet Exchange",
+    "Athens under Roman rule",
+    "Athens, Indiana"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

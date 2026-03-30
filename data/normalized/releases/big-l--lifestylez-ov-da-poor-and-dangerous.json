@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7xvBUHu5jJ7X0wdRHudLFD",
   "name": "Lifestylez Ov Da Poor \u0026 Dangerous",
   "primary_artist_name": "Big L",
-  "primary_artist_canonical_slug": "big-l"
+  "primary_artist_canonical_slug": "big-l",
+  "musicbrainz_release_id": "9f06636b-affd-4900-b8ad-c8b0892fdf2f",
+  "musicbrainz_release_group_id": "9a29e57d-dd1c-35c1-bb05-d220bcb656d6"
 }

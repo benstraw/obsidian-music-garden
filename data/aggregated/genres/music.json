@@ -1,0 +1,129 @@
+{
+  "canonical_slug": "music",
+  "display_title": "Music",
+  "display_name": "Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Music",
+  "summary": "Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content. Music is generally agreed to be a cultural universal that is present in all human societies. Definitions of music vary widely in substance and approach. While scholars agree that music is defined by a small number of specific elements, there is no consensus as to what these necessary elements are. Music is often characterized as a highly versatile medium for expressing human creativity. Diverse activities are involved in the creation of music, and are often divided into categories of composition, improvisation, and performance. Music may be performed using a wide variety of musical instruments, including the human voice. It can also be composed, sequenced, or otherwise produced to be indirectly played mechanically or electronically, such as via a music box, barrel organ, or digital audio workstation software on a computer.",
+  "candidates": [
+    "Music",
+    "Music and artificial intelligence",
+    "Music genre",
+    "Music industry",
+    "Music theory",
+    "Music video",
+    "MusicBrainz",
+    "Musical analysis",
+    "Musical instrument",
+    "Musical theatre"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Music",
+    "page_url": "https://en.wikipedia.org/wiki/Music",
+    "retrieved_at": "2026-03-28T15:58:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:9577 Guitarz1970 Clean E9 Guitar Chord (Mike Tribulas).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:9577_Guitarz1970_Clean_E9_Guitar_Chord_(Mike_Tribulas).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/9577_Guitarz1970_Clean_E9_Guitar_Chord_%28Mike_Tribulas%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/9577_Guitarz1970_Clean_E9_Guitar_Chord_%28Mike_Tribulas%29.jpg",
+      "width": 587,
+      "height": 389,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Spyrogumas\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Spyrogumas (page does not exist)\"\u003eSpyrogumas\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:9577 Guitarz1970 Clean E9 Guitar Chord (Mike Tribulas).ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:9577_Guitarz1970_Clean_E9_Guitar_Chord_(Mike_Tribulas).ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/9577_Guitarz1970_Clean_E9_Guitar_Chord_%28Mike_Tribulas%29.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "Mike Tribulas"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adeste Fideles sheet music sample.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adeste_Fideles_sheet_music_sample.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Adeste_Fideles_sheet_music_sample.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adeste Fideles sheet music sample.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adeste_Fideles_sheet_music_sample.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Adeste_Fideles_sheet_music_sample.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Adeste_Fideles_sheet_music_sample.svg/960px-Adeste_Fideles_sheet_music_sample.svg.png",
+      "width": 680,
+      "height": 187,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Tkgd2007\" title=\"User:Tkgd2007\"\u003eTkgd2007\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--music.json",
+      "url": "https://en.wikipedia.org/wiki/Music",
+      "retrieved_at": "2026-03-28T15:58:37Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

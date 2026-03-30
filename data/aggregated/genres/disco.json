@@ -1,0 +1,134 @@
+{
+  "canonical_slug": "disco",
+  "display_title": "Disco",
+  "display_name": "Disco",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Disco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Disco",
+  "summary": "Disco is a genre of dance music and a subculture that emerged in the late 1960s from the United States' urban nightlife scene, particularly in African-American, Italian-American, Latino and queer communities. Its sound is typified by four-on-the-floor beats, syncopated basslines, string sections, brass and horns, electric pianos, synthesizers, and electric rhythm guitars.",
+  "candidates": [
+    "A Discovery of Witches (TV series)",
+    "Disco",
+    "Disco (Kylie Minogue album)",
+    "Disco Elysium",
+    "Discord",
+    "Discordianism",
+    "Discovery (Daft Punk album)",
+    "Discovery Channel",
+    "Discovery Family",
+    "Discovery Life"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Disco",
+    "page_url": "https://en.wikipedia.org/wiki/Disco",
+    "retrieved_at": "2026-03-28T15:55:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:04232012dae jpg semana de la cultura159.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:04232012dae_jpg_semana_de_la_cultura159.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/04232012dae_jpg_semana_de_la_cultura159.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/04232012dae_jpg_semana_de_la_cultura159.JPG/960px-04232012dae_jpg_semana_de_la_cultura159.JPG",
+    "width": 3456,
+    "height": 2304,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Talento Tec"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:04232012dae jpg semana de la cultura159.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:04232012dae_jpg_semana_de_la_cultura159.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/04232012dae_jpg_semana_de_la_cultura159.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/04232012dae_jpg_semana_de_la_cultura159.JPG/960px-04232012dae_jpg_semana_de_la_cultura159.JPG",
+      "width": 3456,
+      "height": 2304,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Talento Tec"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:04232012dae jpg semana de la cultura162.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:04232012dae_jpg_semana_de_la_cultura162.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/04232012dae_jpg_semana_de_la_cultura162.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/04232012dae_jpg_semana_de_la_cultura162.JPG/960px-04232012dae_jpg_semana_de_la_cultura162.JPG",
+      "width": 2304,
+      "height": 3456,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Talento Tec"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ABBA - TopPop 1974 5.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:ABBA_-_TopPop_1974_5.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ABBA_-_TopPop_1974_5.png",
+      "width": 500,
+      "height": 426,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Algemene_Vereniging_Radio_Omroep\" class=\"extiw\" title=\"en:Algemene Vereniging Radio Omroep\"\u003eAVRO\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bee Gees 1977.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bee_Gees_1977.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bee_Gees_1977.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bee_Gees_1977.JPG",
+      "width": 582,
+      "height": 757,
+      "license": "Public domain",
+      "author": "NBC Television"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--disco.json",
+      "url": "https://en.wikipedia.org/wiki/Disco",
+      "retrieved_at": "2026-03-28T15:55:01Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--disco.json",
+      "url": "https://commons.wikimedia.org/wiki/File:04232012dae_jpg_semana_de_la_cultura159.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

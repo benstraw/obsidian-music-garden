@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4x1gp0YZRosiMcM0f1WGls",
   "name": "Southern Nights",
   "primary_artist_name": "Allen Toussaint",
-  "primary_artist_canonical_slug": "allen-toussaint"
+  "primary_artist_canonical_slug": "allen-toussaint",
+  "musicbrainz_release_id": "f7d82af6-8cd9-4ef2-bd76-d58d2a9128ba",
+  "musicbrainz_release_group_id": "b0c624d0-e157-334e-bec9-9d6a0dee6fd9"
 }

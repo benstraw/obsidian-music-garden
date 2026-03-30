@@ -1,0 +1,111 @@
+{
+  "canonical_slug": "chillwave",
+  "display_title": "Chillwave",
+  "display_name": "Chillwave",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Chillwave",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chillwave",
+  "summary": "Chillwave is a music microgenre that emerged in the late 2000s. It is characterized by evoking the popular music of the late 1970s and early 1980s while engaging with notions of memory and nostalgia. Common features include a faded or dreamy retro pop sound, escapist lyrics, psychedelic or lo-fi aesthetics, mellow vocals, slow-to-moderate tempos, effects processing, and vintage synthesizers.",
+  "candidates": [
+    "Childhaven",
+    "Chillanes",
+    "Chillanes Canton",
+    "Chilli veinal mottle virus",
+    "Chillwa Quta",
+    "Chillwalker",
+    "Chillwave",
+    "Gaston Arman de Caillavet",
+    "José Luis Chilavert",
+    "Rolando Chilavert"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chillwave",
+    "page_url": "https://en.wikipedia.org/wiki/Chillwave",
+    "retrieved_at": "2026-03-28T15:54:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Feel It All Around - Washed Out.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Feel It All Around - Washed Out.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Neon Indian performing at Bestival 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Neon_Indian_performing_at_Bestival_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Neon_Indian_performing_at_Bestival_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Neon_Indian_performing_at_Bestival_2010.jpg/960px-Neon_Indian_performing_at_Bestival_2010.jpg",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/78807869@N00\"\u003eNathan\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Panda Bear Person Pitch.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Toro y Moi at Hard Rock Cafe.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Toro_y_Moi_at_Hard_Rock_Cafe.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Toro_y_Moi_at_Hard_Rock_Cafe.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Toro_y_Moi_at_Hard_Rock_Cafe.jpg/960px-Toro_y_Moi_at_Hard_Rock_Cafe.jpg",
+      "width": 1500,
+      "height": 996,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca href=\"//www.flickr.com/people/11528393@N03\" class=\"extiw\" title=\"flickruser:11528393@N03\"\u003eAndrew Subiela\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chillwave.json",
+      "url": "https://en.wikipedia.org/wiki/Chillwave",
+      "retrieved_at": "2026-03-28T15:54:14Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chillwave.json",
+      "url": "https://en.wikipedia.org/wiki/Chillwave",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

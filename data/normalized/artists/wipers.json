@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0sTTw3dw3EA0c7NaZnrJd2",
+  "name": "Wipers",
+  "spotify_url": "https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2",
+  "musicbrainz_artist_id": "65aac2dc-216c-4b1a-8501-45567c901c0e",
+  "source_genres": [
+    "post-punk",
+    "punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "post-punk",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Scott Wiper",
+    "The Wipers Times (play)",
+    "Wiper",
+    "Wiper seal",
+    "WiperSoft",
+    "Wipers (band)",
+    "Wipers (car)",
+    "Wipers Box Set",
+    "Wipers Live",
+    "Wipers Times"
+  ]
+}

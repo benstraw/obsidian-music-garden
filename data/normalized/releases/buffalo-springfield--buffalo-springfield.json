@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3PkdGRruLnJ9zCtANiDrpB",
   "name": "Buffalo Springfield",
   "primary_artist_name": "Buffalo Springfield",
-  "primary_artist_canonical_slug": "buffalo-springfield"
+  "primary_artist_canonical_slug": "buffalo-springfield",
+  "musicbrainz_release_id": "c23de1c0-9fe7-4d49-8eef-053f02bb5f97",
+  "musicbrainz_release_group_id": "54680b54-e5e6-416b-af5d-a1afbe7e26b4"
 }

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6oGCz3d9MqAB6OVMUOLibu",
   "name": "All The Roadrunning",
   "primary_artist_name": "Mark Knopfler",
-  "primary_artist_canonical_slug": "mark-knopfler"
+  "primary_artist_canonical_slug": "mark-knopfler",
+  "musicbrainz_release_id": "5a47bfe3-721e-47d4-ae4e-a26b165e2719",
+  "musicbrainz_release_group_id": "fcb95e96-cdba-4fa5-8795-28825cca7535"
 }

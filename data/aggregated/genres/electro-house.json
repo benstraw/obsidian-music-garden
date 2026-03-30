@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "electro-house",
+  "display_title": "Electro House",
+  "display_name": "Electro House",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Electro house",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Electro_house",
+  "summary": "Electro house is a genre of electronic dance music and a subgenre of house music characterized by heavy bass and a tempo around 125–135 beats per minute. The term has been used to describe the music of many DJ Mag Top 100 DJs, including Benny Benassi, Skrillex, Steve Aoki, and Deadmau5.",
+  "candidates": [
+    "By-elections to the House of Lords",
+    "Election house",
+    "Electra House",
+    "Electra House (Malaysia)",
+    "Electra House (department)",
+    "Electric House, Battersea",
+    "Electro house",
+    "Electrohomeopathy",
+    "Electrophorus electricus",
+    "The Electric House"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Electro house",
+    "page_url": "https://en.wikipedia.org/wiki/Electro_house",
+    "retrieved_at": "2026-03-28T15:55:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Porter Robinson, Zedd, and Skrillex at the 2012 SXSW cropped.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Porter_Robinson,_Zedd,_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Porter_Robinson%2C_Zedd%2C_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Porter_Robinson%2C_Zedd%2C_and_Skrillex_at_the_2012_SXSW_cropped.jpg/960px-Porter_Robinson%2C_Zedd%2C_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+    "width": 2400,
+    "height": 1472,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003cb\u003e\u003ca rel=\"nofollow\" class=\"external free\" href=\"http://digboston.com/\"\u003ehttp://digboston.com/\u003c/a\u003e\u003c/b\u003e (\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/weeklydig/\"\u003e\"weeklydig\"\u003c/a\u003e on Flickr)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Porter Robinson, Zedd, and Skrillex at the 2012 SXSW cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Porter_Robinson,_Zedd,_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Porter_Robinson%2C_Zedd%2C_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Porter_Robinson%2C_Zedd%2C_and_Skrillex_at_the_2012_SXSW_cropped.jpg/960px-Porter_Robinson%2C_Zedd%2C_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+      "width": 2400,
+      "height": 1472,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003cb\u003e\u003ca rel=\"nofollow\" class=\"external free\" href=\"http://digboston.com/\"\u003ehttp://digboston.com/\u003c/a\u003e\u003c/b\u003e (\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/weeklydig/\"\u003e\"weeklydig\"\u003c/a\u003e on Flickr)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--electro-house.json",
+      "url": "https://en.wikipedia.org/wiki/Electro_house",
+      "retrieved_at": "2026-03-28T15:55:22Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--electro-house.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Porter_Robinson,_Zedd,_and_Skrillex_at_the_2012_SXSW_cropped.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

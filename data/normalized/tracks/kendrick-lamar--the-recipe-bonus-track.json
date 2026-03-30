@@ -4,6 +4,9 @@
   "name": "The Recipe - Bonus Track",
   "primary_artist_name": "Kendrick Lamar",
   "primary_artist_canonical_slug": "kendrick-lamar",
+  "additional_artist_slugs": [
+    "dr-dre"
+  ],
   "release_name": "good kid, m.A.A.d city (Deluxe)",
   "release_canonical_slug": "kendrick-lamar--good-kid-m-a-a-d-city-deluxe",
   "spotify_url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"

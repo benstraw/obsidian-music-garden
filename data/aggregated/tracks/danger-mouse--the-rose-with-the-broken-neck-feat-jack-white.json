@@ -1,11 +1,15 @@
 {
   "canonical_slug": "danger-mouse--the-rose-with-the-broken-neck-feat-jack-white",
   "name": "The Rose with the Broken Neck (feat. Jack White)",
+  "play_count": 1,
   "primary_artist_canonical_slug": "danger-mouse",
   "primary_artist_name": "Danger Mouse",
+  "additional_artist_slugs": [
+    "daniele-luppi",
+    "jack-white"
+  ],
   "release_canonical_slug": "danger-mouse--rome",
   "release_name": "Rome",
   "spotify_track_id": "3YDn3QgsE6zAGNicA8xDII",
-  "spotify_url": "https://open.spotify.com/track/3YDn3QgsE6zAGNicA8xDII",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3YDn3QgsE6zAGNicA8xDII"
 }

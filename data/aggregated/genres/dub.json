@@ -6,48 +6,219 @@
   "aliases": [
     "dub"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Dub music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dub_music",
+  "summary": "Dub is a musical style that grew out of reggae in the late 1960s and early 1970s. It is commonly considered a subgenre of reggae, though it has developed to extend beyond that style. Generally, dub consists of remixes of existing recordings created by significantly manipulating the original, usually through the removal of vocal parts, emphasis of the rhythm section, the application of studio effects such as echo and reverb, and the occasional dubbing of vocal or instrumental snippets from the original version or other works.",
   "candidates": [
-    "Daniel Dubois",
-    "Dub",
-    "Dubai",
-    "Dubai International Airport",
-    "Dubbing",
-    "Dublin",
-    "Dublin Airport",
-    "Dublin and Monaghan bombings",
-    "Dubrovnik",
-    "The Dubliners"
+    "Dub music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dub music",
+    "page_url": "https://en.wikipedia.org/wiki/Dub_music",
+    "retrieved_at": "2026-03-30T04:10:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Jamaica.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Jamaica.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/960px-Flag_of_Jamaica.svg.png",
+      "width": 1200,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:table;width:auto;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;padding:2px 4px 2px 0px;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:W3C_grn.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/W3C_grn.svg/40px-W3C_grn.svg.png\" decoding=\"async\" width=\"24\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/W3C_grn.svg/60px-W3C_grn.svg.png 2x\" data-file-width=\"288\" data-file-height=\"174\"\u003e\u003c/a\u003e\u003c/span\u003e The \u003ca href=\"//commons.wikimedia.org/wiki/Help:SVG\" title=\"Help:SVG\"\u003eSVG\u003c/a\u003e code is \u003cspan class=\"plainlinks\" style=\"background:var(--background-color-success-subtle, #dff2eb); color: inherit;\"\u003e\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://validator.w3.org/check?uri=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FSpecial%3AFilepath%2FFlag_of_Jamaica.svg\u0026amp;doctype=Inline\"\u003evalid\u003c/a\u003e\u003c/span\u003e.\u003c/div\u003e\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:SKopp\" title=\"User:SKopp\"\u003eSKopp\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited by \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Madden\" title=\"User:Madden\"\u003eMadden\u003c/a\u003e and others.\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lee Perry live.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lee_Perry_live.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lee_Perry_live.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lee_Perry_live.jpg",
+      "width": 480,
+      "height": 640,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/oskarlin/\"\u003eoskarlin\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T15:39:19.952Z",
+    "play_count": 12,
+    "unique_artist_count": 2,
+    "unique_release_count": 5,
+    "unique_track_count": 7,
+    "first_played_at": "2024-01-01T00:00:00.372820014Z",
     "last_played_at": "2026-03-03T15:39:19.952Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "niney-the-observer",
+      "name": "Niney The Observer",
+      "play_count": 6,
+      "spotify_artist_id": "1eM04Kj9DckOUmU1LOfj8j",
+      "musicbrainz_artist_id": "fbca566a-3a40-4649-871f-6367babb768f",
+      "spotify_url": "https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j"
+    },
+    {
       "canonical_slug": "steel-pulse",
       "name": "Steel Pulse",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "musicbrainz_artist_id": "37367b2f-69e4-4df2-9e64-75ca6204764b",
       "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "steel-pulse--true-democracy",
+      "name": "True Democracy",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "spotify_album_id": "26eFSibLfoQ0pIvnb02NDg",
+      "musicbrainz_release_id": "150d3462-6e4e-4525-aaf9-877923fbd1a7",
+      "musicbrainz_release_group_id": "723f27d0-bae3-3f12-a5e2-eb8a7551090b"
+    },
+    {
+      "canonical_slug": "niney-the-observer--sing-it-wicked-style",
+      "name": "Sing It Wicked Style",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "spotify_album_id": "4yRAqAtefOk5rVUWyofGr8"
+    },
+    {
+      "canonical_slug": "niney-the-observer--here-i-come-again",
+      "name": "Here I Come Again",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "spotify_album_id": "3Ab9C86SZPZb8zAVaMz5Ug"
+    },
+    {
+      "canonical_slug": "niney-the-observer--bring-the-couchie",
+      "name": "Bring The Couchie",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "spotify_album_id": "0QkrKh1IBfE9odCi0kqx4P"
+    },
+    {
       "canonical_slug": "steel-pulse--earth-crisis",
       "name": "Earth Crisis",
       "play_count": 1,
       "primary_artist_canonical_slug": "steel-pulse",
-      "primary_artist_name": "Steel Pulse"
+      "primary_artist_name": "Steel Pulse",
+      "spotify_album_id": "1h5jSwgEiUDx58MiBFVTgV",
+      "musicbrainz_release_id": "a33146a9-4bcd-3158-930d-37f2d8b310a7",
+      "musicbrainz_release_group_id": "e9eefcaa-667c-34a6-84fe-c4e9cb76756c"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "steel-pulse--your-house",
+      "name": "Your House",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--true-democracy",
+      "release_name": "True Democracy",
+      "spotify_track_id": "6PbtTwGUPPbnT7nRTA1gS3",
+      "spotify_url": "https://open.spotify.com/track/6PbtTwGUPPbnT7nRTA1gS3"
+    },
+    {
+      "canonical_slug": "niney-the-observer--bring-the-couchie-come",
+      "name": "Bring the Couchie Come",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "release_canonical_slug": "niney-the-observer--sing-it-wicked-style",
+      "release_name": "Sing It Wicked Style",
+      "spotify_track_id": "3BCtlDkfHoK3dBX0xsZ96W",
+      "spotify_url": "https://open.spotify.com/track/3BCtlDkfHoK3dBX0xsZ96W"
+    },
+    {
+      "canonical_slug": "niney-the-observer--false-rasta",
+      "name": "False Rasta",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "release_canonical_slug": "niney-the-observer--here-i-come-again",
+      "release_name": "Here I Come Again",
+      "spotify_track_id": "0VpUeFOeU8S9Dzi8uge6PF",
+      "spotify_url": "https://open.spotify.com/track/0VpUeFOeU8S9Dzi8uge6PF"
+    },
+    {
+      "canonical_slug": "steel-pulse--leggo-beast",
+      "name": "Leggo Beast",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--true-democracy",
+      "release_name": "True Democracy",
+      "spotify_track_id": "2Fg0V8uIWQnBSTWJsrW5P6",
+      "spotify_url": "https://open.spotify.com/track/2Fg0V8uIWQnBSTWJsrW5P6"
+    },
+    {
+      "canonical_slug": "niney-the-observer--aily-and-ailaloo",
+      "name": "Aily and Ailaloo",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "release_canonical_slug": "niney-the-observer--sing-it-wicked-style",
+      "release_name": "Sing It Wicked Style",
+      "spotify_track_id": "2CEDoT7nGPiQ11LA0EcByP",
+      "spotify_url": "https://open.spotify.com/track/2CEDoT7nGPiQ11LA0EcByP"
+    },
+    {
+      "canonical_slug": "niney-the-observer--jah-fire",
+      "name": "Jah Fire",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "niney-the-observer",
+      "primary_artist_name": "Niney The Observer",
+      "release_canonical_slug": "niney-the-observer--bring-the-couchie",
+      "release_name": "Bring The Couchie",
+      "spotify_track_id": "5C2SGbX7dHdTSHyKKYfszC",
+      "spotify_url": "https://open.spotify.com/track/5C2SGbX7dHdTSHyKKYfszC"
+    },
     {
       "canonical_slug": "steel-pulse--steppin-out",
       "name": "Steppin' Out",
@@ -68,6 +239,28 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--dub.json",
+      "url": "https://en.wikipedia.org/wiki/Dub_music",
+      "retrieved_at": "2026-03-30T04:10:25Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--dub.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -75,5 +268,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

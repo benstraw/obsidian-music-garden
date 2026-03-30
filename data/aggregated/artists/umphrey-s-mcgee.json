@@ -1,0 +1,91 @@
+{
+  "canonical_slug": "umphrey-s-mcgee",
+  "name": "Umphrey's McGee",
+  "play_count": 37,
+  "spotify_artist_id": "7mQilAy42MqNPqUFqK4Z0o",
+  "musicbrainz_artist_id": "3826a6e0-9ea5-4007-941c-25b9dd943981",
+  "spotify_url": "https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfea47b45a6e5e5c5cabc32d9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fea47b45a6e5e5c5cabc32d9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fea47b45a6e5e5c5cabc32d9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Umphrey's McGee",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Umphrey's_McGee",
+  "summary": "Umphrey's McGee, sometimes stylized as UM, is an American rock band originally from South Bend, Indiana. The band experiments with many musical styles, including rock, metal, funk, jazz, blues, reggae, electronic, bluegrass, country, and folk. They have toured regularly and released several albums. Since 2002, they have been the headlining act and organizers of Summer Camp Music Festival, which is held annually in Three Sisters Park in Chillicothe, Illinois.",
+  "candidates": [
+    "Umphrey's McGee",
+    "Umphrey's McGee discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Umphrey's McGee",
+    "page_url": "https://en.wikipedia.org/wiki/Umphrey's_McGee",
+    "retrieved_at": "2026-03-28T10:43:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:UmphreysMcGeeBonnaroo2006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:UmphreysMcGeeBonnaroo2006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/UmphreysMcGeeBonnaroo2006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UmphreysMcGeeBonnaroo2006.jpg/960px-UmphreysMcGeeBonnaroo2006.jpg",
+      "width": 1593,
+      "height": 1353,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Truejustice\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Truejustice (page does not exist)\"\u003eTruejustice\u003c/a\u003e",
+      "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Truejustice\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Truejustice (page does not exist)\"\u003eTruejustice\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Umphreysmcgee.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Umphreysmcgee.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Umphreysmcgee.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Umphreysmcgee.jpg",
+      "width": 500,
+      "height": 271,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9269799@N04\"\u003eShawn Hogendorf\u003c/a\u003e from West Saint Paul, United States"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

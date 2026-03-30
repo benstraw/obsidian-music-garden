@@ -1,0 +1,53 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2cNCyL3WSlAatld5duatyD",
+  "name": "Rahsaan",
+  "spotify_url": "https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD",
+  "musicbrainz_artist_id": "2b031893-46cf-4056-9e39-94d0c46f1986",
+  "status": "matched",
+  "page_title": "Rahsaan",
+  "summary": "Rahsaan is a given name. Notable people with the name include:Rahsaan Bahati, American racing cyclist who currently rides for his own cycling team, Bahati Foundation Elite Team\nRahsaan Johnson, American basketball player\nRahsaan Roland Kirk (1935–1977), American jazz multi-instrumentalist who played tenor saxophone, flute, and many other instruments\nRahsaan Noor, American film actor and filmmaker of Bengali descent\nRahsaan Patterson, American singer and actor, best known for portraying \"The Kid\" on the 1980s television show Kids Incorporated\nRahsaan Smith, American professional basketball player\nAaron Rahsaan Thomas, TV and film screenwriter and producer, adjunct professor at the University of Southern California School of Cinematic Arts\nRahsaan Thomas, American journalist, writer, and filmmaker, best known as \"New York\" on the podcast Ear Hustle.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Rahsaan",
+  "candidates": [
+    "Rahsaan",
+    "Rahsaan Bahati",
+    "Rahsaan Johnson",
+    "Rahsaan Noor",
+    "Rahsaan Patterson",
+    "Rahsaan Patterson (album)",
+    "Rahsaan Patterson discography",
+    "Rahsaan Rahsaan",
+    "Rahsaan Roland Kirk",
+    "Rahsaan Thomas"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rahsaan",
+    "page_url": "https://en.wikipedia.org/wiki/Rahsaan",
+    "retrieved_at": "2026-03-28T10:42:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:WPanthroponymy.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:WPanthroponymy.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/WPanthroponymy.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/960px-WPanthroponymy.svg.png",
+    "width": 53,
+    "height": 51,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:WPanthroponymy.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:WPanthroponymy.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/WPanthroponymy.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/960px-WPanthroponymy.svg.png",
+      "width": 53,
+      "height": 51,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ]
+}

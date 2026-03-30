@@ -1,11 +1,14 @@
 {
   "canonical_slug": "people-under-the-stairs--acid-raindrops",
   "name": "Acid Raindrops",
+  "play_count": 1,
   "primary_artist_canonical_slug": "people-under-the-stairs",
   "primary_artist_name": "People Under The Stairs",
+  "additional_artist_slugs": [
+    "camel-mc"
+  ],
   "release_canonical_slug": "people-under-the-stairs--o-s-t",
   "release_name": "O.S.T.",
   "spotify_track_id": "5vh9GfhmvKwEGN7uCwtGwp",
-  "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp"
 }

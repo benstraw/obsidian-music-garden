@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "bristol-indie",
+  "display_title": "Bristol Indie",
+  "display_name": "Bristol Indie",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Bristol Industrial Museum",
+    "Bristol International Balloon Fiesta",
+    "Bristol International Exhibition",
+    "Bristol and Exeter Railway",
+    "Bristol and Exeter Railway 0-6-0 locomotives",
+    "Bristol and Exeter Railway 4-2-4T locomotives",
+    "Bristol and Exeter Railway Fairfield steam carriage",
+    "Bristol and Exeter Railway locomotives",
+    "Bristol underground scene",
+    "Bristol, Indiana"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,71 @@
+{
+  "canonical_slug": "new-americana",
+  "display_title": "New Americana",
+  "display_name": "New Americana",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "New Americana",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_Americana",
+  "summary": "\"New Americana\" is a song by American singer and songwriter Halsey from her debut studio album, Badlands (2015). It was released on July 10, 2015 through Astralwerks as the album's second single. It was written by Halsey, Larzz Principato, and Kalkutta, while production was handled by Lido. Described as an alternative pop and electronic pop song, \"New Americana\" describes the normalization of aspects of counterculture in the United States, including recreational marijuana use and same-sex marriage. The original version of the song was first released on March 31, 2014 via Halsey's official SoundCloud account for streaming and free download.",
+  "candidates": [
+    "New America (organization)",
+    "New American Bible",
+    "New American Bible Revised Edition",
+    "New American Cyclopædia",
+    "New American Library",
+    "New American Movement",
+    "New American Standard Bible",
+    "New Americana",
+    "The New America",
+    "The New American Academy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "New Americana",
+    "page_url": "https://en.wikipedia.org/wiki/New_Americana",
+    "retrieved_at": "2026-03-28T15:58:48Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Halsey - New Americana (Single Cover).jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Halsey - New Americana (Single Cover).jpg"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--new-americana.json",
+      "url": "https://en.wikipedia.org/wiki/New_Americana",
+      "retrieved_at": "2026-03-28T15:58:48Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--new-americana.json",
+      "url": "https://en.wikipedia.org/wiki/New_Americana",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

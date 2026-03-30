@@ -1,11 +1,14 @@
 {
   "canonical_slug": "kendrick-lamar--xxx-feat-u2",
   "name": "XXX. FEAT. U2.",
+  "play_count": 1,
   "primary_artist_canonical_slug": "kendrick-lamar",
   "primary_artist_name": "Kendrick Lamar",
+  "additional_artist_slugs": [
+    "u2"
+  ],
   "release_canonical_slug": "kendrick-lamar--damn",
   "release_name": "DAMN.",
   "spotify_track_id": "4iYRa2btalAzPZoSYfROqF",
-  "spotify_url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
 }

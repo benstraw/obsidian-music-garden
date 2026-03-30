@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4ZNWcRlKUaLIMtCdWb2eis",
   "name": "Real Live Roadrunning",
   "primary_artist_name": "Mark Knopfler",
-  "primary_artist_canonical_slug": "mark-knopfler"
+  "primary_artist_canonical_slug": "mark-knopfler",
+  "musicbrainz_release_id": "956c1575-4b41-46d5-a473-14d0dc84efb7",
+  "musicbrainz_release_group_id": "0b30ace5-930c-3d49-8a77-bcd6fc95241d"
 }

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1agP6sAeWsH8Pgm8WrVtdl",
   "name": "Live 1969",
   "primary_artist_name": "Simon \u0026 Garfunkel",
-  "primary_artist_canonical_slug": "simon-and-garfunkel"
+  "primary_artist_canonical_slug": "simon-and-garfunkel",
+  "musicbrainz_release_id": "6e6154ce-3305-4146-a659-4dfcd1111762",
+  "musicbrainz_release_group_id": "2c6c4111-7742-338f-be6e-bd9e434aad23"
 }

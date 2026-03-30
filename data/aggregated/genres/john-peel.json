@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "john-peel",
+  "display_title": "John Peel",
+  "display_name": "John Peel",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "John Peel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Peel",
+  "summary": "John Robert Parker Ravenscroft, better known as John Peel, was an English radio presenter and journalist. He was the longest-serving of the original disc jockeys on BBC Radio 1, broadcasting regularly from 1967 until his death in 2004.",
+  "candidates": [
+    "John Peel",
+    "John Peel (Leicester MP)",
+    "John Peel (gynaecologist)",
+    "John Peel (huntsman)",
+    "John Peel (writer)",
+    "John Peel Session (Deep Turtle EP)",
+    "John Peel Wing",
+    "John Peel and Sheila: The Pig's Big 78s: A Beginner's Guide",
+    "John Peel's Record Box",
+    "John Peele Clapham"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Peel",
+    "page_url": "https://en.wikipedia.org/wiki/John_Peel",
+    "retrieved_at": "2026-03-28T15:57:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:JP BBC.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:JP_BBC.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/JP_BBC.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/JP_BBC.jpg",
+    "width": 340,
+    "height": 261,
+    "license": "Public domain",
+    "author": "Arno Matthias"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JP BBC.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JP_BBC.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/JP_BBC.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/JP_BBC.jpg",
+      "width": 340,
+      "height": 261,
+      "license": "Public domain",
+      "author": "Arno Matthias"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JP Homestudio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JP_Homestudio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/JP_Homestudio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/JP_Homestudio.jpg",
+      "width": 294,
+      "height": 217,
+      "license": "Public domain",
+      "author": "Arno Matthias"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JP Peel Acres.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JP_Peel_Acres.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/JP_Peel_Acres.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/JP_Peel_Acres.jpg",
+      "width": 379,
+      "height": 260,
+      "license": "Public domain",
+      "author": "Arno Matthias"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Peel's grave, Great Finborough, Suffolk - geograph.org.uk - 1162596.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Peel%27s_grave,_Great_Finborough,_Suffolk_-_geograph.org.uk_-_1162596.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/John_Peel%27s_grave%2C_Great_Finborough%2C_Suffolk_-_geograph.org.uk_-_1162596.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Peel%27s_grave%2C_Great_Finborough%2C_Suffolk_-_geograph.org.uk_-_1162596.jpg/960px-John_Peel%27s_grave%2C_Great_Finborough%2C_Suffolk_-_geograph.org.uk_-_1162596.jpg",
+      "width": 1024,
+      "height": 688,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/12907\"\u003ePeter Tarleton\u003c/a\u003e",
+      "attribution_text": "Peter Tarleton"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Peel in London, 1999.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Peel_in_London,_1999.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/John_Peel_in_London%2C_1999.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/John_Peel_in_London%2C_1999.jpg/960px-John_Peel_in_London%2C_1999.jpg",
+      "width": 1662,
+      "height": 2741,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Paulmatthewkelly\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Paulmatthewkelly (page does not exist)\"\u003ePaulmatthewkelly\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--john-peel.json",
+      "url": "https://en.wikipedia.org/wiki/John_Peel",
+      "retrieved_at": "2026-03-28T15:57:46Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--john-peel.json",
+      "url": "https://commons.wikimedia.org/wiki/File:JP_BBC.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

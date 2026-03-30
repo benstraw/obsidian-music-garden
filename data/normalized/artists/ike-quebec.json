@@ -1,0 +1,44 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6y7dRlvApiCjP12JrxWQjh",
+  "name": "Ike Quebec",
+  "spotify_url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh",
+  "musicbrainz_artist_id": "d2301fc2-4416-477d-a4ca-5c5d98d0a998",
+  "source_genres": [
+    "bebop",
+    "hard bop",
+    "jazz",
+    "soul jazz",
+    "swing"
+  ],
+  "canonical_genre_slugs": [
+    "bebop",
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Ike Quebec",
+  "summary": "Ike Abrams Quebec was an American jazz tenor saxophonist. He began his career in the big band era of the 1940s, then fell from prominence for a time until launching a comeback in the years before his death.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ike_Quebec",
+  "candidates": [
+    "IGA (Quebec)",
+    "Ike Quebec",
+    "Isoquebecol"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ike Quebec",
+    "page_url": "https://en.wikipedia.org/wiki/Ike_Quebec",
+    "retrieved_at": "2026-03-28T10:39:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ike Quebec.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ike Quebec.jpg"
+    }
+  ]
+}

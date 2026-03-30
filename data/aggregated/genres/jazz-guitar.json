@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "jazz-guitar",
+  "display_title": "Jazz Guitar",
+  "display_name": "Jazz Guitar",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Jazz guitar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_guitar",
+  "summary": "Jazz guitar may refer to either a type of electric guitar or a guitar playing style in jazz, using electric amplification to increase the volume of acoustic guitars.",
+  "candidates": [
+    "Jail Guitar Doors",
+    "Jazz Guignard",
+    "Jazz Guitar (album)",
+    "Jazz Guitarist (album)",
+    "Jazz guitar",
+    "Jazz guitarist",
+    "The Jazz Guitarist"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz guitar",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_guitar",
+    "retrieved_at": "2026-03-28T15:57:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Duke Ellington - Hurricane Ballroom - rhythm section.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+    "width": 560,
+    "height": 455,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Gordon_Parks\" class=\"extiw\" title=\"w:en:Gordon Parks\"\u003e\u003cspan title=\"American photographer, musician, writer and film director (1912–2006)\"\u003eGordon Parks\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duke Ellington - Hurricane Ballroom - rhythm section.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+      "width": 560,
+      "height": 455,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Gordon_Parks\" class=\"extiw\" title=\"w:en:Gordon Parks\"\u003e\u003cspan title=\"American photographer, musician, writer and film director (1912–2006)\"\u003eGordon Parks\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gibson ES-175.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gibson_ES-175.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Gibson_ES-175.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gibson_ES-175.png/960px-Gibson_ES-175.png",
+      "width": 1024,
+      "height": 2080,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mytto\" title=\"User:Mytto\"\u003eThomas Despoix\u003c/a\u003e",
+      "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/wiki/User:Mytto\" title=\"User:Mytto\"\u003eMytto\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guitard Epiphone 03.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guitard_Epiphone_03.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Guitard_Epiphone_03.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Guitard_Epiphone_03.jpg/960px-Guitard_Epiphone_03.jpg",
+      "width": 1088,
+      "height": 2096,
+      "license": "CC BY-SA 2.0 fr",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\"\u003eRama\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John McLaughlin 1 (fcm).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_McLaughlin_1_(fcm).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/John_McLaughlin_1_%28fcm%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/John_McLaughlin_1_%28fcm%29.jpg/960px-John_McLaughlin_1_%28fcm%29.jpg",
+      "width": 2448,
+      "height": 3264,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Photograph:  \u003ca href=\"//commons.wikimedia.org/wiki/User:Frank_C._M%C3%BCller\" title=\"User:Frank C. Müller\"\u003eFrank C. Müller\u003c/a\u003e, Baden-Baden",
+      "attribution_text": "Frank C. Müller"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-guitar.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_guitar",
+      "retrieved_at": "2026-03-28T15:57:33Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-guitar.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Duke_Ellington_-_Hurricane_Ballroom_-_rhythm_section.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

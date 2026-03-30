@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3J8wY38gX35pp2soOa4vje",
+  "name": "Richard Harvey",
+  "spotify_url": "https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje",
+  "musicbrainz_artist_id": "e0ab79fd-05d4-4e03-a9d4-389f3d309713",
+  "source_genres": [
+    "composer",
+    "modern classical",
+    "orchestral",
+    "production music"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Richard Harvey",
+    "Richard Harvey (American football)",
+    "Richard Harvey (astrologer)",
+    "Richard Harvey (composer)",
+    "Richard Harvey (cricketer)",
+    "Richard Harvey (footballer)",
+    "Richard Harvey (politician)",
+    "Richard Harvey (scientist)",
+    "Richard Harvey Berg",
+    "Richard Harvey Chambers"
+  ]
+}

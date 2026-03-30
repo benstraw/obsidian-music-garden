@@ -1,0 +1,108 @@
+{
+  "source": "spotify",
+  "source_artist_id": "03YhcM6fxypfwckPCQV8pQ",
+  "name": "Wes Montgomery",
+  "spotify_url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ",
+  "musicbrainz_artist_id": "663f8232-8c46-4851-803f-a91d31593b14",
+  "source_genres": [
+    "big band",
+    "jazz",
+    "latin jazz"
+  ],
+  "canonical_genre_slugs": [
+    "big-band",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Wes Montgomery",
+  "summary": "John Leslie \"Wes\" Montgomery was an American jazz guitarist. Montgomery was known for his unusual technique of plucking the strings with the side of his thumb and for his extensive use of octaves, which gave him a distinctive sound.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Wes_Montgomery",
+  "candidates": [
+    "The Wes Montgomery Trio",
+    "W. A. Montgomery",
+    "W. Montgomery Watt",
+    "W. T. Montgomery",
+    "W.J. Montgomery",
+    "WVU Montgomery",
+    "Wes Montgomery",
+    "Wes Montgomery discography",
+    "Wes Montgomery: The Complete Riverside Recordings",
+    "West Montgomery Avenue Historic District"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wes Montgomery",
+    "page_url": "https://en.wikipedia.org/wiki/Wes_Montgomery",
+    "retrieved_at": "2026-03-28T10:44:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wes Montgomery.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wes_Montgomery.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Wes_Montgomery.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Wes_Montgomery.png",
+      "width": 407,
+      "height": 406,
+      "license": "Public domain",
+      "author": "Verve Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wes Montgomery (1960s Verve publicity photo with Gibson L-5 CES).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wes_Montgomery_(1960s_Verve_publicity_photo_with_Gibson_L-5_CES).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Wes_Montgomery_%281960s_Verve_publicity_photo_with_Gibson_L-5_CES%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wes_Montgomery_%281960s_Verve_publicity_photo_with_Gibson_L-5_CES%29.jpg/960px-Wes_Montgomery_%281960s_Verve_publicity_photo_with_Gibson_L-5_CES%29.jpg",
+      "width": 1035,
+      "height": 1294,
+      "license": "Public domain",
+      "author": "Photographed by \"Bruno of Hollywood\". Published by Verve Records."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wes Montgomery (1967).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wes_Montgomery_(1967).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Wes_Montgomery_%281967%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wes_Montgomery_%281967%29.jpg/960px-Wes_Montgomery_%281967%29.jpg",
+      "width": 1021,
+      "height": 1245,
+      "license": "Public domain",
+      "author": "Published by A\u0026amp;M Records. Photographer uncredited and unknown."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wes Montgomery (1967 Gibson portrait).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wes_Montgomery_(1967_Gibson_portrait).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Wes_Montgomery_%281967_Gibson_portrait%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Wes_Montgomery_%281967_Gibson_portrait%29.jpg/960px-Wes_Montgomery_%281967_Gibson_portrait%29.jpg",
+      "width": 1656,
+      "height": 2070,
+      "license": "Public domain",
+      "author": "Photo first published by Gibson. According to NPR, the photo was taken by \u003ca href=\"https://en.wikipedia.org/wiki/Chuck_Stewart\" class=\"extiw\" title=\"w:Chuck Stewart\"\u003eChuck Stewart\u003c/a\u003e."
+    }
+  ]
+}

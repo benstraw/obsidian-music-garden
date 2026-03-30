@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "calgary-sound",
+  "display_title": "Calgary Sound",
+  "display_name": "Calgary Sound",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Canadian punk rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Canadian_punk_rock",
+  "summary": "The first punk rock bands in Canada emerged during the late 1970s, in the wake of the US bands Ramones, The New York Dolls, and Blondie, and the UK band Sex Pistols. The Viletones, the Diodes and the Demics were among the pioneers, together with the Skulls from Vancouver, and Hamilton's Teenage Head, whose records and live shows earned them the nickname \"Canada's Ramones\". Vibrant local punk scenes sprung up in Toronto and Vancouver and other Canadian cities.",
+  "candidates": [
+    "Calgary Round-Up Band",
+    "Calgary Soldiers' Memorial",
+    "Calgary South",
+    "Calgary South (provincial electoral district)",
+    "Calgary Southeast",
+    "Calgary Southwest",
+    "Calgary Sun",
+    "Calgary sound",
+    "Calgary-Mountain View",
+    "Calgary-South East"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Canadian punk rock",
+    "page_url": "https://en.wikipedia.org/wiki/Canadian_punk_rock",
+    "retrieved_at": "2026-03-28T15:53:51Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--calgary-sound.json",
+      "url": "https://en.wikipedia.org/wiki/Canadian_punk_rock",
+      "retrieved_at": "2026-03-28T15:53:51Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

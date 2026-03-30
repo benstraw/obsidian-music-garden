@@ -3,13 +3,19 @@
   "source_artist_id": "08GQAI4eElDnROBrJRGE0X",
   "name": "Fleetwood Mac",
   "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+  "musicbrainz_artist_id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
   "source_genres": [
+    "blues rock",
+    "british blues",
     "classic rock",
+    "rock",
     "soft rock",
     "yacht rock"
   ],
   "canonical_genre_slugs": [
+    "blues-rock",
     "classic-rock",
+    "rock",
     "soft-rock",
     "yacht-rock"
   ],

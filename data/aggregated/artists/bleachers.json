@@ -1,7 +1,9 @@
 {
   "canonical_slug": "bleachers",
   "name": "Bleachers",
+  "play_count": 1,
   "spotify_artist_id": "2eam0iDomRHGBypaDQLwWI",
+  "musicbrainz_artist_id": "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
   "spotify_url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI",
   "images": [
     {
@@ -33,5 +35,5 @@
     "In the Bleachers",
     "List of Bleach soundtracks"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
-  "name": "In Spite Of Ourselves",
+  "source_release_id": "2t6hK5ERtgjbHXVgHlpqJ5",
+  "name": "In Spite of Ourselves",
   "primary_artist_name": "John Prine",
-  "primary_artist_canonical_slug": "john-prine"
+  "primary_artist_canonical_slug": "john-prine",
+  "musicbrainz_release_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+  "musicbrainz_release_group_id": "41714b68-b219-333d-8a7d-cf143d492984"
 }

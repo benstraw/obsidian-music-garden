@@ -6,7 +6,8 @@
   "aliases": [
     "funk rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Funk rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Funk_rock",
@@ -79,57 +80,145 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 10,
-    "unique_artist_count": 1,
-    "unique_release_count": 4,
-    "unique_track_count": 10,
-    "first_played_at": "2026-03-01T00:42:35.656Z",
-    "last_played_at": "2026-03-01T02:26:13.421Z"
+    "play_count": 69,
+    "unique_artist_count": 2,
+    "unique_release_count": 14,
+    "unique_track_count": 39,
+    "first_played_at": "2024-01-01T00:00:00.035196456Z",
+    "last_played_at": "2026-03-08T19:43:21.144Z"
   },
   "top_artists": [
     {
       "canonical_slug": "funkadelic",
       "name": "Funkadelic",
-      "play_count": 10,
+      "play_count": 67,
       "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+      "musicbrainz_artist_id": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
       "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    },
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "musicbrainz_artist_id": "13501c7d-d181-45ba-af52-5f101d8516a0",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
     }
   ],
   "top_releases": [
     {
       "canonical_slug": "funkadelic--maggot-brain",
       "name": "Maggot Brain",
-      "play_count": 7,
+      "play_count": 15,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "3ywVzrwMQ3Kq43N9zBdBQm",
+      "musicbrainz_release_id": "f17855ba-2027-44c0-8a7d-bcdea711d716",
+      "musicbrainz_release_group_id": "a334e612-e736-3b4f-82b4-c4dfb774983c"
     },
     {
-      "canonical_slug": "funkadelic--america-eats-its-young",
-      "name": "America Eats Its Young",
-      "play_count": 1,
+      "canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "name": "Let's Take It To The Stage",
+      "play_count": 10,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
-    },
-    {
-      "canonical_slug": "funkadelic--funkadelic",
-      "name": "Funkadelic",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2uXSJrDwX2c84LjedQuP0e",
+      "musicbrainz_release_id": "1132dd9d-6043-4ba9-8a53-f2af10195d21",
+      "musicbrainz_release_group_id": "d01f4922-40d0-3452-8c8d-f84bea2cc857"
     },
     {
       "canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
       "name": "Standing On The Verge Of Getting It On",
-      "play_count": 1,
+      "play_count": 10,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2o1DC3i9barPdh8EcWEnAf",
+      "musicbrainz_release_id": "63e9dae2-7f43-400d-b1a9-96639392475f",
+      "musicbrainz_release_group_id": "2aca4ebe-fd78-3222-930d-b521a82e3e51"
+    },
+    {
+      "canonical_slug": "funkadelic--cosmic-slop",
+      "name": "Cosmic Slop",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "49hvcA7jIUDu41njTP17uL",
+      "musicbrainz_release_id": "7987637b-dcaa-443e-84c4-b77a010a7d25",
+      "musicbrainz_release_group_id": "3337c981-c416-3513-a02b-6d6065b9316b"
+    },
+    {
+      "canonical_slug": "funkadelic--funkadelic",
+      "name": "Funkadelic",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2muElcL0DcIPj12CsCUzhf",
+      "musicbrainz_release_id": "125865eb-d1ed-4733-949f-32621d492991",
+      "musicbrainz_release_group_id": "ba6de9b7-828e-35d4-adc5-ea71bdab836b"
+    },
+    {
+      "canonical_slug": "funkadelic--america-eats-its-young",
+      "name": "America Eats Its Young",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "3sAlsqGMcElzHHSYd1jhiY",
+      "musicbrainz_release_id": "a3235d3c-0bb2-411f-90b0-8a6381841136",
+      "musicbrainz_release_group_id": "f32cb96a-6bde-3480-999c-5e7ad1038c71"
+    },
+    {
+      "canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix-feat-kendrick-lamar-and-ice-cube-single",
+      "name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar \u0026 Ice Cube] - Single",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "6oeY3dvDGQ5hJxQNHxA8dS"
+    },
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "spotify_album_id": "3Qa2CdymyGvXkqoqIZykmT"
+    },
+    {
+      "canonical_slug": "george-clinton--greatest-funkin-hits",
+      "name": "Greatest Funkin' Hits",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "george-clinton",
+      "primary_artist_name": "George Clinton",
+      "spotify_album_id": "4l3scS6Lw3r7W37SSYrUxF",
+      "musicbrainz_release_id": "76f1273d-e0a9-4d3c-bee6-959b39bfa668",
+      "musicbrainz_release_group_id": "f879615f-e0e0-3aa5-8a78-21aa46fb4a7e"
+    },
+    {
+      "canonical_slug": "funkadelic--tales-of-kidd-funkadelic",
+      "name": "Tales Of Kidd Funkadelic",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "7CKhu1MMiVu4SKpdSxjAzV",
+      "musicbrainz_release_id": "e773abb2-0c76-40b4-a387-5d69516d6031",
+      "musicbrainz_release_group_id": "96c1d908-a6be-3361-8a4b-1ca52d9626e6"
     }
   ],
   "top_tracks": [
     {
+      "canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix",
+      "name": "Ain't That Funkin' Kinda Hard on You? - We Ain't Neva Gonna Stop Remix",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix-feat-kendrick-lamar-and-ice-cube-single",
+      "release_name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar \u0026 Ice Cube] - Single",
+      "spotify_track_id": "6SgQIoLn8kpu8J4wfwGWy8",
+      "spotify_url": "https://open.spotify.com/track/6SgQIoLn8kpu8J4wfwGWy8"
+    },
+    {
       "canonical_slug": "funkadelic--back-in-our-minds",
       "name": "Back In Our Minds",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--maggot-brain",
@@ -138,9 +227,53 @@
       "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
     },
     {
+      "canonical_slug": "funkadelic--i-ll-bet-you",
+      "name": "I'll Bet You",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--funkadelic",
+      "release_name": "Funkadelic",
+      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
+      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
+    },
+    {
+      "canonical_slug": "funkadelic--super-stupid",
+      "name": "Super Stupid",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "2X6qfjDzhKQA7UqhzyJrQP",
+      "spotify_url": "https://open.spotify.com/track/2X6qfjDzhKQA7UqhzyJrQP"
+    },
+    {
+      "canonical_slug": "funkadelic--be-my-beach",
+      "name": "Be My Beach",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "release_name": "Let's Take It To The Stage",
+      "spotify_track_id": "0fCBIzIXCGlB9PXjkRqZb3",
+      "spotify_url": "https://open.spotify.com/track/0fCBIzIXCGlB9PXjkRqZb3"
+    },
+    {
+      "canonical_slug": "funkadelic--better-by-the-pound",
+      "name": "Better By The Pound",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "release_name": "Let's Take It To The Stage",
+      "spotify_track_id": "12SLHj991Ym8J3ASHg2DAy",
+      "spotify_url": "https://open.spotify.com/track/12SLHj991Ym8J3ASHg2DAy"
+    },
+    {
       "canonical_slug": "funkadelic--biological-speculation",
       "name": "Biological Speculation",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--america-eats-its-young",
@@ -151,7 +284,7 @@
     {
       "canonical_slug": "funkadelic--can-you-get-to-that",
       "name": "Can You Get To That",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--maggot-brain",
@@ -160,81 +293,26 @@
       "spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
     },
     {
-      "canonical_slug": "funkadelic--hit-it-and-quit-it",
-      "name": "Hit It and Quit It",
-      "play_count": 1,
+      "canonical_slug": "funkadelic--cosmic-slop",
+      "name": "Cosmic Slop",
+      "play_count": 2,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--maggot-brain",
-      "release_name": "Maggot Brain",
-      "spotify_track_id": "2w7R3CQgvl8PIKJlwtT9Mv",
-      "spotify_url": "https://open.spotify.com/track/2w7R3CQgvl8PIKJlwtT9Mv"
+      "release_canonical_slug": "funkadelic--cosmic-slop",
+      "release_name": "Cosmic Slop",
+      "spotify_track_id": "4ZdqnIpnuiC5Z4C88HAD7T",
+      "spotify_url": "https://open.spotify.com/track/4ZdqnIpnuiC5Z4C88HAD7T"
     },
     {
-      "canonical_slug": "funkadelic--i-ll-bet-you",
-      "name": "I'll Bet You",
-      "play_count": 1,
+      "canonical_slug": "funkadelic--get-off-your-ass-and-jam",
+      "name": "Get Off Your Ass And Jam",
+      "play_count": 2,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--funkadelic",
-      "release_name": "Funkadelic",
-      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
-      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
-    },
-    {
-      "canonical_slug": "funkadelic--i-ll-stay",
-      "name": "I'll Stay",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
-      "release_name": "Standing On The Verge Of Getting It On",
-      "spotify_track_id": "5ZjLReKZ5EErHjlblKedFv",
-      "spotify_url": "https://open.spotify.com/track/5ZjLReKZ5EErHjlblKedFv"
-    },
-    {
-      "canonical_slug": "funkadelic--maggot-brain",
-      "name": "Maggot Brain",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--maggot-brain",
-      "release_name": "Maggot Brain",
-      "spotify_track_id": "5WJU527RQNyMLuKecjsL8V",
-      "spotify_url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
-    },
-    {
-      "canonical_slug": "funkadelic--super-stupid",
-      "name": "Super Stupid",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--maggot-brain",
-      "release_name": "Maggot Brain",
-      "spotify_track_id": "2X6qfjDzhKQA7UqhzyJrQP",
-      "spotify_url": "https://open.spotify.com/track/2X6qfjDzhKQA7UqhzyJrQP"
-    },
-    {
-      "canonical_slug": "funkadelic--wars-of-armageddon",
-      "name": "Wars Of Armageddon",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--maggot-brain",
-      "release_name": "Maggot Brain",
-      "spotify_track_id": "5kyqgKXp6HdMXdNMsp22EJ",
-      "spotify_url": "https://open.spotify.com/track/5kyqgKXp6HdMXdNMsp22EJ"
-    },
-    {
-      "canonical_slug": "funkadelic--you-and-your-folks-me-and-my-folks",
-      "name": "You And Your Folks, Me And My Folks",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--maggot-brain",
-      "release_name": "Maggot Brain",
-      "spotify_track_id": "1alxqrqIYG7YIlaCmwzl6p",
-      "spotify_url": "https://open.spotify.com/track/1alxqrqIYG7YIlaCmwzl6p"
+      "release_canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "release_name": "Let's Take It To The Stage",
+      "spotify_track_id": "6iIWTfBSFDcQU0WnDyvN7i",
+      "spotify_url": "https://open.spotify.com/track/6iIWTfBSFDcQU0WnDyvN7i"
     }
   ],
   "source_refs": [
@@ -243,6 +321,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -264,7 +348,7 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-01T02:26:13.421Z",
+      "updated_at": "2026-03-08T19:43:21.144Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],

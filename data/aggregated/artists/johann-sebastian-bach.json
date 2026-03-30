@@ -1,7 +1,9 @@
 {
   "canonical_slug": "johann-sebastian-bach",
   "name": "Johann Sebastian Bach",
+  "play_count": 235,
   "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+  "musicbrainz_artist_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
   "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
   "genres": [
     "classical",
@@ -128,5 +130,5 @@
       "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

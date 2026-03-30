@@ -1,0 +1,106 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0F3Aew9DSd6fb6192K1K0Y",
+  "name": "Keith Jarrett",
+  "spotify_url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y",
+  "musicbrainz_artist_id": "061c4920-3ea6-4835-98f6-02f3b82f5e3a",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Keith Jarrett",
+  "summary": "Keith Jarrett is an American pianist and composer. Jarrett started his career with Art Blakey and later moved on to play with Charles Lloyd and Miles Davis. Since the early 1970s, he has also been a group leader and solo performer in jazz, jazz fusion, and classical music. His improvisations draw from the traditions of jazz and other genres, including Western classical music, gospel, blues, and ethnic folk music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Keith_Jarrett",
+  "candidates": [
+    "Keith Barret",
+    "Keith Jarrett",
+    "Keith Jarrett (rugby)",
+    "Keith Jarrett at the Blue Note",
+    "Keith Jarrett discography",
+    "Keith Starrett",
+    "Keith Terrett",
+    "The Keith Barret Show"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Keith Jarrett",
+    "page_url": "https://en.wikipedia.org/wiki/Keith_Jarrett",
+    "retrieved_at": "2026-03-28T10:40:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Keith Jarrett-140908-0009WP.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Keith_Jarrett-140908-0009WP.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Keith_Jarrett-140908-0009WP.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Keith_Jarrett-140908-0009WP.jpg/960px-Keith_Jarrett-140908-0009WP.jpg",
+    "width": 1024,
+    "height": 683,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:JPRoche\" title=\"User:JPRoche\"\u003eJPRoche\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Keith Jarrett-140908-0009WP.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Keith_Jarrett-140908-0009WP.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Keith_Jarrett-140908-0009WP.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Keith_Jarrett-140908-0009WP.jpg/960px-Keith_Jarrett-140908-0009WP.jpg",
+      "width": 1024,
+      "height": 683,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:JPRoche\" title=\"User:JPRoche\"\u003eJPRoche\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Keith Jarrett-commons.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Keith_Jarrett-commons.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Keith_Jarrett-commons.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Keith_Jarrett-commons.jpg/960px-Keith_Jarrett-commons.jpg",
+      "width": 3456,
+      "height": 2360,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bruchez/\"\u003eOlivier Bruchez\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Keith Jarrett.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Keith_Jarrett.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Keith_Jarrett.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Keith_Jarrett.jpg",
+      "width": 935,
+      "height": 1106,
+      "license": "Public domain",
+      "author": "Published by \u003ca href=\"https://en.wikipedia.org/wiki/American_Broadcasting_Company\" class=\"extiw\" title=\"w:American Broadcasting Company\"\u003eABC\u003c/a\u003e/\u003ca href=\"https://en.wikipedia.org/wiki/Impulse!_Records\" class=\"extiw\" title=\"w:Impulse! Records\"\u003eImpulse! Records\u003c/a\u003e. Photographer uncredited and unknown."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Keith Jarrett Trio - Montreal Concert July 1 2007 03.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Keith_Jarrett_Trio_-_Montreal_Concert_July_1_2007_03.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Keith_Jarrett_Trio_-_Montreal_Concert_July_1_2007_03.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Keith_Jarrett_Trio_-_Montreal_Concert_July_1_2007_03.jpg/960px-Keith_Jarrett_Trio_-_Montreal_Concert_July_1_2007_03.jpg",
+      "width": 4280,
+      "height": 2675,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Zen4Ever\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Zen4Ever (page does not exist)\"\u003ePierre Marshall\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Miles Davis-140916-0018-105WP.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Miles_Davis-140916-0018-105WP.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Miles_Davis-140916-0018-105WP.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Miles_Davis-140916-0018-105WP.jpg/960px-Miles_Davis-140916-0018-105WP.jpg",
+      "width": 1024,
+      "height": 683,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:JPRoche\" title=\"User:JPRoche\"\u003eJPRoche\u003c/a\u003e"
+    }
+  ]
+}

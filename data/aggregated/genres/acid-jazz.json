@@ -6,7 +6,8 @@
   "aliases": [
     "acid jazz"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Acid jazz",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Acid_jazz",
@@ -102,32 +103,65 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-08T20:38:10.244Z",
+    "play_count": 3,
+    "unique_artist_count": 2,
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2024-01-01T00:00:00.644608552Z",
     "last_played_at": "2026-03-08T20:38:10.244Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "thundercat",
+      "name": "Thundercat",
+      "play_count": 2,
+      "spotify_artist_id": "4frXpPxQQZwbCu3eTGnZEw",
+      "musicbrainz_artist_id": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+      "spotify_url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+    },
     {
       "canonical_slug": "us3",
       "name": "Us3",
       "play_count": 1,
       "spotify_artist_id": "4LtIfuFeAamus9OOItuWDD",
+      "musicbrainz_artist_id": "b370defd-86cc-42f3-85b4-7c2a8305c04a",
       "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "thundercat--drunk",
+      "name": "Drunk",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "thundercat",
+      "primary_artist_name": "Thundercat",
+      "spotify_album_id": "7vHBQDqwzB7uDvoE5bncMM",
+      "musicbrainz_release_id": "e0841f2c-44c9-4541-b8bb-0b5b58a6ecc3",
+      "musicbrainz_release_group_id": "f0c89a63-6cb0-4b5f-9ced-79396b58a191"
+    },
+    {
       "canonical_slug": "us3--hand-on-the-torch",
       "name": "Hand On The Torch",
       "play_count": 1,
       "primary_artist_canonical_slug": "us3",
-      "primary_artist_name": "Us3"
+      "primary_artist_name": "Us3",
+      "spotify_album_id": "3lOv4MWFZGIJmHdyMXtlB5",
+      "musicbrainz_release_id": "cac45e5d-008f-31ac-a9a2-8d8c2f4c22f2",
+      "musicbrainz_release_group_id": "8ed94489-830c-3a86-9772-f9a84354ff43"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "thundercat--walk-on-by",
+      "name": "Walk On By",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "thundercat",
+      "primary_artist_name": "Thundercat",
+      "release_canonical_slug": "thundercat--drunk",
+      "release_name": "Drunk",
+      "spotify_track_id": "6fkL9CjWmjeV6vfDxTp9OZ",
+      "spotify_url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+    },
     {
       "canonical_slug": "us3--cantaloop-flip-fantasia",
       "name": "Cantaloop (Flip Fantasia)",
@@ -146,6 +180,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

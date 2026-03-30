@@ -4,6 +4,9 @@
   "name": "As We Enter",
   "primary_artist_name": "Nas",
   "primary_artist_canonical_slug": "nas",
+  "additional_artist_slugs": [
+    "damian-marley"
+  ],
   "release_name": "Distant Relatives",
   "release_canonical_slug": "nas--distant-relatives",
   "spotify_url": "https://open.spotify.com/track/4rLsbV5mXnwyn5JWpmHoys"

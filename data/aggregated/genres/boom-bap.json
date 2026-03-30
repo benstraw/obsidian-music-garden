@@ -6,7 +6,8 @@
   "aliases": [
     "boom bap"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Boom bap",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Boom_bap",
@@ -31,11 +32,11 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 7,
-    "unique_artist_count": 3,
-    "unique_release_count": 3,
-    "unique_track_count": 4,
-    "first_played_at": "2026-03-03T11:43:47.751Z",
+    "play_count": 11,
+    "unique_artist_count": 4,
+    "unique_release_count": 5,
+    "unique_track_count": 6,
+    "first_played_at": "2024-01-01T00:00:00.120883913Z",
     "last_played_at": "2026-03-11T05:02:16.250Z"
   },
   "top_artists": [
@@ -44,20 +45,31 @@
       "name": "Raekwon",
       "play_count": 4,
       "spotify_artist_id": "2yQf6b8hxahZaT5dHlWaB1",
+      "musicbrainz_artist_id": "4e954b02-fae2-4bd7-9547-e055a6ac0527",
       "spotify_url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
     },
     {
       "canonical_slug": "gza",
       "name": "GZA",
-      "play_count": 2,
+      "play_count": 3,
       "spotify_artist_id": "6ns6XAOsw4B0nDUIovAOUO",
+      "musicbrainz_artist_id": "d0357dbf-e0fd-4354-897f-e7375cccd400",
       "spotify_url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+    },
+    {
+      "canonical_slug": "jid",
+      "name": "JID",
+      "play_count": 3,
+      "spotify_artist_id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+      "musicbrainz_artist_id": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+      "spotify_url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
     },
     {
       "canonical_slug": "big-l",
       "name": "Big L",
       "play_count": 1,
       "spotify_artist_id": "30fiiwr2EeZp1tAhzYCmyM",
+      "musicbrainz_artist_id": "f1c0d18c-6101-4aa2-ae47-8df5b7280fde",
       "spotify_url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
     }
   ],
@@ -67,21 +79,50 @@
       "name": "Only Built 4 Cuban Linx...",
       "play_count": 4,
       "primary_artist_canonical_slug": "raekwon",
-      "primary_artist_name": "Raekwon"
+      "primary_artist_name": "Raekwon",
+      "spotify_album_id": "7btiyhWzUfzxN3ijSiBpC8",
+      "musicbrainz_release_id": "876f4c16-f0e1-40db-8586-87884d49b70d",
+      "musicbrainz_release_group_id": "ab981b48-9a7b-34c4-b46a-f6266317ce7c"
     },
     {
       "canonical_slug": "gza--liquid-swords",
       "name": "Liquid Swords",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "gza",
-      "primary_artist_name": "GZA"
+      "primary_artist_name": "GZA/Genius",
+      "spotify_album_id": "3k8xoyOXkGgZxUKgpmxz4P",
+      "musicbrainz_release_id": "b191e94b-a9f5-4f82-9e05-4ee530577c72",
+      "musicbrainz_release_group_id": "3e56d123-8b66-47f1-912a-e2e4cda69c5e"
+    },
+    {
+      "canonical_slug": "jid--the-never-story",
+      "name": "The Never Story",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "spotify_album_id": "1gPqbxhs90kppgOVxGOPzd",
+      "musicbrainz_release_id": "86bcf6ff-83dd-4d89-939f-bea35db48e75",
+      "musicbrainz_release_group_id": "ec456434-681a-4c7b-9030-6725048f0885"
+    },
+    {
+      "canonical_slug": "jid--hey-tony",
+      "name": "HEY TONY!",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "spotify_album_id": "2zs0GVCzgBvCtDBSdRn8Q9",
+      "musicbrainz_release_id": "1a4bc073-0163-4cf6-9eba-d32f8dbb3b0c",
+      "musicbrainz_release_group_id": "57cf0f08-3b29-4db9-a19c-9a2d62ea0e00"
     },
     {
       "canonical_slug": "big-l--lifestylez-ov-da-poor-and-dangerous",
       "name": "Lifestylez Ov Da Poor \u0026 Dangerous",
       "play_count": 1,
       "primary_artist_canonical_slug": "big-l",
-      "primary_artist_name": "Big L"
+      "primary_artist_name": "Big L",
+      "spotify_album_id": "7xvBUHu5jJ7X0wdRHudLFD",
+      "musicbrainz_release_id": "9f06636b-affd-4900-b8ad-c8b0892fdf2f",
+      "musicbrainz_release_group_id": "9a29e57d-dd1c-35c1-bb05-d220bcb656d6"
     }
   ],
   "top_tracks": [
@@ -99,13 +140,35 @@
     {
       "canonical_slug": "gza--liquid-swords",
       "name": "Liquid Swords",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "gza",
       "primary_artist_name": "GZA",
       "release_canonical_slug": "gza--liquid-swords",
       "release_name": "Liquid Swords",
       "spotify_track_id": "4dmh3OPtAhbEybhGoOG9TE",
       "spotify_url": "https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE"
+    },
+    {
+      "canonical_slug": "jid--never",
+      "name": "NEVER",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "release_canonical_slug": "jid--the-never-story",
+      "release_name": "The Never Story",
+      "spotify_track_id": "7hsulgRNgbyczeAg8tChCB",
+      "spotify_url": "https://open.spotify.com/track/7hsulgRNgbyczeAg8tChCB"
+    },
+    {
+      "canonical_slug": "jid--hey-tony",
+      "name": "HEY TONY!",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "release_canonical_slug": "jid--hey-tony",
+      "release_name": "HEY TONY!",
+      "spotify_track_id": "6KTY8qMXOFKfPUXXrdm0JA",
+      "spotify_url": "https://open.spotify.com/track/6KTY8qMXOFKfPUXXrdm0JA"
     },
     {
       "canonical_slug": "raekwon--ice-cream-feat-ghostface-killah-method-man-and-cappadonna",
@@ -136,6 +199,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

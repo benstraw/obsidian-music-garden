@@ -1,0 +1,86 @@
+{
+  "canonical_slug": "ry-cooder",
+  "name": "Ry Cooder",
+  "spotify_artist_id": "1CPwHx5lgVxv0rfcp7UXLx",
+  "musicbrainz_artist_id": "a4e2650b-938b-4b72-95bc-6e229cd34601",
+  "spotify_url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx",
+  "genres": [
+    "americana",
+    "country-rock",
+    "folk",
+    "rock",
+    "soundtrack"
+  ],
+  "source_genres": [
+    "americana",
+    "classic pop and rock",
+    "film soundtrack",
+    "folk",
+    "guitar",
+    "rock",
+    "roots rock",
+    "ry cooder",
+    "soundtrack"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ry Cooder",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ry_Cooder",
+  "summary": "Ryland Peter Cooder is an American musician, songwriter, film score composer, record producer, and writer. He is a multi-instrumentalist but is best known for his slide guitar work, his interest in traditional music, and his collaborations with traditional musicians from many countries.",
+  "candidates": [
+    "Ray Cooper",
+    "Ray Cooper (singer-songwriter)",
+    "Ray Cooper III",
+    "Roy Cooper",
+    "Roy Cooper (West Virginia politician)",
+    "Roy Cooper (rodeo cowboy)",
+    "Ry Cooder",
+    "Ry Cooder (album)",
+    "Ry Cooder and Ali Farka Toure",
+    "Ry Cooder and V.M. Bhatt"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ry Cooder",
+    "page_url": "https://en.wikipedia.org/wiki/Ry_Cooder",
+    "retrieved_at": "2026-03-28T10:42:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ry Cooder 19Aug2015 (2).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ry_Cooder_19Aug2015_(2).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ry_Cooder_19Aug2015_%282%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ry_Cooder_19Aug2015_%282%29.jpg/960px-Ry_Cooder_19Aug2015_%282%29.jpg",
+    "width": 2500,
+    "height": 1875,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Steve_Proctor\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Steve Proctor (page does not exist)\"\u003eSteve Proctor\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ry Cooder 19Aug2015 (2).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ry_Cooder_19Aug2015_(2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ry_Cooder_19Aug2015_%282%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ry_Cooder_19Aug2015_%282%29.jpg/960px-Ry_Cooder_19Aug2015_%282%29.jpg",
+      "width": 2500,
+      "height": 1875,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Steve_Proctor\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Steve Proctor (page does not exist)\"\u003eSteve Proctor\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ry Cooder playing.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ry_Cooder_playing.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ry_Cooder_playing.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ry_Cooder_playing.jpg",
+      "width": 863,
+      "height": 1280,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Dani Canto"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6LXadMatlf17dDrWzJO9eL",
   "name": "New Skin For The Old Ceremony",
   "primary_artist_name": "Leonard Cohen",
-  "primary_artist_canonical_slug": "leonard-cohen"
+  "primary_artist_canonical_slug": "leonard-cohen",
+  "musicbrainz_release_id": "90ad5a1e-2142-3d58-9b81-c4d1a198d3d9",
+  "musicbrainz_release_group_id": "713b95c0-6259-33a5-9711-6bb791e15e3e"
 }

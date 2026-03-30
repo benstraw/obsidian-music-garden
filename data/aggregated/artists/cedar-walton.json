@@ -1,0 +1,88 @@
+{
+  "canonical_slug": "cedar-walton",
+  "name": "Cedar Walton",
+  "play_count": 5,
+  "spotify_artist_id": "7DCTgrI6aDK3nBRZm5RUKT",
+  "musicbrainz_artist_id": "115474d3-9d44-4c96-b5d0-00891187c6e8",
+  "spotify_url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "hard bop",
+    "jazz",
+    "post-bop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/cc482689cd9930d30148e8a2cb40c9bd66b59521",
+      "height": 468,
+      "width": 624
+    },
+    {
+      "url": "https://i.scdn.co/image/1a82c43265c5781c249c4c4db3d563773f326d12",
+      "height": 150,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/713cfce41081cb6735d75e477d4b8aecdd93d751",
+      "height": 48,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Cedar Walton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cedar_Walton",
+  "summary": "Cedar Anthony Walton Jr. was an American hard bop jazz pianist. He came to prominence as a member of drummer Art Blakey's band, The Jazz Messengers, before establishing a long career as a bandleader and composer. Several of his compositions have become jazz standards, including \"Mosaic\", \"Bolivia\", \"Holy Land\", \"Mode for Joe\" and \"Ugetsu/Fantasy in D\".",
+  "candidates": [
+    "Cedar Walton",
+    "Cedar Walton (album)",
+    "Cedar Walton Plays",
+    "Cedar Walton at Maybeck",
+    "Cedardale, Ontario"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cedar Walton",
+    "page_url": "https://en.wikipedia.org/wiki/Cedar_Walton",
+    "retrieved_at": "2026-03-28T10:38:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cedar Walton Dachau 2001.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cedar_Walton_Dachau_2001.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cedar_Walton_Dachau_2001.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cedar_Walton_Dachau_2001.JPG/960px-Cedar_Walton_Dachau_2001.JPG",
+    "width": 1024,
+    "height": 768,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sven.petersen\" title=\"User:Sven.petersen\"\u003eSven.petersen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cedar Walton Dachau 2001.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cedar_Walton_Dachau_2001.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cedar_Walton_Dachau_2001.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cedar_Walton_Dachau_2001.JPG/960px-Cedar_Walton_Dachau_2001.JPG",
+      "width": 1024,
+      "height": 768,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sven.petersen\" title=\"User:Sven.petersen\"\u003eSven.petersen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

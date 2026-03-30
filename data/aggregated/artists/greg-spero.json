@@ -1,0 +1,80 @@
+{
+  "canonical_slug": "greg-spero",
+  "name": "Greg Spero",
+  "play_count": 3,
+  "spotify_artist_id": "0zimAUeLZD9gEVSEgc9RRd",
+  "musicbrainz_artist_id": "ffb38c23-c8c0-4178-bd5d-e3d9aa3d0dd7",
+  "spotify_url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd1e28d5bda40e942b2cf816",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174fd1e28d5bda40e942b2cf816",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178fd1e28d5bda40e942b2cf816",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Greg Spero",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Spero",
+  "summary": "Greg Spero is an American pianist from Highland Park, Illinois. He has toured with Halsey and the Miles Electric Band and has composed music for film and television. He leads the jazz band Spirit Fingers,. He also runs a label called Tiny Room, which runs live streamed sessions from its studio in Los Angeles and has been featured on NPR Live Sessions. When the coronavirus pandemic caused live music to cease in 2020, he launched a startup called weeBID which is the first fan initiated crowd funding platform. Spero was described as \"a new breed of record exec, at the vanguard of big changes in music industry\". He outlined his vision for weeBID at the Center for Creative Entrepreneurship, Chicago in August 2021.",
+  "candidates": [
+    "Greg Perry (musician)",
+    "Greg Persinger",
+    "Greg Proops",
+    "Greg Serano",
+    "Greg Sheridan",
+    "Greg Spero",
+    "Greg Spires",
+    "Greg Sprink",
+    "Greg Stroman",
+    "Greg Strong"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Greg Spero",
+    "page_url": "https://en.wikipedia.org/wiki/Greg_Spero",
+    "retrieved_at": "2026-03-28T10:39:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gregspero-newswag.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gregspero-newswag.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gregspero-newswag.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gregspero-newswag.jpg/960px-Gregspero-newswag.jpg",
+    "width": 5834,
+    "height": 3284,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Gns13\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Gns13 (page does not exist)\"\u003eGns13\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gregspero-newswag.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gregspero-newswag.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gregspero-newswag.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gregspero-newswag.jpg/960px-Gregspero-newswag.jpg",
+      "width": 5834,
+      "height": 3284,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Gns13\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Gns13 (page does not exist)\"\u003eGns13\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

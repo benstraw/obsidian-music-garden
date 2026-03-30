@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "c-c-t-v",
+  "name": "C.C.T.V.",
+  "spotify_artist_id": "2NOMQ8DSgRAEOOOJNFz3nl",
+  "spotify_url": "https://open.spotify.com/artist/2NOMQ8DSgRAEOOOJNFz3nl",
+  "source_genres": [
+    "egg punk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737bd03fab3f591990e04975b0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027bd03fab3f591990e04975b0",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517bd03fab3f591990e04975b0",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

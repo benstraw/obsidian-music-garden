@@ -1,0 +1,13 @@
+{
+  "source": "spotify",
+  "source_track_id": "7n1ArcD6WVYFVC21ZtFr9A",
+  "name": "Who Is Stevie?",
+  "primary_artist_name": "Albert King",
+  "primary_artist_canonical_slug": "albert-king",
+  "additional_artist_slugs": [
+    "stevie-ray-vaughan"
+  ],
+  "release_name": "In Session",
+  "release_canonical_slug": "albert-king--in-session",
+  "spotify_url": "https://open.spotify.com/track/7n1ArcD6WVYFVC21ZtFr9A"
+}

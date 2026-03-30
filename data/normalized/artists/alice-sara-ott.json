@@ -1,0 +1,71 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0d6alfZHUx3xoRnPjkTL7Q",
+  "name": "Alice Sara Ott",
+  "spotify_url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q",
+  "musicbrainz_artist_id": "67fe97e3-3d7b-4b8f-ad14-b753f73e6515",
+  "source_genres": [
+    "classical",
+    "german",
+    "german-japanese",
+    "japanese",
+    "pianist",
+    "piano"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Alice Sara Ott",
+  "summary": "Alice Sara Ott  is a German pianist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Alice_Sara_Ott",
+  "candidates": [
+    "Alice Arnott",
+    "Alice Carlotta Jackson",
+    "Alice Maria Ottley",
+    "Alice Parrott",
+    "Alice Sara Ott",
+    "Alice Sarah Tyler"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alice Sara Ott",
+    "page_url": "https://en.wikipedia.org/wiki/Alice_Sara_Ott",
+    "retrieved_at": "2026-03-28T10:37:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alice Sara Ott (2011) (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alice_Sara_Ott_(2011)_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Alice_Sara_Ott_%282011%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Alice_Sara_Ott_%282011%29_%28cropped%29.jpg/960px-Alice_Sara_Ott_%282011%29_%28cropped%29.jpg",
+    "width": 1160,
+    "height": 1502,
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:1971markus\" class=\"extiw\" title=\"de:Benutzer:1971markus\"\u003e\u003cfont face=\"Comic Sans MS\"\u003e1971markus\u003c/font\u003e\u003c/a\u003e  \u003ca href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:1971markus\" class=\"extiw\" title=\"de:Benutzer Diskussion:1971markus\"\u003e (☠) \u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alice Sara Ott (2011) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alice_Sara_Ott_(2011)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Alice_Sara_Ott_%282011%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Alice_Sara_Ott_%282011%29_%28cropped%29.jpg/960px-Alice_Sara_Ott_%282011%29_%28cropped%29.jpg",
+      "width": 1160,
+      "height": 1502,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:1971markus\" class=\"extiw\" title=\"de:Benutzer:1971markus\"\u003e\u003cfont face=\"Comic Sans MS\"\u003e1971markus\u003c/font\u003e\u003c/a\u003e  \u003ca href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:1971markus\" class=\"extiw\" title=\"de:Benutzer Diskussion:1971markus\"\u003e (☠) \u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alice Sara Ott - Signature.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alice_Sara_Ott_-_Signature.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Alice_Sara_Ott_-_Signature.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alice_Sara_Ott_-_Signature.jpg/960px-Alice_Sara_Ott_-_Signature.jpg",
+      "width": 3843,
+      "height": 1456,
+      "license": "Public domain",
+      "author": "Alice Sara Ott"
+    }
+  ]
+}

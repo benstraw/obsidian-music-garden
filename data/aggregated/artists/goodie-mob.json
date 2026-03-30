@@ -1,7 +1,9 @@
 {
   "canonical_slug": "goodie-mob",
   "name": "Goodie Mob",
+  "play_count": 1,
   "spotify_artist_id": "3F2Y683ovlWT53WKCeq0oj",
+  "musicbrainz_artist_id": "ade9b668-e38f-41a8-a6e5-51442c5d6468",
   "spotify_url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj",
   "genres": [
     "old-school-hip-hop",
@@ -86,5 +88,5 @@
       "author": "The 85 South Comedy Show"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

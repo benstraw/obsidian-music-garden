@@ -1,11 +1,14 @@
 {
   "canonical_slug": "tonez--fade",
   "name": "FADE",
+  "play_count": 2,
   "primary_artist_canonical_slug": "tonez",
   "primary_artist_name": "Tonez",
+  "additional_artist_slugs": [
+    "verdèzul"
+  ],
   "release_canonical_slug": "tonez--fade",
   "release_name": "Fade",
   "spotify_track_id": "2eFAwERVKXsecxPriMnBIF",
-  "spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF"
 }

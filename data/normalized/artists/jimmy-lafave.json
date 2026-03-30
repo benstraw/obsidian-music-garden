@@ -1,0 +1,69 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3PCC1w6AJvKLFpZbDJrsGe",
+  "name": "Jimmy LaFave",
+  "spotify_url": "https://open.spotify.com/artist/3PCC1w6AJvKLFpZbDJrsGe",
+  "musicbrainz_artist_id": "f9da337d-e622-42a1-85dc-8a3d79e5daf9",
+  "source_genres": [
+    "folk"
+  ],
+  "canonical_genre_slugs": [
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "Jimmy LaFave",
+  "summary": "Jimmy LaFave was an American singer-songwriter and folk musician. After moving to Stillwater, Oklahoma, LaFave became a supporter of Woody Guthrie. He later became an Advisory Board member and regular performer at the annual Woody Guthrie Folk Festival.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Jimmy_LaFave",
+  "candidates": [
+    "Jimmy LaFave",
+    "Jimmy Lavender",
+    "Jimmy Leaver"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jimmy LaFave",
+    "page_url": "https://en.wikipedia.org/wiki/Jimmy_LaFave",
+    "retrieved_at": "2026-03-28T10:39:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jimmy lafave 2012.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jimmy_lafave_2012.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Jimmy_lafave_2012.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jimmy_lafave_2012.jpg/960px-Jimmy_lafave_2012.jpg",
+    "width": 1200,
+    "height": 1800,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Nv8200pa\" class=\"extiw\" title=\"w:User:Nv8200pa\"\u003eLarry D. Moore\u003c/a\u003e",
+    "attribution_text": "Larry D. Moore"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jimmy lafave 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jimmy_lafave_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Jimmy_lafave_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jimmy_lafave_2012.jpg/960px-Jimmy_lafave_2012.jpg",
+      "width": 1200,
+      "height": 1800,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Nv8200pa\" class=\"extiw\" title=\"w:User:Nv8200pa\"\u003eLarry D. Moore\u003c/a\u003e",
+      "attribution_text": "Larry D. Moore"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LaFave-WoodyFest05.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LaFave-WoodyFest05.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/LaFave-WoodyFest05.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LaFave-WoodyFest05.jpg/960px-LaFave-WoodyFest05.jpg",
+      "width": 2065,
+      "height": 1030,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:MrFizyx\" class=\"extiw\" title=\"en:User:MrFizyx\"\u003eMrFizyx\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:MrFizyx\" class=\"extiw\" title=\"en:User:MrFizyx\"\u003eMrFizyx\u003c/a\u003e at the \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"en:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ]
+}

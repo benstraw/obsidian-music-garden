@@ -1,0 +1,37 @@
+{
+  "canonical_slug": "scarface",
+  "name": "Scarface",
+  "play_count": 3,
+  "spotify_artist_id": "19KwjzvIL92r29IINtlPNP",
+  "spotify_url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP",
+  "genres": [
+    "g-funk",
+    "gangster-rap",
+    "old-school-hip-hop",
+    "southern-hip-hop"
+  ],
+  "source_genres": [
+    "g-funk",
+    "gangster rap",
+    "old school hip hop",
+    "southern hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae0c2f874279460a00c476c6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ae0c2f874279460a00c476c6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ae0c2f874279460a00c476c6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

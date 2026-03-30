@@ -4,6 +4,9 @@
   "name": "I Know One",
   "primary_artist_name": "John Prine",
   "primary_artist_canonical_slug": "john-prine",
+  "additional_artist_slugs": [
+    "emmylou-harris"
+  ],
   "release_name": "In Spite Of Ourselves",
   "release_canonical_slug": "john-prine--in-spite-of-ourselves",
   "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"

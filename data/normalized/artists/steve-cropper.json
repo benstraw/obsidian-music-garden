@@ -1,0 +1,112 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1gLCO8HDtmhp1eWmGcPl8S",
+  "name": "Steve Cropper",
+  "spotify_url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S",
+  "musicbrainz_artist_id": "4387a8ed-8a80-453c-a863-73dc0b23900c",
+  "source_genres": [
+    "blues",
+    "electric blues",
+    "r\u0026b",
+    "soul",
+    "soul blues",
+    "southern soul"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Steve Cropper",
+  "summary": "Stephen Lee Cropper, sometimes known as \"The Colonel\", was an American guitarist, songwriter and record producer. He was the guitarist of the Stax Records house band, Booker T. \u0026 the M.G.'s, which backed artists such as Otis Redding, Wilson Pickett, Sam \u0026 Dave, Carla Thomas, Rufus Thomas, Johnnie Taylor and Neil Young. He also acted as the producer of many of these artists' records. He was later a member of the Blues Brothers band. Rolling Stone magazine ranked him 36th on its list of the 100 greatest guitarists. He won two Grammy Awards out of his seven nominations.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Steve_Cropper",
+  "candidates": [
+    "Stephen Hopper",
+    "Steve Cooper (football manager)",
+    "Steve Cooper (footballer, born 1964)",
+    "Steve Coppell",
+    "Steve Cowper",
+    "Steve Crocker",
+    "Steve Cropper",
+    "Steve Oppermann",
+    "Steve Roper and Mike Nomad",
+    "Steven Crowder"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Steve Cropper",
+    "page_url": "https://en.wikipedia.org/wiki/Steve_Cropper",
+    "retrieved_at": "2026-03-28T10:42:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Booker T. \u0026 the M.G's 1967 press photo.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Booker_T._%26_the_M.G%27s_1967_press_photo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Booker_T._%26_the_M.G%27s_1967_press_photo.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Booker_T._%26_the_M.G%27s_1967_press_photo.jpg/960px-Booker_T._%26_the_M.G%27s_1967_press_photo.jpg",
+    "width": 1000,
+    "height": 1000,
+    "license": "Public domain",
+    "author": "Stax Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Booker T. \u0026 the M.G's 1967 press photo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Booker_T._%26_the_M.G%27s_1967_press_photo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Booker_T._%26_the_M.G%27s_1967_press_photo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Booker_T._%26_the_M.G%27s_1967_press_photo.jpg/960px-Booker_T._%26_the_M.G%27s_1967_press_photo.jpg",
+      "width": 1000,
+      "height": 1000,
+      "license": "Public domain",
+      "author": "Stax Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guy Sebastian The Memphis Tour 7 Mar 2008.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guy_Sebastian_The_Memphis_Tour_7_Mar_2008.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Guy_Sebastian_The_Memphis_Tour_7_Mar_2008.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guy_Sebastian_The_Memphis_Tour_7_Mar_2008.JPG/960px-Guy_Sebastian_The_Memphis_Tour_7_Mar_2008.JPG",
+      "width": 2398,
+      "height": 1714,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003cp\u003eDianeSunshineCoast.\n\u003c/p\u003e\n\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:DianeSunshineCoast\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:DianeSunshineCoast (page does not exist)\"\u003eDianeSunshineCoast\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Steve Cropper.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Steve_Cropper.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Steve_Cropper.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Steve_Cropper.JPG/960px-Steve_Cropper.JPG",
+      "width": 2112,
+      "height": 3268,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Thomas Andersen"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Steve Cropper 1967 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Steve_Cropper_1967_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Steve_Cropper_1967_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Steve_Cropper_1967_%28cropped%29.jpg",
+      "width": 204,
+      "height": 321,
+      "license": "Public domain",
+      "author": "Stax Records"
+    }
+  ]
+}

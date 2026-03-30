@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "jackson-browne",
+  "name": "Jackson Browne",
+  "play_count": 4,
+  "spotify_artist_id": "5lkiCO9UQ8B23dZ1o0UV4m",
+  "musicbrainz_artist_id": "88527d26-7496-47c5-8358-ebdb1868a90f",
+  "spotify_url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m",
+  "genres": [
+    "folk",
+    "folk-rock",
+    "rock",
+    "singer-songwriter",
+    "soft-rock",
+    "yacht-rock"
+  ],
+  "source_genres": [
+    "aln-sh",
+    "classic pop and rock",
+    "folk",
+    "folk rock",
+    "multiple ipi",
+    "rock",
+    "singer-songwriter",
+    "soft rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebef4b0122d50775167339c7c2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ef4b0122d50775167339c7c2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ef4b0122d50775167339c7c2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Jackson Browne",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Browne",
+  "summary": "Clyde Jackson Browne is an American rock musician, singer, songwriter, and political activist who has sold over 30 million albums in the United States.",
+  "candidates": [
+    "Jackson Brothers",
+    "Jackson Brothers (professional wrestling)",
+    "Jackson Browne",
+    "Jackson Browne (album)",
+    "Jackson Browne - Solo Acoustic, Vol. 1",
+    "Jackson Browne discography",
+    "Jackson Rowe",
+    "Jackson baronets of Arlsey (1815)",
+    "Jackson baronets of The Manor House (1869)",
+    "Rowena Jackson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jackson Browne",
+    "page_url": "https://en.wikipedia.org/wiki/Jackson_Browne",
+    "retrieved_at": "2026-03-28T10:39:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Daryl Hannah \u0026 Jackson Browne.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Daryl_Hannah_%26_Jackson_Browne.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Daryl_Hannah_%26_Jackson_Browne.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Daryl_Hannah_%26_Jackson_Browne.jpg",
+    "width": 538,
+    "height": 735,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Alan Light",
+    "attribution_text": "photo by Alan Light"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Daryl Hannah \u0026 Jackson Browne.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Daryl_Hannah_%26_Jackson_Browne.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Daryl_Hannah_%26_Jackson_Browne.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Daryl_Hannah_%26_Jackson_Browne.jpg",
+      "width": 538,
+      "height": 735,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Alan Light",
+      "attribution_text": "photo by Alan Light"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JacksonBrowne3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JacksonBrowne3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/JacksonBrowne3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/JacksonBrowne3.jpg",
+      "width": 227,
+      "height": 291,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/48025847@N00\"\u003eJohn Edwards\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JacksonBrowne 1976.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JacksonBrowne_1976.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/JacksonBrowne_1976.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/JacksonBrowne_1976.jpg/960px-JacksonBrowne_1976.jpg",
+      "width": 1666,
+      "height": 1072,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Klaus Hiltsher"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jackson Browne-1980.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jackson Browne 2017.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jackson_Browne_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Jackson_Browne_2017.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jackson_Browne_2017.jpg/960px-Jackson_Browne_2017.jpg",
+      "width": 2000,
+      "height": 2700,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Justin Higuchi"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

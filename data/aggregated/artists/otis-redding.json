@@ -1,7 +1,9 @@
 {
   "canonical_slug": "otis-redding",
   "name": "Otis Redding",
+  "play_count": 9,
   "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+  "musicbrainz_artist_id": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
   "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm",
   "genres": [
     "blues",
@@ -10,9 +12,11 @@
   ],
   "source_genres": [
     "classic soul",
+    "funk soul",
     "motown",
     "soul",
-    "soul blues"
+    "soul blues",
+    "southern soul"
   ],
   "images": [
     {
@@ -124,5 +128,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Relbats\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Relbats (page does not exist)\"\u003eRelbats\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

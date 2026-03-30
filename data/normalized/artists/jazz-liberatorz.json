@@ -1,0 +1,20 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6wq0ypfSKR1Baqi4qoJWsq",
+  "name": "Jazz Liberatorz",
+  "spotify_url": "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq",
+  "musicbrainz_artist_id": "8f37dbd8-7000-47ce-9d80-50e305b6ef9d",
+  "source_genres": [
+    "downtempo",
+    "electronic",
+    "hip hop",
+    "instrumental",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "hip-hop",
+    "jazz"
+  ],
+  "status": "not_found"
+}

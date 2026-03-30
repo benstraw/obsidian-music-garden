@@ -1,0 +1,52 @@
+{
+  "canonical_slug": "pylon",
+  "name": "Pylon",
+  "play_count": 3,
+  "spotify_artist_id": "0eLbmh14uMx3VB0MPM1r4L",
+  "musicbrainz_artist_id": "5f895285-0598-4a03-a10f-ac171746ef45",
+  "spotify_url": "https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L",
+  "genres": [
+    "indie-rock",
+    "new-wave",
+    "post-punk",
+    "rock"
+  ],
+  "source_genres": [
+    "indie rock",
+    "new wave",
+    "post-punk",
+    "punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7fb4a0827e553cabae93945c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051747fb4a0827e553cabae93945c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1787fb4a0827e553cabae93945c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Pylon",
+    "Pylon (album)",
+    "Pylon (band)",
+    "Pylon (novel)",
+    "Pylon Peak (Wyoming)",
+    "Pylon Reenactment Society",
+    "Pylon turn",
+    "Pylons of Cádiz",
+    "Pylons of Messina",
+    "Pylons project"
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "dillard",
+  "name": "Dillard",
+  "play_count": 6,
+  "spotify_artist_id": "5nAvegaN5UuHkKfAo9a2kq",
+  "musicbrainz_artist_id": "43db7554-f047-4f39-bd15-47a9aa235970",
+  "spotify_url": "https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq",
+  "genres": [
+    "electronic",
+    "uk-garage"
+  ],
+  "source_genres": [
+    "downtempo",
+    "dubstep",
+    "electronic",
+    "electronica",
+    "trip hop",
+    "uk garage"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba953114caaeb138860446bb4",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a953114caaeb138860446bb4",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a953114caaeb138860446bb4",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Annie Dillard",
+    "Dillard",
+    "Dillard Bleu Devils and Lady Bleu Devils",
+    "Dillard University",
+    "Dillard's",
+    "Doug Dillard",
+    "Jill Dillard",
+    "Oliver W. Dillard",
+    "Ricky Dillard",
+    "The Dillards"
+  ],
+  "last_updated": "2026-03-28"
+}

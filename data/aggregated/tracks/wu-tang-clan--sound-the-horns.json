@@ -1,11 +1,17 @@
 {
   "canonical_slug": "wu-tang-clan--sound-the-horns",
   "name": "Sound The Horns",
+  "play_count": 2,
   "primary_artist_canonical_slug": "wu-tang-clan",
   "primary_artist_name": "Wu-Tang Clan",
+  "additional_artist_slugs": [
+    "sadat-x",
+    "inspectah-deck",
+    "u-god",
+    "rza"
+  ],
   "release_canonical_slug": "wu-tang-clan--chamber-music",
   "release_name": "Chamber Music",
   "spotify_track_id": "234QpD9ilHoJjnhCVd2fOW",
-  "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW"
 }

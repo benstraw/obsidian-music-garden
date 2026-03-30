@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4TPi1tGDVXCdQOjn4NSRaB",
   "name": "Cheat Codes",
   "primary_artist_name": "Danger Mouse",
-  "primary_artist_canonical_slug": "danger-mouse"
+  "primary_artist_canonical_slug": "danger-mouse",
+  "musicbrainz_release_id": "0449086e-94a7-4b53-857a-7f75f503ce52",
+  "musicbrainz_release_group_id": "3d4b56c0-0abf-4bea-a12e-99def53e306f"
 }

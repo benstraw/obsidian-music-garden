@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6KFVwdp9yZczVIVv4glWue",
   "name": "Townes Van Zandt",
   "primary_artist_name": "Townes Van Zandt",
-  "primary_artist_canonical_slug": "townes-van-zandt"
+  "primary_artist_canonical_slug": "townes-van-zandt",
+  "musicbrainz_release_id": "af77efc3-60eb-4d4b-b53f-9b7f95c36889",
+  "musicbrainz_release_group_id": "4801bedb-ca04-3aef-a520-798b799778d1"
 }

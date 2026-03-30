@@ -1,0 +1,106 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3crnzLy8R4lVwaigKEOz7V",
+  "name": "E-40",
+  "spotify_url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V",
+  "musicbrainz_artist_id": "a449973b-074b-4cf0-a4d6-f11fa2d1073f",
+  "source_genres": [
+    "gangsta rap",
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "E-40",
+  "summary": "Earl Tywone Stevens, better known by his stage name E-40, is an American rapper. Stevens is a founding member of the rap group the Click and the founder of Sick Wid It Records. He has released 27 studio albums to date, appeared on numerous movie soundtracks, and has also done guest appearances on a host of other rap albums. Initially an underground artist, his 1995 solo album In a Major Way opened him up to a wider audience. Beginning in 1998, he began collaborating with mainstream rappers outside the San Francisco Bay Area. He rose to higher mainstream popularity in 2006 with his single \"Tell Me When to Go\", which was produced by Lil Jon.",
+  "canonical_url": "https://en.wikipedia.org/wiki/E-40",
+  "candidates": [
+    "E 40",
+    "E 402",
+    "E-40",
+    "E-40 discography",
+    "E-40-07",
+    "E-400",
+    "E-4031",
+    "E40 (Torx)",
+    "E406",
+    "E407"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "E-40",
+    "page_url": "https://en.wikipedia.org/wiki/E-40",
+    "retrieved_at": "2026-03-28T10:38:43Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:E-40.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:E-40.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/E-40.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/E-40.jpg/960px-E-40.jpg",
+    "width": 1316,
+    "height": 1978,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66327609@N00\"\u003eGamerscore Blog\u003c/a\u003e from USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:E-40.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:E-40.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/E-40.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/E-40.jpg/960px-E-40.jpg",
+      "width": 1316,
+      "height": 1978,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66327609@N00\"\u003eGamerscore Blog\u003c/a\u003e from USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:E-40 sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:E-40_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/E-40_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/E-40_sig.svg/960px-E-40_sig.svg.png",
+      "width": 400,
+      "height": 283,
+      "license": "Public domain",
+      "author": "E-40"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of California.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_California.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/960px-Flag_of_California.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003cul\u003e\u003cli\u003e\u003cb\u003eOriginal: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/Donald_Graeme_Kelley\" class=\"extiw\" title=\"w:Donald Graeme Kelley\"\u003eDonald Graeme Kelley\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"https://en.wikipedia.org/wiki/User:DevinCook\" class=\"extiw\" title=\"en:User:DevinCook\"\u003eDevin Cook\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil Jon and E-40.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_Jon_and_E-40.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lil_Jon_and_E-40.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lil_Jon_and_E-40.jpg/960px-Lil_Jon_and_E-40.jpg",
+      "width": 3008,
+      "height": 2000,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66327609@N00\"\u003eGamerscore Blog\u003c/a\u003e from USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
+  ]
+}

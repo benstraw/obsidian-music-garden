@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "wire",
+  "name": "Wire",
+  "play_count": 36,
+  "spotify_artist_id": "2i8ynmFv4qgRksyDlBgi6d",
+  "musicbrainz_artist_id": "7f2a8098-50e3-451c-8696-c5d9f64f4762",
+  "spotify_url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d",
+  "genres": [
+    "art-rock",
+    "new-wave",
+    "post-punk",
+    "proto-punk"
+  ],
+  "source_genres": [
+    "art rock",
+    "new wave",
+    "post-punk",
+    "proto-punk",
+    "punk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb00807c5b63087591ca240643",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517400807c5b63087591ca240643",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17800807c5b63087591ca240643",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Wire",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wire",
+  "summary": "A wire is a flexible, round bar of metal. Wires are commonly formed by drawing the metal through a hole in a die or draw plate. Wire gauges come in various standard sizes, as expressed in terms of a gauge number or cross-sectional area.",
+  "candidates": [
+    "Wire",
+    "Wireless",
+    "Wireless Festival",
+    "Wireless ad hoc network",
+    "Wireless device radiation and health",
+    "Wireless network",
+    "Wireless power transfer",
+    "Wireless security",
+    "Wireless sensor network",
+    "Wiretapping"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wire",
+    "page_url": "https://en.wikipedia.org/wiki/Wire",
+    "retrieved_at": "2026-03-28T10:44:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox outdated content.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_outdated_content.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ambox_outdated_content.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ambox_outdated_content.svg/960px-Ambox_outdated_content.svg.png",
+    "width": 620,
+    "height": 620,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e, clock made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Tkgd2007\" title=\"User:Tkgd2007\"\u003eTkgd2007\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox outdated content.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_outdated_content.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ambox_outdated_content.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ambox_outdated_content.svg/960px-Ambox_outdated_content.svg.png",
+      "width": 620,
+      "height": 620,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e, clock made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Tkgd2007\" title=\"User:Tkgd2007\"\u003eTkgd2007\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Coaxial cable braided wire.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Coaxial_cable_braided_wire.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Coaxial_cable_braided_wire.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coaxial_cable_braided_wire.jpg/960px-Coaxial_cable_braided_wire.jpg",
+      "width": 3889,
+      "height": 1965,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Wtshymanski\" title=\"User:Wtshymanski\"\u003eWtshymanski\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Piano string detail2.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Piano_string_detail2.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Piano_string_detail2.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Piano_string_detail2.JPG",
+      "width": 960,
+      "height": 1280,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71156563@N00\"\u003eFrost Nova\u003c/a\u003e from Australia"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:RG-59.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:RG-59.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RG-59.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/RG-59.jpg",
+      "width": 705,
+      "height": 493,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sample cross-section of high tension power (pylon) line.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sample_cross-section_of_high_tension_power_(pylon)_line.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sample_cross-section_of_high_tension_power_%28pylon%29_line.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sample_cross-section_of_high_tension_power_%28pylon%29_line.jpg/960px-Sample_cross-section_of_high_tension_power_%28pylon%29_line.jpg",
+      "width": 1440,
+      "height": 1636,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:ClarkMills\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:ClarkMills (page does not exist)\"\u003eClarkMills\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

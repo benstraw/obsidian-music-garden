@@ -1,0 +1,55 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1VX6zud00ONkupTmimRl71",
+  "name": "Tony the Tiger",
+  "spotify_url": "https://open.spotify.com/artist/1VX6zud00ONkupTmimRl71",
+  "musicbrainz_artist_id": "25915b3f-a8b0-4345-86bb-d377c8158ee1",
+  "status": "matched",
+  "page_title": "Tony the Tiger",
+  "summary": "Tony the Tiger is the advertising cartoon anthropomorphic tiger mascot for Frosted Flakes breakfast cereal, appearing on its packaging and advertising. After the original Kellogg Company spun off its North American cereal business in late 2023, the mascot is owned by WK Kellogg Co in the U.S., Canada, and Caribbean markets and by Kellanova in the rest of the world. Tony has also been the mascot for related cereals such as Tony's Cinnamon Krunchers and Tiger Power. Since Tony's debut in 1952, the character has spanned several generations and has become a breakfast cereal icon.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Tony_the_Tiger",
+  "candidates": [
+    "Tom the tiger",
+    "Toni the Tigress",
+    "Tony The Tiger (boxer)",
+    "Tony the Tiger",
+    "Tony the Tiger (disambiguation)",
+    "Tony the Tiger Sun Bowl"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tony the Tiger",
+    "page_url": "https://en.wikipedia.org/wiki/Tony_the_Tiger",
+    "retrieved_at": "2026-03-28T10:43:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tony the Tiger (Kellogg's Frosted Flakes' mascot).jpg"
+    }
+  ]
+}

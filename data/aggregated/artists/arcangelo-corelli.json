@@ -1,0 +1,119 @@
+{
+  "canonical_slug": "arcangelo-corelli",
+  "name": "Arcangelo Corelli",
+  "play_count": 15,
+  "spotify_artist_id": "5dmMpIyAVaH6b9FLFgWPrF",
+  "musicbrainz_artist_id": "a3546087-fe59-47d3-a3a8-42d58e2573c7",
+  "spotify_url": "https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "baroque",
+    "classical",
+    "composer",
+    "italian composer"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/53d4319bb9f9621d8ad12a6228c42c1433070d2d",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/0ae0253fe36151eea5dc09fb5731004c416c7a23",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/f1fdbb55f74fb6967e894ddd3d4070b5d81c15b7",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/c88dd3c3f0f3214c551a3fd2f0b13c8e58e8b310",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Arcangelo Corelli",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
+  "summary": "Arcangelo Corelli was an Italian composer, musician, and violinist of the middle Baroque era. His music was key in the development of the modern genres of sonata and concerto, in establishing the preeminence of the violin, and as the first coalescing of modern tonality and functional harmony.",
+  "candidates": [
+    "Arcangelo Corelli"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Arcangelo Corelli",
+    "page_url": "https://en.wikipedia.org/wiki/Arcangelo_Corelli",
+    "retrieved_at": "2026-03-28T10:37:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Arcangelo Corelli, by Hugh Howard OXM310282.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli,_by_Hugh_Howard_OXM310282.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Arcangelo_Corelli%2C_by_Hugh_Howard_OXM310282.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Arcangelo_Corelli%2C_by_Hugh_Howard_OXM310282.jpg",
+    "width": 899,
+    "height": 1200,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Hugh_Howard_(painter)\" class=\"extiw\" title=\"w:en:Hugh Howard (painter)\"\u003e\u003cspan title=\"Irish artist (1675-1737)\"\u003eHugh Howard\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arcangelo Corelli, by Hugh Howard OXM310282.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli,_by_Hugh_Howard_OXM310282.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Arcangelo_Corelli%2C_by_Hugh_Howard_OXM310282.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Arcangelo_Corelli%2C_by_Hugh_Howard_OXM310282.jpg",
+      "width": 899,
+      "height": 1200,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Hugh_Howard_(painter)\" class=\"extiw\" title=\"w:en:Hugh Howard (painter)\"\u003e\u003cspan title=\"Irish artist (1675-1737)\"\u003eHugh Howard\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arcangelo Corelli, portrait by Hugh Howard (1697).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli,_portrait_by_Hugh_Howard_(1697).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg/960px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29.jpg",
+      "width": 1056,
+      "height": 1417,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Hugh_Howard_(painter)\" class=\"extiw\" title=\"w:en:Hugh Howard (painter)\"\u003e\u003cspan title=\"Irish artist (1675-1737)\"\u003eHugh Howard\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Arcangelo Corelli 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Arcangelo_Corelli_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Arcangelo_Corelli_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Arcangelo_Corelli_2.jpg/960px-Arcangelo_Corelli_2.jpg",
+      "width": 1333,
+      "height": 1607,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Jan_Frans_van_Douven\" class=\"extiw\" title=\"w:en:Jan Frans van Douven\"\u003e\u003cspan title=\"Dutch painter (1656-1727)\"\u003eJan Frans van Douven\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Corelli-Trio Sonata 11-1.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Corelli-Trio_Sonata_11-1.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Corelli-Trio_Sonata_11-1.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Performed by: RP and E Goldstein"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Corelli-Trio Sonata 11-2.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Corelli-Trio_Sonata_11-2.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Corelli-Trio_Sonata_11-2.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Performed by RP and E Goldstein, composed by \u003ca href=\"//commons.wikimedia.org/wiki/Arcangelo_Corelli\" title=\"Arcangelo Corelli\"\u003eArcangelo Corelli\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

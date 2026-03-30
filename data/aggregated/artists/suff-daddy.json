@@ -1,0 +1,53 @@
+{
+  "canonical_slug": "suff-daddy",
+  "name": "Suff Daddy",
+  "play_count": 4,
+  "spotify_artist_id": "7BYXrz5LhCrix6A3EwPvU0",
+  "musicbrainz_artist_id": "79001b57-792f-42d8-a580-cfd1f709cd6d",
+  "spotify_url": "https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop",
+    "instrumental"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7dd3d7ee00a5c2835c48fb78",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051747dd3d7ee00a5c2835c48fb78",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1787dd3d7ee00a5c2835c48fb78",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Such Brave Girls",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Such_Brave_Girls",
+  "summary": "Such Brave Girls is a British television sitcom about a dysfunctional single-parent family created by Kat Sadler for BBC Three. It stars Sadler, with Louise Brealey and Lizzie Davidson. It is directed by Simon Bird and produced by A24 with Various Artists Ltd. The first series was released on 22 November 2023. The second series ran from 3 July 2025 with all episodes released on BBC iPlayer.",
+  "candidates": [
+    "Such Daddy's Girls"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Such Brave Girls",
+    "page_url": "https://en.wikipedia.org/wiki/Such_Brave_Girls",
+    "retrieved_at": "2026-03-28T10:42:55Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Such_Brave_Girls.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Such_Brave_Girls.jpg",
+    "width": 240,
+    "height": 300
+  },
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,147 @@
+{
+  "canonical_slug": "norah-jones",
+  "name": "Norah Jones",
+  "play_count": 2,
+  "spotify_artist_id": "2Kx7MNY7cI1ENniW7vT30N",
+  "musicbrainz_artist_id": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+  "spotify_url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+  "genres": [
+    "blues",
+    "christmas-music",
+    "country",
+    "folk",
+    "indie-pop",
+    "jazz",
+    "pop",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "blues",
+    "christmas music",
+    "contemporary vocal jazz",
+    "country",
+    "folk",
+    "indie pop",
+    "jazz",
+    "jazz pop",
+    "neo mellow",
+    "pop",
+    "pop soul",
+    "singer-songwriter",
+    "traditional pop",
+    "vocal jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ed83d3ea063d87ce7e708f00",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ed83d3ea063d87ce7e708f00",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Norah Jones",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Norah_Jones",
+  "summary": "Norah Jones is an American singer-songwriter and musician. She has won several awards for her music and, as of 2023, has sold more than 53 million records worldwide. Billboard named her the top jazz artist of the 2000s decade. She has won ten Grammy Awards and was ranked 60th on Billboard magazine's Artists of the 2000s Decade chart.",
+  "candidates": [
+    "Nolan Jones",
+    "Nora Jane Struthers",
+    "Norah James",
+    "Norah Jones",
+    "Norah Jones awards and nominations",
+    "Norah Jones discography",
+    "Norman Jones",
+    "Norman Jones (actor)",
+    "Norman Jones (politician)",
+    "Nova Jones"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Norah Jones",
+    "page_url": "https://en.wikipedia.org/wiki/Norah_Jones",
+    "retrieved_at": "2026-03-28T10:41:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:NorahJones-byPhilipRomano3.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:NorahJones-byPhilipRomano3.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/NorahJones-byPhilipRomano3.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NorahJones-byPhilipRomano3.jpg/960px-NorahJones-byPhilipRomano3.jpg",
+    "width": 4024,
+    "height": 6048,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:PhilipRomanoPhoto\" title=\"User:PhilipRomanoPhoto\"\u003ePhilipRomanoPhoto\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NorahJones-byPhilipRomano3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NorahJones-byPhilipRomano3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/NorahJones-byPhilipRomano3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NorahJones-byPhilipRomano3.jpg/960px-NorahJones-byPhilipRomano3.jpg",
+      "width": 4024,
+      "height": 6048,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:PhilipRomanoPhoto\" title=\"User:PhilipRomanoPhoto\"\u003ePhilipRomanoPhoto\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:NorahJones Parque Independencia 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:NorahJones_Parque_Independencia_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/NorahJones_Parque_Independencia_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NorahJones_Parque_Independencia_2010.jpg/960px-NorahJones_Parque_Independencia_2010.jpg",
+      "width": 1200,
+      "height": 1600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "maccosta"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Norah Jones Cannes 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Norah_Jones_Cannes_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Norah_Jones_Cannes_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Norah_Jones_Cannes_1.jpg",
+      "width": 640,
+      "height": 880,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Georges Biard",
+      "attribution_text": "Georges Biard"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Norah Jones signature.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Norah_Jones_signature.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Norah_Jones_signature.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Norah_Jones_signature.png",
+      "width": 377,
+      "height": 355,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Norah_Jones\" class=\"extiw\" title=\"w:en:Norah Jones\"\u003e\u003cspan title=\"American musician (born 1979)\"\u003eNorah Jones\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Norahjonesongma (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Norahjonesongma_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Norahjonesongma_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Norahjonesongma_%28cropped%29.jpg/960px-Norahjonesongma_%28cropped%29.jpg",
+      "width": 1330,
+      "height": 2161,
+      "license": "Public domain",
+      "author": "this crop: \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:FMM-1992\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:FMM-1992 (page does not exist)\"\u003euser:FMM-1992\u003c/a\u003e\u003cbr\u003eoriginal photo: Jamie Anna"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

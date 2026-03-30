@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "criminal",
+  "display_title": "Criminal",
+  "display_name": "Criminal",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Crime",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Crime",
+  "summary": "In ordinary language, a crime is an unlawful act punishable by a state or other authority. The term crime does not, in modern criminal law, have any simple and universally accepted definition, though statutory definitions have been provided for certain purposes. The most popular view is that crime is a category created by law; in other words, something is a crime if declared as such by the relevant and applicable law. One proposed definition is that a crime or offence is an act harmful not only to some individual but also to a community, society, or the state. Such acts are forbidden and punishable by law.",
+  "candidates": [
+    "Criminal",
+    "Criminal Minds",
+    "Criminal charges against Joseph Smith",
+    "Criminal charges brought in the Mueller special counsel investigation",
+    "Criminal conspiracy",
+    "Criminal law",
+    "Criminal proceedings in the January 6 United States Capitol attack",
+    "Criminal record",
+    "Criminal trial of Donald Trump in New York",
+    "Criminalization of homosexuality"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Crime",
+    "page_url": "https://en.wikipedia.org/wiki/Crime",
+    "retrieved_at": "2026-03-28T15:54:43Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--criminal.json",
+      "url": "https://en.wikipedia.org/wiki/Crime",
+      "retrieved_at": "2026-03-28T15:54:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

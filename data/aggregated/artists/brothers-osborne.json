@@ -1,7 +1,9 @@
 {
   "canonical_slug": "brothers-osborne",
   "name": "Brothers Osborne",
+  "play_count": 2,
   "spotify_artist_id": "39NR3AUhpbbqKM33vWn2fp",
+  "musicbrainz_artist_id": "7a502bfc-4cab-4dc8-a618-b12aca7258e7",
   "spotify_url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp",
   "genres": [
     "country",
@@ -83,5 +85,5 @@
       "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Luciefan\" class=\"extiw\" title=\"wikipedia:User:Luciefan\"\u003eLuciefan\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

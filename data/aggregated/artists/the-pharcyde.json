@@ -1,0 +1,130 @@
+{
+  "canonical_slug": "the-pharcyde",
+  "name": "The Pharcyde",
+  "play_count": 21,
+  "spotify_artist_id": "7yk35uHNQclPXFGFoTU44w",
+  "musicbrainz_artist_id": "d7134426-a937-43bf-bc54-f10ad8102ed9",
+  "spotify_url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
+  "genres": [
+    "hip-hop",
+    "jazz-rap",
+    "old-school-hip-hop",
+    "west-coast-hip-hop"
+  ],
+  "source_genres": [
+    "hip hop",
+    "jazz rap",
+    "old school hip hop",
+    "west coast hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
+      "height": 1394,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/01126acfcb317eaa068dfb1699006946abe51262",
+      "height": 892,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/379f08564c1550cf56734267857226bb1a0b7bee",
+      "height": 279,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/7959e017ada2921da27ba3d8e93222d70b121733",
+      "height": 89,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Pharcyde",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Pharcyde",
+  "summary": "The Pharcyde is an American hip-hop group, formed in South Central Los Angeles in 1991. The original four members of the group are Imani, Slimkid3, Bootie Brown, and Fatlip. DJ Mark Luv was the group's first disc jockey (DJ), followed by producer J-Swift and then J Dilla.",
+  "candidates": [
+    "The Pharcyde"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Pharcyde",
+    "page_url": "https://en.wikipedia.org/wiki/The_Pharcyde",
+    "retrieved_at": "2026-03-28T10:43:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Pharcyde-07.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Pharcyde-07.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pharcyde-07.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pharcyde-07.jpg",
+    "width": 901,
+    "height": 1350,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pharcyde-07.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pharcyde-07.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pharcyde-07.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pharcyde-07.jpg",
+      "width": 901,
+      "height": 1350,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:MikaV\" title=\"User:MikaV\"\u003eMika Väisänen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Pharcyde - Donauinselfest Vienna 2013 16.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Pharcyde_-_Donauinselfest_Vienna_2013_16.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/The_Pharcyde_-_Donauinselfest_Vienna_2013_16.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Pharcyde_-_Donauinselfest_Vienna_2013_16.jpg/960px-The_Pharcyde_-_Donauinselfest_Vienna_2013_16.jpg",
+      "width": 3000,
+      "height": 2000,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Manfred Werner (\u003ca href=\"//commons.wikimedia.org/wiki/User:Tsui\" title=\"User:Tsui\"\u003eTsui\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Pharcyde at Rock the Bells 2008 -1 (3178753285).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Pharcyde_at_Rock_the_Bells_2008_-1_(3178753285).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Pharcyde_at_Rock_the_Bells_2008_-1_%283178753285%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Pharcyde_at_Rock_the_Bells_2008_-1_%283178753285%29.jpg/960px-The_Pharcyde_at_Rock_the_Bells_2008_-1_%283178753285%29.jpg",
+      "width": 1000,
+      "height": 750,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/25397558@N07\"\u003eCharice L.\u003c/a\u003e from USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Pharcyde at Rock the Bells 2008 -5 (3179590686).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Pharcyde_at_Rock_the_Bells_2008_-5_(3179590686).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Pharcyde_at_Rock_the_Bells_2008_-5_%283179590686%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Pharcyde_at_Rock_the_Bells_2008_-5_%283179590686%29.jpg/960px-The_Pharcyde_at_Rock_the_Bells_2008_-5_%283179590686%29.jpg",
+      "width": 1000,
+      "height": 750,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/25397558@N07\"\u003eCharice L.\u003c/a\u003e from USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Pharcyde in Dublin.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Pharcyde_in_Dublin.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/The_Pharcyde_in_Dublin.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_Pharcyde_in_Dublin.jpg/960px-The_Pharcyde_in_Dublin.jpg",
+      "width": 1856,
+      "height": 1392,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/jaqian/\"\u003ejaqian\u003c/a\u003e from Dublin, Ireland"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

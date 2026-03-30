@@ -1,0 +1,107 @@
+{
+  "source": "spotify",
+  "source_artist_id": "14RXohtx6NiBGFTW8IdmAK",
+  "name": "John Scofield",
+  "spotify_url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK",
+  "musicbrainz_artist_id": "cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "John Scofield",
+  "summary": "John Scofield is an American guitarist and composer. His music blends jazz, jazz fusion, funk, blues, soul and rock. He first came to mainstream attention as part of the band of Miles Davis.",
+  "canonical_url": "https://en.wikipedia.org/wiki/John_Scofield",
+  "candidates": [
+    "John Corfield",
+    "John Scarfield",
+    "John Schofield",
+    "John Schofield (footballer)",
+    "John Scholfield",
+    "John Scofield",
+    "John Scofield (2022 album)",
+    "John Scofield Live",
+    "John Scourfield",
+    "Jon Schofield (canoeist)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Scofield",
+    "page_url": "https://en.wikipedia.org/wiki/John_Scofield",
+    "retrieved_at": "2026-03-28T10:40:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Scofield-8615.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Scofield-8615.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/John_Scofield-8615.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Scofield-8615.jpg/960px-John_Scofield-8615.jpg",
+      "width": 4187,
+      "height": 6280,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q640\" class=\"extiw\" title=\"d:Q640\"\u003e\u003cspan title=\"German photographer; former vice chair of Wikimedia Deutschland\"\u003eHarald Krichel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Scofield International Jazz Festival Enschede.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Scofield_International_Jazz_Festival_Enschede.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/John_Scofield_International_Jazz_Festival_Enschede.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/John_Scofield_International_Jazz_Festival_Enschede.jpg/960px-John_Scofield_International_Jazz_Festival_Enschede.jpg",
+      "width": 1536,
+      "height": 2048,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/67194633@N00\"\u003eWillem van Bergen\u003c/a\u003e from Rotterdam, The Netherlands"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Scofield Kongsberg Jazzfestival 2017 (190550).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Scofield_Kongsberg_Jazzfestival_2017_(190550).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/John_Scofield_Kongsberg_Jazzfestival_2017_%28190550%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/John_Scofield_Kongsberg_Jazzfestival_2017_%28190550%29.jpg",
+      "width": 900,
+      "height": 631,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Toresetre\" title=\"User:Toresetre\"\u003eTore Sætre\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John scofield 2004-07-23.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_scofield_2004-07-23.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/John_scofield_2004-07-23.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/John_scofield_2004-07-23.jpg",
+      "width": 768,
+      "height": 958,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Rdrozd\" title=\"User:Rdrozd\"\u003eRdrozd\u003c/a\u003e"
+    }
+  ]
+}

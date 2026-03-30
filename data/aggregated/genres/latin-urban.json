@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "latin-urban",
+  "display_title": "Latin Urban",
+  "display_name": "Latin Urban",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Urbano music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Urbano_music",
+  "summary": "Urbano music or Latin urban is a transnational umbrella category including many different genres and styles. As an umbrella term it includes a wide and diverse set of genres and styles such as dancehall, dembow, urban champeta, funk carioca, Latin hip hop and reggaeton. The commercial breakthrough of this music took place in 2017 with artists from Colombia, Cuba, the Dominican Republic, Panama, Puerto Rico, the United States, Venezuela and even non-Spanish-speaking nations, such as Brazil, where Portuguese is spoken.",
+  "candidates": [
+    "La Tina Ranch, Texas",
+    "Latin translation",
+    "Latin translation of the Quran",
+    "Latin translations of modern literature",
+    "Latin translations of the 12th century",
+    "Latin translations of the Bible",
+    "Latin transliteration",
+    "Latin urban",
+    "Latino Urban",
+    "Latino urbanism"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Urbano music",
+    "page_url": "https://en.wikipedia.org/wiki/Urbano_music",
+    "retrieved_at": "2026-03-28T15:57:59Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--latin-urban.json",
+      "url": "https://en.wikipedia.org/wiki/Urbano_music",
+      "retrieved_at": "2026-03-28T15:57:59Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "minimal-wave",
+  "display_title": "Minimal Wave",
+  "display_name": "Minimal Wave",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Minimal wave",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Minimal_wave",
+  "summary": "Minimal wave is a broad classification of music that comprises obscure, atypical examples of genres such as new wave, stripped-down electronic or synthesizer music, synth-pop, post-punk, and coldwave. Most of the music tends to focus on electronic, pre-MIDI instrumentation and themes of sincere, rather than ironic, detachment.",
+  "candidates": [
+    "Minimal Aerosol Generating Procedures in Dentistry",
+    "Minimal Walking Models",
+    "Minimal Wave Records",
+    "Minimal cover",
+    "Minimal covering sum",
+    "Minimal government",
+    "Minimal vertex cover",
+    "Minimal wave",
+    "Minimum alveolar concentration",
+    "Minimum wage"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Minimal wave",
+    "page_url": "https://en.wikipedia.org/wiki/Minimal_wave",
+    "retrieved_at": "2026-03-28T15:58:27Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--minimal-wave.json",
+      "url": "https://en.wikipedia.org/wiki/Minimal_wave",
+      "retrieved_at": "2026-03-28T15:58:27Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

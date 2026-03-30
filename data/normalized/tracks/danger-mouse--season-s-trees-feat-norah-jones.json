@@ -4,6 +4,10 @@
   "name": "Season's Trees (feat. Norah Jones)",
   "primary_artist_name": "Danger Mouse",
   "primary_artist_canonical_slug": "danger-mouse",
+  "additional_artist_slugs": [
+    "daniele-luppi",
+    "norah-jones"
+  ],
   "release_name": "Rome",
   "release_canonical_slug": "danger-mouse--rome",
   "spotify_url": "https://open.spotify.com/track/1EIvMRhClzMkbJHZAd1Aqa"

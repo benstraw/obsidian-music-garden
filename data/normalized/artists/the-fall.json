@@ -1,0 +1,33 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6WoTvA9qinpHtSRJuldYh6",
+  "name": "The Fall",
+  "spotify_url": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6",
+  "musicbrainz_artist_id": "d5da1841-9bc8-4813-9f89-11098090148e",
+  "source_genres": [
+    "cold wave",
+    "deathrock",
+    "madchester",
+    "new wave",
+    "post-punk",
+    "proto-punk"
+  ],
+  "canonical_genre_slugs": [
+    "new-wave",
+    "post-punk",
+    "proto-punk"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "The Fall",
+    "The Fall (TV series)",
+    "The Fall (band)",
+    "The Fall Guy (2024 film)",
+    "The Fall and Rise of Reggie Dinkins",
+    "The Fall of the House of Usher",
+    "The Fall of the House of Usher (miniseries)",
+    "The Fall of the Roman Empire (film)",
+    "The Fall-Off",
+    "The Falling Man"
+  ]
+}

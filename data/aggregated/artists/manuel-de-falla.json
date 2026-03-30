@@ -1,0 +1,107 @@
+{
+  "canonical_slug": "manuel-de-falla",
+  "name": "Manuel de Falla",
+  "spotify_artist_id": "5BcbyYRgvvhfVGmCJSjHlT",
+  "musicbrainz_artist_id": "17268036-f51c-427c-a8a2-241fac69d39f",
+  "spotify_url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "composer",
+    "spanish composer"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Manuel de Falla",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_de_Falla",
+  "summary": "Manuel de Falla y Matheu was a Spanish composer and pianist. Along with Isaac Albéniz, Francisco Tárrega, and Enrique Granados, he was one of Spain's most important musicians of the first half of the 20th century. He has a claim to being Spain's greatest composer of the 20th century, although the number of pieces he composed was relatively modest.",
+  "candidates": [
+    "Liceo Manuel de Salas",
+    "Manuel Dallan",
+    "Manuel de Alday y Aspée",
+    "Manuel de Balliano",
+    "Manuel de Falla",
+    "Manuel de Falla (Madrid Metro)",
+    "Manuel de Faria e Sousa",
+    "Manuel de Llanza y Pignatelli",
+    "Manuel de Salamanca",
+    "Manuel de la Lastra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Manuel de Falla",
+    "page_url": "https://en.wikipedia.org/wiki/Manuel_de_Falla",
+    "retrieved_at": "2026-03-28T10:41:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CELLO ENCORES JOHN MICHEL-da Falla Suite Populaire Espagnole 1st.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CELLO_ENCORES_JOHN_MICHEL-da_Falla_Suite_Populaire_Espagnole_1st.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/CELLO_ENCORES_JOHN_MICHEL-da_Falla_Suite_Populaire_Espagnole_1st.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://johnmichel.com/\"\u003eJohn Michel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CELLO LIVE PERFORMANCES JOHN MICHEL-da Falla Suite Populaire Espagnole 5th.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CELLO_LIVE_PERFORMANCES_JOHN_MICHEL-da_Falla_Suite_Populaire_Espagnole_5th.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/CELLO_LIVE_PERFORMANCES_JOHN_MICHEL-da_Falla_Suite_Populaire_Espagnole_5th.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://johnmichel.com/\"\u003eJohn Michel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Calle de Serrano nº 72 (Madrid) 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Calle_de_Serrano_n%C2%BA_72_(Madrid)_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Calle_de_Serrano_n%C2%BA_72_%28Madrid%29_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Calle_de_Serrano_n%C2%BA_72_%28Madrid%29_01.jpg/960px-Calle_de_Serrano_n%C2%BA_72_%28Madrid%29_01.jpg",
+      "width": 3392,
+      "height": 2848,
+      "license": "CC BY-SA 3.0 es",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+      "author": "Luis García (\u003ca href=\"//commons.wikimedia.org/wiki/User:Zaqarbal\" title=\"User:Zaqarbal\"\u003eZaqarbal\u003c/a\u003e)",
+      "attribution_text": "Luis García"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cádiz plaque Manuel de Falla.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:C%C3%A1diz_plaque_Manuel_de_Falla.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/C%C3%A1diz_plaque_Manuel_de_Falla.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/C%C3%A1diz_plaque_Manuel_de_Falla.jpg/960px-C%C3%A1diz_plaque_Manuel_de_Falla.jpg",
+      "width": 4791,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Arnoldius\" title=\"User:Arnoldius\"\u003eArnoldius\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

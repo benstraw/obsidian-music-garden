@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "irlandais",
+  "display_title": "Irlandais",
+  "display_name": "Irlandais",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Ireland Island, Bermuda",
+    "Ireland–Isle of Man relations",
+    "Ireland–Israel relations",
+    "Irland it mikla",
+    "Irlanda",
+    "Irlanda Fault",
+    "Irlanda Lopes",
+    "Irlanda Mora",
+    "Irlanda Regiment (Spain)",
+    "Irlanda del Norte"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

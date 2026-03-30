@@ -1,0 +1,130 @@
+{
+  "canonical_slug": "ballad",
+  "display_title": "Ballad",
+  "display_name": "Ballad",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Ballad",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ballad",
+  "summary": "A ballad is a form of verse, often a narrative set to music. Ballads were particularly characteristic of the popular poetry and song of England, Ireland and Scotland from the Late Middle Ages until the 19th century. They were widely used across Europe, and later in Australia, North Africa, North America and South America.",
+  "candidates": [
+    "Ballad",
+    "Ballad of a Small Player",
+    "Ballade (classical music)",
+    "Ballads 1",
+    "The Ballad of Buster Scruggs",
+    "The Ballad of Darren",
+    "The Ballad of John and Yoko",
+    "The Ballad of Songbirds and Snakes",
+    "The Ballad of Wallis Island",
+    "The Ballad of the Witches' Road"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ballad",
+    "page_url": "https://en.wikipedia.org/wiki/Ballad",
+    "retrieved_at": "2026-03-28T15:53:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Here begynneth a gest of Robyn Hode.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Here_begynneth_a_gest_of_Robyn_Hode.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Here_begynneth_a_gest_of_Robyn_Hode.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Here_begynneth_a_gest_of_Robyn_Hode.png",
+    "width": 350,
+    "height": 581,
+    "license": "Public domain",
+    "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Here begynneth a gest of Robyn Hode.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Here_begynneth_a_gest_of_Robyn_Hode.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Here_begynneth_a_gest_of_Robyn_Hode.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Here_begynneth_a_gest_of_Robyn_Hode.png",
+      "width": 350,
+      "height": 581,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Illustration to the ballad Young Beckie from \"Some British Ballads\".jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg/960px-Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg",
+      "width": 1458,
+      "height": 1815,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Arthur_Rackham\" class=\"extiw\" title=\"w:en:Arthur Rackham\"\u003e\u003cspan title=\"English book illustrator (1867-1939)\"\u003eArthur Rackham\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Henry-27527.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Henry-27527.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/John_Henry-27527.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Henry-27527.jpg/960px-John_Henry-27527.jpg",
+      "width": 1200,
+      "height": 1000,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ken_Thomas\" title=\"User:Ken Thomas\"\u003eKen Thomas\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maria Wiik - Ballad.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maria_Wiik_-_Ballad.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Maria_Wiik_-_Ballad.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Maria_Wiik_-_Ballad.jpg/960px-Maria_Wiik_-_Ballad.jpg",
+      "width": 2193,
+      "height": 3000,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Maria_Wiik\" class=\"extiw\" title=\"w:en:Maria Wiik\"\u003e\u003cspan title=\"Finnish painter (1853–1928)\"\u003eMaria Wiik\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Scott's Minstrelsy Of The Scottish Border.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Scott%27s_Minstrelsy_Of_The_Scottish_Border.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Scott%27s_Minstrelsy_Of_The_Scottish_Border.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Scott%27s_Minstrelsy_Of_The_Scottish_Border.JPG/960px-Scott%27s_Minstrelsy_Of_The_Scottish_Border.JPG",
+      "width": 2521,
+      "height": 1848,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kim_Traynor\" title=\"User:Kim Traynor\"\u003eKim Traynor\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ballad.json",
+      "url": "https://en.wikipedia.org/wiki/Ballad",
+      "retrieved_at": "2026-03-28T15:53:17Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--ballad.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Here_begynneth_a_gest_of_Robyn_Hode.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

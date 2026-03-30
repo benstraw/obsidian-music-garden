@@ -1,0 +1,69 @@
+{
+  "source": "spotify",
+  "source_artist_id": "33XkS6h90eeK7e6OJHw0mq",
+  "name": "Yusef Lateef",
+  "spotify_url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq",
+  "musicbrainz_artist_id": "2968722f-03d8-4e2f-88bc-f9975f147503",
+  "source_genres": [
+    "jazz",
+    "jazz fusion"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "jazz-fusion"
+  ],
+  "status": "matched",
+  "page_title": "Yusef Lateef",
+  "summary": "Yusef Abdul Lateef was an American jazz multi-instrumentalist, composer, and prominent figure among the Ahmadiyya Community in the United States.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Yusef_Lateef",
+  "candidates": [
+    "Yusef Lateef",
+    "Yusef Lateef discography",
+    "Yusef Lateef's Detroit",
+    "Yusef Lateef's Little Symphony"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Yusef Lateef",
+    "page_url": "https://en.wikipedia.org/wiki/Yusef_Lateef",
+    "retrieved_at": "2026-03-28T10:44:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Yusef Lateef.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Yusef_Lateef.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yusef_Lateef.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yusef_Lateef.jpg",
+    "width": 800,
+    "height": 533,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9967007@N07/\"\u003eTom Beetz\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yusef Lateef.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yusef_Lateef.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yusef_Lateef.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Yusef_Lateef.jpg",
+      "width": 800,
+      "height": 533,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9967007@N07/\"\u003eTom Beetz\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yusef Lateef 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yusef_Lateef_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Yusef_Lateef_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Yusef_Lateef_2.jpg/960px-Yusef_Lateef_2.jpg",
+      "width": 3008,
+      "height": 2000,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8563910@N08/\"\u003eCharles Andersen\u003c/a\u003e"
+    }
+  ]
+}

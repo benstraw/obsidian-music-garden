@@ -1,0 +1,31 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5MGxwE9JG5IA6uqswrgNL6",
+  "name": "Beak\u003e",
+  "spotify_url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6",
+  "musicbrainz_artist_id": "bda0beab-8c08-4a34-9af0-97a1b647ad9b",
+  "source_genres": [
+    "drone",
+    "experimental",
+    "krautrock",
+    "post-rock"
+  ],
+  "canonical_genre_slugs": [
+    "experimental",
+    "krautrock",
+    "post-rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Beak",
+    "Beak trimming",
+    "Beaked whale",
+    "Beaker (Muppet)",
+    "Beakerhead",
+    "Beakman's World",
+    "Beaky Buzzard",
+    "Daniel Beak",
+    "Norman Beaker",
+    "The Beaker Girls"
+  ]
+}

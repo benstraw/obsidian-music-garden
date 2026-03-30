@@ -1,0 +1,49 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2rfkmr5WzRN9D9gAfb2ycd",
+  "name": "Slovak Philharmonic",
+  "spotify_url": "https://open.spotify.com/artist/2rfkmr5WzRN9D9gAfb2ycd",
+  "source_genres": [
+    "orchestra",
+    "symfonicky orchestr"
+  ],
+  "status": "matched",
+  "page_title": "Slovak Philharmonic",
+  "summary": "The Slovak Philharmonic or Slovak State Philharmonic is a Slovak symphony orchestra based in Bratislava. Founded in 1949, the orchestra has resided since the 1950s in the Baroque-era Reduta Bratislava concert hall constructed in 1773.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Slovak_Philharmonic",
+  "candidates": [
+    "Slovak Philharmonic"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Slovak Philharmonic",
+    "page_url": "https://en.wikipedia.org/wiki/Slovak_Philharmonic",
+    "retrieved_at": "2026-03-28T10:42:41Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Slovak Philharmonic.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Slovak_Philharmonic.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Slovak_Philharmonic.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Slovak_Philharmonic.png/960px-Slovak_Philharmonic.png",
+    "width": 1600,
+    "height": 1006,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Dukeofelliun\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Dukeofelliun (page does not exist)\"\u003eDukeofelliun\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Slovak Philharmonic.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Slovak_Philharmonic.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Slovak_Philharmonic.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Slovak_Philharmonic.png/960px-Slovak_Philharmonic.png",
+      "width": 1600,
+      "height": 1006,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Dukeofelliun\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Dukeofelliun (page does not exist)\"\u003eDukeofelliun\u003c/a\u003e"
+    }
+  ]
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "experimental rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Experimental rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Experimental_rock",
@@ -98,17 +99,285 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 55,
+    "unique_artist_count": 6,
+    "unique_release_count": 13,
+    "unique_track_count": 42,
+    "first_played_at": "2024-01-01T00:00:00.344155034Z",
+    "last_played_at": "2026-03-08T19:43:21.144Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "liars",
+      "name": "Liars",
+      "play_count": 22,
+      "spotify_artist_id": "2z78AlkdwE2Ghj9EB50M6z",
+      "musicbrainz_artist_id": "03098741-08b3-4dd7-b3f6-1b0bfa2c879c",
+      "spotify_url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+    },
+    {
+      "canonical_slug": "swans",
+      "name": "Swans",
+      "play_count": 11,
+      "spotify_artist_id": "79S80ZWgVhIPMCHuvl6SkA",
+      "musicbrainz_artist_id": "3285dc48-9505-469d-ad8a-bdf2d3dba632",
+      "spotify_url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+    },
+    {
+      "canonical_slug": "deerhoof",
+      "name": "Deerhoof",
+      "play_count": 10,
+      "spotify_artist_id": "7AZwAitWq1KcFoIJhRWb6V",
+      "musicbrainz_artist_id": "11eabe0c-2638-4808-92f9-1dbd9c453429",
+      "spotify_url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+    },
+    {
+      "canonical_slug": "tim-buckley",
+      "name": "Tim Buckley",
+      "play_count": 9,
+      "spotify_artist_id": "6zHRqvws8dVeqL8D31ponr",
+      "musicbrainz_artist_id": "8546949d-f46c-45ab-8391-85b26dda6b65",
+      "spotify_url": "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+    },
+    {
+      "canonical_slug": "can",
+      "name": "CAN",
+      "play_count": 2,
+      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "musicbrainz_artist_id": "13501c7d-d181-45ba-af52-5f101d8516a0",
+      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+    },
+    {
+      "canonical_slug": "the-flaming-lips",
+      "name": "The Flaming Lips",
+      "play_count": 1,
+      "spotify_artist_id": "16eRpMNXSQ15wuJoeqguaB",
+      "musicbrainz_artist_id": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
+      "spotify_url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "liars--drum-s-not-dead",
+      "name": "Drum's Not Dead",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "spotify_album_id": "4xeba6CVGWt31LsqwhS8Mg",
+      "musicbrainz_release_id": "207d66ce-3699-30b2-99c0-4fa60daaf01c",
+      "musicbrainz_release_group_id": "003bca6c-ca70-3c20-81d2-3f615b583fbf"
+    },
+    {
+      "canonical_slug": "swans--filth",
+      "name": "Filth",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "swans",
+      "primary_artist_name": "Swans",
+      "spotify_album_id": "70ff8ZgebUJWXQDzV5zVVk",
+      "musicbrainz_release_id": "e09f6b36-bb3c-4bc3-9e84-baf188567474",
+      "musicbrainz_release_group_id": "68198e00-3c53-368c-9337-1aafd0f461b6"
+    },
+    {
+      "canonical_slug": "deerhoof--breakup-song",
+      "name": "Breakup Song",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "5JunU3flt52yhYBKhmUnM1",
+      "musicbrainz_release_id": "a0800e93-d0da-40ed-ad71-cf814dd0a2d3",
+      "musicbrainz_release_group_id": "a186e8e5-7c3b-4080-b039-2cf92e0211a2"
+    },
+    {
+      "canonical_slug": "tim-buckley--goodbye-and-hello",
+      "name": "Goodbye And Hello",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "spotify_album_id": "1jKfTvT64lcQwA74WmkKiJ",
+      "musicbrainz_release_id": "99466c7f-0bfa-4a76-958f-e58c6a028f2a",
+      "musicbrainz_release_group_id": "2e569a55-d829-31c8-9016-0c9a56333288"
+    },
+    {
+      "canonical_slug": "deerhoof--deerhoof-vs-evil-deluxe-edition",
+      "name": "Deerhoof vs. Evil (Deluxe Edition)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "4X5mVOp3ue8IDeek5vKd5B"
+    },
+    {
+      "canonical_slug": "tim-buckley--happy-sad",
+      "name": "Happy Sad",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "spotify_album_id": "20CYfxjKvqXkCXBhAgOE39",
+      "musicbrainz_release_id": "30438d95-b851-45da-ab0c-1de75ec7502e",
+      "musicbrainz_release_group_id": "50701e2b-a074-380e-82aa-cfb21421dbb4"
+    },
+    {
+      "canonical_slug": "liars--liars",
+      "name": "Liars",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "spotify_album_id": "4xtgO9StwSulqElgrtdtIg",
+      "musicbrainz_release_id": "ef102bce-319d-3afd-a0b9-cd8cfea8478e",
+      "musicbrainz_release_group_id": "acd16215-9580-3de1-bf5e-35e3841f6070"
+    },
+    {
+      "canonical_slug": "can--ege-bamyasi-remastered-version",
+      "name": "Ege Bamyasi (Remastered Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "can",
+      "primary_artist_name": "CAN",
+      "spotify_album_id": "3Qa2CdymyGvXkqoqIZykmT"
+    },
+    {
+      "canonical_slug": "liars--wixiw",
+      "name": "WIXIW",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "spotify_album_id": "7D27Mb2eXSVyxzKipBKnlM",
+      "musicbrainz_release_id": "e321b99f-0f97-48a8-a63a-95e077f4fdb6",
+      "musicbrainz_release_group_id": "d32d7884-c278-46a7-9617-ccab89a23c6a"
+    },
+    {
+      "canonical_slug": "tim-buckley--works-in-progress",
+      "name": "Works In Progress",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "spotify_album_id": "1RkTOe3SQM0A2ewdaRvOEF",
+      "musicbrainz_release_id": "bfee0d81-29d5-42c6-a338-f1a7cd779a25",
+      "musicbrainz_release_group_id": "fd7cf51a-06d8-3a12-ae52-daaf599a1a58"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "liars--a-visit-from-drum",
+      "name": "A Visit From Drum",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "release_canonical_slug": "liars--drum-s-not-dead",
+      "release_name": "Drum's Not Dead",
+      "spotify_track_id": "70dQckN10afBXt30Ug51si",
+      "spotify_url": "https://open.spotify.com/track/70dQckN10afBXt30Ug51si"
+    },
+    {
+      "canonical_slug": "deerhoof--breakup-songs",
+      "name": "Breakup Songs",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--breakup-song",
+      "release_name": "Breakup Song",
+      "spotify_track_id": "6KzDeUNlDMQyckjHFoIYvw",
+      "spotify_url": "https://open.spotify.com/track/6KzDeUNlDMQyckjHFoIYvw"
+    },
+    {
+      "canonical_slug": "deerhoof--flower",
+      "name": "Flower",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "release_canonical_slug": "deerhoof--breakup-song",
+      "release_name": "Breakup Song",
+      "spotify_track_id": "6rd9w2c0LhyZ3f5Gy0kkJV",
+      "spotify_url": "https://open.spotify.com/track/6rd9w2c0LhyZ3f5Gy0kkJV"
+    },
+    {
+      "canonical_slug": "swans--freak",
+      "name": "Freak",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "swans",
+      "primary_artist_name": "Swans",
+      "release_canonical_slug": "swans--filth",
+      "release_name": "Filth",
+      "spotify_track_id": "5hBby4R7OQOnuGJ3BzZYE9",
+      "spotify_url": "https://open.spotify.com/track/5hBby4R7OQOnuGJ3BzZYE9"
+    },
+    {
+      "canonical_slug": "swans--gang",
+      "name": "Gang",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "swans",
+      "primary_artist_name": "Swans",
+      "release_canonical_slug": "swans--filth",
+      "release_name": "Filth",
+      "spotify_track_id": "16kKPQkMLxYdh17H2YXeOh",
+      "spotify_url": "https://open.spotify.com/track/16kKPQkMLxYdh17H2YXeOh"
+    },
+    {
+      "canonical_slug": "liars--it-fit-when-i-was-a-kid",
+      "name": "It Fit When I Was A Kid",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "release_canonical_slug": "liars--drum-s-not-dead",
+      "release_name": "Drum's Not Dead",
+      "spotify_track_id": "5TNshlRgnqfNR5sUpIg3mL",
+      "spotify_url": "https://open.spotify.com/track/5TNshlRgnqfNR5sUpIg3mL"
+    },
+    {
+      "canonical_slug": "liars--its-all-blooming-now-mt-heart-attack",
+      "name": "Its All Blooming Now Mt. Heart Attack",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "release_canonical_slug": "liars--drum-s-not-dead",
+      "release_name": "Drum's Not Dead",
+      "spotify_track_id": "56cSRDbriiXMC6EewNulYd",
+      "spotify_url": "https://open.spotify.com/track/56cSRDbriiXMC6EewNulYd"
+    },
+    {
+      "canonical_slug": "tim-buckley--morning-glory",
+      "name": "Morning Glory",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "release_canonical_slug": "tim-buckley--goodbye-and-hello",
+      "release_name": "Goodbye And Hello",
+      "spotify_track_id": "3J09tJweoMVDYd8Fwjb1Nt",
+      "spotify_url": "https://open.spotify.com/track/3J09tJweoMVDYd8Fwjb1Nt"
+    },
+    {
+      "canonical_slug": "tim-buckley--once-i-was",
+      "name": "Once I Was",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "release_canonical_slug": "tim-buckley--goodbye-and-hello",
+      "release_name": "Goodbye And Hello",
+      "spotify_track_id": "6iI6NXjtI3IkjK2k1juqaX",
+      "spotify_url": "https://open.spotify.com/track/6iI6NXjtI3IkjK2k1juqaX"
+    },
+    {
+      "canonical_slug": "tim-buckley--sing-a-song-for-you",
+      "name": "Sing a Song for You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "release_canonical_slug": "tim-buckley--happy-sad",
+      "release_name": "Happy Sad",
+      "spotify_track_id": "01o6YGrdvMrUAFmWgwoDCb",
+      "spotify_url": "https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -125,6 +394,13 @@
       "path": "normalized/genres/wikipedia--experimental-rock.json",
       "url": "https://commons.wikimedia.org/wiki/File:(Portrait_of_Les_Paul,_New_York,_N.Y.(%3F),_ca._Jan._1947)_(LOC)_(5105151726).jpg",
       "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-08T19:43:21.144Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
   "last_updated": "2026-03-27"

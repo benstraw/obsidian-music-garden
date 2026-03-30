@@ -7,7 +7,8 @@
     "funk",
     "motown"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Funk",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Funk",
@@ -107,145 +108,220 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 19,
-    "unique_artist_count": 6,
-    "unique_release_count": 11,
-    "unique_track_count": 18,
-    "first_played_at": "2026-03-01T00:42:35.656Z",
-    "last_played_at": "2026-03-08T20:15:21.743Z"
+    "play_count": 138,
+    "unique_artist_count": 20,
+    "unique_release_count": 43,
+    "unique_track_count": 89,
+    "first_played_at": "2024-01-01T00:00:00.035196456Z",
+    "last_played_at": "2026-03-08T20:38:10.244Z"
   },
   "top_artists": [
     {
       "canonical_slug": "funkadelic",
       "name": "Funkadelic",
-      "play_count": 10,
+      "play_count": 67,
       "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+      "musicbrainz_artist_id": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
       "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    },
+    {
+      "canonical_slug": "otis-redding",
+      "name": "Otis Redding",
+      "play_count": 9,
+      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+      "musicbrainz_artist_id": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+    },
+    {
+      "canonical_slug": "butcher-brown",
+      "name": "Butcher Brown",
+      "play_count": 7,
+      "spotify_artist_id": "2jQ6wRQ7yP1UrctodeuYQP",
+      "musicbrainz_artist_id": "c0937ba4-6869-456b-afd0-10335ae50245",
+      "spotify_url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+    },
+    {
+      "canonical_slug": "charles-bradley",
+      "name": "Charles Bradley",
+      "play_count": 6,
+      "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
+      "musicbrainz_artist_id": "dc6d2ba1-012c-47a7-ba3f-d74e76c30d53",
+      "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+    },
+    {
+      "canonical_slug": "khruangbin",
+      "name": "Khruangbin",
+      "play_count": 6,
+      "spotify_artist_id": "2mVVjNmdjXZZDvhgQWiakk",
+      "musicbrainz_artist_id": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+      "spotify_url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
     },
     {
       "canonical_slug": "curtis-mayfield",
       "name": "Curtis Mayfield",
       "play_count": 5,
       "spotify_artist_id": "2AV6XDIs32ofIJhkkDevjm",
+      "musicbrainz_artist_id": "4dca4bb2-23ba-4103-97e6-5810311db33a",
       "spotify_url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
     },
     {
-      "canonical_slug": "aretha-franklin",
-      "name": "Aretha Franklin",
-      "play_count": 1,
-      "spotify_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
-      "spotify_url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+      "canonical_slug": "baby-huey",
+      "name": "Baby Huey",
+      "play_count": 4,
+      "spotify_artist_id": "3YFP5QHEKv8RZZsPminjdv",
+      "musicbrainz_artist_id": "66c03e40-2337-4952-8b27-afcbc68a6e5a",
+      "spotify_url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
     },
     {
-      "canonical_slug": "charles-bradley",
-      "name": "Charles Bradley",
-      "play_count": 1,
-      "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
-      "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+      "canonical_slug": "isaac-hayes",
+      "name": "Isaac Hayes",
+      "play_count": 4,
+      "spotify_artist_id": "3IKV7o6WPphDB7cCWXaG3E",
+      "musicbrainz_artist_id": "a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21",
+      "spotify_url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
     },
     {
-      "canonical_slug": "lafayette-afro-rock-band",
-      "name": "Lafayette Afro Rock Band",
-      "play_count": 1,
-      "spotify_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
-      "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
+      "canonical_slug": "rufus-thomas",
+      "name": "Rufus Thomas",
+      "play_count": 4,
+      "spotify_artist_id": "3iRSHS3b4NUdjNbnw3Opg8",
+      "musicbrainz_artist_id": "af1f46fe-903c-4bbf-8e20-a3e114343bd0",
+      "spotify_url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
     },
     {
-      "canonical_slug": "otis-redding",
-      "name": "Otis Redding",
-      "play_count": 1,
-      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
-      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+      "canonical_slug": "the-bar-kays",
+      "name": "The Bar-Kays",
+      "play_count": 4,
+      "spotify_artist_id": "0Z4CzYz9ieK8q9XiVMPkW5",
+      "musicbrainz_artist_id": "919ac2b3-aa04-4732-93f8-742ebb7a03f2",
+      "spotify_url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
     }
   ],
   "top_releases": [
     {
       "canonical_slug": "funkadelic--maggot-brain",
       "name": "Maggot Brain",
-      "play_count": 7,
+      "play_count": 15,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "3ywVzrwMQ3Kq43N9zBdBQm",
+      "musicbrainz_release_id": "f17855ba-2027-44c0-8a7d-bcdea711d716",
+      "musicbrainz_release_group_id": "a334e612-e736-3b4f-82b4-c4dfb774983c"
     },
     {
-      "canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
-      "name": "Superfly: Deluxe 25th Anniversary Edition",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield"
+      "canonical_slug": "william-bell--the-complete-stax-volt-soul-singles-vol-2-1968-1971",
+      "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "booker-t-and-the-m-g-s",
+      "primary_artist_name": "Booker T. \u0026 the M.G.'s",
+      "spotify_album_id": "09dsUwnIIqRL97qbvGTrjH"
     },
     {
-      "canonical_slug": "funkadelic--america-eats-its-young",
-      "name": "America Eats Its Young",
-      "play_count": 1,
+      "canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "name": "Let's Take It To The Stage",
+      "play_count": 10,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
-    },
-    {
-      "canonical_slug": "otis-redding--dock-of-the-bay-sessions",
-      "name": "Dock of the Bay Sessions",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "otis-redding",
-      "primary_artist_name": "Otis Redding"
-    },
-    {
-      "canonical_slug": "funkadelic--funkadelic",
-      "name": "Funkadelic",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
-    },
-    {
-      "canonical_slug": "lafayette-afro-rock-band--malik",
-      "name": "Malik",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
-      "primary_artist_name": "Lafayette Afro Rock Band"
-    },
-    {
-      "canonical_slug": "charles-bradley--no-time-for-dreaming",
-      "name": "No Time For Dreaming",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "charles-bradley",
-      "primary_artist_name": "Charles Bradley"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2uXSJrDwX2c84LjedQuP0e",
+      "musicbrainz_release_id": "1132dd9d-6043-4ba9-8a53-f2af10195d21",
+      "musicbrainz_release_group_id": "d01f4922-40d0-3452-8c8d-f84bea2cc857"
     },
     {
       "canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
       "name": "Standing On The Verge Of Getting It On",
-      "play_count": 1,
+      "play_count": 10,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2o1DC3i9barPdh8EcWEnAf",
+      "musicbrainz_release_id": "63e9dae2-7f43-400d-b1a9-96639392475f",
+      "musicbrainz_release_group_id": "2aca4ebe-fd78-3222-930d-b521a82e3e51"
     },
     {
-      "canonical_slug": "curtis-mayfield--superfly-original-soundtrack",
-      "name": "Superfly (Original Soundtrack)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield"
+      "canonical_slug": "funkadelic--cosmic-slop",
+      "name": "Cosmic Slop",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "49hvcA7jIUDu41njTP17uL",
+      "musicbrainz_release_id": "7987637b-dcaa-443e-84c4-b77a010a7d25",
+      "musicbrainz_release_group_id": "3337c981-c416-3513-a02b-6d6065b9316b"
     },
     {
-      "canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
-      "name": "There's No Place Like America Today",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield"
+      "canonical_slug": "funkadelic--funkadelic",
+      "name": "Funkadelic",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2muElcL0DcIPj12CsCUzhf",
+      "musicbrainz_release_id": "125865eb-d1ed-4733-949f-32621d492991",
+      "musicbrainz_release_group_id": "ba6de9b7-828e-35d4-adc5-ea71bdab836b"
+    },
+    {
+      "canonical_slug": "funkadelic--america-eats-its-young",
+      "name": "America Eats Its Young",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "3sAlsqGMcElzHHSYd1jhiY",
+      "musicbrainz_release_id": "a3235d3c-0bb2-411f-90b0-8a6381841136",
+      "musicbrainz_release_group_id": "f32cb96a-6bde-3480-999c-5e7ad1038c71"
+    },
+    {
+      "canonical_slug": "charles-bradley--no-time-for-dreaming",
+      "name": "No Time For Dreaming",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "charles-bradley",
+      "primary_artist_name": "Charles Bradley",
+      "spotify_album_id": "6j1xh7WBOIVNekKFKFKbAp",
+      "musicbrainz_release_id": "ce7624ec-d9f2-4c3c-b141-d0b536820f1f",
+      "musicbrainz_release_group_id": "5780368b-735c-4481-8cf1-5a873c1f6a80"
+    },
+    {
+      "canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
+      "name": "The Baby Huey Story: The Living Legend",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "baby-huey",
+      "primary_artist_name": "Baby Huey",
+      "spotify_album_id": "2lTfjZPS0xFQE3cbGZf92T",
+      "musicbrainz_release_id": "5e9f7f9e-3738-42e1-80c6-aafa8ff66b6a",
+      "musicbrainz_release_group_id": "dd16dcca-8aff-3ae8-b5cd-861e2ab4213e"
+    },
+    {
+      "canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix-feat-kendrick-lamar-and-ice-cube-single",
+      "name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar \u0026 Ice Cube] - Single",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "6oeY3dvDGQ5hJxQNHxA8dS"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "curtis-mayfield--pusherman",
-      "name": "Pusherman",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield",
-      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
-      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
-      "spotify_track_id": "7zrPswSV1yxrill5OyCuaU",
-      "spotify_url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+      "canonical_slug": "charles-bradley--the-world-is-going-up-in-flames",
+      "name": "The World (Is Going Up in Flames)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "charles-bradley",
+      "primary_artist_name": "Charles Bradley",
+      "release_canonical_slug": "charles-bradley--no-time-for-dreaming",
+      "release_name": "No Time For Dreaming",
+      "spotify_track_id": "6MQlNH8e6jG0LZg2mocK1R",
+      "spotify_url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
+    },
+    {
+      "canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix",
+      "name": "Ain't That Funkin' Kinda Hard on You? - We Ain't Neva Gonna Stop Remix",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix-feat-kendrick-lamar-and-ice-cube-single",
+      "release_name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar \u0026 Ice Cube] - Single",
+      "spotify_track_id": "6SgQIoLn8kpu8J4wfwGWy8",
+      "spotify_url": "https://open.spotify.com/track/6SgQIoLn8kpu8J4wfwGWy8"
     },
     {
       "canonical_slug": "funkadelic--back-in-our-minds",
       "name": "Back In Our Minds",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--maggot-brain",
@@ -254,20 +330,64 @@
       "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
     },
     {
-      "canonical_slug": "curtis-mayfield--billy-jack",
-      "name": "Billy Jack",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield",
-      "release_canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
-      "release_name": "There's No Place Like America Today",
-      "spotify_track_id": "58g78TAudwqiMzSJHrhjYB",
-      "spotify_url": "https://open.spotify.com/track/58g78TAudwqiMzSJHrhjYB"
+      "canonical_slug": "funkadelic--i-ll-bet-you",
+      "name": "I'll Bet You",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--funkadelic",
+      "release_name": "Funkadelic",
+      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
+      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
+    },
+    {
+      "canonical_slug": "funkadelic--super-stupid",
+      "name": "Super Stupid",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "2X6qfjDzhKQA7UqhzyJrQP",
+      "spotify_url": "https://open.spotify.com/track/2X6qfjDzhKQA7UqhzyJrQP"
+    },
+    {
+      "canonical_slug": "otis-redding--sittin-on-the-dock-of-the-bay",
+      "name": "(Sittin' On) the Dock of the Bay",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding",
+      "release_canonical_slug": "otis-redding--the-dock-of-the-bay-mono",
+      "release_name": "The Dock of the Bay (Mono)",
+      "spotify_track_id": "3zBhihYUHBmGd2bcQIobrF",
+      "spotify_url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "canonical_slug": "funkadelic--be-my-beach",
+      "name": "Be My Beach",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "release_name": "Let's Take It To The Stage",
+      "spotify_track_id": "0fCBIzIXCGlB9PXjkRqZb3",
+      "spotify_url": "https://open.spotify.com/track/0fCBIzIXCGlB9PXjkRqZb3"
+    },
+    {
+      "canonical_slug": "funkadelic--better-by-the-pound",
+      "name": "Better By The Pound",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "release_name": "Let's Take It To The Stage",
+      "spotify_track_id": "12SLHj991Ym8J3ASHg2DAy",
+      "spotify_url": "https://open.spotify.com/track/12SLHj991Ym8J3ASHg2DAy"
     },
     {
       "canonical_slug": "funkadelic--biological-speculation",
       "name": "Biological Speculation",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--america-eats-its-young",
@@ -278,68 +398,13 @@
     {
       "canonical_slug": "funkadelic--can-you-get-to-that",
       "name": "Can You Get To That",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--maggot-brain",
       "release_name": "Maggot Brain",
       "spotify_track_id": "5lc9L9FeLBwlJPgEbq9uEw",
       "spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
-    },
-    {
-      "canonical_slug": "lafayette-afro-rock-band--darkest-light-remastered",
-      "name": "Darkest Light - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
-      "primary_artist_name": "Lafayette Afro Rock Band",
-      "release_canonical_slug": "lafayette-afro-rock-band--malik",
-      "release_name": "Malik",
-      "spotify_track_id": "6eDVnsVgEAjMdcczx4mpoq",
-      "spotify_url": "https://open.spotify.com/track/6eDVnsVgEAjMdcczx4mpoq"
-    },
-    {
-      "canonical_slug": "curtis-mayfield--freddie-s-dead",
-      "name": "Freddie's Dead",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield",
-      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
-      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
-      "spotify_track_id": "2ouFIPC3O1HNBcVTw1d9AN",
-      "spotify_url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
-    },
-    {
-      "canonical_slug": "otis-redding--hard-to-handle",
-      "name": "Hard to Handle",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "otis-redding",
-      "primary_artist_name": "Otis Redding",
-      "release_canonical_slug": "otis-redding--dock-of-the-bay-sessions",
-      "release_name": "Dock of the Bay Sessions",
-      "spotify_track_id": "7FXuCkl1kfxwS5icDjTwbM",
-      "spotify_url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "canonical_slug": "funkadelic--hit-it-and-quit-it",
-      "name": "Hit It and Quit It",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--maggot-brain",
-      "release_name": "Maggot Brain",
-      "spotify_track_id": "2w7R3CQgvl8PIKJlwtT9Mv",
-      "spotify_url": "https://open.spotify.com/track/2w7R3CQgvl8PIKJlwtT9Mv"
-    },
-    {
-      "canonical_slug": "funkadelic--i-ll-bet-you",
-      "name": "I'll Bet You",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic",
-      "release_canonical_slug": "funkadelic--funkadelic",
-      "release_name": "Funkadelic",
-      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
-      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
     }
   ],
   "source_refs": [
@@ -348,6 +413,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -369,7 +440,7 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-08T20:15:21.743Z",
+      "updated_at": "2026-03-08T20:38:10.244Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],

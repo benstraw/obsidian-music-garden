@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3ywVzrwMQ3Kq43N9zBdBQm",
   "name": "Maggot Brain",
   "primary_artist_name": "Funkadelic",
-  "primary_artist_canonical_slug": "funkadelic"
+  "primary_artist_canonical_slug": "funkadelic",
+  "musicbrainz_release_id": "f17855ba-2027-44c0-8a7d-bcdea711d716",
+  "musicbrainz_release_group_id": "a334e612-e736-3b4f-82b4-c4dfb774983c"
 }

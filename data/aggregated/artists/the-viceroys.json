@@ -1,0 +1,44 @@
+{
+  "canonical_slug": "the-viceroys",
+  "name": "The Viceroys",
+  "play_count": 7,
+  "spotify_artist_id": "1D9gvipi900QNpsgh679xb",
+  "musicbrainz_artist_id": "0e98ba03-b70e-4656-8a15-3d2f4d784224",
+  "spotify_url": "https://open.spotify.com/artist/1D9gvipi900QNpsgh679xb",
+  "genres": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "source_genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2730fe1cb332d35da0dbbe03266",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e020fe1cb332d35da0dbbe03266",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048510fe1cb332d35da0dbbe03266",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "The Viceroy of Ouidah",
+    "The Viceroyalty of New Granada",
+    "The Viceroyalty of Peru",
+    "The Viceroyalty of Rio de la Plata",
+    "The Viceroys",
+    "The Viceroys (musical group)",
+    "The Viceroys (novel)"
+  ],
+  "last_updated": "2026-03-28"
+}

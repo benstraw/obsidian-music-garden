@@ -3,12 +3,23 @@
   "source_artist_id": "0kEfub5RzlZOB2zGomqVSU",
   "name": "Gil Scott-Heron",
   "spotify_url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU",
+  "musicbrainz_artist_id": "b5b89643-c488-4f39-a302-25cab31084a5",
   "source_genres": [
+    "jazz",
     "jazz funk",
+    "jazz-funk",
+    "poetry",
+    "rare groove a to z",
+    "singer/songwriter",
+    "soul",
+    "soul jazz",
     "spoken word"
   ],
   "canonical_genre_slugs": [
+    "jazz",
     "jazz-funk",
+    "singer-songwriter",
+    "soul",
     "spoken-word"
   ],
   "status": "matched",

@@ -1,0 +1,13 @@
+{
+  "source": "spotify",
+  "source_track_id": "7zA1QdWBKhVbXKTDZX3VOn",
+  "name": "This House Is Empty Now",
+  "primary_artist_name": "Elvis Costello",
+  "primary_artist_canonical_slug": "elvis-costello",
+  "additional_artist_slugs": [
+    "burt-bacharach"
+  ],
+  "release_name": "Painted From Memory",
+  "release_canonical_slug": "elvis-costello--painted-from-memory",
+  "spotify_url": "https://open.spotify.com/track/7zA1QdWBKhVbXKTDZX3VOn"
+}

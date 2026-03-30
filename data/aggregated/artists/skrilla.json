@@ -1,0 +1,24 @@
+{
+  "canonical_slug": "skrilla",
+  "name": "Skrilla",
+  "spotify_artist_id": "3qdQnBjEBHrk5nZYxXdV1U",
+  "spotify_url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb683dd06a89831765133ce40d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174683dd06a89831765133ce40d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178683dd06a89831765133ce40d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "italian-romanticism",
+  "display_title": "Italian Romanticism",
+  "display_name": "Italian Romanticism",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Romanticism in Italy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Romanticism_in_Italy",
+  "summary": "Romanticism in Italy was a distinctive blend of European romantic ideals and Italian cultural traditions. It emphasized relationship with nature, emotion, imagination and individual freedom, as well as reevaluating the spiritual, religious, and historical aspects of national identity, generating a desire for political union.",
+  "candidates": [
+    "Italian romanticism"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Romanticism in Italy",
+    "page_url": "https://en.wikipedia.org/wiki/Romanticism_in_Italy",
+    "retrieved_at": "2026-03-28T15:57:27Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/El_Beso_%28Pinacoteca_de_Brera%2C_Mil%C3%A1n%2C_1859%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/El_Beso_%28Pinacoteca_de_Brera%2C_Mil%C3%A1n%2C_1859%29.jpg/330px-El_Beso_%28Pinacoteca_de_Brera%2C_Mil%C3%A1n%2C_1859%29.jpg",
+    "width": 6329,
+    "height": 7885
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--italian-romanticism.json",
+      "url": "https://en.wikipedia.org/wiki/Romanticism_in_Italy",
+      "retrieved_at": "2026-03-28T15:57:27Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--italian-romanticism.json",
+      "url": "https://en.wikipedia.org/wiki/Romanticism_in_Italy",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

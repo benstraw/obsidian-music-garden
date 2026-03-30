@@ -1,0 +1,59 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2ReTnNzaUAM6RgKCtlvMPf",
+  "name": "Chick Corea Elektric Band",
+  "spotify_url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf",
+  "musicbrainz_artist_id": "419c4478-1a5c-40e8-87e1-802cd7eb25c1",
+  "source_genres": [
+    "electronic",
+    "fusion",
+    "jazz",
+    "jazz fusion",
+    "jazz rock"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "jazz",
+    "jazz-fusion"
+  ],
+  "status": "matched",
+  "page_title": "Chick Corea Elektric Band",
+  "summary": "Chick Corea Elektric Band was a jazz fusion band, led by keyboardist and pianist Chick Corea and founded in 1986 in New York City. The band was nominated twice at the Grammy Awards. The sixth band album, a tribute one named Chick Corea Elektric Band II - Paint the World and released in 1993, received an additional nomination the next year. The group reunited in 2003, and Corea died in 2021.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Chick_Corea_Elektric_Band",
+  "candidates": [
+    "Chick Corea Elektric Band",
+    "The Chick Corea Elektric Band (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chick Corea Elektric Band",
+    "page_url": "https://en.wikipedia.org/wiki/Chick_Corea_Elektric_Band",
+    "retrieved_at": "2026-03-28T10:38:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Chickcoreaband ny.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Chickcoreaband_ny.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chickcoreaband_ny.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Chickcoreaband_ny.JPG/960px-Chickcoreaband_ny.JPG",
+    "width": 1783,
+    "height": 1000,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "Jesse Merz"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chickcoreaband ny.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chickcoreaband_ny.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chickcoreaband_ny.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Chickcoreaband_ny.JPG/960px-Chickcoreaband_ny.JPG",
+      "width": 1783,
+      "height": 1000,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Jesse Merz"
+    }
+  ]
+}

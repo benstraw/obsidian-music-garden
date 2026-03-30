@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "john-tejada",
+  "name": "John Tejada",
+  "play_count": 7,
+  "spotify_artist_id": "2JWmMcE8Z0vapxOIiT7PLq",
+  "musicbrainz_artist_id": "bda6d00e-f8f7-43a5-b8f8-f1ebc55b46d3",
+  "spotify_url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq",
+  "genres": [
+    "electronic"
+  ],
+  "source_genres": [
+    "electronic",
+    "techno"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebc75ff0430794224980936e33",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174c75ff0430794224980936e33",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178c75ff0430794224980936e33",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "John Tejada",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Tejada",
+  "summary": "John Tejada is an Austrian-born American electronic music producer and composer. Tejada's output of music began in 1994, including four albums for Kompakt, plus releases on Pokerflat, Cocoon, Plug Research, Seventh City, Playhouse, Defected, and his own label of 22 years, Palette Recordings.",
+  "candidates": [
+    "John Eladas",
+    "John Secada",
+    "John T. Adams",
+    "John Teasdale (footballer)",
+    "John Teasdale (wheat farmer)",
+    "John Tejada",
+    "John Tjaarda",
+    "John Treadaway",
+    "Jose Tejada",
+    "Juan Tejada"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Tejada",
+    "page_url": "https://en.wikipedia.org/wiki/John_Tejada",
+    "retrieved_at": "2026-03-28T10:40:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Musical notes.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_notes.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Musical_notes.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/960px-Musical_notes.svg.png",
+    "width": 400,
+    "height": 300,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Musical notes.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_notes.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Musical_notes.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/960px-Musical_notes.svg.png",
+      "width": 400,
+      "height": 300,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:R1-07022-0006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:R1-07022-0006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/R1-07022-0006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/R1-07022-0006.jpg/960px-R1-07022-0006.jpg",
+      "width": 3637,
+      "height": 2433,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brauliomorrison1\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brauliomorrison1 (page does not exist)\"\u003eBrauliomorrison1\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

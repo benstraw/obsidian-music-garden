@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "underwater-sound",
+  "name": "Underwater Sound",
+  "play_count": 8,
+  "spotify_artist_id": "2KJNQj4A21Hd22sjTEpTiq",
+  "spotify_url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27344b6c80d4c1d5fc888ff977d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0244b6c80d4c1d5fc888ff977d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485144b6c80d4c1d5fc888ff977d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Underwater acoustics",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Underwater_acoustics",
+  "summary": "Underwater acoustics is the study of the propagation of sound in water and the interaction of the mechanical waves that constitute sound with the water, its contents and its boundaries. The water may be in the ocean, a lake, a river or a tank. Typical frequencies associated with underwater acoustics are between 10 Hz and 1 MHz. The propagation of sound in the ocean at frequencies lower than 10 Hz is usually not possible without penetrating deep into the seabed, whereas frequencies above 1 MHz are rarely used because they are absorbed very quickly.",
+  "candidates": [
+    "Underwater (song)",
+    "Underwater Sound Laboratory",
+    "Underwater Sunlight",
+    "Underwater Sunshine (or What We Did on Our Summer Vacation)",
+    "Underwater mountain",
+    "Underwater mountain range",
+    "Underwater sound"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Underwater acoustics",
+    "page_url": "https://en.wikipedia.org/wiki/Underwater_acoustics",
+    "retrieved_at": "2026-03-28T10:43:49Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SCM4_fig11.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/SCM4_fig11.jpg/330px-SCM4_fig11.jpg",
+    "width": 513,
+    "height": 336
+  },
+  "last_updated": "2026-03-28"
+}

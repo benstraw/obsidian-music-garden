@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5OJKj1KGQEM1pnHtuvY0It",
   "name": "Big Boi \u0026 Dre Present...OutKast",
-  "primary_artist_name": "Outkast",
-  "primary_artist_canonical_slug": "outkast"
+  "primary_artist_name": "OutKast",
+  "primary_artist_canonical_slug": "outkast",
+  "musicbrainz_release_id": "7500a0d5-923b-421c-b7c6-07dda80c0020",
+  "musicbrainz_release_group_id": "bbf05afc-582d-3db6-8cf6-73a019794bef"
 }

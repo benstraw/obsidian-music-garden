@@ -3,6 +3,13 @@
   "source_artist_id": "7zLDabVhJXJvgPMaVIsW3G",
   "name": "Christian Bollmann",
   "spotify_url": "https://open.spotify.com/artist/7zLDabVhJXJvgPMaVIsW3G",
+  "musicbrainz_artist_id": "f509b122-bc44-4995-ba2c-d8558c16593a",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
   "status": "ambiguous",
   "candidates": [
     "Christian Dillmann",

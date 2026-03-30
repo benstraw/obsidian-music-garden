@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "charlie-parker-and-his-orchestra",
+  "name": "Charlie Parker And His Orchestra",
+  "play_count": 5,
+  "spotify_artist_id": "1FSHNjMiq1QijpQVkckuAy",
+  "musicbrainz_artist_id": "31cfcb82-0173-4995-b472-eb7400af17e1",
+  "spotify_url": "https://open.spotify.com/artist/1FSHNjMiq1QijpQVkckuAy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2737a016b30b7e1b749122b757c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e027a016b30b7e1b749122b757c",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048517a016b30b7e1b749122b757c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

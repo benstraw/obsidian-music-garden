@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "multiple-ipi",
+  "display_title": "Multiple Ipi",
+  "display_name": "Multiple Ipi",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Multiple birth",
+    "Multiple citizenship",
+    "Multiple dispatch",
+    "Multiple independently targetable reentry vehicle",
+    "Multiple instance learning",
+    "Multiple integral",
+    "Multiple listing service",
+    "Multiple patterning",
+    "Multiple unit",
+    "Multiple-criteria decision analysis"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

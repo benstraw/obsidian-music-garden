@@ -1,7 +1,9 @@
 {
   "canonical_slug": "hardy",
   "name": "HARDY",
+  "play_count": 1,
   "spotify_artist_id": "5QNm7E7RU2m64l6Gliu8Oy",
+  "musicbrainz_artist_id": "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
   "spotify_url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy",
   "genres": [
     "country",
@@ -41,5 +43,5 @@
     "Thomas Hardy",
     "Tom Hardy"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

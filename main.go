@@ -21,6 +21,7 @@ import (
 	"github.com/benstraw/music-garden/internal/fetch"
 	"github.com/benstraw/music-garden/internal/genres"
 	"github.com/benstraw/music-garden/internal/importlegacy"
+	"github.com/benstraw/music-garden/internal/importlegacyplays"
 	"github.com/benstraw/music-garden/internal/models"
 	mbnormalize "github.com/benstraw/music-garden/internal/normalize/musicbrainz"
 	"github.com/benstraw/music-garden/internal/plays"
@@ -28,7 +29,7 @@ import (
 )
 
 // version is set at build time via -ldflags "-X main.version=vX.Y.Z"
-var version = "v0.11.0-dev"
+var version = "v0.12.0-dev"
 
 type runtimePaths struct {
 	cwd              string
@@ -125,6 +126,8 @@ func main() {
 		runGenerateGenrePages(args, paths)
 	case "import-legacy":
 		runImportLegacy(args, paths)
+	case "import-legacy-plays":
+		runImportLegacyPlays(args, paths)
 	case "doctor":
 		os.Exit(runDoctor(paths))
 	case "version", "--version":
@@ -171,6 +174,7 @@ Usage:
   music-garden migrate-canonical-store        Rewrite canonical state into split genre/artist/release store files
   music-garden generate-genre-pages          Render markdown genre pages from aggregated genre JSON
   music-garden import-legacy                  Import legacy Spotify snapshot data into the canonical store
+  music-garden import-legacy-plays            Import legacy topTracks playback into sharded play history
   music-garden doctor                         Print effective runtime config and diagnostics
   music-garden version                        Print version
 
@@ -351,12 +355,12 @@ func emitFallbackWarnings(paths runtimePaths, cmd string) {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "tokens.json"), paths.tokensPath)
 	}
 
-	playsUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer" || cmd == "doctor"
+	playsUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer" || cmd == "doctor" || cmd == "import-legacy-plays"
 	if playsUsed && paths.playsFallback {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "plays"), paths.playsDir)
 	}
 
-	genresUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "import-legacy" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer"
+	genresUsed := cmd == "collect" || cmd == "repair-plays" || cmd == "backfill-play-artists" || cmd == "import-legacy" || cmd == "weekly" || cmd == "daily" || cmd == "catch-up" || cmd == "persona" || cmd == "genre-backfill" || cmd == "image-backfill" || cmd == "aggregate-genre" || cmd == "aggregate-genres" || cmd == "sync-data-layer" || cmd == "import-legacy-plays"
 	if genresUsed && paths.genresFallback {
 		fmt.Fprintf(os.Stderr, "warning: MUSIC_STATE_DIR is set but %s was not found; falling back to %s\n", filepath.Join(paths.stateDir, "data", "genres.json"), paths.genresPath)
 	}
@@ -938,6 +942,84 @@ func runImportLegacy(args []string, paths runtimePaths) {
 		summary.GenreSlugMappings,
 		summary.UnresolvedGenreLabels,
 		summary.UnresolvedGenreSlugs,
+	)
+}
+
+func runImportLegacyPlays(args []string, paths runtimePaths) {
+	fs := flag.NewFlagSet("import-legacy-plays", flag.ExitOnError)
+	sourceDir := fs.String("source-dir", "", "path to legacy benstrawbridge.com/data/spotify directory")
+	dryRun := fs.Bool("dry-run", false, "prepare imported plays without writing shards, manifest, or store")
+	force := fs.Bool("force", false, "allow import even if a legacy play import manifest already exists")
+	artist := fs.String("artist", "", "limit import to one legacy primary artist slug, name, or Spotify ID")
+	fallbackFromStr := fs.String("fallback-from", "2024-01-01", "fallback start date for artists with no legacy first_seen")
+	fallbackToStr := fs.String("fallback-to", "2024-12-31", "fallback end date for artists with no legacy last_seen")
+	_ = fs.Parse(args)
+
+	if strings.TrimSpace(*sourceDir) == "" {
+		fmt.Fprintln(os.Stderr, "--source-dir is required")
+		os.Exit(1)
+	}
+	fallbackFrom, err := parseDate(*fallbackFromStr)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "invalid --fallback-from:", err)
+		os.Exit(1)
+	}
+	fallbackTo, err := parseDate(*fallbackToStr)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "invalid --fallback-to:", err)
+		os.Exit(1)
+	}
+
+	catalog := loadCatalog(paths)
+	manifestPath := filepath.Join(paths.dataRoot, "import-manifests", "legacy-plays.json")
+	result, err := importlegacyplays.Prepare(catalog, importlegacyplays.Options{
+		SourceDir:    *sourceDir,
+		ManifestPath: manifestPath,
+		DryRun:       *dryRun,
+		Force:        *force,
+		ArtistFilter: *artist,
+		FallbackFrom: fallbackFrom,
+		FallbackTo:   fallbackTo,
+	})
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "legacy play import error:", err)
+		os.Exit(1)
+	}
+
+	if *dryRun {
+		fmt.Printf("Dry run: source items=%d prepared plays=%d artists with date hints=%d artists using fallback=%d weeks touched=%d\n",
+			result.Summary.SourceItems,
+			result.Summary.PreparedPlays,
+			result.Summary.ArtistsWithDates,
+			result.Summary.ArtistsFallback,
+			result.Summary.WeeksTouched,
+		)
+		return
+	}
+
+	if err := plays.MigrateToSharded(paths.playsPath, paths.playsDir); err != nil {
+		fmt.Fprintln(os.Stderr, "migration error:", err)
+		os.Exit(1)
+	}
+
+	added, err := plays.SaveSharded(paths.playsDir, result.Plays)
+	if err != nil {
+		fmt.Fprintln(os.Stderr, "save sharded plays error:", err)
+		os.Exit(1)
+	}
+
+	saveCatalog(paths, catalog)
+	if err := importlegacyplays.WriteManifest(manifestPath, result.Manifest); err != nil {
+		fmt.Fprintln(os.Stderr, "write manifest error:", err)
+		os.Exit(1)
+	}
+	fmt.Printf("Imported legacy plays: source items=%d prepared=%d added=%d artists with date hints=%d artists using fallback=%d weeks touched=%d\n",
+		result.Summary.SourceItems,
+		result.Summary.PreparedPlays,
+		added,
+		result.Summary.ArtistsWithDates,
+		result.Summary.ArtistsFallback,
+		result.Summary.WeeksTouched,
 	)
 }
 

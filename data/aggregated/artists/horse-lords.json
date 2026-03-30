@@ -1,0 +1,84 @@
+{
+  "canonical_slug": "horse-lords",
+  "name": "Horse Lords",
+  "play_count": 38,
+  "spotify_artist_id": "0Oslq5zLftqRVwKseBJ7MV",
+  "musicbrainz_artist_id": "6efe2782-6926-41f6-b246-bdd60f997b8b",
+  "spotify_url": "https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV",
+  "genres": [
+    "experimental",
+    "krautrock",
+    "neo-psychedelic"
+  ],
+  "source_genres": [
+    "experimental",
+    "krautrock",
+    "math rock",
+    "neo-psychedelic",
+    "noise rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba363c74b4f7a0ca4812c4670",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a363c74b4f7a0ca4812c4670",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a363c74b4f7a0ca4812c4670",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Horse Lords",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Horse_Lords",
+  "summary": "Horse Lords are an American avant-garde rock band from Baltimore.",
+  "candidates": [
+    "Horse Lords",
+    "Horse worship",
+    "Horselords",
+    "House of Lords",
+    "House of Lords (Hereditary Peers) Act 2026",
+    "House of Lords Act 1999",
+    "House of Lords Appointments Commission",
+    "Steven Horsford",
+    "The Horse that Lost its Liberty",
+    "The horse in Nordic mythology"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Horse Lords",
+    "page_url": "https://en.wikipedia.org/wiki/Horse_Lords",
+    "retrieved_at": "2026-03-28T10:39:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Musical Notes U.S..svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_Notes_U.S..svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Musical_Notes_U.S..svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Musical_Notes_U.S..svg/960px-Musical_Notes_U.S..svg.png",
+    "width": 605,
+    "height": 372,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Musical Notes U.S..svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_Notes_U.S..svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Musical_Notes_U.S..svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Musical_Notes_U.S..svg/960px-Musical_Notes_U.S..svg.png",
+      "width": 605,
+      "height": 372,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

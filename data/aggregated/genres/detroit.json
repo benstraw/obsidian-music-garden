@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "detroit",
+  "display_title": "Detroit",
+  "display_name": "Detroit",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Detroit",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Detroit",
+  "summary": "Detroit is the most populous city in the U.S. state of Michigan. It is situated on the bank of the Detroit River across from the Canadian city of Windsor, Ontario. It is the 26th-most populous city in the United States and the largest U.S. city on the Canada–United States border, with a population of 639,111 at the 2020 census. The Metro Detroit area, at over 4.4 million people, is the 14th-largest metropolitan area in the nation and second-largest in the Midwest. The county seat of Wayne County, Detroit is a significant cultural center known for its contributions to music, art, architecture, and design, in addition to its historical automotive and industrial background.",
+  "candidates": [
+    "Detroit",
+    "Detroit Grand Prix (IndyCar)",
+    "Detroit Lions",
+    "Detroit Metropolitan Airport",
+    "Detroit Partnership",
+    "Detroit Pistons",
+    "Detroit Red Wings",
+    "Detroit Tigers",
+    "Detroit Tigers minor league players",
+    "University of Detroit Mercy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Detroit",
+    "page_url": "https://en.wikipedia.org/wiki/Detroit",
+    "retrieved_at": "2026-03-28T15:54:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:32-42 Monroe Avenue, Detroit 1915.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:32-42_Monroe_Avenue,_Detroit_1915.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/32-42_Monroe_Avenue%2C_Detroit_1915.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/32-42_Monroe_Avenue%2C_Detroit_1915.jpg",
+    "width": 713,
+    "height": 895,
+    "license": "Public domain",
+    "author": "Manning Brothers Commercial Photographers"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:32-42 Monroe Avenue, Detroit 1915.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:32-42_Monroe_Avenue,_Detroit_1915.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/32-42_Monroe_Avenue%2C_Detroit_1915.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/32-42_Monroe_Avenue%2C_Detroit_1915.jpg",
+      "width": 713,
+      "height": 895,
+      "license": "Public domain",
+      "author": "Manning Brothers Commercial Photographers"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:32-42 Monroe Avenue, Detroit 1989.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:32-42_Monroe_Avenue,_Detroit_1989.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/32-42_Monroe_Avenue%2C_Detroit_1989.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/32-42_Monroe_Avenue%2C_Detroit_1989.jpg",
+      "width": 708,
+      "height": 781,
+      "license": "Public domain",
+      "author": "Charles K Hyde"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambassador bridge evening.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambassador_bridge_evening.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ambassador_bridge_evening.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ambassador_bridge_evening.jpg",
+      "width": 200,
+      "height": 300,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Patr1ck (Talk / contribs)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ambox_current_red.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/960px-Ambox_current_red.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ViperSnake151\" title=\"User:ViperSnake151\"\u003eViperSnake151\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tkg._d2007\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tkg. d2007 (page does not exist)\"\u003eTkg. d2007\u003c/a\u003e (clock)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:American Courage.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:American_Courage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/American_Courage.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/American_Courage.jpg/960px-American_Courage.jpg",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23056733@N05\"\u003ejodelli\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--detroit.json",
+      "url": "https://en.wikipedia.org/wiki/Detroit",
+      "retrieved_at": "2026-03-28T15:54:57Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--detroit.json",
+      "url": "https://commons.wikimedia.org/wiki/File:32-42_Monroe_Avenue,_Detroit_1915.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

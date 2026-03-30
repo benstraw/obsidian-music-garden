@@ -1,0 +1,88 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4DuZTASH5eSyd0K73W6fuZ",
+  "name": "Joe Pass",
+  "spotify_url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ",
+  "musicbrainz_artist_id": "2f43e416-f1bf-4f04-8853-a0019aa12441",
+  "source_genres": [
+    "hard bop",
+    "jazz",
+    "swing"
+  ],
+  "canonical_genre_slugs": [
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Joe Pass",
+  "summary": "Joe Pass was an American jazz guitarist. Pass recorded and performed live with pianist Oscar Peterson, composer Duke Ellington, and vocalist Ella Fitzgerald, and he is generally esteemed as one of the most notable jazz guitarists of the 20th century for his solo guitar playing, found on recordings such as Virtuoso.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Joe_Pass",
+  "candidates": [
+    "Joe Pantoliano",
+    "Joe Pass",
+    "Joe Pass at the Montreux Jazz Festival 1975",
+    "Joe Pass discography",
+    "Joe Passage",
+    "Joe Paterno",
+    "Joe Pavelski",
+    "Joe Pesci",
+    "Joe Walsh",
+    "Joe pass virtuoso"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Joe Pass",
+    "page_url": "https://en.wikipedia.org/wiki/Joe_Pass",
+    "retrieved_at": "2026-03-28T10:40:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ella Fitzgerald \u0026 Joe Pass 1974.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_%26_Joe_Pass_1974.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ella_Fitzgerald_%26_Joe_Pass_1974.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ella_Fitzgerald_%26_Joe_Pass_1974.JPG/960px-Ella_Fitzgerald_%26_Joe_Pass_1974.JPG",
+    "width": 1469,
+    "height": 2100,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Hans Bernhard (\u003ca href=\"//commons.wikimedia.org/wiki/User:Schnobby\" title=\"User:Schnobby\"\u003eSchnobby\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ella Fitzgerald \u0026 Joe Pass 1974.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ella_Fitzgerald_%26_Joe_Pass_1974.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ella_Fitzgerald_%26_Joe_Pass_1974.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ella_Fitzgerald_%26_Joe_Pass_1974.JPG/960px-Ella_Fitzgerald_%26_Joe_Pass_1974.JPG",
+      "width": 1469,
+      "height": 2100,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Hans Bernhard (\u003ca href=\"//commons.wikimedia.org/wiki/User:Schnobby\" title=\"User:Schnobby\"\u003eSchnobby\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Joe Pass (jazz) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Joe_Pass_(jazz)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Joe_Pass_%28jazz%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Joe_Pass_%28jazz%29_%28cropped%29.jpg/960px-Joe_Pass_%28jazz%29_%28cropped%29.jpg",
+      "width": 1801,
+      "height": 2048,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11447043@N00/\"\u003eTom Marcello\u003c/a\u003e Webster, New York, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Joe Pass 1974.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Joe_Pass_1974.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Joe_Pass_1974.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Joe_Pass_1974.JPG/960px-Joe_Pass_1974.JPG",
+      "width": 2448,
+      "height": 3440,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Hans Bernhard (\u003ca href=\"//commons.wikimedia.org/wiki/User:Schnobby\" title=\"User:Schnobby\"\u003eSchnobby\u003c/a\u003e)"
+    }
+  ]
+}

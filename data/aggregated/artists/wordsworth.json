@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "wordsworth",
+  "name": "Wordsworth",
+  "spotify_artist_id": "6de0XwbJtLyirUZUqte7aD",
+  "musicbrainz_artist_id": "22ad9bdb-e3e3-4965-9784-8d094cd64bfb",
+  "spotify_url": "https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Anthony Wordsworth",
+    "Charles Wordsworth",
+    "Christopher Wordsworth",
+    "Dorothy Wordsworth",
+    "John Wordsworth",
+    "William Wordsworth",
+    "William Wordsworth (composer)",
+    "Wordsworth (rapper)",
+    "Wordsworth Donisthorpe",
+    "Wordsworth Trust"
+  ],
+  "last_updated": "2026-03-30"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4Uv86qWpGTxf7fU7lG5X6F",
   "name": "The College Dropout",
-  "primary_artist_name": "Kanye West",
-  "primary_artist_canonical_slug": "kanye-west"
+  "primary_artist_name": "Ye",
+  "primary_artist_canonical_slug": "kanye-west",
+  "musicbrainz_release_id": "11b6532c-0de0-45bb-84fc-7e99514a4cd5",
+  "musicbrainz_release_group_id": "8a01217e-6947-3927-a39b-6691104694f1"
 }

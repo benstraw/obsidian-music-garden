@@ -1,7 +1,9 @@
 {
   "canonical_slug": "danger-mouse",
   "name": "Danger Mouse",
+  "play_count": 9,
   "spotify_artist_id": "2dBj3prW7gP9bCCOIQeDUf",
+  "musicbrainz_artist_id": "4b356f05-bcc2-4544-925b-fd9a1bf708be",
   "spotify_url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf",
   "images": [
     {
@@ -33,5 +35,5 @@
     "Danger Mouse discography",
     "List of Danger Mouse (2015 TV series) episodes"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

@@ -4,6 +4,10 @@
   "name": "NeWest - Extended Version",
   "primary_artist_name": "DJ King Assassin",
   "primary_artist_canonical_slug": "dj-king-assassin",
+  "additional_artist_slugs": [
+    "eternal-thug-life",
+    "dank-synatra"
+  ],
   "release_name": "Thugz 4 Life (Remastered)",
   "release_canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
   "spotify_url": "https://open.spotify.com/track/6NkhflPByzfK6SclPmmNgQ"

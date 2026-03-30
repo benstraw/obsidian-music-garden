@@ -1,13 +1,24 @@
 {
   "canonical_slug": "dj-king-assassin",
   "name": "DJ King Assassin",
+  "play_count": 4,
   "spotify_artist_id": "35GnZFTAWk2RLgqLWlpPbE",
+  "musicbrainz_artist_id": "487d56d6-e4e3-4ab0-83f3-3e87c8a1e279",
   "spotify_url": "https://open.spotify.com/artist/35GnZFTAWk2RLgqLWlpPbE",
   "genres": [
-    "g-funk"
+    "g-funk",
+    "hip-hop"
   ],
   "source_genres": [
-    "g-funk"
+    "compton",
+    "detroit",
+    "east palo alto",
+    "g-funk",
+    "hip hop",
+    "oceanside",
+    "sacramento",
+    "south central los angeles",
+    "vallejo"
   ],
   "images": [
     {
@@ -77,5 +88,5 @@
       "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

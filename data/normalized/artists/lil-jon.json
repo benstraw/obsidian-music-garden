@@ -1,0 +1,66 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7sfl4Xt5KmfyDs2T3SVSMK",
+  "name": "Lil Jon",
+  "spotify_url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK",
+  "musicbrainz_artist_id": "a95384b1-6aec-468c-ae0d-8c6daf87c4c2",
+  "status": "matched",
+  "page_title": "Lil Jon",
+  "summary": "Jonathan H. Smith, better known by his stage name Lil Jon, is an American rapper and record producer. Regarded as a progenitor of the club-oriented hip-hop subgenre crunk, his production and voice presence were instrumental in the genre's commercial breakthrough in the early 2000s. He was also the front man of the group Lil Jon \u0026 the East Side Boyz, with whom he has released five albums.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lil_Jon",
+  "candidates": [
+    "Lil Jon",
+    "Lil Jon discography",
+    "Lil Jon production discography",
+    "Lil Mama",
+    "Lil Mosey",
+    "Lil Nas X",
+    "Lil Wayne",
+    "Lil Zane",
+    "Lil' Mo",
+    "Lil'Jordan Humphrey"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lil Jon",
+    "page_url": "https://en.wikipedia.org/wiki/Lil_Jon",
+    "retrieved_at": "2026-03-28T10:40:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:LilJon2024.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:LilJon2024.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LilJon2024.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/LilJon2024.jpg/960px-LilJon2024.jpg",
+    "width": 1994,
+    "height": 2492,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Virtualsand\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Virtualsand (page does not exist)\"\u003eVirtualsand\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LilJon2024.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LilJon2024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/LilJon2024.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/LilJon2024.jpg/960px-LilJon2024.jpg",
+      "width": 1994,
+      "height": 2492,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Virtualsand\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Virtualsand (page does not exist)\"\u003eVirtualsand\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil Jon sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_Jon_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lil_Jon_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lil_Jon_sig.svg/960px-Lil_Jon_sig.svg.png",
+      "width": 400,
+      "height": 301,
+      "license": "Public domain",
+      "author": "Lil Jon"
+    }
+  ]
+}

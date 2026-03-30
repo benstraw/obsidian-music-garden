@@ -1,0 +1,43 @@
+{
+  "canonical_slug": "konstantin-scherbakov",
+  "name": "Konstantin Scherbakov",
+  "spotify_artist_id": "6f4LXqcGifD364sFBKFfoN",
+  "spotify_url": "https://open.spotify.com/artist/6f4LXqcGifD364sFBKFfoN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/22d9d679347dfebabec4d2a41ac9dc525605e95e",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/c43baf210856bcea69768c43f66d0b4264d982c1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/91a65dab19a6e911d9e3ac9243bf8a157365ee20",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/607ab3ef33138875968697e61c0d5e1b1ef41574",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Konstantin Scherbakov",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Konstantin_Scherbakov",
+  "summary": "Konstantin Scherbakov is a Russian-Swiss pianist. He was the winner of the first Rachmaninoff piano competition in 1983 in Moscow. In 1990, he played four solo recitals at the Chamber Music Festival of Asolo; this launched his international career.",
+  "candidates": [
+    "Konstantin Scherbakov",
+    "Konstantin Shcherbakov"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Konstantin Scherbakov",
+    "page_url": "https://en.wikipedia.org/wiki/Konstantin_Scherbakov",
+    "retrieved_at": "2026-03-28T10:40:31Z"
+  },
+  "last_updated": "2026-03-30"
+}

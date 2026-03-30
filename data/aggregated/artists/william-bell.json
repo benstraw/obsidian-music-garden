@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "william-bell",
+  "name": "William Bell",
+  "play_count": 12,
+  "spotify_artist_id": "0mFoqJiNDtYntypvy6roGR",
+  "musicbrainz_artist_id": "d9c9cfb7-f751-4fb0-97c0-b3ddd768bc78",
+  "spotify_url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebaa8961b85ea3306f34739a43",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174aa8961b85ea3306f34739a43",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178aa8961b85ea3306f34739a43",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Willam Belli",
+    "William Bell",
+    "William Bell (artist)",
+    "William Bell (author)",
+    "William Bell (photographer)",
+    "William Bell (singer)",
+    "William Bell Dinsmoor",
+    "William Bell Riley",
+    "William Bell Scott",
+    "William Bell Wait"
+  ],
+  "last_updated": "2026-03-30"
+}

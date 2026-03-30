@@ -1,0 +1,109 @@
+{
+  "canonical_slug": "folk-punk",
+  "display_title": "Folk Punk",
+  "display_name": "Folk Punk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Folk punk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Folk_punk",
+  "summary": "Folk punk is a fusion of folk music and punk rock, particularly characterized by a folk-inspired sound blended with punk-inspired lyrics. It was popularized in the early 1980s by the Pogues in England, and by Violent Femmes in the United States. Folk punk achieved some mainstream success in that decade. In more recent years, its subgenres Celtic punk and gypsy punk have experienced some commercial success.",
+  "candidates": [
+    "Folk UnderGround",
+    "Folk University",
+    "Folk punk",
+    "Folk tune",
+    "Folkfuck Folie",
+    "Folkpark",
+    "Folkung",
+    "Folkunga",
+    "Folkungavallen",
+    "Funk-punk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Folk punk",
+    "page_url": "https://en.wikipedia.org/wiki/Folk_punk",
+    "retrieved_at": "2026-03-28T15:56:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Crass Pub Fest I.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Crass_Pub_Fest_I.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Crass_Pub_Fest_I.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Crass_Pub_Fest_I.jpg",
+    "width": 942,
+    "height": 625,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Montecruz Foto"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Crass Pub Fest I.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Crass_Pub_Fest_I.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Crass_Pub_Fest_I.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Crass_Pub_Fest_I.jpg",
+      "width": 942,
+      "height": 625,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Montecruz Foto"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Danbert2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Danbert2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Danbert2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Danbert2.jpg",
+      "width": 604,
+      "height": 551,
+      "license": "Public domain",
+      "author": "Graham Burnett"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of England.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_England.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/960px-Flag_of_England.svg.png",
+      "width": 800,
+      "height": 480,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eOriginal:\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003etraditional\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:Nickshanks\" title=\"User:Nickshanks\"\u003eNicholas Shanks\u003c/a\u003e\u003c/div\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--folk-punk.json",
+      "url": "https://en.wikipedia.org/wiki/Folk_punk",
+      "retrieved_at": "2026-03-28T15:56:05Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--folk-punk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Crass_Pub_Fest_I.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

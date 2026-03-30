@@ -1,7 +1,9 @@
 {
   "canonical_slug": "burna-boy",
   "name": "Burna Boy",
+  "play_count": 1,
   "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+  "musicbrainz_artist_id": "78a19169-ac75-4868-b504-7e2e073118e0",
   "spotify_url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa",
   "genres": [
     "afrobeat",
@@ -105,5 +107,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/77219176@N04\"\u003eNuță Lucian\u003c/a\u003e from Cluj-Napoca, Romania"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

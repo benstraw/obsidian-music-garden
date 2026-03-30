@@ -1,0 +1,105 @@
+{
+  "canonical_slug": "detroit-blues",
+  "display_title": "Detroit Blues",
+  "display_name": "Detroit Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Detroit blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Detroit_blues",
+  "summary": "Detroit blues is blues music played by musicians residing in and around Detroit, Michigan, particularly in the 1940s and 1950s. Detroit blues originated when Delta blues performers migrated north from the Mississippi Delta and Memphis, Tennessee, to work in industrial plants in Detroit in the 1920s and 1930s. Typical Detroit blues is similar in style to Chicago blues. Its sound is distinguished from Delta blues by the use of electric amplified instruments and more varied instrumentation, including the bass guitar and piano.",
+  "candidates": [
+    "Detroit Besa",
+    "Detroit Brush Street station",
+    "Detroit Bus Station",
+    "Detroit Business Institute",
+    "Detroit blues"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Detroit blues",
+    "page_url": "https://en.wikipedia.org/wiki/Detroit_blues",
+    "retrieved_at": "2026-03-28T15:54:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JohnLeeHooker1997.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JohnLeeHooker1997.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/JohnLeeHooker1997.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JohnLeeHooker1997.jpg/960px-JohnLeeHooker1997.jpg",
+      "width": 1000,
+      "height": 714,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sumori\" title=\"User:Sumori\"\u003eMasahiro Sumori\u003c/a\u003e",
+      "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/wiki/User:Sumori\" title=\"User:Sumori\"\u003eSumori\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--detroit-blues.json",
+      "url": "https://en.wikipedia.org/wiki/Detroit_blues",
+      "retrieved_at": "2026-03-28T15:54:58Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--detroit-blues.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

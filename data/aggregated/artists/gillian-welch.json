@@ -1,7 +1,9 @@
 {
   "canonical_slug": "gillian-welch",
   "name": "Gillian Welch",
+  "play_count": 90,
   "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+  "musicbrainz_artist_id": "2ff49515-1701-4bac-a53a-04345893f3f3",
   "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz",
   "genres": [
     "alt-country",
@@ -120,5 +122,5 @@
       "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Filberthockey\" class=\"extiw\" title=\"wikipedia:User:Filberthockey\"\u003eFilberthockey\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

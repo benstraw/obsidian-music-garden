@@ -1,0 +1,57 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1C6G15UmVQMDGpYbdsf1Oi",
+  "name": "Lord Finesse",
+  "spotify_url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi",
+  "musicbrainz_artist_id": "bcd09d6f-ee04-4418-a39d-4ecb57747116",
+  "source_genres": [
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Lord Finesse",
+  "summary": "Robert A. Hall Jr., known by his stage name Lord Finesse, is an American rapper and hip-hop producer from The Bronx, New York, best known as the leader of the D.I.T.C. crew. About.com ranked him number 29 on its list of the Top-50 Hip-Hop Producers.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lord_Finesse",
+  "candidates": [
+    "Lord Finesse",
+    "Lord Finsberg"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lord Finesse",
+    "page_url": "https://en.wikipedia.org/wiki/Lord_Finesse",
+    "retrieved_at": "2026-03-28T10:40:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Lord Finesse.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lord_Finesse.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lord_Finesse.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lord_Finesse.jpg/960px-Lord_Finesse.jpg",
+    "width": 5184,
+    "height": 3456,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/56325238@N08/\"\u003eJonathanMena\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lord Finesse.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lord_Finesse.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lord_Finesse.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lord_Finesse.jpg/960px-Lord_Finesse.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/56325238@N08/\"\u003eJonathanMena\u003c/a\u003e"
+    }
+  ]
+}

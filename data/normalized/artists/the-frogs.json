@@ -1,0 +1,105 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6oKwhpxFeDeanFE9bC2b8g",
+  "name": "The Frogs",
+  "spotify_url": "https://open.spotify.com/artist/6oKwhpxFeDeanFE9bC2b8g",
+  "musicbrainz_artist_id": "b858df4f-cc0c-4086-bf24-5362deafa6f0",
+  "source_genres": [
+    "alternative rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock"
+  ],
+  "status": "matched",
+  "page_title": "The Frogs",
+  "summary": "The Frogs is a comedy written by the Ancient Greek playwright Aristophanes. It was performed at the Lenaia, one of the Festivals of Dionysus in Athens, in 405 BC and received first place.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Frogs",
+  "candidates": [
+    "The Frogs",
+    "The Frogs (album)",
+    "The Frogs (band)",
+    "The Frogs (club)",
+    "The Frogs (musical)",
+    "The Frogs Who Desired a King",
+    "The Frogs and the Lobsters",
+    "The Frogs and the Sun",
+    "The Frogs of War, Part 1",
+    "The frogs legacy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Frogs",
+    "page_url": "https://en.wikipedia.org/wiki/The_Frogs",
+    "retrieved_at": "2026-03-28T10:43:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Aischylos Büste.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Aischylos_B%C3%BCste.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aischylos_B%C3%BCste.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aischylos_B%C3%BCste.jpg",
+    "width": 344,
+    "height": 540,
+    "license": "Public domain",
+    "author": "Unknown\u003cspan style=\"display: none;\"\u003eUnknown \u003c/span\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aischylos Büste.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aischylos_B%C3%BCste.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aischylos_B%C3%BCste.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aischylos_B%C3%BCste.jpg",
+      "width": 344,
+      "height": 540,
+      "license": "Public domain",
+      "author": "Unknown\u003cspan style=\"display: none;\"\u003eUnknown \u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bust Alcibiades Musei Capitolini MC1160.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bust_Alcibiades_Musei_Capitolini_MC1160.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bust_Alcibiades_Musei_Capitolini_MC1160.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bust_Alcibiades_Musei_Capitolini_MC1160.jpg/960px-Bust_Alcibiades_Musei_Capitolini_MC1160.jpg",
+      "width": 1475,
+      "height": 2460,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nUnknown artist\u003cspan style=\"display: none;\"\u003eUnknown artist\u003c/span\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frogs of Aristophanes Playbill.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frogs_of_Aristophanes_Playbill.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Frogs_of_Aristophanes_Playbill.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Frogs_of_Aristophanes_Playbill.jpg/960px-Frogs_of_Aristophanes_Playbill.jpg",
+      "width": 2288,
+      "height": 3510,
+      "license": "Public domain",
+      "author": "Trinity College Dramatic Society"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Frogs-Aristophanes.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Frogs-Aristophanes.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Frogs-Aristophanes.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Frogs-Aristophanes.jpg/960px-The_Frogs-Aristophanes.jpg",
+      "width": 1400,
+      "height": 1784,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Serensipar\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Serensipar (page does not exist)\"\u003eSerensipar\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7HqrSDuI9lHuH1CDismTFg",
+  "name": "AZ",
+  "spotify_url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg",
+  "musicbrainz_artist_id": "0506bf37-90d7-4654-9585-b4800dc945d5",
+  "source_genres": [
+    "boom bap",
+    "east coast hip hop",
+    "gangsta rap",
+    "hardcore hip hop",
+    "hip hop",
+    "mafioso rap",
+    "pop rap"
+  ],
+  "canonical_genre_slugs": [
+    "boom-bap",
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "AZ",
+    "Azad Kashmir",
+    "Azealia Banks",
+    "Azerbaijan",
+    "Azerbaijani language",
+    "Azores",
+    "Azov Brigade",
+    "Aztecs",
+    "Babar Azam",
+    "Iggy Azalea"
+  ]
+}

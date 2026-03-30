@@ -3,12 +3,15 @@
   "source_artist_id": "2VX0o9LDIVmKIgpnwdJpOJ",
   "name": "Erick Sermon",
   "spotify_url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ",
+  "musicbrainz_artist_id": "7fdb6168-64a8-4b5a-9a6a-e39803e4aec1",
   "source_genres": [
     "east coast hip hop",
+    "hip hop",
     "old school hip hop"
   ],
   "canonical_genre_slugs": [
     "east-coast-hip-hop",
+    "hip-hop",
     "old-school-hip-hop"
   ],
   "status": "matched",

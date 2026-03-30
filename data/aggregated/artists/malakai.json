@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "malakai",
+  "name": "Malakai",
+  "play_count": 7,
+  "spotify_artist_id": "2DsDNZlQjXKzPrLvKN92Ji",
+  "musicbrainz_artist_id": "9429b969-8d87-4fed-ad48-0a264ee89b17",
+  "spotify_url": "https://open.spotify.com/artist/2DsDNZlQjXKzPrLvKN92Ji",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbc17251e01bdfef9688d171",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bbc17251e01bdfef9688d171",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bbc17251e01bdfef9688d171",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Malachai (band)",
+    "Malakai",
+    "Malakai Bakaniceva",
+    "Malakai Bayoh",
+    "Malakai Fakatoufifita",
+    "Malakai Fekitoa",
+    "Malakai Hala-Ngatai",
+    "Malakai Mars",
+    "Malakai Rakula",
+    "Malakai Watene-Zelezniak"
+  ],
+  "last_updated": "2026-03-28"
+}

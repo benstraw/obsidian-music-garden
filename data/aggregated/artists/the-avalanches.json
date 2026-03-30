@@ -1,7 +1,9 @@
 {
   "canonical_slug": "the-avalanches",
   "name": "The Avalanches",
+  "play_count": 4,
   "spotify_artist_id": "3C8RpaI3Go0yFF9whvKoED",
+  "musicbrainz_artist_id": "a6623d39-2d8e-4f70-8242-0a9553b91e50",
   "spotify_url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED",
   "genres": [
     "plunderphonics"
@@ -84,5 +86,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

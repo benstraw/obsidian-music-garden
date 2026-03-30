@@ -1,7 +1,9 @@
 {
   "canonical_slug": "kitsch-and-camp",
   "name": "Kitsch And Camp",
+  "play_count": 1,
   "spotify_artist_id": "6I0kP8JmVEFr4krxYl8KrF",
+  "musicbrainz_artist_id": "ab4babb2-37f1-4eef-a01e-4c88c71fcb4c",
   "spotify_url": "https://open.spotify.com/artist/6I0kP8JmVEFr4krxYl8KrF",
   "images": [
     {
@@ -21,5 +23,5 @@
     }
   ],
   "status": "not_found",
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

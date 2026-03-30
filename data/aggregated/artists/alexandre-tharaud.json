@@ -1,0 +1,72 @@
+{
+  "canonical_slug": "alexandre-tharaud",
+  "name": "Alexandre Tharaud",
+  "spotify_artist_id": "5HG9Eg7Ik8ZuNtMyGYTxLG",
+  "musicbrainz_artist_id": "83b74911-aa21-4e31-ad1c-5eb505248f5a",
+  "spotify_url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "french pianist",
+    "pianist"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3984bea5720d4437f7c3b302",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743984bea5720d4437f7c3b302",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783984bea5720d4437f7c3b302",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Alexandre Tharaud",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre_Tharaud",
+  "summary": "Alexandre Charles Martial Tharaud is a French pianist. He is active on the concert stage and has released a large and diverse discography.",
+  "candidates": [
+    "Alexandre Tharaud"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alexandre Tharaud",
+    "page_url": "https://en.wikipedia.org/wiki/Alexandre_Tharaud",
+    "retrieved_at": "2026-03-28T10:37:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alexandre Tharaud05 (43899700391).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexandre_Tharaud05_(43899700391).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Alexandre_Tharaud05_%2843899700391%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alexandre_Tharaud05_%2843899700391%29.jpg/960px-Alexandre_Tharaud05_%2843899700391%29.jpg",
+    "width": 5372,
+    "height": 3688,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51119063@N04\"\u003eQuincena Musical\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alexandre Tharaud05 (43899700391).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexandre_Tharaud05_(43899700391).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Alexandre_Tharaud05_%2843899700391%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alexandre_Tharaud05_%2843899700391%29.jpg/960px-Alexandre_Tharaud05_%2843899700391%29.jpg",
+      "width": 5372,
+      "height": 3688,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51119063@N04\"\u003eQuincena Musical\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

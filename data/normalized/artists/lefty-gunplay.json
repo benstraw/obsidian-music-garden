@@ -1,0 +1,48 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1jiZvw42D4oquLl24x2VWV",
+  "name": "Lefty Gunplay",
+  "spotify_url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV",
+  "musicbrainz_artist_id": "9f57f48c-706e-4dc3-9c67-a790e44ae930",
+  "status": "matched",
+  "page_title": "Lefty Gunplay",
+  "summary": "Franklin Scott Holladay, better known by his stage name Lefty Gunplay, is an American rapper. Born and raised in Baldwin Park, Holladay is signed to JasonMartin's label Diamond Lane Music Group and OTR Records. He is best known for his guest appearance on Kendrick Lamar's 2025 single \"TV Off\", which won Best Rap Song at the 68th Annual Grammy Awards.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lefty_Gunplay",
+  "candidates": [
+    "Lefty Gunplay"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lefty Gunplay",
+    "page_url": "https://en.wikipedia.org/wiki/Lefty_Gunplay",
+    "retrieved_at": "2026-03-28T10:40:38Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Lefty Gunplay 2025.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lefty_Gunplay_2025.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lefty_Gunplay_2025.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lefty_Gunplay_2025.jpg",
+    "width": 856,
+    "height": 1080,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BossTalk101\"\u003eBOSS TALK 101\u003c/a\u003e",
+    "attribution_text": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BossTalk101\"\u003eBOSS TALK 101\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lefty Gunplay 2025.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lefty_Gunplay_2025.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lefty_Gunplay_2025.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Lefty_Gunplay_2025.jpg",
+      "width": 856,
+      "height": 1080,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BossTalk101\"\u003eBOSS TALK 101\u003c/a\u003e",
+      "attribution_text": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BossTalk101\"\u003eBOSS TALK 101\u003c/a\u003e"
+    }
+  ]
+}

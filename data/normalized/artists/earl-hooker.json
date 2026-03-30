@@ -1,0 +1,44 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3Ev1WS21x5Jav9j214A19O",
+  "name": "Earl Hooker",
+  "spotify_url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O",
+  "musicbrainz_artist_id": "ef11dd9b-4557-4fc5-b0e2-a431c5cfddbb",
+  "source_genres": [
+    "blues",
+    "chicago blues",
+    "electric blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues"
+  ],
+  "status": "matched",
+  "page_title": "Earl Hooker",
+  "summary": "Earl Zebedee Hooker was a Chicago blues guitarist known for his slide guitar playing. Considered a \"musician's musician\", he performed with blues artists such as Sonny Boy Williamson II, Junior Wells, and John Lee Hooker and fronted his own bands. An early player of the electric guitar, Hooker was influenced by the modern urban styles of T-Bone Walker and Robert Nighthawk. He recorded several singles and albums as a bandleader and with other well-known artists. His \"Blue Guitar\", a slide guitar instrumental single, was popular in the Chicago area and was later overdubbed with vocals by Muddy Waters as \"You Shook Me\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Earl_Hooker",
+  "candidates": [
+    "Ear Booker Polka",
+    "Earl Cooper",
+    "Earl Cooper (American football)",
+    "Earl Hofert",
+    "Earl Hooker",
+    "Earl Horter",
+    "Earl of Holderness"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Earl Hooker",
+    "page_url": "https://en.wikipedia.org/wiki/Earl_Hooker",
+    "retrieved_at": "2026-03-28T10:38:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:American blues guitarist Earl Hooker.png"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:American blues guitarist Earl Hooker.png"
+    }
+  ]
+}

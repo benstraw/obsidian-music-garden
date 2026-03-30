@@ -1,0 +1,93 @@
+{
+  "canonical_slug": "art-song",
+  "display_title": "Art Song",
+  "display_name": "Art Song",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Art song",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Art_song",
+  "summary": "An art song is a Western vocal music composition, usually written for one voice with piano accompaniment, and usually in the classical art music tradition. By extension, the term \"art song\" is used to refer to the collective genre of such songs. An art song is most often a musical setting of an independent poem or text, \"intended for the concert repertory\" \"as part of a recital or other relatively formal social occasion\". While many vocal music pieces are easily recognized as art songs, others are more difficult to categorize. For example, a wordless vocalise written by a classical composer is sometimes considered an art song and sometimes not.",
+  "candidates": [
+    "Art (song)",
+    "Art Angels",
+    "Art Monk",
+    "Art Spiegelman",
+    "Art Young",
+    "Art forgery",
+    "Art song",
+    "Art song in Arabic",
+    "The Art Song Project",
+    "The Art of the Song"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Art song",
+    "page_url": "https://en.wikipedia.org/wiki/Art_song",
+    "retrieved_at": "2026-03-28T15:53:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Nacht und traume bar 5.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Nacht_und_traume_bar_5.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nacht_und_traume_bar_5.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nacht_und_traume_bar_5.png",
+    "width": 388,
+    "height": 270,
+    "license": "Public domain",
+    "author": "\u003cp\u003e.\n\u003c/p\u003e\nThe original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Camembert\" class=\"extiw\" title=\"wikipedia:User:Camembert\"\u003eCamembert\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nacht und traume bar 5.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nacht_und_traume_bar_5.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nacht_und_traume_bar_5.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Nacht_und_traume_bar_5.png",
+      "width": 388,
+      "height": 270,
+      "license": "Public domain",
+      "author": "\u003cp\u003e.\n\u003c/p\u003e\nThe original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Camembert\" class=\"extiw\" title=\"wikipedia:User:Camembert\"\u003eCamembert\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:PDP-CH - Helge Rosvaenge, Tenor - Gerald Moore, Pianoforte - Der Feuerreiter - Hugo Wolf Society - Hmv-db3321-2ra2193.flac",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:PDP-CH_-_Helge_Rosvaenge,_Tenor_-_Gerald_Moore,_Pianoforte_-_Der_Feuerreiter_-_Hugo_Wolf_Society_-_Hmv-db3321-2ra2193.flac",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/PDP-CH_-_Helge_Rosvaenge%2C_Tenor_-_Gerald_Moore%2C_Pianoforte_-_Der_Feuerreiter_-_Hugo_Wolf_Society_-_Hmv-db3321-2ra2193.flac",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--art-song.json",
+      "url": "https://en.wikipedia.org/wiki/Art_song",
+      "retrieved_at": "2026-03-28T15:53:09Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--art-song.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Nacht_und_traume_bar_5.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

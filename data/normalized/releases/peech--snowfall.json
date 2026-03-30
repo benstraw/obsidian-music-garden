@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4xnKuJn8Qvv9S87t9P1hWw",
   "name": "Snowfall",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "410a9854-1315-41fc-9faf-d48738f70019",
+  "musicbrainz_release_group_id": "b45e2ee7-b82d-4d2c-9bf7-53b65d75b4c4"
 }

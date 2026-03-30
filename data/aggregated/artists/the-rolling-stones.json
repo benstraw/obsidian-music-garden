@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "the-rolling-stones",
+  "name": "The Rolling Stones",
+  "play_count": 14,
+  "spotify_artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+  "musicbrainz_artist_id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+  "spotify_url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe",
+  "genres": [
+    "classic-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "classic rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e4cea917b68726aadb4854b8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e4cea917b68726aadb4854b8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Rolling Stones",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+  "summary": "The Rolling Stones are an English rock band formed in London in 1962. Active for over six decades, they are one of the most popular, influential, and enduring bands of the rock era. In the early 1960s, the band pioneered the gritty, rhythmically driven sound that came to define hard rock. Their first stable line-up consisted of vocalist Mick Jagger, guitarist Keith Richards, multi-instrumentalist Brian Jones, bassist Bill Wyman, and drummer Charlie Watts, after pianist Ian Stewart was side-lined by their manager Andrew Loog Oldham. During their early years, Jones was the primary leader. Oldham encouraged them to write their own songs. The Jagger–Richards partnership soon became the band's primary songwriting and creative force.",
+  "candidates": [
+    "The Rolling Stones",
+    "The Rolling Stones (album)",
+    "The Rolling Stones 1965 tours",
+    "The Rolling Stones American Tour 1972",
+    "The Rolling Stones American Tour 1981",
+    "The Rolling Stones No. 2",
+    "The Rolling Stones Rock and Roll Circus",
+    "The Rolling Stones discography",
+    "The Rolling Stones' Redlands bust",
+    "The Rolling Stones, Now!"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Rolling Stones",
+    "page_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+    "retrieved_at": "2026-03-28T10:43:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:ABiggerBangTwickenham4.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:ABiggerBangTwickenham4.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ABiggerBangTwickenham4.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ABiggerBangTwickenham4.JPG/960px-ABiggerBangTwickenham4.JPG",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Egghead06\" class=\"extiw\" title=\"wikipedia:User:Egghead06\"\u003eEgghead06\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Egghead06\" class=\"extiw\" title=\"wikipedia:User:Egghead06\"\u003eEgghead06\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ABiggerBangTwickenham4.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:ABiggerBangTwickenham4.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ABiggerBangTwickenham4.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ABiggerBangTwickenham4.JPG/960px-ABiggerBangTwickenham4.JPG",
+      "width": 1280,
+      "height": 960,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Egghead06\" class=\"extiw\" title=\"wikipedia:User:Egghead06\"\u003eEgghead06\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Egghead06\" class=\"extiw\" title=\"wikipedia:User:Egghead06\"\u003eEgghead06\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aankomst van de Rolling Stones op Schiphol, Bestanddeelnr 916-7420.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aankomst_van_de_Rolling_Stones_op_Schiphol,_Bestanddeelnr_916-7420.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Aankomst_van_de_Rolling_Stones_op_Schiphol%2C_Bestanddeelnr_916-7420.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aankomst_van_de_Rolling_Stones_op_Schiphol%2C_Bestanddeelnr_916-7420.jpg/960px-Aankomst_van_de_Rolling_Stones_op_Schiphol%2C_Bestanddeelnr_916-7420.jpg",
+      "width": 2573,
+      "height": 2566,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Hugo van Gelderen / Anefo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Wyman - Rolling Stones - 1975.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Wyman_-_Rolling_Stones_-_1975.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bill_Wyman_-_Rolling_Stones_-_1975.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bill_Wyman_-_Rolling_Stones_-_1975.jpg",
+      "width": 480,
+      "height": 675,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Jim Summaria, \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.jimsummariaphoto.com/\"\u003ehttp://www.jimsummariaphoto.com/\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blue Plaque for the Rolling Stones at Dartford Railway Station.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blue_Plaque_for_the_Rolling_Stones_at_Dartford_Railway_Station.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Blue_Plaque_for_the_Rolling_Stones_at_Dartford_Railway_Station.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Blue_Plaque_for_the_Rolling_Stones_at_Dartford_Railway_Station.jpg/960px-Blue_Plaque_for_the_Rolling_Stones_at_Dartford_Railway_Station.jpg",
+      "width": 4592,
+      "height": 3448,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ethan_Doyle_White\" class=\"mw-redirect\" title=\"User:Ethan Doyle White\"\u003eEthan Doyle White\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brian Jones guitar, HRC Sacramento.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Jones_guitar,_HRC_Sacramento.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Brian_Jones_guitar%2C_HRC_Sacramento.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Brian_Jones_guitar%2C_HRC_Sacramento.jpg/960px-Brian_Jones_guitar%2C_HRC_Sacramento.jpg",
+      "width": 1152,
+      "height": 864,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/9993075@N06\"\u003eNick Ares\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

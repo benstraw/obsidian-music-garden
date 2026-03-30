@@ -1,11 +1,15 @@
 {
   "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-adoration-of-the-earth-introduction-lento-1921-version",
   "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - Adoration of the Earth. Introduction. Lento (1921 Version)",
+  "play_count": 2,
   "primary_artist_canonical_slug": "igor-stravinsky",
   "primary_artist_name": "Igor Stravinsky",
+  "additional_artist_slugs": [
+    "leonard-bernstein",
+    "london-symphony-orchestra"
+  ],
   "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
   "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
   "spotify_track_id": "2DxlceLn2yqiyFpB9Ea6KH",
-  "spotify_url": "https://open.spotify.com/track/2DxlceLn2yqiyFpB9Ea6KH",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/2DxlceLn2yqiyFpB9Ea6KH"
 }

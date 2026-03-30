@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "carl-petersson",
+  "name": "Carl Petersson",
+  "spotify_artist_id": "48E8cJEbso9LugpsKXLHEH",
+  "musicbrainz_artist_id": "6f1365e1-d00d-4dc8-b806-a01ea9c33db0",
+  "spotify_url": "https://open.spotify.com/artist/48E8cJEbso9LugpsKXLHEH",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebd8e83c6d3f1df9393b265b57",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174d8e83c6d3f1df9393b265b57",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178d8e83c6d3f1df9393b265b57",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Carl Persson",
+    "Carl Persson (ice hockey)",
+    "Carl Petersen (neuroscientist)",
+    "Carl Peterson",
+    "Carl Peterson (American football)",
+    "Carl Peterson (Australian footballer)",
+    "Carl Peterson (One Life to Live)",
+    "Carl Petersén (army officer)",
+    "Carl Pettersson",
+    "Carla Peterson (actress)"
+  ],
+  "last_updated": "2026-03-30"
+}

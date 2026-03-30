@@ -1,0 +1,72 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5Vs3qf1k8vN4WJBceZwbLw",
+  "name": "Klaus Storck",
+  "spotify_url": "https://open.spotify.com/artist/5Vs3qf1k8vN4WJBceZwbLw",
+  "musicbrainz_artist_id": "54747530-a63f-4ad8-a9a3-4c7712482db6",
+  "status": "matched",
+  "page_title": "Klaus Storck",
+  "summary": "Klaus Storck was a German cellist who appeared internationally as soloist and chamber musician. He also edited music for cello. He often appeared in a duo with his wife, the harpist Helga Storck, and composers wrote music for them.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Klaus_Storck",
+  "candidates": [
+    "Klaus (storm)",
+    "Klaus Serck-Hanssen",
+    "Klaus Staeck",
+    "Klaus Storck",
+    "Klaus Stärk",
+    "Klaus Störtebeker"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Klaus Storck",
+    "page_url": "https://en.wikipedia.org/wiki/Klaus_Storck",
+    "retrieved_at": "2026-03-28T10:40:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Germany.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/960px-Flag_of_Germany.svg.png",
+      "width": 1000,
+      "height": 600,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:SKopp\" title=\"User:SKopp\"\u003eUser:SKopp\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Madden\" title=\"User:Madden\"\u003eUser:Madden\u003c/a\u003e, and other users"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Klaus Storck -grave.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Klaus_Storck_-grave.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Klaus_Storck_-grave.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Klaus_Storck_-grave.jpg/960px-Klaus_Storck_-grave.jpg",
+      "width": 1445,
+      "height": 1516,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Egidius~dewiki\" title=\"User:Egidius~dewiki\"\u003eEgidius~dewiki\u003c/a\u003e"
+    }
+  ]
+}

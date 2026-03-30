@@ -1,0 +1,93 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2pAWfrd7WFF3XhVt9GooDL",
+  "name": "MF DOOM",
+  "spotify_url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL",
+  "musicbrainz_artist_id": "188711ed-c99b-439c-844a-ca831f63a727",
+  "source_genres": [
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "MF Doom",
+  "summary": "Daniel Dumile, also known by his stage name MF Doom or simply Doom, was a British and American rapper, songwriter, and record producer. Noted for his intricate wordplay, signature metal mask, and \"supervillain\" stage persona, he became a major figure of underground hip hop and alternative hip hop in the 2000s.",
+  "canonical_url": "https://en.wikipedia.org/wiki/MF_Doom",
+  "candidates": [
+    "MF Doom",
+    "MF Doom discography",
+    "MF Doom production discography",
+    "MV Domala",
+    "Mr Doodle",
+    "My Doorbell",
+    "My Roomie Is a Dino",
+    "My Roommate Is a Cat",
+    "My Roommate Is a Gumiho",
+    "Mydoom"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "MF Doom",
+    "page_url": "https://en.wikipedia.org/wiki/MF_Doom",
+    "retrieved_at": "2026-03-28T10:40:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:KMD Elektra.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KMD Elektra.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MF DOOM Tribute Deptford Creekside.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MF_DOOM_Tribute_Deptford_Creekside.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/MF_DOOM_Tribute_Deptford_Creekside.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MF_DOOM_Tribute_Deptford_Creekside.jpg/960px-MF_DOOM_Tribute_Deptford_Creekside.jpg",
+      "width": 3130,
+      "height": 2075,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:SamuelWren98\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:SamuelWren98 (page does not exist)\"\u003eSamuelWren98\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MF Doom (2011 portrait illustration from tour poster).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MF_Doom_(2011_portrait_illustration_from_tour_poster).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg/960px-MF_Doom_%282011_portrait_illustration_from_tour_poster%29.jpg",
+      "width": 1317,
+      "height": 1974,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Illustrator uncredited. Published by \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/thearches/\"\u003eTheArches\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MF Doom - 23 July 2011 03.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MF_Doom_-_23_July_2011_03.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/MF_Doom_-_23_July_2011_03.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MF_Doom_-_23_July_2011_03.jpg/960px-MF_Doom_-_23_July_2011_03.jpg",
+      "width": 3000,
+      "height": 1996,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "possan"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MF Doom - Hultsfred 2011 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MF_Doom_-_Hultsfred_2011_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/MF_Doom_-_Hultsfred_2011_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/MF_Doom_-_Hultsfred_2011_%28cropped%29.jpg/960px-MF_Doom_-_Hultsfred_2011_%28cropped%29.jpg",
+      "width": 1613,
+      "height": 2141,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Possan\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Possan (page does not exist)\"\u003ePossan\u003c/a\u003e"
+    }
+  ]
+}

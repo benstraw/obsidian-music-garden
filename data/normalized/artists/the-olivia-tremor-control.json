@@ -1,0 +1,84 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4a2nAPF15Gv8V65Ba3IJSB",
+  "name": "The Olivia Tremor Control",
+  "spotify_url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB",
+  "musicbrainz_artist_id": "d62842be-03d8-414b-a8d6-36f4b3b563ed",
+  "source_genres": [
+    "alternative and punk",
+    "experimental",
+    "indie rock",
+    "lo-fi",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "experimental",
+    "indie-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "The Olivia Tremor Control",
+  "summary": "The Olivia Tremor Control are an American psychedelic band from Athens, Georgia that released two studio albums, a bonus disc, a singles collection and a live album between 1996 and 2000. The main members were Will Cullen Hart, Bill Doss, Eric Harris, John Fernandes and Peter Erchick. They combined indie rock and neo-psychedelia, taking influence from psychedelic pop bands of the 1960s, such as the Beach Boys and the Beatles.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Olivia_Tremor_Control",
+  "candidates": [
+    "The Olivia Tremor Control",
+    "The Olivia Tremor Control / Black Swan Network",
+    "The Olivia Tremor Control/The Apples in Stereo"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Olivia Tremor Control",
+    "page_url": "https://en.wikipedia.org/wiki/The_Olivia_Tremor_Control",
+    "retrieved_at": "2026-03-28T10:43:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bill Doss FYF 2010.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Doss_FYF_2010.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bill_Doss_FYF_2010.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bill_Doss_FYF_2010.jpg/960px-Bill_Doss_FYF_2010.jpg",
+    "width": 3648,
+    "height": 2736,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Juan Bendana"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bill Doss FYF 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bill_Doss_FYF_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bill_Doss_FYF_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bill_Doss_FYF_2010.jpg/960px-Bill_Doss_FYF_2010.jpg",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Juan Bendana"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Olivia Tremor Control 2005.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Olivia_Tremor_Control_2005.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Olivia_Tremor_Control_2005.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Olivia_Tremor_Control_2005.jpg/960px-Olivia_Tremor_Control_2005.jpg",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/15365773@N00\"\u003eChris Yetter\u003c/a\u003e from Dallas, TX, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Will Cullen Hart FYF 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Will_Cullen_Hart_FYF_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Will_Cullen_Hart_FYF_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Will_Cullen_Hart_FYF_2010.jpg/960px-Will_Cullen_Hart_FYF_2010.jpg",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Juan Bendana"
+    }
+  ]
+}

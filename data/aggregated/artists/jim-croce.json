@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "jim-croce",
+  "name": "Jim Croce",
+  "play_count": 9,
+  "spotify_artist_id": "1R6Hx1tJ2VOUyodEpC12xM",
+  "spotify_url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM",
+  "genres": [
+    "folk-rock",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "folk rock",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9f9b40704e3361c93ea8a8b7a86a5d9ee755466e",
+      "height": 990,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/a231c19bbf27417afaf99cad6ef372054b38da28",
+      "height": 634,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/f2374db73b0a0722f78b84ff88d26ab32472938b",
+      "height": 198,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ac6acaf00e9a2201a9a9785a1bd83d1419545f1f",
+      "height": 63,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

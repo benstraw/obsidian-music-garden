@@ -1,0 +1,133 @@
+{
+  "canonical_slug": "hard-rock",
+  "display_title": "Hard Rock",
+  "display_name": "Hard Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Hard rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hard_rock",
+  "summary": "Hard rock or heavy rock is a heavier subgenre of rock music typified by vocals and electric guitars that are aggressive and distorted relative to traditional rock music. Hard rock began in the mid-1960s with the garage, psychedelic and blues rock movements. Some of the earliest hard rock music was produced by the Kinks, the Who, the Yardbirds, the Rolling Stones, Cream, Vanilla Fudge, and the Jimi Hendrix Experience. In the late 1960s, bands such as Blue Cheer, the Jeff Beck Group, Iron Butterfly, Led Zeppelin, Creedence Clearwater Revival, Golden Earring, Steppenwolf, Grand Funk Railroad, Free, and Deep Purple also produced hard rock.",
+  "candidates": [
+    "Hard Rock Cafe",
+    "Hard Rock Hallelujah",
+    "Hard Rock Hell",
+    "Hard Rock Hotel \u0026 Casino Atlantic City",
+    "Hard Rock Hotel and Casino",
+    "Hard Rock Hotel and Casino (Las Vegas)",
+    "Hard Rock International",
+    "Hard Rock Las Vegas",
+    "Hard Rock Stadium",
+    "Hard rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hard rock",
+    "page_url": "https://en.wikipedia.org/wiki/Hard_rock",
+    "retrieved_at": "2026-03-28T15:56:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Aerosmith2007.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerosmith2007.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Aerosmith2007.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aerosmith2007.jpg/960px-Aerosmith2007.jpg",
+    "width": 1129,
+    "height": 640,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/edvill/\"\u003eEdvill\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aerosmith2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerosmith2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Aerosmith2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aerosmith2007.jpg/960px-Aerosmith2007.jpg",
+      "width": 1129,
+      "height": 640,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/edvill/\"\u003eEdvill\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Backbeat chop.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Backbeat_chop.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Backbeat_chop.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Backbeat_chop.png/960px-Backbeat_chop.png",
+      "width": 2152,
+      "height": 468,
+      "license": "Public domain",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Hyacinth\" class=\"extiw\" title=\"wikipedia:User:Hyacinth\"\u003eHyacinth\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cream Clapton Bruce Baker 1960s.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "width": 928,
+      "height": 615,
+      "license": "Public domain",
+      "author": "General Artists Corporation (management) /Atco Records (the band's record label at one time)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Download Feastival 2006 -2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Download_Feastival_2006_-2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Download_Feastival_2006_-2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Download_Feastival_2006_-2.jpg/960px-Download_Feastival_2006_-2.jpg",
+      "width": 1284,
+      "height": 1256,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/47142214@N00\"\u003edave1968\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Foo Fighters Live 29.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Foo_Fighters_Live_29.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Foo_Fighters_Live_29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Foo_Fighters_Live_29.jpg/960px-Foo_Fighters_Live_29.jpg",
+      "width": 2760,
+      "height": 1836,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/39562150@N00\"\u003eJo\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--hard-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Hard_rock",
+      "retrieved_at": "2026-03-28T15:56:53Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--hard-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Aerosmith2007.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

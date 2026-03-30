@@ -1,0 +1,49 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0M1UOBJZ9tcKJbrbnVlHZG",
+  "name": "Paul Chambers",
+  "spotify_url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG",
+  "musicbrainz_artist_id": "b6ff4fd0-03ae-41a6-942e-7de13124b970",
+  "source_genres": [
+    "american",
+    "bassist",
+    "hard bop",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Paul Chambers",
+  "summary": "Paul Laurence Dunbar Chambers Jr. was an American jazz double bassist. A fixture of rhythm sections during the 1950s and 1960s, he has become one of the most widely-known jazz bassists of the hard bop era. He was also known for his bowed solos. Chambers recorded about a dozen albums as a leader or co-leader, and more than 100 as a sideman, especially as the anchor of trumpeter Miles Davis's \"first great quintet\" (1955–63) and with pianist Wynton Kelly (1963–68).",
+  "canonical_url": "https://en.wikipedia.org/wiki/Paul_Chambers",
+  "candidates": [
+    "Paul Chamberlain",
+    "Paul Chamberlin",
+    "Paul Chambers",
+    "Paul Chambers (Paralympian)",
+    "Paul Chambers (academic)",
+    "Paul Chambers (disambiguation)",
+    "Paul Chambers (footballer)",
+    "Paul Chambers (industrialist)",
+    "Paul Chambers Quintet",
+    "Paul Chambers discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Paul Chambers",
+    "page_url": "https://en.wikipedia.org/wiki/Paul_Chambers",
+    "retrieved_at": "2026-03-28T10:41:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Paul Laurence Dunbar Chambers, Jr..jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Paul Laurence Dunbar Chambers, Jr..jpg"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "canonical_slug": "lonelyboy",
+  "name": "lonelyboy",
+  "play_count": 70,
+  "spotify_artist_id": "30pF2pv50VXX6TgiMmKKjc",
+  "spotify_url": "https://open.spotify.com/artist/30pF2pv50VXX6TgiMmKKjc",
+  "source_genres": [
+    "lo-fi"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb39ce43b52504e06bdcf13cd1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517439ce43b52504e06bdcf13cd1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17839ce43b52504e06bdcf13cd1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Lonely Boy",
+    "Lonely Boy (Andrew Gold song)",
+    "Lonely Boy (Paul Anka song)",
+    "Lonely Boy (Sex Pistols song)",
+    "Lonely Boy (The Black Keys song)",
+    "Lonely Boy (The Tattoo on My Ring Finger)",
+    "Lonely Boy (film)",
+    "Lonely Boy's Paradise",
+    "Lonely Boys",
+    "The Lonely Boys"
+  ],
+  "last_updated": "2026-03-30"
+}

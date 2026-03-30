@@ -1,7 +1,9 @@
 {
   "canonical_slug": "gil-evans",
   "name": "Gil Evans",
+  "play_count": 21,
   "spotify_artist_id": "7g9DeYASD3RzlT4kDchsQZ",
+  "musicbrainz_artist_id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
   "spotify_url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ",
   "genres": [
     "bebop",
@@ -11,6 +13,7 @@
     "jazz"
   ],
   "source_genres": [
+    "bebob",
     "bebop",
     "big band",
     "cool jazz",
@@ -111,5 +114,5 @@
       "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

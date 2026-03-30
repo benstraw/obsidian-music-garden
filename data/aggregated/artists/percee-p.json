@@ -1,0 +1,62 @@
+{
+  "canonical_slug": "percee-p",
+  "name": "Percee P",
+  "spotify_artist_id": "3jOh5Hdrc5A8nQxBf5Q6gN",
+  "musicbrainz_artist_id": "be9303c8-d2e1-4e80-9c12-0ba31436c2c7",
+  "spotify_url": "https://open.spotify.com/artist/3jOh5Hdrc5A8nQxBf5Q6gN",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Percee P",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Percee_P",
+  "summary": "Percee P is an American rapper from the Bronx, New York. He first gained recognition in the hip-hop community in the early 1990s for his fast-paced, intricate rhymes and unique flow. He is known for his collaborations with other notable hip-hop artists, including Lord Finesse and Madlib. Percee P has released several albums throughout his career, including Perseverance in 2007. He continues to be a respected figure in the underground hip-hop scene.",
+  "candidates": [
+    "Percee P",
+    "Perception",
+    "Perception (TV series)",
+    "Perception management",
+    "Perceptron",
+    "Perceptrons (book)",
+    "Perceptual control theory",
+    "Perceptual learning",
+    "Percy Sledge",
+    "Percé Rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Percee P",
+    "page_url": "https://en.wikipedia.org/wiki/Percee_P",
+    "retrieved_at": "2026-03-28T10:41:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Percee P.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Percee_P.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Percee_P.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Percee_P.jpg",
+    "width": 270,
+    "height": 281,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Stones Throw"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Percee P.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Percee_P.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Percee_P.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Percee_P.jpg",
+      "width": 270,
+      "height": 281,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Stones Throw"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

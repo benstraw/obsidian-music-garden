@@ -6,42 +6,121 @@
   "aliases": [
     "jazz funk"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Jazz-funk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz-funk",
+  "summary": "Jazz-funk is a subgenre of jazz music characterized by a strong back beat, electrified sounds, and analog synthesizers. The integration of funk, soul, and R\u0026B music and styles into jazz resulted in the creation of a genre that ranges from pure jazz improvisation to soul, funk or disco with jazz arrangements, jazz riffs, jazz solos, and sometimes soul vocals. Similar genres to jazz funk include acid jazz.",
   "candidates": [
-    "Jake Funk",
-    "Jazz Bunker",
-    "Jazz Foundation of America",
-    "Jazz Funk (album)",
-    "Jazz funeral",
-    "Jazz funeral for the ERA",
-    "Jazz fusion",
-    "Jazz-funk",
-    "Jazz-funk dance",
-    "Jazzpunk"
+    "Jazz-funk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz-funk",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz-funk",
+    "retrieved_at": "2026-03-29T17:22:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Herbie Hancock-Chameleon Live.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Herbie_Hancock-Chameleon_Live.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Herbie_Hancock-Chameleon_Live.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Herbie_Hancock-Chameleon_Live.jpg",
+    "width": 683,
+    "height": 1024,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Marco Fedele (\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/marcofedele/\"\u003ehttps://www.flickr.com/photos/marcofedele/\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Herbie Hancock-Chameleon Live.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Herbie_Hancock-Chameleon_Live.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Herbie_Hancock-Chameleon_Live.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Herbie_Hancock-Chameleon_Live.jpg",
+      "width": 683,
+      "height": 1024,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Marco Fedele (\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/marcofedele/\"\u003ehttps://www.flickr.com/photos/marcofedele/\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 4,
-    "unique_artist_count": 3,
-    "unique_release_count": 3,
-    "unique_track_count": 4,
-    "first_played_at": "2026-03-01T01:45:13.204Z",
-    "last_played_at": "2026-03-08T20:38:10.244Z"
+    "play_count": 52,
+    "unique_artist_count": 8,
+    "unique_release_count": 18,
+    "unique_track_count": 35,
+    "first_played_at": "2024-01-01T00:00:00.047255442Z",
+    "last_played_at": "2026-03-19T02:22:54.001Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "mulatu-astatke",
+      "name": "Mulatu Astatke",
+      "play_count": 18,
+      "spotify_artist_id": "7HGFXtBhRq3g1Ma3nH4Rgv",
+      "spotify_url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+    },
+    {
+      "canonical_slug": "herbie-hancock",
+      "name": "Herbie Hancock",
+      "play_count": 15,
+      "spotify_artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "musicbrainz_artist_id": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+      "spotify_url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+    },
+    {
+      "canonical_slug": "butcher-brown",
+      "name": "Butcher Brown",
+      "play_count": 7,
+      "spotify_artist_id": "2jQ6wRQ7yP1UrctodeuYQP",
+      "musicbrainz_artist_id": "c0937ba4-6869-456b-afd0-10335ae50245",
+      "spotify_url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+    },
+    {
       "canonical_slug": "gil-scott-heron",
       "name": "Gil Scott-Heron",
-      "play_count": 2,
+      "play_count": 4,
       "spotify_artist_id": "0kEfub5RzlZOB2zGomqVSU",
+      "musicbrainz_artist_id": "b5b89643-c488-4f39-a302-25cab31084a5",
       "spotify_url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+    },
+    {
+      "canonical_slug": "bennie-maupin",
+      "name": "Bennie Maupin",
+      "play_count": 3,
+      "spotify_artist_id": "2mv4xHxofvyWTp2ViBqgZb",
+      "musicbrainz_artist_id": "c0050289-6969-437d-be83-0fcb608ead5c",
+      "spotify_url": "https://open.spotify.com/artist/2mv4xHxofvyWTp2ViBqgZb"
+    },
+    {
+      "canonical_slug": "idris-muhammad",
+      "name": "Idris Muhammad",
+      "play_count": 3,
+      "spotify_artist_id": "6ghiUK2ao3KcmmDt2pbNzN",
+      "musicbrainz_artist_id": "318c02c2-d766-4843-9035-e186531fc98c",
+      "spotify_url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
     },
     {
       "canonical_slug": "lafayette-afro-rock-band",
       "name": "Lafayette Afro Rock Band",
       "play_count": 1,
       "spotify_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
+      "musicbrainz_artist_id": "68b22fd5-038c-4b74-8ed0-ee93b13c1d9e",
       "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
     },
     {
@@ -49,76 +128,216 @@
       "name": "Us3",
       "play_count": 1,
       "spotify_artist_id": "4LtIfuFeAamus9OOItuWDD",
+      "musicbrainz_artist_id": "b370defd-86cc-42f3-85b4-7c2a8305c04a",
       "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "mulatu-astatke--new-york-addis-london-the-story-of-ethio-jazz-1965-1975",
+      "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "spotify_album_id": "3MHdUsf9wX9WffvOP59RBz"
+    },
+    {
+      "canonical_slug": "herbie-hancock--sextant",
+      "name": "Sextant",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "herbie-hancock",
+      "primary_artist_name": "Herbie Hancock",
+      "spotify_album_id": "0J6PpQHDOcr54tXvh1MMCr",
+      "musicbrainz_release_id": "548b1809-ae6d-4bd5-a395-09dd4cb1fd89",
+      "musicbrainz_release_group_id": "57b856a7-e33c-35f3-8268-a7fb318e98b0"
+    },
+    {
+      "canonical_slug": "herbie-hancock--head-hunters",
+      "name": "Head Hunters",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "herbie-hancock",
+      "primary_artist_name": "Herbie Hancock",
+      "spotify_album_id": "5fmIolILp5NAtNYiRPjhzA",
+      "musicbrainz_release_id": "267a7c89-3624-4b7a-b7a2-aefc2bdc5e89",
+      "musicbrainz_release_group_id": "322f18bb-5491-38e9-9044-c0a468651eec"
+    },
+    {
       "canonical_slug": "gil-scott-heron--pieces-of-a-man",
       "name": "Pieces of a Man",
-      "play_count": 2,
+      "play_count": 4,
       "primary_artist_canonical_slug": "gil-scott-heron",
-      "primary_artist_name": "Gil Scott-Heron"
+      "primary_artist_name": "Gil Scott‐Heron",
+      "spotify_album_id": "3Iny1eqJMoqU1I1UoUbVQl",
+      "musicbrainz_release_id": "5f8b4190-e9f4-4b6a-8c06-681b6699b7d3",
+      "musicbrainz_release_group_id": "950f8cdc-da7b-3cd1-8d98-1c73cf5432d9"
     },
     {
-      "canonical_slug": "us3--hand-on-the-torch",
-      "name": "Hand On The Torch",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "us3",
-      "primary_artist_name": "Us3"
+      "canonical_slug": "ahmad-jamal--after-fajr",
+      "name": "After Fajr",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "spotify_album_id": "421KRz3J9J3tex5N3iSJ9o",
+      "musicbrainz_release_id": "bb283316-cbb0-4ec9-af27-bcd6f4d04459",
+      "musicbrainz_release_group_id": "ce8852d6-232c-3b7f-b94f-0c390b91032d"
     },
     {
-      "canonical_slug": "lafayette-afro-rock-band--malik",
-      "name": "Malik",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
-      "primary_artist_name": "Lafayette Afro Rock Band"
+      "canonical_slug": "herbie-hancock--blow-up-original-motion-picture-soundtrack",
+      "name": "Blow-Up (Original Motion Picture Soundtrack)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "herbie-hancock",
+      "primary_artist_name": "Herbie Hancock",
+      "spotify_album_id": "1NACGaotxNRFPquvQb4Crs"
+    },
+    {
+      "canonical_slug": "mulatu-astatke--inspiration-information-3",
+      "name": "Inspiration Information 3",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "spotify_album_id": "2hb6aPSmJLdS99oFOp34EP"
+    },
+    {
+      "canonical_slug": "butcher-brown--solar-music",
+      "name": "Solar Music",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "butcher-brown",
+      "primary_artist_name": "Butcher Brown",
+      "spotify_album_id": "2rhUlNPeS1bJQiBWXul6zY",
+      "musicbrainz_release_id": "72cee3d7-6814-4d83-87c2-b7f7f9f71b3a",
+      "musicbrainz_release_group_id": "ae8fb4c0-6885-4755-bf73-2c2c0621c310"
+    },
+    {
+      "canonical_slug": "bennie-maupin--the-jewel-in-the-lotus",
+      "name": "The Jewel In The Lotus",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bennie-maupin",
+      "primary_artist_name": "Bennie Maupin",
+      "spotify_album_id": "1Na5QsavsjOUqtj4f4Bxn1",
+      "musicbrainz_release_id": "7f1fcbb4-1491-441c-b9d9-c6fc49a68e34",
+      "musicbrainz_release_group_id": "710a53c3-6d0b-3c62-ad1d-c0ea02aa4187"
+    },
+    {
+      "canonical_slug": "mulatu-astatke--afro-latin-soul",
+      "name": "Afro-Latin Soul",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatqé \u0026 His Ethiopian Quintet",
+      "spotify_album_id": "1KSVf9uKUBwjAOfRcVsVjD",
+      "musicbrainz_release_id": "42d7bf44-6163-48c3-8ce2-7190fdf03245",
+      "musicbrainz_release_group_id": "4603e9a9-680c-3626-bd29-4080db364297"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "us3--cantaloop-flip-fantasia",
-      "name": "Cantaloop (Flip Fantasia)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "us3",
-      "primary_artist_name": "Us3",
-      "release_canonical_slug": "us3--hand-on-the-torch",
-      "release_name": "Hand On The Torch",
-      "spotify_track_id": "2AnTuxahfcAS7dGxGZnihY",
-      "spotify_url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"
+      "canonical_slug": "mulatu-astatke--cha-cha",
+      "name": "Cha Cha",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "release_canonical_slug": "mulatu-astatke--inspiration-information-3",
+      "release_name": "Inspiration Information 3",
+      "spotify_track_id": "6T18Yu2xPqy6NAhylfjQYO",
+      "spotify_url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
     },
     {
-      "canonical_slug": "lafayette-afro-rock-band--darkest-light-remastered",
-      "name": "Darkest Light - Remastered",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
-      "primary_artist_name": "Lafayette Afro Rock Band",
-      "release_canonical_slug": "lafayette-afro-rock-band--malik",
-      "release_name": "Malik",
-      "spotify_track_id": "6eDVnsVgEAjMdcczx4mpoq",
-      "spotify_url": "https://open.spotify.com/track/6eDVnsVgEAjMdcczx4mpoq"
-    },
-    {
-      "canonical_slug": "gil-scott-heron--home-is-where-the-hatred-is",
-      "name": "Home Is Where the Hatred Is",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "gil-scott-heron",
-      "primary_artist_name": "Gil Scott-Heron",
-      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
-      "release_name": "Pieces of a Man",
-      "spotify_track_id": "3pmp40HtLapVQ8L89Mz1vh",
-      "spotify_url": "https://open.spotify.com/track/3pmp40HtLapVQ8L89Mz1vh"
+      "canonical_slug": "mulatu-astatke--i-faram-gami-i-faram",
+      "name": "I Faram Gami I Faram",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "release_canonical_slug": "mulatu-astatke--new-york-addis-london-the-story-of-ethio-jazz-1965-1975",
+      "release_name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+      "spotify_track_id": "26YMZ2S61ItkKS1w3gdaDo",
+      "spotify_url": "https://open.spotify.com/track/26YMZ2S61ItkKS1w3gdaDo"
     },
     {
       "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
       "name": "The Revolution Will Not Be Televised",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "gil-scott-heron",
       "primary_artist_name": "Gil Scott-Heron",
       "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
       "release_name": "Pieces of a Man",
       "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
       "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
+    },
+    {
+      "canonical_slug": "mulatu-astatke--askum",
+      "name": "Askum",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "release_canonical_slug": "mulatu-astatke--afro-latin-soul",
+      "release_name": "Afro-Latin Soul",
+      "spotify_track_id": "7D4sSBbqvMhqxjZ8YtPqUM",
+      "spotify_url": "https://open.spotify.com/track/7D4sSBbqvMhqxjZ8YtPqUM"
+    },
+    {
+      "canonical_slug": "herbie-hancock--blow-up-main-title",
+      "name": "Blow-Up (Main Title)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "herbie-hancock",
+      "primary_artist_name": "Herbie Hancock",
+      "release_canonical_slug": "herbie-hancock--blow-up-original-motion-picture-soundtrack",
+      "release_name": "Blow-Up (Original Motion Picture Soundtrack)",
+      "spotify_track_id": "1NTOY2Y43SSYdFwuUFvYcc",
+      "spotify_url": "https://open.spotify.com/track/1NTOY2Y43SSYdFwuUFvYcc"
+    },
+    {
+      "canonical_slug": "butcher-brown--fohbliv",
+      "name": "Fohbliv",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "butcher-brown",
+      "primary_artist_name": "Butcher Brown",
+      "release_canonical_slug": "butcher-brown--all-purpose-music",
+      "release_name": "All Purpose Music",
+      "spotify_track_id": "5cFfLa6xvikVI5AeO9smL2",
+      "spotify_url": "https://open.spotify.com/track/5cFfLa6xvikVI5AeO9smL2"
+    },
+    {
+      "canonical_slug": "butcher-brown--happy-hourrr",
+      "name": "Happy Hourrr",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "butcher-brown",
+      "primary_artist_name": "Butcher Brown",
+      "release_canonical_slug": "butcher-brown--solar-music",
+      "release_name": "Solar Music",
+      "spotify_track_id": "7C3gA872F5ZQsGN9pKnDws",
+      "spotify_url": "https://open.spotify.com/track/7C3gA872F5ZQsGN9pKnDws"
+    },
+    {
+      "canonical_slug": "herbie-hancock--hornets",
+      "name": "Hornets",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "herbie-hancock",
+      "primary_artist_name": "Herbie Hancock",
+      "release_canonical_slug": "herbie-hancock--sextant",
+      "release_name": "Sextant",
+      "spotify_track_id": "0sJyW4f7X5YvmrG0cPBLzI",
+      "spotify_url": "https://open.spotify.com/track/0sJyW4f7X5YvmrG0cPBLzI"
+    },
+    {
+      "canonical_slug": "mulatu-astatke--kasalefkut-hulu-stereo-master",
+      "name": "Kasalefkut-hulu - Stereo Master",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "release_canonical_slug": "mulatu-astatke--mulatu-of-ethiopia",
+      "release_name": "Mulatu Of Ethiopia",
+      "spotify_track_id": "24VYlFVsEZ1ARpoVr3D5kB",
+      "spotify_url": "https://open.spotify.com/track/24VYlFVsEZ1ARpoVr3D5kB"
+    },
+    {
+      "canonical_slug": "mulatu-astatke--mascaram-setaba",
+      "name": "Mascaram Setaba",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "mulatu-astatke",
+      "primary_artist_name": "Mulatu Astatke",
+      "release_canonical_slug": "mulatu-astatke--new-york-addis-london-the-story-of-ethio-jazz-1965-1975",
+      "release_name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+      "spotify_track_id": "6vSY1FnuOXKtdKgNjjMCKl",
+      "spotify_url": "https://open.spotify.com/track/6vSY1FnuOXKtdKgNjjMCKl"
     }
   ],
   "source_refs": [
@@ -129,12 +348,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-funk.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz-funk",
+      "retrieved_at": "2026-03-29T17:22:46Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-funk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Herbie_Hancock-Chameleon_Live.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-08T20:38:10.244Z",
+      "updated_at": "2026-03-19T02:22:54.001Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

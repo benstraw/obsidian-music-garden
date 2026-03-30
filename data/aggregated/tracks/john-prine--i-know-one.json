@@ -1,11 +1,14 @@
 {
   "canonical_slug": "john-prine--i-know-one",
   "name": "I Know One",
+  "play_count": 5,
   "primary_artist_canonical_slug": "john-prine",
   "primary_artist_name": "John Prine",
+  "additional_artist_slugs": [
+    "emmylou-harris"
+  ],
   "release_canonical_slug": "john-prine--in-spite-of-ourselves",
   "release_name": "In Spite Of Ourselves",
   "spotify_track_id": "20z4r2Jhk3yOCTGuRSRMTE",
-  "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/20z4r2Jhk3yOCTGuRSRMTE"
 }

@@ -4,6 +4,9 @@
   "name": "We Up",
   "primary_artist_name": "50 Cent",
   "primary_artist_canonical_slug": "50-cent",
+  "additional_artist_slugs": [
+    "kendrick-lamar"
+  ],
   "release_name": "We Up",
   "release_canonical_slug": "50-cent--we-up",
   "spotify_url": "https://open.spotify.com/track/4VnYL2m6J9kWrBSw22CXwx"

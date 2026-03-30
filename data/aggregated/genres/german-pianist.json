@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "german-pianist",
+  "display_title": "German Pianist",
+  "display_name": "German Pianist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "German Minister to Sweden",
+    "German Ministry of Defence",
+    "German Ministry of Finance",
+    "German Ministry of Foreign Affairs",
+    "German Ministry of Justice",
+    "German Ministry of Propaganda",
+    "German ministerial",
+    "German ministry for education and research",
+    "German-Pakistani",
+    "Germania District"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

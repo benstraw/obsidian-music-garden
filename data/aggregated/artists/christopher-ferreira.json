@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "christopher-ferreira",
+  "name": "Christopher Ferreira",
+  "spotify_artist_id": "67JB9ps4KBT90qPzKyQ3fS",
+  "musicbrainz_artist_id": "76c31e25-fe49-48b9-b5fa-5c744a1499fe",
+  "spotify_url": "https://open.spotify.com/artist/67JB9ps4KBT90qPzKyQ3fS",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb87d338cac927f94a5966d8fa",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517487d338cac927f94a5966d8fa",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17887d338cac927f94a5966d8fa",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Christophe Ferreira de Freitas",
+    "Christopher Ferrara",
+    "Christopher Pereira"
+  ],
+  "last_updated": "2026-03-30"
+}

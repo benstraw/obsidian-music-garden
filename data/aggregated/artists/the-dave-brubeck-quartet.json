@@ -1,7 +1,9 @@
 {
   "canonical_slug": "the-dave-brubeck-quartet",
   "name": "The Dave Brubeck Quartet",
+  "play_count": 58,
   "spotify_artist_id": "4iRZAbYvBqnxrbs6K25aJ7",
+  "musicbrainz_artist_id": "7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7",
   "spotify_url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7",
   "genres": [
     "cool-jazz",
@@ -54,5 +56,5 @@
     "width": 1260,
     "height": 1680
   },
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

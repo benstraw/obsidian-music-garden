@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "cowpunk",
+  "display_title": "Cowpunk",
+  "display_name": "Cowpunk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Cowpunk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cowpunk",
+  "summary": "Cowpunk is a subgenre of country music and punk rock that began in the United Kingdom and Southern California in the late 1970s and early 1980s. It combines punk rock or new wave with country, folk, and blues in its sound, lyrical subject matter, attitude, and style. Examples include Social Distortion, the Gun Club, the Long Ryders, Dash Rip Rock, Violent Femmes, the Blasters, Mojo Nixon, Meat Puppets, the Beat Farmers, Rubber Rodeo, Rank and File, and Jason and the Scorchers. Many of the musicians in this scene subsequently became associated with alternative country, roots rock or Americana.",
+  "candidates": [
+    "CM Punk",
+    "Compukit UK101",
+    "Compunetix",
+    "Con Funk Shun",
+    "Cow dung",
+    "Cowpens National Battlefield",
+    "Cowpens flag",
+    "Cowpens, South Carolina",
+    "Cowpuncher's Cantata",
+    "Cowpunk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cowpunk",
+    "page_url": "https://en.wikipedia.org/wiki/Cowpunk",
+    "retrieved_at": "2026-03-28T15:54:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Nashville Pussy Closeup Photo.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Nashville_Pussy_Closeup_Photo.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nashville_Pussy_Closeup_Photo.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nashville_Pussy_Closeup_Photo.jpg/960px-Nashville_Pussy_Closeup_Photo.jpg",
+    "width": 4896,
+    "height": 3264,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Maxab007\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Maxab007 (page does not exist)\"\u003eMaxab007\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nashville Pussy Closeup Photo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nashville_Pussy_Closeup_Photo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nashville_Pussy_Closeup_Photo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nashville_Pussy_Closeup_Photo.jpg/960px-Nashville_Pussy_Closeup_Photo.jpg",
+      "width": 4896,
+      "height": 3264,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Maxab007\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Maxab007 (page does not exist)\"\u003eMaxab007\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Social-Distortion Cologne.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Social-Distortion_Cologne.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Social-Distortion_Cologne.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Social-Distortion_Cologne.jpg",
+      "width": 765,
+      "height": 510,
+      "license": "CC BY-SA 2.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "author": "Sten Rüdrich (Dioz)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:ThoseDarlins.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:ThoseDarlins.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/ThoseDarlins.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ThoseDarlins.jpg/960px-ThoseDarlins.jpg",
+      "width": 3008,
+      "height": 2000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/42402904@N00\"\u003egeorgia\u003c/a\u003e from brooklyn, usa"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Vandoliers, 2016.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Vandoliers,_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Vandoliers%2C_2016.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vandoliers%2C_2016.jpg/960px-Vandoliers%2C_2016.jpg",
+      "width": 5582,
+      "height": 3721,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Cameron Gott"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--cowpunk.json",
+      "url": "https://en.wikipedia.org/wiki/Cowpunk",
+      "retrieved_at": "2026-03-28T15:54:42Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--cowpunk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Nashville_Pussy_Closeup_Photo.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

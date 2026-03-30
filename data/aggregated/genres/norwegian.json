@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "norwegian",
+  "display_title": "Norwegian",
+  "display_name": "Norwegian",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Norwegian",
+    "Norwegian Air Shuttle",
+    "Norwegian Americans",
+    "Norwegian Armed Forces",
+    "Norwegian Army",
+    "Norwegian Cruise Line",
+    "Norwegian University of Science and Technology",
+    "Norwegian campaign",
+    "Norwegian language",
+    "Norwegians"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

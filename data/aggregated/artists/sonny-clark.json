@@ -1,0 +1,66 @@
+{
+  "canonical_slug": "sonny-clark",
+  "name": "Sonny Clark",
+  "play_count": 10,
+  "spotify_artist_id": "1Sc9ykJB728MAZab1Ocwy8",
+  "musicbrainz_artist_id": "58368691-5b44-45d8-b617-47a7633f5e30",
+  "spotify_url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "1–4 wochen",
+    "jazz",
+    "offizielle charts"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3dbeb1a763f79c789e2a91e5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743dbeb1a763f79c789e2a91e5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783dbeb1a763f79c789e2a91e5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Sonny Clark",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sonny_Clark",
+  "summary": "Conrad Yeatis \"Sonny\" Clark was an American jazz pianist and composer who mainly worked in the hard bop idiom.",
+  "candidates": [
+    "Sonny Black",
+    "Sonny Black (album)",
+    "Sonny Carey",
+    "Sonny Carter",
+    "Sonny Clark",
+    "Sonny Clark Quintets",
+    "Sonny Clark Trio",
+    "Sonny Clay",
+    "Sonny Parker (basketball)",
+    "Sonya Clark"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sonny Clark",
+    "page_url": "https://en.wikipedia.org/wiki/Sonny_Clark",
+    "retrieved_at": "2026-03-28T10:42:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sonny Clark.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Clark.jpg"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

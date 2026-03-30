@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "glitch-hop",
+  "display_title": "Glitch Hop",
+  "display_name": "Glitch Hop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Glitch (music)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Glitch_(music)",
+  "summary": "Glitch is a genre of experimental electronic music that emerged in the 1990s, distinguished by the deliberate use of glitches in audio media and other sonic artifacts. The genre takes its sounds from malfunctions in recording equipment and digital electronics, and its practitioners work from a philosophical position that treats errors and failures as compositional material rather than problems to be corrected. In Computer Music Journal, composer and writer Kim Cascone classified glitch as a subgenre of electronica and used the term post-digital to describe the glitch aesthetic.",
+  "candidates": [
+    "Glitch (Episode)",
+    "Glitch (application)",
+    "Glitch Mode",
+    "Glitch Mode (song)",
+    "Glitch Princess",
+    "Glitch Productions",
+    "Glitch hop",
+    "Glitch mob",
+    "Glitch pokemon",
+    "Glitch token"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Glitch (music)",
+    "page_url": "https://en.wikipedia.org/wiki/Glitch_(music)",
+    "retrieved_at": "2026-03-28T15:56:36Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--glitch-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Glitch_(music)",
+      "retrieved_at": "2026-03-28T15:56:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

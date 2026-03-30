@@ -1,0 +1,114 @@
+{
+  "canonical_slug": "muzio-clementi",
+  "name": "Muzio Clementi",
+  "play_count": 30,
+  "spotify_artist_id": "47e2jUYcqSQ8RL2DVmxmzn",
+  "musicbrainz_artist_id": "25f46ed2-ac8a-4428-ad09-5a3fa5162086",
+  "spotify_url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical",
+    "classical period",
+    "composer",
+    "english composer"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f3e7d02361ce21473419b587d17a618a6b10d998",
+      "height": 683,
+      "width": 528
+    },
+    {
+      "url": "https://i.scdn.co/image/ef24fbb6755f925dea74b2a09716647a3aefc590",
+      "height": 259,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/25e096c501328bc17fd100cc1cbe1fdf17375a96",
+      "height": 83,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Muzio Clementi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Muzio_Clementi",
+  "summary": "Muzio Filippo Vincenzo Francesco Saverio Clementi was an Italian composer, virtuoso pianist, pedagogue, conductor, music publisher, editor, and piano manufacturer who was mostly active in England.",
+  "candidates": [
+    "Muzio Clementi"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Muzio Clementi",
+    "page_url": "https://en.wikipedia.org/wiki/Muzio_Clementi",
+    "retrieved_at": "2026-03-28T10:41:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Clementi, Sonatina N.1 - 1 Mov. Allegro.ogg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Clementi,_Sonatina_N.1_-_1_Mov._Allegro.ogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Clementi%2C_Sonatina_N.1_-_1_Mov._Allegro.ogg",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Alessio Cesaroni"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clementi, Sonatina N.1 - 1 Mov. Allegro.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clementi,_Sonatina_N.1_-_1_Mov._Allegro.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Clementi%2C_Sonatina_N.1_-_1_Mov._Allegro.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Alessio Cesaroni"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clementi, Sonatina N.1 - 2 Mov. Andante.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clementi,_Sonatina_N.1_-_2_Mov._Andante.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Clementi%2C_Sonatina_N.1_-_2_Mov._Andante.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Alessio Cesaroni"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clementi, Sonatina N.1 - 3 Mov. Vivace.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clementi,_Sonatina_N.1_-_3_Mov._Vivace.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Clementi%2C_Sonatina_N.1_-_3_Mov._Vivace.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Alessio Cesaroni"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Memorial stone Muzio Clementi.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Memorial_stone_Muzio_Clementi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Memorial_stone_Muzio_Clementi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Memorial_stone_Muzio_Clementi.jpg/960px-Memorial_stone_Muzio_Clementi.jpg",
+      "width": 1881,
+      "height": 1869,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Oosoom\" class=\"extiw\" title=\"wikipedia:User:Oosoom\"\u003eOosoom\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

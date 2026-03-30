@@ -1,0 +1,87 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4RnBFZRiMLRyZy0AzzTg2C",
+  "name": "Run The Jewels",
+  "spotify_url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C",
+  "musicbrainz_artist_id": "a80c5dc5-b12e-4667-9f5a-b568961f3839",
+  "source_genres": [
+    "conscious hip hop",
+    "experimental hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "political hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hardcore-hip-hop",
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Run the Jewels",
+  "summary": "Run the Jewels, also known by the initials RTJ, is an American hip-hop superduo, composed of Brooklyn-based rapper and producer El-P and Atlanta-based rapper Killer Mike. They released their critically acclaimed debut album Run the Jewels as a free download in 2013 and have since released the follow-up albums Run the Jewels 2 (2014), Run the Jewels 3 (2016), and RTJ4 (2020), all of which have been released for free and received critical acclaim.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Run_the_Jewels",
+  "candidates": [
+    "Run the Jewels",
+    "Run the Jewels (album)",
+    "Run the Jewels (song)",
+    "Run the Jewels 2",
+    "Run the Jewels 3",
+    "Run the Jewels 4",
+    "Run the Jewels discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Run the Jewels",
+    "page_url": "https://en.wikipedia.org/wiki/Run_the_Jewels",
+    "retrieved_at": "2026-03-28T10:42:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:QOTSAFinsbury300618-36 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:QOTSAFinsbury300618-36_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/QOTSAFinsbury300618-36_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/QOTSAFinsbury300618-36_%28cropped%29.jpg/960px-QOTSAFinsbury300618-36_%28cropped%29.jpg",
+    "width": 2343,
+    "height": 1728,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Raph_PH"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:QOTSAFinsbury300618-36 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:QOTSAFinsbury300618-36_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/QOTSAFinsbury300618-36_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/QOTSAFinsbury300618-36_%28cropped%29.jpg/960px-QOTSAFinsbury300618-36_%28cropped%29.jpg",
+      "width": 2343,
+      "height": 1728,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Raph_PH"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Run The Jewels @ MCA Chicago 2016 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Run_The_Jewels_@_MCA_Chicago_2016_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Run_The_Jewels_%40_MCA_Chicago_2016_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Run_The_Jewels_%40_MCA_Chicago_2016_%28cropped%29.jpg/960px-Run_The_Jewels_%40_MCA_Chicago_2016_%28cropped%29.jpg",
+      "width": 2625,
+      "height": 2005,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "swimfinfan"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Run the Jewels.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Run_the_Jewels.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Run_the_Jewels.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Run_the_Jewels.jpg/960px-Run_the_Jewels.jpg",
+      "width": 4896,
+      "height": 3672,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Fred von Lohmann"
+    }
+  ]
+}

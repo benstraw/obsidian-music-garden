@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0Hs3BomCdwIWRhgT57x22T",
   "name": "In A Silent Way",
   "primary_artist_name": "Miles Davis",
-  "primary_artist_canonical_slug": "miles-davis"
+  "primary_artist_canonical_slug": "miles-davis",
+  "musicbrainz_release_id": "47873c43-4337-4d3b-9bf2-959f85a7cec1",
+  "musicbrainz_release_group_id": "7d0a9612-7636-34fe-84d9-445c8df9c0f3"
 }

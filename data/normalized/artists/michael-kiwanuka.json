@@ -1,0 +1,77 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0bzfPKdbXL5ezYW2z3UGQj",
+  "name": "Michael Kiwanuka",
+  "spotify_url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj",
+  "musicbrainz_artist_id": "11f570ff-44d9-4e9c-8812-e6d56103c5c1",
+  "source_genres": [
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Michael Kiwanuka",
+  "summary": "Michael Samuel Kiwanuka is a British singer, songwriter, musician, and record producer. He is currently signed to Polydor Records. His debut album Home Again (2012) went gold in the United Kingdom, while his second album Love \u0026 Hate (2016) debuted at the top of the charts. He has been nominated for numerous honours, including Brit Awards, MTV Europe Music Awards, BBC Music Awards, and Grammy Awards. He won the BBC's Sound of... in 2012 and the Mercury Prize in 2020. His most recent album, Small Changes, was released in November 2024.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Michael_Kiwanuka",
+  "candidates": [
+    "Michael Kiwanuka",
+    "Michael Kiwanuka discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Michael Kiwanuka",
+    "page_url": "https://en.wikipedia.org/wiki/Michael_Kiwanuka",
+    "retrieved_at": "2026-03-28T10:41:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Glasto24 2806 300624 (47 of 382) (53837926593) (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Glasto24_2806_300624_(47_of_382)_(53837926593)_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Glasto24_2806_300624_%2847_of_382%29_%2853837926593%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Glasto24_2806_300624_%2847_of_382%29_%2853837926593%29_%28cropped%29.jpg/960px-Glasto24_2806_300624_%2847_of_382%29_%2853837926593%29_%28cropped%29.jpg",
+    "width": 1280,
+    "height": 1798,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glasto24 2806 300624 (47 of 382) (53837926593) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glasto24_2806_300624_(47_of_382)_(53837926593)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Glasto24_2806_300624_%2847_of_382%29_%2853837926593%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Glasto24_2806_300624_%2847_of_382%29_%2853837926593%29_%28cropped%29.jpg/960px-Glasto24_2806_300624_%2847_of_382%29_%2853837926593%29_%28cropped%29.jpg",
+      "width": 1280,
+      "height": 1798,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Michael Kiwanuka.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Michael_Kiwanuka.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Michael_Kiwanuka.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Michael_Kiwanuka.jpg",
+      "width": 720,
+      "height": 480,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ikreis\" title=\"User:Ikreis\"\u003eJeroen Komen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Michael Kiwanuka 2024.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Michael_Kiwanuka_2024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Michael_Kiwanuka_2024.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Michael_Kiwanuka_2024.jpg/960px-Michael_Kiwanuka_2024.jpg",
+      "width": 3024,
+      "height": 4032,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Phoebe\" title=\"User:Phoebe\"\u003ePhoebe\u003c/a\u003e"
+    }
+  ]
+}

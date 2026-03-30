@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "okay-cool",
+  "name": "okay cool",
+  "play_count": 5,
+  "spotify_artist_id": "60f8qPMkKfg2njIjbRtEox",
+  "musicbrainz_artist_id": "6efeab08-5708-4f64-a420-9a469bf29318",
+  "spotify_url": "https://open.spotify.com/artist/60f8qPMkKfg2njIjbRtEox",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae6ce2038e391fe66a2554cb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ae6ce2038e391fe66a2554cb",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ae6ce2038e391fe66a2554cb",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Okay Computer",
+    "Okay boomer",
+    "Okay, Oklahoma",
+    "Okaya \u0026 Co., Ltd."
+  ],
+  "last_updated": "2026-03-28"
+}

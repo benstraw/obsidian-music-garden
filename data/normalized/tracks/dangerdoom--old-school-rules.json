@@ -4,6 +4,11 @@
   "name": "Old School Rules",
   "primary_artist_name": "DANGERDOOM",
   "primary_artist_canonical_slug": "dangerdoom",
+  "additional_artist_slugs": [
+    "mf-doom",
+    "danger-mouse",
+    "talib-kweli"
+  ],
   "release_name": "THE MOUSE AND THE MASK (METALFACE EDITION)",
   "release_canonical_slug": "dangerdoom--the-mouse-and-the-mask-metalface-edition",
   "spotify_url": "https://open.spotify.com/track/3sx9Sl1DlriqA2DNecpILb"

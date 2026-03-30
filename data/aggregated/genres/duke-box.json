@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "duke-box",
+  "display_title": "Duke Box",
+  "display_name": "Duke Box",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Duke Blue Devils",
+    "Duke Blue Devils football",
+    "Duke Blue Devils men's basketball",
+    "Duke of Aquitaine",
+    "Duke of Hamilton",
+    "Duke of Marlborough (title)",
+    "Duke of Somerset",
+    "Duke of Wellington's Regiment",
+    "Duke of York",
+    "Dukebox"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

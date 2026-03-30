@@ -6,7 +6,8 @@
   "aliases": [
     "neo soul"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Neo soul",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Neo_soul",
@@ -105,42 +106,267 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-06T05:07:35.952Z",
+    "play_count": 18,
+    "unique_artist_count": 5,
+    "unique_release_count": 10,
+    "unique_track_count": 13,
+    "first_played_at": "2024-01-01T00:00:00.018586576Z",
     "last_played_at": "2026-03-06T05:07:35.952Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "the-roots",
+      "name": "The Roots",
+      "play_count": 7,
+      "spotify_artist_id": "78xUyw6FkVZrRAtziFdtdu",
+      "musicbrainz_artist_id": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+      "spotify_url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+    },
+    {
       "canonical_slug": "common",
       "name": "Common",
-      "play_count": 1,
+      "play_count": 5,
       "spotify_artist_id": "2GHclqNVjqGuiE5mA7BEoc",
+      "musicbrainz_artist_id": "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
       "spotify_url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+    },
+    {
+      "canonical_slug": "jid",
+      "name": "JID",
+      "play_count": 3,
+      "spotify_artist_id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+      "musicbrainz_artist_id": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+      "spotify_url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+    },
+    {
+      "canonical_slug": "thundercat",
+      "name": "Thundercat",
+      "play_count": 2,
+      "spotify_artist_id": "4frXpPxQQZwbCu3eTGnZEw",
+      "musicbrainz_artist_id": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+      "spotify_url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+    },
+    {
+      "canonical_slug": "little-simz",
+      "name": "Little Simz",
+      "play_count": 1,
+      "spotify_artist_id": "6eXZu6O7nAUA5z6vLV8NKI",
+      "musicbrainz_artist_id": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+      "spotify_url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "the-roots--things-fall-apart",
+      "name": "Things Fall Apart",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "spotify_album_id": "5Kv0SrABtsIyzCniJvR5ih",
+      "musicbrainz_release_id": "45b0cfa6-826c-4736-9c74-f0b73ec14bc7",
+      "musicbrainz_release_group_id": "8f341430-85b9-3a66-875f-ed1202868393"
+    },
+    {
+      "canonical_slug": "common--mo-soundtrack-from-the-netflix-series",
+      "name": "MO (Soundtrack from the Netflix Series)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common",
+      "spotify_album_id": "1gFiGEz5ytsjmL3dnrThzI",
+      "musicbrainz_release_id": "151b50de-b481-4080-9e06-18ea0ce09bf2",
+      "musicbrainz_release_group_id": "65989c29-816d-4530-9c6a-8024fa7a97aa"
+    },
+    {
+      "canonical_slug": "thundercat--drunk",
+      "name": "Drunk",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "thundercat",
+      "primary_artist_name": "Thundercat",
+      "spotify_album_id": "7vHBQDqwzB7uDvoE5bncMM",
+      "musicbrainz_release_id": "e0841f2c-44c9-4541-b8bb-0b5b58a6ecc3",
+      "musicbrainz_release_group_id": "f0c89a63-6cb0-4b5f-9ced-79396b58a191"
+    },
+    {
+      "canonical_slug": "the-roots--how-i-got-over",
+      "name": "How I Got Over",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "spotify_album_id": "25sYZjutddzUpXNbeQ7bEC",
+      "musicbrainz_release_id": "955cc137-bba4-49fe-ad9d-0ad1a2fdd1af",
+      "musicbrainz_release_group_id": "9b643b98-ea0d-4c17-9dd1-8cfe2a92248f"
+    },
+    {
+      "canonical_slug": "jid--the-never-story",
+      "name": "The Never Story",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "spotify_album_id": "1gPqbxhs90kppgOVxGOPzd",
+      "musicbrainz_release_id": "86bcf6ff-83dd-4d89-939f-bea35db48e75",
+      "musicbrainz_release_group_id": "ec456434-681a-4c7b-9030-6725048f0885"
+    },
+    {
+      "canonical_slug": "common--be",
+      "name": "Be",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common",
+      "spotify_album_id": "2UuvBxV56QWWj2uviGS0up",
+      "musicbrainz_release_id": "702f226a-ee12-3d75-897a-77ead57611be",
+      "musicbrainz_release_group_id": "93b891c9-4fc4-3085-960e-5da4c7fe8113"
+    },
+    {
+      "canonical_slug": "jid--hey-tony",
+      "name": "HEY TONY!",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "spotify_album_id": "2zs0GVCzgBvCtDBSdRn8Q9",
+      "musicbrainz_release_id": "1a4bc073-0163-4cf6-9eba-d32f8dbb3b0c",
+      "musicbrainz_release_group_id": "57cf0f08-3b29-4db9-a19c-9a2d62ea0e00"
+    },
     {
       "canonical_slug": "common--like-water-for-chocolate",
       "name": "Like Water For Chocolate",
       "play_count": 1,
       "primary_artist_canonical_slug": "common",
-      "primary_artist_name": "Common"
+      "primary_artist_name": "Common",
+      "spotify_album_id": "72GMOkq47rXzdAMJrjf4RV",
+      "musicbrainz_release_id": "0eaf3a43-f00e-4416-8ea3-759d1841e3c9",
+      "musicbrainz_release_group_id": "fabc3ec9-2656-3a98-8fdd-4bc40a9ca8ba"
+    },
+    {
+      "canonical_slug": "little-simz--lotus",
+      "name": "Lotus",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "little-simz",
+      "primary_artist_name": "Little Simz",
+      "spotify_album_id": "0ofdTvYtx4LpsVjemJt71X",
+      "musicbrainz_release_id": "9dc39f94-50a7-43cf-bba9-1882caab0966",
+      "musicbrainz_release_group_id": "749672ae-a51d-4cf5-920c-beaeab147bb6"
+    },
+    {
+      "canonical_slug": "the-roots--the-tipping-point",
+      "name": "The Tipping Point",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "spotify_album_id": "2fw2PxmN6epMmz6qZXXNLn",
+      "musicbrainz_release_id": "e5087632-6b63-43ad-bf44-25f5d9b1ceab",
+      "musicbrainz_release_group_id": "b27a6c72-6b57-3e53-8c8f-e6a52c4697b4"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "common--the-light",
-      "name": "The Light",
+      "canonical_slug": "jid--never",
+      "name": "NEVER",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "release_canonical_slug": "jid--the-never-story",
+      "release_name": "The Never Story",
+      "spotify_track_id": "7hsulgRNgbyczeAg8tChCB",
+      "spotify_url": "https://open.spotify.com/track/7hsulgRNgbyczeAg8tChCB"
+    },
+    {
+      "canonical_slug": "the-roots--step-into-the-relm",
+      "name": "Step Into The Relm",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "release_canonical_slug": "the-roots--things-fall-apart",
+      "release_name": "Things Fall Apart",
+      "spotify_track_id": "6KyFxGHY8Q5Pkgb05KZoQL",
+      "spotify_url": "https://open.spotify.com/track/6KyFxGHY8Q5Pkgb05KZoQL"
+    },
+    {
+      "canonical_slug": "the-roots--the-fire",
+      "name": "The Fire",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "release_canonical_slug": "the-roots--how-i-got-over",
+      "release_name": "How I Got Over",
+      "spotify_track_id": "1iP5UMdOsGz6EdltGbbcb7",
+      "spotify_url": "https://open.spotify.com/track/1iP5UMdOsGz6EdltGbbcb7"
+    },
+    {
+      "canonical_slug": "the-roots--the-next-movement",
+      "name": "The Next Movement",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-roots",
+      "primary_artist_name": "The Roots",
+      "release_canonical_slug": "the-roots--things-fall-apart",
+      "release_name": "Things Fall Apart",
+      "spotify_track_id": "6oObYkdW3HMbqCV3AhSfVR",
+      "spotify_url": "https://open.spotify.com/track/6oObYkdW3HMbqCV3AhSfVR"
+    },
+    {
+      "canonical_slug": "thundercat--walk-on-by",
+      "name": "Walk On By",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "thundercat",
+      "primary_artist_name": "Thundercat",
+      "release_canonical_slug": "thundercat--drunk",
+      "release_name": "Drunk",
+      "spotify_track_id": "6fkL9CjWmjeV6vfDxTp9OZ",
+      "spotify_url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+    },
+    {
+      "canonical_slug": "jid--hey-tony",
+      "name": "HEY TONY!",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "release_canonical_slug": "jid--hey-tony",
+      "release_name": "HEY TONY!",
+      "spotify_track_id": "6KTY8qMXOFKfPUXXrdm0JA",
+      "spotify_url": "https://open.spotify.com/track/6KTY8qMXOFKfPUXXrdm0JA"
+    },
+    {
+      "canonical_slug": "common--parking-lot",
+      "name": "Parking Lot",
       "play_count": 1,
       "primary_artist_canonical_slug": "common",
       "primary_artist_name": "Common",
-      "release_canonical_slug": "common--like-water-for-chocolate",
-      "release_name": "Like Water For Chocolate",
-      "spotify_track_id": "2X2S3KBzWe2xrjMi8ILtTF",
-      "spotify_url": "https://open.spotify.com/track/2X2S3KBzWe2xrjMi8ILtTF"
+      "release_canonical_slug": "common--mo-soundtrack-from-the-netflix-series",
+      "release_name": "MO (Soundtrack from the Netflix Series)",
+      "spotify_track_id": "67GL6xJlgzOaD7CU6T4v5z",
+      "spotify_url": "https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z"
+    },
+    {
+      "canonical_slug": "common--pillow-talk",
+      "name": "Pillow Talk",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common",
+      "release_canonical_slug": "common--mo-soundtrack-from-the-netflix-series",
+      "release_name": "MO (Soundtrack from the Netflix Series)",
+      "spotify_track_id": "3pAlOF0W0jmagTjG1B7Bd7",
+      "spotify_url": "https://open.spotify.com/track/3pAlOF0W0jmagTjG1B7Bd7"
+    },
+    {
+      "canonical_slug": "common--strip-club-interview",
+      "name": "Strip Club Interview",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common",
+      "release_canonical_slug": "common--mo-soundtrack-from-the-netflix-series",
+      "release_name": "MO (Soundtrack from the Netflix Series)",
+      "spotify_track_id": "4fKmyF3DSELb3aMfCNeTka",
+      "spotify_url": "https://open.spotify.com/track/4fKmyF3DSELb3aMfCNeTka"
+    },
+    {
+      "canonical_slug": "common--the-corner",
+      "name": "The Corner",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "common",
+      "primary_artist_name": "Common",
+      "release_canonical_slug": "common--be",
+      "release_name": "Be",
+      "spotify_track_id": "31rk2z6XreitvUgfJURMil",
+      "spotify_url": "https://open.spotify.com/track/31rk2z6XreitvUgfJURMil"
     }
   ],
   "source_refs": [
@@ -149,6 +375,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

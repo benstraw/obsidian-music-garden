@@ -1,0 +1,91 @@
+{
+  "canonical_slug": "pere-ubu",
+  "name": "Pere Ubu",
+  "play_count": 10,
+  "spotify_artist_id": "3V4FPipSnuYjtHnnAw9cZd",
+  "musicbrainz_artist_id": "5a54b72e-bfb3-4ca6-944a-e17261399965",
+  "spotify_url": "https://open.spotify.com/artist/3V4FPipSnuYjtHnnAw9cZd",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c73a9e30e240c71d11d2a4671",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2273a9e30e240c71d11d2a4671",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac373a9e30e240c71d11d2a4671",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7473a9e30e240c71d11d2a4671",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Pere Ubu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pere_Ubu",
+  "summary": "Pere Ubu is an American rock band formed in Cleveland, Ohio, in 1975. The band had a variety of lineup changes, with singer and songwriter David Thomas remaining the sole constant. In December 1975, they released their debut single 30 Seconds Over Tokyo, and later their debut album The Modern Dance in 1978. After several more releases they disbanded in 1982, only to reform in 1987. Thomas remained active, recording and touring until his death on April 23, 2025.",
+  "candidates": [
+    "Bill Pere",
+    "Pere Bosch-Gimpera",
+    "Pere Guardiola",
+    "Pere Pau Ripollès Alegre",
+    "Pere Ubu",
+    "Pere Ubu (disambiguation)",
+    "Peritubular myoid cell",
+    "Pete Burns",
+    "Pete Buttigieg",
+    "Pete Buttigieg 2020 presidential campaign"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pere Ubu",
+    "page_url": "https://en.wikipedia.org/wiki/Pere_Ubu",
+    "retrieved_at": "2026-03-28T10:41:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Pere Ubu @ Band On The Wall, Manchester 18-4-2013 (8661542521).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Pere_Ubu_@_Band_On_The_Wall,_Manchester_18-4-2013_(8661542521).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pere_Ubu_%40_Band_On_The_Wall%2C_Manchester_18-4-2013_%288661542521%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pere_Ubu_%40_Band_On_The_Wall%2C_Manchester_18-4-2013_%288661542521%29.jpg/960px-Pere_Ubu_%40_Band_On_The_Wall%2C_Manchester_18-4-2013_%288661542521%29.jpg",
+    "width": 3240,
+    "height": 4320,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/79042256@N05\"\u003eJake\u003c/a\u003e from Manchester, UK"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pere Ubu @ Band On The Wall, Manchester 18-4-2013 (8661542521).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pere_Ubu_@_Band_On_The_Wall,_Manchester_18-4-2013_(8661542521).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pere_Ubu_%40_Band_On_The_Wall%2C_Manchester_18-4-2013_%288661542521%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pere_Ubu_%40_Band_On_The_Wall%2C_Manchester_18-4-2013_%288661542521%29.jpg/960px-Pere_Ubu_%40_Band_On_The_Wall%2C_Manchester_18-4-2013_%288661542521%29.jpg",
+      "width": 3240,
+      "height": 4320,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/79042256@N05\"\u003eJake\u003c/a\u003e from Manchester, UK"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pere Ubu Live Vienna 2009.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pere_Ubu_Live_Vienna_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Pere_Ubu_Live_Vienna_2009.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Pere_Ubu_Live_Vienna_2009.jpg/960px-Pere_Ubu_Live_Vienna_2009.jpg",
+      "width": 1600,
+      "height": 1168,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sonictruth\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sonictruth (page does not exist)\"\u003eSonictruth\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

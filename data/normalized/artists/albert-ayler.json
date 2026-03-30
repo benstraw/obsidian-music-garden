@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2wn2nqzITvJ1vcMRO8Wzv6",
+  "name": "Albert Ayler",
+  "spotify_url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6",
+  "musicbrainz_artist_id": "b2dcc67a-45f9-4b9f-8221-3da4e0d32491",
+  "source_genres": [
+    "free jazz",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "free-jazz",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Albert Ayler",
+  "summary": "Albert Ayler was an American avant-garde jazz saxophonist and composer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Albert_Ayler",
+  "candidates": [
+    "Albert Alberts",
+    "Albert Allen Bartlett",
+    "Albert Anker",
+    "Albert Arlen",
+    "Albert Asher",
+    "Albert Axelrod",
+    "Albert Ayler",
+    "Albert Ayler in Greenwich Village",
+    "Albert Mayer (planner)",
+    "Albert Taylor Bledsoe"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Albert Ayler",
+    "page_url": "https://en.wikipedia.org/wiki/Albert_Ayler",
+    "retrieved_at": "2026-03-28T10:36:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Albert Ayler (1967–68 photo portrait for ABC Impulse!).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Albert_Ayler_(1967%E2%80%9368_photo_portrait_for_ABC_Impulse!).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Albert_Ayler_%281967%E2%80%9368_photo_portrait_for_ABC_Impulse%21%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Albert_Ayler_%281967%E2%80%9368_photo_portrait_for_ABC_Impulse%21%29.jpg",
+    "width": 930,
+    "height": 1302,
+    "license": "Public domain",
+    "author": "Photographer uncredited, but the photo was almost certainly taken by \u003ca href=\"https://en.wikipedia.org/wiki/Chuck_Stewart\" class=\"extiw\" title=\"w:Chuck Stewart\"\u003eChuck Stewart\u003c/a\u003e (1927–2017), who is credited with the photography on \u003ci\u003eLove Cry\u003c/i\u003e and most of the photography for the rest of Ayler's ABC/Impulse! releases. Published by ABC/Impulse! Records."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Albert Ayler (1967–68 photo portrait for ABC Impulse!).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Albert_Ayler_(1967%E2%80%9368_photo_portrait_for_ABC_Impulse!).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Albert_Ayler_%281967%E2%80%9368_photo_portrait_for_ABC_Impulse%21%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Albert_Ayler_%281967%E2%80%9368_photo_portrait_for_ABC_Impulse%21%29.jpg",
+      "width": 930,
+      "height": 1302,
+      "license": "Public domain",
+      "author": "Photographer uncredited, but the photo was almost certainly taken by \u003ca href=\"https://en.wikipedia.org/wiki/Chuck_Stewart\" class=\"extiw\" title=\"w:Chuck Stewart\"\u003eChuck Stewart\u003c/a\u003e (1927–2017), who is credited with the photography on \u003ci\u003eLove Cry\u003c/i\u003e and most of the photography for the rest of Ayler's ABC/Impulse! releases. Published by ABC/Impulse! Records."
+    }
+  ]
+}

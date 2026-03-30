@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "fictional",
+  "display_title": "Fictional",
+  "display_name": "Fictional",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Fiction",
+    "Fictional brand",
+    "Fictional planets of the Solar System",
+    "Fictional portrayals of psychopaths and sociopaths",
+    "Fictional universe of Avatar",
+    "Fictional universe of Harry Potter",
+    "Fictionalized portrayals of George W. Bush",
+    "List of fictional Native Americans",
+    "List of fictional asexual characters",
+    "List of fictional non-binary characters"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -3,6 +3,18 @@
   "source_artist_id": "0b3fYxnG6tlR0zLtBJd8DF",
   "name": "DANGERDOOM",
   "spotify_url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF",
+  "musicbrainz_artist_id": "be0cb2f2-71c3-4e95-a584-c19248951ff4",
+  "source_genres": [
+    "electronic",
+    "experimental",
+    "hip hop",
+    "hip hop rap"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "experimental",
+    "hip-hop"
+  ],
   "status": "ambiguous",
   "candidates": [
     "Danger (comics)",

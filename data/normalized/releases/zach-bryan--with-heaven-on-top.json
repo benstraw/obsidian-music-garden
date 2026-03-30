@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4NvMwUFmY1dcDEgD8KoQjG",
   "name": "With Heaven On Top",
   "primary_artist_name": "Zach Bryan",
-  "primary_artist_canonical_slug": "zach-bryan"
+  "primary_artist_canonical_slug": "zach-bryan",
+  "musicbrainz_release_id": "02df0459-7357-4047-be41-a4dc9119dc54",
+  "musicbrainz_release_group_id": "84fd33ce-5719-4082-9756-dec4b38a48b4"
 }

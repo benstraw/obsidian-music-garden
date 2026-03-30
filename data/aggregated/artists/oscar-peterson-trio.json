@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "oscar-peterson-trio",
+  "name": "Oscar Peterson Trio",
+  "play_count": 9,
+  "spotify_artist_id": "0ldU0QJm31y0d6f57R1G2A",
+  "musicbrainz_artist_id": "b083ec9b-27e0-4fda-801d-cb40861a0578",
+  "spotify_url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273947b5cc535d76394a2d98e37",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02947b5cc535d76394a2d98e37",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851947b5cc535d76394a2d98e37",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Oscar Peterson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Peterson",
+  "summary": "Oscar Emmanuel Peterson was a Canadian jazz pianist and composer. As a virtuoso who is considered to be one of the greatest jazz pianists of all time, Peterson released more than 200 recordings, won eight Grammy Awards, as well as a lifetime achievement award from the Recording Academy, and received numerous other awards and honours. He played thousands of concerts worldwide in a career lasting more than 60 years. He was called the \"Maharaja of the keyboard\" by Duke Ellington, simply \"O.P.\" by his friends, and was informally known in the jazz community as \"the King of inside swing\".",
+  "candidates": [
+    "Oscar Peterson Trio",
+    "Oscar Peterson Trio + One",
+    "Oscar Peterson Trio with Milt Jackson - Very Tall",
+    "Oscar Peterson and Roy Eldridge",
+    "Oscar Peterson and the Trumpet Kings – Jousts",
+    "The Oscar Peterson Trio Plays",
+    "The Oscar Peterson Trio at the Concertgebouw",
+    "The Oscar Peterson Trio in Tokyo",
+    "The Oscar Peterson Trio with Sonny Stitt, Roy Eldridge and Jo Jones at Newport"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Oscar Peterson",
+    "page_url": "https://en.wikipedia.org/wiki/Oscar_Peterson",
+    "retrieved_at": "2026-03-28T10:41:44Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Oscar_Peterson.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Oscar_Peterson.jpg/330px-Oscar_Peterson.jpg",
+    "width": 12871,
+    "height": 8533
+  },
+  "last_updated": "2026-03-30"
+}

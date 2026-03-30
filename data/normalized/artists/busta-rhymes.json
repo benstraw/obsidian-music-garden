@@ -3,11 +3,15 @@
   "source_artist_id": "1YfEcTuGvBQ8xSD1f53UnK",
   "name": "Busta Rhymes",
   "spotify_url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK",
+  "musicbrainz_artist_id": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
   "source_genres": [
-    "east coast hip hop"
+    "east coast hip hop",
+    "hip hop",
+    "hip-hop"
   ],
   "canonical_genre_slugs": [
-    "east-coast-hip-hop"
+    "east-coast-hip-hop",
+    "hip-hop"
   ],
   "status": "matched",
   "page_title": "Busta Rhymes",

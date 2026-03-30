@@ -1,0 +1,80 @@
+{
+  "canonical_slug": "chipmunk-soul",
+  "display_title": "Chipmunk Soul",
+  "display_name": "Chipmunk Soul",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Chipmunk soul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chipmunk_soul",
+  "summary": "Chipmunk soul is a style of hip hop that features sped-up vocal samples, originating in the 2000s. The genre was popularized by Kanye West in his albums The College Dropout, Late Registration and Graduation, which notably were heavy in high-pitched vocals, especially in the singles \"Spaceship\" and \"Through the Wire\". Early users of the style included Just Blaze, RZA, and DJ Premier.",
+  "candidates": [
+    "Chipmunk (software)",
+    "Chipmunk Mountain",
+    "Chipmunk Song",
+    "Chipmunk soul",
+    "Chipmunks in Low Places",
+    "The Chipmunk Songbook",
+    "The Chipmunks 'MUNK ROCK"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Chipmunk soul",
+    "page_url": "https://en.wikipedia.org/wiki/Chipmunk_soul",
+    "retrieved_at": "2026-03-28T15:54:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Musical notes.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_notes.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Musical_notes.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/960px-Musical_notes.svg.png",
+    "width": 400,
+    "height": 300,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Musical notes.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_notes.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Musical_notes.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Musical_notes.svg/960px-Musical_notes.svg.png",
+      "width": 400,
+      "height": 300,
+      "license": "Public domain"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--chipmunk-soul.json",
+      "url": "https://en.wikipedia.org/wiki/Chipmunk_soul",
+      "retrieved_at": "2026-03-28T15:54:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--chipmunk-soul.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Musical_notes.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "new-york-punk",
+  "display_title": "New York Punk",
+  "display_name": "New York Punk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Punk rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Punk_rock",
+  "summary": "Punk rock is a subgenre of rock music that emerged in the mid-1970s. Rooted in 1950s rock and roll and 1960s garage rock, punk bands rejected the overproduction and corporate nature of mainstream rock music. Typically producing short, fast-paced songs with rough stripped-down vocals and instrumentation and an anti-establishment theme, artists embrace a DIY ethic with many bands self-producing and distributing recordings through independent labels.",
+  "candidates": [
+    "New York Penn Station",
+    "New York Public Library",
+    "New York Public Library Main Branch",
+    "New York University",
+    "New York University School of Law",
+    "New York University Tandon School of Engineering",
+    "New York Yankees",
+    "New York Yankees minor league players",
+    "New York punk",
+    "New York punk scene"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Punk rock",
+    "page_url": "https://en.wikipedia.org/wiki/Punk_rock",
+    "retrieved_at": "2026-03-28T15:58:55Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--new-york-punk.json",
+      "url": "https://en.wikipedia.org/wiki/Punk_rock",
+      "retrieved_at": "2026-03-28T15:58:55Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

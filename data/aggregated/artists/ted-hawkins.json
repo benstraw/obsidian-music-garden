@@ -1,0 +1,92 @@
+{
+  "canonical_slug": "ted-hawkins",
+  "name": "Ted Hawkins",
+  "play_count": 7,
+  "spotify_artist_id": "1clAnI6PODaoVlbzlUPOfU",
+  "musicbrainz_artist_id": "f1161aed-e33e-47ec-ba18-8f87766cec09",
+  "spotify_url": "https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU",
+  "genres": [
+    "blues",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "singer-songwriter",
+    "soul blues",
+    "southern soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e06340010f11e796a9e0c89f4a0a7feba00d8f2b",
+      "height": 1381,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/cd8ed5fbddf59600af34e4849f496a114a021da2",
+      "height": 884,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/5c2a37d6bff4d8efd07f6a9e128ef0044b86570b",
+      "height": 276,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/c285f294d4d1d920d4d197361789a81edcdb40c6",
+      "height": 88,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ted Hawkins",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Hawkins",
+  "summary": "Ted Hawkins was an American singer-songwriter born in Biloxi, Mississippi. He split his time between his adopted hometown of Venice Beach, California, where he was a mostly anonymous street performer, and Europe and Australia, where he and his songs were better known and well received in clubs and small concert halls.",
+  "candidates": [
+    "Ted Atkins",
+    "Ted Atkinson",
+    "Ted Atkinson (footballer)",
+    "Ted Hawkins",
+    "Ted Hopkins",
+    "Tim Hawkins",
+    "Tim Hawkinson",
+    "Tom Hawkins (footballer, born 1988)",
+    "Tom Hawkins (writer)",
+    "Tre Hawkins III"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ted Hawkins",
+    "page_url": "https://en.wikipedia.org/wiki/Ted_Hawkins",
+    "retrieved_at": "2026-03-28T10:43:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ted Hawkins.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,92 @@
+{
+  "canonical_slug": "eric-b-and-rakim",
+  "name": "Eric B. \u0026 Rakim",
+  "play_count": 7,
+  "spotify_artist_id": "6jHG1YQkqgojdEzerwvrVv",
+  "musicbrainz_artist_id": "925228de-bbe5-4c7b-b76f-78e382ec9148",
+  "spotify_url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/3749993d2b60bbbaa02602a09737f2107cbae4dd",
+      "height": 674,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/b731704e1ebed00801a0f8daa3323881680cf36f",
+      "height": 431,
+      "width": 639
+    },
+    {
+      "url": "https://i.scdn.co/image/eb3c94a64d00bbb07dd3a3cb3293773c72ec0f69",
+      "height": 135,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/4d696d6ffa35a8b5129555c412a36bb20cee72c4",
+      "height": 43,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Eric B. \u0026 Rakim",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_B._%26_Rakim",
+  "summary": "Eric B. \u0026 Rakim were an American hip hop duo formed on Long Island, New York, in 1986, composed of DJ Eric B. and rapper Rakim. They first received acclaim for their 1987 debut album Paid in Full, which featured versions of the popular singles \"Eric B. Is President\" and the title track. They followed with three successful albums: Follow the Leader (1988), Let the Rhythm Hit 'Em (1990), and Don't Sweat the Technique (1992).",
+  "candidates": [
+    "Eric B. \u0026 Rakim",
+    "Eric B. \u0026 Rakim discography",
+    "Eric B. Kim",
+    "Eric B. Rimm",
+    "Eric Bakie",
+    "Eric Braamhaar",
+    "Eric Brakey",
+    "Eric Brimley Litchfield"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Eric B. \u0026 Rakim",
+    "page_url": "https://en.wikipedia.org/wiki/Eric_B._%26_Rakim",
+    "retrieved_at": "2026-03-28T10:38:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Eric B. featuring Rakim - Eric B. is President-My Melody (Zakia Records-1986) (Side A).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_B._featuring_Rakim_-_Eric_B._is_President-My_Melody_(Zakia_Records-1986)_(Side_A).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_B._featuring_Rakim_-_Eric_B._is_President-My_Melody_%28Zakia_Records-1986%29_%28Side_A%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_B._featuring_Rakim_-_Eric_B._is_President-My_Melody_%28Zakia_Records-1986%29_%28Side_A%29.jpg",
+    "width": 563,
+    "height": 582,
+    "license": "Public domain",
+    "author": "Zakia Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eric B. featuring Rakim - Eric B. is President-My Melody (Zakia Records-1986) (Side A).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_B._featuring_Rakim_-_Eric_B._is_President-My_Melody_(Zakia_Records-1986)_(Side_A).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_B._featuring_Rakim_-_Eric_B._is_President-My_Melody_%28Zakia_Records-1986%29_%28Side_A%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Eric_B._featuring_Rakim_-_Eric_B._is_President-My_Melody_%28Zakia_Records-1986%29_%28Side_A%29.jpg",
+      "width": 563,
+      "height": 582,
+      "license": "Public domain",
+      "author": "Zakia Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eric B \u0026 Rakim press photo 1987.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eric_B_%26_Rakim_press_photo_1987.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Eric_B_%26_Rakim_press_photo_1987.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Eric_B_%26_Rakim_press_photo_1987.jpg",
+      "width": 662,
+      "height": 778,
+      "license": "Public domain",
+      "author": "Waring Abbott; distributed by Island Records"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

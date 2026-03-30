@@ -1,0 +1,43 @@
+{
+  "canonical_slug": "françois-joël-thiollier",
+  "name": "François-Joël Thiollier",
+  "spotify_artist_id": "6iYKdlSq42Em0z7knC3rgM",
+  "musicbrainz_artist_id": "f9f3cfe4-a119-4df5-b9fb-e6d010f4683a",
+  "spotify_url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM",
+  "source_genres": [
+    "french pianist",
+    "pianist",
+    "piano"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d8fab120ce5d202793a25e84",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d8fab120ce5d202793a25e84",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d8fab120ce5d202793a25e84",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "François-Joël Thiollier",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Jo%C3%ABl_Thiollier",
+  "summary": "François-Joël Thiollier is an internationally recognized French-American classical pianist.",
+  "candidates": [
+    "François-Joël Thiollier"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "François-Joël Thiollier",
+    "page_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois-Jo%C3%ABl_Thiollier",
+    "retrieved_at": "2026-03-28T10:39:02Z"
+  },
+  "last_updated": "2026-03-30"
+}

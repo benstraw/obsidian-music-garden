@@ -1,0 +1,83 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2CqEOngQOOMstJupNn6Hmf",
+  "name": "NEU!",
+  "spotify_url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf",
+  "musicbrainz_artist_id": "adec1fc3-83c1-48f7-9e49-8347ac6d40b0",
+  "source_genres": [
+    "electronic",
+    "experimental",
+    "krautrock",
+    "rock",
+    "soundtrack"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "experimental",
+    "krautrock",
+    "rock",
+    "soundtrack"
+  ],
+  "status": "matched",
+  "page_title": "Neu!",
+  "summary": "Neu! were a West German krautrock band formed in Düsseldorf in 1971 by Klaus Dinger and Michael Rother following their departure from Kraftwerk. The group's albums were produced by Conny Plank, who has been regarded as the group's \"hidden member\". They released three albums in their initial incarnation—Neu! (1972), Neu! 2 (1973), and Neu! 75 (1975)—before disbanding in 1975. They briefly reunited in the mid-1980s.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Neu!",
+  "candidates": [
+    "Neu!",
+    "Neu! '72 Live in Düsseldorf",
+    "Neu! '75",
+    "Neu! (album)",
+    "Neu! 2",
+    "Neu! 4",
+    "Neu! Vinyl Box",
+    "Neu!Reekie!",
+    "Neural network (machine learning)",
+    "Neurodiversity"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neu!",
+    "page_url": "https://en.wikipedia.org/wiki/Neu!",
+    "retrieved_at": "2026-03-28T10:41:29Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Neu band.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wiki letter w cropped.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wiki_letter_w_cropped.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Wiki_letter_w_cropped.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/960px-Wiki_letter_w_cropped.svg.png",
+      "width": 44,
+      "height": 31,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "derivative work by \u003ca href=\"//commons.wikimedia.org/wiki/User:Thumperward\" title=\"User:Thumperward\"\u003eThumperward\u003c/a\u003e / * \u003ca href=\"//commons.wikimedia.org/wiki/File:Wiki_letter_w.svg\" title=\"File:Wiki letter w.svg\"\u003eFile:Wiki letter w.svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:Jarkko_Piiroinen\" title=\"User:Jarkko Piiroinen\"\u003eJarkko Piiroinen\u003c/a\u003e"
+    }
+  ]
+}

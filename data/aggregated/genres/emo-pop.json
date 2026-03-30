@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "emo-pop",
+  "display_title": "Emo Pop",
+  "display_name": "Emo Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Emo pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emo_pop",
+  "summary": "Emo pop is a fusion genre combining emo with pop-punk, pop music, or both. Emo pop features a musical style with more concise composition and hook-filled choruses. Emo pop has its origins in the 1990s with bands like Jimmy Eat World, the Get Up Kids, Weezer and the Promise Ring. The genre entered the mainstream in the early 2000s with Jimmy Eat World's breakthrough album Bleed American, which included its song \"The Middle\". Other emo pop bands that achieved mainstream success throughout the decade included Fall Out Boy, the All-American Rejects, My Chemical Romance, Panic! at the Disco and Paramore. The popularity of emo pop declined in the 2010s, with some prominent artists in the genre either disbanding or abandoning the emo pop style.",
+  "candidates": [
+    "Emo Court",
+    "Emo Philips",
+    "Emo Speedway",
+    "Emo Speedway Championships",
+    "Emo of Friesland",
+    "Emo pop",
+    "Emo pop albums",
+    "Emo rap",
+    "Emo, Ontario",
+    "List of emo pop bands"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Emo pop",
+    "page_url": "https://en.wikipedia.org/wiki/Emo_pop",
+    "retrieved_at": "2026-03-28T15:55:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:TGUK Bowry.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:TGUK_Bowry.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/TGUK_Bowry.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/TGUK_Bowry.png",
+    "width": 447,
+    "height": 237,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Rwiggum\" class=\"extiw\" title=\"en:User:Rwiggum\"\u003e\u003cspan style=\"color: #4B5320;\"\u003eRwiggum\u003c/span\u003e\u003c/a\u003e (\u003csup\u003e\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Rwiggum\" class=\"extiw\" title=\"en:User talk:Rwiggum\"\u003e\u003cfont color=\"Black\"\u003e\u003cb\u003eTalk\u003c/b\u003e\u003c/font\u003e\u003c/a\u003e\u003c/sup\u003e/\u003csub\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Special:Contributions/Rwiggum\" class=\"extiw\" title=\"en:Special:Contributions/Rwiggum\"\u003e\u003cfont color=\"Black\"\u003e\u003cb\u003eContrib\u003c/b\u003e\u003c/font\u003e\u003c/a\u003e\u003c/sub\u003e)",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Rwiggum\" class=\"extiw\" title=\"wikipedia:User:Rwiggum\"\u003eRwiggum\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:TGUK Bowry.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:TGUK_Bowry.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/TGUK_Bowry.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/TGUK_Bowry.png",
+      "width": 447,
+      "height": 237,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Rwiggum\" class=\"extiw\" title=\"en:User:Rwiggum\"\u003e\u003cspan style=\"color: #4B5320;\"\u003eRwiggum\u003c/span\u003e\u003c/a\u003e (\u003csup\u003e\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Rwiggum\" class=\"extiw\" title=\"en:User talk:Rwiggum\"\u003e\u003cfont color=\"Black\"\u003e\u003cb\u003eTalk\u003c/b\u003e\u003c/font\u003e\u003c/a\u003e\u003c/sup\u003e/\u003csub\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Special:Contributions/Rwiggum\" class=\"extiw\" title=\"en:Special:Contributions/Rwiggum\"\u003e\u003cfont color=\"Black\"\u003e\u003cb\u003eContrib\u003c/b\u003e\u003c/font\u003e\u003c/a\u003e\u003c/sub\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Rwiggum\" class=\"extiw\" title=\"wikipedia:User:Rwiggum\"\u003eRwiggum\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--emo-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Emo_pop",
+      "retrieved_at": "2026-03-28T15:55:25Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--emo-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:TGUK_Bowry.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

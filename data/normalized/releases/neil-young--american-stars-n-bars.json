@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2ftxrMEIuBRNAkUS7wa4d3",
   "name": "American Stars 'N Bars",
   "primary_artist_name": "Neil Young",
-  "primary_artist_canonical_slug": "neil-young"
+  "primary_artist_canonical_slug": "neil-young",
+  "musicbrainz_release_id": "510c78ef-fd50-4bdb-9d84-529a650dd0aa",
+  "musicbrainz_release_group_id": "8e457784-baae-3ab0-b171-da2a76bedc01"
 }

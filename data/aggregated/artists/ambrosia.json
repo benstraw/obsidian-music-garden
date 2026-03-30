@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "ambrosia",
+  "name": "Ambrosia",
+  "play_count": 3,
+  "spotify_artist_id": "0J2Ej2rMQyqaUX3G6MUISw",
+  "spotify_url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw",
+  "genres": [
+    "soft-rock",
+    "yacht-rock"
+  ],
+  "source_genres": [
+    "soft rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d91f8a83b8f9a1da22a6fa7901431ee7fa516cfe",
+      "height": 695,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/1bc5d2c53780cd995ec55ec666c7241c932a2232",
+      "height": 445,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/35e79a82b8afc88cde0d2c6bc55646d20b464eea",
+      "height": 139,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5445a0e3c7db08f86b1ed0a81a13e4a9f45efc0e",
+      "height": 44,
+      "width": 63
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

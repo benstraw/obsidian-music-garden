@@ -1,0 +1,40 @@
+{
+  "canonical_slug": "joni-mitchell",
+  "name": "Joni Mitchell",
+  "play_count": 2,
+  "spotify_artist_id": "5hW4L92KnC6dX9t7tYM4Ve",
+  "spotify_url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve",
+  "genres": [
+    "folk",
+    "folk-rock",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "folk",
+    "folk rock",
+    "singer-songwriter"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3",
+      "height": 784,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ebaff9c356b21f97cb877d8e4607568b3e0cae75",
+      "height": 502,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/bc9f1f21ffa483e952a6d012420644554f91f624",
+      "height": 157,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/938613e2fe5e0ca97a524675feabea263400222f",
+      "height": 50,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

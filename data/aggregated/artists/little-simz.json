@@ -1,8 +1,41 @@
 {
   "canonical_slug": "little-simz",
   "name": "Little Simz",
+  "play_count": 1,
   "spotify_artist_id": "6eXZu6O7nAUA5z6vLV8NKI",
+  "musicbrainz_artist_id": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
   "spotify_url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI",
+  "genres": [
+    "afrobeat",
+    "alternative-hip-hop",
+    "funk",
+    "hip-hop",
+    "jazz-rap",
+    "neo-soul",
+    "post-punk",
+    "rap",
+    "soul"
+  ],
+  "source_genres": [
+    "1–4 wochen",
+    "afrobeat",
+    "alternative hip hop",
+    "british rap",
+    "conscious hip hop",
+    "contemporary rap",
+    "english",
+    "funk",
+    "hip hop",
+    "jazz rap",
+    "me 26–01",
+    "neo soul",
+    "offizielle charts",
+    "ph_temp_checken",
+    "post-punk",
+    "rap",
+    "rs 26–01",
+    "soul"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eba22264dfbad2d96ffc6ee2e0",
@@ -113,5 +146,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bamjos\" title=\"User:Bamjos\"\u003eBamjos\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

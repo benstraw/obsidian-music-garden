@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "grand-puba",
+  "name": "Grand Puba",
+  "play_count": 13,
+  "spotify_artist_id": "6IjhOxJSTPh15KgFTSZ68K",
+  "musicbrainz_artist_id": "fabe923b-4c57-4f77-b98a-198bf6ddc1b5",
+  "spotify_url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/b3ab7d05f1f1e375cb27cacd01f94628f234761a",
+      "height": 1147,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/469df1aeef12dc08920c432fced9c656eea65288",
+      "height": 734,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/8cb39e308b34fe6e92838b78e753f62d11445898",
+      "height": 229,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5e0f97393c8ef2a4c84aced82339a9f148b08f5e",
+      "height": 73,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Grand Puba",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Puba",
+  "summary": "Maxwell Dixon, known professionally as Grand Puba, is an American rapper and record producer, best known as a member of Brand Nubian from New Rochelle, New York. He was formerly a member of Masters of Ceremony.",
+  "candidates": [
+    "Grand Palace",
+    "Grand Paris Express",
+    "Grand Poobah",
+    "Grand Prairie Stadium",
+    "Grand Prairie, Texas",
+    "Grand Puba",
+    "Grand Puba discography",
+    "Grand Puba, Positive",
+    "Grand-Place",
+    "Grandparent"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Grand Puba",
+    "page_url": "https://en.wikipedia.org/wiki/Grand_Puba",
+    "retrieved_at": "2026-03-28T10:39:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Grand Puba in 2014.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Grand_Puba_in_2014.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Grand_Puba_in_2014.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grand_Puba_in_2014.jpg/960px-Grand_Puba_in_2014.jpg",
+    "width": 1129,
+    "height": 1427,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DeShaun_Craddock\" title=\"User:DeShaun Craddock\"\u003eDeShaun Craddock\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Grand Puba in 2014.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Grand_Puba_in_2014.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Grand_Puba_in_2014.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grand_Puba_in_2014.jpg/960px-Grand_Puba_in_2014.jpg",
+      "width": 1129,
+      "height": 1427,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DeShaun_Craddock\" title=\"User:DeShaun Craddock\"\u003eDeShaun Craddock\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

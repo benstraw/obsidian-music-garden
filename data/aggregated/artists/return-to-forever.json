@@ -1,0 +1,103 @@
+{
+  "canonical_slug": "return-to-forever",
+  "name": "Return To Forever",
+  "play_count": 12,
+  "spotify_artist_id": "1txWOvvuItlRlkB4rM0cUK",
+  "musicbrainz_artist_id": "5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36",
+  "spotify_url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK",
+  "genres": [
+    "jazz-fusion"
+  ],
+  "source_genres": [
+    "jazz fusion",
+    "jazz rock",
+    "jazz-rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/52a16d1a584512b4be042fb6e1a104165343bb04",
+      "height": 902,
+      "width": 600
+    },
+    {
+      "url": "https://i.scdn.co/image/96d5248efa028d1f049030a3a4e65f12483eeff1",
+      "height": 301,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/70e03a618670e1ba658ad92d834dffae8d38b36b",
+      "height": 96,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Return to Forever",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Return_to_Forever",
+  "summary": "Return to Forever is an American jazz fusion band that was founded by pianist Chick Corea in 1972. The band has had many members, with the only consistent bandmate of Corea's being bassist Stanley Clarke. Along with Weather Report, The Headhunters, and Mahavishnu Orchestra, Return to Forever is often cited as one of the core groups of the jazz-fusion movement of the 1970s. Several musicians, including Clarke, Flora Purim, Airto Moreira and Al Di Meola, came to prominence through their performances on Return to Forever albums.",
+  "candidates": [
+    "Return to Forever",
+    "Return to Forever (Ben 10: Omniverse)",
+    "Return to Forever (Chick Corea album)",
+    "Return to Forever (Scorpions album)",
+    "Return to Forever - Returns",
+    "Return to Forever Live: The Complete Concert",
+    "Return to Forever: The Anthology"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Return to Forever",
+    "page_url": "https://en.wikipedia.org/wiki/Return_to_Forever",
+    "retrieved_at": "2026-03-28T10:42:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Return to Forever 1974.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Return_to_Forever_1974.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Return_to_Forever_1974.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Return_to_Forever_1974.jpg/960px-Return_to_Forever_1974.jpg",
+      "width": 1941,
+      "height": 1376,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Grant Gouldon"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Return to Forever 1976.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Return_to_Forever_1976.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Return_to_Forever_1976.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Return_to_Forever_1976.jpg/960px-Return_to_Forever_1976.jpg",
+      "width": 3089,
+      "height": 2048,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11447043@N00/\"\u003eTom Marcello\u003c/a\u003e Webster, New York, USA"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

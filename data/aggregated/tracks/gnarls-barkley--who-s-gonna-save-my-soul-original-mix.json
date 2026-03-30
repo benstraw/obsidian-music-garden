@@ -1,11 +1,15 @@
 {
   "canonical_slug": "gnarls-barkley--who-s-gonna-save-my-soul-original-mix",
   "name": "Who's Gonna Save My Soul - Original Mix",
+  "play_count": 1,
   "primary_artist_canonical_slug": "gnarls-barkley",
   "primary_artist_name": "Gnarls Barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_canonical_slug": "gnarls-barkley--the-odd-couple",
   "release_name": "The Odd Couple",
   "spotify_track_id": "4qiBDlMzW2vTK8dJKw7xD3",
-  "spotify_url": "https://open.spotify.com/track/4qiBDlMzW2vTK8dJKw7xD3",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/4qiBDlMzW2vTK8dJKw7xD3"
 }

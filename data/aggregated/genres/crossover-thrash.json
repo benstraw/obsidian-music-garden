@@ -1,0 +1,103 @@
+{
+  "canonical_slug": "crossover-thrash",
+  "display_title": "Crossover Thrash",
+  "display_name": "Crossover Thrash",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Crossover thrash",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Crossover_thrash",
+  "summary": "Crossover thrash is a fusion genre of thrash metal and hardcore punk. The genre emerged in the mid-1980s, when hardcore punk bands, such as Suicidal Tendencies, Cryptic Slaughter, Corrosion of Conformity and Dirty Rotten Imbeciles, began to incorporate the influence of thrash metal. At this time, the genre was particularly prominent in the New York hardcore scene, where groups including Agnostic Front, Leeway, Cro-Mags and Stormtroopers of Death were widely influential.",
+  "candidates": [
+    "Crossover thrash",
+    "List of crossover thrash bands"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Crossover thrash",
+    "page_url": "https://en.wikipedia.org/wiki/Crossover_thrash",
+    "retrieved_at": "2026-03-28T15:54:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Discharge (5363724805).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Discharge_(5363724805).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Discharge_%285363724805%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Discharge_%285363724805%29.jpg/960px-Discharge_%285363724805%29.jpg",
+    "width": 2740,
+    "height": 1808,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Discharge (5363724805).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Discharge_(5363724805).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Discharge_%285363724805%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Discharge_%285363724805%29.jpg/960px-Discharge_%285363724805%29.jpg",
+      "width": 2740,
+      "height": 1808,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mike Muir.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mike_Muir.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mike_Muir.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mike_Muir.jpg/960px-Mike_Muir.jpg",
+      "width": 1280,
+      "height": 851,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:ST-Math!eu\" class=\"extiw\" title=\"en:User:ST-Math!eu\"\u003een:User:ST-Math!eu\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Power Trip 2012 (7999342296).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Power_Trip_2012_(7999342296).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Power_Trip_2012_%287999342296%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Power_Trip_2012_%287999342296%29.jpg/960px-Power_Trip_2012_%287999342296%29.jpg",
+      "width": 3872,
+      "height": 2592,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/60732372@N08\"\u003esaul torres\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--crossover-thrash.json",
+      "url": "https://en.wikipedia.org/wiki/Crossover_thrash",
+      "retrieved_at": "2026-03-28T15:54:45Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--crossover-thrash.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Discharge_(5363724805).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

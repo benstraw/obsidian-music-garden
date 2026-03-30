@@ -7,6 +7,7 @@
     "art rock"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Art rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Art_rock",
@@ -100,92 +101,192 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 17,
-    "unique_artist_count": 4,
-    "unique_release_count": 6,
-    "unique_track_count": 14,
-    "first_played_at": "2026-03-01T02:18:46.227Z",
-    "last_played_at": "2026-03-25T18:02:01.875Z"
+    "play_count": 154,
+    "unique_artist_count": 12,
+    "unique_release_count": 35,
+    "unique_track_count": 119,
+    "first_played_at": "2024-01-01T00:00:00.039487668Z",
+    "last_played_at": "2026-03-29T04:37:25.499Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 37,
+      "spotify_artist_id": "2P03Aan9wfgwkxTwGch2g1",
+      "musicbrainz_artist_id": "3e356f2a-3501-4e68-8eff-f77d582c066a",
+      "spotify_url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+    },
+    {
+      "canonical_slug": "wire",
+      "name": "Wire",
+      "play_count": 36,
+      "spotify_artist_id": "2i8ynmFv4qgRksyDlBgi6d",
+      "musicbrainz_artist_id": "7f2a8098-50e3-451c-8696-c5d9f64f4762",
+      "spotify_url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+    },
+    {
+      "canonical_slug": "electrelane",
+      "name": "Electrelane",
+      "play_count": 19,
+      "spotify_artist_id": "7ulIMfVKiXh8ecEpAVHIAY",
+      "musicbrainz_artist_id": "7756e3dc-f44c-4678-a7bc-d1b31204a963",
+      "spotify_url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+    },
+    {
       "canonical_slug": "pink-floyd",
       "name": "Pink Floyd",
-      "play_count": 12,
+      "play_count": 19,
       "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "musicbrainz_artist_id": "83d91898-7763-47d7-b03b-b92132375c47",
       "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-    },
-    {
-      "canonical_slug": "can",
-      "name": "CAN",
-      "play_count": 2,
-      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
-      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-    },
-    {
-      "canonical_slug": "frank-zappa",
-      "name": "Frank Zappa",
-      "play_count": 2,
-      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
-      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
     },
     {
       "canonical_slug": "david-bowie",
       "name": "David Bowie",
-      "play_count": 1,
+      "play_count": 12,
       "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
       "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "canonical_slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "play_count": 8,
+      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "musicbrainz_artist_id": "e20747e7-55a4-452e-8766-7b985585082d",
+      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    {
+      "canonical_slug": "lou-reed",
+      "name": "Lou Reed",
+      "play_count": 7,
+      "spotify_artist_id": "42TFhl7WlMRXiNqzSrnzPL",
+      "musicbrainz_artist_id": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+      "spotify_url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+    },
+    {
+      "canonical_slug": "brian-eno",
+      "name": "Brian Eno",
+      "play_count": 6,
+      "spotify_artist_id": "7MSUfLeTdDEoZiJPDSBXgi",
+      "musicbrainz_artist_id": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+      "spotify_url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    {
+      "canonical_slug": "devo",
+      "name": "DEVO",
+      "play_count": 4,
+      "spotify_artist_id": "0UKfenbZb15sqhfPC6zbt3",
+      "musicbrainz_artist_id": "d2db1078-c170-4e22-b261-14f3ad60a690",
+      "spotify_url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+    },
+    {
+      "canonical_slug": "yes",
+      "name": "Yes",
+      "play_count": 3,
+      "spotify_artist_id": "7AC976RDJzL2asmZuz7qil",
+      "spotify_url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "wire--chairs-missing-2006-remastered-version",
+      "name": "Chairs Missing (2006 Remastered Version)",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "wire",
+      "primary_artist_name": "Wire",
+      "spotify_album_id": "7tWxaE1as1wy12Yd1De41r"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine--je-ne-connais-pas-cet-homme-fontaine-4",
+      "name": "Je ne connais pas cet homme - Fontaine 4",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "0THVXnv0o3cdaN3lFXP4kp"
+    },
+    {
+      "canonical_slug": "wire--pink-flag-2006-remastered-version",
+      "name": "Pink Flag (2006 Remastered Version)",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "wire",
+      "primary_artist_name": "Wire",
+      "spotify_album_id": "4WXqZZ28geJSPtqLcCF56L"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine--brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "22ZGqiGnOQsieY6mPL4m4Q",
+      "musicbrainz_release_id": "eb86b7e3-220d-3e98-94fb-479b8f349ba7",
+      "musicbrainz_release_group_id": "5e2d63f9-7a43-3930-b1d3-7592de96a640"
+    },
+    {
+      "canonical_slug": "electrelane--no-shouts-no-calls",
+      "name": "No Shouts, No Calls",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "spotify_album_id": "0l9mVAWNzHKX0B7o9IEIeB",
+      "musicbrainz_release_id": "d8e4a57a-ed1d-480e-9d95-33d1f33a1656",
+      "musicbrainz_release_group_id": "a42737df-433d-36a4-9d19-7224e08be609"
+    },
     {
       "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
       "name": "A Saucerful of Secrets",
       "play_count": 7,
       "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "primary_artist_name": "Pink Floyd",
+      "spotify_album_id": "2vnJKtGjZXRUg0mYPZ3HGH",
+      "musicbrainz_release_id": "bc2be498-ff42-4a4f-b4df-53d6e3bee74a",
+      "musicbrainz_release_group_id": "8a9caa40-b7c6-33eb-a13c-6c15f09b1c44"
     },
     {
       "canonical_slug": "pink-floyd--meddle",
       "name": "Meddle",
-      "play_count": 4,
+      "play_count": 6,
       "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "primary_artist_name": "Pink Floyd",
+      "spotify_album_id": "468ZwCchVtzEbt9BHmXopb",
+      "musicbrainz_release_id": "09ed5877-bb22-4a26-8ec7-c95e5ee70fd3",
+      "musicbrainz_release_group_id": "4e98c9b4-92f6-3049-b9da-a1088b623672"
     },
     {
-      "canonical_slug": "can--ege-bamyasi-remastered-version",
-      "name": "Ege Bamyasi (Remastered Version)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN"
-    },
-    {
-      "canonical_slug": "frank-zappa--hot-rats",
-      "name": "Hot Rats",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "frank-zappa",
-      "primary_artist_name": "Frank Zappa"
-    },
-    {
-      "canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
-      "name": "The Piper at the Gates of Dawn",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
-    },
-    {
-      "canonical_slug": "david-bowie--young-americans-2016-remaster",
-      "name": "Young Americans (2016 Remaster)",
-      "play_count": 1,
+      "canonical_slug": "david-bowie--the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars-2012-remaster",
+      "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "play_count": 5,
       "primary_artist_canonical_slug": "david-bowie",
       "primary_artist_name": "David Bowie"
+    },
+    {
+      "canonical_slug": "lou-reed--coney-island-baby",
+      "name": "Coney Island Baby",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "spotify_album_id": "3Kawndiz86cIHkPsKtFiKx",
+      "musicbrainz_release_id": "1a229243-a099-4d01-b793-de7a7d6a0f89",
+      "musicbrainz_release_group_id": "c517ee05-356e-3944-b13f-8d505a4012cb"
+    },
+    {
+      "canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "name": "Here Come The Warm Jets",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "spotify_album_id": "74jn28Kr29iyh8eZXSvnwi",
+      "musicbrainz_release_id": "46a2f184-ef38-4025-a6e8-c0507f790d90",
+      "musicbrainz_release_group_id": "90d9be4c-30be-3e28-949a-66ee22c3a63a"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "pink-floyd--fearless",
       "name": "Fearless",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "pink-floyd",
       "primary_artist_name": "Pink Floyd",
       "release_canonical_slug": "pink-floyd--meddle",
@@ -196,7 +297,7 @@
     {
       "canonical_slug": "frank-zappa--peaches-en-regalia",
       "name": "Peaches En Regalia",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "frank-zappa",
       "primary_artist_name": "Frank Zappa",
       "release_canonical_slug": "frank-zappa--hot-rats",
@@ -205,92 +306,92 @@
       "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
     },
     {
-      "canonical_slug": "can--vitamin-c-2004-remastered-version",
-      "name": "Vitamin C - 2004 Remastered Version",
+      "canonical_slug": "wire--1-2-x-u-2006-remastered-version",
+      "name": "1 2 X U - 2006 Remastered Version",
       "play_count": 2,
-      "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN",
-      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
-      "release_name": "Ege Bamyasi (Remastered Version)",
-      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
-      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+      "primary_artist_canonical_slug": "wire",
+      "primary_artist_name": "Wire",
+      "release_canonical_slug": "wire--pink-flag-2006-remastered-version",
+      "release_name": "Pink Flag (2006 Remastered Version)",
+      "spotify_track_id": "2X7Yq4DYQmEx1bZ1bYjlYx",
+      "spotify_url": "https://open.spotify.com/track/2X7Yq4DYQmEx1bZ1bYjlYx"
     },
     {
-      "canonical_slug": "pink-floyd--a-pillow-of-winds",
-      "name": "A Pillow of Winds",
-      "play_count": 1,
+      "canonical_slug": "electrelane--between-the-wolf-and-the-dog",
+      "name": "Between the Wolf and the Dog",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "release_canonical_slug": "electrelane--no-shouts-no-calls",
+      "release_name": "No Shouts, No Calls",
+      "spotify_track_id": "71LTmGzNVuEd2yWNJRPyVj",
+      "spotify_url": "https://open.spotify.com/track/71LTmGzNVuEd2yWNJRPyVj"
+    },
+    {
+      "canonical_slug": "pink-floyd--breathe-in-the-air",
+      "name": "Breathe (In the Air)",
+      "play_count": 2,
       "primary_artist_canonical_slug": "pink-floyd",
       "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
-      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+      "release_canonical_slug": "pink-floyd--the-dark-side-of-the-moon",
+      "release_name": "The Dark Side of the Moon",
+      "spotify_track_id": "2ctvdKmETyOzPb2GiJJT53",
+      "spotify_url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
     },
     {
-      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "name": "A Saucerful of Secrets",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "0OtkNB4TnTzrlid4zipYDV",
-      "spotify_url": "https://open.spotify.com/track/0OtkNB4TnTzrlid4zipYDV"
+      "canonical_slug": "lou-reed--charley-s-girl",
+      "name": "Charley's Girl",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--coney-island-baby",
+      "release_name": "Coney Island Baby",
+      "spotify_track_id": "70tBw295bLL8B13Jg3SNUs",
+      "spotify_url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
-      "canonical_slug": "pink-floyd--corporal-clegg",
-      "name": "Corporal Clegg",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "0GML1aXwt0GJH8XRvcH7Fl",
-      "spotify_url": "https://open.spotify.com/track/0GML1aXwt0GJH8XRvcH7Fl"
+      "canonical_slug": "brian-eno--cindy-tells-me-2004-digital-remaster",
+      "name": "Cindy Tells Me - 2004 Digital Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "release_name": "Here Come The Warm Jets",
+      "spotify_track_id": "5bF63YObFP3gfcIfbX84NH",
+      "spotify_url": "https://open.spotify.com/track/5bF63YObFP3gfcIfbX84NH"
     },
     {
-      "canonical_slug": "david-bowie--fame-2016-remaster",
-      "name": "Fame - 2016 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "david-bowie",
-      "primary_artist_name": "David Bowie",
-      "release_canonical_slug": "david-bowie--young-americans-2016-remaster",
-      "release_name": "Young Americans (2016 Remaster)",
-      "spotify_track_id": "1PehfITh0TTRx3LkDdV4h3",
-      "spotify_url": "https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3"
+      "canonical_slug": "brigitte-fontaine--comme-à-la-radio",
+      "name": "Comme à la radio",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "release_canonical_slug": "brigitte-fontaine--comme-à-la-radio",
+      "release_name": "Comme à la radio",
+      "spotify_track_id": "0nWT7drXSBxfqTwV4eZQ3a",
+      "spotify_url": "https://open.spotify.com/track/0nWT7drXSBxfqTwV4eZQ3a"
     },
     {
-      "canonical_slug": "pink-floyd--jugband-blues",
-      "name": "Jugband Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "7L1n9EL0Sh0LMOyxDI7rxr",
-      "spotify_url": "https://open.spotify.com/track/7L1n9EL0Sh0LMOyxDI7rxr"
+      "canonical_slug": "lou-reed--coney-island-baby",
+      "name": "Coney Island Baby",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "lou-reed",
+      "primary_artist_name": "Lou Reed",
+      "release_canonical_slug": "lou-reed--coney-island-baby",
+      "release_name": "Coney Island Baby",
+      "spotify_track_id": "0ivHDucXMbjTjiU4lMIkBO",
+      "spotify_url": "https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO"
     },
     {
-      "canonical_slug": "pink-floyd--let-there-be-more-light",
-      "name": "Let There Be More Light",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "5xUz3xvyPPrNfnBrh9IOZa",
-      "spotify_url": "https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa"
-    },
-    {
-      "canonical_slug": "pink-floyd--matilda-mother",
-      "name": "Matilda Mother",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
-      "release_name": "The Piper at the Gates of Dawn",
-      "spotify_track_id": "6SlI8JYwFaESqre47wrQZz",
-      "spotify_url": "https://open.spotify.com/track/6SlI8JYwFaESqre47wrQZz"
+      "canonical_slug": "electrelane--cut-and-run",
+      "name": "Cut and Run",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "release_canonical_slug": "electrelane--no-shouts-no-calls",
+      "release_name": "No Shouts, No Calls",
+      "spotify_track_id": "775gkvxVjPQBxU5a6q5Aya",
+      "spotify_url": "https://open.spotify.com/track/775gkvxVjPQBxU5a6q5Aya"
     }
   ],
   "source_refs": [
@@ -299,6 +400,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -320,9 +427,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-25T18:02:01.875Z",
+      "updated_at": "2026-03-29T04:37:25.499Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:37:25.499Z"
 }

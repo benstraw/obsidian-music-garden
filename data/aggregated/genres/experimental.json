@@ -7,122 +7,235 @@
     "avant garde",
     "experimental"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Experimental music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Experimental_music",
+  "summary": "Experimental music is a general label for any music or music genre that pushes existing boundaries and genre definitions. Experimental compositional practice is defined broadly by exploratory sensibilities radically opposed to, and questioning of, institutionalized compositional, performing, and aesthetic conventions in music. Elements of experimental music include indeterminacy, in which the composer introduces the elements of chance or unpredictability with regard to either the composition or its performance. Artists may approach a hybrid of disparate styles or incorporate unorthodox and unique elements.",
   "candidates": [
-    "Experiment",
-    "Experimental Mechanized Force",
-    "Experimental animation",
-    "Experimental cancer treatment",
-    "Experimental evolution",
-    "Experimental film",
-    "Experimental music",
-    "Experimental political science",
-    "Experimental psychology",
-    "Experimental rock"
+    "Experimental music"
   ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Experimental music",
+    "page_url": "https://en.wikipedia.org/wiki/Experimental_music",
+    "retrieved_at": "2026-03-29T17:17:27Z"
+  },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 8,
-    "unique_artist_count": 6,
-    "unique_release_count": 6,
-    "unique_track_count": 6,
-    "first_played_at": "2026-03-01T02:18:46.227Z",
-    "last_played_at": "2026-03-12T16:54:06.655Z"
+    "play_count": 304,
+    "unique_artist_count": 21,
+    "unique_release_count": 64,
+    "unique_track_count": 228,
+    "first_played_at": "2024-01-01T00:00:00.039487668Z",
+    "last_played_at": "2026-03-29T04:18:25.665Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "can",
-      "name": "CAN",
-      "play_count": 2,
-      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
-      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+      "canonical_slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "play_count": 75,
+      "spotify_artist_id": "62BcWP4fzR8axESibNQEhs",
+      "musicbrainz_artist_id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+      "spotify_url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
     },
     {
-      "canonical_slug": "frank-zappa",
-      "name": "Frank Zappa",
-      "play_count": 2,
-      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
-      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+      "canonical_slug": "horse-lords",
+      "name": "Horse Lords",
+      "play_count": 38,
+      "spotify_artist_id": "0Oslq5zLftqRVwKseBJ7MV",
+      "musicbrainz_artist_id": "6efe2782-6926-41f6-b246-bdd60f997b8b",
+      "spotify_url": "https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV"
     },
     {
-      "canonical_slug": "mauricio-kagel",
-      "name": "Mauricio Kagel",
-      "play_count": 1,
-      "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
-      "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
+      "canonical_slug": "brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 37,
+      "spotify_artist_id": "2P03Aan9wfgwkxTwGch2g1",
+      "musicbrainz_artist_id": "3e356f2a-3501-4e68-8eff-f77d582c066a",
+      "spotify_url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
     },
     {
-      "canonical_slug": "negativland",
-      "name": "Negativland",
-      "play_count": 1,
-      "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
-      "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
+      "canonical_slug": "liars",
+      "name": "Liars",
+      "play_count": 22,
+      "spotify_artist_id": "2z78AlkdwE2Ghj9EB50M6z",
+      "musicbrainz_artist_id": "03098741-08b3-4dd7-b3f6-1b0bfa2c879c",
+      "spotify_url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
     },
     {
-      "canonical_slug": "ornette-coleman",
-      "name": "Ornette Coleman",
-      "play_count": 1,
-      "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
-      "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+      "canonical_slug": "electrelane",
+      "name": "Electrelane",
+      "play_count": 19,
+      "spotify_artist_id": "7ulIMfVKiXh8ecEpAVHIAY",
+      "musicbrainz_artist_id": "7756e3dc-f44c-4678-a7bc-d1b31204a963",
+      "spotify_url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
     },
     {
       "canonical_slug": "sun-ra",
       "name": "Sun Ra",
-      "play_count": 1,
+      "play_count": 17,
       "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+      "musicbrainz_artist_id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
       "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+    },
+    {
+      "canonical_slug": "the-books",
+      "name": "The Books",
+      "play_count": 15,
+      "spotify_artist_id": "4UvhuGdFf75Cfan7lEU1J1",
+      "musicbrainz_artist_id": "1270af14-9c17-4400-8ebb-3f0ac40dcfb0",
+      "spotify_url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+    },
+    {
+      "canonical_slug": "neu",
+      "name": "NEU!",
+      "play_count": 11,
+      "spotify_artist_id": "2CqEOngQOOMstJupNn6Hmf",
+      "musicbrainz_artist_id": "adec1fc3-83c1-48f7-9e49-8347ac6d40b0",
+      "spotify_url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+    },
+    {
+      "canonical_slug": "swans",
+      "name": "Swans",
+      "play_count": 11,
+      "spotify_artist_id": "79S80ZWgVhIPMCHuvl6SkA",
+      "musicbrainz_artist_id": "3285dc48-9505-469d-ad8a-bdf2d3dba632",
+      "spotify_url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+    },
+    {
+      "canonical_slug": "cut-chemist",
+      "name": "Cut Chemist",
+      "play_count": 10,
+      "spotify_artist_id": "4743DlrFCsAlAV4N26Kdgh",
+      "musicbrainz_artist_id": "e0975164-e68b-45d6-9854-d5d0ce84e671",
+      "spotify_url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "can--ege-bamyasi-remastered-version",
-      "name": "Ege Bamyasi (Remastered Version)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN"
+      "canonical_slug": "brigitte-fontaine--je-ne-connais-pas-cet-homme-fontaine-4",
+      "name": "Je ne connais pas cet homme - Fontaine 4",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "0THVXnv0o3cdaN3lFXP4kp"
     },
     {
-      "canonical_slug": "frank-zappa--hot-rats",
-      "name": "Hot Rats",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "frank-zappa",
-      "primary_artist_name": "Frank Zappa"
+      "canonical_slug": "liars--drum-s-not-dead",
+      "name": "Drum's Not Dead",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "spotify_album_id": "4xeba6CVGWt31LsqwhS8Mg",
+      "musicbrainz_release_id": "207d66ce-3699-30b2-99c0-4fa60daaf01c",
+      "musicbrainz_release_group_id": "003bca6c-ca70-3c20-81d2-3f615b583fbf"
     },
     {
-      "canonical_slug": "negativland--escape-from-noise",
-      "name": "Escape from Noise",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "negativland",
-      "primary_artist_name": "Negativland"
+      "canonical_slug": "the-books--the-lemon-of-pink-remastered",
+      "name": "The Lemon of Pink (Remastered)",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "the-books",
+      "primary_artist_name": "The Books",
+      "spotify_album_id": "6zwjQ6buUEcF3E9IGTJXtP"
     },
     {
-      "canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
-      "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mauricio-kagel",
-      "primary_artist_name": "Mauricio Kagel"
+      "canonical_slug": "brigitte-fontaine--brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "22ZGqiGnOQsieY6mPL4m4Q",
+      "musicbrainz_release_id": "eb86b7e3-220d-3e98-94fb-479b8f349ba7",
+      "musicbrainz_release_group_id": "5e2d63f9-7a43-3930-b1d3-7592de96a640"
     },
     {
-      "canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
-      "name": "The Shape Of Jazz To Come",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "ornette-coleman",
-      "primary_artist_name": "Ornette Coleman"
+      "canonical_slug": "electrelane--no-shouts-no-calls",
+      "name": "No Shouts, No Calls",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "spotify_album_id": "0l9mVAWNzHKX0B7o9IEIeB",
+      "musicbrainz_release_id": "d8e4a57a-ed1d-480e-9d95-33d1f33a1656",
+      "musicbrainz_release_group_id": "a42737df-433d-36a4-9d19-7224e08be609"
     },
     {
-      "canonical_slug": "sun-ra--we-travel-the-spaceways",
-      "name": "We Travel the Spaceways",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sun-ra",
-      "primary_artist_name": "Sun Ra"
+      "canonical_slug": "butthole-surfers--locust-abortion-technician",
+      "name": "Locust Abortion Technician",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "spotify_album_id": "0YaG8TgKhZGxqEqMC913FY",
+      "musicbrainz_release_id": "330f0201-0e03-4338-8543-b3938924ab2c",
+      "musicbrainz_release_group_id": "505efa10-c8c9-3741-814f-9d9fe44e49cf"
+    },
+    {
+      "canonical_slug": "horse-lords--interventions",
+      "name": "Interventions",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "5EhcaBEdg11iEoMIRftGJW",
+      "musicbrainz_release_id": "dcb098b6-c267-494d-bc17-24eb2f4a0c1b",
+      "musicbrainz_release_group_id": "d21d369e-3d88-4778-afd4-91038f0ab74e"
+    },
+    {
+      "canonical_slug": "swans--filth",
+      "name": "Filth",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "swans",
+      "primary_artist_name": "Swans",
+      "spotify_album_id": "70ff8ZgebUJWXQDzV5zVVk",
+      "musicbrainz_release_id": "e09f6b36-bb3c-4bc3-9e84-baf188567474",
+      "musicbrainz_release_group_id": "68198e00-3c53-368c-9337-1aafd0f461b6"
+    },
+    {
+      "canonical_slug": "butthole-surfers--hairway-to-steven-2024-remaster",
+      "name": "Hairway To Steven (2024 Remaster)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "spotify_album_id": "33TTBmineUtp4A3i20UBlt"
+    },
+    {
+      "canonical_slug": "butthole-surfers--psychic-powerless-another-man-s-sac",
+      "name": "Psychic.... Powerless.... Another Man's Sac",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "spotify_album_id": "4ynsmv5mfee0cy4lYrxdTr",
+      "musicbrainz_release_id": "c1f3af1d-958a-4772-92c1-930b53a5bccc",
+      "musicbrainz_release_group_id": "59136e60-dfec-3f26-a681-3d3ab4a6aad9"
     }
   ],
   "top_tracks": [
     {
+      "canonical_slug": "horse-lords--fanfare-for-effective-freedom",
+      "name": "Fanfare for Effective Freedom",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--people-s-park",
+      "release_name": "People's Park",
+      "spotify_track_id": "3uvkeDnZyD3u6ZBX8y4Q1g",
+      "spotify_url": "https://open.spotify.com/track/3uvkeDnZyD3u6ZBX8y4Q1g"
+    },
+    {
+      "canonical_slug": "dangerdoom--old-school-rules",
+      "name": "Old School Rules",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "dangerdoom",
+      "primary_artist_name": "DANGERDOOM",
+      "release_canonical_slug": "dangerdoom--the-mouse-and-the-mask-metalface-edition",
+      "release_name": "THE MOUSE AND THE MASK (METALFACE EDITION)",
+      "spotify_track_id": "3sx9Sl1DlriqA2DNecpILb",
+      "spotify_url": "https://open.spotify.com/track/3sx9Sl1DlriqA2DNecpILb"
+    },
+    {
       "canonical_slug": "frank-zappa--peaches-en-regalia",
       "name": "Peaches En Regalia",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "frank-zappa",
       "primary_artist_name": "Frank Zappa",
       "release_canonical_slug": "frank-zappa--hot-rats",
@@ -131,59 +244,81 @@
       "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
     },
     {
-      "canonical_slug": "can--vitamin-c-2004-remastered-version",
-      "name": "Vitamin C - 2004 Remastered Version",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN",
-      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
-      "release_name": "Ege Bamyasi (Remastered Version)",
-      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
-      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+      "canonical_slug": "horse-lords--people-s-park",
+      "name": "People's Park",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--the-common-task",
+      "release_name": "The Common Task",
+      "spotify_track_id": "7MFLuyQLNAMu6WZcRCXO8r",
+      "spotify_url": "https://open.spotify.com/track/7MFLuyQLNAMu6WZcRCXO8r"
     },
     {
-      "canonical_slug": "negativland--endscape",
-      "name": "Endscape",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "negativland",
-      "primary_artist_name": "Negativland",
-      "release_canonical_slug": "negativland--escape-from-noise",
-      "release_name": "Escape from Noise",
-      "spotify_track_id": "4jM4ZrBOBuCE5sRsXuk8iH",
-      "spotify_url": "https://open.spotify.com/track/4jM4ZrBOBuCE5sRsXuk8iH"
-    },
-    {
-      "canonical_slug": "ornette-coleman--lonely-woman",
-      "name": "Lonely Woman",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "ornette-coleman",
-      "primary_artist_name": "Ornette Coleman",
-      "release_canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
-      "release_name": "The Shape Of Jazz To Come",
-      "spotify_track_id": "23aDP04QX8MAHA99FLaPtN",
-      "spotify_url": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN"
-    },
-    {
-      "canonical_slug": "mauricio-kagel--match-für-3-spieler-pt-1",
-      "name": "Match für 3 Spieler - Pt. 1",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mauricio-kagel",
-      "primary_artist_name": "Mauricio Kagel",
-      "release_canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
-      "release_name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
-      "spotify_track_id": "4VDhJhQnw1GIfx878K53WL",
-      "spotify_url": "https://open.spotify.com/track/4VDhJhQnw1GIfx878K53WL"
+      "canonical_slug": "butthole-surfers--something",
+      "name": "Something",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "release_canonical_slug": "butthole-surfers--pioughd-widowermaker",
+      "release_name": "Pioughd + Widowermaker!",
+      "spotify_track_id": "5bGqhLcBd5YXuqzMVQiFUl",
+      "spotify_url": "https://open.spotify.com/track/5bGqhLcBd5YXuqzMVQiFUl"
     },
     {
       "canonical_slug": "sun-ra--tapestry-from-an-asteroid",
       "name": "Tapestry from an Asteroid",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "sun-ra",
       "primary_artist_name": "Sun Ra",
       "release_canonical_slug": "sun-ra--we-travel-the-spaceways",
       "release_name": "We Travel the Spaceways",
       "spotify_track_id": "0EjtZmOLT6WLShJRHCFWVU",
       "spotify_url": "https://open.spotify.com/track/0EjtZmOLT6WLShJRHCFWVU"
+    },
+    {
+      "canonical_slug": "butthole-surfers--22-going-on-23",
+      "name": "22 Going On 23",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "release_canonical_slug": "butthole-surfers--locust-abortion-technician",
+      "release_name": "Locust Abortion Technician",
+      "spotify_track_id": "2zXtevperdjudA1erYYmMa",
+      "spotify_url": "https://open.spotify.com/track/2zXtevperdjudA1erYYmMa"
+    },
+    {
+      "canonical_slug": "liars--a-visit-from-drum",
+      "name": "A Visit From Drum",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "release_canonical_slug": "liars--drum-s-not-dead",
+      "release_name": "Drum's Not Dead",
+      "spotify_track_id": "70dQckN10afBXt30Ug51si",
+      "spotify_url": "https://open.spotify.com/track/70dQckN10afBXt30Ug51si"
+    },
+    {
+      "canonical_slug": "negativland--announcement",
+      "name": "Announcement",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "2nB8br6vbE8MYsBmCR9aia",
+      "spotify_url": "https://open.spotify.com/track/2nB8br6vbE8MYsBmCR9aia"
+    },
+    {
+      "canonical_slug": "dangerdoom--benzi-box",
+      "name": "Benzi Box",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dangerdoom",
+      "primary_artist_name": "DANGERDOOM",
+      "release_canonical_slug": "dangerdoom--the-mouse-and-the-mask",
+      "release_name": "THE MOUSE \u0026 THE MASK",
+      "spotify_track_id": "6bmJYo1KS2X2nzQrCGzdOe",
+      "spotify_url": "https://open.spotify.com/track/6bmJYo1KS2X2nzQrCGzdOe"
     }
   ],
   "source_refs": [
@@ -194,12 +329,27 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--experimental.json",
+      "url": "https://en.wikipedia.org/wiki/Experimental_music",
+      "retrieved_at": "2026-03-29T17:17:27Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-12T16:54:06.655Z",
+      "updated_at": "2026-03-29T04:18:25.665Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:18:25.665Z"
 }

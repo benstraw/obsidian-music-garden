@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0D5Js6PSJm4xsy872qRBgf",
   "name": "Atlanta",
   "primary_artist_name": "Gnarls Barkley",
-  "primary_artist_canonical_slug": "gnarls-barkley"
+  "primary_artist_canonical_slug": "gnarls-barkley",
+  "musicbrainz_release_id": "118f9b70-6a53-4b96-a473-c11a08acbf51",
+  "musicbrainz_release_group_id": "9bbb78d5-e7cd-434b-878b-1ad5a1dcbcc1"
 }

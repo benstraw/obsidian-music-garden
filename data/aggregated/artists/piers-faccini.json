@@ -1,13 +1,23 @@
 {
   "canonical_slug": "piers-faccini",
   "name": "Piers Faccini",
+  "play_count": 2,
   "spotify_artist_id": "2hK2gWQ2TequHGKZe5dzHd",
+  "musicbrainz_artist_id": "99698ee5-9b92-4bea-bdf5-418270d820f4",
   "spotify_url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd",
   "genres": [
-    "gnawa"
+    "folk",
+    "gnawa",
+    "indie-folk",
+    "rock",
+    "singer-songwriter"
   ],
   "source_genres": [
-    "gnawa"
+    "folk",
+    "gnawa",
+    "indie folk",
+    "rock",
+    "singer-songwriter"
   ],
   "images": [
     {
@@ -70,5 +80,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sixlocal\" title=\"User:Sixlocal\"\u003eSixlocal\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

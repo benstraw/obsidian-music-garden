@@ -1,0 +1,85 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5yxyJsFanEAuwSM5kOuZKc",
+  "name": "London Symphony Orchestra",
+  "spotify_url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc",
+  "musicbrainz_artist_id": "38712b4c-0fd4-4c65-8c7a-45676fecc973",
+  "source_genres": [
+    "classical"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "London Symphony Orchestra",
+  "summary": "The London Symphony Orchestra (LSO) is a British ensemble based in London. Founded in 1904, the LSO is the oldest of London's symphony orchestras. It was created by a group of players who left Henry Wood's Queen's Hall Orchestra because of a new rule requiring players to give the orchestra their exclusive services. The LSO itself later introduced a similar rule for its members. From the outset the LSO was organised on co-operative lines, with all players sharing the profits at the end of each season. This practice continued for the orchestra's first four decades.",
+  "canonical_url": "https://en.wikipedia.org/wiki/London_Symphony_Orchestra",
+  "candidates": [
+    "London Symphony Orchestra",
+    "London Symphony Orchestra (Zappa albums)",
+    "London Symphony Orchestra Chorus",
+    "London Symphony Orchestra filmography",
+    "Loudoun Symphony Orchestra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "London Symphony Orchestra",
+    "page_url": "https://en.wikipedia.org/wiki/London_Symphony_Orchestra",
+    "retrieved_at": "2026-03-28T10:40:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elgar-LSO-1911.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elgar-LSO-1911.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Elgar-LSO-1911.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Elgar-LSO-1911.jpg",
+      "width": 849,
+      "height": 515,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hans-Richter-1911.png"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jerry Goldsmith 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jerry_Goldsmith_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Jerry_Goldsmith_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jerry_Goldsmith_1.jpg/960px-Jerry_Goldsmith_1.jpg",
+      "width": 1600,
+      "height": 1200,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51035728659@N01\"\u003eFrantisek Fuka\u003c/a\u003e from Czech Republic"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LSO-founders.jpg"
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2lBCw89lTcccd0HTvXGmyJ",
   "name": "Delta",
   "primary_artist_name": "Mumford \u0026 Sons",
-  "primary_artist_canonical_slug": "mumford-and-sons"
+  "primary_artist_canonical_slug": "mumford-and-sons",
+  "musicbrainz_release_id": "c01d5831-d673-4f20-b368-e7d6b519082c",
+  "musicbrainz_release_group_id": "b4003948-ace6-46ba-ac88-f59344a46be9"
 }

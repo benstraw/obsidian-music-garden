@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "robert-plane",
+  "name": "Robert Plane",
+  "spotify_artist_id": "6zClI4o4EDCsYXb8Y80mEh",
+  "musicbrainz_artist_id": "4095453c-a4a2-40ce-8508-f20b66076d6c",
+  "spotify_url": "https://open.spotify.com/artist/6zClI4o4EDCsYXb8Y80mEh",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebec4cd859de0ac91fc105cf15",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ec4cd859de0ac91fc105cf15",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ec4cd859de0ac91fc105cf15",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Robert A. Plane",
+    "Robert Blake (actor)",
+    "Robert Palmer",
+    "Robert Pape",
+    "Robert Peel",
+    "Robert Plane",
+    "Robert Plane (clarinettist)",
+    "Robert Planel",
+    "Robert Plant",
+    "Robert Plant discography"
+  ],
+  "last_updated": "2026-03-30"
+}

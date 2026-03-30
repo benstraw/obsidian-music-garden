@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2oRy1LSwPVKeELSNxewLHc",
   "name": "Gary",
-  "primary_artist_name": "Stephen Wilson Jr.",
-  "primary_artist_canonical_slug": "stephen-wilson-jr"
+  "primary_artist_name": "Stephen Wilson Jr",
+  "primary_artist_canonical_slug": "stephen-wilson-jr",
+  "musicbrainz_release_id": "c3b9f56b-8750-4edf-90aa-ce1b63d6e860",
+  "musicbrainz_release_group_id": "89480ae5-a492-4642-af1d-f20a8e47bfdd"
 }

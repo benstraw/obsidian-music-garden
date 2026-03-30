@@ -1,0 +1,57 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5UMQV83wwZCCvRSQCVjZw6",
+  "name": "Mission Of Burma",
+  "spotify_url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6",
+  "musicbrainz_artist_id": "db9d25d7-a85b-4a29-b2ff-8f5b69ed691e",
+  "source_genres": [
+    "art punk",
+    "post-hardcore",
+    "post-punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "post-punk",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Mission of Burma",
+  "summary": "Mission of Burma was an American post-punk band from Boston, Massachusetts. The group formed in 1979 with Roger Miller on guitar, Clint Conley on bass, Peter Prescott on drums, and Martin Swope contributing audiotape manipulation and acting as the band’s sound engineer. In this initial lineup, Miller, Conley, and Prescott all shared singing and songwriting duties.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Mission_of_Burma",
+  "candidates": [
+    "Mission of Burma",
+    "Mission of Burma discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mission of Burma",
+    "page_url": "https://en.wikipedia.org/wiki/Mission_of_Burma",
+    "retrieved_at": "2026-03-28T10:41:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Mission of Burma-51.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Mission_of_Burma-51.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+    "width": 900,
+    "height": 600,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/neonwar\"\u003eneonwar\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mission of Burma-51.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mission_of_Burma-51.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+      "width": 900,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/neonwar\"\u003eneonwar\u003c/a\u003e"
+    }
+  ]
+}

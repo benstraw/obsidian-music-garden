@@ -3,10 +3,16 @@
   "source_artist_id": "3YFP5QHEKv8RZZsPminjdv",
   "name": "Baby Huey",
   "spotify_url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv",
+  "musicbrainz_artist_id": "66c03e40-2337-4952-8b27-afcbc68a6e5a",
   "source_genres": [
+    "funk",
+    "funk soul",
+    "psychedelic",
+    "rare groove a to z",
     "soul"
   ],
   "canonical_genre_slugs": [
+    "funk",
     "soul"
   ],
   "status": "matched",

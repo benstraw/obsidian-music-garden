@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "62UXaPhllNZimUoE87b1ho",
   "name": "Pain Baby",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "01c2c008-00ac-46c2-9a0e-42011dc42354",
+  "musicbrainz_release_group_id": "6d10dc9f-34cb-4891-8ccf-a30f68662e78"
 }

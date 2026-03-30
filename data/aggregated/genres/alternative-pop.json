@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "alternative-pop",
+  "display_title": "Alternative Pop",
+  "display_name": "Alternative Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Alternative pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_pop",
+  "summary": "Alternative pop is pop music with broad commercial appeal that is made by figures outside the mainstream, or which is considered more original, challenging, or eclectic than traditional pop music. The Independent described alt-pop as \"a home-made, personalized imitation of the mainstream that speaks far closer to actual teenage experience\", and which is commonly characterized by a dark or downbeat emotional tone with lyrics about insecurity, regret, drugs, and anxiety.",
+  "candidates": [
+    "Alternative Pop",
+    "Alternative comedy",
+    "Alternative comics",
+    "Alternative for Germany",
+    "Alternative for Sweden",
+    "Alternative hip-hop",
+    "Alternative pathways in education",
+    "Alternative pop",
+    "Alternative spellings of woman",
+    "Alternative splicing"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alternative pop",
+    "page_url": "https://en.wikipedia.org/wiki/Alternative_pop",
+    "retrieved_at": "2026-03-28T15:52:57Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--alternative-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Alternative_pop",
+      "retrieved_at": "2026-03-28T15:52:57Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

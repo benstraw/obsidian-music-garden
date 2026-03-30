@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "90s",
+  "display_title": "90s",
+  "display_name": "90s",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "90s",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/90s",
+  "summary": "The 90s was a decade that ran from January 1, AD 90, to December 31, AD 99.",
+  "candidates": [
+    "'90s",
+    "'90s Super GP",
+    "'90s on 9",
+    "90s",
+    "90s BC",
+    "90s Music",
+    "90s music",
+    "90scars",
+    "The '90s Suck and So Do You",
+    "The '90s: The Last Great Decade"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "90s",
+    "page_url": "https://en.wikipedia.org/wiki/90s",
+    "retrieved_at": "2026-03-28T15:52:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Forum Nerva - Rome (IT62) - 2021-08-25 - 1.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Forum_Nerva_-_Rome_(IT62)_-_2021-08-25_-_1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Forum_Nerva_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forum_Nerva_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg/960px-Forum_Nerva_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg",
+    "width": 4032,
+    "height": 3024,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chabe01\" title=\"User:Chabe01\"\u003eChabe01\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Forum Nerva - Rome (IT62) - 2021-08-25 - 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Forum_Nerva_-_Rome_(IT62)_-_2021-08-25_-_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Forum_Nerva_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Forum_Nerva_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg/960px-Forum_Nerva_-_Rome_%28IT62%29_-_2021-08-25_-_1.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chabe01\" title=\"User:Chabe01\"\u003eChabe01\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--90s.json",
+      "url": "https://en.wikipedia.org/wiki/90s",
+      "retrieved_at": "2026-03-28T15:52:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--90s.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Forum_Nerva_-_Rome_(IT62)_-_2021-08-25_-_1.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,8 +1,21 @@
 {
   "canonical_slug": "dangerdoom",
   "name": "DANGERDOOM",
+  "play_count": 5,
   "spotify_artist_id": "0b3fYxnG6tlR0zLtBJd8DF",
+  "musicbrainz_artist_id": "be0cb2f2-71c3-4e95-a584-c19248951ff4",
   "spotify_url": "https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF",
+  "genres": [
+    "electronic",
+    "experimental",
+    "hip-hop"
+  ],
+  "source_genres": [
+    "electronic",
+    "experimental",
+    "hip hop",
+    "hip hop rap"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/135934b2b384817e7727d303c23a22dfe84ace90",
@@ -38,5 +51,5 @@
     "Dangerookipawaa Freestyle",
     "Doug Danger"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

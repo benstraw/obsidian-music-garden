@@ -6,34 +6,171 @@
   "aliases": [
     "idm"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Intelligent dance music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Intelligent_dance_music",
+  "summary": "Intelligent dance music (IDM) is a style of electronic music originating in the early 1990s, defined by idiosyncratic experimentation rather than specific genre constraints. The music often described with the term originally emerged from the culture and sound palette of styles of electronic dance music such as acid house, ambient techno, Detroit techno and breakbeat; it has been regarded as better suited to home listening than dancing. Prominent artists in the style include Aphex Twin, Autechre, Squarepusher, μ-Ziq, the Black Dog, the Future Sound of London, and Orbital.",
   "candidates": [
-    "Gustaf Idman",
-    "IDM",
-    "IDMS",
-    "IDMb",
-    "Idmen",
-    "Idmiston",
-    "Idmon",
-    "Idmon (Argonaut)",
-    "Idmon (skipper)",
-    "Idmonarachne"
+    "Intelligent dance music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Intelligent dance music",
+    "page_url": "https://en.wikipedia.org/wiki/Intelligent_dance_music",
+    "retrieved_at": "2026-03-30T04:11:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Autechre (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Autechre_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Autechre_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Autechre_%28cropped%29.jpg/960px-Autechre_%28cropped%29.jpg",
+    "width": 2237,
+    "height": 1311,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71875951@N00\"\u003ePablo Sanz Almoguera\u003c/a\u003e from The Hague, Netherlands)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Autechre (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Autechre_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Autechre_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Autechre_%28cropped%29.jpg/960px-Autechre_%28cropped%29.jpg",
+      "width": 2237,
+      "height": 1311,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/71875951@N00\"\u003ePablo Sanz Almoguera\u003c/a\u003e from The Hague, Netherlands)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yellow Magic Orchestra YMO (1981 Press Photo).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yellow_Magic_Orchestra_YMO_(1981_Press_Photo).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Yellow_Magic_Orchestra_YMO_%281981_Press_Photo%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Yellow_Magic_Orchestra_YMO_%281981_Press_Photo%29.jpg/960px-Yellow_Magic_Orchestra_YMO_%281981_Press_Photo%29.jpg",
+      "width": 1750,
+      "height": 1519,
+      "license": "Public domain",
+      "author": "Photograph by Kenji Miura. Distributed by A\u0026amp;M Records"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 3,
+    "unique_artist_count": 1,
+    "unique_release_count": 1,
+    "unique_track_count": 3,
+    "first_played_at": "2024-01-01T00:00:00.690016205Z",
+    "last_played_at": "2024-08-30T16:00:00.118745549Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "mouse-on-mars",
+      "name": "Mouse On Mars",
+      "play_count": 3,
+      "spotify_artist_id": "4ZgIWfyg9BkcqnJJ2xVR3f",
+      "musicbrainz_artist_id": "4d4f5d92-0589-42fa-bc0e-1bd73e17a2ce",
+      "spotify_url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "mouse-on-mars--vulvaland",
+      "name": "Vulvaland",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse on Mars",
+      "spotify_album_id": "0vrWFaK9Cx73hVkQjGKuaZ",
+      "musicbrainz_release_id": "c0c7fa4d-94e0-3558-bdb3-a1ea83b6484a",
+      "musicbrainz_release_group_id": "9ca304cc-c55b-3705-8f19-ef4252a57403"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "mouse-on-mars--elli-im-wunderland",
+      "name": "Elli Im Wunderland",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse On Mars",
+      "release_canonical_slug": "mouse-on-mars--vulvaland",
+      "release_name": "Vulvaland",
+      "spotify_track_id": "6gI9sbUcE28of7joCaMf1H",
+      "spotify_url": "https://open.spotify.com/track/6gI9sbUcE28of7joCaMf1H"
+    },
+    {
+      "canonical_slug": "mouse-on-mars--frosch",
+      "name": "Frosch",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse On Mars",
+      "release_canonical_slug": "mouse-on-mars--vulvaland",
+      "release_name": "Vulvaland",
+      "spotify_track_id": "4PFAaMMu6Utdpx5WqRtAup",
+      "spotify_url": "https://open.spotify.com/track/4PFAaMMu6Utdpx5WqRtAup"
+    },
+    {
+      "canonical_slug": "mouse-on-mars--uah",
+      "name": "Uah",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse On Mars",
+      "release_canonical_slug": "mouse-on-mars--vulvaland",
+      "release_name": "Vulvaland",
+      "spotify_track_id": "4sPG5XWJAH9wTU2kDTujr8",
+      "spotify_url": "https://open.spotify.com/track/4sPG5XWJAH9wTU2kDTujr8"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--idm.json",
+      "url": "https://en.wikipedia.org/wiki/Intelligent_dance_music",
+      "retrieved_at": "2026-03-30T04:11:06Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--idm.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Autechre_(cropped).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2024-08-30T16:00:00.118745549Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

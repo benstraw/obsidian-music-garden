@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "a-ap-rocky",
+  "name": "A$AP Rocky",
+  "play_count": 1,
+  "spotify_artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+  "musicbrainz_artist_id": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+  "spotify_url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca",
+  "genres": [
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop"
+  ],
+  "source_genres": [
+    "cloud rap",
+    "east coast hip hop",
+    "experimental hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "pop rap",
+    "trap"
+  ],
+  "status": "matched",
+  "wikipedia_title": "ASAP Rocky",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/ASAP_Rocky",
+  "summary": "Rakim Athelston Mayers, known professionally as ASAP Rocky, is an American rapper, record producer, actor, fashion designer and model. Born and raised in Harlem, he embarked on his musical career as a member of the hip hop collective ASAP Mob, from which he adopted his stage name. In August 2011, Mayers' single \"Peso\" was leaked online and began receiving radio airplay within weeks, propelling cloud rap into mainstream attention. He signed with Polo Grounds Music, an imprint of RCA Records, that October and released his debut mixtape, Live. Love. A$AP to widespread critical acclaim.",
+  "candidates": [
+    "A$AP Rocky",
+    "AAROCKAA",
+    "ASAP Rocky discography",
+    "Aapo Kyroelae",
+    "Aaron Kyle",
+    "Aaron Kyle Huff",
+    "Agrock yard",
+    "Amp the Rocket",
+    "Asp (rocket)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "ASAP Rocky",
+    "page_url": "https://en.wikipedia.org/wiki/ASAP_Rocky",
+    "retrieved_at": "2026-03-28T10:36:51Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg/330px-A%24AP_Rocky_at_the_2025_Cannes_Film_Festival_%28cropped_3x4%29.jpg",
+    "width": 5013,
+    "height": 6678
+  },
+  "last_updated": "2026-03-30"
+}

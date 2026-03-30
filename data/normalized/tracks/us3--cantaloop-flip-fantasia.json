@@ -4,6 +4,10 @@
   "name": "Cantaloop (Flip Fantasia)",
   "primary_artist_name": "Us3",
   "primary_artist_canonical_slug": "us3",
+  "additional_artist_slugs": [
+    "rahsaan",
+    "gerard-presencer"
+  ],
   "release_name": "Hand On The Torch",
   "release_canonical_slug": "us3--hand-on-the-torch",
   "spotify_url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"

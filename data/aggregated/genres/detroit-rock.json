@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "detroit-rock",
+  "display_title": "Detroit Rock",
+  "display_name": "Detroit Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Music of Detroit",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Music_of_Detroit",
+  "summary": "Detroit, Michigan, is a major center in the United States for the creation and performance of music, and is best known for three developments: Motown, early punk rock, and techno.",
+  "candidates": [
+    "1943 Detroit race riot",
+    "Detroit Receiving Hospital",
+    "Detroit Rock City",
+    "Detroit Rock City (book)",
+    "Detroit Rock City (film)",
+    "Detroit Rockers",
+    "Detroit Roller Derby",
+    "Detroit Shock",
+    "Detroit race riot of 1863",
+    "Detroit rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Music of Detroit",
+    "page_url": "https://en.wikipedia.org/wiki/Music_of_Detroit",
+    "retrieved_at": "2026-03-28T15:55:00Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Detroit_Jazz_Festival_in_Hart_Plaza_2009.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Detroit_Jazz_Festival_in_Hart_Plaza_2009.jpg",
+    "width": 320,
+    "height": 508
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--detroit-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Detroit",
+      "retrieved_at": "2026-03-28T15:55:00Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--detroit-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Detroit",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,130 @@
+{
+  "canonical_slug": "flamenco",
+  "display_title": "Flamenco",
+  "display_name": "Flamenco",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Flamenco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Flamenco",
+  "summary": "Flamenco is an art form based on the various folkloric music traditions of southern Spain, developed within the gitano subculture of the region of Andalusia, and also having historical presence in Extremadura and Murcia. In a wider sense, the term is used to refer to a variety of both contemporary and traditional musical styles typical of southern Spain. Flamenco is closely associated to the gitanos of the Romani ethnicity who have contributed significantly to its origination and professionalization. However, its style is uniquely Andalusian and flamenco artists have historically included Spaniards of both gitano and non-gitano heritage.",
+  "candidates": [
+    "Flamenco",
+    "Flamenco Beach",
+    "Flamenco Road",
+    "Flamenco Wave",
+    "Flamenco guitar",
+    "Flamenco in Japan",
+    "Flamenco rock",
+    "Flamenco, Culebra, Puerto Rico",
+    "Flamencology",
+    "The Flamenco Guitar of Yerai Cortés"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Flamenco",
+    "page_url": "https://en.wikipedia.org/wiki/Flamenco",
+    "retrieved_at": "2026-03-28T15:55:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Baile andaluz 1893 José Villegas Cordero.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+    "width": 800,
+    "height": 448,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Jos%C3%A9_Villegas_(painter)\" class=\"extiw\" title=\"w:en:José Villegas (painter)\"\u003e\u003cspan title=\"Spanish painter (1844–1921)\"\u003eJosé Villegas Cordero\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Baile andaluz 1893 José Villegas Cordero.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+      "width": 800,
+      "height": 448,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Jos%C3%A9_Villegas_(painter)\" class=\"extiw\" title=\"w:en:José Villegas (painter)\"\u003e\u003cspan title=\"Spanish painter (1844–1921)\"\u003eJosé Villegas Cordero\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Belen maya.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Belen_maya.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Belen_maya.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Belen_maya.jpg",
+      "width": 376,
+      "height": 400,
+      "license": "Attribution"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:C. F. Martin Spanish-style guitar (c.1845), Martin Style 3-17 (1859) - C.F. Martin Guitar Factory 2012-08-06 - 011.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:C._F._Martin_Spanish-style_guitar_(c.1845),_Martin_Style_3-17_(1859)_-_C.F._Martin_Guitar_Factory_2012-08-06_-_011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/C._F._Martin_Spanish-style_guitar_%28c.1845%29%2C_Martin_Style_3-17_%281859%29_-_C.F._Martin_Guitar_Factory_2012-08-06_-_011.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/C._F._Martin_Spanish-style_guitar_%28c.1845%29%2C_Martin_Style_3-17_%281859%29_-_C.F._Martin_Guitar_Factory_2012-08-06_-_011.jpg/960px-C._F._Martin_Spanish-style_guitar_%28c.1845%29%2C_Martin_Style_3-17_%281859%29_-_C.F._Martin_Guitar_Factory_2012-08-06_-_011.jpg",
+      "width": 3168,
+      "height": 4752,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33251718@N00\"\u003eJoseph Brent\u003c/a\u003e from New York, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CSMCordoba.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CSMCordoba.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/CSMCordoba.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/CSMCordoba.jpg",
+      "width": 187,
+      "height": 179,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Fotoson3000\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Fotoson3000 (page does not exist)\"\u003eFotoson3000\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Castelucho.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Castelucho.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Castelucho.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Castelucho.jpg",
+      "width": 393,
+      "height": 480,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\n\u003ca href=\"https://de.wikipedia.org/wiki/Claudio_Castelucho\" class=\"extiw\" title=\"de:Claudio Castelucho\"\u003eClaudio Castelucho\u003c/a\u003e (1870−1927)\u003c/div\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--flamenco.json",
+      "url": "https://en.wikipedia.org/wiki/Flamenco",
+      "retrieved_at": "2026-03-28T15:55:54Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--flamenco.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Baile_andaluz_1893_Jos%C3%A9_Villegas_Cordero.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

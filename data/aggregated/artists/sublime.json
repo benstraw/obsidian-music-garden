@@ -1,7 +1,9 @@
 {
   "canonical_slug": "sublime",
   "name": "Sublime",
+  "play_count": 198,
   "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+  "musicbrainz_artist_id": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
   "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
   "genres": [
     "reggae",
@@ -43,5 +45,5 @@
     "Sublime discography",
     "Sublime with Rome"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

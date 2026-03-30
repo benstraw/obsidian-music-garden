@@ -1,0 +1,24 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0BqALs1lInR9TTOulUADH7",
+  "name": "Ahmad Jamal Trio",
+  "spotify_url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7",
+  "musicbrainz_artist_id": "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+  "source_genres": [
+    "1–4 wochen",
+    "jazz",
+    "offizielle charts",
+    "post-bop",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "soul"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Ahmad Jamal Trio Volume IV",
+    "Ahmad Jamal at the Top: Poinciana Revisited",
+    "The Ahmad Jamal Trio"
+  ]
+}

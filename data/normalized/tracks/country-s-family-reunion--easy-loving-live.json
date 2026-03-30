@@ -4,6 +4,9 @@
   "name": "Easy Loving - Live",
   "primary_artist_name": "Country's Family Reunion",
   "primary_artist_canonical_slug": "country-s-family-reunion",
+  "additional_artist_slugs": [
+    "freddie-hart"
+  ],
   "release_name": "Celebration (Live / Vol. 1)",
   "release_canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
   "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI"

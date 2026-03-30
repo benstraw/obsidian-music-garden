@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "midwestern-hip-hop",
+  "display_title": "Midwestern Hip Hop",
+  "display_name": "Midwestern Hip Hop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Midwestern United States",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Midwestern_United_States",
+  "summary": "The Midwestern United States is one of the four census regions defined by the United States Census Bureau. It occupies the northern central part of the United States. It was officially named the North Central Region by the U.S. Census Bureau until 1984. It is between the Northeastern United States and the Western United States, with Canada to the north and the Southern United States to the south.",
+  "candidates": [
+    "Midwestern hip hop",
+    "Midwestern hip-hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Midwestern United States",
+    "page_url": "https://en.wikipedia.org/wiki/Midwestern_United_States",
+    "retrieved_at": "2026-03-28T15:58:23Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gateway_Arch_-_St._Louis%2C_Missouri.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Gateway_Arch_-_St._Louis%2C_Missouri.jpg/330px-Gateway_Arch_-_St._Louis%2C_Missouri.jpg",
+    "width": 3072,
+    "height": 2304
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--midwestern-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Midwestern_United_States",
+      "retrieved_at": "2026-03-28T15:58:23Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--midwestern-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Midwestern_United_States",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

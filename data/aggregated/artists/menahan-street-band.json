@@ -1,0 +1,73 @@
+{
+  "canonical_slug": "menahan-street-band",
+  "name": "Menahan Street Band",
+  "play_count": 7,
+  "spotify_artist_id": "1PryMSya1JnSAlcwYawCxp",
+  "musicbrainz_artist_id": "93da8c8a-bd13-4418-a00e-2861b8518a8d",
+  "spotify_url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp",
+  "genres": [
+    "soul"
+  ],
+  "source_genres": [
+    "instrumental",
+    "instrumental rock",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb46dc0fd03399b8a9dfed982d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517446dc0fd03399b8a9dfed982d",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17846dc0fd03399b8a9dfed982d",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Menahan Street Band",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Menahan_Street_Band",
+  "summary": "Menahan Street Band is an American, Brooklyn, New York–based instrumental band formed in 2007, that plays funk and soul music. The band features musicians from Antibalas, El Michels Affair, Sharon Jones \u0026 The Dap-Kings and the Budos Band. The group was founded by Thomas Brenneck while living in an apartment on Menahan Street in the Brooklyn neighborhood of Bushwick. Their debut album, Make the Road by Walking, was released in 2008 on Dunham, a sublabel of Daptone Records and was followed by The Crossing in 2012.",
+  "candidates": [
+    "Menahan Street Band"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Menahan Street Band",
+    "page_url": "https://en.wikipedia.org/wiki/Menahan_Street_Band",
+    "retrieved_at": "2026-03-28T10:41:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:The Menahan Street Band (Jazz Fest Wien 2011) 01 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Menahan_Street_Band_(Jazz_Fest_Wien_2011)_01_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/The_Menahan_Street_Band_%28Jazz_Fest_Wien_2011%29_01_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Menahan_Street_Band_%28Jazz_Fest_Wien_2011%29_01_%28cropped%29.jpg/960px-The_Menahan_Street_Band_%28Jazz_Fest_Wien_2011%29_01_%28cropped%29.jpg",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Manfred Werner - \u003ca href=\"//commons.wikimedia.org/wiki/User:Tsui\" title=\"User:Tsui\"\u003eTsui\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Menahan Street Band (Jazz Fest Wien 2011) 01 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Menahan_Street_Band_(Jazz_Fest_Wien_2011)_01_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/The_Menahan_Street_Band_%28Jazz_Fest_Wien_2011%29_01_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Menahan_Street_Band_%28Jazz_Fest_Wien_2011%29_01_%28cropped%29.jpg/960px-The_Menahan_Street_Band_%28Jazz_Fest_Wien_2011%29_01_%28cropped%29.jpg",
+      "width": 1280,
+      "height": 960,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Manfred Werner - \u003ca href=\"//commons.wikimedia.org/wiki/User:Tsui\" title=\"User:Tsui\"\u003eTsui\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

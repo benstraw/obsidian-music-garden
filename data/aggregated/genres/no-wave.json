@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "no-wave",
+  "display_title": "No Wave",
+  "display_name": "No Wave",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "No wave",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/No_wave",
+  "summary": "No wave was an avant-garde music and visual art scene that emerged in the late 1970s in Downtown New York City. The term was coined as a rejection of commercial new wave music. No wave musicians took rock instrumentation and experimented with noise, dissonance, and atonality, as well as non-rock genres like free jazz, funk, and disco. The scene often reflected an abrasive, confrontational, and nihilistic worldview, originally pioneered by New York artists Suicide and Jack Ruby.",
+  "candidates": [
+    "No Wave (album)",
+    "No Waves",
+    "No Way Man",
+    "No Way Out (1987 film)",
+    "No Way Out (2004)",
+    "No Way Out (2007)",
+    "No Way Out (2009)",
+    "No Way Out (Puff Daddy album)",
+    "No wave",
+    "No wave cinema"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "No wave",
+    "page_url": "https://en.wikipedia.org/wiki/No_wave",
+    "retrieved_at": "2026-03-28T15:58:57Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Glenn Branca.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Branca.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Glenn_Branca.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Glenn_Branca.jpg/960px-Glenn_Branca.jpg",
+    "width": 2972,
+    "height": 2000,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:DanKassem\" class=\"extiw\" title=\"wikipedia:User:DanKassem\"\u003eDanKassem\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Glenn Branca.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Glenn_Branca.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Glenn_Branca.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Glenn_Branca.jpg/960px-Glenn_Branca.jpg",
+      "width": 2972,
+      "height": 2000,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:DanKassem\" class=\"extiw\" title=\"wikipedia:User:DanKassem\"\u003eDanKassem\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rubik's cube v3.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rubik%27s_cube_v3.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rubik%27s_cube_v3.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rubik%27s_cube_v3.svg/960px-Rubik%27s_cube_v3.svg.png",
+      "width": 480,
+      "height": 530,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Booyabazooka\" class=\"mw-redirect\" title=\"User:Booyabazooka\"\u003eUser:Booyabazooka\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Meph666\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Meph666 (page does not exist)\"\u003eUser:Meph666\u003c/a\u003e modified by \u003ca href=\"//commons.wikimedia.org/wiki/User:Niabot\" title=\"User:Niabot\"\u003eUser:Niabot\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--no-wave.json",
+      "url": "https://en.wikipedia.org/wiki/No_wave",
+      "retrieved_at": "2026-03-28T15:58:57Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--no-wave.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Glenn_Branca.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

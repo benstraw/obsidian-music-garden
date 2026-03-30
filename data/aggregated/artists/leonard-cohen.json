@@ -1,7 +1,9 @@
 {
   "canonical_slug": "leonard-cohen",
   "name": "Leonard Cohen",
+  "play_count": 7,
   "spotify_artist_id": "5l8VQNuIg0turYE1VtM9zV",
+  "musicbrainz_artist_id": "65314b12-0e08-43fa-ba33-baaa7b874c15",
   "spotify_url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV",
   "genres": [
     "singer-songwriter"
@@ -122,5 +124,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Baggio\" title=\"User:Baggio\"\u003eBaggio\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

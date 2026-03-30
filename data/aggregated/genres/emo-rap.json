@@ -1,0 +1,116 @@
+{
+  "canonical_slug": "emo-rap",
+  "display_title": "Emo Rap",
+  "display_name": "Emo Rap",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Emo rap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emo_rap",
+  "summary": "Emo rap is a subgenre of hip hop with influence from emo. Originating in the SoundCloud rap scene in the mid-2010s, the genre fuses characteristics of hip hop music, such as trap-style beats with vocals that are usually sung. Some of the most prominent artists in the genre are Trippie Redd, Lil Peep, XXXTentacion, and Juice Wrld.",
+  "candidates": [
+    "Angelo Emo",
+    "Emo Majok",
+    "Emo Philips",
+    "Emo Speedway",
+    "Emo Speedway Championships",
+    "Emo pop",
+    "Emo rap",
+    "Emo revival",
+    "List of emo artists",
+    "List of emo pop bands"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Emo rap",
+    "page_url": "https://en.wikipedia.org/wiki/Emo_rap",
+    "retrieved_at": "2026-03-28T15:55:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Juice WRLD - Les Ardentes 2019 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Juice_WRLD_-_Les_Ardentes_2019_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg/960px-Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg",
+    "width": 1026,
+    "height": 1727,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/lexwescudi/\"\u003eLexiou WesCudi\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Juice WRLD - Les Ardentes 2019 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Juice_WRLD_-_Les_Ardentes_2019_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg/960px-Juice_WRLD_-_Les_Ardentes_2019_%28cropped%29.jpg",
+      "width": 1026,
+      "height": 1727,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/lexwescudi/\"\u003eLexiou WesCudi\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil Peep in 2016 by Miller Rodríguez (portrait crop).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_Peep_in_2016_by_Miller_Rodr%C3%ADguez_(portrait_crop).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lil_Peep_in_2016_by_Miller_Rodr%C3%ADguez_%28portrait_crop%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lil_Peep_in_2016_by_Miller_Rodr%C3%ADguez_%28portrait_crop%29.jpg",
+      "width": 300,
+      "height": 402,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003cb\u003ePhotograph: \u003c/b\u003e Miller Rodríguez (\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://prettypuke.com\"\u003ePretty Puke\u003c/a\u003e)",
+      "attribution_text": "First Access Entertainment Limited"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sad - XXXTentacion.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:XXXTentacion February 2018.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:XXXTentacion_February_2018.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/XXXTentacion_February_2018.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/XXXTentacion_February_2018.png",
+      "width": 293,
+      "height": 479,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/163360495@N05\"\u003eSamuel Kenwright\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--emo-rap.json",
+      "url": "https://en.wikipedia.org/wiki/Emo_rap",
+      "retrieved_at": "2026-03-28T15:55:26Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--emo-rap.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Juice_WRLD_-_Les_Ardentes_2019_(cropped).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

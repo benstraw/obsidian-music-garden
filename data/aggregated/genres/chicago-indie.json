@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "chicago-indie",
+  "display_title": "Chicago Indie",
+  "display_name": "Chicago Indie",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Chicago Independent Radio Project",
+    "Chicago Indian Village",
+    "Chicago Inter Ocean",
+    "Chicago International Film Festival",
+    "Chicago International REEL Shorts Festival",
+    "Chicago Invitational Challenge",
+    "Chicago Underground (jazz ensemble)",
+    "Chicago Underground Film Festival",
+    "Chicago and Eastern Illinois Railroad",
+    "Chicago and Evanston Railroad"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

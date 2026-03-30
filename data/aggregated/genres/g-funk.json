@@ -6,80 +6,163 @@
   "aliases": [
     "g funk"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "G-funk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/G-funk",
+  "summary": "G-funk, short for gangsta funk, is a sub-genre of gangsta rap that emerged from the West Coast scene in the early 1990s. The genre is heavily influenced by the synthesizer-heavy 1970s funk sound of Parliament-Funkadelic, often incorporated through samples or re-recordings. It is represented by commercially successful albums such as Dr. Dre's The Chronic (1992), Snoop Dogg's Doggystyle (1993), and 2Pac's All Eyez on Me (1996).",
   "candidates": [
-    "Art Garfunkel",
-    "G Fuel",
-    "G Funk Era",
-    "G-Funk (film)",
-    "G-Funk Classics, Vol. 1 \u0026 2",
-    "G-Funk Entertainment",
-    "G-Unit",
-    "G-Unit Records",
-    "G-Unit discography",
     "G-funk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "G-funk",
+    "page_url": "https://en.wikipedia.org/wiki/G-funk",
+    "retrieved_at": "2026-03-30T04:10:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dr. Dre in 2011.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre_in_2011.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg",
+    "width": 224,
+    "height": 337,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Commondr3ads\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Commondr3ads (page does not exist)\"\u003eCommondr3ads\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dr. Dre in 2011.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dr._Dre_in_2011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg",
+      "width": 224,
+      "height": 337,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Commondr3ads\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Commondr3ads (page does not exist)\"\u003eCommondr3ads\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Oceanside.wav",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Oceanside.wav",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Oceanside.wav",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:GHATS\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:GHATS (page does not exist)\"\u003eGHATS\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 10,
-    "unique_artist_count": 3,
-    "unique_release_count": 4,
-    "unique_track_count": 8,
-    "first_played_at": "2026-02-21T16:26:31.588Z",
+    "play_count": 20,
+    "unique_artist_count": 4,
+    "unique_release_count": 7,
+    "unique_track_count": 14,
+    "first_played_at": "2024-01-01T00:00:00.114171761Z",
     "last_played_at": "2026-03-19T01:55:24.030Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "dj-king-assassin",
-      "name": "DJ King Assassin",
-      "play_count": 4,
-      "spotify_artist_id": "35GnZFTAWk2RLgqLWlpPbE",
-      "spotify_url": "https://open.spotify.com/artist/35GnZFTAWk2RLgqLWlpPbE"
-    },
-    {
       "canonical_slug": "snoop-dogg",
       "name": "Snoop Dogg",
-      "play_count": 4,
+      "play_count": 8,
       "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+      "musicbrainz_artist_id": "f90e8b26-9e52-4669-a5c9-e28529c47894",
       "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
     },
     {
       "canonical_slug": "dr-dre",
       "name": "Dr. Dre",
-      "play_count": 2,
+      "play_count": 5,
       "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "musicbrainz_artist_id": "5f6ab597-f57a-40da-be9e-adad48708203",
       "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    },
+    {
+      "canonical_slug": "dj-king-assassin",
+      "name": "DJ King Assassin",
+      "play_count": 4,
+      "spotify_artist_id": "35GnZFTAWk2RLgqLWlpPbE",
+      "musicbrainz_artist_id": "487d56d6-e4e3-4ab0-83f3-3e87c8a1e279",
+      "spotify_url": "https://open.spotify.com/artist/35GnZFTAWk2RLgqLWlpPbE"
+    },
+    {
+      "canonical_slug": "scarface",
+      "name": "Scarface",
+      "play_count": 3,
+      "spotify_artist_id": "19KwjzvIL92r29IINtlPNP",
+      "spotify_url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "dr-dre--2001",
+      "name": "2001",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre",
+      "spotify_album_id": "7q2B4M5EiBkqrlsNW8lB7N",
+      "musicbrainz_release_id": "9545a5e5-014e-3381-8d8a-32a780b450ae",
+      "musicbrainz_release_group_id": "f28e065d-fd56-3929-b0a4-6aa1b4c78bdb"
+    },
+    {
+      "canonical_slug": "snoop-dogg--bodr",
+      "name": "BODR",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "spotify_album_id": "4KzJG9VVC0zxlZrRqJTCvE",
+      "musicbrainz_release_id": "d4cdb824-b92c-4d6d-944d-fff812ad2ff0",
+      "musicbrainz_release_group_id": "c36a48ce-b401-4b43-8689-0d16fa3c72e8"
+    },
     {
       "canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
       "name": "Thugz 4 Life (Remastered)",
       "play_count": 4,
       "primary_artist_canonical_slug": "dj-king-assassin",
-      "primary_artist_name": "DJ King Assassin"
+      "primary_artist_name": "DJ King Assassin",
+      "spotify_album_id": "6RiR0lJLewFUNHBGbp9pIV"
     },
     {
       "canonical_slug": "snoop-dogg--doggystyle",
       "name": "Doggystyle",
       "play_count": 3,
       "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg"
+      "primary_artist_name": "Snoop Dogg",
+      "spotify_album_id": "5IFOummNcGXY3qCBWRchqP",
+      "musicbrainz_release_id": "2d1a06dc-b833-4b84-b1a9-b1e7d5a02900",
+      "musicbrainz_release_group_id": "63760049-abfe-47f1-935c-24e2d1ac06d1"
     },
     {
-      "canonical_slug": "dr-dre--2001",
-      "name": "2001",
+      "canonical_slug": "scarface--the-diary",
+      "name": "The Diary",
       "play_count": 2,
-      "primary_artist_canonical_slug": "dr-dre",
-      "primary_artist_name": "Dr. Dre"
+      "primary_artist_canonical_slug": "scarface",
+      "primary_artist_name": "Scarface",
+      "spotify_album_id": "2Z1lDWB2EfTUKV5ILxjdvu"
     },
     {
       "canonical_slug": "snoop-dogg--doggumentary",
       "name": "Doggumentary",
       "play_count": 1,
       "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg"
+      "primary_artist_name": "Snoop Dogg",
+      "spotify_album_id": "6Hnr6UcLxnEadWQ70bZqGS",
+      "musicbrainz_release_id": "856d2d78-255b-408b-ad28-736b24944016",
+      "musicbrainz_release_group_id": "055333bb-c6ed-4077-b160-64e81b744582"
+    },
+    {
+      "canonical_slug": "scarface--my-homies-pt-2",
+      "name": "My Homies, Pt. 2",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "scarface",
+      "primary_artist_name": "Scarface",
+      "spotify_album_id": "7cZue7IqkXb5B808cGzZ0F"
     }
   ],
   "top_tracks": [
@@ -95,6 +178,28 @@
       "spotify_url": "https://open.spotify.com/track/3SyCUl35q43Rvqfz8kCH2Q"
     },
     {
+      "canonical_slug": "scarface--no-tears",
+      "name": "No Tears",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "scarface",
+      "primary_artist_name": "Scarface",
+      "release_canonical_slug": "scarface--the-diary",
+      "release_name": "The Diary",
+      "spotify_track_id": "6kYTywTCfycHZcH0WdLyRy",
+      "spotify_url": "https://open.spotify.com/track/6kYTywTCfycHZcH0WdLyRy"
+    },
+    {
+      "canonical_slug": "snoop-dogg--outside-the-box",
+      "name": "Outside The Box",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--bodr",
+      "release_name": "BODR",
+      "spotify_track_id": "0hbPdHxWGRQFryHB3YKajd",
+      "spotify_url": "https://open.spotify.com/track/0hbPdHxWGRQFryHB3YKajd"
+    },
+    {
       "canonical_slug": "snoop-dogg--tha-shiznit",
       "name": "Tha Shiznit",
       "play_count": 2,
@@ -104,6 +209,39 @@
       "release_name": "Doggystyle",
       "spotify_track_id": "2DhL7DtMmxmqrCUB2NAlLm",
       "spotify_url": "https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm"
+    },
+    {
+      "canonical_slug": "dr-dre--the-next-episode",
+      "name": "The Next Episode",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre",
+      "release_canonical_slug": "dr-dre--2001",
+      "release_name": "2001",
+      "spotify_track_id": "4LwU4Vp6od3Sb08CsP99GC",
+      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "canonical_slug": "dr-dre--the-watcher",
+      "name": "The Watcher",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dr-dre",
+      "primary_artist_name": "Dr. Dre",
+      "release_canonical_slug": "dr-dre--2001",
+      "release_name": "2001",
+      "spotify_track_id": "1iQ5E4z6CJ38dIzvMI9Wdo",
+      "spotify_url": "https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo"
+    },
+    {
+      "canonical_slug": "snoop-dogg--conflicted",
+      "name": "Conflicted",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--bodr",
+      "release_name": "BODR",
+      "spotify_track_id": "5T4zLnPeoi7bES97eG0Z7h",
+      "spotify_url": "https://open.spotify.com/track/5T4zLnPeoi7bES97eG0Z7h"
     },
     {
       "canonical_slug": "snoop-dogg--gin-and-juice",
@@ -117,6 +255,17 @@
       "spotify_url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
     },
     {
+      "canonical_slug": "snoop-dogg--gun-smoke",
+      "name": "Gun Smoke",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "snoop-dogg",
+      "primary_artist_name": "Snoop Dogg",
+      "release_canonical_slug": "snoop-dogg--bodr",
+      "release_name": "BODR",
+      "spotify_track_id": "66fjRppV4I7Buw6y1Jqcoe",
+      "spotify_url": "https://open.spotify.com/track/66fjRppV4I7Buw6y1Jqcoe"
+    },
+    {
       "canonical_slug": "dj-king-assassin--newest-extended-version",
       "name": "NeWest - Extended Version",
       "play_count": 1,
@@ -126,50 +275,6 @@
       "release_name": "Thugz 4 Life (Remastered)",
       "spotify_track_id": "6NkhflPByzfK6SclPmmNgQ",
       "spotify_url": "https://open.spotify.com/track/6NkhflPByzfK6SclPmmNgQ"
-    },
-    {
-      "canonical_slug": "dr-dre--still-d-r-e",
-      "name": "Still D.R.E.",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "dr-dre",
-      "primary_artist_name": "Dr. Dre",
-      "release_canonical_slug": "dr-dre--2001",
-      "release_name": "2001",
-      "spotify_track_id": "503OTo2dSqe7qk76rgsbep",
-      "spotify_url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "canonical_slug": "snoop-dogg--superman",
-      "name": "Superman",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg",
-      "release_canonical_slug": "snoop-dogg--doggumentary",
-      "release_name": "Doggumentary",
-      "spotify_track_id": "5jcQZOQpMWFraXxn9hAQt0",
-      "spotify_url": "https://open.spotify.com/track/5jcQZOQpMWFraXxn9hAQt0"
-    },
-    {
-      "canonical_slug": "dr-dre--the-next-episode",
-      "name": "The Next Episode",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "dr-dre",
-      "primary_artist_name": "Dr. Dre",
-      "release_canonical_slug": "dr-dre--2001",
-      "release_name": "2001",
-      "spotify_track_id": "4LwU4Vp6od3Sb08CsP99GC",
-      "spotify_url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "canonical_slug": "dj-king-assassin--war-gamez-loc-01-remix",
-      "name": "War Gamez - Loc-01 Remix",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "dj-king-assassin",
-      "primary_artist_name": "DJ King Assassin",
-      "release_canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
-      "release_name": "Thugz 4 Life (Remastered)",
-      "spotify_track_id": "6ao3aNeqSN1QEwxh9oJhuZ",
-      "spotify_url": "https://open.spotify.com/track/6ao3aNeqSN1QEwxh9oJhuZ"
     }
   ],
   "source_refs": [
@@ -180,6 +285,28 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--g-funk.json",
+      "url": "https://en.wikipedia.org/wiki/G-funk",
+      "retrieved_at": "2026-03-30T04:10:45Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--g-funk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Dr._Dre_in_2011.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -187,5 +314,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

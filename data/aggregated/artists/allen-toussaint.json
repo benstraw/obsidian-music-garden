@@ -1,13 +1,18 @@
 {
   "canonical_slug": "allen-toussaint",
   "name": "Allen Toussaint",
+  "play_count": 1,
   "spotify_artist_id": "63aP18bg2ABSOqSNQcAMNy",
+  "musicbrainz_artist_id": "ec21cced-2d22-4883-9ee3-f642e6e52f58",
   "spotify_url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy",
   "genres": [
-    "cajun"
+    "cajun",
+    "jazz"
   ],
   "source_genres": [
-    "cajun"
+    "cajun",
+    "jazz",
+    "r\u0026b"
   ],
   "images": [
     {
@@ -109,5 +114,5 @@
       "license": "Public domain"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

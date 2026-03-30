@@ -1,0 +1,52 @@
+{
+  "canonical_slug": "the-soul-children",
+  "name": "The Soul Children",
+  "play_count": 4,
+  "spotify_artist_id": "74keeJdeVxqce4qJFj6WGx",
+  "musicbrainz_artist_id": "e6a6a3f5-0f0f-4e97-b78e-917b1edc62d0",
+  "spotify_url": "https://open.spotify.com/artist/74keeJdeVxqce4qJFj6WGx",
+  "genres": [
+    "jazz",
+    "soul"
+  ],
+  "source_genres": [
+    "jazz",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e492addc6c28b51db4fe16a1aefd178d1b2d6377",
+      "height": 1061,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/4e5f68cefc13fb66ca3b3aa8d6a27f0352b41886",
+      "height": 679,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/449d4a83d40fdee445d4ceb1751866487c345f59",
+      "height": 212,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d69ac64682dd66dfe1d82103d45be9be45e8cec4",
+      "height": 68,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Soul Children",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Soul_Children",
+  "summary": "The Soul Children was an American vocal group who recorded soul music for Stax Records in the late 1960s and early 1970s. They had three top 10 hits on the U.S. Billboard R\u0026B chart – \"The Sweeter He Is\" (1969), \"Hearsay\" (1972), and \"I'll Be the Other Woman\" (1973) – all of which crossed over to the Billboard Hot 100.",
+  "candidates": [
+    "The Soul Children"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Soul Children",
+    "page_url": "https://en.wikipedia.org/wiki/The_Soul_Children",
+    "retrieved_at": "2026-03-28T10:43:24Z"
+  },
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2GQYazkEEYH4jJnDLpofHL",
+  "name": "Consolidated",
+  "spotify_url": "https://open.spotify.com/artist/2GQYazkEEYH4jJnDLpofHL",
+  "musicbrainz_artist_id": "502d686d-a74c-4a09-ba74-8d919a13b684",
+  "source_genres": [
+    "conscious",
+    "hip hop",
+    "hip-hop",
+    "industrial"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Consolidated",
+    "Consolidated Appropriations Act, 2018",
+    "Consolidated Appropriations Act, 2021",
+    "Consolidated B-24 Liberator",
+    "Consolidated Edison",
+    "Consolidated Edison Building",
+    "Consolidated Fund",
+    "Consolidated PBY Catalina",
+    "Consolidated city-county",
+    "Consolidated financial statement"
+  ]
+}

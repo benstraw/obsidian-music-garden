@@ -1,0 +1,53 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5WFeN8vtX0TYqv0IYVbWZT",
+  "name": "Fenton Robinson",
+  "spotify_url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT",
+  "musicbrainz_artist_id": "1b943e67-ed8d-4b5c-b86c-45cc3095c77e",
+  "source_genres": [
+    "blues",
+    "chicago blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues"
+  ],
+  "status": "matched",
+  "page_title": "Fenton Robinson",
+  "summary": "Fenton Lee Robinson was an American blues singer and exponent of the Chicago blues guitar. In 2023, he was inducted in the Blues Hall of Fame.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Fenton_Robinson",
+  "candidates": [
+    "Fenton Robinson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Fenton Robinson",
+    "page_url": "https://en.wikipedia.org/wiki/Fenton_Robinson",
+    "retrieved_at": "2026-03-28T10:39:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fenton robinson-1639579453.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fenton_robinson-1639579453.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fenton_robinson-1639579453.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fenton_robinson-1639579453.jpg/960px-Fenton_robinson-1639579453.jpg",
+    "width": 3110,
+    "height": 4147,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jan van Vugt"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fenton robinson-1639579453.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fenton_robinson-1639579453.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fenton_robinson-1639579453.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fenton_robinson-1639579453.jpg/960px-Fenton_robinson-1639579453.jpg",
+      "width": 3110,
+      "height": 4147,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jan van Vugt"
+    }
+  ]
+}

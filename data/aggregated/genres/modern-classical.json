@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "modern-classical",
+  "display_title": "Modern Classical",
+  "display_name": "Modern Classical",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Contemporary classical music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Contemporary_classical_music",
+  "summary": "Contemporary classical music is Western art music composed close to the present day. At the beginning of the 21st century, it commonly referred to the post-1945 post-tonal music after the death of Anton Webern, and included serial music, electronic music, experimental music, and minimalist music. Newer forms include spectral music and post-minimalism.",
+  "candidates": [
+    "Modern Classic Short Novels of Science Fiction",
+    "Modern Classical Music",
+    "Modern Classics Recordings",
+    "Modern Classics of Fantasy",
+    "Modern Classics of Science Fiction",
+    "Modern Classics: The Greatest Hits",
+    "Modern classic",
+    "Modern classic car",
+    "Modern classical",
+    "Modern classical guitar"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Contemporary classical music",
+    "page_url": "https://en.wikipedia.org/wiki/Contemporary_classical_music",
+    "retrieved_at": "2026-03-28T15:58:33Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--modern-classical.json",
+      "url": "https://en.wikipedia.org/wiki/Contemporary_classical_music",
+      "retrieved_at": "2026-03-28T15:58:33Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

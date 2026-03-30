@@ -1,7 +1,9 @@
 {
   "canonical_slug": "bobby-shmurda",
   "name": "Bobby Shmurda",
+  "play_count": 3,
   "spotify_artist_id": "34Y0ldeyUv7jBvukWOGASO",
+  "musicbrainz_artist_id": "4ec3b7d8-efbb-4672-8067-5e72bd8dba3e",
   "spotify_url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO",
   "images": [
     {
@@ -71,5 +73,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

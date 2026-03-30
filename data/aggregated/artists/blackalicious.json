@@ -1,0 +1,74 @@
+{
+  "canonical_slug": "blackalicious",
+  "name": "Blackalicious",
+  "play_count": 8,
+  "spotify_artist_id": "42Np3r8zXnaKcjLQsQSjyG",
+  "musicbrainz_artist_id": "92ee5562-3c1b-4e02-ac22-aae6261edac5",
+  "spotify_url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "conscious",
+    "conscious hip hop",
+    "hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb772e43ea0f6e9e2e03eef2f5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174772e43ea0f6e9e2e03eef2f5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178772e43ea0f6e9e2e03eef2f5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Blackalicious",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blackalicious",
+  "summary": "Blackalicious was an American hip-hop duo from Sacramento, California, made up of rapper Gift of Gab and DJ/producer Chief Xcel. They are noted for Gift of Gab's often tongue-twisting, multisyllabic, complex rhymes and Chief Xcel's soulful production. The duo released four full-length albums: Nia in 1999, Blazing Arrow in 2002, The Craft in 2005, and Imani Vol. 1 in 2015. Gift of Gab died in June 2021.",
+  "candidates": [
+    "Blackalicious",
+    "Blahbalicious"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blackalicious",
+    "page_url": "https://en.wikipedia.org/wiki/Blackalicious",
+    "retrieved_at": "2026-03-28T10:37:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Blackalicious at Paid Dues 4.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Blackalicious_at_Paid_Dues_4.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Blackalicious_at_Paid_Dues_4.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Blackalicious_at_Paid_Dues_4.jpg/960px-Blackalicious_at_Paid_Dues_4.jpg",
+    "width": 4272,
+    "height": 2848,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/flowizm\"\u003eFlowizm\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blackalicious at Paid Dues 4.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blackalicious_at_Paid_Dues_4.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Blackalicious_at_Paid_Dues_4.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Blackalicious_at_Paid_Dues_4.jpg/960px-Blackalicious_at_Paid_Dues_4.jpg",
+      "width": 4272,
+      "height": 2848,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/flowizm\"\u003eFlowizm\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

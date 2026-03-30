@@ -1,7 +1,9 @@
 {
   "canonical_slug": "little-feat",
   "name": "Little Feat",
+  "play_count": 15,
   "spotify_artist_id": "0ZIwOAzDuGPspzK7yiTc4S",
+  "musicbrainz_artist_id": "9b106beb-12b5-4525-8025-42e295a2b90a",
   "spotify_url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S",
   "genres": [
     "country-rock",
@@ -113,5 +115,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

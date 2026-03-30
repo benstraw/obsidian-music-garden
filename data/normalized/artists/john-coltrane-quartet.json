@@ -1,0 +1,34 @@
+{
+  "source": "spotify",
+  "source_artist_id": "67PZTxaHKMZBFRUh8wIzCy",
+  "name": "John Coltrane Quartet",
+  "spotify_url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy",
+  "musicbrainz_artist_id": "a43270af-bc4a-4552-847e-617b11f38d7b",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "John Coltrane",
+  "summary": "John William Coltrane was an American jazz saxophonist, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+  "candidates": [
+    "John Coltrane Quartet",
+    "The John Coltrane Quartet Plays"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Coltrane",
+    "page_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+    "retrieved_at": "2026-03-28T10:40:04Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/John_Coltrane_1963_cropped_ver2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/John_Coltrane_1963_cropped_ver2.jpg/330px-John_Coltrane_1963_cropped_ver2.jpg",
+    "width": 1400,
+    "height": 1865
+  }
+}

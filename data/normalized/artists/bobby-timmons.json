@@ -1,0 +1,42 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0xRqtLGIVSzXM9yg2wFMLC",
+  "name": "Bobby Timmons",
+  "spotify_url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC",
+  "musicbrainz_artist_id": "ef05197e-aacb-4dbf-9cc4-2a9abee82f03",
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Bobby Timmons",
+  "summary": "Robert Henry Timmons was an American jazz pianist and composer. He was a sideman in Art Blakey's Jazz Messengers for two periods, between which he was part of Cannonball Adderley's band. Several of Timmons' compositions written when part of these bands – including \"Moanin'\", \"Dat Dere\", and \"This Here\" – enjoyed commercial success and brought him more attention. In the early and mid-1960s he led a series of piano trios that toured and recorded extensively.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bobby_Timmons",
+  "candidates": [
+    "Bob Timmons",
+    "Bobby Emmons",
+    "Bobby Simmons",
+    "Bobby Simmons Jr.",
+    "Bobby Timmons"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bobby Timmons",
+    "page_url": "https://en.wikipedia.org/wiki/Bobby_Timmons",
+    "retrieved_at": "2026-03-28T10:37:39Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bobby Timmons.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bobby Timmons.jpg"
+    }
+  ]
+}

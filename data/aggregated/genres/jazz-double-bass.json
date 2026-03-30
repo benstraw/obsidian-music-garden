@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "jazz-double-bass",
+  "display_title": "Jazz Double Bass",
+  "display_name": "Jazz Double Bass",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "List of jazz bassists",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_jazz_bassists",
+  "summary": "This list of jazz bassists includes performers of the double bass and since the 1950s, and particularly in the jazz subgenre of jazz fusion which developed in the 1970s, electric bass players.",
+  "candidates": [
+    "Jazz double bassist"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "List of jazz bassists",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_jazz_bassists",
+    "retrieved_at": "2026-03-28T15:57:31Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Charles_Mingus_1976_cropped.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Charles_Mingus_1976_cropped.jpg/330px-Charles_Mingus_1976_cropped.jpg",
+    "width": 897,
+    "height": 1345
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-double-bass.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_jazz_bassists",
+      "retrieved_at": "2026-03-28T15:57:31Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-double-bass.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_jazz_bassists",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

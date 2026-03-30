@@ -4,6 +4,9 @@
   "name": "HEY TONY!",
   "primary_artist_name": "JID",
   "primary_artist_canonical_slug": "jid",
+  "additional_artist_slugs": [
+    "tony-the-tiger"
+  ],
   "release_name": "HEY TONY!",
   "release_canonical_slug": "jid--hey-tony",
   "spotify_url": "https://open.spotify.com/track/6KTY8qMXOFKfPUXXrdm0JA"

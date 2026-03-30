@@ -1,7 +1,9 @@
 {
   "canonical_slug": "nas",
   "name": "Nas",
+  "play_count": 18,
   "spotify_artist_id": "20qISvAhX20dpIbOOzGK3q",
+  "musicbrainz_artist_id": "cfbc0924-0035-4d6c-8197-f024653af823",
   "spotify_url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q",
   "genres": [
     "east-coast-hip-hop",
@@ -123,5 +125,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mikamote\" title=\"User:Mikamote\"\u003eMikamote\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

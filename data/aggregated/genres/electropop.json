@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "electropop",
+  "display_title": "Electropop",
+  "display_name": "Electropop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Electropop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Electropop",
+  "summary": "Electropop is a popular music fusion genre combining elements of the electronic and pop styles.",
+  "candidates": [
+    "Electro-Motive Diesel",
+    "Electroconvulsive therapy",
+    "Electrolysis",
+    "Electrophysiology",
+    "Electroplating",
+    "Electropop",
+    "Electropop (Jupiter Rising song)",
+    "Electropop (album)",
+    "Electropop (disambiguation)",
+    "Elektropop (Oleg song)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Electropop",
+    "page_url": "https://en.wikipedia.org/wiki/Electropop",
+    "retrieved_at": "2026-03-28T15:55:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox current red.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ambox_current_red.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/960px-Ambox_current_red.svg.png",
+    "width": 360,
+    "height": 290,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ViperSnake151\" title=\"User:ViperSnake151\"\u003eViperSnake151\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tkg._d2007\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tkg. d2007 (page does not exist)\"\u003eTkg. d2007\u003c/a\u003e (clock)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ambox_current_red.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/960px-Ambox_current_red.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ViperSnake151\" title=\"User:ViperSnake151\"\u003eViperSnake151\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tkg._d2007\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tkg. d2007 (page does not exist)\"\u003eTkg. d2007\u003c/a\u003e (clock)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ellie Goulding , Positivus Festival, Latvia, July 2017-2661 (48740822596).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ellie_Goulding_,_Positivus_Festival,_Latvia,_July_2017-2661_(48740822596).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ellie_Goulding_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2661_%2848740822596%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ellie_Goulding_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2661_%2848740822596%29.jpg/960px-Ellie_Goulding_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2661_%2848740822596%29.jpg",
+      "width": 3558,
+      "height": 5337,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23349893@N08\"\u003eAnna Hanks\u003c/a\u003e from Austin, Texas, USA"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--electropop.json",
+      "url": "https://en.wikipedia.org/wiki/Electropop",
+      "retrieved_at": "2026-03-28T15:55:23Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--electropop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

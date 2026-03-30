@@ -1,0 +1,26 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6gl67jXbrwnMYZNZv88MKk",
+  "name": "Stetsasonic",
+  "spotify_url": "https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk",
+  "musicbrainz_artist_id": "2d84d1c0-f6fe-4af0-848c-fffdc1e080dc",
+  "source_genres": [
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Stetsasonic",
+  "summary": "Stetsasonic is an American hip hop group. Formed in 1981 in Brooklyn, New York City, New York, Stetsasonic was one of the first hip hop acts to perform with a full band and use live instrumentation in their recordings, paving the way for future hip hop bands such as the Roots. The band combined beat-boxing, sampling technology, and live band performance, incorporating R\u0026B, jazz, dancehall reggae, and rock into its sound. Stetsasonic is also considered one of the acts that pioneered jazz rap.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Stetsasonic",
+  "candidates": [
+    "Stetsasonic"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stetsasonic",
+    "page_url": "https://en.wikipedia.org/wiki/Stetsasonic",
+    "retrieved_at": "2026-03-28T10:42:52Z"
+  }
+}

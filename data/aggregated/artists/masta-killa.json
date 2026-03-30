@@ -1,0 +1,74 @@
+{
+  "canonical_slug": "masta-killa",
+  "name": "Masta Killa",
+  "spotify_artist_id": "0ME1RawvWt3qOJnYnxVqeh",
+  "musicbrainz_artist_id": "43ffac1a-f46a-4bd0-88f9-7715e104a122",
+  "spotify_url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Masta Killa",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Masta_Killa",
+  "summary": "Jamel Irief, better known by his stage name Masta Killa, is an American rapper and member of the Wu-Tang Clan. He was only featured on one track on their 1993 debut album Enter the Wu-Tang , but has been prolific on Clan group albums and solo projects since the mid-1990s. He released his debut album No Said Date in 2004 to positive reviews, and has since released four additional albums.",
+  "candidates": [
+    "Elan Mastai",
+    "Mama Killa",
+    "Marta Sillaots",
+    "Maslak (in Islam)",
+    "Masta Killa",
+    "Masta Killa Live",
+    "Masta Killa discography",
+    "Mastani Lake",
+    "Mattakallappu Manmiyam",
+    "Mostacillastrum"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Masta Killa",
+    "page_url": "https://en.wikipedia.org/wiki/Masta_Killa",
+    "retrieved_at": "2026-03-28T10:41:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Masta Killa Interview 2025.jpeg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Masta_Killa_Interview_2025.jpeg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Masta_Killa_Interview_2025.jpeg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Masta_Killa_Interview_2025.jpeg",
+    "width": 821,
+    "height": 1062,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "iDstroy"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Masta Killa Interview 2025.jpeg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Masta_Killa_Interview_2025.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Masta_Killa_Interview_2025.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Masta_Killa_Interview_2025.jpeg",
+      "width": 821,
+      "height": 1062,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "iDstroy"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wu-Tang Clan at Budapest Park - 2015.07.07 (13).JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wu-Tang_Clan_at_Budapest_Park_-_2015.07.07_(13).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Wu-Tang_Clan_at_Budapest_Park_-_2015.07.07_%2813%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Wu-Tang_Clan_at_Budapest_Park_-_2015.07.07_%2813%29.JPG/960px-Wu-Tang_Clan_at_Budapest_Park_-_2015.07.07_%2813%29.JPG",
+      "width": 1280,
+      "height": 720,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Derzsi_Elekes_Andor\" title=\"User:Derzsi Elekes Andor\"\u003eDerzsi Elekes Andor\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

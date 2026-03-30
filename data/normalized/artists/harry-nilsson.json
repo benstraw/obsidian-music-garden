@@ -3,12 +3,21 @@
   "source_artist_id": "3RTzAwFprBqiskp550eSJX",
   "name": "Harry Nilsson",
   "spotify_url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX",
+  "musicbrainz_artist_id": "e5963d26-01fa-40f5-b200-e0127f410a45",
   "source_genres": [
     "baroque pop",
-    "singer-songwriter"
+    "film soundtrack",
+    "pop",
+    "pop rock",
+    "psychedelic pop",
+    "rock",
+    "singer-songwriter",
+    "united states"
   ],
   "canonical_genre_slugs": [
     "baroque-pop",
+    "pop",
+    "rock",
     "singer-songwriter"
   ],
   "status": "matched",

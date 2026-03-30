@@ -1,0 +1,58 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0KjF9pkI2bO9EMuB7LnHqP",
+  "name": "Arms and Sleepers",
+  "spotify_url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP",
+  "musicbrainz_artist_id": "d4dae588-8b66-4aa9-877f-04c604f552a8",
+  "source_genres": [
+    "alternative hip hop",
+    "ambient",
+    "instrumental hip hop",
+    "post-rock",
+    "trip hop"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-hip-hop",
+    "ambient",
+    "post-rock"
+  ],
+  "status": "matched",
+  "page_title": "Arms and Sleepers",
+  "summary": "Arms and Sleepers is an American ambient/trip hop duo consisting of Max Lewis and Mirza Ramic. The band was formed in 2006 and has since released a handful of albums and EPs, including Bliss Was It in That Dawn to Be Alive, an EP released in 2006; Black Paris 86, an album released in 2007; and Matador, which was released in November 2009.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Arms_and_Sleepers",
+  "candidates": [
+    "Arms and Sleepers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Arms and Sleepers",
+    "page_url": "https://en.wikipedia.org/wiki/Arms_and_Sleepers",
+    "retrieved_at": "2026-03-28T10:37:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

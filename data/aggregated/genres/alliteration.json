@@ -1,0 +1,98 @@
+{
+  "canonical_slug": "alliteration",
+  "display_title": "Alliteration",
+  "display_name": "Alliteration",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Alliteration",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alliteration",
+  "summary": "Alliteration is the repetition of syllable-initial consonant sounds between nearby words, or of syllable-initial vowels if the syllables in question do not start with a consonant. It is often used as a literary device. A common example is \"Peter Piper picked a peck of pickled peppers\".",
+  "candidates": [
+    "Allienation zone",
+    "Alliteration",
+    "Alliteration (Latin)",
+    "Alliterative Morte Arthure",
+    "Alliterative Revival",
+    "Alliterative verse",
+    "Alterations of Aragon",
+    "Alternation of generations",
+    "The Alliteration",
+    "The Alteration"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alliteration",
+    "page_url": "https://en.wikipedia.org/wiki/Alliteration",
+    "retrieved_at": "2026-03-28T15:52:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:GlasgowViaVeritasVita.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:GlasgowViaVeritasVita.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/GlasgowViaVeritasVita.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlasgowViaVeritasVita.jpg/960px-GlasgowViaVeritasVita.jpg",
+    "width": 2505,
+    "height": 2233,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Vysotsky\" title=\"User:Vysotsky\"\u003eVysotsky\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GlasgowViaVeritasVita.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GlasgowViaVeritasVita.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/GlasgowViaVeritasVita.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/GlasgowViaVeritasVita.jpg/960px-GlasgowViaVeritasVita.jpg",
+      "width": 2505,
+      "height": 2233,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Vysotsky\" title=\"User:Vysotsky\"\u003eVysotsky\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mikado 02 - Weir Collection.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mikado_02_-_Weir_Collection.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Mikado_02_-_Weir_Collection.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mikado_02_-_Weir_Collection.jpg/960px-Mikado_02_-_Weir_Collection.jpg",
+      "width": 2500,
+      "height": 3619,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nGilbert, W. S. (William Schwenck), 1836-1911\u003c/div\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--alliteration.json",
+      "url": "https://en.wikipedia.org/wiki/Alliteration",
+      "retrieved_at": "2026-03-28T15:52:52Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--alliteration.json",
+      "url": "https://commons.wikimedia.org/wiki/File:GlasgowViaVeritasVita.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

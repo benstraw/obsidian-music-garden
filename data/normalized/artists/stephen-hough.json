@@ -1,0 +1,67 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3G5zQYaRH9y6ruE4QnoITP",
+  "name": "Stephen Hough",
+  "spotify_url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP",
+  "musicbrainz_artist_id": "fd7e7a8f-38b4-4c6a-964f-3c9ed53a898e",
+  "source_genres": [
+    "british composer",
+    "british pianist",
+    "classical",
+    "composer",
+    "pianist",
+    "piano",
+    "western classical"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Stephen Hough",
+  "summary": "Sir Stephen Andrew Gill Hough is a British-Australian classical pianist, composer and writer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Stephen_Hough",
+  "candidates": [
+    "Stephen Coughlan",
+    "Stephen Doughty",
+    "Stephen Gough",
+    "Stephen Hobhouse",
+    "Stephen Hogan",
+    "Stephen Hough",
+    "Stephen Houghton",
+    "Stephen House",
+    "Stephen Hughes (footballer, born 1976)",
+    "Stephen Hughes (footballer, born 1982)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stephen Hough",
+    "page_url": "https://en.wikipedia.org/wiki/Stephen_Hough",
+    "retrieved_at": "2026-03-28T10:42:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Stephen Hough02 (51387794306).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Stephen_Hough02_(51387794306).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stephen_Hough02_%2851387794306%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stephen_Hough02_%2851387794306%29.jpg/960px-Stephen_Hough02_%2851387794306%29.jpg",
+    "width": 4448,
+    "height": 6087,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51119063@N04\"\u003eQuincena Musical\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stephen Hough02 (51387794306).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stephen_Hough02_(51387794306).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stephen_Hough02_%2851387794306%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stephen_Hough02_%2851387794306%29.jpg/960px-Stephen_Hough02_%2851387794306%29.jpg",
+      "width": 4448,
+      "height": 6087,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51119063@N04\"\u003eQuincena Musical\u003c/a\u003e"
+    }
+  ]
+}

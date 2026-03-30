@@ -1,0 +1,50 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1ZwdS5xdxEREPySFridCfh",
+  "name": "2Pac",
+  "spotify_url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh",
+  "musicbrainz_artist_id": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+  "source_genres": [
+    "conscious hip hop",
+    "gangsta rap",
+    "hardcore hip hop",
+    "hip hop",
+    "political hip hop",
+    "thug rap",
+    "west coast hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hardcore-hip-hop",
+    "hip-hop",
+    "west-coast-hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Tupac Shakur",
+  "summary": "Tupac Amaru Shakur, also known by his stage names 2Pac and Makaveli, was an American rapper and actor. He was one of the most influential musical artists of the 20th century, and a prominent political activist for Black America. He is among the best-selling music artists, having sold more than 75 million records worldwide. Some of Shakur's music addressed social injustice, political issues, and the marginalization of African Americans, but he was also synonymous with gangsta rap and violent lyrics.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Tupac_Shakur",
+  "candidates": [
+    "2Pac",
+    "2Pac + Outlawz",
+    "2Pac - The Prophet Returns",
+    "2Pac Back",
+    "2Pac Live",
+    "2Pac's Greatest Hits",
+    "2Pacalypse Now",
+    "2pac Resurrection",
+    "2pac discography",
+    "A 2Pac Tribute: Dare 2 Struggle"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tupac Shakur",
+    "page_url": "https://en.wikipedia.org/wiki/Tupac_Shakur",
+    "retrieved_at": "2026-03-28T10:36:51Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/2pac_edit_cropped_further.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2pac_edit_cropped_further.jpg/330px-2pac_edit_cropped_further.jpg",
+    "width": 599,
+    "height": 800
+  }
+}

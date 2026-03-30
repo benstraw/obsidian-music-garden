@@ -1,0 +1,110 @@
+{
+  "canonical_slug": "heartland-rock",
+  "display_title": "Heartland Rock",
+  "display_name": "Heartland Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Heartland rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Heartland_rock",
+  "summary": "Heartland rock is a genre of rock music characterized by a straightforward, often roots musical style, often with a focus on blue-collar workers, and a conviction that rock music has a social or communal purpose beyond just entertainment.",
+  "candidates": [
+    "Heartland (book)",
+    "Heartland Coca-Cola Bottling Company",
+    "Heartland Cricket League",
+    "Heartland Poker Tour",
+    "Heartland Recreational Vehicles",
+    "Heartland Robotics",
+    "Heartland rock",
+    "Heartman: Rock and Love"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Heartland rock",
+    "page_url": "https://en.wikipedia.org/wiki/Heartland_rock",
+    "retrieved_at": "2026-03-28T15:57:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bundesarchiv Bild 183-1988-0719-38, Bruce Springsteen, Konzert in der DDR.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1988-0719-38,_Bruce_Springsteen,_Konzert_in_der_DDR.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.jpg",
+    "width": 506,
+    "height": 797,
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "\u003cdiv class=\"fn value\"\u003e\nUhlemann, Thomas\u003c/div\u003e",
+    "attribution_text": "Bundesarchiv, Bild 183-1988-0719-38 / Uhlemann, Thomas / CC-BY-SA 3.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bundesarchiv Bild 183-1988-0719-38, Bruce Springsteen, Konzert in der DDR.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1988-0719-38,_Bruce_Springsteen,_Konzert_in_der_DDR.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1988-0719-38%2C_Bruce_Springsteen%2C_Konzert_in_der_DDR.jpg",
+      "width": 506,
+      "height": 797,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nUhlemann, Thomas\u003c/div\u003e",
+      "attribution_text": "Bundesarchiv, Bild 183-1988-0719-38 / Uhlemann, Thomas / CC-BY-SA 3.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Mellenkamp.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Mellenkamp.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/John_Mellenkamp.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/John_Mellenkamp.jpg/960px-John_Mellenkamp.jpg",
+      "width": 3352,
+      "height": 2328,
+      "license": "Public domain",
+      "author": "DoD photo by Staff Sgt. D. Myles Cullen, U.S. Air Force."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Melissa etheridge august 24 2010 spirit mountain oregon.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Melissa_etheridge_august_24_2010_spirit_mountain_oregon.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Melissa_etheridge_august_24_2010_spirit_mountain_oregon.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Melissa_etheridge_august_24_2010_spirit_mountain_oregon.JPG/960px-Melissa_etheridge_august_24_2010_spirit_mountain_oregon.JPG",
+      "width": 3264,
+      "height": 2448,
+      "license": "GFDL",
+      "license_url": "http://www.gnu.org/copyleft/fdl.html",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Andrew_Olivo_Parodi\" class=\"extiw\" title=\"en:User:Andrew Olivo Parodi\"\u003eAndrew Olivo Parodi\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Andrew_Olivo_Parodi\" class=\"extiw\" title=\"en:User talk:Andrew Olivo Parodi\"\u003etalk\u003c/a\u003e)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--heartland-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Heartland_rock",
+      "retrieved_at": "2026-03-28T15:57:01Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--heartland-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1988-0719-38,_Bruce_Springsteen,_Konzert_in_der_DDR.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

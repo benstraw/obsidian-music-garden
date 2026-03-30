@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "rufus-thomas",
+  "name": "Rufus Thomas",
+  "play_count": 4,
+  "spotify_artist_id": "3iRSHS3b4NUdjNbnw3Opg8",
+  "musicbrainz_artist_id": "af1f46fe-903c-4bbf-8e20-a3e114343bd0",
+  "spotify_url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8",
+  "genres": [
+    "funk",
+    "soul"
+  ],
+  "source_genres": [
+    "2008 universal fire victim",
+    "funk",
+    "r\u0026b",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/140eaed26ac7ec5147de78d0e32a68cc139278be",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/8bd9ee428c9b2cf0bb06f4f09c5a9dc75d1c5a14",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/b6c68f96b53db9e604313cd2732bc223ee5e76bb",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5e0297fd33811ac8fbe91587141681304924ac26",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Rufus Thomas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rufus_Thomas",
+  "summary": "Rufus C. Thomas, Jr. was an American rhythm-and-blues, funk, soul and blues singer, songwriter, dancer, DJ and comic entertainer from Memphis, Tennessee. He recorded for several labels, including Chess Records and Sun Records in the 1950s, before becoming established in the 1960s and 1970s at Stax Records. His dance records, including \"Walking the Dog\" (1963), \"Do the Funky Chicken\" (1969), and \"(Do the) Push and Pull\" (1970), were some of his most successful songs. According to the Mississippi Blues Commission, \"Rufus Thomas embodied the spirit of Memphis music perhaps more than any other artist, and from the early 1940s until his death . . . occupied many important roles in the local scene.\"",
+  "candidates": [
+    "Rufus Thomas",
+    "Russ Thomas",
+    "Thomas Bates Rous",
+    "Thomas Ruff"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rufus Thomas",
+    "page_url": "https://en.wikipedia.org/wiki/Rufus_Thomas",
+    "retrieved_at": "2026-03-28T10:42:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Rufus Thomas Grave New Park Cem Memphis TN 3.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg/960px-Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg",
+    "width": 1024,
+    "height": 768,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Thomas R Machnitzki"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rufus Thomas Grave New Park Cem Memphis TN 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg/960px-Rufus_Thomas_Grave_New_Park_Cem_Memphis_TN_3.jpg",
+      "width": 1024,
+      "height": 768,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Thomas R Machnitzki"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rufusthomas72.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

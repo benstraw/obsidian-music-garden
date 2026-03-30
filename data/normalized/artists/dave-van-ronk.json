@@ -1,0 +1,74 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6QmHysWvckkQR74oxmLmtz",
+  "name": "Dave Van Ronk",
+  "spotify_url": "https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz",
+  "musicbrainz_artist_id": "c07a8ae5-3322-482f-9bfe-27448a2cf593",
+  "source_genres": [
+    "blues",
+    "country blues",
+    "folk",
+    "ragtime"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "Dave Van Ronk",
+  "summary": "David Kenneth Ritz Van Ronk was an American folk singer. An important figure in the American folk music revival and New York City's Greenwich Village scene in the 1960s, he was nicknamed the \"Mayor of MacDougal Street\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Dave_Van_Ronk",
+  "candidates": [
+    "Dave Van Ronk",
+    "Dave Van Ronk Sings Ballads, Blues, and a Spiritual",
+    "Dave Van Ronk and the Hudson Dusters",
+    "Dave Van Ronk and the Ragtime Jug Stompers",
+    "Dave Van Ronk in Rome",
+    "Dave Van Ronk, Folksinger",
+    "Dave Van Ronk: ...And the Tin Pan Bended and the Story Ended..."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Dave Van Ronk",
+    "page_url": "https://en.wikipedia.org/wiki/Dave_Van_Ronk",
+    "retrieved_at": "2026-03-28T10:38:29Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dave Van Ronk.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Van_Ronk.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dave_Van_Ronk.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dave_Van_Ronk.jpg",
+    "width": 349,
+    "height": 524,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Jack_Mancini\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Jack Mancini (page does not exist)\"\u003eJack Mancini\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dave Van Ronk.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Van_Ronk.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dave_Van_Ronk.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Dave_Van_Ronk.jpg",
+      "width": 349,
+      "height": 524,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Jack_Mancini\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Jack Mancini (page does not exist)\"\u003eJack Mancini\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

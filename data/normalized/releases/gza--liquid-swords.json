@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3k8xoyOXkGgZxUKgpmxz4P",
   "name": "Liquid Swords",
-  "primary_artist_name": "GZA",
-  "primary_artist_canonical_slug": "gza"
+  "primary_artist_name": "GZA/Genius",
+  "primary_artist_canonical_slug": "gza",
+  "musicbrainz_release_id": "b191e94b-a9f5-4f82-9e05-4ee530577c72",
+  "musicbrainz_release_group_id": "3e56d123-8b66-47f1-912a-e2e4cda69c5e"
 }

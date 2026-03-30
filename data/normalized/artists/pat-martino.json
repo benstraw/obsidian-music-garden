@@ -1,0 +1,85 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4DlMMgnldzX6OkCskmeGKz",
+  "name": "Pat Martino",
+  "spotify_url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz",
+  "musicbrainz_artist_id": "8b8b7c42-8210-4267-bb93-4c2df5b2c438",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Pat Martino",
+  "summary": "Pat Martino was an American jazz guitarist and composer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Pat_Martino",
+  "candidates": [
+    "Pam Martinez",
+    "Pat Martin",
+    "Pat Martin (baseball)",
+    "Pat Martin (broadcaster)",
+    "Pat Martin (photographer)",
+    "Pat Martino",
+    "Pat Martino/Live!",
+    "Pau Martínez",
+    "Paz, Martin",
+    "Pit Martin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pat Martino",
+    "page_url": "https://en.wikipedia.org/wiki/Pat_Martino",
+    "retrieved_at": "2026-03-28T10:41:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Pat-martino.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat-martino.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pat-martino.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pat-martino.jpg",
+    "width": 500,
+    "height": 333,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hreinn_Gudlaugsson\" title=\"User:Hreinn Gudlaugsson\"\u003eHreinn Gudlaugsson\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pat-martino.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat-martino.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pat-martino.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pat-martino.jpg",
+      "width": 500,
+      "height": 333,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hreinn_Gudlaugsson\" title=\"User:Hreinn Gudlaugsson\"\u003eHreinn Gudlaugsson\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pat Martino 2018.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat_Martino_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pat_Martino_2018.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pat_Martino_2018.jpg",
+      "width": 684,
+      "height": 546,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pat and Ray.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pat_and_Ray.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pat_and_Ray.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pat_and_Ray.jpg/960px-Pat_and_Ray.jpg",
+      "width": 3024,
+      "height": 4032,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rbartles1029\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rbartles1029 (page does not exist)\"\u003eRbartles1029\u003c/a\u003e"
+    }
+  ]
+}

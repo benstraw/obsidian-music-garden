@@ -1,0 +1,129 @@
+{
+  "canonical_slug": "california",
+  "display_title": "California",
+  "display_name": "California",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "California",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/California",
+  "summary": "California is a state in the Western United States that lies on the Pacific Coast. It borders Oregon to the north, Nevada and Arizona to the east, and shares an international border with the Mexican state of Baja California to the south. With almost 40 million residents across an area of 163,696 square miles (423,970 km2), it is the largest state by population, third-largest state by area and the largest state economy in the U.S., with a GDP of approximately $4.3 trillion.",
+  "candidates": [
+    "California",
+    "California High-Speed Rail",
+    "California Institute of Technology",
+    "California Polytechnic State University, San Luis Obispo",
+    "California State Polytechnic University, Pomona",
+    "California State Route 1",
+    "California State University, Long Beach",
+    "California State University, Northridge",
+    "California State University, Sacramento",
+    "California gold rush"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "California",
+    "page_url": "https://en.wikipedia.org/wiki/California",
+    "retrieved_at": "2026-03-28T15:53:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"General Vallejo Reviewing His Troops in Sonoma, 1846\".jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22General_Vallejo_Reviewing_His_Troops_in_Sonoma,_1846%22.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%22General_Vallejo_Reviewing_His_Troops_in_Sonoma%2C_1846%22.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%22General_Vallejo_Reviewing_His_Troops_in_Sonoma%2C_1846%22.jpg/960px-%22General_Vallejo_Reviewing_His_Troops_in_Sonoma%2C_1846%22.jpg",
+    "width": 1023,
+    "height": 563,
+    "license": "Public domain",
+    "author": "Oriana Day"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"General Vallejo Reviewing His Troops in Sonoma, 1846\".jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22General_Vallejo_Reviewing_His_Troops_in_Sonoma,_1846%22.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%22General_Vallejo_Reviewing_His_Troops_in_Sonoma%2C_1846%22.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%22General_Vallejo_Reviewing_His_Troops_in_Sonoma%2C_1846%22.jpg/960px-%22General_Vallejo_Reviewing_His_Troops_in_Sonoma%2C_1846%22.jpg",
+      "width": 1023,
+      "height": 563,
+      "license": "Public domain",
+      "author": "Oriana Day"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"I Love You, California\" - Regional anthem of California.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22I_Love_You,_California%22_-_Regional_anthem_of_California.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%22I_Love_You%2C_California%22_-_Regional_anthem_of_California.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Abraham Franklin Frankenstein"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Protecting The Settlers\" Illustration by JR Browne for his work \"The Indians Of California\" 1864 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Protecting_The_Settlers%22_Illustration_by_JR_Browne_for_his_work_%22The_Indians_Of_California%22_1864_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/%22Protecting_The_Settlers%22_Illustration_by_JR_Browne_for_his_work_%22The_Indians_Of_California%22_1864_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%22Protecting_The_Settlers%22_Illustration_by_JR_Browne_for_his_work_%22The_Indians_Of_California%22_1864_%28cropped%29.jpg/960px-%22Protecting_The_Settlers%22_Illustration_by_JR_Browne_for_his_work_%22The_Indians_Of_California%22_1864_%28cropped%29.jpg",
+      "width": 1512,
+      "height": 1540,
+      "license": "Public domain",
+      "author": "\u003cp\u003eJohn Babe Browne\u003cbr\u003e\n\u003c/p\u003e\n(Life time: 1821-1875)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1836 alvarado flag.webp",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1836_alvarado_flag.webp",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/1836_alvarado_flag.webp",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/1836_alvarado_flag.webp",
+      "width": 597,
+      "height": 458,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1 yosemite valley tunnel view 2010.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1_yosemite_valley_tunnel_view_2010.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1_yosemite_valley_tunnel_view_2010.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/1_yosemite_valley_tunnel_view_2010.JPG/960px-1_yosemite_valley_tunnel_view_2010.JPG",
+      "width": 4288,
+      "height": 2848,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\"\u003echensiyuan\u003c/a\u003e (\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Chensiyuan\" title=\"User talk:Chensiyuan\"\u003etalk\u003c/a\u003e\u003cspan style=\"white-space:nowrap\"\u003e \u003cspan style=\"font-weight:bold;\"\u003e·\u003c/span\u003e\u003c/span\u003e \u003ca href=\"//commons.wikimedia.org/wiki/Special:Contributions/Chensiyuan\" title=\"Special:Contributions/Chensiyuan\"\u003econtribs\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\"\u003echensiyuan\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--california.json",
+      "url": "https://en.wikipedia.org/wiki/California",
+      "retrieved_at": "2026-03-28T15:53:52Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--california.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%22General_Vallejo_Reviewing_His_Troops_in_Sonoma,_1846%22.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

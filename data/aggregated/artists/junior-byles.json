@@ -1,0 +1,81 @@
+{
+  "canonical_slug": "junior-byles",
+  "name": "Junior Byles",
+  "play_count": 6,
+  "spotify_artist_id": "5J6lHDYy53GyksfcJyHadC",
+  "musicbrainz_artist_id": "a7f02a97-8db1-4f64-9fb9-c048032f721b",
+  "spotify_url": "https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC",
+  "genres": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "source_genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27313e693efb6c4657b5ed8eac7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0213e693efb6c4657b5ed8eac7",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485113e693efb6c4657b5ed8eac7",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Junior Byles",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Junior_Byles",
+  "summary": "Kenneth Byles, also known as \"Junior Byles\", \"Chubby\", or \"King Chubby\", was a Jamaican conscious roots reggae singer.",
+  "candidates": [
+    "Junior Bester",
+    "Junior Blender",
+    "Junior Blues",
+    "Junior Byles",
+    "Junior Lessard",
+    "Junior Miles",
+    "Junior Pelesasa",
+    "Junior Salesman",
+    "Teles Junior"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Junior Byles",
+    "page_url": "https://en.wikipedia.org/wiki/Junior_Byles",
+    "retrieved_at": "2026-03-28T10:40:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Junior Byles2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Junior_Byles2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Junior_Byles2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Junior_Byles2.jpg",
+    "width": 517,
+    "height": 348,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:IchHier--15er\" class=\"extiw\" title=\"de:Benutzer:IchHier--15er\"\u003eIchHier--15er\u003c/a\u003e (\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:IchHier--15er\" class=\"extiw\" title=\"de:Benutzer Diskussion:IchHier--15er\"\u003eDiskussion\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Junior Byles2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Junior_Byles2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Junior_Byles2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Junior_Byles2.jpg",
+      "width": 517,
+      "height": 348,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:IchHier--15er\" class=\"extiw\" title=\"de:Benutzer:IchHier--15er\"\u003eIchHier--15er\u003c/a\u003e (\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer_Diskussion:IchHier--15er\" class=\"extiw\" title=\"de:Benutzer Diskussion:IchHier--15er\"\u003eDiskussion\u003c/a\u003e)"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

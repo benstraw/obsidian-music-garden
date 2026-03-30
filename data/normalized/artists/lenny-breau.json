@@ -1,0 +1,96 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5ZNvJC7YIhztLqxS58c1or",
+  "name": "Lenny Breau",
+  "spotify_url": "https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or",
+  "musicbrainz_artist_id": "7c92874a-d81b-43f7-9c55-cc5dfaf9f28f",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Lenny Breau",
+  "summary": "Leonard Harold Breau was an American-Canadian guitarist. He blended many styles of music, including jazz, country, classical, and flamenco. Inspired by country guitarists like Chet Atkins, Breau used fingerstyle techniques not often used in jazz guitar. By using a seven-string guitar and approaching the guitar like a piano, he opened up possibilities for the instrument.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Lenny_Breau",
+  "candidates": [
+    "Lanny A. Breuer",
+    "Lenny Breau",
+    "Lenny Breau (album)",
+    "Lenny Bruce",
+    "Lenny Bruce (song)",
+    "Lenny Bruce Is Dead",
+    "Lenny Bruce: Swear to Tell the Truth",
+    "Lonny Breaux",
+    "The Lenny Breau Show"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lenny Breau",
+    "page_url": "https://en.wikipedia.org/wiki/Lenny_Breau",
+    "retrieved_at": "2026-03-28T10:40:41Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:GClef.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+    "width": 15,
+    "height": 41,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lenny Breau.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lenny Breau 7-String Guitar.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lenny_Breau_7-String_Guitar.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lenny_Breau_7-String_Guitar.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lenny_Breau_7-String_Guitar.jpg/960px-Lenny_Breau_7-String_Guitar.jpg",
+      "width": 1840,
+      "height": 3264,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003cp\u003eteakwood \n\u003c/p\u003e\n(CC BY-SA 2.0)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maple Leaf (from roundel).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maple_Leaf_(from_roundel).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Maple_Leaf_%28from_roundel%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Maple_Leaf_%28from_roundel%29.svg/960px-Maple_Leaf_%28from_roundel%29.svg.png",
+      "width": 305,
+      "height": 343,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Roundel_of_the_Royal_Canadian_Air_Force_(1946-1965).svg\" class=\"mw-redirect\" title=\"File:Roundel of the Royal Canadian Air Force (1946-1965).svg\"\u003eRoundel_of_the_Royal_Canadian_Air_Force_(1946-1965).svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:F_l_a_n_k_e_r\" title=\"User:F l a n k e r\"\u003eF l a n k e r\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eUser:Zscout370\u003c/a\u003e \u003csup\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Zscout370\" title=\"User talk:Zscout370\"\u003e(Return fire)\u003c/a\u003e\u003c/sup\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
+  ]
+}

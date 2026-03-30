@@ -4,6 +4,12 @@
   "name": "Sound The Horns",
   "primary_artist_name": "Wu-Tang Clan",
   "primary_artist_canonical_slug": "wu-tang-clan",
+  "additional_artist_slugs": [
+    "sadat-x",
+    "inspectah-deck",
+    "u-god",
+    "rza"
+  ],
   "release_name": "Chamber Music",
   "release_canonical_slug": "wu-tang-clan--chamber-music",
   "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW"

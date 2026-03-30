@@ -1,0 +1,95 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+  "name": "Billy Strings",
+  "spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+  "musicbrainz_artist_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+  "source_genres": [
+    "americana",
+    "bluegrass",
+    "jam band",
+    "newgrass"
+  ],
+  "canonical_genre_slugs": [
+    "americana",
+    "bluegrass",
+    "jam-band"
+  ],
+  "status": "matched",
+  "page_title": "Billy Strings",
+  "summary": "William Lee Apostol, known by the stage name Billy Strings, is an American guitarist, singer, songwriter, and bluegrass musician. Three of his albums, Home, Live Vol. 1, Highway Prayers, have won the Grammy Award for Best Bluegrass Album in 2021, 2025, and 2026 respectively.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Billy_Strings",
+  "candidates": [
+    "Bill Springsteen",
+    "Billy Strange",
+    "Billy Strings"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Billy Strings",
+    "page_url": "https://en.wikipedia.org/wiki/Billy_Strings",
+    "retrieved_at": "2026-03-28T10:37:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:111219 RelixPressDayNYC BillyStrings JFaatzMedia-2910.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg/960px-111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg",
+    "width": 2048,
+    "height": 1365,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jesse Faatz"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:111219 RelixPressDayNYC BillyStrings JFaatzMedia-2910.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg/960px-111219_RelixPressDayNYC_BillyStrings_JFaatzMedia-2910.jpg",
+      "width": 2048,
+      "height": 1365,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jesse Faatz"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Billy Strings Taken By Christopher Morley.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Billy_Strings_Taken_By_Christopher_Morley.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Billy_Strings_Taken_By_Christopher_Morley.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Billy_Strings_Taken_By_Christopher_Morley.jpg/960px-Billy_Strings_Taken_By_Christopher_Morley.jpg",
+      "width": 1200,
+      "height": 1640,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Christopher Morley"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Billy Strings by Jesse Faatz 2023.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Billy_Strings_by_Jesse_Faatz_2023.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Billy_Strings_by_Jesse_Faatz_2023.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Billy_Strings_by_Jesse_Faatz_2023.jpg/960px-Billy_Strings_by_Jesse_Faatz_2023.jpg",
+      "width": 1920,
+      "height": 1281,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jesse Faatz"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Strings-fls.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Strings-fls.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Strings-fls.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Strings-fls.jpg/960px-Strings-fls.jpg",
+      "width": 2109,
+      "height": 2439,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Filberthockey\" title=\"User:Filberthockey\"\u003eFilberthockey (a.k.a. Forrest L. Smith, III)\u003c/a\u003e"
+    }
+  ]
+}

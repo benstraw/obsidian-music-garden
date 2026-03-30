@@ -1,7 +1,9 @@
 {
   "canonical_slug": "tonez",
   "name": "Tonez",
+  "play_count": 4,
   "spotify_artist_id": "5pvsRwXcUfr3oUVVbgrv5P",
+  "musicbrainz_artist_id": "7a07fe60-7183-474f-a147-8b8388717393",
   "spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P",
   "genres": [
     "uk-garage"
@@ -39,5 +41,5 @@
     "Tonezza del Cimone",
     "Tony Blair"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

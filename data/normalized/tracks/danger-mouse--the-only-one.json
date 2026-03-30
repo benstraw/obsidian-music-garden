@@ -4,6 +4,9 @@
   "name": "The Only One",
   "primary_artist_name": "Danger Mouse",
   "primary_artist_canonical_slug": "danger-mouse",
+  "additional_artist_slugs": [
+    "jemini-the-gifted-one"
+  ],
   "release_name": "Ghetto Pop Life",
   "release_canonical_slug": "danger-mouse--ghetto-pop-life",
   "spotify_url": "https://open.spotify.com/track/70CA9Bzb6xsxdvQMFRDl7S"

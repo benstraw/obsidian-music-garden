@@ -1,0 +1,70 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4ZgIWfyg9BkcqnJJ2xVR3f",
+  "name": "Mouse On Mars",
+  "spotify_url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f",
+  "musicbrainz_artist_id": "4d4f5d92-0589-42fa-bc0e-1bd73e17a2ce",
+  "source_genres": [
+    "ambient",
+    "electronic",
+    "idm",
+    "techno"
+  ],
+  "canonical_genre_slugs": [
+    "ambient",
+    "electronic",
+    "idm"
+  ],
+  "status": "matched",
+  "page_title": "Mouse on Mars",
+  "summary": "Mouse on Mars is a German electronic music duo formed in 1993 by Jan St. Werner and Andi Toma. Their music is a blend of electronic genres including IDM, dub, krautrock, breakbeat, and ambient, featuring heavy use of organic analog synth and cross-frequency modulation. Their music also features live instrumentation including strings, horns, drums, bass, and guitar.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Mouse_on_Mars",
+  "candidates": [
+    "Moulton Marston, William",
+    "Mouse on Mars"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mouse on Mars",
+    "page_url": "https://en.wikipedia.org/wiki/Mouse_on_Mars",
+    "retrieved_at": "2026-03-28T10:41:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Mouse On Mars 2007.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Mouse_On_Mars_2007.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mouse_On_Mars_2007.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mouse_On_Mars_2007.jpg",
+    "width": 640,
+    "height": 480,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/13078068@N05/\"\u003ehttps://www.flickr.com/photos/13078068@N05/\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mouse On Mars 2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mouse_On_Mars_2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mouse_On_Mars_2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mouse_On_Mars_2007.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/13078068@N05/\"\u003ehttps://www.flickr.com/photos/13078068@N05/\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ]
+}

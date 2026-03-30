@@ -1,0 +1,77 @@
+{
+  "source": "spotify",
+  "source_artist_id": "64CuUOOirKmdAYLQSfaOyr",
+  "name": "The Emotions",
+  "spotify_url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr",
+  "musicbrainz_artist_id": "6ff13427-08ff-4da2-bee8-892e1fa22d3c",
+  "source_genres": [
+    "chicago soul",
+    "dance and electronica",
+    "disco",
+    "girl group",
+    "r\u0026b",
+    "smooth soul",
+    "soul",
+    "southern soul"
+  ],
+  "canonical_genre_slugs": [
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "The Emotions",
+  "summary": "The Emotions are an American female vocal group from Chicago, Illinois, who achieved mainstream success during the 1970s. The original lineup comprised sisters Wanda Hutchinson, Sheila Hutchinson, and Jeanette Hutchinson. The group debuted on Volt Records with the release of their top-ten R\u0026B single \"So I Can Love You\" in 1968. Following the decline of Volt Records and its parent company, Stax Records, the group transitioned to Columbia Records in 1975.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Emotions",
+  "candidates": [
+    "The Emotion Machine",
+    "The Emotional Intelligence Appraisal",
+    "The Emotional Plague",
+    "The Emotionalists",
+    "The Emotions",
+    "The Emotions (doo-wop group)",
+    "The Emotions discography",
+    "The Emotions of London",
+    "The Motion Sick",
+    "The Motions (song)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Emotions",
+    "page_url": "https://en.wikipedia.org/wiki/The_Emotions",
+    "retrieved_at": "2026-03-28T10:43:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:TheEmotions1971.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:TheEmotions1971.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/TheEmotions1971.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TheEmotions1971.jpg/960px-TheEmotions1971.jpg",
+    "width": 1132,
+    "height": 637,
+    "license": "Public domain",
+    "author": "Stax Records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:TheEmotions1971.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:TheEmotions1971.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/TheEmotions1971.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TheEmotions1971.jpg/960px-TheEmotions1971.jpg",
+      "width": 1132,
+      "height": 637,
+      "license": "Public domain",
+      "author": "Stax Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:TheEmotionsgroup.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:TheEmotionsgroup.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/TheEmotionsgroup.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/TheEmotionsgroup.png",
+      "width": 753,
+      "height": 609,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ]
+}

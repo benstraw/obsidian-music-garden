@@ -1,0 +1,34 @@
+{
+  "canonical_slug": "testiculo-y-uno",
+  "name": "Testiculo y Uno",
+  "play_count": 6,
+  "spotify_artist_id": "0pkecf4XKAVfFHUtgdoSE9",
+  "musicbrainz_artist_id": "317762f7-03ff-4fbb-8476-be2a35a163a2",
+  "spotify_url": "https://open.spotify.com/artist/0pkecf4XKAVfFHUtgdoSE9",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop",
+    "instrumental"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27357b0e223ecd3ccdeed3399b8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0257b0e223ecd3ccdeed3399b8",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485157b0e223ecd3ccdeed3399b8",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

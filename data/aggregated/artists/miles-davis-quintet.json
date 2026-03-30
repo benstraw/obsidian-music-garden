@@ -1,7 +1,9 @@
 {
   "canonical_slug": "miles-davis-quintet",
   "name": "Miles Davis Quintet",
+  "play_count": 8,
   "spotify_artist_id": "71Ur25Abq58vksqJINpGdx",
+  "musicbrainz_artist_id": "fe7245e7-d734-4ca1-8e26-691883f58201",
   "spotify_url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx",
   "genres": [
     "bebop",
@@ -82,5 +84,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mallory1180\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mallory1180 (page does not exist)\"\u003eMallory1180\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

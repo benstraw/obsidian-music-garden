@@ -6,7 +6,8 @@
   "aliases": [
     "ambient pop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Ambient music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ambient_music",

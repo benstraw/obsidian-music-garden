@@ -1,0 +1,29 @@
+{
+  "canonical_slug": "warsaw-philharmonic-chamber-orchestra",
+  "name": "Warsaw Philharmonic Chamber Orchestra",
+  "spotify_artist_id": "3HoZrSziC8MiELPaOJNDqh",
+  "spotify_url": "https://open.spotify.com/artist/3HoZrSziC8MiELPaOJNDqh",
+  "source_genres": [
+    "chamber orchestra",
+    "orkiestra symfoniczna"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d797ad80380cced81853477e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d797ad80380cced81853477e",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d797ad80380cced81853477e",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

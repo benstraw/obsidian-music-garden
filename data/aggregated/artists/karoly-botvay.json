@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "karoly-botvay",
+  "name": "Karoly Botvay",
+  "play_count": 4,
+  "spotify_artist_id": "44KHTuijOnIVq2aOHWefAD",
+  "musicbrainz_artist_id": "cba87f35-11d5-46b2-84ad-fa6620a3d296",
+  "spotify_url": "https://open.spotify.com/artist/44KHTuijOnIVq2aOHWefAD",
+  "source_genres": [
+    "cellist",
+    "conductor"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d342334578bc993287d687d5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d342334578bc993287d687d5",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d342334578bc993287d687d5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

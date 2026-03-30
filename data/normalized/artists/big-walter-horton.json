@@ -1,0 +1,55 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7ApWhtmpJkPyd5WjwDdDfX",
+  "name": "Big Walter Horton",
+  "spotify_url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX",
+  "musicbrainz_artist_id": "430a451b-4e32-456d-ab29-4389c322ca45",
+  "source_genres": [
+    "2008 universal fire victim",
+    "blues",
+    "chicago blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues"
+  ],
+  "status": "matched",
+  "page_title": "Big Walter Horton",
+  "summary": "Walter Horton (April 6, 1921 – December 8, 1981), known as Big Walter (Horton) or Walter \"Shakey\" Horton, was an American blues harmonica player. A quiet, unassuming, shy man, he is remembered as one of the premier harmonica players in the history of blues. Willie Dixon once called Horton 'the best harmonica player I ever heard'.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Big_Walter_Horton",
+  "candidates": [
+    "Big Walter Horton",
+    "Big Walter Horton with Carey Bell"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Big Walter Horton",
+    "page_url": "https://en.wikipedia.org/wiki/Big_Walter_Horton",
+    "retrieved_at": "2026-03-28T10:37:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Big Walter Horton (public domain).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Walter_Horton_(public_domain).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Big_Walter_Horton_%28public_domain%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Big_Walter_Horton_%28public_domain%29.jpg",
+    "width": 300,
+    "height": 204,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Safetydave720\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Safetydave720 (page does not exist)\"\u003eDavid Goodwin\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Big Walter Horton (public domain).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Big_Walter_Horton_(public_domain).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Big_Walter_Horton_%28public_domain%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Big_Walter_Horton_%28public_domain%29.jpg",
+      "width": 300,
+      "height": 204,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Safetydave720\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Safetydave720 (page does not exist)\"\u003eDavid Goodwin\u003c/a\u003e"
+    }
+  ]
+}

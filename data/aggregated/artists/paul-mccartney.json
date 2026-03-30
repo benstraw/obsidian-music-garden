@@ -1,0 +1,25 @@
+{
+  "canonical_slug": "paul-mccartney",
+  "name": "Paul McCartney",
+  "play_count": 17,
+  "spotify_artist_id": "4STHEaNw4mPZ2tzheohgXB",
+  "spotify_url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb75f1804b28400539955f48f3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517475f1804b28400539955f48f3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17875f1804b28400539955f48f3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

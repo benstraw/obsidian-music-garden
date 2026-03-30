@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "drone",
+  "display_title": "Drone",
+  "display_name": "Drone",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "2024 drone attack on Benjamin Netanyahu's residence",
+    "Drone",
+    "Drone Racing League",
+    "Drone carrier",
+    "Drone music",
+    "Drone racing",
+    "Drone warfare",
+    "Dronedarone",
+    "Drones (Muse album)",
+    "The Drones (Australian band)"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

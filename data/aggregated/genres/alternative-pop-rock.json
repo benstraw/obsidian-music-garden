@@ -7,7 +7,8 @@
   "aliases": [
     "alternative pop rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Alternative rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_rock",
@@ -23,17 +24,287 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 53,
+    "unique_artist_count": 6,
+    "unique_release_count": 16,
+    "unique_track_count": 39,
+    "first_played_at": "2024-01-01T00:00:00.459098982Z",
+    "last_played_at": "2024-12-07T06:00:00.994432452Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 16,
+      "spotify_artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+      "musicbrainz_artist_id": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+      "spotify_url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+    },
+    {
+      "canonical_slug": "beck",
+      "name": "Beck",
+      "play_count": 14,
+      "spotify_artist_id": "3vbKDsSS70ZX9D2OcvbZmS",
+      "musicbrainz_artist_id": "309c62ba-7a22-4277-9f67-4a162526d18a",
+      "spotify_url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+    },
+    {
+      "canonical_slug": "porno-for-pyros",
+      "name": "Porno for Pyros",
+      "play_count": 9,
+      "spotify_artist_id": "58etTNn7xmsQZhjnfjpAXL",
+      "musicbrainz_artist_id": "211ee5ca-67e3-4845-8313-6e6cbab95b1b",
+      "spotify_url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+    },
+    {
+      "canonical_slug": "jane-s-addiction",
+      "name": "Jane's Addiction",
+      "play_count": 6,
+      "spotify_artist_id": "02NfyD6AlLA12crYzw5YcR",
+      "musicbrainz_artist_id": "e3434cc7-d348-491a-9dc8-325af3d9086d",
+      "spotify_url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+    },
+    {
+      "canonical_slug": "smog",
+      "name": "Smog",
+      "play_count": 5,
+      "spotify_artist_id": "2ajVJyxI4sHmTMtTA3ENko",
+      "musicbrainz_artist_id": "89af9575-4d72-4345-8eba-e9de3d36ac34",
+      "spotify_url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+    },
+    {
+      "canonical_slug": "nirvana",
+      "name": "Nirvana",
+      "play_count": 3,
+      "spotify_artist_id": "6olE6TJLqED3rqDCT0FyPh",
+      "musicbrainz_artist_id": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "spotify_url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "violent-femmes--violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "0Ojio25IPzIrw1rUmgrhrG",
+      "musicbrainz_release_id": "47db7a62-72b5-458d-9877-efd463a13f32",
+      "musicbrainz_release_group_id": "616a1d80-83d0-3234-bf71-fe3de8109f99"
+    },
+    {
+      "canonical_slug": "beck--one-foot-in-the-grave-deluxe-reissue",
+      "name": "One Foot in the Grave (Deluxe Reissue)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "spotify_album_id": "1Wevdui6vRd9olTF4ipEu8"
+    },
+    {
+      "canonical_slug": "jane-s-addiction--nothing-s-shocking",
+      "name": "Nothing's Shocking",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "jane-s-addiction",
+      "primary_artist_name": "Jane’s Addiction",
+      "spotify_album_id": "4DVBJPJyizvHfJQt5pYaCa",
+      "musicbrainz_release_id": "7367a572-95e8-43ee-83ed-d99527879b7d",
+      "musicbrainz_release_group_id": "97b7e291-8714-3e54-ac24-480be535ee8d"
+    },
+    {
+      "canonical_slug": "porno-for-pyros--porno-for-pyros",
+      "name": "Porno For Pyros",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "porno-for-pyros",
+      "primary_artist_name": "Porno for Pyros",
+      "spotify_album_id": "1wTVRmgk25jTh6VsrxCFDr",
+      "musicbrainz_release_id": "0d195f66-db2c-4aa1-b093-246a81d98c7c",
+      "musicbrainz_release_group_id": "b943dfc5-0abf-3d26-8f18-66799f53c03a"
+    },
+    {
+      "canonical_slug": "porno-for-pyros--good-god-s-urge",
+      "name": "Good God's Urge",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "porno-for-pyros",
+      "primary_artist_name": "Porno for Pyros",
+      "spotify_album_id": "6Sa5vHSMHnIm1m0LG82xBM",
+      "musicbrainz_release_id": "4852bd41-5ea0-4101-a638-8c2822ee4d3d",
+      "musicbrainz_release_group_id": "8014bc89-7534-382b-a03e-56495a91d620"
+    },
+    {
+      "canonical_slug": "violent-femmes--hallowed-ground",
+      "name": "Hallowed Ground",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "2nb3J8l5RKHOU3R4oTQP9u",
+      "musicbrainz_release_id": "9f4354a6-be06-3a93-9c80-208785c9abe3",
+      "musicbrainz_release_group_id": "ac908ab8-92fd-3545-a531-e7f7cae5bd9f"
+    },
+    {
+      "canonical_slug": "smog--knock-knock",
+      "name": "Knock Knock",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "smog",
+      "primary_artist_name": "Smog",
+      "spotify_album_id": "3XzbVl7oibSdnmpCGzCK6A",
+      "musicbrainz_release_id": "6ede6b70-7a1a-3708-a2fa-c452461b190e",
+      "musicbrainz_release_group_id": "2c85957f-710b-32b4-815a-5a917d8a0017"
+    },
+    {
+      "canonical_slug": "beck--guero",
+      "name": "Guero",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "spotify_album_id": "2EugWXUZjr78KJFqZavvZT",
+      "musicbrainz_release_id": "86116e69-87cd-489e-974f-b08b5f9a0057",
+      "musicbrainz_release_group_id": "e49e2f8a-94c0-3dcf-8ce6-9bc52a1a7867"
+    },
+    {
+      "canonical_slug": "beck--modern-guilt",
+      "name": "Modern Guilt",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "spotify_album_id": "3D278bVsRcK48RvV5yLVt8",
+      "musicbrainz_release_id": "24bacccf-c1ad-30ab-9aa5-ea4e71cf1ac3",
+      "musicbrainz_release_group_id": "0a982c29-037d-3036-af72-8b2614764f00"
+    },
+    {
+      "canonical_slug": "smog--red-apple-falls",
+      "name": "Red Apple Falls",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "smog",
+      "primary_artist_name": "Smog",
+      "spotify_album_id": "1r9V2Babk2DkP8QtHA4Xlh",
+      "musicbrainz_release_id": "0f38e75f-817b-3b50-892b-729560fa6aba",
+      "musicbrainz_release_group_id": "25d0b476-3965-35e1-b49b-09ef1beebc11"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "porno-for-pyros--bad-shit",
+      "name": "Bad Shit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "porno-for-pyros",
+      "primary_artist_name": "Porno for Pyros",
+      "release_canonical_slug": "porno-for-pyros--porno-for-pyros",
+      "release_name": "Porno For Pyros",
+      "spotify_track_id": "7maMWZoPmkdN4bH3bVpOed",
+      "spotify_url": "https://open.spotify.com/track/7maMWZoPmkdN4bH3bVpOed"
+    },
+    {
+      "canonical_slug": "violent-femmes--blister-in-the-sun",
+      "name": "Blister In The Sun",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "release_canonical_slug": "violent-femmes--violent-femmes",
+      "release_name": "Violent Femmes",
+      "spotify_track_id": "7jIAttgQTpLDoNtykIQXjH",
+      "spotify_url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "canonical_slug": "beck--e-pro",
+      "name": "E-Pro",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "release_canonical_slug": "beck--guero",
+      "release_name": "Guero",
+      "spotify_track_id": "01MBhRpvFkbeRwAp7gcF2W",
+      "spotify_url": "https://open.spotify.com/track/01MBhRpvFkbeRwAp7gcF2W"
+    },
+    {
+      "canonical_slug": "smog--ex-con",
+      "name": "Ex-Con",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "smog",
+      "primary_artist_name": "Smog",
+      "release_canonical_slug": "smog--red-apple-falls",
+      "release_name": "Red Apple Falls",
+      "spotify_track_id": "6pmDCuUMnJ0tSwQHH8kTVd",
+      "spotify_url": "https://open.spotify.com/track/6pmDCuUMnJ0tSwQHH8kTVd"
+    },
+    {
+      "canonical_slug": "beck--gamma-ray",
+      "name": "Gamma Ray",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "release_canonical_slug": "beck--modern-guilt",
+      "release_name": "Modern Guilt",
+      "spotify_track_id": "2iWfZFAF8BCi0CY4NyuP8D",
+      "spotify_url": "https://open.spotify.com/track/2iWfZFAF8BCi0CY4NyuP8D"
+    },
+    {
+      "canonical_slug": "violent-femmes--gimme-the-car-1983-rough-trade-uk-single",
+      "name": "Gimme The Car - 1983 Rough Trade UK Single",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "release_canonical_slug": "violent-femmes--violent-femmes",
+      "release_name": "Violent Femmes",
+      "spotify_track_id": "0qRA1swyb72C7RzqN2BIBD",
+      "spotify_url": "https://open.spotify.com/track/0qRA1swyb72C7RzqN2BIBD"
+    },
+    {
+      "canonical_slug": "violent-femmes--gone-daddy-gone",
+      "name": "Gone Daddy Gone",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "release_canonical_slug": "violent-femmes--violent-femmes",
+      "release_name": "Violent Femmes",
+      "spotify_track_id": "7mVoBnU3mxV5Q6n4DmOv6K",
+      "spotify_url": "https://open.spotify.com/track/7mVoBnU3mxV5Q6n4DmOv6K"
+    },
+    {
+      "canonical_slug": "porno-for-pyros--good-god-s-urge",
+      "name": "Good God's: / Urge!",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "porno-for-pyros",
+      "primary_artist_name": "Porno for Pyros",
+      "release_canonical_slug": "porno-for-pyros--good-god-s-urge",
+      "release_name": "Good God's Urge",
+      "spotify_track_id": "0FGAiVitfWw3OOi7MFELmW",
+      "spotify_url": "https://open.spotify.com/track/0FGAiVitfWw3OOi7MFELmW"
+    },
+    {
+      "canonical_slug": "smog--held",
+      "name": "Held",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "smog",
+      "primary_artist_name": "Smog",
+      "release_canonical_slug": "smog--knock-knock",
+      "release_name": "Knock Knock",
+      "spotify_track_id": "0fV6fXxMkr27BfHxR77qIt",
+      "spotify_url": "https://open.spotify.com/track/0fV6fXxMkr27BfHxR77qIt"
+    },
+    {
+      "canonical_slug": "violent-femmes--never-tell",
+      "name": "Never Tell",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "release_canonical_slug": "violent-femmes--hallowed-ground",
+      "release_name": "Hallowed Ground",
+      "spotify_track_id": "1OdicOW5M1kZxlT5tE3nNe",
+      "spotify_url": "https://open.spotify.com/track/1OdicOW5M1kZxlT5tE3nNe"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -43,6 +314,13 @@
       "retrieved_at": "2026-03-27T09:29:39Z",
       "updated_at": "2026-03-27",
       "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2024-12-07T06:00:00.994432452Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
   "last_updated": "2026-03-27"

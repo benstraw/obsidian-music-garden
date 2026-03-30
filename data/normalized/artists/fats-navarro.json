@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0w2MvntXz3P5Ko3oslGJoG",
+  "name": "Fats Navarro",
+  "spotify_url": "https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG",
+  "musicbrainz_artist_id": "d2a135f4-bb6b-4fb6-a09b-115e740b7fe0",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Fats Navarro",
+  "summary": "Theodore \"Fats\" Navarro was an American jazz trumpet player and a pioneer of the bebop style of jazz improvisation in the 1940s. A native of Key West, Florida, he toured with big bands before achieving fame as a bebop trumpeter in New York. Following a series of studio sessions with leading bebop figures including Tadd Dameron, Bud Powell, and Kenny Clarke, he became ill with tuberculosis and died at the age of 26. Despite the short duration of his career, he had a strong stylistic influence on trumpet players who rose to fame in later decades, including Miles Davis, Clifford Brown and Lee Morgan.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Fats_Navarro",
+  "candidates": [
+    "Fats Navarro"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Fats Navarro",
+    "page_url": "https://en.wikipedia.org/wiki/Fats_Navarro",
+    "retrieved_at": "2026-03-28T10:38:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fats Navarro, Charlie Rouse, Ernie Henry, Tadd Dameron (Gottlieb 06541).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fats_Navarro,_Charlie_Rouse,_Ernie_Henry,_Tadd_Dameron_(Gottlieb_06541).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fats_Navarro%2C_Charlie_Rouse%2C_Ernie_Henry%2C_Tadd_Dameron_%28Gottlieb_06541%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fats_Navarro%2C_Charlie_Rouse%2C_Ernie_Henry%2C_Tadd_Dameron_%28Gottlieb_06541%29.jpg",
+    "width": 912,
+    "height": 952,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fats Navarro, Charlie Rouse, Ernie Henry, Tadd Dameron (Gottlieb 06541).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fats_Navarro,_Charlie_Rouse,_Ernie_Henry,_Tadd_Dameron_(Gottlieb_06541).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fats_Navarro%2C_Charlie_Rouse%2C_Ernie_Henry%2C_Tadd_Dameron_%28Gottlieb_06541%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Fats_Navarro%2C_Charlie_Rouse%2C_Ernie_Henry%2C_Tadd_Dameron_%28Gottlieb_06541%29.jpg",
+      "width": 912,
+      "height": 952,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fats Navarro (Gottlieb 06551).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fats_Navarro_(Gottlieb_06551).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Fats_Navarro_%28Gottlieb_06551%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Fats_Navarro_%28Gottlieb_06551%29.jpg",
+      "width": 856,
+      "height": 928,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

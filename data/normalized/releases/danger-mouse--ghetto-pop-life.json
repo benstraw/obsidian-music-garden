@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "3EXY7aB2vwCmZOUr8HB8xI",
   "name": "Ghetto Pop Life",
   "primary_artist_name": "Danger Mouse",
-  "primary_artist_canonical_slug": "danger-mouse"
+  "primary_artist_canonical_slug": "danger-mouse",
+  "musicbrainz_release_id": "b37dc39f-09c0-4ce4-9932-76549ef2c20b",
+  "musicbrainz_release_group_id": "8622abb5-ab85-46e3-bc66-044a455cb738"
 }

@@ -1,0 +1,46 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3MizzvztoimXSPJc716p8F",
+  "name": "Ana-Marija Markovina",
+  "spotify_url": "https://open.spotify.com/artist/3MizzvztoimXSPJc716p8F",
+  "musicbrainz_artist_id": "308e5834-5506-4b75-a7c3-3320b38b7b5c",
+  "status": "matched",
+  "page_title": "Ana-Marija Markovina",
+  "summary": "Ana-Marija Markovina is a Croatian classical pianist. She lives in Cologne with her husband, the psychologist Helmut Reuter, and their daughter.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ana-Marija_Markovina",
+  "candidates": [
+    "Ana-Marija Markovina"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ana-Marija Markovina",
+    "page_url": "https://en.wikipedia.org/wiki/Ana-Marija_Markovina",
+    "retrieved_at": "2026-03-28T10:37:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ana Marija Markovina.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ana_Marija_Markovina.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ana_Marija_Markovina.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ana_Marija_Markovina.jpg/960px-Ana_Marija_Markovina.jpg",
+    "width": 1333,
+    "height": 2000,
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Fotograf: Harald Hoffmann"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ana Marija Markovina.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ana_Marija_Markovina.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ana_Marija_Markovina.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ana_Marija_Markovina.jpg/960px-Ana_Marija_Markovina.jpg",
+      "width": 1333,
+      "height": 2000,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "Fotograf: Harald Hoffmann"
+    }
+  ]
+}

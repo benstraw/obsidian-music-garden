@@ -1,0 +1,62 @@
+{
+  "canonical_slug": "cornet-players",
+  "display_title": "Cornet Players",
+  "display_name": "Cornet Players",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "The Cornet Player Who Betrayed Ireland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Cornet_Player_Who_Betrayed_Ireland",
+  "summary": "The Cornet Player Who Betrayed Ireland is a compilation of previously uncollected stories by Frank O'Connor from 1981. The stories were selected by O'Connor's widow, Harriet O'Donovan Sheehy, and the Cork writer David Marcus. The collection includes:War\nThere is a Lone House\nThe Miracle \nMay Night\nThe Flowering Trees\nThe Storyteller\nMac's Masterpiece\nThe Climber\nHughie\nLast Post\nThe Cornet Player Who Betrayed Ireland\nUncle Pat\nThe Adventuress\nThe Landlady\nBaptismal\nWhat Girls Are For\nAdventure\nA Case of Conscience\nThe Call\nGhosts\nThe Grip of the Geraghtys",
+  "candidates": [
+    "The Cornet Player Who Betrayed Ireland"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Cornet Player Who Betrayed Ireland",
+    "page_url": "https://en.wikipedia.org/wiki/The_Cornet_Player_Who_Betrayed_Ireland",
+    "retrieved_at": "2026-03-28T15:54:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:The Cornet Player Who Betrayed Ireland.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Cornet Player Who Betrayed Ireland.jpg"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--cornet-players.json",
+      "url": "https://en.wikipedia.org/wiki/The_Cornet_Player_Who_Betrayed_Ireland",
+      "retrieved_at": "2026-03-28T15:54:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--cornet-players.json",
+      "url": "https://en.wikipedia.org/wiki/The_Cornet_Player_Who_Betrayed_Ireland",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

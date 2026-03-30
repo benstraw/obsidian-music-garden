@@ -1,0 +1,106 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5yzE49FicYiSxN61oaxkNn",
+  "name": "Judy Collins",
+  "spotify_url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn",
+  "musicbrainz_artist_id": "06f9c474-0547-40fc-be3d-1ae6ce38abd7",
+  "source_genres": [
+    "2008 universal fire victim",
+    "folk"
+  ],
+  "canonical_genre_slugs": [
+    "folk"
+  ],
+  "status": "matched",
+  "page_title": "Judy Collins",
+  "summary": "Judith Marjorie Collins is an American singer-songwriter and musician with a career spanning nearly seven decades. An Academy Award-nominated documentary director and a Grammy Award-winning recording artist, she is known for her eclectic tastes in the material she records, for her social activism, and for the clarity of her voice. Her discography consists of 36 studio albums, nine live albums, numerous compilation albums, four holiday albums, and 21 singles.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Judy_Collins",
+  "candidates": [
+    "Jay Collins",
+    "Judy Callingham",
+    "Judy Collins",
+    "Judy Collins 3",
+    "Judy Collins Sings Dylan... Just Like a Woman",
+    "Judy Collins Sings Lennon and McCartney",
+    "Judy Collins Sings Leonard Cohen: Democracy",
+    "Judy Collins discography",
+    "Judy Collins' Fifth Album",
+    "The Judy Collins Concert"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Judy Collins",
+    "page_url": "https://en.wikipedia.org/wiki/Judy_Collins",
+    "retrieved_at": "2026-03-28T10:40:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:JodyCollins-Oct1965.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:JodyCollins-Oct1965.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/JodyCollins-Oct1965.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/JodyCollins-Oct1965.jpg",
+    "width": 933,
+    "height": 1262,
+    "license": "Public domain",
+    "author": "Elektra records"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JodyCollins-Oct1965.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JodyCollins-Oct1965.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/JodyCollins-Oct1965.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/JodyCollins-Oct1965.jpg",
+      "width": 933,
+      "height": 1262,
+      "license": "Public domain",
+      "author": "Elektra records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Judy Collins, prior to a performance at the Boettcher Concert Hall, one of the venues at the Denver Performing Arts Center in downtown Denver, Colorado.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Judy_Collins,_prior_to_a_performance_at_the_Boettcher_Concert_Hall,_one_of_the_venues_at_the_Denver_Performing_Arts_Center_in_downtown_Denver,_Colorado.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Judy_Collins%2C_prior_to_a_performance_at_the_Boettcher_Concert_Hall%2C_one_of_the_venues_at_the_Denver_Performing_Arts_Center_in_downtown_Denver%2C_Colorado.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Judy_Collins%2C_prior_to_a_performance_at_the_Boettcher_Concert_Hall%2C_one_of_the_venues_at_the_Denver_Performing_Arts_Center_in_downtown_Denver%2C_Colorado.jpg/960px-Judy_Collins%2C_prior_to_a_performance_at_the_Boettcher_Concert_Hall%2C_one_of_the_venues_at_the_Denver_Performing_Arts_Center_in_downtown_Denver%2C_Colorado.jpg",
+      "width": 2902,
+      "height": 2177,
+      "license": "Public domain",
+      "author": "Carol M. Highsmith"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Judy Collins.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Judy_Collins.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Judy_Collins.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Judy_Collins.jpg/960px-Judy_Collins.jpg",
+      "width": 1366,
+      "height": 2045,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36277035@N06\"\u003eKingkongphoto \u0026amp; www.celebrity-photos.com\u003c/a\u003e from Laurel  Maryland, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Judy Collins Hootenanny 1963.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Judy_Collins_Hootenanny_1963.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Judy_Collins_Hootenanny_1963.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Judy_Collins_Hootenanny_1963.jpg",
+      "width": 665,
+      "height": 870,
+      "license": "Public domain",
+      "author": "ABC Television"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Judy Collins by Bryan Ledgard 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Judy_Collins_by_Bryan_Ledgard_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Judy_Collins_by_Bryan_Ledgard_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Judy_Collins_by_Bryan_Ledgard_1.jpg/960px-Judy_Collins_by_Bryan_Ledgard_1.jpg",
+      "width": 1371,
+      "height": 2048,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/97355030@N00\"\u003eBryan Ledgard\u003c/a\u003e from Yorkshire, UK"
+    }
+  ]
+}

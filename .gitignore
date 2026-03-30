@@ -10,3 +10,4 @@ data/plays.json.bak
 data/raw/spotify/
 data/legacy-artist-slugs.json
 data/legacy-genre-slugs.json
+data/import-manifests/

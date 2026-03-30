@@ -1,0 +1,45 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5RV4lNtnUR6H98T11xyg3V",
+  "name": "Killdozer",
+  "spotify_url": "https://open.spotify.com/artist/5RV4lNtnUR6H98T11xyg3V",
+  "musicbrainz_artist_id": "6a2f72b1-d660-409e-b190-6470157d3a38",
+  "source_genres": [
+    "alternative rock",
+    "grunge",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Marvin Heemeyer",
+  "summary": "Marvin John Heemeyer was an American USAF veteran, welder and automobile repair shop owner who demolished numerous buildings, in an act of revenge, with a modified bulldozer in Granby, Colorado, in June 2004. Heemeyer's machine was posthumously labeled by some members of the media and later adopted by some of Heemeyer's supporters as the \"Killdozer\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Marvin_Heemeyer",
+  "candidates": [
+    "Killdeer",
+    "Killdeer, North Dakota",
+    "Killdozer",
+    "Killdozer (band)",
+    "Killdozer (disambiguation)",
+    "Killdozer (film)",
+    "Killdozer! (novella)",
+    "Killdozers",
+    "Killpower",
+    "Phoebe Killdeer"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Marvin Heemeyer",
+    "page_url": "https://en.wikipedia.org/wiki/Marvin_Heemeyer",
+    "retrieved_at": "2026-03-28T10:40:26Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/23/Marvin_Heemeyer.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/2/23/Marvin_Heemeyer.jpg",
+    "width": 240,
+    "height": 237
+  }
+}

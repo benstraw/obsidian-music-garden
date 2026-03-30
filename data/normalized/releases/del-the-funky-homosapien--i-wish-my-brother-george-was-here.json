@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0AK7woKmcPwiCyv3SDiKor",
   "name": "I Wish My Brother George Was Here",
-  "primary_artist_name": "Del The Funky Homosapien",
-  "primary_artist_canonical_slug": "del-the-funky-homosapien"
+  "primary_artist_name": "Del the Funky Homosapien",
+  "primary_artist_canonical_slug": "del-the-funky-homosapien",
+  "musicbrainz_release_id": "5c4b42bf-3fd8-43eb-bb64-ecb4259b68fe",
+  "musicbrainz_release_group_id": "719890ae-5409-3cdc-9f7d-2550a8dbae8b"
 }

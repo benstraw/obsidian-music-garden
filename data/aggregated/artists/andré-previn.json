@@ -1,0 +1,126 @@
+{
+  "canonical_slug": "andré-previn",
+  "name": "André Previn",
+  "spotify_artist_id": "2tfWguHr2nj4e8KXLKciVq",
+  "musicbrainz_artist_id": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+  "spotify_url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq",
+  "genres": [
+    "classical",
+    "jazz"
+  ],
+  "source_genres": [
+    "anton rubinstein",
+    "classical",
+    "composer",
+    "conductor",
+    "fantasy for two pianos in f minor",
+    "jazz",
+    "op. 73",
+    "pianist"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8680bc690ee5747b08f6a9a7566f000cce6e220b",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/a1b38c0bd9d286b9d159444c0588869d949372fb",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/c8fa94aa70645350ddf968a95339c544188be092",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/321bb2d38ee220783f12fcff088d948351cd2c95",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "André Previn",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Previn",
+  "summary": "André George Previn was a German and American conductor, composer, and pianist. His career had three major genres: Hollywood films, jazz, and classical music. In each he achieved success, and the latter two were part of his life until the end. In movies, he arranged and composed music. In jazz, he was a celebrated pianist, accompanist to singers, and interpreter of songs from the \"Great American Songbook\". In classical music, he also performed as a pianist but gained television fame as a conductor, and during his last thirty years created his legacy as a composer.",
+  "candidates": [
+    "André Levinson",
+    "André Previn",
+    "André Previn Plays Songs by Harold Arlen",
+    "André Previn Plays Songs by Jerome Kern",
+    "André Previn Plays Songs by Vernon Duke",
+    "André Previn and Friends Play Show Boat",
+    "André Previn and J. J. Johnson",
+    "André Previn discography",
+    "André Prévot-Valéri",
+    "André Reinholdsson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "André Previn",
+    "page_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Previn",
+    "retrieved_at": "2026-03-28T10:37:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Andre Previn (on In Tune, BBC Radio, 2012).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Andre_Previn_(on_In_Tune,_BBC_Radio,_2012).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andre_Previn_%28on_In_Tune%2C_BBC_Radio%2C_2012%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andre_Previn_%28on_In_Tune%2C_BBC_Radio%2C_2012%29.jpg/960px-Andre_Previn_%28on_In_Tune%2C_BBC_Radio%2C_2012%29.jpg",
+    "width": 1160,
+    "height": 1400,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bowbrick/\"\u003eSteve Bowbrick\u003c/a\u003e (cropped - lossless - by \u003ca href=\"//commons.wikimedia.org/wiki/User:HaeB\" title=\"User:HaeB\"\u003eHaeB\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Andre Previn (on In Tune, BBC Radio, 2012).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andre_Previn_(on_In_Tune,_BBC_Radio,_2012).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andre_Previn_%28on_In_Tune%2C_BBC_Radio%2C_2012%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andre_Previn_%28on_In_Tune%2C_BBC_Radio%2C_2012%29.jpg/960px-Andre_Previn_%28on_In_Tune%2C_BBC_Radio%2C_2012%29.jpg",
+      "width": 1160,
+      "height": 1400,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bowbrick/\"\u003eSteve Bowbrick\u003c/a\u003e (cropped - lossless - by \u003ca href=\"//commons.wikimedia.org/wiki/User:HaeB\" title=\"User:HaeB\"\u003eHaeB\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:André Previn.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Previn.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Andr%C3%A9_Previn.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Andr%C3%A9_Previn.jpg/960px-Andr%C3%A9_Previn.jpg",
+      "width": 1385,
+      "height": 1847,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Bert_Verhoeff\" title=\"Category:Bert Verhoeff\"\u003eBert Verhoeff\u003c/a\u003e for \u003ca href=\"//commons.wikimedia.org/wiki/Category:Anefo\" title=\"Category:Anefo\"\u003eAnefo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

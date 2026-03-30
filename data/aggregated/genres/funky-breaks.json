@@ -1,0 +1,47 @@
+{
+  "canonical_slug": "funky-breaks",
+  "display_title": "Funky Breaks",
+  "display_name": "Funky Breaks",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Breakbeat",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Breakbeat",
+  "summary": "Breakbeat is a broad type of electronic music that uses drum breaks, often sampled from early recordings of funk, jazz, and R\u0026B. Breakbeats have been used in styles such as Florida breaks, hip-hop, jungle, drum and bass, big beat, breakbeat hardcore, and UK garage styles.",
+  "candidates": [
+    "Funky Freaky Freaks",
+    "Funky breaks",
+    "Funny Break (One Is Enough)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Breakbeat",
+    "page_url": "https://en.wikipedia.org/wiki/Breakbeat",
+    "retrieved_at": "2026-03-28T15:56:13Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--funky-breaks.json",
+      "url": "https://en.wikipedia.org/wiki/Breakbeat",
+      "retrieved_at": "2026-03-28T15:56:13Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

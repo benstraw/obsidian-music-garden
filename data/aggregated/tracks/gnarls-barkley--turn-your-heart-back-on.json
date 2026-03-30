@@ -1,11 +1,15 @@
 {
   "canonical_slug": "gnarls-barkley--turn-your-heart-back-on",
   "name": "Turn Your Heart Back On",
+  "play_count": 1,
   "primary_artist_canonical_slug": "gnarls-barkley",
   "primary_artist_name": "Gnarls Barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_canonical_slug": "gnarls-barkley--atlanta",
   "release_name": "Atlanta",
   "spotify_track_id": "4713XrbD4hGM1YYQkqRbZM",
-  "spotify_url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM"
 }

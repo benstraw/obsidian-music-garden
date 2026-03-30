@@ -1,0 +1,80 @@
+{
+  "source": "spotify",
+  "source_artist_id": "253GMpCNwx1TJtASNAeDoP",
+  "name": "Kurt Rosenwinkel",
+  "spotify_url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP",
+  "musicbrainz_artist_id": "fc43556b-9657-4680-8809-e50295380f98",
+  "source_genres": [
+    "contemporary jazz",
+    "jazz",
+    "jazz fusion",
+    "post-bop"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "jazz-fusion"
+  ],
+  "status": "matched",
+  "page_title": "Kurt Rosenwinkel",
+  "summary": "Kurt Rosenwinkel is an American jazz guitarist, composer, bandleader, producer, educator, keyboardist and record label owner.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Kurt_Rosenwinkel",
+  "candidates": [
+    "Kurt Rosenwinkel"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Kurt Rosenwinkel",
+    "page_url": "https://en.wikipedia.org/wiki/Kurt_Rosenwinkel",
+    "retrieved_at": "2026-03-28T10:40:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jeff 'Tain' Watts Trio 25 november 2018 BIM Amsterdam - Kurt Rosenwinkel (51430761926).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_(51430761926).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_%2851430761926%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_%2851430761926%29.jpg/960px-Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_%2851430761926%29.jpg",
+    "width": 4049,
+    "height": 3829,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/146907430@N03\"\u003eDirk Neven\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jeff 'Tain' Watts Trio 25 november 2018 BIM Amsterdam - Kurt Rosenwinkel (51430761926).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_(51430761926).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_%2851430761926%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_%2851430761926%29.jpg/960px-Jeff_%27Tain%27_Watts_Trio_25_november_2018_BIM_Amsterdam_-_Kurt_Rosenwinkel_%2851430761926%29.jpg",
+      "width": 4049,
+      "height": 3829,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/146907430@N03\"\u003eDirk Neven\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kurt-rowenwinkel 2016.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kurt-rowenwinkel_2016.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kurt-rowenwinkel_2016.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kurt-rowenwinkel_2016.jpg",
+      "width": 500,
+      "height": 333,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hreinn_Gudlaugsson\" title=\"User:Hreinn Gudlaugsson\"\u003eHreinn Gudlaugsson\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kurt Rosenwinkel peforming in April 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kurt_Rosenwinkel_peforming_in_April_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kurt_Rosenwinkel_peforming_in_April_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kurt_Rosenwinkel_peforming_in_April_2010.jpg",
+      "width": 686,
+      "height": 1024,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Peter Stračina"
+    }
+  ]
+}

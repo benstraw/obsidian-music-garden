@@ -1,0 +1,61 @@
+{
+  "canonical_slug": "bobby-timmons",
+  "name": "Bobby Timmons",
+  "play_count": 19,
+  "spotify_artist_id": "0xRqtLGIVSzXM9yg2wFMLC",
+  "musicbrainz_artist_id": "ef05197e-aacb-4dbf-9cc4-2a9abee82f03",
+  "spotify_url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb724a6d272499aaf94f8bced",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b724a6d272499aaf94f8bced",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b724a6d272499aaf94f8bced",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Bobby Timmons",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bobby_Timmons",
+  "summary": "Robert Henry Timmons was an American jazz pianist and composer. He was a sideman in Art Blakey's Jazz Messengers for two periods, between which he was part of Cannonball Adderley's band. Several of Timmons' compositions written when part of these bands – including \"Moanin'\", \"Dat Dere\", and \"This Here\" – enjoyed commercial success and brought him more attention. In the early and mid-1960s he led a series of piano trios that toured and recorded extensively.",
+  "candidates": [
+    "Bob Timmons",
+    "Bobby Emmons",
+    "Bobby Simmons",
+    "Bobby Simmons Jr.",
+    "Bobby Timmons"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bobby Timmons",
+    "page_url": "https://en.wikipedia.org/wiki/Bobby_Timmons",
+    "retrieved_at": "2026-03-28T10:37:39Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bobby Timmons.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bobby Timmons.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

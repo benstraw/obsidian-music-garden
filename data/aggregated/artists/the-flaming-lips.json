@@ -1,13 +1,35 @@
 {
   "canonical_slug": "the-flaming-lips",
   "name": "The Flaming Lips",
+  "play_count": 1,
   "spotify_artist_id": "16eRpMNXSQ15wuJoeqguaB",
+  "musicbrainz_artist_id": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
   "spotify_url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB",
   "genres": [
-    "neo-psychedelic"
+    "alternative-rock",
+    "dream-pop",
+    "electronic",
+    "experimental-rock",
+    "indie-electronic",
+    "indie-rock",
+    "neo-psychedelic",
+    "rock"
   ],
   "source_genres": [
-    "neo-psychedelic"
+    "alternative rock",
+    "downtempo",
+    "dream pop",
+    "electronic",
+    "experimental rock",
+    "indie rock",
+    "indietronica",
+    "neo-psychedelia",
+    "neo-psychedelic",
+    "progressive pop",
+    "psychedelic pop",
+    "rock",
+    "space rock revival",
+    "trip hop"
   ],
   "images": [
     {
@@ -121,5 +143,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kiddo27\" title=\"User:Kiddo27\"\u003eKiddo27\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

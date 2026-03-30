@@ -1,7 +1,9 @@
 {
   "canonical_slug": "wu-tang-clan",
   "name": "Wu-Tang Clan",
+  "play_count": 20,
   "spotify_artist_id": "34EP7KEpOjXcM2TCat1ISk",
+  "musicbrainz_artist_id": "0febdcf7-4e1f-4661-9493-b40427de2c13",
   "spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk",
   "genres": [
     "east-coast-hip-hop",
@@ -117,5 +119,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

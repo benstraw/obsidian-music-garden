@@ -1,11 +1,15 @@
 {
   "canonical_slug": "dj-king-assassin--livin-the-thug-life",
   "name": "Livin the Thug Life",
+  "play_count": 2,
   "primary_artist_canonical_slug": "dj-king-assassin",
   "primary_artist_name": "DJ King Assassin",
+  "additional_artist_slugs": [
+    "eternal-thug-life",
+    "makaveli-assassin"
+  ],
   "release_canonical_slug": "dj-king-assassin--thugz-4-life-remastered",
   "release_name": "Thugz 4 Life (Remastered)",
   "spotify_track_id": "3SyCUl35q43Rvqfz8kCH2Q",
-  "spotify_url": "https://open.spotify.com/track/3SyCUl35q43Rvqfz8kCH2Q",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3SyCUl35q43Rvqfz8kCH2Q"
 }

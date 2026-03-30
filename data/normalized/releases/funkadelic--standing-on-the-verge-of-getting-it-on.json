@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2o1DC3i9barPdh8EcWEnAf",
   "name": "Standing On The Verge Of Getting It On",
   "primary_artist_name": "Funkadelic",
-  "primary_artist_canonical_slug": "funkadelic"
+  "primary_artist_canonical_slug": "funkadelic",
+  "musicbrainz_release_id": "63e9dae2-7f43-400d-b1a9-96639392475f",
+  "musicbrainz_release_group_id": "2aca4ebe-fd78-3222-930d-b521a82e3e51"
 }

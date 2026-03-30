@@ -1,0 +1,67 @@
+{
+  "canonical_slug": "sonny-boy-williamson-ii",
+  "name": "Sonny Boy Williamson II",
+  "play_count": 6,
+  "spotify_artist_id": "69VgCcXFV59QuQWEXSTxfK",
+  "spotify_url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/55acc5ed6aabd475e3b237a873d1d53fd91df658",
+      "height": 698,
+      "width": 607
+    },
+    {
+      "url": "https://i.scdn.co/image/5a4ec92c3ad464668a56aa40b6974d0721fe792b",
+      "height": 230,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/5e120ca5b81f579a3ed6d8ec8cfbf840ddb6d811",
+      "height": 74,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Sonny Boy Williamson II",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II",
+  "summary": "Alex or Aleck Miller, known later in his career as Sonny Boy Williamson, was an American blues harmonica player, singer and songwriter. He was an early and influential blues harp stylist who recorded successfully in the 1950s and 1960s. Miller used various names, including Rice Miller and Little Boy Blue, before calling himself Sonny Boy Williamson, which was also the name of a popular Chicago blues singer and harmonica player. To distinguish the two, Miller has been referred to as Sonny Boy Williamson II.",
+  "candidates": [
+    "Sonny Boy Williamson (disambiguation)",
+    "Sonny Boy Williamson I",
+    "Sonny Boy Williamson II",
+    "Sonny Boy Williamson and the Yardbirds"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sonny Boy Williamson II",
+    "page_url": "https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II",
+    "retrieved_at": "2026-03-28T10:42:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sonny Boy Williamson II montaje.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Boy_Williamson_II_montaje.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+    "width": 273,
+    "height": 423,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Roman_Medell%C3%ADn\" title=\"User:Roman Medellín\"\u003eRoman Medellín\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Boy Williamson II montaje.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Boy_Williamson_II_montaje.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sonny_Boy_Williamson_II_montaje.jpg",
+      "width": 273,
+      "height": 423,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Roman_Medell%C3%ADn\" title=\"User:Roman Medellín\"\u003eRoman Medellín\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

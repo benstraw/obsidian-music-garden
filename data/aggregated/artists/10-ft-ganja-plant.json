@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "10-ft-ganja-plant",
+  "name": "10 Ft. Ganja Plant",
+  "play_count": 14,
+  "spotify_artist_id": "0lsuCH8qG9UM8BihdL1Vsc",
+  "musicbrainz_artist_id": "d818f471-6f94-4758-8ef6-55c45f29c328",
+  "spotify_url": "https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc",
+  "genres": [
+    "reggae"
+  ],
+  "source_genres": [
+    "reggae"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d174be8eb73dcb5280aa9894",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d174be8eb73dcb5280aa9894",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d174be8eb73dcb5280aa9894",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "10 Foot Ganja Plant",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/10_Foot_Ganja_Plant",
+  "summary": "10 Ft. Ganja Plant is a roots/dub Reggae group primarily based in Boston, Massachusetts.",
+  "candidates": [
+    "10 ft. Ganja Plant"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "10 Foot Ganja Plant",
+    "page_url": "https://en.wikipedia.org/wiki/10_Foot_Ganja_Plant",
+    "retrieved_at": "2026-03-28T10:36:50Z"
+  },
+  "last_updated": "2026-03-28"
+}

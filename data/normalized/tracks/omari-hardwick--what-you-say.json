@@ -4,6 +4,10 @@
   "name": "What You Say",
   "primary_artist_name": "Omari Hardwick",
   "primary_artist_canonical_slug": "omari-hardwick",
+  "additional_artist_slugs": [
+    "raphael-saadiq",
+    "big-daddy-kane"
+  ],
   "release_name": "BuffalOes \u0026 Butterflies",
   "release_canonical_slug": "omari-hardwick--buffaloes-and-butterflies",
   "spotify_url": "https://open.spotify.com/track/4ix8gioHd82QWwW4qy8pdl"

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "13UwfQZqne7ZQIkUZsAPLg",
   "name": "The Tree of Forgiveness",
   "primary_artist_name": "John Prine",
-  "primary_artist_canonical_slug": "john-prine"
+  "primary_artist_canonical_slug": "john-prine",
+  "musicbrainz_release_id": "7bf1415b-bf11-4c0d-99be-c2c06737be5f",
+  "musicbrainz_release_group_id": "c64b3b15-d8ff-4784-9818-077a9cf528d9"
 }

@@ -1,0 +1,66 @@
+{
+  "canonical_slug": "run-d-m-c",
+  "name": "Run–D.M.C.",
+  "play_count": 5,
+  "spotify_artist_id": "3CQIn7N5CuRDP8wEI7FiDA",
+  "musicbrainz_artist_id": "5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
+  "spotify_url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA",
+  "genres": [
+    "hip-hop",
+    "rap-rock"
+  ],
+  "source_genres": [
+    "east coast rap",
+    "hip hop",
+    "hip-hop",
+    "old school rap",
+    "rap rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1bf54468fa9c772af8f514a20a99631fd35b2dbc",
+      "height": 677,
+      "width": 999
+    },
+    {
+      "url": "https://i.scdn.co/image/bbdeb7e5e0b12a8896daeeddfbf685a5ebd66271",
+      "height": 434,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/47761134242154d90ca8814735a68c29887777d8",
+      "height": 135,
+      "width": 199
+    },
+    {
+      "url": "https://i.scdn.co/image/54488806e846af73f66a644a8f939fd138f34001",
+      "height": 43,
+      "width": 63
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Run-DMC",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Run-DMC",
+  "summary": "Run-DMC was an American hip-hop group formed in Hollis, Queens, New York City in 1983 by Joseph Simmons, Darryl McDaniels, and Jason Mizell. Run-DMC is regarded as one of the most influential acts in the history of hip-hop culture and especially one of the most famous hip-hop acts of the 1980s. Along with Beastie Boys, LL Cool J, DJ Jazzy Jeff \u0026 the Fresh Prince, and Public Enemy, the group pioneered new-school hip-hop music and helped usher in golden age hip-hop. The group was among the first to highlight the importance of the MC and DJ relationship.",
+  "candidates": [
+    "Run Dem Crew",
+    "Run-T.M.C.",
+    "Run–D.M.C.",
+    "Run–D.M.C. (album)",
+    "Run–D.M.C. discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Run-DMC",
+    "page_url": "https://en.wikipedia.org/wiki/Run-DMC",
+    "retrieved_at": "2026-03-28T10:42:24Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Run_DMC_%28cropped%29.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Run_DMC_%28cropped%29.png/330px-Run_DMC_%28cropped%29.png",
+    "width": 3072,
+    "height": 1813
+  },
+  "last_updated": "2026-03-28"
+}

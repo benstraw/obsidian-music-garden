@@ -1,0 +1,95 @@
+{
+  "canonical_slug": "jazz-poetry",
+  "display_title": "Jazz Poetry",
+  "display_name": "Jazz Poetry",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Jazz poetry",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_poetry",
+  "summary": "Jazz poetry is poetry that \"demonstrates jazz-like rhythm or the feel of improvisation\" or poetry that takes jazz music, musicians, or the jazz milieu as its subject, and is designed to be performed. Some critics consider it a distinct genre though others consider the term to be merely descriptive.",
+  "candidates": [
+    "A Jazz Portrait of Frank Sinatra",
+    "Jazz Poet",
+    "Jazz Portraits: Mingus in Wonderland",
+    "Jazz poet",
+    "Jazz poetry"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jazz poetry",
+    "page_url": "https://en.wikipedia.org/wiki/Jazz_poetry",
+    "retrieved_at": "2026-03-28T15:57:39Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Quill and ink.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Quill_and_ink.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Quill_and_ink.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/960px-Quill_and_ink.svg.png",
+    "width": 152,
+    "height": 152,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/ca:User:Ebrenc\" class=\"extiw\" title=\"w:ca:User:Ebrenc\"\u003eEbrenc\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/ca:\" class=\"extiw\" title=\"w:ca:\"\u003eCatalan Wikipedia\u003c/a\u003e",
+    "attribution_text": "Joan M. Borràs (\u003ca href=\"https://ca.wikipedia.org/wiki/Usuari:Ebrenc\" class=\"extiw\" title=\"ca:Usuari:Ebrenc\"\u003eebrenc\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Quill and ink.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Quill_and_ink.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Quill_and_ink.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Quill_and_ink.svg/960px-Quill_and_ink.svg.png",
+      "width": 152,
+      "height": 152,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/ca:User:Ebrenc\" class=\"extiw\" title=\"w:ca:User:Ebrenc\"\u003eEbrenc\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/ca:\" class=\"extiw\" title=\"w:ca:\"\u003eCatalan Wikipedia\u003c/a\u003e",
+      "attribution_text": "Joan M. Borràs (\u003ca href=\"https://ca.wikipedia.org/wiki/Usuari:Ebrenc\" class=\"extiw\" title=\"ca:Usuari:Ebrenc\"\u003eebrenc\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazz-poetry.json",
+      "url": "https://en.wikipedia.org/wiki/Jazz_poetry",
+      "retrieved_at": "2026-03-28T15:57:39Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--jazz-poetry.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Quill_and_ink.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

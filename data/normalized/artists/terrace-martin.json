@@ -1,0 +1,62 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7MNEVabc4cs19CbzAFZmXz",
+  "name": "Terrace Martin",
+  "spotify_url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz",
+  "musicbrainz_artist_id": "47d06156-05af-420e-8835-be50353a5d52",
+  "source_genres": [
+    "hip hop",
+    "instrumental hip hop",
+    "jazz rap"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop",
+    "jazz-rap"
+  ],
+  "status": "matched",
+  "page_title": "Terrace Martin",
+  "summary": "Terrace Jamahl Martin is an American musician, rapper, singer, and record producer. He is perhaps best known for producing records for several prominent artists in the music industry, including Kendrick Lamar, Snoop Dogg, the Game, Busta Rhymes, Stevie Wonder, Charlie Wilson, Raphael Saadiq and YG, among others. Martin is a multi-instrumentalist whose music production embodies funk, jazz, classical and soul. Martin released his sixth studio album, Velvet Portraits, on his label, Sounds of Crenshaw Records, through Ropeadope Records.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Terrace_Martin",
+  "candidates": [
+    "Martina Terré",
+    "Terence Martin Griffiths",
+    "Terrace Farming",
+    "Terrace Martin",
+    "Terrace Martin production discography",
+    "Terrace mutiny",
+    "Terrace parking",
+    "Terrance Martin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Terrace Martin",
+    "page_url": "https://en.wikipedia.org/wiki/Terrace_Martin",
+    "retrieved_at": "2026-03-28T10:43:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Herbie Hancock (ZMF 2017) IMGP9644.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Herbie_Hancock_(ZMF_2017)_IMGP9644.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg/960px-Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg",
+    "width": 4000,
+    "height": 6000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ice_Boy_Tell\" title=\"User:Ice Boy Tell\"\u003eIce Boy Tell\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Herbie Hancock (ZMF 2017) IMGP9644.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Herbie_Hancock_(ZMF_2017)_IMGP9644.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg/960px-Herbie_Hancock_%28ZMF_2017%29_IMGP9644.jpg",
+      "width": 4000,
+      "height": 6000,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Ice_Boy_Tell\" title=\"User:Ice Boy Tell\"\u003eIce Boy Tell\u003c/a\u003e"
+    }
+  ]
+}

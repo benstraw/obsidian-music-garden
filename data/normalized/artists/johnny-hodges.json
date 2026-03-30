@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7lRFrrINQTY35g8hq0kXY5",
+  "name": "Johnny Hodges",
+  "spotify_url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5",
+  "musicbrainz_artist_id": "881d33d8-e86f-42e8-b571-dbde156f6907",
+  "status": "matched",
+  "page_title": "Johnny Hodges",
+  "summary": "John Cornelius Hodges was an American alto saxophonist, best known for solo work with Duke Ellington's big band. He played lead alto in the saxophone section for many years. Hodges was also featured on soprano saxophone, but refused to play soprano after 1940. Along with Benny Carter, Hodges is considered to be one of the definitive alto saxophone players of the big band era.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Johnny_Hodges",
+  "candidates": [
+    "John Hodges (Australian politician)",
+    "Johnny Hodges",
+    "Johnny Hodges (American football)",
+    "Johnny Hodges and His Strings Play the Prettiest Gershwin",
+    "Johnny Hodges with Billy Strayhorn and the Orchestra",
+    "Johnny Hoogerland",
+    "Johnny Podesto",
+    "Johnny Podres",
+    "Johnny Rodgers",
+    "Johnny Rodgers (singer)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Johnny Hodges",
+    "page_url": "https://en.wikipedia.org/wiki/Johnny_Hodges",
+    "retrieved_at": "2026-03-28T10:40:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Johnny Hodges and Al Sears, Aquarium, New York, ca. Nov. 1946 (William P. Gottlieb 04191).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Johnny_Hodges_and_Al_Sears,_Aquarium,_New_York,_ca._Nov._1946_(William_P._Gottlieb_04191).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Johnny_Hodges_and_Al_Sears%2C_Aquarium%2C_New_York%2C_ca._Nov._1946_%28William_P._Gottlieb_04191%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Johnny_Hodges_and_Al_Sears%2C_Aquarium%2C_New_York%2C_ca._Nov._1946_%28William_P._Gottlieb_04191%29.jpg",
+    "width": 907,
+    "height": 965,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Johnny Hodges and Al Sears, Aquarium, New York, ca. Nov. 1946 (William P. Gottlieb 04191).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Johnny_Hodges_and_Al_Sears,_Aquarium,_New_York,_ca._Nov._1946_(William_P._Gottlieb_04191).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Johnny_Hodges_and_Al_Sears%2C_Aquarium%2C_New_York%2C_ca._Nov._1946_%28William_P._Gottlieb_04191%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Johnny_Hodges_and_Al_Sears%2C_Aquarium%2C_New_York%2C_ca._Nov._1946_%28William_P._Gottlieb_04191%29.jpg",
+      "width": 907,
+      "height": 965,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Johnny Hodges edit.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Johnny_Hodges_edit.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Johnny_Hodges_edit.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Johnny_Hodges_edit.jpg",
+      "width": 553,
+      "height": 788,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Dontworry\" class=\"extiw\" title=\"en:User:Dontworry\"\u003eDontworry\u003c/a\u003e"
+    }
+  ]
+}

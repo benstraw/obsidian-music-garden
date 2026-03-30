@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0oaOc1sdr4AeSzqL8w5ndo",
+  "name": "Michael Endres",
+  "spotify_url": "https://open.spotify.com/artist/0oaOc1sdr4AeSzqL8w5ndo",
+  "musicbrainz_artist_id": "01c41df7-804d-47a6-b2a2-24be593b570d",
+  "source_genres": [
+    "classical",
+    "german pianist",
+    "pianist"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Michael Endres",
+  "summary": "Michael Endres is a German/New Zealand pianist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Michael_Endres",
+  "candidates": [
+    "Michael Anderson (director)",
+    "Michael Anderson Jr.",
+    "Michael Andreas Barclay de Tolly",
+    "Michael Andretti",
+    "Michael Andrew (swimmer)",
+    "Michael Andrew Arntfield",
+    "Michael Andrews (musician)",
+    "Michael Ende",
+    "Michael Endres",
+    "Michael Henderson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Michael Endres",
+    "page_url": "https://en.wikipedia.org/wiki/Michael_Endres",
+    "retrieved_at": "2026-03-28T10:41:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ]
+}

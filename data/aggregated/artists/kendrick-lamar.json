@@ -1,7 +1,9 @@
 {
   "canonical_slug": "kendrick-lamar",
   "name": "Kendrick Lamar",
+  "play_count": 65,
   "spotify_artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+  "musicbrainz_artist_id": "381086ea-f511-4aba-bdf9-71c753dc5077",
   "spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
   "genres": [
     "hip-hop",
@@ -119,5 +121,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

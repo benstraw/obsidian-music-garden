@@ -1,0 +1,67 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6WbUlW1uuChmQumXueDmgp",
+  "name": "Wes Montgomery Trio",
+  "spotify_url": "https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp",
+  "musicbrainz_artist_id": "739d421f-1f7a-4dd8-b56e-fb4fb7634aee",
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "The Wes Montgomery Trio",
+  "summary": "The Wes Montgomery Trio is an album by the American jazz guitarist Wes Montgomery, released in 1960. The track \"Missile Blues\" is named after the club in Indianapolis where Montgomery played before moving to New York City to record for Riverside. At this club, he met Riverside's record producer Orrin Keepnews. The album was reissued on the Original Jazz Classics label.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Wes_Montgomery_Trio",
+  "candidates": [
+    "The Wes Montgomery Trio"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Wes Montgomery Trio",
+    "page_url": "https://en.wikipedia.org/wiki/The_Wes_Montgomery_Trio",
+    "retrieved_at": "2026-03-28T10:44:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Star empty.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Star_empty.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/960px-Star_empty.svg.png",
+    "width": 108,
+    "height": 110,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eConti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eRedHotHeat\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited.\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Star empty.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Star_empty.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/960px-Star_empty.svg.png",
+      "width": 108,
+      "height": 110,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eConti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eRedHotHeat\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited.\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Star full.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_full.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/960px-Star_full.svg.png",
+      "width": 108,
+      "height": 110,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eUser:Conti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eUser:RedHotHeat\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The wes montgomery trio.jpeg"
+    }
+  ]
+}

@@ -98,14 +98,22 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 274,
-    "unique_artist_count": 16,
-    "unique_release_count": 59,
-    "unique_track_count": 181,
-    "first_played_at": "2026-03-01T00:00:55.391Z",
+    "play_count": 585,
+    "unique_artist_count": 20,
+    "unique_release_count": 105,
+    "unique_track_count": 364,
+    "first_played_at": "2024-01-01T00:00:00.031699672Z",
     "last_played_at": "2026-03-14T18:12:15.736Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "play_count": 235,
+      "spotify_artist_id": "5aIqB5nVVvmFsvSdExz408",
+      "musicbrainz_artist_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+      "spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+    },
     {
       "canonical_slug": "valentin-silvestrov",
       "name": "Valentin Silvestrov",
@@ -114,12 +122,27 @@
       "spotify_url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
     },
     {
+      "canonical_slug": "igor-stravinsky",
+      "name": "Igor Stravinsky",
+      "play_count": 33,
+      "spotify_artist_id": "7ie36YytMoKtPiL7tUvmoE",
+      "spotify_url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+    },
+    {
       "canonical_slug": "muzio-clementi",
       "name": "Muzio Clementi",
       "play_count": 30,
       "spotify_artist_id": "47e2jUYcqSQ8RL2DVmxmzn",
       "musicbrainz_artist_id": "25f46ed2-ac8a-4428-ad09-5a3fa5162086",
       "spotify_url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
+    },
+    {
+      "canonical_slug": "edvard-grieg",
+      "name": "Edvard Grieg",
+      "play_count": 29,
+      "spotify_artist_id": "5ihY290YPGc3aY2xTyx7Gy",
+      "musicbrainz_artist_id": "013c8e5b-d72a-4cd3-8dee-6c64d6125823",
+      "spotify_url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
     },
     {
       "canonical_slug": "ottorino-respighi",
@@ -160,40 +183,58 @@
       "spotify_artist_id": "3XqsvVsJuMXQsfVwpYZLFZ",
       "musicbrainz_artist_id": "f7ccbb3f-8282-43f1-82c2-bccfcaf778b9",
       "spotify_url": "https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ"
-    },
-    {
-      "canonical_slug": "daniel-barenboim",
-      "name": "Daniel Barenboim",
-      "play_count": 9,
-      "spotify_artist_id": "78sEozQOEJxzXegUuqRSgH",
-      "musicbrainz_artist_id": "fac566b2-7a0e-4977-ad92-533f43420975",
-      "spotify_url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-    },
-    {
-      "canonical_slug": "wolfgang-amadeus-mozart",
-      "name": "Wolfgang Amadeus Mozart",
-      "play_count": 9,
-      "spotify_artist_id": "4NJhFmfw43RLBLjQvxDuRS",
-      "musicbrainz_artist_id": "b972f589-fb0e-474e-b64a-803b0364fa75",
-      "spotify_url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-    },
-    {
-      "canonical_slug": "edward-elgar",
-      "name": "Edward Elgar",
-      "play_count": 7,
-      "spotify_artist_id": "430byzy0c5bPn5opiu0SRd",
-      "musicbrainz_artist_id": "4e60a56a-514a-4a19-a3cc-49927c96b3cb",
-      "spotify_url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "name": "Bach: Goldberg Variations, BWV 988",
+      "play_count": 58,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "5LajXmcx1qsfRdWCbD9S0v",
+      "musicbrainz_release_id": "c5843620-0c2c-438b-b20d-95ff98b5229c",
+      "musicbrainz_release_group_id": "e81da777-60ac-4b32-b845-a6de6635920d"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "play_count": 50,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "1aCpHSQE5ghxibsQ5gkBe0"
+    },
+    {
       "canonical_slug": "ludwig-van-beethoven--classical-composure-piano-works",
       "name": "Classical Composure: Piano Works",
-      "play_count": 32,
+      "play_count": 42,
       "primary_artist_canonical_slug": "johann-sebastian-bach",
       "primary_artist_name": "Johann Sebastian Bach",
       "spotify_album_id": "5Gr8p2i6L50evw7ecXjZ5R"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1955-gould-remaster",
+      "name": "Bach: The Goldberg Variations, BWV 988 (1955 Gould Remaster)",
+      "play_count": 38,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "0ogm04LcccovebvmP9Mo6W"
+    },
+    {
+      "canonical_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+      "name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
+      "play_count": 35,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "5NqQLA1NCo6hP2GHiHxip5"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "play_count": 27,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "spotify_album_id": "5HXl4Q5vba5n2qwsXQ9pRV"
     },
     {
       "canonical_slug": "glenn-gould--the-young-maverick",
@@ -222,166 +263,124 @@
       "spotify_album_id": "1T61gHDk7P2LloxbCcjf6U"
     },
     {
-      "canonical_slug": "valentin-silvestrov--bagatellen-und-serenaden",
-      "name": "Bagatellen und Serenaden",
-      "play_count": 12,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Валентин Сильвестров",
-      "spotify_album_id": "13F1ZPltvX3UoJBM3t6IvM",
-      "musicbrainz_release_id": "b93eeea3-4508-4fcc-8879-8892ae379473",
-      "musicbrainz_release_group_id": "31d84a78-d22a-3919-967d-2abd1d0590bb"
-    },
-    {
-      "canonical_slug": "valentin-silvestrov--handsome-skies",
-      "name": "Handsome Skies",
-      "play_count": 12,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "spotify_album_id": "7IpVpVjkrEHRTgb1Z1FKkC"
-    },
-    {
-      "canonical_slug": "valentin-silvestrov--silvestrov",
-      "name": "Silvestrov",
-      "play_count": 12,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "spotify_album_id": "3QKntiy2ejmIVqW6QXD1hW"
-    },
-    {
-      "canonical_slug": "valentin-silvestrov--silvestrov-maidan",
-      "name": "Silvestrov: Maidan",
-      "play_count": 12,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "spotify_album_id": "3w3ygReumIuagb0fOjnZdS"
-    },
-    {
-      "canonical_slug": "arcangelo-corelli--corelli-concerti-grossi-op-6-nos-1-6",
-      "name": "Corelli: Concerti Grossi, Op. 6, Nos. 1-6",
-      "play_count": 10,
-      "primary_artist_canonical_slug": "arcangelo-corelli",
-      "primary_artist_name": "Arcangelo Corelli",
-      "spotify_album_id": "5emNyTE3FAXRUgeOVujFLv"
-    },
-    {
-      "canonical_slug": "valentin-silvestrov--hélène-grimaud-plays-valentin-silvestrov",
-      "name": "Hélène Grimaud plays Valentin Silvestrov",
-      "play_count": 10,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "spotify_album_id": "6IhZCrHFe56sE3VVCpc1fF"
+      "canonical_slug": "johann-sebastian-bach--j-s-bach-der-himmel-lacht-die-erde-jubiliert-bwv-31-live",
+      "name": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "spotify_album_id": "0GzapjEt861MwBCY4XaLHc"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
-      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
-      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
-      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
-      "release_name": "Armed Forces (Remastered 2020)",
-      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
-      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-aria",
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "2H4kTqp11QWNh8gumWgiyf",
+      "spotify_url": "https://open.spotify.com/track/2H4kTqp11QWNh8gumWgiyf"
     },
     {
-      "canonical_slug": "carl-philipp-emanuel-bach--bach-cpe-solfegietto-in-c-minor-wq-117-2",
-      "name": "Bach, CPE: Solfegietto in C Minor, Wq. 117/2",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "carl-philipp-emanuel-bach",
-      "primary_artist_name": "Carl Philipp Emanuel Bach",
-      "release_canonical_slug": "carl-philipp-emanuel-bach--l-atelier-des-pianistes-vol-2-moyen",
-      "release_name": "L'atelier des pianistes, vol. 2 : Moyen",
-      "spotify_track_id": "6OaEDkmHRShOceKMVJRVSL",
-      "spotify_url": "https://open.spotify.com/track/6OaEDkmHRShOceKMVJRVSL"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-13-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 13 a 2 Clav.",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "2CI5exhYgmUhVMR8Mrunk4",
+      "spotify_url": "https://open.spotify.com/track/2CI5exhYgmUhVMR8Mrunk4"
     },
     {
-      "canonical_slug": "muzio-clementi--12-monferrinas-op-49-xi-allegro-non-troppo",
-      "name": "12 Monferrinas, Op. 49: XI. Allegro non troppo",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "muzio-clementi",
-      "primary_artist_name": "Muzio Clementi",
-      "release_canonical_slug": "ludwig-van-beethoven--classical-composure-piano-works",
-      "release_name": "Classical Composure: Piano Works",
-      "spotify_track_id": "5Dw0NKyswXUFyfksXOFhst",
-      "spotify_url": "https://open.spotify.com/track/5Dw0NKyswXUFyfksXOFhst"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-11-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 11 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "73NwMH0ND2cUkLe0kn9Ljz",
+      "spotify_url": "https://open.spotify.com/track/73NwMH0ND2cUkLe0kn9Ljz"
     },
     {
-      "canonical_slug": "janos-sebestyen--2-part-invention-in-f-major-bwv-779-two-part-invention-in-f-major-bwv-779",
-      "name": "2 Part Invention In F Major, BWV 779: Two-part Invention In F Major, BWV 779",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "janos-sebestyen",
-      "primary_artist_name": "Janos Sebestyen",
-      "release_canonical_slug": "janos-sebestyen--j-s-bach-italian-concerto-chromatic-fantasia-and-fugue-12-little-preludes",
-      "release_name": "J. S. Bach: Italian Concerto / Chromatic Fantasia And Fugue / 12 Little Preludes",
-      "spotify_track_id": "20u6jxidADgZjwnJI0HIaz",
-      "spotify_url": "https://open.spotify.com/track/20u6jxidADgZjwnJI0HIaz"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-12-canone-alla-quarta",
+      "name": "Goldberg Variations, BWV 988: Variation 12. Canone alla Quarta",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "4rdMJWrfeTABOUdhHtr6F2",
+      "spotify_url": "https://open.spotify.com/track/4rdMJWrfeTABOUdhHtr6F2"
     },
     {
-      "canonical_slug": "valentin-silvestrov--3-bagatelles-op-1-i-allegretto",
-      "name": "3 Bagatelles, Op. 1: I. Allegretto",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
-      "release_name": "Handsome Skies",
-      "spotify_track_id": "2GNFlskK4MK7LFdtEcL4xQ",
-      "spotify_url": "https://open.spotify.com/track/2GNFlskK4MK7LFdtEcL4xQ"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-17-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 17 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "6dZcwV0SCe8ZRKPAYd7MA1",
+      "spotify_url": "https://open.spotify.com/track/6dZcwV0SCe8ZRKPAYd7MA1"
     },
     {
-      "canonical_slug": "valentin-silvestrov--3-bagatelles-op-4-i-moderato",
-      "name": "3 Bagatelles, Op. 4: I. Moderato",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
-      "release_name": "Handsome Skies",
-      "spotify_track_id": "2InyVDrXHN8nJ51v2FHNpz",
-      "spotify_url": "https://open.spotify.com/track/2InyVDrXHN8nJ51v2FHNpz"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-19-a-1-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 19 a 1 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "6b1w0rV1rQ7o22QytG4MD4",
+      "spotify_url": "https://open.spotify.com/track/6b1w0rV1rQ7o22QytG4MD4"
     },
     {
-      "canonical_slug": "ottorino-respighi--3-preludi-sopra-melodie-gregoriane-p-131-i-molto-lento",
-      "name": "3 Preludi Sopra Melodie Gregoriane, P. 131: I. Molto Lento",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "ottorino-respighi",
-      "primary_artist_name": "Ottorino Respighi",
-      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
-      "release_name": "Respighi: Piano Music",
-      "spotify_track_id": "1ONzRvx7L9jhvyyqZJoh9m",
-      "spotify_url": "https://open.spotify.com/track/1ONzRvx7L9jhvyyqZJoh9m"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-23-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 23 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+      "release_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
+      "spotify_track_id": "3uKsFbdcE8I44qGuE0Hwas",
+      "spotify_url": "https://open.spotify.com/track/3uKsFbdcE8I44qGuE0Hwas"
     },
     {
-      "canonical_slug": "valentin-silvestrov--3-waltzes-for-piano-ii",
-      "name": "3 Waltzes for Piano: II. —",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "release_canonical_slug": "valentin-silvestrov--silvestrov-touching-the-memory",
-      "release_name": "Silvestrov: Touching the Memory",
-      "spotify_track_id": "1SkhT5D7N07GhJoKxIAv4p",
-      "spotify_url": "https://open.spotify.com/track/1SkhT5D7N07GhJoKxIAv4p"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-24-canone-all-ottava-a-1-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 24. Canone all' Ottava. a 1 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "7buiS4VhffL1n2DXlZeVwC",
+      "spotify_url": "https://open.spotify.com/track/7buiS4VhffL1n2DXlZeVwC"
     },
     {
-      "canonical_slug": "valentin-silvestrov--3-waltzes-with-postludium-op-3-ii-moderato",
-      "name": "3 Waltzes with Postludium, Op. 3: II. Moderato",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
-      "release_name": "Handsome Skies",
-      "spotify_track_id": "72EMcrozBuWKilKrAwK9cR",
-      "spotify_url": "https://open.spotify.com/track/72EMcrozBuWKilKrAwK9cR"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-28-a-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 28 a 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "4TI87x2ASmkIrDQSsmwA0t",
+      "spotify_url": "https://open.spotify.com/track/4TI87x2ASmkIrDQSsmwA0t"
     },
     {
-      "canonical_slug": "valentin-silvestrov--3-waltzes-with-postludium-op-3-iv-postludium",
-      "name": "3 Waltzes with Postludium, Op. 3: IV. Postludium",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "valentin-silvestrov",
-      "primary_artist_name": "Valentin Silvestrov",
-      "release_canonical_slug": "valentin-silvestrov--handsome-skies",
-      "release_name": "Handsome Skies",
-      "spotify_track_id": "3yZGmeGtGQAaqTobYsDMzi",
-      "spotify_url": "https://open.spotify.com/track/3yZGmeGtGQAaqTobYsDMzi"
+      "canonical_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-29-a-1-ovvero-2-clav",
+      "name": "Goldberg Variations, BWV 988: Variation 29 a 1 ovvero 2 Clav.",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "johann-sebastian-bach",
+      "primary_artist_name": "Johann Sebastian Bach",
+      "release_canonical_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+      "release_name": "Bach: Goldberg Variations, BWV 988",
+      "spotify_track_id": "5ngwOSaiF8mph2OmuzfLme",
+      "spotify_url": "https://open.spotify.com/track/5ngwOSaiF8mph2OmuzfLme"
     }
   ],
   "source_refs": [
@@ -415,10 +414,10 @@
     },
     {
       "role": "listening_stats",
-      "source": "spotify+legacy",
+      "source": "spotify",
       "path": "plays",
       "updated_at": "2026-03-14T18:12:15.736Z",
-      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history plus imported untimestamped legacy play counts."
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
   "last_updated": "2026-03-29"

@@ -7,29 +7,106 @@
     "contemporary classical",
     "neoclassical"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Contemporary classical music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Contemporary_classical_music",
+  "summary": "Contemporary classical music is Western art music composed close to the present day. At the beginning of the 21st century, it commonly referred to the post-1945 post-tonal music after the death of Anton Webern, and included serial music, electronic music, experimental music, and minimalist music. Newer forms include spectral music and post-minimalism.",
   "candidates": [
-    "Contemporary / Classic Hits",
-    "Contemporary Classical",
-    "Contemporary classical",
-    "Contemporary classical guitar",
     "Contemporary classical music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Contemporary classical music",
+    "page_url": "https://en.wikipedia.org/wiki/Contemporary_classical_music",
+    "retrieved_at": "2026-03-30T04:12:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 2,
+    "play_count": 34,
     "unique_artist_count": 2,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-03T14:10:51.725Z",
+    "unique_release_count": 6,
+    "unique_track_count": 24,
+    "first_played_at": "2024-01-01T00:00:00.593217263Z",
     "last_played_at": "2026-03-12T16:54:06.655Z"
   },
   "top_artists": [
     {
       "canonical_slug": "igor-stravinsky",
       "name": "Igor Stravinsky",
-      "play_count": 1,
+      "play_count": 33,
       "spotify_artist_id": "7ie36YytMoKtPiL7tUvmoE",
       "spotify_url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
     },
@@ -38,47 +115,170 @@
       "name": "Mauricio Kagel",
       "play_count": 1,
       "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+      "musicbrainz_artist_id": "9f185094-f3d7-4e33-9f60-4588d4c63cb3",
       "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "play_count": 27,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "spotify_album_id": "5HXl4Q5vba5n2qwsXQ9pRV"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--stravinsky-monumentum-and-mass",
+      "name": "Stravinsky: Monumentum \u0026 Mass",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "spotify_album_id": "21N8RhZ8xvBiWcf6TkbS7E"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--szymanowski-string-quartets-stravinsky-concertino",
+      "name": "Szymanowski: String Quartets / Stravinsky: Concertino",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "spotify_album_id": "48aJO7VuJ4g45PqMFbpKUX"
+    },
+    {
       "canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
       "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
       "play_count": 1,
       "primary_artist_canonical_slug": "mauricio-kagel",
-      "primary_artist_name": "Mauricio Kagel"
+      "primary_artist_name": "Mauricio Kagel",
+      "spotify_album_id": "0lYUkrOg4TiShNCJHUay8e"
     },
     {
-      "canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
-      "name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "canonical_slug": "igor-stravinsky--stravinsky-apollo-agon-orpheus",
+      "name": "Stravinsky: Apollo - Agon - Orpheus",
       "play_count": 1,
       "primary_artist_canonical_slug": "igor-stravinsky",
-      "primary_artist_name": "Igor Stravinsky"
+      "primary_artist_name": "Igor Stravinsky",
+      "spotify_album_id": "6PZvwz7MZFhUmzIfHQCFu3"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--stravinsky-firebird-the-petrushka-suites-nos-1-and-2",
+      "name": "Stravinsky: Firebird (The) / Petrushka / Suites Nos. 1 and 2",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "spotify_album_id": "23xYi00HPUXFzNI9oP06lw"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "mauricio-kagel--match-für-3-spieler-pt-1",
-      "name": "Match für 3 Spieler - Pt. 1",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mauricio-kagel",
-      "primary_artist_name": "Mauricio Kagel",
-      "release_canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
-      "release_name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
-      "spotify_track_id": "4VDhJhQnw1GIfx878K53WL",
-      "spotify_url": "https://open.spotify.com/track/4VDhJhQnw1GIfx878K53WL"
+      "canonical_slug": "igor-stravinsky--3-pieces-for-string-quartet-no-2",
+      "name": "3 Pieces for String Quartet: No. 2",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--szymanowski-string-quartets-stravinsky-concertino",
+      "release_name": "Szymanowski: String Quartets / Stravinsky: Concertino",
+      "spotify_track_id": "2Wsuh2MNI3oAOJ5fMoVFSB",
+      "spotify_url": "https://open.spotify.com/track/2Wsuh2MNI3oAOJ5fMoVFSB"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--choral-vatiationen-var-i-in-canone-all-ottava",
+      "name": "Choral-Vatiationen: Var. I. In canone all'Ottava",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-monumentum-and-mass",
+      "release_name": "Stravinsky: Monumentum \u0026 Mass",
+      "spotify_track_id": "1zUVPvm0osbOqRuV23iyXS",
+      "spotify_url": "https://open.spotify.com/track/1zUVPvm0osbOqRuV23iyXS"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-firebird-suite-1919-version-i-introduction",
+      "name": "The Firebird Suite (1919 Version): I. Introduction",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "5iF6ji4c6IjQU0qH7feEDJ",
+      "spotify_url": "https://open.spotify.com/track/5iF6ji4c6IjQU0qH7feEDJ"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-firebird-suite-1919-version-iv-the-princesses-round",
+      "name": "The Firebird Suite (1919 Version): IV. The Princesses' Round",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "5Yx64ysgWCym8s6IQqDYY9",
+      "spotify_url": "https://open.spotify.com/track/5Yx64ysgWCym8s6IQqDYY9"
     },
     {
       "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-adoration-of-the-earth-introduction-lento-1921-version",
       "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - Adoration of the Earth. Introduction. Lento (1921 Version)",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "igor-stravinsky",
       "primary_artist_name": "Igor Stravinsky",
       "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
       "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
       "spotify_track_id": "2DxlceLn2yqiyFpB9Ea6KH",
       "spotify_url": "https://open.spotify.com/track/2DxlceLn2yqiyFpB9Ea6KH"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-dance-of-the-earth-1921-version",
+      "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - Dance of the Earth (1921 Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "72TH6wiexWYww0wjIT0NYI",
+      "spotify_url": "https://open.spotify.com/track/72TH6wiexWYww0wjIT0NYI"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-game-of-abduction-1921-version",
+      "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - Game of Abduction (1921 Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "5KrRjNw2PozB4Js6sa71Cu",
+      "spotify_url": "https://open.spotify.com/track/5KrRjNw2PozB4Js6sa71Cu"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-spring-rounds-1921-version",
+      "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - Spring Rounds (1921 Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "7biZOldbger5MgwcgE6CaA",
+      "spotify_url": "https://open.spotify.com/track/7biZOldbger5MgwcgE6CaA"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-one-the-augurs-of-spring-1921-version",
+      "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part One - The Augurs of Spring (1921 Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "3nOuH30XlAOYlOSPClArlH",
+      "spotify_url": "https://open.spotify.com/track/3nOuH30XlAOYlOSPClArlH"
+    },
+    {
+      "canonical_slug": "igor-stravinsky--the-rite-of-spring-scenes-of-pagan-russia-in-two-parts-part-two-the-sacrifice-introduction-largo-1921-version",
+      "name": "The Rite of Spring (Scenes of Pagan Russia in Two Parts): Part Two - The Sacrifice. Introduction. Largo (1921 Version)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "igor-stravinsky",
+      "primary_artist_name": "Igor Stravinsky",
+      "release_canonical_slug": "igor-stravinsky--stravinsky-the-rite-of-spring-and-the-firebird-suite",
+      "release_name": "Stravinsky: The Rite of Spring \u0026 The Firebird Suite",
+      "spotify_track_id": "6uEtGN9DyaYp7aAmRn9j0m",
+      "spotify_url": "https://open.spotify.com/track/6uEtGN9DyaYp7aAmRn9j0m"
     }
   ],
   "source_refs": [
@@ -89,6 +289,28 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--contemporary-classical.json",
+      "url": "https://en.wikipedia.org/wiki/Contemporary_classical_music",
+      "retrieved_at": "2026-03-30T04:12:07Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--contemporary-classical.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -96,5 +318,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

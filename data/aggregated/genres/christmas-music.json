@@ -1,0 +1,368 @@
+{
+  "canonical_slug": "christmas-music",
+  "display_title": "Christmas Music",
+  "display_name": "Christmas Music",
+  "notes": "Seasonal bucket for explicitly holiday-focused listening; keep out of the default publishable genre set.",
+  "aliases": [
+    "christmas",
+    "christmas music"
+  ],
+  "pending": false,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Christmas music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Christmas_music",
+  "summary": "Christmas music comprises a variety of genres of music regularly performed or heard around the Christmas season. Music associated with Christmas may be purely instrumental, or in the case of carols, may employ lyrics about the nativity of Jesus Christ, traditions such as gift-giving and merrymaking, cultural figures such as Santa Claus, or other topics. Many songs simply have a winter or seasonal theme, or have been adopted into the canon for other reasons.",
+  "candidates": [
+    "Christian music",
+    "Christian music festival",
+    "Christian music in Australia",
+    "Christian music industry",
+    "Christmas Magic (song)",
+    "Christmas Music (album)",
+    "Christmas Must Be Tonight",
+    "Christmas music",
+    "Christmas music radio",
+    "The Christmas Music of Johnny Mathis: A Personal Collection"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Christmas music",
+    "page_url": "https://en.wikipedia.org/wiki/Christmas_music",
+    "retrieved_at": "2026-03-28T15:54:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A choir of Natural History Museum, Science Museum and Victoria and Albert Museum staff members sing carols in the central hall of the Natural History Museum 02.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A_choir_of_Natural_History_Museum,_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/A_choir_of_Natural_History_Museum%2C_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_choir_of_Natural_History_Museum%2C_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg/960px-thumbnail.jpg",
+    "width": 2560,
+    "height": 1920,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mrjohncummings\" title=\"User:Mrjohncummings\"\u003eJohn Cummings\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A choir of Natural History Museum, Science Museum and Victoria and Albert Museum staff members sing carols in the central hall of the Natural History Museum 02.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_choir_of_Natural_History_Museum,_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/A_choir_of_Natural_History_Museum%2C_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_choir_of_Natural_History_Museum%2C_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg/960px-thumbnail.jpg",
+      "width": 2560,
+      "height": 1920,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mrjohncummings\" title=\"User:Mrjohncummings\"\u003eJohn Cummings\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blandfordia nobilis Berowra Valley.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blandfordia_nobilis_Berowra_Valley.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Blandfordia_nobilis_Berowra_Valley.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Blandfordia_nobilis_Berowra_Valley.JPG",
+      "width": 601,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Poyt448\" title=\"User:Poyt448\"\u003ePoyt448\u003c/a\u003e Peter Woodard"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Christmas music2004.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Christmas_music2004.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Christmas_music2004.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jimblodget\" title=\"User:Jimblodget\"\u003eJimblodget\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DSC 2693 (11406583246).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DSC_2693_(11406583246).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/DSC_2693_%2811406583246%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/DSC_2693_%2811406583246%29.jpg/960px-DSC_2693_%2811406583246%29.jpg",
+      "width": 7281,
+      "height": 4096,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/97469566@N00\"\u003eBengt Nyman\u003c/a\u003e from Vaxholm, Sweden"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:El Noi de la Mare (guitar).ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:El_Noi_de_la_Mare_(guitar).ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/El_Noi_de_la_Mare_%28guitar%29.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jujutacular\" title=\"User:Jujutacular\"\u003eJujutacular\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 26,
+    "unique_artist_count": 2,
+    "unique_release_count": 9,
+    "unique_track_count": 23,
+    "first_played_at": "2024-01-01T00:00:00.074180697Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
+  },
+  "top_artists": [
+    {
+      "canonical_slug": "carpenters",
+      "name": "Carpenters",
+      "play_count": 24,
+      "spotify_artist_id": "1eEfMU2AhEo7XnKgL7c304",
+      "musicbrainz_artist_id": "4580d83b-093e-4241-91fb-2dd71f5f1f3f",
+      "spotify_url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+    },
+    {
+      "canonical_slug": "norah-jones",
+      "name": "Norah Jones",
+      "play_count": 2,
+      "spotify_artist_id": "2Kx7MNY7cI1ENniW7vT30N",
+      "musicbrainz_artist_id": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+      "spotify_url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "carpenters--a-kind-of-hush",
+      "name": "A Kind Of Hush",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "7FumsdTmFk5Yq4TN3A4XTl",
+      "musicbrainz_release_id": "c6197333-e615-4596-9825-467e894b3f11",
+      "musicbrainz_release_group_id": "e57e6075-994a-3f52-b7ba-31175804a37f"
+    },
+    {
+      "canonical_slug": "carpenters--a-song-for-you",
+      "name": "A Song For You",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "1nA6Exnq2mWD8678q3E4Ov",
+      "musicbrainz_release_id": "c44b7976-aec8-4ebc-bad3-25fac5df3450",
+      "musicbrainz_release_group_id": "1d47f2fc-cc62-3462-8c0d-d9259820953f"
+    },
+    {
+      "canonical_slug": "carpenters--horizon",
+      "name": "Horizon",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "0ESCnyuOCpztPojn8m0uqi",
+      "musicbrainz_release_id": "ec5d3abf-3181-42c3-9036-671cc565c1c9",
+      "musicbrainz_release_group_id": "33e96e78-0caf-347c-aa2f-6119ba792be0"
+    },
+    {
+      "canonical_slug": "carpenters--carpenters",
+      "name": "Carpenters",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "3Br6amYT7sC9y3uvHkfRDI",
+      "musicbrainz_release_id": "bb32a4d7-329c-41a2-b23b-464394d83be8",
+      "musicbrainz_release_group_id": "7b643855-d7cb-3177-8288-a9f080934657"
+    },
+    {
+      "canonical_slug": "carpenters--close-to-you",
+      "name": "Close To You",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "1CsuCA05y9r7ftG9bGGtWV",
+      "musicbrainz_release_id": "d90e72fb-5766-4826-80aa-1864abe6c2fb",
+      "musicbrainz_release_group_id": "ca8d0ba2-f227-3665-9104-30e3c09eafae"
+    },
+    {
+      "canonical_slug": "carpenters--now-and-then-reissue",
+      "name": "Now \u0026 Then (Reissue)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "0A7WaXRUZ2fkHtUYfeoF73"
+    },
+    {
+      "canonical_slug": "norah-jones--featuring-norah-jones",
+      "name": "… Featuring Norah Jones",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "norah-jones",
+      "primary_artist_name": "Norah Jones",
+      "spotify_album_id": "022I8JNsbclNqE0hJDxhYz"
+    },
+    {
+      "canonical_slug": "carpenters--made-in-america",
+      "name": "Made In America",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "1FqAKMZw9yexfKjrnsLGAF",
+      "musicbrainz_release_id": "8800b676-e842-4601-ba13-0147f9a8bd6a",
+      "musicbrainz_release_group_id": "c54a9328-4a5e-3d21-bf72-140be159a710"
+    },
+    {
+      "canonical_slug": "carpenters--passage",
+      "name": "Passage",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "spotify_album_id": "2tfjNPxq1v6kmx5TFEBUaS",
+      "musicbrainz_release_id": "a467c1e4-313e-4422-a9f6-bc52ac74020c",
+      "musicbrainz_release_group_id": "0a894864-3a05-301f-a7a4-ac4af8a48b0f"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "carpenters--they-long-to-be-close-to-you",
+      "name": "(They Long To Be) Close To You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--close-to-you",
+      "release_name": "Close To You",
+      "spotify_track_id": "50q2aUjWoTn6CJIfSPRJQA",
+      "spotify_url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "canonical_slug": "carpenters--i-have-you",
+      "name": "I Have You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--a-kind-of-hush",
+      "release_name": "A Kind Of Hush",
+      "spotify_track_id": "0xfHLrExjHFiYdCaontDkW",
+      "spotify_url": "https://open.spotify.com/track/0xfHLrExjHFiYdCaontDkW"
+    },
+    {
+      "canonical_slug": "norah-jones--loretta-live-from-the-ryman-auditorium-nashville-2004",
+      "name": "Loretta - Live From The Ryman Auditorium, Nashville/2004",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "norah-jones",
+      "primary_artist_name": "Norah Jones",
+      "release_canonical_slug": "norah-jones--featuring-norah-jones",
+      "release_name": "… Featuring Norah Jones",
+      "spotify_track_id": "2x7VpQwVaeuQkNB0F3gqNa",
+      "spotify_url": "https://open.spotify.com/track/2x7VpQwVaeuQkNB0F3gqNa"
+    },
+    {
+      "canonical_slug": "carpenters--a-song-for-you",
+      "name": "A Song For You",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--a-song-for-you",
+      "release_name": "A Song For You",
+      "spotify_track_id": "6q2TZbqEnDh5elzJlQEWwv",
+      "spotify_url": "https://open.spotify.com/track/6q2TZbqEnDh5elzJlQEWwv"
+    },
+    {
+      "canonical_slug": "carpenters--for-all-we-know-from-lovers-and-other-strangers-soundtrack",
+      "name": "For All We Know - From \"Lovers And Other Strangers\" Soundtrack",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--carpenters",
+      "release_name": "Carpenters",
+      "spotify_track_id": "5llfFWv1tH61nENrsjg3KZ",
+      "spotify_url": "https://open.spotify.com/track/5llfFWv1tH61nENrsjg3KZ"
+    },
+    {
+      "canonical_slug": "carpenters--hurting-each-other",
+      "name": "Hurting Each Other",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--a-song-for-you",
+      "release_name": "A Song For You",
+      "spotify_track_id": "4wGKFjv7PUEZJsRk79wNKu",
+      "spotify_url": "https://open.spotify.com/track/4wGKFjv7PUEZJsRk79wNKu"
+    },
+    {
+      "canonical_slug": "carpenters--i-just-fall-in-love-again",
+      "name": "I Just Fall In Love Again",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--passage",
+      "release_name": "Passage",
+      "spotify_track_id": "4l7bzrcw3uAB8iJiAj7wDD",
+      "spotify_url": "https://open.spotify.com/track/4l7bzrcw3uAB8iJiAj7wDD"
+    },
+    {
+      "canonical_slug": "carpenters--i-need-to-be-in-love",
+      "name": "I Need To Be In Love",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--a-kind-of-hush",
+      "release_name": "A Kind Of Hush",
+      "spotify_track_id": "5CMPmGVhRhNLZ1PIyYJG5O",
+      "spotify_url": "https://open.spotify.com/track/5CMPmGVhRhNLZ1PIyYJG5O"
+    },
+    {
+      "canonical_slug": "carpenters--i-won-t-last-a-day-without-you",
+      "name": "I Won't Last A Day Without You",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--a-song-for-you",
+      "release_name": "A Song For You",
+      "spotify_track_id": "42CX3VhPsCG75BFp07r9Vj",
+      "spotify_url": "https://open.spotify.com/track/42CX3VhPsCG75BFp07r9Vj"
+    },
+    {
+      "canonical_slug": "carpenters--love-me-for-what-i-am",
+      "name": "Love Me For What I Am",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "carpenters",
+      "primary_artist_name": "Carpenters",
+      "release_canonical_slug": "carpenters--horizon",
+      "release_name": "Horizon",
+      "spotify_track_id": "0cRuocQnySYHxzgva3k2ai",
+      "spotify_url": "https://open.spotify.com/track/0cRuocQnySYHxzgva3k2ai"
+    }
+  ],
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--christmas-music.json",
+      "url": "https://en.wikipedia.org/wiki/Christmas_music",
+      "retrieved_at": "2026-03-28T15:54:17Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--christmas-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:A_choir_of_Natural_History_Museum,_Science_Museum_and_Victoria_and_Albert_Museum_staff_members_sing_carols_in_the_central_hall_of_the_Natural_History_Museum_02.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-29T17:53:54.137Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
+    }
+  ],
+  "last_updated": "2026-03-29T17:53:54.137Z"
+}

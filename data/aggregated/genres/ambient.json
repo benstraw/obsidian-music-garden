@@ -8,6 +8,7 @@
     "ambient"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Ambient music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ambient_music",
@@ -95,39 +96,108 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 2,
-    "unique_artist_count": 1,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-11T00:27:54.522Z",
+    "play_count": 10,
+    "unique_artist_count": 3,
+    "unique_release_count": 5,
+    "unique_track_count": 8,
+    "first_played_at": "2024-01-01T00:00:00.450510684Z",
     "last_played_at": "2026-03-11T05:48:16.307Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "arms-and-sleepers",
+      "name": "Arms and Sleepers",
+      "play_count": 5,
+      "spotify_artist_id": "0KjF9pkI2bO9EMuB7LnHqP",
+      "musicbrainz_artist_id": "d4dae588-8b66-4aa9-877f-04c604f552a8",
+      "spotify_url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+    },
+    {
+      "canonical_slug": "mouse-on-mars",
+      "name": "Mouse On Mars",
+      "play_count": 3,
+      "spotify_artist_id": "4ZgIWfyg9BkcqnJJ2xVR3f",
+      "musicbrainz_artist_id": "4d4f5d92-0589-42fa-bc0e-1bd73e17a2ce",
+      "spotify_url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+    },
     {
       "canonical_slug": "nala-sinephro",
       "name": "Nala Sinephro",
       "play_count": 2,
       "spotify_artist_id": "2h5syT5XdsQgKLq8Yn1klO",
+      "musicbrainz_artist_id": "46a4b150-be30-44b3-a337-e06a72657d33",
       "spotify_url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "name": "Parallel Dreaming",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "spotify_album_id": "15G9YhbyMllnxiRkQTMmJQ"
+    },
+    {
+      "canonical_slug": "mouse-on-mars--vulvaland",
+      "name": "Vulvaland",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse on Mars",
+      "spotify_album_id": "0vrWFaK9Cx73hVkQjGKuaZ",
+      "musicbrainz_release_id": "c0c7fa4d-94e0-3558-bdb3-a1ea83b6484a",
+      "musicbrainz_release_group_id": "9ca304cc-c55b-3705-8f19-ef4252a57403"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "name": "The Palermo Incident",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "spotify_album_id": "7JskS6ERK5KaIrW4veCVSS"
+    },
+    {
       "canonical_slug": "nala-sinephro--endlessness",
       "name": "Endlessness",
       "play_count": 1,
       "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro"
+      "primary_artist_name": "Nala Sinephro",
+      "spotify_album_id": "51CQQ3tQLRZlZJZ5jcpoGE"
     },
     {
       "canonical_slug": "nala-sinephro--space-1-8",
       "name": "Space 1.8",
       "play_count": 1,
       "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro"
+      "primary_artist_name": "Nala Sinephro",
+      "spotify_album_id": "51HFfu3GhuXa4VUnlpJJy8",
+      "musicbrainz_release_id": "031e01a2-e4d4-45f6-aa6e-1b1b458cfbea",
+      "musicbrainz_release_group_id": "2458a981-bc0e-4359-8f3b-b53c25ed4830"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "arms-and-sleepers--ink-splash",
+      "name": "Ink Splash",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "release_name": "Parallel Dreaming",
+      "spotify_track_id": "1pcCNXHFNdkI4gGQkpNG1M",
+      "spotify_url": "https://open.spotify.com/track/1pcCNXHFNdkI4gGQkpNG1M"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "name": "The Palermo Incident",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "release_name": "The Palermo Incident",
+      "spotify_track_id": "2KsHukre1ujHj5XZSwlPqw",
+      "spotify_url": "https://open.spotify.com/track/2KsHukre1ujHj5XZSwlPqw"
+    },
     {
       "canonical_slug": "nala-sinephro--continuum-3",
       "name": "Continuum 3",
@@ -140,6 +210,39 @@
       "spotify_url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
     },
     {
+      "canonical_slug": "mouse-on-mars--elli-im-wunderland",
+      "name": "Elli Im Wunderland",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse On Mars",
+      "release_canonical_slug": "mouse-on-mars--vulvaland",
+      "release_name": "Vulvaland",
+      "spotify_track_id": "6gI9sbUcE28of7joCaMf1H",
+      "spotify_url": "https://open.spotify.com/track/6gI9sbUcE28of7joCaMf1H"
+    },
+    {
+      "canonical_slug": "mouse-on-mars--frosch",
+      "name": "Frosch",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse On Mars",
+      "release_canonical_slug": "mouse-on-mars--vulvaland",
+      "release_name": "Vulvaland",
+      "spotify_track_id": "4PFAaMMu6Utdpx5WqRtAup",
+      "spotify_url": "https://open.spotify.com/track/4PFAaMMu6Utdpx5WqRtAup"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--ours-to-forget",
+      "name": "Ours To Forget",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "release_name": "Parallel Dreaming",
+      "spotify_track_id": "2hOywxbXPefXKhnn8WsD3g",
+      "spotify_url": "https://open.spotify.com/track/2hOywxbXPefXKhnn8WsD3g"
+    },
+    {
       "canonical_slug": "nala-sinephro--space-4",
       "name": "Space 4",
       "play_count": 1,
@@ -149,6 +252,17 @@
       "release_name": "Space 1.8",
       "spotify_track_id": "11lcWjr6YXEH0EOCcU7Pfp",
       "spotify_url": "https://open.spotify.com/track/11lcWjr6YXEH0EOCcU7Pfp"
+    },
+    {
+      "canonical_slug": "mouse-on-mars--uah",
+      "name": "Uah",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "mouse-on-mars",
+      "primary_artist_name": "Mouse On Mars",
+      "release_canonical_slug": "mouse-on-mars--vulvaland",
+      "release_name": "Vulvaland",
+      "spotify_track_id": "4sPG5XWJAH9wTU2kDTujr8",
+      "spotify_url": "https://open.spotify.com/track/4sPG5XWJAH9wTU2kDTujr8"
     }
   ],
   "source_refs": [
@@ -157,6 +271,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

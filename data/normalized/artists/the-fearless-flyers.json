@@ -1,0 +1,52 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1JyLSGXC3aWzjY6ZdxvIXh",
+  "name": "The Fearless Flyers",
+  "spotify_url": "https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh",
+  "musicbrainz_artist_id": "3a6c52b4-48ff-4153-afac-0be3c98d9eb5",
+  "source_genres": [
+    "funk"
+  ],
+  "canonical_genre_slugs": [
+    "funk"
+  ],
+  "status": "matched",
+  "page_title": "The Fearless Flyers",
+  "summary": "The Fearless Flyers are an American funk band formed in 2018 consisting of drummer Nate Smith, bassist Joe Dart and guitarists Cory Wong and Mark Lettieri. The band has released two studio albums, four extended plays, two live albums, and has toured in the United States and Europe.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Fearless_Flyers",
+  "candidates": [
+    "The Fearless Flyers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Fearless Flyers",
+    "page_url": "https://en.wikipedia.org/wiki/The_Fearless_Flyers",
+    "retrieved_at": "2026-03-28T10:43:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:The Fearless Flyers - Chicago - 2018.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Fearless_Flyers_-_Chicago_-_2018.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Fearless_Flyers_-_Chicago_-_2018.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Fearless_Flyers_-_Chicago_-_2018.jpg/960px-The_Fearless_Flyers_-_Chicago_-_2018.jpg",
+    "width": 973,
+    "height": 486,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Greg Farnham (@gregfarnham5161)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Fearless Flyers - Chicago - 2018.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Fearless_Flyers_-_Chicago_-_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/The_Fearless_Flyers_-_Chicago_-_2018.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Fearless_Flyers_-_Chicago_-_2018.jpg/960px-The_Fearless_Flyers_-_Chicago_-_2018.jpg",
+      "width": 973,
+      "height": 486,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Greg Farnham (@gregfarnham5161)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+  "name": "Allman Brothers Band",
+  "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR",
+  "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+  "source_genres": [
+    "blues rock",
+    "classic rock",
+    "country rock",
+    "jam band",
+    "rock",
+    "southern rock"
+  ],
+  "canonical_genre_slugs": [
+    "blues-rock",
+    "classic-rock",
+    "country-rock",
+    "jam-band",
+    "rock",
+    "southern-rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Allman Brothers Band Museum",
+    "The Allman Brothers Band",
+    "The Allman Brothers Band (album)",
+    "The Allman Brothers Band at Fillmore East",
+    "The Allman Brothers Band discography"
+  ]
+}

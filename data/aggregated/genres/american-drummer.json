@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "american-drummer",
+  "display_title": "American Drummer",
+  "display_name": "American Drummer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "American Dreamer (1984 film)",
+    "American Dreamer (2018 film)",
+    "American Dreamer (2022 film)",
+    "American Dreamer (Supergirl)",
+    "American Dreamer (TV series)",
+    "American Dreamer (album)",
+    "American Dreamer: My Life in Fashion \u0026 Business",
+    "American Dreamers: Voices of Hope, Music of Freedom",
+    "American Summer",
+    "The American Dreamer"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

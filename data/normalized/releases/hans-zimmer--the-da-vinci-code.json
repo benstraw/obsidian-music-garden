@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4GuLx38y1727p45spIvslr",
   "name": "The Da Vinci Code",
   "primary_artist_name": "Hans Zimmer",
-  "primary_artist_canonical_slug": "hans-zimmer"
+  "primary_artist_canonical_slug": "hans-zimmer",
+  "musicbrainz_release_id": "f142c220-050f-4c8a-be9d-2cdc818376be",
+  "musicbrainz_release_group_id": "f78cb731-2c72-3881-bb28-c7b5dae2955f"
 }

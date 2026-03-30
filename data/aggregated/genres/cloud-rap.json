@@ -1,0 +1,107 @@
+{
+  "canonical_slug": "cloud-rap",
+  "display_title": "Cloud Rap",
+  "display_name": "Cloud Rap",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Cloud rap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cloud_rap",
+  "summary": "Cloud rap is a subgenre of hip-hop that emerged in the late 2000s to early 2010s, drawing influences from trap, ambient and new age music to create a hazy, dreamlike, atmospheric and relaxed production style through the extensive use of reverb and ethereal chopped samples. The subgenre was originally pioneered by artists and producers such as A$AP Rocky, Lil B, Clams Casino, Friendzone, Whitearmor, Main Attrakionz, Viper, Metro Zu, and SpaceGhostPurrp.",
+  "candidates": [
+    "Angus Cloud",
+    "CLOUD Act",
+    "Cloud Atlas (film)",
+    "Cloud Atlas (novel)",
+    "Cloud Gate",
+    "Cloud gaming",
+    "Cloud physics",
+    "Cloud rap",
+    "Cloud robotics",
+    "Natasha Cloud"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cloud rap",
+    "page_url": "https://en.wikipedia.org/wiki/Cloud_rap",
+    "retrieved_at": "2026-03-28T15:54:24Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Cloud rap beat.ogg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Cloud_rap_beat.ogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cloud_rap_beat.ogg",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Zanahary\" title=\"User:Zanahary\"\u003eZanahary\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cloud rap beat.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cloud_rap_beat.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cloud_rap_beat.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Zanahary\" title=\"User:Zanahary\"\u003eZanahary\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lil B Nuemos 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lil_B_Nuemos_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lil_B_Nuemos_2012.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51590834@N05\"\u003etaffy dale\u003c/a\u003e from Seattle, Washington"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Vermona Synthesizer Harmonikamuseum Zwota.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg/960px-Vermona_Synthesizer_Harmonikamuseum_Zwota.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ChickSR\" title=\"User:ChickSR\"\u003eChickSR\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--cloud-rap.json",
+      "url": "https://en.wikipedia.org/wiki/Cloud_rap",
+      "retrieved_at": "2026-03-28T15:54:24Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--cloud-rap.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Cloud_rap_beat.ogg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

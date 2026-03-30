@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5nflfddG6Tlrt2YiZhXJAD",
   "name": "Feats Don't Fail Me Now",
   "primary_artist_name": "Little Feat",
-  "primary_artist_canonical_slug": "little-feat"
+  "primary_artist_canonical_slug": "little-feat",
+  "musicbrainz_release_id": "aa786884-e79e-4eb2-8ca1-c5994f99baf2",
+  "musicbrainz_release_group_id": "0be2e12c-afe8-3439-ad0f-1167f9009114"
 }

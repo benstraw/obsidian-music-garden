@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "guitariste",
+  "display_title": "Guitariste",
+  "display_name": "Guitariste",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Guitar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guitar",
+  "summary": "The guitar is a stringed musical instrument that is usually fretted and typically has six or twelve strings. It is usually held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A guitar pick may also be used to strike the strings. The sound of the guitar is projected either acoustically, by means of a resonant hollow chamber on the guitar, or amplified by an electronic pickup and an amplifier.",
+  "candidates": [
+    "Guitar Interludes",
+    "Guitar Star",
+    "Guitar String / Wedding Ring",
+    "Guitar speaker",
+    "Guitar tech",
+    "Guitarissimo",
+    "Guitarist",
+    "Guitarist (magazine)",
+    "Guitariste",
+    "Guitarists 4 the Kids"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Guitar",
+    "page_url": "https://en.wikipedia.org/wiki/Guitar",
+    "retrieved_at": "2026-03-28T15:56:51Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GuitareClassique5.png/330px-GuitareClassique5.png",
+    "width": 799,
+    "height": 1308
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--guitariste.json",
+      "url": "https://en.wikipedia.org/wiki/Guitar",
+      "retrieved_at": "2026-03-28T15:56:51Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--guitariste.json",
+      "url": "https://en.wikipedia.org/wiki/Guitar",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,47 @@
+{
+  "canonical_slug": "midwest-hip-hop",
+  "display_title": "Midwest Hip Hop",
+  "display_name": "Midwest Hip Hop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hip-hop",
+  "summary": "Hip-hop is a genre of popular music that emerged in the early 1970s alongside an associated subculture in the African-American and Caribbean immigrants communities of New York City. The musical style is characterized by the synthesis of a wide range of techniques, but rapping is frequent enough that it has become a defining characteristic. Other key markers of the genre are the disc jockey (DJ), turntablism, scratching, beatboxing, and instrumental tracks. Cultural interchange has always been central to the hip-hop genre; it simultaneously borrows from its social environment while commenting on it.",
+  "candidates": [
+    "Midwest High Speed Rail Initiative",
+    "Midwest Highspeed rail association",
+    "Midwest hip hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Hip-hop",
+    "retrieved_at": "2026-03-28T15:58:22Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--midwest-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Hip-hop",
+      "retrieved_at": "2026-03-28T15:58:22Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "orquestra-simfònica-de-barcelona-i-nacional-de-catalunya",
+  "name": "Orquestra Simfònica de Barcelona i Nacional de Catalunya",
+  "spotify_artist_id": "3JMtC2Qi46h2vcbJfVYlgy",
+  "musicbrainz_artist_id": "44e13c98-438e-476b-b6cb-4d305376c4c5",
+  "spotify_url": "https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb41e93c42133163c72676c130",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517441e93c42133163c72676c130",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17841e93c42133163c72676c130",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Barcelona Symphony Orchestra and National Orchestra of Catalonia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barcelona_Symphony_Orchestra_and_National_Orchestra_of_Catalonia",
+  "summary": "The Barcelona Symphony Orchestra and National Orchestra of Catalonia is a symphony orchestra based in Barcelona, Catalonia. Since April 1999, the Orchestra has had its headquarters at L'Auditori. Prior to that, from its foundation to 1998, the orchestra was resident at the Palau de la Música Catalana.",
+  "candidates": [
+    "Orquestra Simfònica de Barcelona i Nacional de Catalunya"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Barcelona Symphony Orchestra and National Orchestra of Catalonia",
+    "page_url": "https://en.wikipedia.org/wiki/Barcelona_Symphony_Orchestra_and_National_Orchestra_of_Catalonia",
+    "retrieved_at": "2026-03-28T10:41:43Z"
+  },
+  "last_updated": "2026-03-30"
+}

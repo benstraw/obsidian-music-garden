@@ -1,0 +1,26 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5KeUHRKEYWc5cFO5V032sb",
+  "name": "Seattle Symphony Orchestra",
+  "spotify_url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb",
+  "status": "matched",
+  "page_title": "Seattle Symphony",
+  "summary": "The Seattle Symphony is an American orchestra based in Seattle, Washington. Since 1998, the orchestra is resident at Benaroya Hall. The orchestra also serves as the accompanying orchestra for the Seattle Opera.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Seattle_Symphony",
+  "candidates": [
+    "Seattle Symphony Orchestra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Seattle Symphony",
+    "page_url": "https://en.wikipedia.org/wiki/Seattle_Symphony",
+    "retrieved_at": "2026-03-28T10:42:32Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Seattle_Symphony_Orchestra_on_stage_in_Benaroya_Hall.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Seattle_Symphony_Orchestra_on_stage_in_Benaroya_Hall.jpg/330px-Seattle_Symphony_Orchestra_on_stage_in_Benaroya_Hall.jpg",
+    "width": 2448,
+    "height": 3264
+  }
+}

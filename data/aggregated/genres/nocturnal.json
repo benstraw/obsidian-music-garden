@@ -3,6 +3,7 @@
   "display_title": "Nocturnal",
   "display_name": "Nocturnal",
   "pending": true,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Nocturnal (Heltah Skeltah album)",
@@ -31,5 +32,5 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

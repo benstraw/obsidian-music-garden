@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "red-garland-trio",
+  "name": "Red Garland Trio",
+  "play_count": 10,
+  "spotify_artist_id": "3XYnsz11kFrkx8F3upvnE5",
+  "musicbrainz_artist_id": "c2237ac9-5d0c-4fd2-8bbe-823a43d05b4a",
+  "spotify_url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5134acf998be4a0012a2067",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d5134acf998be4a0012a2067",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851d5134acf998be4a0012a2067",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Red Garland Trio + Eddie \"Lockjaw\" Davis",
+    "The Red Garland Trio"
+  ],
+  "last_updated": "2026-03-28"
+}

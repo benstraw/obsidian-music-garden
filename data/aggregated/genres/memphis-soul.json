@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "memphis-soul",
+  "display_title": "Memphis Soul",
+  "display_name": "Memphis Soul",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Memphis soul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Memphis_soul",
+  "summary": "Memphis soul, also known as the Memphis sound, is the most prominent strain of Southern soul. It is a shimmering, sultry style produced in the 1960s and 1970s at Stax Records and Hi Records in Memphis, Tennessee, featuring melodic unison horn lines, organ, guitar, bass, and a driving beat on the drums.",
+  "candidates": [
+    "Memphis Police Department",
+    "Memphis Slim",
+    "Memphis Soul (WFA)",
+    "Memphis Soul Stew",
+    "Memphis Sounds",
+    "Memphis Southmen",
+    "Memphis soul",
+    "Memphis to Little Rock Road",
+    "Memphis-Shelby County Schools",
+    "The Memphis Tour"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Memphis soul",
+    "page_url": "https://en.wikipedia.org/wiki/Memphis_soul",
+    "retrieved_at": "2026-03-28T15:58:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Stax Records.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Stax_Records.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Stax_Records.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Stax_Records.jpg",
+    "width": 620,
+    "height": 800,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/dwhartwig/\"\u003eDaniel Hartwig\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stax Records.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stax_Records.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Stax_Records.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Stax_Records.jpg",
+      "width": 620,
+      "height": 800,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/dwhartwig/\"\u003eDaniel Hartwig\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sun Studio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sun_Studio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sun_Studio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sun_Studio.jpg/960px-Sun_Studio.jpg",
+      "width": 1188,
+      "height": 1784,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:JeremyA\" title=\"User:JeremyA\"\u003eJeremyA\u003c/a\u003e assumed (based on copyright claims)."
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--memphis-soul.json",
+      "url": "https://en.wikipedia.org/wiki/Memphis_soul",
+      "retrieved_at": "2026-03-28T15:58:20Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--memphis-soul.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Stax_Records.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

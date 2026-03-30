@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "look-again",
+  "display_title": "Look Again",
+  "display_name": "Look Again",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Otto Group",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Otto_Group",
+  "summary": "The Otto Group is a German retail company based in Hamburg that operates companies worldwide in the retail, e-commerce, financing, logistics and mail order sectors. In 2023, the Group generated sales of €16.2 billion and had around 41,186 employees.",
+  "candidates": [
+    "Look Again",
+    "Look Again (Cold Case)",
+    "Love Again (2023 film)",
+    "Love Again (Brandy and Daniel Caesar song)",
+    "Love Again (Cedric Gervais song)",
+    "Love Again (Celine Dion song)",
+    "Love Again (Dua Lipa song)",
+    "Love Again (Hedley song)",
+    "Love Again (The Kid Laroi song)",
+    "Love Again (soundtrack)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Otto Group",
+    "page_url": "https://en.wikipedia.org/wiki/Otto_Group",
+    "retrieved_at": "2026-03-28T15:58:04Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--look-again.json",
+      "url": "https://en.wikipedia.org/wiki/Otto_Group",
+      "retrieved_at": "2026-03-28T15:58:04Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

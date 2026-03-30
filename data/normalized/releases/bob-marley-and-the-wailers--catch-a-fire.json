@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "39kLAVdcgW7jbMcTEaY2qy",
   "name": "Catch A Fire",
   "primary_artist_name": "Bob Marley \u0026 The Wailers",
-  "primary_artist_canonical_slug": "bob-marley-and-the-wailers"
+  "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+  "musicbrainz_release_id": "a247aca8-f226-437a-871b-3815c56f227d",
+  "musicbrainz_release_group_id": "03170256-02c9-44c7-abad-e0ea3dd47c22"
 }

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6hsLVJIMa6eZ0eo0sEeVbg",
   "name": "Flatland Forever",
   "primary_artist_name": "Flatland Cavalry",
-  "primary_artist_canonical_slug": "flatland-cavalry"
+  "primary_artist_canonical_slug": "flatland-cavalry",
+  "musicbrainz_release_id": "545ec9d1-ddb9-45ce-a0dc-77eb9a037fa9",
+  "musicbrainz_release_group_id": "ae024ee3-13b8-445c-bc3f-e65132b519bf"
 }

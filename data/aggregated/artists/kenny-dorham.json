@@ -1,0 +1,92 @@
+{
+  "canonical_slug": "kenny-dorham",
+  "name": "Kenny Dorham",
+  "play_count": 14,
+  "spotify_artist_id": "2fMvylhnE23sAlyePKK8er",
+  "musicbrainz_artist_id": "4476453a-d37e-4c52-b60d-07c90b6fa661",
+  "spotify_url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273028ede8b512bcdad84b887e1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02028ede8b512bcdad84b887e1",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851028ede8b512bcdad84b887e1",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Kenny Dorham",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenny_Dorham",
+  "summary": "McKinley Howard \"Kenny\" Dorham was an American jazz trumpeter, composer, and occasional singer. Dorham's talent is frequently lauded by critics and other musicians, but he never received the kind of attention or public recognition from the jazz establishment that many of his peers did. For this reason, writer Gary Giddins said that Dorham's name has become \"virtually synonymous with 'underrated'.\"",
+  "candidates": [
+    "Kenny Dorham",
+    "Kenny Dorham Quintet (album)",
+    "The Kenny Dorham Memorial Album"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Kenny Dorham",
+    "page_url": "https://en.wikipedia.org/wiki/Kenny_Dorham",
+    "retrieved_at": "2026-03-28T10:40:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Kenny Dorham Advertisement.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Dorham_Advertisement.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kenny_Dorham_Advertisement.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kenny_Dorham_Advertisement.jpg",
+    "width": 613,
+    "height": 750,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kenny Dorham Advertisement.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Dorham_Advertisement.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kenny_Dorham_Advertisement.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Kenny_Dorham_Advertisement.jpg",
+      "width": 613,
+      "height": 750,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kenny Dorham edit.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Dorham_edit.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kenny_Dorham_edit.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kenny_Dorham_edit.jpg",
+      "width": 608,
+      "height": 704,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Kenny_Dorham.jpg\" title=\"File:Kenny Dorham.jpg\"\u003eKenny_Dorham.jpg\u003c/a\u003e: \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/alwebster007/\"\u003eAlWebster007\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Jafeluv\" title=\"User:Jafeluv\"\u003eJafeluv\u003c/a\u003e (\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Jafeluv\" title=\"User talk:Jafeluv\"\u003e\u003cspan class=\"signature-talk\"\u003etalk\u003c/span\u003e\u003c/a\u003e)\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kenny Dorham holding trumpet.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Dorham_holding_trumpet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kenny_Dorham_holding_trumpet.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kenny_Dorham_holding_trumpet.jpg",
+      "width": 819,
+      "height": 567,
+      "license": "Public domain",
+      "author": "THE FRED. GRETSCH MFG. CO."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2SSLFbCxmRcg7DeUKVB5ux",
   "name": "Going West",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "e1cd896b-3fa8-40e7-bf0c-59455d7489ea",
+  "musicbrainz_release_group_id": "d2ba776b-66c8-4a23-ab71-d0aacbfeca86"
 }

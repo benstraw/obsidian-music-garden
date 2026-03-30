@@ -1,0 +1,14 @@
+{
+  "source": "spotify",
+  "source_track_id": "0aWMVrwxPNYkKmFthzmpRi",
+  "name": "Blue in Green (feat. John Coltrane \u0026 Bill Evans)",
+  "primary_artist_name": "Miles Davis",
+  "primary_artist_canonical_slug": "miles-davis",
+  "additional_artist_slugs": [
+    "john-coltrane",
+    "bill-evans"
+  ],
+  "release_name": "Kind Of Blue (Legacy Edition)",
+  "release_canonical_slug": "miles-davis--kind-of-blue-legacy-edition",
+  "spotify_url": "https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi"
+}

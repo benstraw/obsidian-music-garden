@@ -1,0 +1,14 @@
+{
+  "source": "spotify",
+  "source_track_id": "5gKxTGHfGpjl8PVNOuKY0A",
+  "name": "Waiting",
+  "primary_artist_name": "John Abercrombie",
+  "primary_artist_canonical_slug": "john-abercrombie",
+  "additional_artist_slugs": [
+    "dave-holland",
+    "jack-dejohnette"
+  ],
+  "release_name": "Gateway",
+  "release_canonical_slug": "john-abercrombie--gateway",
+  "spotify_url": "https://open.spotify.com/track/5gKxTGHfGpjl8PVNOuKY0A"
+}

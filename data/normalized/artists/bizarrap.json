@@ -1,0 +1,55 @@
+{
+  "source": "spotify",
+  "source_artist_id": "716NhGYqD1jl2wI1Qkgq36",
+  "name": "Bizarrap",
+  "spotify_url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36",
+  "musicbrainz_artist_id": "3b6abaef-febf-4cfe-943f-6a20cf0afdad",
+  "status": "matched",
+  "page_title": "Bizarrap",
+  "summary": "Gonzalo Julián Conde, known professionally as Bizarrap or BZRP, is an Argentine record producer, songwriter and DJ. He specializes in EDM, Latin trap and Latin hip-hop. He is known for his BZRP Music Sessions, a series of independent tracks which he records with a wide variety of artists. He was nominated for a Latin Grammy Award for Producer of the Year in 2021 and 2023.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bizarrap",
+  "candidates": [
+    "Bizarrap",
+    "Bizarrap discography",
+    "Bizarre (rapper)",
+    "Bizarre Creations",
+    "Bizarre Foods with Andrew Zimmern",
+    "Bizarre Love Triangle",
+    "Bizarre Ride II the Pharcyde",
+    "Bizarro",
+    "Bizarro World",
+    "Bizarro fiction"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bizarrap",
+    "page_url": "https://en.wikipedia.org/wiki/Bizarrap",
+    "retrieved_at": "2026-03-28T10:37:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2023-11-16 Gala de los Latin Grammy, 04 (cropped) (2).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_04_(cropped)_(2).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2023-11-16_Gala_de_los_Latin_Grammy%2C_04_%28cropped%29_%282%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2023-11-16_Gala_de_los_Latin_Grammy%2C_04_%28cropped%29_%282%29.jpg",
+    "width": 855,
+    "height": 1200,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Junta de Andalucía"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2023-11-16 Gala de los Latin Grammy, 04 (cropped) (2).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_04_(cropped)_(2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2023-11-16_Gala_de_los_Latin_Grammy%2C_04_%28cropped%29_%282%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2023-11-16_Gala_de_los_Latin_Grammy%2C_04_%28cropped%29_%282%29.jpg",
+      "width": 855,
+      "height": 1200,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Junta de Andalucía"
+    }
+  ]
+}

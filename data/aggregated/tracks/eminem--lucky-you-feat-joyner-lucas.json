@@ -1,11 +1,14 @@
 {
   "canonical_slug": "eminem--lucky-you-feat-joyner-lucas",
   "name": "Lucky You (feat. Joyner Lucas)",
+  "play_count": 2,
   "primary_artist_canonical_slug": "eminem",
   "primary_artist_name": "Eminem",
+  "additional_artist_slugs": [
+    "joyner-lucas"
+  ],
   "release_canonical_slug": "eminem--kamikaze",
   "release_name": "Kamikaze",
   "spotify_track_id": "60SdxE8apGAxMiRrpbmLY0",
-  "spotify_url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
 }

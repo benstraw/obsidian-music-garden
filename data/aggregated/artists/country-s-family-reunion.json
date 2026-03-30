@@ -1,7 +1,9 @@
 {
   "canonical_slug": "country-s-family-reunion",
   "name": "Country's Family Reunion",
+  "play_count": 2,
   "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+  "musicbrainz_artist_id": "0052ff05-af79-4488-b9aa-322d6acf722f",
   "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt",
   "genres": [
     "bluegrass",
@@ -32,5 +34,5 @@
     }
   ],
   "status": "not_found",
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

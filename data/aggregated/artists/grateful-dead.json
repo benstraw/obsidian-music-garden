@@ -1,7 +1,9 @@
 {
   "canonical_slug": "grateful-dead",
   "name": "Grateful Dead",
+  "play_count": 91,
   "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+  "musicbrainz_artist_id": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
   "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT",
   "genres": [
     "acid-rock",
@@ -124,5 +126,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/125112383@N06\"\u003eShelby Bell\u003c/a\u003e from Omaha, NE, US"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

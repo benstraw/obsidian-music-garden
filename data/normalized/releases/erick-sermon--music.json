@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7mUzxkBleB7QiVUw6wJsXU",
   "name": "Music",
   "primary_artist_name": "Erick Sermon",
-  "primary_artist_canonical_slug": "erick-sermon"
+  "primary_artist_canonical_slug": "erick-sermon",
+  "musicbrainz_release_id": "af28f6aa-451b-4792-940a-96f5410b5a85",
+  "musicbrainz_release_group_id": "9ea25e95-e811-4157-898f-e98a7f27d210"
 }

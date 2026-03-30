@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "electric-folk",
+  "display_title": "Electric Folk",
+  "display_name": "Electric Folk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "British folk rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/British_folk_rock",
+  "summary": "British folk rock is a form of folk rock which developed in the United Kingdom from the mid 1960s, and was at its most significant in the 1970s. Though the merging of folk and rock music came from several sources, it is widely regarded that the success of \"The House of the Rising Sun\" by British band the Animals in 1964 was a catalyst, prompting Bob Dylan to \"go electric\", in which, like the Animals, he brought folk and rock music together, from which other musicians followed. In the same year, the Beatles began incorporating overt folk influences into their music, most noticeably on their Beatles for Sale album. The Beatles and other British Invasion bands, in turn, influenced the American band the Byrds, who released their recording of Dylan's \"Mr. Tambourine Man\" in April 1965, setting off the mid-1960s American folk rock movement. A number of British groups, usually those associated with the British folk revival, moved into folk rock in the mid-1960s, including the Strawbs, Pentangle, and Fairport Convention.",
+  "candidates": [
+    "Electric Football",
+    "Electric Forest",
+    "Electric Fountain",
+    "Electric flux",
+    "Electric folk",
+    "Electric go-kart",
+    "Electrical polarity",
+    "Electronic lock",
+    "Electronic rock",
+    "The Electric Flag"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "British folk rock",
+    "page_url": "https://en.wikipedia.org/wiki/British_folk_rock",
+    "retrieved_at": "2026-03-28T15:55:21Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--electric-folk.json",
+      "url": "https://en.wikipedia.org/wiki/British_folk_rock",
+      "retrieved_at": "2026-03-28T15:55:21Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

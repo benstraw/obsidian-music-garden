@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3eU5Y55rtk97snjswCNJ4I",
+  "name": "Rudolf Lutz",
+  "spotify_url": "https://open.spotify.com/artist/3eU5Y55rtk97snjswCNJ4I",
+  "musicbrainz_artist_id": "70b3e851-5717-4bae-a14d-2c14a40eccbf",
+  "source_genres": [
+    "classical"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Rudolf Lutz",
+  "summary": "Rudolf Lutz is a Swiss organist, harpsichordist, conductor and composer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Rudolf_Lutz",
+  "candidates": [
+    "Rudolf Kötzschke",
+    "Rudolf Leuzinger",
+    "Rudolf Lothar",
+    "Rudolf Luneburg",
+    "Rudolf Lutz",
+    "Rudolf Matz",
+    "Rudolf Metzmacher",
+    "Rudolf Wetzer",
+    "Rudolf Witzig",
+    "Rudolph Ruzicka"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rudolf Lutz",
+    "page_url": "https://en.wikipedia.org/wiki/Rudolf_Lutz",
+    "retrieved_at": "2026-03-28T10:42:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Rudolf Lutz 2024.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Rudolf_Lutz_2024.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rudolf_Lutz_2024.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rudolf_Lutz_2024.jpg/960px-Rudolf_Lutz_2024.jpg",
+    "width": 2200,
+    "height": 2750,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Whgler\" title=\"User:Whgler\"\u003eWhgler\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rudolf Lutz 2024.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rudolf_Lutz_2024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Rudolf_Lutz_2024.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Rudolf_Lutz_2024.jpg/960px-Rudolf_Lutz_2024.jpg",
+      "width": 2200,
+      "height": 2750,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Whgler\" title=\"User:Whgler\"\u003eWhgler\u003c/a\u003e"
+    }
+  ]
+}

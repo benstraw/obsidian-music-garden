@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0CFS3jvFwutIt5ewGIa7Sq",
   "name": "Get Up With It",
   "primary_artist_name": "Miles Davis",
-  "primary_artist_canonical_slug": "miles-davis"
+  "primary_artist_canonical_slug": "miles-davis",
+  "musicbrainz_release_id": "f1b2c013-bbfc-4934-ac0a-77a0302821b0",
+  "musicbrainz_release_group_id": "49f122e4-8eef-3c69-93d4-a4369dc408d8"
 }

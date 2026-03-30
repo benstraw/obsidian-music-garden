@@ -1,7 +1,9 @@
 {
   "canonical_slug": "black-star",
   "name": "Black Star",
+  "play_count": 15,
   "spotify_artist_id": "67ei8ib6PLT1w3OkhIb4fB",
+  "musicbrainz_artist_id": "02708fd6-0fe6-4738-a27d-0561ace8b4c6",
   "spotify_url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB",
   "genres": [
     "east-coast-hip-hop",
@@ -50,5 +52,5 @@
     "Black, Starr \u0026 Frost",
     "The Black Star Project"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

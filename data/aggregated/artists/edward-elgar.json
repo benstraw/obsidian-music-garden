@@ -1,0 +1,128 @@
+{
+  "canonical_slug": "edward-elgar",
+  "name": "Edward Elgar",
+  "play_count": 7,
+  "spotify_artist_id": "430byzy0c5bPn5opiu0SRd",
+  "musicbrainz_artist_id": "4e60a56a-514a-4a19-a3cc-49927c96b3cb",
+  "spotify_url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "classical"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8691898841248ffbc5e984334879337c81a268fd",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/c07fb39fa79823c9ca265112c9f7ba0b3d8773d0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/a0bbac937bcd54681292cc2acf43a1524d1643c9",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/31f083e7d0fb18f26c048fe5d9b46155ff17db49",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Edward Elgar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Elgar",
+  "summary": "Sir Edward William Elgar, 1st Baronet, was an English composer, many of whose works have entered the British and international classical concert repertoire. Among his best-known compositions are orchestral works including the Enigma Variations, the Pomp and Circumstance Marches, concertos for violin and cello, and two symphonies. He also composed choral works, including The Dream of Gerontius, chamber music and songs. He was appointed Master of the King's Musick in 1924.",
+  "candidates": [
+    "Edward Argar",
+    "Edward Clark (conductor)",
+    "Edward Edwards (serial killer)",
+    "Edward Egan",
+    "Edward Elgar",
+    "Edward Elgar Publishing",
+    "Edward Elric",
+    "Edward Gardner Lewis",
+    "Edward Garnier",
+    "Edward Lear"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Edward Elgar",
+    "page_url": "https://en.wikipedia.org/wiki/Edward_Elgar",
+    "retrieved_at": "2026-03-28T10:38:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:A-J-Jaeger.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:A-J-Jaeger.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/A-J-Jaeger.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/A-J-Jaeger.jpg",
+    "width": 398,
+    "height": 323,
+    "license": "Public domain",
+    "author": "Photograph credited to E.T. Holding (Possibly \u003ca href=\"https://en.wikipedia.org/wiki/Edgar_Thomas_Holding\" class=\"extiw\" title=\"w:Edgar Thomas Holding\"\u003ew:Edgar Thomas Holding\u003c/a\u003e (1870-1952) )"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A-J-Jaeger.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A-J-Jaeger.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/A-J-Jaeger.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/A-J-Jaeger.jpg",
+      "width": 398,
+      "height": 323,
+      "license": "Public domain",
+      "author": "Photograph credited to E.T. Holding (Possibly \u003ca href=\"https://en.wikipedia.org/wiki/Edgar_Thomas_Holding\" class=\"extiw\" title=\"w:Edgar Thomas Holding\"\u003ew:Edgar Thomas Holding\u003c/a\u003e (1870-1952) )"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Binyon-kipling.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Binyon-kipling.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Binyon-kipling.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Binyon-kipling.jpg",
+      "width": 96,
+      "height": 195,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/William_Strang\" class=\"extiw\" title=\"w:William Strang\"\u003eWilliam Strang\u003c/a\u003e and unknown"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Clara-butt-crop.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Clara-butt-crop.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Clara-butt-crop.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Clara-butt-crop.jpg/960px-Clara-butt-crop.jpg",
+      "width": 1304,
+      "height": 1548,
+      "license": "Public domain",
+      "author": "George Grantham Bain Collection (Library of Congress)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cscr-featured.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cscr-featured.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cscr-featured.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/960px-Cscr-featured.svg.png",
+      "width": 466,
+      "height": 443,
+      "license": "LGPL",
+      "license_url": "http://www.gnu.org/licenses/lgpl.html",
+      "author": "Wikimedia users \u003ca href=\"https://en.wikipedia.org/wiki/User:ClockworkSoul\" class=\"extiw\" title=\"en:User:ClockworkSoul\"\u003eClockworkSoul\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:CyberSkull\" class=\"extiw\" title=\"en:User:CyberSkull\"\u003eCyberSkull\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:Optimager\" class=\"extiw\" title=\"en:User:Optimager\"\u003eOptimager\u003c/a\u003e, \u003ca href=\"https://en.wikipedia.org/wiki/User:White_Cat\" class=\"extiw\" title=\"en:User:White Cat\"\u003eWhite Cat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Erina\" title=\"User:Erina\"\u003eErina\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:AzaToth\" title=\"User:AzaToth\"\u003eAzaToth\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Pbroks13\" title=\"User:Pbroks13\"\u003ePbroks13\u003c/a\u003e."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

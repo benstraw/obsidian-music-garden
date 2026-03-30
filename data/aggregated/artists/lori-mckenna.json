@@ -1,15 +1,22 @@
 {
   "canonical_slug": "lori-mckenna",
   "name": "Lori McKenna",
+  "play_count": 2,
   "spotify_artist_id": "1OV5mEATxtVma7fleFaUyl",
+  "musicbrainz_artist_id": "886557b3-2fa6-494e-993d-b955e789dc57",
   "spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl",
   "genres": [
     "alt-country",
-    "americana"
+    "americana",
+    "country",
+    "folk"
   ],
   "source_genres": [
     "alt country",
-    "americana"
+    "americana",
+    "country",
+    "country folk",
+    "folk"
   ],
   "images": [
     {
@@ -67,5 +74,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/38008469@N00\"\u003eThom C\u003c/a\u003e from Blackstone Valley, United States"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

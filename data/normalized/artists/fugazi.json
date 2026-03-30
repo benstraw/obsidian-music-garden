@@ -1,0 +1,98 @@
+{
+  "source": "spotify",
+  "source_artist_id": "62sC6lUEWRjbFqXpMmOk4G",
+  "name": "Fugazi",
+  "spotify_url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G",
+  "musicbrainz_artist_id": "233fc3f3-6de2-465c-985e-e721dbabbace",
+  "source_genres": [
+    "hardcore",
+    "indie rock",
+    "post-hardcore",
+    "punk",
+    "rock",
+    "rock pop"
+  ],
+  "canonical_genre_slugs": [
+    "indie-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Fugazi",
+  "summary": "Fugazi is an American post-hardcore band formed in Washington, D.C., in 1986. The band consists of guitarists and vocalists Ian MacKaye and Guy Picciotto, bassist Joe Lally, and drummer Brendan Canty. They were noted for their style-transcending music, DIY ethical stance, manner of business practice, and contempt for the music industry.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Fugazi",
+  "candidates": [
+    "Fugazi",
+    "Fugazi (EP)",
+    "Fugazi (album)",
+    "Fugazi (disambiguation)",
+    "Fugazi Bank Building",
+    "Fugazi Hall",
+    "Fugazi Live Series",
+    "Fugazi Live Series discography",
+    "Fugazi discography",
+    "Fugue"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Fugazi",
+    "page_url": "https://en.wikipedia.org/wiki/Fugazi",
+    "retrieved_at": "2026-03-28T10:39:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fugazi.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fugazi.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fugazi.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fugazi.jpg/960px-Fugazi.jpg",
+    "width": 1152,
+    "height": 864,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/57798571@N00\"\u003eTim Trentham\u003c/a\u003e from Austin, USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fugazi.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fugazi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fugazi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fugazi.jpg/960px-Fugazi.jpg",
+      "width": 1152,
+      "height": 864,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/57798571@N00\"\u003eTim Trentham\u003c/a\u003e from Austin, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fugazi - Full Disclosure.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fugazi - Repeater.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fugazi guns - Sarah Stierch.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fugazi_guns_-_Sarah_Stierch.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fugazi_guns_-_Sarah_Stierch.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fugazi_guns_-_Sarah_Stierch.jpg",
+      "width": 960,
+      "height": 952,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Missvain\" title=\"User:Missvain\"\u003eSarah Stierch\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7xGGqA85UIWX1GoTVM4itC",
+  "name": "The Staple Singers",
+  "spotify_url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC",
+  "musicbrainz_artist_id": "3d49e36a-cc9e-411e-93c6-d1646ba5bd3a",
+  "status": "matched",
+  "page_title": "The Staple Singers",
+  "summary": "The Staple Singers was an American gospel, soul, and R\u0026B singing group. Roebuck \"Pops\" Staples, the patriarch of the family, formed the group with his children Cleotha, Pervis, and Mavis. Yvonne replaced her brother when he was drafted into the U.S. Army, and again in 1970. They are best known for their 1970s hits \"Respect Yourself\", \"I'll Take You There\", \"If You're Ready \", and \"Let's Do It Again\". While the family name is Staples, the group used \"Staple\" commercially.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Staple_Singers",
+  "candidates": [
+    "The Staple Singers",
+    "The Staple Swingers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Staple Singers",
+    "page_url": "https://en.wikipedia.org/wiki/The_Staple_Singers",
+    "retrieved_at": "2026-03-28T10:43:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Staple Singers on Soul Train.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Staple_Singers_on_Soul_Train.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Staple_Singers_on_Soul_Train.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Staple_Singers_on_Soul_Train.jpg",
+      "width": 606,
+      "height": 824,
+      "license": "Public domain",
+      "author": "In upper left corner of the page is the notation that this section was sponsored by friends and associated of Soul Train.  This separates it from any Billboard editorial content."
+    }
+  ]
+}

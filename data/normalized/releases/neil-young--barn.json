@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7vlrGBbvKz2tZmVqAxK5ec",
   "name": "Barn",
   "primary_artist_name": "Neil Young",
-  "primary_artist_canonical_slug": "neil-young"
+  "primary_artist_canonical_slug": "neil-young",
+  "musicbrainz_release_id": "6a1a1464-864c-456c-909b-4514e9fc4ff3",
+  "musicbrainz_release_group_id": "f1c2f62b-60e5-4273-8365-1bf16bc61664"
 }

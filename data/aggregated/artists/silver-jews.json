@@ -1,0 +1,114 @@
+{
+  "canonical_slug": "silver-jews",
+  "name": "Silver Jews",
+  "play_count": 10,
+  "spotify_artist_id": "4ePunOqQbOYoQwd1298g3Z",
+  "musicbrainz_artist_id": "1bc2d696-c0e2-480d-87ed-17b2a82d7983",
+  "spotify_url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z",
+  "genres": [
+    "alternative-rock",
+    "indie-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "alternative rock",
+    "indie rock",
+    "lo-fi",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c46be908bc73d54635d384449",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2246be908bc73d54635d384449",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac346be908bc73d54635d384449",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7446be908bc73d54635d384449",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Silver Jews",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Silver_Jews",
+  "summary": "Silver Jews were an American indie rock band from Hoboken, New Jersey, formed in 1989 by David Berman alongside Pavement members Stephen Malkmus and Bob Nastanovich. Berman was the only constant band member. During the last few albums, Cassie Berman became a regular member of the band. They disbanded in 2009.",
+  "candidates": [
+    "Jenny Silver",
+    "Jerry Silver",
+    "Josh Silver",
+    "Josh Silver (author)",
+    "Josh Silver (nonprofit director)",
+    "Joshua Silver",
+    "Leslie Silver",
+    "Silver Jews",
+    "Silverjet",
+    "The Silver Seas"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Silver Jews",
+    "page_url": "https://en.wikipedia.org/wiki/Silver_Jews",
+    "retrieved_at": "2026-03-28T10:42:39Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:RoTamSilverJewsWIKI.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:RoTamSilverJewsWIKI.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/RoTamSilverJewsWIKI.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/RoTamSilverJewsWIKI.jpg",
+      "width": 334,
+      "height": 477,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rosnaps\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rosnaps (page does not exist)\"\u003eRosnaps\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Silver Jews (2006).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Silver_Jews_(2006).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/The_Silver_Jews_%282006%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/The_Silver_Jews_%282006%29.jpg",
+      "width": 500,
+      "height": 375,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Reuben Strayer"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

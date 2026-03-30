@@ -3,15 +3,22 @@
   "source_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
   "name": "Mumford \u0026 Sons",
   "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2",
+  "musicbrainz_artist_id": "c44e9c22-ef82-4a77-9bcd-af6c958446d6",
   "source_genres": [
+    "alternative rock",
     "folk",
     "folk rock",
-    "indie folk"
+    "indie folk",
+    "indie rock",
+    "rock"
   ],
   "canonical_genre_slugs": [
+    "alternative-rock",
     "folk",
     "folk-rock",
-    "indie-folk"
+    "indie-folk",
+    "indie-rock",
+    "rock"
   ],
   "status": "matched",
   "page_title": "Mumford \u0026 Sons",

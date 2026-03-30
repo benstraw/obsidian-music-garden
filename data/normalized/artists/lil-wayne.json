@@ -3,13 +3,29 @@
   "source_artist_id": "55Aa2cqylxrFIXC767Z865",
   "name": "Lil Wayne",
   "spotify_url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865",
+  "musicbrainz_artist_id": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
   "source_genres": [
+    "2000s",
+    "2010s",
+    "criminal",
+    "gangsta rap",
     "hip hop",
-    "rap"
+    "pop",
+    "pop rap",
+    "r\u0026b",
+    "rap",
+    "rap rock",
+    "rock",
+    "southern hip hop",
+    "trap"
   ],
   "canonical_genre_slugs": [
     "hip-hop",
-    "rap"
+    "pop",
+    "rap",
+    "rap-rock",
+    "rock",
+    "southern-hip-hop"
   ],
   "status": "matched",
   "page_title": "Lil Wayne",

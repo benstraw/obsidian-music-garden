@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "60-s",
+  "display_title": "60 S",
+  "display_name": "60 S",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "60 Sagittarii",
+    "60 Second Docs",
+    "60 Second Wipe Out",
+    "60 Seconds",
+    "60 Seconds of Solitude in Year Zero",
+    "60 Seconds!",
+    "60 Serpentis",
+    "60 South Sixth",
+    "60 State Street",
+    "60 Summers"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

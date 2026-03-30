@@ -1,0 +1,101 @@
+{
+  "canonical_slug": "main-source",
+  "name": "Main Source",
+  "play_count": 12,
+  "spotify_artist_id": "0zi2OowIfzNqUQiuUVyGLs",
+  "musicbrainz_artist_id": "a9af6b83-35a4-469d-8c2b-41f5ca73a8cc",
+  "spotify_url": "https://open.spotify.com/artist/0zi2OowIfzNqUQiuUVyGLs",
+  "genres": [
+    "electronic",
+    "hip-hop"
+  ],
+  "source_genres": [
+    "90 s rap",
+    "electronic",
+    "hip hop",
+    "hip-hop; rap",
+    "old school"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27308474419b268e237e8f3e22d",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0208474419b268e237e8f3e22d",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485108474419b268e237e8f3e22d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Main Source",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Main_Source",
+  "summary": "Main Source was a Canadian-American East Coast hip-hop group based in New York City/Toronto, composed of Toronto-born DJs and producers, K-Cut and Sir Scratch, as well as the New York City natives, DJ J.O.D and record producer Large Professor. Later, another Queens MC, Mikey D, replaced Large Professor.",
+  "candidates": [
+    "Main Course",
+    "Main Force Patrol",
+    "Main Soccer Field",
+    "Main Source",
+    "Main Source (album)",
+    "Main Southern railway line",
+    "Main course",
+    "MainSource Bank",
+    "MainSource Financial Group",
+    "The Main Force"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Main Source",
+    "page_url": "https://en.wikipedia.org/wiki/Main_Source",
+    "retrieved_at": "2026-03-28T10:40:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Main Source.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Main_Source.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Main_Source.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Main_Source.jpg",
+    "width": 305,
+    "height": 305,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:SKM_T_KHR\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:SKM T KHR (page does not exist)\"\u003eSKM T KHR\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Main Source.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Main_Source.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Main_Source.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Main_Source.jpg",
+      "width": 305,
+      "height": 305,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:SKM_T_KHR\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:SKM T KHR (page does not exist)\"\u003eSKM T KHR\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Main Source Group.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

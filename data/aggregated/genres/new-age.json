@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "new-age",
+  "display_title": "New Age",
+  "display_name": "New Age",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "New Age",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_Age",
+  "summary": "New Age is a range of spiritual or religious practices and beliefs that rapidly grew in Western society during the early 1970s. Its highly eclectic and unsystematic structure makes a precise definition difficult. Although many scholars consider it a religious movement, its adherents typically see it as spiritual or as a unification of mind, body, and spirit, and rarely use the term New Age themselves. Scholars often call it the New Age movement, although others contest this term and suggest it is better seen as a milieu or zeitgeist.",
+  "candidates": [
+    "New Age",
+    "New Age (Bangladesh)",
+    "New Age (KSI and Randolph album)",
+    "New Age (Marlon Roudette song)",
+    "New Age Girl",
+    "New Age Outlaws",
+    "New Age Steppers",
+    "New Age travellers",
+    "New-age music",
+    "The New Age (film)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "New Age",
+    "page_url": "https://en.wikipedia.org/wiki/New_Age",
+    "retrieved_at": "2026-03-28T15:58:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:7 Chakras.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:7_Chakras.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/7_Chakras.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/7_Chakras.JPG",
+    "width": 401,
+    "height": 392,
+    "license": "Public domain",
+    "author": "William Vroman"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:7 Chakras.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:7_Chakras.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/7_Chakras.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/7_Chakras.JPG",
+      "width": 401,
+      "height": 392,
+      "license": "Public domain",
+      "author": "William Vroman"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BENJAMIN CREME 2006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BENJAMIN_CREME_2006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/BENJAMIN_CREME_2006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/BENJAMIN_CREME_2006.jpg/960px-BENJAMIN_CREME_2006.jpg",
+      "width": 1181,
+      "height": 1394,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Bernard33\" title=\"User:Bernard33\"\u003eBernard33\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Barrel House.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Barrel_House.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Barrel_House.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Barrel_House.jpg/960px-Barrel_House.jpg",
+      "width": 2592,
+      "height": 1944,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "W. L. Tarbert"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CGJung.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CGJung.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/CGJung.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/960px-CGJung.jpg",
+      "width": 2604,
+      "height": 3909,
+      "license": "Public domain",
+      "author": "unknown, upload by \u003ca href=\"//commons.wikimedia.org/wiki/User:Parpan05\" title=\"User:Parpan05\"\u003eAdrian Michael\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Helena Petrovna Blavatsky.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Helena_Petrovna_Blavatsky.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Helena_Petrovna_Blavatsky.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Helena_Petrovna_Blavatsky.jpg",
+      "width": 295,
+      "height": 438,
+      "license": "Public domain",
+      "author": "Unsure"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--new-age.json",
+      "url": "https://en.wikipedia.org/wiki/New_Age",
+      "retrieved_at": "2026-03-28T15:58:47Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--new-age.json",
+      "url": "https://commons.wikimedia.org/wiki/File:7_Chakras.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,13 @@
+{
+  "source": "spotify",
+  "source_track_id": "1zwtvbJL8H8jG0qbbomS1P",
+  "name": "Nobody but You",
+  "primary_artist_name": "Lou Reed",
+  "primary_artist_canonical_slug": "lou-reed",
+  "additional_artist_slugs": [
+    "john-cale"
+  ],
+  "release_name": "Songs For Drella",
+  "release_canonical_slug": "lou-reed--songs-for-drella",
+  "spotify_url": "https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P"
+}

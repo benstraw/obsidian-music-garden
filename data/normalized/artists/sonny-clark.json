@@ -1,0 +1,47 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1Sc9ykJB728MAZab1Ocwy8",
+  "name": "Sonny Clark",
+  "spotify_url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8",
+  "musicbrainz_artist_id": "58368691-5b44-45d8-b617-47a7633f5e30",
+  "source_genres": [
+    "1–4 wochen",
+    "jazz",
+    "offizielle charts"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Sonny Clark",
+  "summary": "Conrad Yeatis \"Sonny\" Clark was an American jazz pianist and composer who mainly worked in the hard bop idiom.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Sonny_Clark",
+  "candidates": [
+    "Sonny Black",
+    "Sonny Black (album)",
+    "Sonny Carey",
+    "Sonny Carter",
+    "Sonny Clark",
+    "Sonny Clark Quintets",
+    "Sonny Clark Trio",
+    "Sonny Clay",
+    "Sonny Parker (basketball)",
+    "Sonya Clark"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sonny Clark",
+    "page_url": "https://en.wikipedia.org/wiki/Sonny_Clark",
+    "retrieved_at": "2026-03-28T10:42:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sonny Clark.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Clark.jpg"
+    }
+  ]
+}

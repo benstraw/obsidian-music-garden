@@ -1,0 +1,98 @@
+{
+  "canonical_slug": "college-rock",
+  "display_title": "College Rock",
+  "display_name": "College Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "College rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/College_rock",
+  "summary": "College rock is rock music played on student-run university and college campus radio stations located in the United States and Canada in the 1980s and 1990s. The stations' playlists were often created by students who avoided the mainstream rock played on commercial radio stations. The term \"College rock\" is used to define the alternative rock of the 80s, before the term \"alternative\" became common usage in 90s.",
+  "candidates": [
+    "College Hockey America",
+    "College Hockey South",
+    "College Road (film)",
+    "College Road Trip",
+    "College Romance",
+    "College of the Rockies",
+    "College recruiting",
+    "College rock",
+    "College rowing in the United States",
+    "College soccer"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "College rock",
+    "page_url": "https://en.wikipedia.org/wiki/College_rock",
+    "retrieved_at": "2026-03-28T15:54:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:R.E.M., Belgium, 1985.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:R.E.M.,_Belgium,_1985.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/R.E.M.%2C_Belgium%2C_1985.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/R.E.M.%2C_Belgium%2C_1985.jpg/960px-R.E.M.%2C_Belgium%2C_1985.jpg",
+    "width": 5642,
+    "height": 3637,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ylorson/\"\u003eYves Lorson\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:R.E.M., Belgium, 1985.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:R.E.M.,_Belgium,_1985.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/R.E.M.%2C_Belgium%2C_1985.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/R.E.M.%2C_Belgium%2C_1985.jpg/960px-R.E.M.%2C_Belgium%2C_1985.jpg",
+      "width": 5642,
+      "height": 3637,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ylorson/\"\u003eYves Lorson\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Replacements (1984 Laura Levine portrait).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Replacements_(1984_Laura_Levine_portrait).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Replacements_%281984_Laura_Levine_portrait%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Replacements_%281984_Laura_Levine_portrait%29.jpg/960px-The_Replacements_%281984_Laura_Levine_portrait%29.jpg",
+      "width": 1236,
+      "height": 989,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Laura_Levine\" class=\"extiw\" title=\"w:en:Laura Levine\"\u003e\u003cspan title=\"American artist\"\u003eLaura Levine\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--college-rock.json",
+      "url": "https://en.wikipedia.org/wiki/College_rock",
+      "retrieved_at": "2026-03-28T15:54:25Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--college-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:R.E.M.,_Belgium,_1985.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

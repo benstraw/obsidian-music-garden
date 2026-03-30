@@ -4,6 +4,9 @@
   "name": "Poppin' Gums",
   "primary_artist_name": "Verdèzul",
   "primary_artist_canonical_slug": "verdèzul",
+  "additional_artist_slugs": [
+    "larry-beville"
+  ],
   "release_name": "Poppin' Gums",
   "release_canonical_slug": "verdèzul--poppin-gums",
   "spotify_url": "https://open.spotify.com/track/53nwJwkVSHxAPTXcYmHrHm"

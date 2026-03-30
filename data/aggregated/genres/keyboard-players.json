@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "keyboard-players",
+  "display_title": "Keyboard Players",
+  "display_name": "Keyboard Players",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Keyboardist",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Keyboardist",
+  "summary": "A keyboardist or keyboard player is a musician who plays keyboard instruments. Until the early 1960s musicians who played keyboards were generally classified as either pianists or organists. Since the mid-1960s, a plethora of new musical instruments with keyboards have come into common usage, such as synthesizers and digital piano, requiring a more general term for a person who plays them. In the 2010s, professional keyboardists in popular music often play a variety of different keyboard instruments, including piano, tonewheel organ, synthesizer, and clavinet. Some keyboardists may also play related instruments such as piano accordion, melodica, pedal keyboard, or keyboard-layout bass pedals.",
+  "candidates": [
+    "Keyboard player"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Keyboardist",
+    "page_url": "https://en.wikipedia.org/wiki/Keyboardist",
+    "retrieved_at": "2026-03-28T15:57:49Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Yamaha_piano_player_%28Unsplash%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Yamaha_piano_player_%28Unsplash%29.jpg/330px-Yamaha_piano_player_%28Unsplash%29.jpg",
+    "width": 5616,
+    "height": 3744
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--keyboard-players.json",
+      "url": "https://en.wikipedia.org/wiki/Keyboardist",
+      "retrieved_at": "2026-03-28T15:57:49Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--keyboard-players.json",
+      "url": "https://en.wikipedia.org/wiki/Keyboardist",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

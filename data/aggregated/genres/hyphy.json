@@ -1,0 +1,97 @@
+{
+  "canonical_slug": "hyphy",
+  "display_title": "Hyphy",
+  "display_name": "Hyphy",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Hyphy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hyphy",
+  "summary": "The term hyphy is an Oakland, California, slang meaning \"hyperactive\". More specifically, it is an adjective describing the hip-hop music and the culture associated with the Oakland area. The term was coined by rapper Keak da Sneak.",
+  "candidates": [
+    "HYPHY",
+    "Hyphy",
+    "Hyphydrini",
+    "Hyphydrus",
+    "Hyphydrus intermixtus",
+    "Hyphydrus loriae",
+    "Hyphydrus lyratus",
+    "Hyphydrus ovatus",
+    "Hyphydrus renardi",
+    "Hyphylline"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hyphy",
+    "page_url": "https://en.wikipedia.org/wiki/Hyphy",
+    "retrieved_at": "2026-03-28T15:57:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of the United States.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+    "width": 1235,
+    "height": 650,
+    "license": "Public domain",
+    "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the United States.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/960px-Flag_of_the_United_States.svg.png",
+      "width": 1235,
+      "height": 650,
+      "license": "Public domain",
+      "author": "Uploaded by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dbenbenn\" title=\"User:Dbenbenn\"\u003eDbenbenn\u003c/a\u003e; edited by users such as \u003ca href=\"//commons.wikimedia.org/wiki/User:Zscout370\" title=\"User:Zscout370\"\u003eZscout370\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Jacobolus\" title=\"User:Jacobolus\"\u003eJacobolus\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Indolences\" title=\"User:Indolences\"\u003eIndolences\u003c/a\u003e, and \u003ca href=\"//commons.wikimedia.org/wiki/User:Technion\" title=\"User:Technion\"\u003eTechnion\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Musical note nicu bucule 01.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_note_nicu_bucule_01.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Musical_note_nicu_bucule_01.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Musical_note_nicu_bucule_01.svg/960px-Musical_note_nicu_bucule_01.svg.png",
+      "width": 100,
+      "height": 100,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/artist/nicubunu\"\u003enicubunu\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--hyphy.json",
+      "url": "https://en.wikipedia.org/wiki/Hyphy",
+      "retrieved_at": "2026-03-28T15:57:07Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--hyphy.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

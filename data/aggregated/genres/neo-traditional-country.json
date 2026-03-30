@@ -1,0 +1,78 @@
+{
+  "canonical_slug": "neo-traditional-country",
+  "display_title": "Neo Traditional Country",
+  "display_name": "Neo Traditional Country",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Neotraditional country",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Neotraditional_country",
+  "summary": "Neotraditional country is a country music style and subgenre that developed in the 1980s and emphasizes the traditional country instrumental background and traditional country vocals found in subgenres popularized in the 1940s-60s. Neo-traditional country draws inspiration from styles such as honky-tonk, Western swing, and the Bakersfield sound and performers such as Hank Williams, George Jones, Loretta Lynn, Buck Owens, Tammy Wynette, Kitty Wells, Bob Wills, Ernest Tubb, and Merle Haggard. as well as often dressing in the fashions of the country music scene of the 1940s-1960s.",
+  "candidates": [
+    "Neotraditional country"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neotraditional country",
+    "page_url": "https://en.wikipedia.org/wiki/Neotraditional_country",
+    "retrieved_at": "2026-03-28T15:58:43Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:George Strait on stage.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:George_Strait_on_stage.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/George_Strait_on_stage.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/George_Strait_on_stage.jpg/960px-George_Strait_on_stage.jpg",
+    "width": 2336,
+    "height": 3504,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36703550@N00\"\u003eCraig ONeal\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:George Strait on stage.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:George_Strait_on_stage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/George_Strait_on_stage.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/George_Strait_on_stage.jpg/960px-George_Strait_on_stage.jpg",
+      "width": 2336,
+      "height": 3504,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/36703550@N00\"\u003eCraig ONeal\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--neo-traditional-country.json",
+      "url": "https://en.wikipedia.org/wiki/Neotraditional_country",
+      "retrieved_at": "2026-03-28T15:58:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--neo-traditional-country.json",
+      "url": "https://commons.wikimedia.org/wiki/File:George_Strait_on_stage.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

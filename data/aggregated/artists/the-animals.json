@@ -1,13 +1,24 @@
 {
   "canonical_slug": "the-animals",
   "name": "The Animals",
+  "play_count": 5,
   "spotify_artist_id": "3ICflSq6ZgYAIrm2CTkfVP",
+  "musicbrainz_artist_id": "4d8afa16-4018-4ca8-8b5e-ede8f9314562",
   "spotify_url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP",
   "genres": [
-    "classic-rock"
+    "blues-rock",
+    "classic-rock",
+    "rock"
   ],
   "source_genres": [
-    "classic rock"
+    "blues rock",
+    "british blues",
+    "british invasion",
+    "british rhythm \u0026 blues",
+    "classic rock",
+    "rhythm \u0026 blues",
+    "rock",
+    "rock and roll"
   ],
   "images": [
     {
@@ -93,5 +104,5 @@
       "author": "\u003cp\u003eKRLA Beat magazine\n\u003c/p\u003e\n\u003ctable class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\"\u003e\n\n\u003ctbody\u003e\u003ctr\u003e\n\u003ctd style=\"padding:5px\"\u003e\u003cdiv class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png\" decoding=\"async\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"\u003e\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/td\u003e\n\u003ctd style=\"width:100%\"\u003eThis  is a \u003ci\u003e\u003cb\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003e\u003ca href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"\u003e\u003cspan lang=\"en\" dir=\"ltr\"\u003eretouched picture\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/b\u003e\u003c/i\u003e, which means that it has been digitally altered from its original version.   Modifications made by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dcameron814\" title=\"User:Dcameron814\"\u003eDcameron814\u003c/a\u003e.\n\u003cp\u003e\u003cspan class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3D 2%3D 3%3DDcameron814 4%3D 5%3D\"\u003e \u003c/span\u003e\n\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

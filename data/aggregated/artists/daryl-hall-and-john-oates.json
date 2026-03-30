@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "daryl-hall-and-john-oates",
+  "name": "Daryl Hall \u0026 John Oates",
+  "play_count": 4,
+  "spotify_artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+  "spotify_url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H",
+  "genres": [
+    "soft-rock",
+    "yacht-rock"
+  ],
+  "source_genres": [
+    "soft rock",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebae81417d966e209b735b1160",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174ae81417d966e209b735b1160",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178ae81417d966e209b735b1160",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

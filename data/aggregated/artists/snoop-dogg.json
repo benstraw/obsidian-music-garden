@@ -1,7 +1,9 @@
 {
   "canonical_slug": "snoop-dogg",
   "name": "Snoop Dogg",
+  "play_count": 8,
   "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+  "musicbrainz_artist_id": "f90e8b26-9e52-4669-a5c9-e28529c47894",
   "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG",
   "genres": [
     "g-funk",
@@ -130,5 +132,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

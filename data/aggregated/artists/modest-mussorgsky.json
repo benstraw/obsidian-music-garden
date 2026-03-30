@@ -1,0 +1,110 @@
+{
+  "canonical_slug": "modest-mussorgsky",
+  "name": "Modest Mussorgsky",
+  "play_count": 9,
+  "spotify_artist_id": "284mnx33IWcymQEpMxyfHl",
+  "spotify_url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/20b923e03dd0fb8cd20fb93559b9ed9a0e7aefbc",
+      "height": 1291,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/3e128653fdcf2f4a0f563a6d658a2aff945adb99",
+      "height": 826,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/e6c99bfcb3d04655f541268cae3efdf7cf35de7e",
+      "height": 258,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/7b78362a6ff6c8b866adb2fca13f9d5a25ec2c5d",
+      "height": 83,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Modest Mussorgsky",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Modest_Mussorgsky",
+  "summary": "Modest Petrovich Mussorgsky was a Russian composer, one of the group known as \"The Five.\" He was an innovator of Russian music in the Romantic period and strove to achieve a uniquely Russian musical identity, often in deliberate defiance of the established conventions of Western music.",
+  "candidates": [
+    "Modest Mussorgsky"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Modest Mussorgsky",
+    "page_url": "https://en.wikipedia.org/wiki/Modest_Mussorgsky",
+    "retrieved_at": "2026-03-28T10:41:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alexander Dargomyzhsky.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexander_Dargomyzhsky.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alexander_Dargomyzhsky.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alexander_Dargomyzhsky.jpg",
+    "width": 300,
+    "height": 420,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alexander Dargomyzhsky.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexander_Dargomyzhsky.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alexander_Dargomyzhsky.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alexander_Dargomyzhsky.jpg",
+      "width": 300,
+      "height": 420,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Russia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/960px-Flag_of_Russia.svg.png",
+      "width": 900,
+      "height": 600,
+      "license": "Public domain",
+      "author": "Peter the Great"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gustave Flaubert.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gustave_Flaubert.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gustave_Flaubert.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Flaubert.jpg/960px-Gustave_Flaubert.jpg",
+      "width": 984,
+      "height": 1084,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Nadar\" class=\"extiw\" title=\"w:en:Nadar\"\u003e\u003cspan title=\"French photographer and balloonist (1820–1910)\"\u003eNadar\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0ofdTvYtx4LpsVjemJt71X",
   "name": "Lotus",
   "primary_artist_name": "Little Simz",
-  "primary_artist_canonical_slug": "little-simz"
+  "primary_artist_canonical_slug": "little-simz",
+  "musicbrainz_release_id": "9dc39f94-50a7-43cf-bba9-1882caab0966",
+  "musicbrainz_release_group_id": "749672ae-a51d-4cf5-920c-beaeab147bb6"
 }

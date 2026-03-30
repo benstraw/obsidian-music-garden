@@ -1,0 +1,81 @@
+{
+  "canonical_slug": "lord-finesse",
+  "name": "Lord Finesse",
+  "play_count": 12,
+  "spotify_artist_id": "1C6G15UmVQMDGpYbdsf1Oi",
+  "musicbrainz_artist_id": "bcd09d6f-ee04-4418-a39d-4ecb57747116",
+  "spotify_url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi",
+  "genres": [
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop"
+  ],
+  "source_genres": [
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/8a4163db48071da0d503fe807afb265ec9a6b410",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/e9e774e9b2fe5860b68dd8d40de3e9d9fba586bd",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1d550709b387b19de8749250b04ab1b988dbd553",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/2dc08792e7dd9d3e78b282f58e0732c8ee605bdc",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Lord Finesse",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lord_Finesse",
+  "summary": "Robert A. Hall Jr., known by his stage name Lord Finesse, is an American rapper and hip-hop producer from The Bronx, New York, best known as the leader of the D.I.T.C. crew. About.com ranked him number 29 on its list of the Top-50 Hip-Hop Producers.",
+  "candidates": [
+    "Lord Finesse",
+    "Lord Finsberg"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lord Finesse",
+    "page_url": "https://en.wikipedia.org/wiki/Lord_Finesse",
+    "retrieved_at": "2026-03-28T10:40:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Lord Finesse.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Lord_Finesse.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lord_Finesse.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lord_Finesse.jpg/960px-Lord_Finesse.jpg",
+    "width": 5184,
+    "height": 3456,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/56325238@N08/\"\u003eJonathanMena\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lord Finesse.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lord_Finesse.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lord_Finesse.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lord_Finesse.jpg/960px-Lord_Finesse.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/56325238@N08/\"\u003eJonathanMena\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

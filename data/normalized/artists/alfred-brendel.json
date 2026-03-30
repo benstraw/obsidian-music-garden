@@ -1,0 +1,82 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5vBh0nve44zwwVF5KWtCwA",
+  "name": "Alfred Brendel",
+  "spotify_url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA",
+  "musicbrainz_artist_id": "4a37c64f-4151-4c4b-ab69-a58450f9967e",
+  "source_genres": [
+    "austrian pianist",
+    "classical",
+    "pianist",
+    "piano"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Alfred Brendel",
+  "summary": "Alfred Brendel was a Czech-born Austrian classical pianist, poet, author, composer and lecturer, based in London. He is noted for his performances of music by Ludwig van Beethoven, Franz Schubert, and Franz Liszt. He made three recordings of Beethoven's 32 piano sonatas and was the first pianist to record Beethoven's complete works for solo piano.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Alfred_Brendel",
+  "candidates": [
+    "Alfred Brendel",
+    "Alfred Brendel discography",
+    "Alfred Brendel – Unpublished Live and Radio Performances 1968–2001",
+    "Alfred Frenzel",
+    "Alfred Mendelsohn",
+    "Alfred Randell",
+    "Alfred Rendle"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alfred Brendel",
+    "page_url": "https://en.wikipedia.org/wiki/Alfred_Brendel",
+    "retrieved_at": "2026-03-28T10:37:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alfredbrendel.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alfredbrendel.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alfredbrendel.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alfredbrendel.jpg",
+    "width": 425,
+    "height": 640,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.jiyangchen.com\"\u003eJiyang Chen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alfredbrendel.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alfredbrendel.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alfredbrendel.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alfredbrendel.jpg",
+      "width": 425,
+      "height": 640,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.jiyangchen.com\"\u003eJiyang Chen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
+  ]
+}

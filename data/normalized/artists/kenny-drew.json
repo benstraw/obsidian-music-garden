@@ -1,0 +1,39 @@
+{
+  "source": "spotify",
+  "source_artist_id": "65uKPt40QH8dMBLuoJHPVY",
+  "name": "Kenny Drew",
+  "spotify_url": "https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY",
+  "musicbrainz_artist_id": "99122661-412b-46bd-9cf4-ab52d41559b8",
+  "status": "matched",
+  "page_title": "Kenny Drew",
+  "summary": "Kenneth Sidney \"Kenny\" Drew was an American-Danish jazz pianist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Kenny_Drew",
+  "candidates": [
+    "Deborah Kenny",
+    "Kenny Deuchar",
+    "Kenny Drew",
+    "Kenny Drew Jr.",
+    "Kenny Drew Jr. at Maybeck",
+    "Kenny Drew Trio",
+    "Kenny Drew and His Progressive Piano",
+    "Kenny Greenberg",
+    "Kenny Irwin Jr.",
+    "Shaun Kenny-Dowall"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Kenny Drew",
+    "page_url": "https://en.wikipedia.org/wiki/Kenny_Drew",
+    "retrieved_at": "2026-03-28T10:40:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Kenny Drew.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kenny Drew.jpg"
+    }
+  ]
+}

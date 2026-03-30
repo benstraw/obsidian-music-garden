@@ -1,0 +1,90 @@
+{
+  "canonical_slug": "stephen-hough",
+  "name": "Stephen Hough",
+  "spotify_artist_id": "3G5zQYaRH9y6ruE4QnoITP",
+  "musicbrainz_artist_id": "fd7e7a8f-38b4-4c6a-964f-3c9ed53a898e",
+  "spotify_url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "british composer",
+    "british pianist",
+    "classical",
+    "composer",
+    "pianist",
+    "piano",
+    "western classical"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/52bd535effda6b8beafe447db9fb4acf1b5ca409",
+      "height": 1500,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/5e0cc62e6fcfa6133bfb29053e1c15eb5e06ef8c",
+      "height": 960,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/4ce1a03327563a84c9978fe3b72b00d7ee998271",
+      "height": 300,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/868a45d1af74fe31686c7bc1f0c414e946b13aff",
+      "height": 96,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Stephen Hough",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Hough",
+  "summary": "Sir Stephen Andrew Gill Hough is a British-Australian classical pianist, composer and writer.",
+  "candidates": [
+    "Stephen Coughlan",
+    "Stephen Doughty",
+    "Stephen Gough",
+    "Stephen Hobhouse",
+    "Stephen Hogan",
+    "Stephen Hough",
+    "Stephen Houghton",
+    "Stephen House",
+    "Stephen Hughes (footballer, born 1976)",
+    "Stephen Hughes (footballer, born 1982)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Stephen Hough",
+    "page_url": "https://en.wikipedia.org/wiki/Stephen_Hough",
+    "retrieved_at": "2026-03-28T10:42:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Stephen Hough02 (51387794306).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Stephen_Hough02_(51387794306).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stephen_Hough02_%2851387794306%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stephen_Hough02_%2851387794306%29.jpg/960px-Stephen_Hough02_%2851387794306%29.jpg",
+    "width": 4448,
+    "height": 6087,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51119063@N04\"\u003eQuincena Musical\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stephen Hough02 (51387794306).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stephen_Hough02_(51387794306).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Stephen_Hough02_%2851387794306%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stephen_Hough02_%2851387794306%29.jpg/960px-Stephen_Hough02_%2851387794306%29.jpg",
+      "width": 4448,
+      "height": 6087,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51119063@N04\"\u003eQuincena Musical\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

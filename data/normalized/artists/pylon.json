@@ -1,0 +1,33 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0eLbmh14uMx3VB0MPM1r4L",
+  "name": "Pylon",
+  "spotify_url": "https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L",
+  "musicbrainz_artist_id": "5f895285-0598-4a03-a10f-ac171746ef45",
+  "source_genres": [
+    "indie rock",
+    "new wave",
+    "post-punk",
+    "punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "indie-rock",
+    "new-wave",
+    "post-punk",
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Pylon",
+    "Pylon (album)",
+    "Pylon (band)",
+    "Pylon (novel)",
+    "Pylon Peak (Wyoming)",
+    "Pylon Reenactment Society",
+    "Pylon turn",
+    "Pylons of Cádiz",
+    "Pylons of Messina",
+    "Pylons project"
+  ]
+}

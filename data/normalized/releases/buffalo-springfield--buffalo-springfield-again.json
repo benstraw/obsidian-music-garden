@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7hez8jibf36E66GHpFkWz7",
   "name": "Buffalo Springfield Again",
   "primary_artist_name": "Buffalo Springfield",
-  "primary_artist_canonical_slug": "buffalo-springfield"
+  "primary_artist_canonical_slug": "buffalo-springfield",
+  "musicbrainz_release_id": "369047b4-1e2f-495e-be3a-fca5e8e1059e",
+  "musicbrainz_release_group_id": "28768f4d-dd43-382d-a56f-79ddfa6597a9"
 }

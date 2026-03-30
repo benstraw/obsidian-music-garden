@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "novelists",
+  "display_title": "Novelists",
+  "display_name": "Novelists",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Novelis",
+    "Novelist",
+    "Novelist (musician)",
+    "Novelist as a Vocation",
+    "Novelists (band)",
+    "Novelists from Russia",
+    "Novelization",
+    "Novellist (horse)",
+    "The Novelist",
+    "The Novelist's Film"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

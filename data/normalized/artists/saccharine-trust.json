@@ -1,0 +1,31 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4Xp3cd2Dx2QsSnUtAMkVHS",
+  "name": "Saccharine Trust",
+  "spotify_url": "https://open.spotify.com/artist/4Xp3cd2Dx2QsSnUtAMkVHS",
+  "musicbrainz_artist_id": "0bd450a7-32dd-496f-a0d4-1f71a2226add",
+  "source_genres": [
+    "experimental",
+    "hardcore punk",
+    "post-hardcore",
+    "punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "experimental",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Saccharine Trust",
+  "summary": "Saccharine Trust is an American punk rock band from Los Angeles, California, formed in 1980 by singer Jack Brewer and guitarist Joe Baiza. The band would frequently perform with SST labelmates Minutemen and Black Flag. However, Baiza described Saccharine Trust as the \"black sheep\" of the SST roster. Drummer Rob Holzman appeared on their 1981 debut Paganicons but left the band to play in Slovenly, replaced by drummer Tony Cicero. After a ten-year hiatus circa 1986 to 1996, the band re-formed and began performing around the West Coast.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Saccharine_Trust",
+  "candidates": [
+    "Saccharine Trust"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Saccharine Trust",
+    "page_url": "https://en.wikipedia.org/wiki/Saccharine_Trust",
+    "retrieved_at": "2026-03-28T10:42:25Z"
+  }
+}

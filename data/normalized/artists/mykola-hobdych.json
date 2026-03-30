@@ -1,0 +1,58 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4DSpdI6IODyLdw0Wg4bUXe",
+  "name": "Mykola Hobdych",
+  "spotify_url": "https://open.spotify.com/artist/4DSpdI6IODyLdw0Wg4bUXe",
+  "status": "matched",
+  "page_title": "Mykola Hobdych",
+  "summary": "Mykola Mykolayovych Hobdych is a Ukrainian choral conductor, known for being the founder and director of the Kyiv Chamber Choir. He was born in Bytkiv, and he founded the Kyiv Chamber Choir in 1990 with alumni of the Kiev State Conservatory.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Mykola_Hobdych",
+  "candidates": [
+    "Mykola Hobdych",
+    "Mykola Hordiychuk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mykola Hobdych",
+    "page_url": "https://en.wikipedia.org/wiki/Mykola_Hobdych",
+    "retrieved_at": "2026-03-28T10:41:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Maestro.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Maestro.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Maestro.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Maestro.svg/960px-Maestro.svg.png",
+    "width": 500,
+    "height": 500,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Blackngold29\" title=\"User:Blackngold29\"\u003eBlackngold29\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maestro.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maestro.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Maestro.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Maestro.svg/960px-Maestro.svg.png",
+      "width": 500,
+      "height": 500,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Blackngold29\" title=\"User:Blackngold29\"\u003eBlackngold29\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Микола Гобдич.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%93%D0%BE%D0%B1%D0%B4%D0%B8%D1%87.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%93%D0%BE%D0%B1%D0%B4%D0%B8%D1%87.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%93%D0%BE%D0%B1%D0%B4%D0%B8%D1%87.jpg",
+      "width": 917,
+      "height": 967,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:DmytroRedchuk\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:DmytroRedchuk (page does not exist)\"\u003eDmytro O. Redchuk\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,13 +1,18 @@
 {
   "canonical_slug": "busta-rhymes",
   "name": "Busta Rhymes",
+  "play_count": 4,
   "spotify_artist_id": "1YfEcTuGvBQ8xSD1f53UnK",
+  "musicbrainz_artist_id": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
   "spotify_url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK",
   "genres": [
-    "east-coast-hip-hop"
+    "east-coast-hip-hop",
+    "hip-hop"
   ],
   "source_genres": [
-    "east coast hip hop"
+    "east coast hip hop",
+    "hip hop",
+    "hip-hop"
   ],
   "images": [
     {
@@ -116,5 +121,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/14453171@N00\"\u003eNabeel Hyatt\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

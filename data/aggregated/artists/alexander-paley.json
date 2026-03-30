@@ -1,0 +1,41 @@
+{
+  "canonical_slug": "alexander-paley",
+  "name": "Alexander Paley",
+  "spotify_artist_id": "69hDvJyXHpQoSlSZGaYoUK",
+  "musicbrainz_artist_id": "d6474f74-cc4e-4ae4-9693-dd9a783b8b22",
+  "spotify_url": "https://open.spotify.com/artist/69hDvJyXHpQoSlSZGaYoUK",
+  "source_genres": [
+    "pianist"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ed339e1f3dbd7870bcb64c2ce28f3bc792d794cd",
+      "height": 235,
+      "width": 357
+    },
+    {
+      "url": "https://i.scdn.co/image/63b426636fc8770f6e7456c4d85e3d9e6d914a50",
+      "height": 132,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/abf8e029490303b5ec876f5df16d2417154db793",
+      "height": 42,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Aleksandr Kaleri",
+    "Alexander Alekhine",
+    "Alexander Dalrymple",
+    "Alexander Palace",
+    "Alexander Payne",
+    "Alexander Peya",
+    "Alexander polynomial",
+    "Alexandre Alexeieff",
+    "Casey Alexander",
+    "Dale Alexander"
+  ],
+  "last_updated": "2026-03-30"
+}

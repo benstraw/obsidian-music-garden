@@ -1,0 +1,71 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1yNOfXGQNGjAynk77wv85x",
+  "name": "John Lee Hooker",
+  "spotify_url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x",
+  "musicbrainz_artist_id": "b0122194-c49a-46a1-ade7-84d1d76bd8e9",
+  "source_genres": [
+    "blues"
+  ],
+  "canonical_genre_slugs": [
+    "blues"
+  ],
+  "status": "matched",
+  "page_title": "John Lee Hooker",
+  "summary": "John Lee Hooker was an American blues singer, songwriter, and guitarist. The son of a sharecropper, he rose to prominence performing an electric guitar-style adaptation of Delta blues that he developed in Detroit. Hooker often incorporated other elements, including talking blues and early North Mississippi hill country blues. He developed his own driving-rhythm boogie style, distinct from the 1930s–1940s piano-derived boogie-woogie. Hooker was ranked 35 in Rolling Stone's 2015 list of 100 greatest guitarists, and has been cited as one of the greatest male blues vocalists of all time.",
+  "canonical_url": "https://en.wikipedia.org/wiki/John_Lee_Hooker",
+  "candidates": [
+    "John Lee Hooker",
+    "John Lee Hooker Jr.",
+    "John Lee Hooker Live at the Café Au Go-Go",
+    "John Lee Hooker Plays \u0026 Sings the Blues",
+    "John Lee Hooker discography",
+    "John Lee Hooker on Campus"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Lee Hooker",
+    "page_url": "https://en.wikipedia.org/wiki/John_Lee_Hooker",
+    "retrieved_at": "2026-03-28T10:40:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:JohnLeeHooker1997.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:JohnLeeHooker1997.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/JohnLeeHooker1997.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JohnLeeHooker1997.jpg/960px-JohnLeeHooker1997.jpg",
+    "width": 1000,
+    "height": 714,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sumori\" title=\"User:Sumori\"\u003eMasahiro Sumori\u003c/a\u003e",
+    "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/wiki/User:Sumori\" title=\"User:Sumori\"\u003eSumori\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JohnLeeHooker1997.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JohnLeeHooker1997.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/JohnLeeHooker1997.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JohnLeeHooker1997.jpg/960px-JohnLeeHooker1997.jpg",
+      "width": 1000,
+      "height": 714,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sumori\" title=\"User:Sumori\"\u003eMasahiro Sumori\u003c/a\u003e",
+      "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/wiki/User:Sumori\" title=\"User:Sumori\"\u003eSumori\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Lee Hooker two.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Lee_Hooker_two.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/John_Lee_Hooker_two.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/John_Lee_Hooker_two.jpg",
+      "width": 347,
+      "height": 515,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
+    }
+  ]
+}

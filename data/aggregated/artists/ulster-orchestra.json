@@ -1,0 +1,70 @@
+{
+  "canonical_slug": "ulster-orchestra",
+  "name": "Ulster Orchestra",
+  "spotify_artist_id": "6ibvdCG0uLZYYq4HpUmXQ1",
+  "musicbrainz_artist_id": "b44f2f36-afe5-479a-8681-6bfb7ed026fa",
+  "spotify_url": "https://open.spotify.com/artist/6ibvdCG0uLZYYq4HpUmXQ1",
+  "source_genres": [
+    "british orchestra",
+    "symphony orchestra"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5c917439e9e98b026f116ee2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745c917439e9e98b026f116ee2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785c917439e9e98b026f116ee2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ulster Orchestra",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ulster_Orchestra",
+  "summary": "The Ulster Orchestra is a full-time professional orchestra in Northern Ireland. Based in Belfast, the orchestra plays the majority of its concerts in Belfast's Ulster Hall and Waterfront Hall. It also gives concerts across the United Kingdom and the Republic of Ireland, including performances at the Belfast Festival, the BBC Proms, the Wexford Opera Festival, the Kilkenny Arts Festival, and the National Concert Hall, Dublin. The orchestra currently employs 63 full-time musicians and 17 administrative support staff.",
+  "candidates": [
+    "Ulster Orchestra"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ulster Orchestra",
+    "page_url": "https://en.wikipedia.org/wiki/Ulster_Orchestra",
+    "retrieved_at": "2026-03-28T10:43:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Elmwood Hall, Belfast.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Elmwood_Hall,_Belfast.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Elmwood_Hall%2C_Belfast.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Elmwood_Hall%2C_Belfast.jpg/960px-Elmwood_Hall%2C_Belfast.jpg",
+    "width": 1768,
+    "height": 2504,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Peter_Clarke\" class=\"extiw\" title=\"en:User:Peter Clarke\"\u003e\u003cfont color=\"Blue\"\u003e\u003cb\u003ePeter\u003c/b\u003e\u003c/font\u003e\u003cfont color=\"Green\"\u003e\u003cb\u003eClarke\u003c/b\u003e\u003c/font\u003e\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Peter_Clarke\" class=\"extiw\" title=\"wikipedia:User:Peter Clarke\"\u003ePeter Clarke\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elmwood Hall, Belfast.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elmwood_Hall,_Belfast.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Elmwood_Hall%2C_Belfast.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Elmwood_Hall%2C_Belfast.jpg/960px-Elmwood_Hall%2C_Belfast.jpg",
+      "width": 1768,
+      "height": 2504,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Peter_Clarke\" class=\"extiw\" title=\"en:User:Peter Clarke\"\u003e\u003cfont color=\"Blue\"\u003e\u003cb\u003ePeter\u003c/b\u003e\u003c/font\u003e\u003cfont color=\"Green\"\u003e\u003cb\u003eClarke\u003c/b\u003e\u003c/font\u003e\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Peter_Clarke\" class=\"extiw\" title=\"wikipedia:User:Peter Clarke\"\u003ePeter Clarke\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

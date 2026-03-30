@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "11oR0ZuqB3ucZwb5TGbZxb",
   "name": "Licensed To Ill",
   "primary_artist_name": "Beastie Boys",
-  "primary_artist_canonical_slug": "beastie-boys"
+  "primary_artist_canonical_slug": "beastie-boys",
+  "musicbrainz_release_id": "d930b075-b692-478d-bb67-ccc350197a16",
+  "musicbrainz_release_group_id": "57f5e7c8-2a6e-34a0-b4cd-0e77695bc36f"
 }

@@ -1,0 +1,134 @@
+{
+  "canonical_slug": "nerdcore",
+  "display_title": "Nerdcore",
+  "display_name": "Nerdcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Nerdcore",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nerdcore",
+  "summary": "Nerdcore is a genre of hip hop music and nerd music characterized by subject matter considered of interest to nerds and geeks. Self-described nerdcore rapper MC Frontalot has the earliest known recorded use of the term in the 2000 song \"Nerdcore Hiphop\". As a niche genre similar to punk rock, nerdcore generally holds to the DIY ethic, and has a history of self-publishing and self-production.",
+  "candidates": [
+    "NeocoreGames",
+    "Nerd Corps Entertainment",
+    "Nerdcore",
+    "Nerdcore Hiphop (album)",
+    "Nerdcore Rising",
+    "Nerdcore Rising (film)",
+    "Nerdcore for Life",
+    "Nerdcore hiphop",
+    "Nerdcore rock",
+    "New Corella"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Nerdcore",
+    "page_url": "https://en.wikipedia.org/wiki/Nerdcore",
+    "retrieved_at": "2026-03-28T15:58:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Frontalot.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Frontalot.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Frontalot.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Frontalot.jpg",
+    "width": 320,
+    "height": 457,
+    "license": "Public domain",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Crapbot3000\" class=\"extiw\" title=\"wikipedia:User:Crapbot3000\"\u003eCrapbot3000\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frontalot.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frontalot.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Frontalot.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Frontalot.jpg",
+      "width": 320,
+      "height": 457,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Crapbot3000\" class=\"extiw\" title=\"wikipedia:User:Crapbot3000\"\u003eCrapbot3000\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MC Chris.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MC_Chris.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/MC_Chris.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MC_Chris.jpg/960px-MC_Chris.jpg",
+      "width": 2592,
+      "height": 1944,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8045885@N04\"\u003elocusolus\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:MC ROUTER@ THE WRECK ROOM.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:MC_ROUTER@_THE_WRECK_ROOM.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/MC_ROUTER%40_THE_WRECK_ROOM.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/MC_ROUTER%40_THE_WRECK_ROOM.jpg",
+      "width": 600,
+      "height": 800,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Mark Ceron II",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Marctastic82\" class=\"extiw\" title=\"en:User:Marctastic82\"\u003eUser:Marctastic82\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nerdapalooza 2008 - Schäffer the Darklord (2655355046).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nerdapalooza_2008_-_Sch%C3%A4ffer_the_Darklord_(2655355046).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nerdapalooza_2008_-_Sch%C3%A4ffer_the_Darklord_%282655355046%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nerdapalooza_2008_-_Sch%C3%A4ffer_the_Darklord_%282655355046%29.jpg/960px-Nerdapalooza_2008_-_Sch%C3%A4ffer_the_Darklord_%282655355046%29.jpg",
+      "width": 2304,
+      "height": 3072,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/16014982@N00\"\u003eSteve Stair\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--nerdcore.json",
+      "url": "https://en.wikipedia.org/wiki/Nerdcore",
+      "retrieved_at": "2026-03-28T15:58:46Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--nerdcore.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Frontalot.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

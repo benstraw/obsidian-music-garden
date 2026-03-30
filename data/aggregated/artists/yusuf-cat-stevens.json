@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "yusuf-cat-stevens",
+  "name": "Yusuf / Cat Stevens",
+  "play_count": 8,
+  "spotify_artist_id": "08F3Y3SctIlsOEmKd6dnH8",
+  "spotify_url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebcff97c36c1d9a2a1d421966c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174cff97c36c1d9a2a1d421966c",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178cff97c36c1d9a2a1d421966c",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Cat Stevens",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cat_Stevens",
+  "summary": "Yusuf Islam, commonly known by his stage names Cat Stevens or Yusuf / Cat Stevens, is a British singer-songwriter and musician. He has sold more than 100 million records and has more than two billion streams. His musical style consists of folk, rock, pop, and, later in his career, Islamic music. Following two decades in which he performed only music which met strict religious standards, he returned to making secular music in 2006. He was inducted into the Rock and Roll Hall of Fame in 2014. He has received two honorary doctorates and awards for promoting peace as well as other humanitarian awards.",
+  "candidates": [
+    "Yusuf / Cat Stevens"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cat Stevens",
+    "page_url": "https://en.wikipedia.org/wiki/Cat_Stevens",
+    "retrieved_at": "2026-03-28T10:44:15Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cat_Stevens_Glastonbury_2023_-2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cat_Stevens_Glastonbury_2023_-2.jpg/330px-Cat_Stevens_Glastonbury_2023_-2.jpg",
+    "width": 2555,
+    "height": 3236
+  },
+  "last_updated": "2026-03-28"
+}

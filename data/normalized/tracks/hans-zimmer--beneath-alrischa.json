@@ -4,6 +4,9 @@
   "name": "Beneath Alrischa",
   "primary_artist_name": "Hans Zimmer",
   "primary_artist_canonical_slug": "hans-zimmer",
+  "additional_artist_slugs": [
+    "richard-harvey"
+  ],
   "release_name": "The Da Vinci Code",
   "release_canonical_slug": "hans-zimmer--the-da-vinci-code",
   "spotify_url": "https://open.spotify.com/track/2Or7dR85K5TvJGjQFliVZc"

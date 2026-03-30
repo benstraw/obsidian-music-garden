@@ -1,0 +1,77 @@
+{
+  "canonical_slug": "k-def",
+  "name": "K-DEF",
+  "play_count": 5,
+  "spotify_artist_id": "16FH3fjfgWVv3JbLs8zUA7",
+  "musicbrainz_artist_id": "e9d23114-8264-48e1-9c44-55677c873092",
+  "spotify_url": "https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/d1a3dab61aba7940ebf08a9eed8608bb5426887b",
+      "height": 660,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/c799f7b33a051fd95ec26163daf2cbd2d6abcd5b",
+      "height": 422,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/14b7608e678bad77b028f0096febc9e2a9a2c89c",
+      "height": 132,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d715c2a08cea0c1b479095fa61a3d95f2b06d979",
+      "height": 42,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "K-Def",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/K-Def",
+  "summary": "K-Def is an American, New Jersey–based, hip hop producer/DJ who has been actively involved in the music industry since the early 1990s. He has recently produced music for artists such as Ghostface Killah and Puff Daddy. K-Def earned critical praise early in his career for his work with Marley Marl on the album Here Come the Lords by the hip hop group Lords of the Underground. Among the songs from that album that benefited from K-Def's production work include the hits \"Funky Child\" and \"Chief Rocka\".",
+  "candidates": [
+    "K Desktop Environment 1",
+    "K Desktop Environment 2",
+    "K Desktop Environment 3",
+    "K desktop",
+    "K-Dee",
+    "K-Def",
+    "K-Denk",
+    "K-Design Award",
+    "KDE Frameworks",
+    "KDEF"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "K-Def",
+    "page_url": "https://en.wikipedia.org/wiki/K-Def",
+    "retrieved_at": "2026-03-28T10:40:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

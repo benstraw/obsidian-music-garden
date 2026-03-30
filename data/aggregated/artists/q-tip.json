@@ -1,0 +1,37 @@
+{
+  "canonical_slug": "q-tip",
+  "name": "Q-Tip",
+  "spotify_artist_id": "3ZotbHeyVQKxQCPDJuQ4SU",
+  "musicbrainz_artist_id": "a61d34cc-803d-44fb-88dd-d88a1622f6b0",
+  "spotify_url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU",
+  "status": "matched",
+  "wikipedia_title": "Cotton swab",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cotton_swab",
+  "summary": "Cotton swabs or cotton buds, also Q-tips, are wads of cotton wrapped around a short rod made of wood, rolled paper, or plastic. They are most commonly used for ear cleaning, although this is not recommended by physicians. Other uses for cotton swabs include first aid, cosmetics application, cleaning, infant care, and crafts. Some countries have banned the plastic-stemmed versions in favor of biodegradable alternatives over concerns about marine pollution.",
+  "candidates": [
+    "Q-Tip",
+    "Q-Tip (disambiguation)",
+    "Q-Tip (musician)",
+    "Q-Tip discography",
+    "Q-Tip production discography",
+    "Q-Tips (band)",
+    "Q-type Queens car (New York City Subway car)",
+    "QTIP Trust",
+    "QTIPOC",
+    "QtiPlot"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cotton swab",
+    "page_url": "https://en.wikipedia.org/wiki/Cotton_swab",
+    "retrieved_at": "2026-03-28T10:42:01Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/White_menbo.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/White_menbo.jpg/330px-White_menbo.jpg",
+    "width": 640,
+    "height": 480
+  },
+  "last_updated": "2026-03-30"
+}

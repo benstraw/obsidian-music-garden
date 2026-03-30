@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0k5C3Z7w7uQpyGFQEzl7yB",
   "name": "Young, Gifted and Black",
   "primary_artist_name": "Aretha Franklin",
-  "primary_artist_canonical_slug": "aretha-franklin"
+  "primary_artist_canonical_slug": "aretha-franklin",
+  "musicbrainz_release_id": "b95151ff-e3e8-4eff-8708-079e782d3498",
+  "musicbrainz_release_group_id": "f62ec525-7158-37c1-8535-6eaac62435b3"
 }

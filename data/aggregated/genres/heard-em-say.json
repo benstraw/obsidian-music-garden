@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "heard-em-say",
+  "display_title": "Heard Em Say",
+  "display_name": "Heard Em Say",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Hard for Me to Say I'm Sorry",
+    "Hear Me Say",
+    "Heard 'Em Say",
+    "Heard 'em All",
+    "Heard Em Say (Logic song)"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

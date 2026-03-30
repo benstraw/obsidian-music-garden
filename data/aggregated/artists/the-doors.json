@@ -1,7 +1,9 @@
 {
   "canonical_slug": "the-doors",
   "name": "The Doors",
+  "play_count": 6,
   "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+  "musicbrainz_artist_id": "9efff43b-3b29-4082-824e-bc82f646f93d",
   "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
   "genres": [
     "acid-rock",
@@ -120,5 +122,5 @@
       "author": "Unknown - Design commissioned by Los Angeles County governing entity\u003cbr\u003eVector flag created by \u003ca href=\"//commons.wikimedia.org/wiki/User:Offnfopt\" title=\"User:Offnfopt\"\u003eOffnfopt\u003c/a\u003e using \u003ca href=\"//commons.wikimedia.org/wiki/File:Seal_of_Los_Angeles_County,_California.svg\" title=\"File:Seal of Los Angeles County, California.svg\"\u003eelements\u003c/a\u003e from Los Angeles County governing entity"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

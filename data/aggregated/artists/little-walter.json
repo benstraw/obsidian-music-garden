@@ -1,0 +1,70 @@
+{
+  "canonical_slug": "little-walter",
+  "name": "Little Walter",
+  "play_count": 6,
+  "spotify_artist_id": "22JuR9OeENcP54XN5TlNWS",
+  "musicbrainz_artist_id": "5545a012-0977-46ff-9d69-39bf5952616f",
+  "spotify_url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS",
+  "genres": [
+    "blues"
+  ],
+  "source_genres": [
+    "blues",
+    "chicago blues",
+    "electric blues",
+    "electric chicago blues",
+    "electric harmonica blues",
+    "harmonica blues",
+    "regional blues"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0ea1941b94aeb6b6366a65c7d719cc76cf537919",
+      "height": 700,
+      "width": 591
+    },
+    {
+      "url": "https://i.scdn.co/image/f93ddf2db270779389c96d0c67bc08bee9e71271",
+      "height": 237,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/f2daa2263a6cf3f3c54f6f334a601570acd2b23f",
+      "height": 76,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Little Walter",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Little_Walter",
+  "summary": "Marion Walter Jacobs, known as Little Walter, was an American blues musician, singer, and songwriter. His revolutionary approach to the harmonica had a strong impact on the succeeding generations, earning him comparisons to such seminal artists as Django Reinhardt, Charlie Parker and Jimi Hendrix. His virtuosity and musical innovations fundamentally altered many listeners' expectations of what was possible on blues harmonica. He was inducted into The Rock and Roll Hall of Fame in 2008, the first and, to date, only artist to be inducted specifically as a harmonica player.",
+  "candidates": [
+    "Little Albert experiment",
+    "Little Walter",
+    "Little Walter (song)",
+    "Little Walter DeVenne",
+    "Little Walter and Otis Rush \"Live in Chicago\"",
+    "Little Walter discography",
+    "Walker Little",
+    "Walter J. Little",
+    "Walter Little (politician)",
+    "Walter Little (rugby union)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Little Walter",
+    "page_url": "https://en.wikipedia.org/wiki/Little_Walter",
+    "retrieved_at": "2026-03-28T10:40:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Little Walter.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Little Walter.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

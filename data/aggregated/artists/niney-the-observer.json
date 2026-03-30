@@ -1,0 +1,48 @@
+{
+  "canonical_slug": "niney-the-observer",
+  "name": "Niney The Observer",
+  "play_count": 6,
+  "spotify_artist_id": "1eM04Kj9DckOUmU1LOfj8j",
+  "musicbrainz_artist_id": "fbca566a-3a40-4649-871f-6367babb768f",
+  "spotify_url": "https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j",
+  "genres": [
+    "dub",
+    "reggae"
+  ],
+  "source_genres": [
+    "dub",
+    "reggae",
+    "roots"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273bb11e12610c735b24407d930",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02bb11e12610c735b24407d930",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851bb11e12610c735b24407d930",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Niney the Observer",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Niney_the_Observer",
+  "summary": "Winston Holness, better known as Niney the Observer OD, is a Jamaican record producer and conscious roots reggae singer who is a key figure in the creation of many classic reggae recordings, discomixes and sound system dubplates dating from the 1970s and early 1980s.",
+  "candidates": [
+    "Niney the Observer"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Niney the Observer",
+    "page_url": "https://en.wikipedia.org/wiki/Niney_the_Observer",
+    "retrieved_at": "2026-03-28T10:41:35Z"
+  },
+  "last_updated": "2026-03-28"
+}

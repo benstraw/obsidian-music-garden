@@ -1,11 +1,14 @@
 {
   "canonical_slug": "gaiea-sanskrit--mercury",
   "name": "Mercury",
+  "play_count": 1,
   "primary_artist_canonical_slug": "gaiea-sanskrit",
   "primary_artist_name": "Gaiea Sanskrit",
+  "additional_artist_slugs": [
+    "lucid-mantra"
+  ],
   "release_canonical_slug": "gaiea-sanskrit--nine",
   "release_name": "Nine",
   "spotify_track_id": "1IB4130qxWhxW4ckja7ZLV",
-  "spotify_url": "https://open.spotify.com/track/1IB4130qxWhxW4ckja7ZLV",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/1IB4130qxWhxW4ckja7ZLV"
 }

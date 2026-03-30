@@ -1,11 +1,14 @@
 {
   "canonical_slug": "johannes-brahms--intermezzo-no-2-in-b-flat-minor-op-117-andante-non-troppo-e-con-molta-espressione-remastered",
   "name": "Intermezzo No. 2 in B-Flat Minor, Op. 117 - Andante non troppo e con molta espressione - Remastered",
+  "play_count": 1,
   "primary_artist_canonical_slug": "johannes-brahms",
   "primary_artist_name": "Johannes Brahms",
+  "additional_artist_slugs": [
+    "glenn-gould"
+  ],
   "release_canonical_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
   "release_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
   "spotify_track_id": "3IioJBugNl60myrfwIm1sz",
-  "spotify_url": "https://open.spotify.com/track/3IioJBugNl60myrfwIm1sz",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3IioJBugNl60myrfwIm1sz"
 }

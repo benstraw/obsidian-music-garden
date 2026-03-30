@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "horrorcore",
+  "display_title": "Horrorcore",
+  "display_name": "Horrorcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Horrorcore",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Horrorcore",
+  "summary": "Horrorcore is a subgenre of hip hop music based on horror-themed and often darkly transgressive lyrical content and imagery. Its origins derived from certain hardcore hip hop and gangsta rap artists, such as the Geto Boys, who began to incorporate supernatural, the occult, and psychological horror themes into their lyrics. Other early originators and influences on the genre include Tommy Wright III, Gravediggaz, Flatlinerz, Three 6 Mafia, Brotha Lynch Hung, Tech N9ne, Necro, and Kool Keith.",
+  "candidates": [
+    "Horror Wrestling",
+    "Horror comics",
+    "Horror-Comedy Universe",
+    "HorrorScope (webzine)",
+    "Horrorcon",
+    "Horrorcons",
+    "Horrorcore",
+    "Horrorcow",
+    "Horrorscope (Eve 6 album)",
+    "Horrorscope (Overkill album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Horrorcore",
+    "page_url": "https://en.wikipedia.org/wiki/Horrorcore",
+    "retrieved_at": "2026-03-28T15:57:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gravediggaz-02-mika.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gravediggaz-02-mika.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gravediggaz-02-mika.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gravediggaz-02-mika.jpg/960px-Gravediggaz-02-mika.jpg",
+    "width": 1350,
+    "height": 892,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gravediggaz-02-mika.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gravediggaz-02-mika.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gravediggaz-02-mika.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gravediggaz-02-mika.jpg/960px-Gravediggaz-02-mika.jpg",
+      "width": 1350,
+      "height": 892,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--horrorcore.json",
+      "url": "https://en.wikipedia.org/wiki/Horrorcore",
+      "retrieved_at": "2026-03-28T15:57:04Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--horrorcore.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Gravediggaz-02-mika.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

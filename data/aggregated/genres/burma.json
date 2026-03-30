@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "burma",
+  "display_title": "Burma",
+  "display_name": "Burma",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Myanmar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Myanmar",
+  "summary": "Myanmar, officially the Republic of the Union of Myanmar and also referred to as Burma, is a country in northwest Southeast Asia. It is the largest country by area in Mainland Southeast Asia and has a population of about 55 million. It is bordered by India and Bangladesh to the northwest, China to the northeast, Laos and Thailand to the east and southeast, and the Andaman Sea and the Bay of Bengal to the south and southwest. The country's capital city is Naypyidaw, while its largest city is Yangon.",
+  "candidates": [
+    "Burma",
+    "Burma Railway",
+    "Burma Socialist Programme Party",
+    "Burma campaign",
+    "Burma campaign (1942–1943)",
+    "Burma campaign (1944)",
+    "Burma campaign (1944–1945)",
+    "Burma national football team results (1950–1969)",
+    "Burman University",
+    "S. D. Burman"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Myanmar",
+    "page_url": "https://en.wikipedia.org/wiki/Myanmar",
+    "retrieved_at": "2026-03-28T15:53:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Move-protection-shackle.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Move-protection-shackle.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Move-protection-shackle.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Move-protection-shackle.svg/960px-Move-protection-shackle.svg.png",
+    "width": 512,
+    "height": 512,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Move-protection-shackle.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Move-protection-shackle.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Move-protection-shackle.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Move-protection-shackle.svg/960px-Move-protection-shackle.svg.png",
+      "width": 512,
+      "height": 512,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:XYZtSpace\" class=\"mw-redirect\" title=\"User:XYZtSpace\"\u003eXYZtSpace\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--burma.json",
+      "url": "https://en.wikipedia.org/wiki/Myanmar",
+      "retrieved_at": "2026-03-28T15:53:50Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--burma.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Move-protection-shackle.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

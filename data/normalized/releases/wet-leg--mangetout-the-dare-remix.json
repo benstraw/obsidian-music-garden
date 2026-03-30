@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7zHlzM3GayR3F1IoG5Xmls",
   "name": "mangetout (The Dare remix)",
   "primary_artist_name": "Wet Leg",
-  "primary_artist_canonical_slug": "wet-leg"
+  "primary_artist_canonical_slug": "wet-leg",
+  "musicbrainz_release_id": "a7bd8896-86aa-445e-9149-f26e26b9ead2",
+  "musicbrainz_release_group_id": "9ecd79fe-263d-4b0d-b1a8-994e147f1110"
 }

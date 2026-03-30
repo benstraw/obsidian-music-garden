@@ -1,11 +1,14 @@
 {
   "canonical_slug": "neil-young--welcome-back",
   "name": "Welcome Back",
+  "play_count": 1,
   "primary_artist_canonical_slug": "neil-young",
   "primary_artist_name": "Neil Young",
+  "additional_artist_slugs": [
+    "crazy-horse"
+  ],
   "release_canonical_slug": "neil-young--barn",
   "release_name": "Barn",
   "spotify_track_id": "7HN8yp30TJfls51uMH1ayC",
-  "spotify_url": "https://open.spotify.com/track/7HN8yp30TJfls51uMH1ayC",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/7HN8yp30TJfls51uMH1ayC"
 }

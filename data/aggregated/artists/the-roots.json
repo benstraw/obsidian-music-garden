@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "the-roots",
+  "name": "The Roots",
+  "play_count": 7,
+  "spotify_artist_id": "78xUyw6FkVZrRAtziFdtdu",
+  "musicbrainz_artist_id": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+  "spotify_url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu",
+  "genres": [
+    "alternative-hip-hop",
+    "hip-hop",
+    "jazz-rap",
+    "neo-soul"
+  ],
+  "source_genres": [
+    "alternative hip hop",
+    "hip hop",
+    "hip-hop",
+    "jazz rap",
+    "neo soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7e92a85b9e31236380cd38f2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051747e92a85b9e31236380cd38f2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1787e92a85b9e31236380cd38f2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Roots",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Roots",
+  "summary": "The Roots are an American hip-hop band formed in 1987 by singer Tariq \"Black Thought\" Trotter and drummer Ahmir \"Questlove\" Thompson in Philadelphia. The Roots serve as the house band on NBC's The Tonight Show Starring Jimmy Fallon, having served in the same role on Late Night with Jimmy Fallon from 2009 to 2014. The regular members of The Roots on The Tonight Show are Captain Kirk Douglas (guitar), Mark Kelley (bass), James Poyser (keyboards), Ian Hendrickson-Smith (saxophone), Damon \"Tuba Gooding Jr.\" Bryson (sousaphone), Stro Elliot, Dave Guy (trumpet), Kamal Gray (keyboards), and Raymond Angry (keyboards).",
+  "candidates": [
+    "The Roots",
+    "The Roots Come Alive",
+    "The Roots discography",
+    "The Roots of Coincidence",
+    "The Roots of Heaven (film)",
+    "The Roots of Music",
+    "The Roots of Orchis",
+    "The Roots of Rap",
+    "The Roots of the Mountains",
+    "The Rootsman"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Roots",
+    "page_url": "https://en.wikipedia.org/wiki/The_Roots",
+    "retrieved_at": "2026-03-28T10:43:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag of Philadelphia, Pennsylvania.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Philadelphia,_Pennsylvania.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg/960px-Flag_of_Philadelphia%2C_Pennsylvania.svg.png",
+    "width": 800,
+    "height": 533,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Dyfsunctional\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Dyfsunctional (page does not exist)\"\u003eDyfsunctional\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Philadelphia, Pennsylvania.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Philadelphia,_Pennsylvania.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg/960px-Flag_of_Philadelphia%2C_Pennsylvania.svg.png",
+      "width": 800,
+      "height": 533,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Dyfsunctional\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Dyfsunctional (page does not exist)\"\u003eDyfsunctional\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:QuestloveatBarnes\u0026Noble02.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:QuestloveatBarnes%26Noble02.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/QuestloveatBarnes%26Noble02.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/QuestloveatBarnes%26Noble02.JPG",
+      "width": 768,
+      "height": 1024,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Minusroswell\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Minusroswell (page does not exist)\"\u003eWes Washington\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Roots.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Roots.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Roots.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Roots.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "Public domain",
+      "author": "The original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:OverShade\" class=\"extiw\" title=\"wikipedia:User:OverShade\"\u003eOverShade\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Roots 2016 Holiday Tour - Orlando (31139328734).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Roots_2016_Holiday_Tour_-_Orlando_(31139328734).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Roots_2016_Holiday_Tour_-_Orlando_%2831139328734%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Roots_2016_Holiday_Tour_-_Orlando_%2831139328734%29.jpg/960px-The_Roots_2016_Holiday_Tour_-_Orlando_%2831139328734%29.jpg",
+      "width": 2921,
+      "height": 1701,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/76093456@N04\"\u003eMichael Seeley\u003c/a\u003e from Melbourne, FL, United States"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Roots sidewalk marker.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Roots_sidewalk_marker.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Roots_sidewalk_marker.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Roots_sidewalk_marker.jpg/960px-The_Roots_sidewalk_marker.jpg",
+      "width": 2394,
+      "height": 3114,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Peetlesnumber1\" title=\"User:Peetlesnumber1\"\u003ePeetlesnumber1\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

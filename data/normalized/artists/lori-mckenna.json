@@ -3,13 +3,19 @@
   "source_artist_id": "1OV5mEATxtVma7fleFaUyl",
   "name": "Lori McKenna",
   "spotify_url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl",
+  "musicbrainz_artist_id": "886557b3-2fa6-494e-993d-b955e789dc57",
   "source_genres": [
     "alt country",
-    "americana"
+    "americana",
+    "country",
+    "country folk",
+    "folk"
   ],
   "canonical_genre_slugs": [
     "alt-country",
-    "americana"
+    "americana",
+    "country",
+    "folk"
   ],
   "status": "matched",
   "page_title": "Lori McKenna",

@@ -1,7 +1,11 @@
 {
   "canonical_slug": "bob-dylan--new-morning",
   "name": "New Morning",
+  "play_count": 3,
   "primary_artist_canonical_slug": "bob-dylan",
   "primary_artist_name": "Bob Dylan",
-  "last_updated": "2026-03-27"
+  "spotify_album_id": "48efaobqOTbvnlxbETstey",
+  "musicbrainz_release_id": "2006ff8a-dc81-4ffa-910d-91b0b5b0550a",
+  "musicbrainz_release_group_id": "4f2b915f-cc82-3c18-ac9b-05f3d4df622d",
+  "last_updated": "2026-03-28"
 }

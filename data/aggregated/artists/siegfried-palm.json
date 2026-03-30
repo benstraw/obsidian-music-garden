@@ -1,0 +1,43 @@
+{
+  "canonical_slug": "siegfried-palm",
+  "name": "Siegfried Palm",
+  "spotify_artist_id": "7LKvtYBonrUERSJvYU9vh8",
+  "musicbrainz_artist_id": "dc744a4e-acee-4b63-a957-4173e46d635a",
+  "spotify_url": "https://open.spotify.com/artist/7LKvtYBonrUERSJvYU9vh8",
+  "source_genres": [
+    "cellist"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Siegfried Palm",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Siegfried_Palm",
+  "summary": "Siegfried Palm was a German cellist who is known worldwide for his interpretations of contemporary music. Many 20th-century composers like Kagel, Ligeti, Xenakis, Penderecki and Zimmermann wrote music for him. He was also Rektor of the Hochschule für Musik Köln and Intendant of the Deutsche Oper Berlin.",
+  "candidates": [
+    "Alfred Siegfried",
+    "Parker Siegfried",
+    "Paul Siegfried",
+    "Siegfried Haltman",
+    "Siegfried Kalischer",
+    "Siegfried Palm",
+    "Siegfried Pank",
+    "Siegfried Passarge",
+    "Siegfried Placzek",
+    "Siegfried Saloman"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Siegfried Palm",
+    "page_url": "https://en.wikipedia.org/wiki/Siegfried_Palm",
+    "retrieved_at": "2026-03-28T10:42:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Siegfried Palm (1).jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Siegfried Palm (1).jpg"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

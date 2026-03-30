@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "british-orchestra",
+  "display_title": "British Orchestra",
+  "display_name": "British Orchestra",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "British Orchestral Society",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/British_Orchestral_Society",
+  "summary": "The British Orchestral Society was established in 1872 for the purpose of giving an annual series of concerts by British artists. The Society ceased to exist in 1875, its last concert taking place on 1 June of that year.",
+  "candidates": [
+    "British Orchestral Society"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "British Orchestral Society",
+    "page_url": "https://en.wikipedia.org/wiki/British_Orchestral_Society",
+    "retrieved_at": "2026-03-28T15:53:47Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--british-orchestra.json",
+      "url": "https://en.wikipedia.org/wiki/British_Orchestral_Society",
+      "retrieved_at": "2026-03-28T15:53:47Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

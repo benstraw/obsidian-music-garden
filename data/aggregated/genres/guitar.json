@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "guitar",
+  "display_title": "Guitar",
+  "display_name": "Guitar",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Guitar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guitar",
+  "summary": "The guitar is a stringed musical instrument that is usually fretted and typically has six or twelve strings. It is usually held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A guitar pick may also be used to strike the strings. The sound of the guitar is projected either acoustically, by means of a resonant hollow chamber on the guitar, or amplified by an electronic pickup and an amplifier.",
+  "candidates": [
+    "Guitar",
+    "Guitar Hero",
+    "Guitar Hero II",
+    "Guitar Hero III: Legends of Rock",
+    "Guitar Hero World Tour",
+    "Guitar Hero: On Tour",
+    "Guitar amplifier",
+    "Guitar chord",
+    "Guitar tunings",
+    "GuitarFreaks and DrumMania"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Guitar",
+    "page_url": "https://en.wikipedia.org/wiki/Guitar",
+    "retrieved_at": "2026-03-28T15:56:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Acoustic guitar parts.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Acoustic_guitar_parts.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Acoustic_guitar_parts.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Acoustic_guitar_parts.png",
+    "width": 312,
+    "height": 575,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003cp\u003ePierre-Étienne Nataf\n\u003c/p\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Acoustic guitar parts.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Acoustic_guitar_parts.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Acoustic_guitar_parts.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Acoustic_guitar_parts.png",
+      "width": 312,
+      "height": 575,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003cp\u003ePierre-Étienne Nataf\n\u003c/p\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ashton ABG.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ashton_ABG.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Ashton_ABG.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ashton_ABG.JPG/960px-Ashton_ABG.JPG",
+      "width": 1600,
+      "height": 1200,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrewa\" title=\"User:Andrewa\"\u003eAndrewa\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bernd Voss - Copito Blues guitar.ogv",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bernd_Voss_-_Copito_Blues_guitar.ogv",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bernd_Voss_-_Copito_Blues_guitar.ogv",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bernd_Voss_-_Copito_Blues_guitar.ogv/480px--Bernd_Voss_-_Copito_Blues_guitar.ogv.jpg",
+      "width": 480,
+      "height": 320,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Bernd Voss"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chris Squire, 2003 (1).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chris_Squire,_2003_(1).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chris_Squire%2C_2003_%281%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chris_Squire%2C_2003_%281%29.jpg",
+      "width": 532,
+      "height": 598,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/66963159@N00\"\u003eLo\u003c/a\u003e from USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Diagonal shift of C-major chord in major-thirds tuning.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Diagonal_shift_of_C-major_chord_in_major-thirds_tuning.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Diagonal_shift_of_C-major_chord_in_major-thirds_tuning.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Diagonal_shift_of_C-major_chord_in_major-thirds_tuning.png",
+      "width": 504,
+      "height": 1590,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Kiefer.Wolfowitz\" title=\"User:Kiefer.Wolfowitz\"\u003eKiefer.Wolfowitz\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--guitar.json",
+      "url": "https://en.wikipedia.org/wiki/Guitar",
+      "retrieved_at": "2026-03-28T15:56:49Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--guitar.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Acoustic_guitar_parts.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

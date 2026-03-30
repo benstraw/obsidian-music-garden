@@ -1,0 +1,56 @@
+{
+  "canonical_slug": "firehose",
+  "name": "fIREHOSE",
+  "play_count": 10,
+  "spotify_artist_id": "6MIbrfpc9aH6gsEl2yep68",
+  "musicbrainz_artist_id": "33e09dd8-a998-4e1a-9e69-1a6567a3803d",
+  "spotify_url": "https://open.spotify.com/artist/6MIbrfpc9aH6gsEl2yep68",
+  "genres": [
+    "alternative-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "1986",
+    "alternative and punk",
+    "alternative rock",
+    "punk",
+    "punk rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/209a09f6f86465a655a6cc014d348376ce9a873c",
+      "height": 661,
+      "width": 999
+    },
+    {
+      "url": "https://i.scdn.co/image/e663b3ae117c0a904fab894d8f6e87a9ba1086ad",
+      "height": 423,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/3fcdd23ee0bcbdf9c4eb7519eae1ff3cf73f7ec5",
+      "height": 132,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/0bfcd491cfd59ec1a057c818a8e353e4b215542c",
+      "height": 42,
+      "width": 63
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Fire OS",
+    "Fire Phone",
+    "Fire hose",
+    "Fire hose thread",
+    "Fire hose vacuum",
+    "Fire services in the United Kingdom",
+    "FireHouse",
+    "Firehose (band)",
+    "Firehose instability",
+    "Firehose of falsehood"
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,7 +1,9 @@
 {
   "canonical_slug": "andré-3000",
   "name": "André 3000",
+  "play_count": 7,
   "spotify_artist_id": "74V3dE1a51skRkdII8y2C6",
+  "musicbrainz_artist_id": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b",
   "spotify_url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6",
   "genres": [
     "ambient-jazz"
@@ -101,5 +103,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/jmaxjmax/\"\u003eJason S\u003c/a\u003e from Washington D.C., United States"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

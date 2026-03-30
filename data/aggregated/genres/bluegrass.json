@@ -8,35 +8,136 @@
     "christian bluegrass",
     "newgrass"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Bluegrass music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bluegrass_music",
+  "summary": "Bluegrass music is a genre of American roots music that developed in the 1940s in the Appalachian region of the United States. The genre derives its name from the band Bill Monroe and the Blue Grass Boys. Bluegrass has roots in African American genres like blues and jazz and North European genres, such as Irish ballads and dance tunes. Unlike country, it is traditionally played exclusively on acoustic instruments such as the fiddle, mandolin, banjo, guitar and upright bass. It was further developed by musicians who played with Monroe, including 5-string banjo player Earl Scruggs and guitarist Lester Flatt. Bill Monroe once described bluegrass music as, \"It's a part of Methodist, Holiness and Baptist traditions. It's blues and jazz, and it has a high lonesome sound.\"",
   "candidates": [
-    "Blue Grass Airport",
-    "Blue Grass Army Depot",
-    "Bluegrass",
-    "Bluegrass Bowl",
-    "Bluegrass Cat",
-    "Bluegrass Companies",
-    "Bluegrass Parkway",
-    "Bluegrass music",
-    "Bluegrass music in Europe",
-    "Bluegrass region"
+    "Bluegrass music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bluegrass music",
+    "page_url": "https://en.wikipedia.org/wiki/Bluegrass_music",
+    "retrieved_at": "2026-03-29T17:22:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Amazing David Grisman, Chris Thile, Enrique Coria Winterhawk (Greyfox) Bluegrass Festival 1998.webm",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Amazing_David_Grisman,_Chris_Thile,_Enrique_Coria_Winterhawk_(Greyfox)_Bluegrass_Festival_1998.webm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Amazing_David_Grisman%2C_Chris_Thile%2C_Enrique_Coria_Winterhawk_%28Greyfox%29_Bluegrass_Festival_1998.webm",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Amazing_David_Grisman%2C_Chris_Thile%2C_Enrique_Coria_Winterhawk_%28Greyfox%29_Bluegrass_Festival_1998.webm/640px--Amazing_David_Grisman%2C_Chris_Thile%2C_Enrique_Coria_Winterhawk_%28Greyfox%29_Bluegrass_Festival_1998.webm.jpg",
+    "width": 640,
+    "height": 480,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://youtube.com/channel/UCFNimno7wwBclaPxMl_c3ww\"\u003eJohn Logan Brown\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Amazing David Grisman, Chris Thile, Enrique Coria Winterhawk (Greyfox) Bluegrass Festival 1998.webm",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Amazing_David_Grisman,_Chris_Thile,_Enrique_Coria_Winterhawk_(Greyfox)_Bluegrass_Festival_1998.webm",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Amazing_David_Grisman%2C_Chris_Thile%2C_Enrique_Coria_Winterhawk_%28Greyfox%29_Bluegrass_Festival_1998.webm",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Amazing_David_Grisman%2C_Chris_Thile%2C_Enrique_Coria_Winterhawk_%28Greyfox%29_Bluegrass_Festival_1998.webm/640px--Amazing_David_Grisman%2C_Chris_Thile%2C_Enrique_Coria_Winterhawk_%28Greyfox%29_Bluegrass_Festival_1998.webm.jpg",
+      "width": 640,
+      "height": 480,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://youtube.com/channel/UCFNimno7wwBclaPxMl_c3ww\"\u003eJohn Logan Brown\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BluegrassBanjo.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BluegrassBanjo.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/BluegrassBanjo.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/BluegrassBanjo.jpg",
+      "width": 704,
+      "height": 1919,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:Arent\" title=\"User:Arent\"\u003eArent\u003c/a\u003e assumed (based on copyright claims)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bluegrass Band.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bluegrass_Band.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bluegrass_Band.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bluegrass_Band.jpg/960px-Bluegrass_Band.jpg",
+      "width": 1920,
+      "height": 1080,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Paul VanDerWerf"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bluegrass group jamming.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bluegrass_group_jamming.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bluegrass_group_jamming.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bluegrass_group_jamming.jpg",
+      "width": 546,
+      "height": 502,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Original uploader was \u003ca href=\"https://en.wikipedia.org/wiki/User:Quadell\" class=\"extiw\" title=\"en:User:Quadell\"\u003eQuadell\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Quadell\" class=\"extiw\" title=\"en:User:Quadell\"\u003eQuadell\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Appalachia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Appalachia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Flag_of_Appalachia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Appalachia.svg/960px-Flag_of_Appalachia.svg.png",
+      "width": 512,
+      "height": 314,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Appalachian Flag Initiative"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 8,
-    "unique_artist_count": 5,
-    "unique_release_count": 7,
-    "unique_track_count": 7,
-    "first_played_at": "2026-02-13T02:19:12.032Z",
-    "last_played_at": "2026-03-03T02:18:03.806Z"
+    "play_count": 148,
+    "unique_artist_count": 8,
+    "unique_release_count": 32,
+    "unique_track_count": 101,
+    "first_played_at": "2024-01-01T00:00:00.451127706Z",
+    "last_played_at": "2026-03-29T19:15:19.979Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "play_count": 90,
+      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "musicbrainz_artist_id": "2ff49515-1701-4bac-a53a-04345893f3f3",
+      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "play_count": 42,
+      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
+      "musicbrainz_artist_id": "0202af38-ac32-48d0-a546-87caaef2dee2",
+      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+    },
+    {
+      "canonical_slug": "doc-watson",
+      "name": "Doc Watson",
+      "play_count": 6,
+      "spotify_artist_id": "01N1aZStXA4yGvkz4vRXtJ",
+      "musicbrainz_artist_id": "8aa38215-217d-432e-aca6-f2d85b05e843",
+      "spotify_url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+    },
+    {
       "canonical_slug": "emmylou-harris",
       "name": "Emmylou Harris",
-      "play_count": 3,
+      "play_count": 5,
       "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
+      "musicbrainz_artist_id": "35ef61ca-43db-4772-ba27-0489e9ebcb69",
       "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
     },
     {
@@ -44,158 +145,245 @@
       "name": "Country's Family Reunion",
       "play_count": 2,
       "spotify_artist_id": "3w2g8LE0HrfXMMs3dgnfPt",
+      "musicbrainz_artist_id": "0052ff05-af79-4488-b9aa-322d6acf722f",
       "spotify_url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
     },
     {
-      "canonical_slug": "gillian-welch",
-      "name": "Gillian Welch",
+      "canonical_slug": "billy-strings",
+      "name": "Billy Strings",
       "play_count": 1,
-      "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
-      "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+      "spotify_artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+      "musicbrainz_artist_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+      "spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
     },
     {
-      "canonical_slug": "old-crow-medicine-show",
-      "name": "Old Crow Medicine Show",
+      "canonical_slug": "béla-fleck",
+      "name": "Béla Fleck",
       "play_count": 1,
-      "spotify_artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
-      "spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+      "spotify_artist_id": "2ka8z2lwkcp13fG8Wyv3xU",
+      "spotify_url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
     },
     {
       "canonical_slug": "rose-s-pawn-shop",
       "name": "Rose's Pawn Shop",
       "play_count": 1,
       "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+      "musicbrainz_artist_id": "9750816a-a7d9-4559-8db6-f0895e0416dc",
       "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
-      "name": "Celebration (Live / Vol. 1)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "country-s-family-reunion",
-      "primary_artist_name": "Country's Family Reunion"
+      "canonical_slug": "gillian-welch--boots-no-2-the-lost-songs",
+      "name": "Boots No. 2: The Lost Songs",
+      "play_count": 31,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0wDBoq9LTEIw8DXoAZTrfP",
+      "musicbrainz_release_id": "d61fa15a-c525-4b48-b20a-10c64b77d59c",
+      "musicbrainz_release_group_id": "d8c8298f-6148-4b32-9eae-21c00ac53232"
     },
     {
-      "canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
-      "name": "Elite Hotel (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
+      "canonical_slug": "gillian-welch--all-the-good-times",
+      "name": "All The Good Times",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0JgpOuuz9D8eH50iZomnvD",
+      "musicbrainz_release_id": "68860171-db2b-41de-902c-f1bce7c22d31",
+      "musicbrainz_release_group_id": "e82cbc11-098d-4f42-a849-90a92cf06bd4"
     },
     {
-      "canonical_slug": "rose-s-pawn-shop--gravity-well",
-      "name": "Gravity Well",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "rose-s-pawn-shop",
-      "primary_artist_name": "Rose's Pawn Shop"
+      "canonical_slug": "gillian-welch--revival",
+      "name": "Revival",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "733rVkP3oBulDHJbiuRANa",
+      "musicbrainz_release_id": "cdaf7475-71ad-49e2-bcb5-492957366d48",
+      "musicbrainz_release_group_id": "1b59c403-965a-3f63-bca2-2590f3a0660f"
     },
     {
-      "canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
+      "canonical_slug": "old-crow-medicine-show--big-iron-world",
+      "name": "Big Iron World",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "503O014nLEUnB5NSbyDzAJ",
+      "musicbrainz_release_id": "dd963f84-0c3e-4396-8dd2-cc0c86fd6990",
+      "musicbrainz_release_group_id": "58798fed-3731-3d6d-b0cb-bac4e5be17a1"
     },
     {
-      "canonical_slug": "emmylou-harris--quarter-moon-in-a-ten-cent-town-expanded-and-remastered",
-      "name": "Quarter Moon in a Ten Cent Town (Expanded \u0026 Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris"
+      "canonical_slug": "gillian-welch--soul-journey",
+      "name": "Soul Journey",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "75NIWZjBwsF7MyfbG8JPwr",
+      "musicbrainz_release_id": "b3d4dc24-fc81-4f5e-a43e-e60782b7ad2f",
+      "musicbrainz_release_group_id": "cf71f2e5-2cfe-3652-b572-8f24560f44b0"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "name": "O.C.M.S.",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "71oM4BPgOOgdwTYJeUPush",
+      "musicbrainz_release_id": "308cc1b5-b5cc-4ad5-8eed-79ed82e9e8e3",
+      "musicbrainz_release_group_id": "ba298c09-0020-34be-ab1a-04fb96fc2d81"
     },
     {
       "canonical_slug": "gillian-welch--time-the-revelator",
       "name": "Time (The Revelator)",
-      "play_count": 1,
+      "play_count": 7,
       "primary_artist_canonical_slug": "gillian-welch",
-      "primary_artist_name": "Gillian Welch"
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "55FP2ypQcghszSqylyBRbp",
+      "musicbrainz_release_id": "917a723a-9449-4517-83be-1bc8a56ae64b",
+      "musicbrainz_release_group_id": "4f9a9d35-b16d-3b7b-80d0-32b29683633f"
     },
     {
-      "canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
-      "name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
-      "play_count": 1,
+      "canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "name": "Tennessee Pusher",
+      "play_count": 6,
       "primary_artist_canonical_slug": "old-crow-medicine-show",
-      "primary_artist_name": "Old Crow Medicine Show"
+      "primary_artist_name": "Old Crow Medicine Show",
+      "spotify_album_id": "4m4WoEGrrAZ5mZvapu4dY3",
+      "musicbrainz_release_id": "bc27bde8-d00f-4fac-918d-56bd973046db",
+      "musicbrainz_release_group_id": "6556cc77-4473-3f3f-9060-8249b194aa2a"
+    },
+    {
+      "canonical_slug": "gillian-welch--hell-among-the-yearlings",
+      "name": "Hell Among The Yearlings",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "7lj5fnqPOsrdANEyn9t8pM",
+      "musicbrainz_release_id": "08578f20-4604-45d7-9c33-c5af64eb5768",
+      "musicbrainz_release_group_id": "a13b58e4-a2d7-31ec-8012-04f55c78d9f5"
+    },
+    {
+      "canonical_slug": "gillian-welch--the-harrow-and-the-harvest",
+      "name": "The Harrow \u0026 The Harvest",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "5uz9hkZeN7l5KHtmMDqgR0",
+      "musicbrainz_release_id": "857fab01-855b-46fe-b93b-946e568e1e06",
+      "musicbrainz_release_group_id": "bea454b7-cb3c-420b-bf08-46886440af1c"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "country-s-family-reunion--easy-loving-live",
-      "name": "Easy Loving - Live",
+      "canonical_slug": "gillian-welch--jackson",
+      "name": "Jackson",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--all-the-good-times",
+      "release_name": "All The Good Times",
+      "spotify_track_id": "3NQK1uTiWfaeO9DhRtkD1A",
+      "spotify_url": "https://open.spotify.com/track/3NQK1uTiWfaeO9DhRtkD1A"
+    },
+    {
+      "canonical_slug": "gillian-welch--shotgun-song",
+      "name": "Shotgun Song",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--boots-no-2-the-lost-songs-vol-1",
+      "release_name": "Boots No. 2: The Lost Songs, Vol. 1",
+      "spotify_track_id": "0HM87zIvkV8blF0RU6fmWQ",
+      "spotify_url": "https://open.spotify.com/track/0HM87zIvkV8blF0RU6fmWQ"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--take-em-away",
+      "name": "Take 'Em Away",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "4PW2BiBPZS62HxJdeEx4qh",
+      "spotify_url": "https://open.spotify.com/track/4PW2BiBPZS62HxJdeEx4qh"
+    },
+    {
+      "canonical_slug": "old-crow-medicine-show--alabama-hightest",
+      "name": "Alabama HighTest",
       "play_count": 2,
-      "primary_artist_canonical_slug": "country-s-family-reunion",
-      "primary_artist_name": "Country's Family Reunion",
-      "release_canonical_slug": "country-s-family-reunion--celebration-live-vol-1",
-      "release_name": "Celebration (Live / Vol. 1)",
-      "spotify_track_id": "0Ngg6y9pTMkltXFSIAHfMI",
-      "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI"
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--tennessee-pusher",
+      "release_name": "Tennessee Pusher",
+      "spotify_track_id": "0bkCgETw93o0CVMU8xFHpL",
+      "spotify_url": "https://open.spotify.com/track/0bkCgETw93o0CVMU8xFHpL"
     },
     {
-      "canonical_slug": "emmylou-harris--bluebird-wine-2003-remaster",
-      "name": "Bluebird Wine - 2003 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--pieces-of-the-sky-expanded-and-remastered",
-      "release_name": "Pieces of the Sky (Expanded \u0026 Remastered)",
-      "spotify_track_id": "6GjOc3ZlVOzkHJJUzar2rl",
-      "spotify_url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+      "canonical_slug": "old-crow-medicine-show--angel-from-montgomery",
+      "name": "Angel from Montgomery",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--broken-hearts-and-dirty-windows-songs-of-john-prine",
+      "release_name": "Broken Hearts \u0026 Dirty Windows: Songs of John Prine",
+      "spotify_track_id": "2mKMIVcKPczPULJF13Ztvo",
+      "spotify_url": "https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo"
     },
     {
-      "canonical_slug": "rose-s-pawn-shop--country-blues",
-      "name": "Country Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "rose-s-pawn-shop",
-      "primary_artist_name": "Rose's Pawn Shop",
-      "release_canonical_slug": "rose-s-pawn-shop--gravity-well",
-      "release_name": "Gravity Well",
-      "spotify_track_id": "4902sigaZA0IflQ6FdWmtk",
-      "spotify_url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+      "canonical_slug": "old-crow-medicine-show--big-time-in-the-jungle",
+      "name": "Big Time In The Jungle",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--o-c-m-s",
+      "release_name": "O.C.M.S.",
+      "spotify_track_id": "1SEeFmwl7pvAZxRW40KjQY",
+      "spotify_url": "https://open.spotify.com/track/1SEeFmwl7pvAZxRW40KjQY"
     },
     {
-      "canonical_slug": "emmylou-harris--i-ain-t-living-long-like-this-2003-remaster",
-      "name": "I Ain't Living Long Like This - 2003 Remaster",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--quarter-moon-in-a-ten-cent-town-expanded-and-remastered",
-      "release_name": "Quarter Moon in a Ten Cent Town (Expanded \u0026 Remastered)",
-      "spotify_track_id": "2CdX58OHGUefqJYwcalK2q",
-      "spotify_url": "https://open.spotify.com/track/2CdX58OHGUefqJYwcalK2q"
+      "canonical_slug": "gillian-welch--by-the-mark",
+      "name": "By The Mark",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--revival",
+      "release_name": "Revival",
+      "spotify_track_id": "6IcMRgfMKohbduQ7kMWaaw",
+      "spotify_url": "https://open.spotify.com/track/6IcMRgfMKohbduQ7kMWaaw"
     },
     {
-      "canonical_slug": "emmylou-harris--one-of-these-days",
-      "name": "One of These Days",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "emmylou-harris",
-      "primary_artist_name": "Emmylou Harris",
-      "release_canonical_slug": "emmylou-harris--elite-hotel-expanded-and-remastered",
-      "release_name": "Elite Hotel (Expanded \u0026 Remastered)",
-      "spotify_track_id": "5bdGM6A3QTdrngOtufCS2L",
-      "spotify_url": "https://open.spotify.com/track/5bdGM6A3QTdrngOtufCS2L"
+      "canonical_slug": "old-crow-medicine-show--cocaine-habit",
+      "name": "Cocaine Habit",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "old-crow-medicine-show",
+      "primary_artist_name": "Old Crow Medicine Show",
+      "release_canonical_slug": "old-crow-medicine-show--big-iron-world",
+      "release_name": "Big Iron World",
+      "spotify_track_id": "4aPoeldfsklZtRbh6M9219",
+      "spotify_url": "https://open.spotify.com/track/4aPoeldfsklZtRbh6M9219"
     },
     {
-      "canonical_slug": "gillian-welch--revelator",
-      "name": "Revelator",
-      "play_count": 1,
+      "canonical_slug": "gillian-welch--dear-someone",
+      "name": "Dear Someone",
+      "play_count": 2,
       "primary_artist_canonical_slug": "gillian-welch",
       "primary_artist_name": "Gillian Welch",
       "release_canonical_slug": "gillian-welch--time-the-revelator",
       "release_name": "Time (The Revelator)",
-      "spotify_track_id": "3d3uCbMDDCzIJlbVNd18C3",
-      "spotify_url": "https://open.spotify.com/track/3d3uCbMDDCzIJlbVNd18C3"
+      "spotify_track_id": "5XvHuAtSvCfKSIx6H6SYtx",
+      "spotify_url": "https://open.spotify.com/track/5XvHuAtSvCfKSIx6H6SYtx"
     },
     {
-      "canonical_slug": "old-crow-medicine-show--this-train-is-bound-for-glory",
-      "name": "This Train is Bound for Glory",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "old-crow-medicine-show",
-      "primary_artist_name": "Old Crow Medicine Show",
-      "release_canonical_slug": "old-crow-medicine-show--woody-guthrie-at-100-live-at-the-kennedy-center",
-      "release_name": "Woody Guthrie: At 100! (Live At The Kennedy Center)",
-      "spotify_track_id": "7mfn1O2YQifrW5nZhAhCGL",
-      "spotify_url": "https://open.spotify.com/track/7mfn1O2YQifrW5nZhAhCGL"
+      "canonical_slug": "emmylou-harris--didn-t-leave-nobody-but-the-baby",
+      "name": "Didn't Leave Nobody But The Baby",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "release_canonical_slug": "gillian-welch--o-brother-where-art-thou-original-motion-picture-soundtrack",
+      "release_name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+      "spotify_track_id": "7ESCrKC98mNhYZY9AenRMQ",
+      "spotify_url": "https://open.spotify.com/track/7ESCrKC98mNhYZY9AenRMQ"
     }
   ],
   "source_refs": [
@@ -206,12 +394,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bluegrass.json",
+      "url": "https://en.wikipedia.org/wiki/Bluegrass_music",
+      "retrieved_at": "2026-03-29T17:22:25Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--bluegrass.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Amazing_David_Grisman,_Chris_Thile,_Enrique_Coria_Winterhawk_(Greyfox)_Bluegrass_Festival_1998.webm",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T02:18:03.806Z",
+      "updated_at": "2026-03-29T19:15:19.979Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T19:15:19.979Z"
 }

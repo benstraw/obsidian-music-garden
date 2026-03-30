@@ -6,7 +6,8 @@
   "aliases": [
     "electroacoustic"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Electro-Acoustic Ensemble",
@@ -35,6 +36,7 @@
       "name": "Mauricio Kagel",
       "play_count": 1,
       "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+      "musicbrainz_artist_id": "9f185094-f3d7-4e33-9f60-4588d4c63cb3",
       "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
     }
   ],
@@ -44,7 +46,8 @@
       "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
       "play_count": 1,
       "primary_artist_canonical_slug": "mauricio-kagel",
-      "primary_artist_name": "Mauricio Kagel"
+      "primary_artist_name": "Mauricio Kagel",
+      "spotify_album_id": "0lYUkrOg4TiShNCJHUay8e"
     }
   ],
   "top_tracks": [
@@ -68,6 +71,12 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -75,5 +84,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

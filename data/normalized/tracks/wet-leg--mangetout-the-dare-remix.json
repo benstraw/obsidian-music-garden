@@ -4,6 +4,9 @@
   "name": "mangetout - The Dare remix",
   "primary_artist_name": "Wet Leg",
   "primary_artist_canonical_slug": "wet-leg",
+  "additional_artist_slugs": [
+    "the-dare"
+  ],
   "release_name": "mangetout (The Dare remix)",
   "release_canonical_slug": "wet-leg--mangetout-the-dare-remix",
   "spotify_url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"

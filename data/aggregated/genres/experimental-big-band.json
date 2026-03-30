@@ -1,0 +1,46 @@
+{
+  "canonical_slug": "experimental-big-band",
+  "display_title": "Experimental Big Band",
+  "display_name": "Experimental Big Band",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Avant-garde jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
+  "summary": "Avant-garde jazz is a style of music and improvisation that combines avant-garde art music and composition with jazz. It originated in the early 1950s and developed through the late 1960s. One of the earliest developments within avant-garde jazz was that of free jazz, and the two terms were originally synonymous. Much avant-garde jazz is stylistically distinct, however, in that it lacks free jazz's thoroughly improvised nature and is either fully or partially composed.",
+  "candidates": [
+    "Experimental Big Band",
+    "Experimental big band"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Avant-garde jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
+    "retrieved_at": "2026-03-28T15:55:39Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--experimental-big-band.json",
+      "url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
+      "retrieved_at": "2026-03-28T15:55:39Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4AuWZIr6OQXWLEcPTDkIUt",
   "name": "We Up",
   "primary_artist_name": "50 Cent",
-  "primary_artist_canonical_slug": "50-cent"
+  "primary_artist_canonical_slug": "50-cent",
+  "musicbrainz_release_id": "caba0229-d863-4b1b-bb16-e881644acc69",
+  "musicbrainz_release_group_id": "2ba4f8a6-77d0-4b3f-8885-2bc7ae57de5a"
 }

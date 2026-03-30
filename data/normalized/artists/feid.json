@@ -1,0 +1,58 @@
+{
+  "source": "spotify",
+  "source_artist_id": "2LRoIwlKmHjgvigdNGBHNo",
+  "name": "Feid",
+  "spotify_url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo",
+  "musicbrainz_artist_id": "eaee97f6-f2e4-414a-966c-f31a1fb4696a",
+  "source_genres": [
+    "reggaeton"
+  ],
+  "status": "matched",
+  "page_title": "Feid",
+  "summary": "Salomón Villada Hoyos, better known by his stage names Feid and Ferxxo, is a Colombian singer, songwriter, and record producer. Born in Medellín, Colombia, he has worked with several well-known singers including Bad Bunny, J Balvin, Sebastián Yatra, Manuel Turizo, Maluma, and Karol G.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Feid",
+  "candidates": [
+    "Claude Feidt",
+    "Feid",
+    "Feid discography",
+    "Feidhlimidh Mág Samhradháin",
+    "Feidhlimidh mac Tomás Óg Mág Samhradháin",
+    "Feidong County",
+    "Giora Feidman",
+    "Hildegard Feidel-Mertz",
+    "Margo Feiden",
+    "Zicman Feider"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Feid",
+    "page_url": "https://en.wikipedia.org/wiki/Feid",
+    "retrieved_at": "2026-03-28T10:38:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Feid image 3.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Feid_image_3.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Feid_image_3.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Feid_image_3.jpg",
+    "width": 415,
+    "height": 694,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCSNj_Dxojo-UFA9e3ZIgTnw\"\u003eCANAL BOXMOV\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Feid image 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Feid_image_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Feid_image_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Feid_image_3.jpg",
+      "width": 415,
+      "height": 694,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/channel/UCSNj_Dxojo-UFA9e3ZIgTnw\"\u003eCANAL BOXMOV\u003c/a\u003e"
+    }
+  ]
+}

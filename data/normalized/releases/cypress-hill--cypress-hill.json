@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "4tQSV1ZGpwlo3dBiTRuKvM",
   "name": "Cypress Hill",
   "primary_artist_name": "Cypress Hill",
-  "primary_artist_canonical_slug": "cypress-hill"
+  "primary_artist_canonical_slug": "cypress-hill",
+  "musicbrainz_release_id": "2c1b6187-dee7-4786-b289-50a7e318cf53",
+  "musicbrainz_release_group_id": "6845afb3-c21c-47ef-9fae-6244fd8b74d2"
 }

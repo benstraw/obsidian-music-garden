@@ -1,16 +1,27 @@
 {
   "canonical_slug": "aretha-franklin",
   "name": "Aretha Franklin",
+  "play_count": 1,
   "spotify_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
+  "musicbrainz_artist_id": "2f9ecbed-27be-40e6-abca-6de49d50299e",
   "spotify_url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok",
   "genres": [
     "funk",
     "soul"
   ],
   "source_genres": [
+    "black gospel",
     "classic soul",
+    "contemporary pop/rock",
+    "deep soul",
+    "gospel",
     "motown",
-    "soul"
+    "quiet storm",
+    "rare groove a to z",
+    "rhythm \u0026 blues",
+    "smooth soul",
+    "soul",
+    "southern soul"
   ],
   "images": [
     {
@@ -117,5 +128,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/35591378@N03\"\u003eThe White House\u003c/a\u003e from Washington, DC"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

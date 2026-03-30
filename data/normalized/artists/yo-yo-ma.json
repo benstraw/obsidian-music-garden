@@ -1,0 +1,107 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5Dl3HXZjG6ZOWT5cV375lk",
+  "name": "Yo-Yo Ma",
+  "spotify_url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk",
+  "musicbrainz_artist_id": "62fe877d-b7a5-43e8-952e-2610d7614bff",
+  "source_genres": [
+    "cellist",
+    "cello",
+    "classical"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Yo-Yo Ma",
+  "summary": "Yo-Yo Ma is an American cellist. Born to Chinese parents in Paris, he was regarded as a child prodigy, and began to study the cello with his father at age four. Ma moved with his family to Boston at age seven and later to New York City, where he continued his cello studies at the Juilliard School before pursuing a liberal arts education at Harvard University. He has performed as a soloist with orchestras around the world, recorded more than 92 albums, and received 20 Grammy Awards.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Yo-Yo_Ma",
+  "candidates": [
+    "The Yo Yo Man",
+    "Yo Yo Honey Singh",
+    "Yo Yo Ma Inspired by Bach",
+    "Yo-Yo (Mandy Moore song)",
+    "Yo-Yo (rapper)",
+    "Yo-Yo Ma",
+    "Yo-Yo Ma Plays Ennio Morricone",
+    "Yo-Yo Ma discography",
+    "Yo-Yo Man",
+    "Yo-yo club"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Yo-Yo Ma",
+    "page_url": "https://en.wikipedia.org/wiki/Yo-Yo_Ma",
+    "retrieved_at": "2026-03-28T10:44:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Strings by Starlight.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Strings_by_Starlight.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Strings_by_Starlight.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Strings_by_Starlight.jpg/960px-Strings_by_Starlight.jpg",
+      "width": 6016,
+      "height": 4016,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "G. Hüdepohl/ESO"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yo-Yo Ma - World Economic Forum Annual Meeting Davos 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yo-Yo_Ma_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Yo-Yo_Ma_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Yo-Yo_Ma_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg/960px-Yo-Yo_Ma_-_World_Economic_Forum_Annual_Meeting_Davos_2008.jpg",
+      "width": 4096,
+      "height": 2535,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/15237218@N00\"\u003eWorld Economic Forum\u003c/a\u003e from Cologny, Switzerland"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Yo-Yo Ma in 2018 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Yo-Yo_Ma_in_2018_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Yo-Yo_Ma_in_2018_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Yo-Yo_Ma_in_2018_%28cropped%29.jpg/960px-Yo-Yo_Ma_in_2018_%28cropped%29.jpg",
+      "width": 2141,
+      "height": 2333,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Joi Ito"
+    }
+  ]
+}

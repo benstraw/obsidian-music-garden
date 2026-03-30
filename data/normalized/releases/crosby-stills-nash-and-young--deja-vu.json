@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5bHkK1X4WEOzNvRhehvOcb",
   "name": "Deja Vu",
   "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
-  "primary_artist_canonical_slug": "crosby-stills-nash-and-young"
+  "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+  "musicbrainz_release_id": "402352dc-85ff-4b51-a3de-09efbad9a7d3",
+  "musicbrainz_release_group_id": "3412fd44-c6e6-3a3b-b91a-964a055192ec"
 }

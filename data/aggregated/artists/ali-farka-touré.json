@@ -1,0 +1,81 @@
+{
+  "canonical_slug": "ali-farka-touré",
+  "name": "Ali Farka Touré",
+  "play_count": 3,
+  "spotify_artist_id": "3mNygoyrEKLgo6sx0MzwOL",
+  "musicbrainz_artist_id": "9be2a5ac-8201-489b-b5f6-91f958bf9060",
+  "spotify_url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL",
+  "genres": [
+    "blues",
+    "jazz",
+    "rock"
+  ],
+  "source_genres": [
+    "blues",
+    "jazz",
+    "rock",
+    "west african"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/0d183847042a7c6e27c04f21fbe2273d63d03e50",
+      "height": 563,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/410e634c2945b0782700c4485f9ed77f9c9afe37",
+      "height": 360,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/0178ad8bf5b619b94872233280a3fcaff2dbcd5d",
+      "height": 113,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ae9570d24ef433088bee1a17f6a877fd52d88c79",
+      "height": 36,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ali Farka Touré",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Farka_Tour%C3%A9",
+  "summary": "Ali Ibrahim \"Ali Farka\" Touré was a Malian singer and multi-instrumentalist, and one of the African continent's most internationally renowned musicians. His music blends traditional Malian music and its derivative, African American blues and is considered a pioneer of African desert blues. Touré was ranked number 76 on Rolling Stone's list of \"The 100 Greatest Guitarists of All Time\" and number 37 on Spin magazine's \"100 Greatest Guitarists of All Time\".",
+  "candidates": [
+    "Ali Farka Touré",
+    "Ali Farka Touré \u0026 Ry Cooder",
+    "Ali Farka Touré (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ali Farka Touré",
+    "page_url": "https://en.wikipedia.org/wiki/Ali_Farka_Tour%C3%A9",
+    "retrieved_at": "2026-03-28T10:37:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ali Farka Toure.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ali_Farka_Toure.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ali_Farka_Toure.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ali_Farka_Toure.jpg/960px-Ali_Farka_Toure.jpg",
+    "width": 1781,
+    "height": 2231,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tagles\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tagles (page does not exist)\"\u003eTagles\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ali Farka Toure.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ali_Farka_Toure.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ali_Farka_Toure.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ali_Farka_Toure.jpg/960px-Ali_Farka_Toure.jpg",
+      "width": 1781,
+      "height": 2231,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Tagles\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Tagles (page does not exist)\"\u003eTagles\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

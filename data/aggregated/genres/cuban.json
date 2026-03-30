@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "cuban",
+  "display_title": "Cuban",
+  "display_name": "Cuban",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "2021 Cuban protests",
+    "2026 Cuban crisis",
+    "Cuban",
+    "Cuban Americans",
+    "Cuban Missile Crisis",
+    "Cuban Revolution",
+    "Cuban Revolutionary Armed Forces",
+    "Cuban dissident movement",
+    "Cuban thaw",
+    "Mark Cuban"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

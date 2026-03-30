@@ -1,0 +1,63 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3RDff6Y6BKZv5SN3in3Zpm",
+  "name": "The Itals",
+  "spotify_url": "https://open.spotify.com/artist/3RDff6Y6BKZv5SN3in3Zpm",
+  "musicbrainz_artist_id": "6ec9d37f-932f-49c1-b58b-b32185c1225c",
+  "source_genres": [
+    "reggae",
+    "roots reggae"
+  ],
+  "canonical_genre_slugs": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "status": "matched",
+  "page_title": "The Itals",
+  "summary": "The Itals are a Jamaican reggae vocal group formed in 1976 by Alvin \"Keith\" Porter, Lloyd Ricketts, and Ronnie Davis, all of whom had previously also recorded as solo artists. All three had worked together in the late 1960s in The Westmorelites. The group recorded several albums through the late 1970s and 1980s, with Ronnie Davis going on to a successful solo career in 1997 as Ronnie Davis and Idren. The Itals' debut single, \"In A Dis Ya Time\", is regarded as the group's finest work, and topped the Jamaican chart. 1987's Rasta Philosophy was nominated for a Grammy Award as Best Reggae Album. The line-up has changed over the years, with former solo artist David Isaacs joining in 1987 when Ricketts was sentenced to a prison term, preventing him from travelling to the United States. Davis left the group in 1994, and was replaced by Porter's daughter Kada. The Itals continued to tour in 2009 in support of the newly released Let Them Talk. In 2011 original member Lloyd Ricketts was able to obtain a work permit and performed two shows with Porter and Davis before his death. Davis stepped away from The Itals again in 2012 and reunited with the Rocksteady group The Tennors, but Keith continued to tour with two of his children, Darien Porter and Kada Porter, providing harmonies. Porter released Mind Over Matter, the remastered compilation of 22 early Itals songs and a solo album of reggae covers of classic R\u0026B songs, called Let's Get it On in July 2015.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Itals",
+  "candidates": [
+    "The Beatles",
+    "The Finals",
+    "The Italian (Radcliffe novel)",
+    "The Italian Job",
+    "The Italian Job (2003 film)",
+    "The Itals",
+    "The Tale of Genji",
+    "The Tale of the Heike",
+    "The Tale of the Princess Kaguya (film)",
+    "The Talk (talk show)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Itals",
+    "page_url": "https://en.wikipedia.org/wiki/The_Itals",
+    "retrieved_at": "2026-03-28T10:43:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Flag-map of Jamaica.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag-map_of_Jamaica.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag-map_of_Jamaica.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag-map_of_Jamaica.svg/960px-Flag-map_of_Jamaica.svg.png",
+    "width": 600,
+    "height": 238,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Darwinek\" title=\"User:Darwinek\"\u003eDarwinek\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag-map of Jamaica.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag-map_of_Jamaica.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag-map_of_Jamaica.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag-map_of_Jamaica.svg/960px-Flag-map_of_Jamaica.svg.png",
+      "width": 600,
+      "height": 238,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Darwinek\" title=\"User:Darwinek\"\u003eDarwinek\u003c/a\u003e"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "artifakts",
+  "name": "Artifakts",
+  "play_count": 7,
+  "spotify_artist_id": "31ZluoveJV6Rcms4NdQTIW",
+  "musicbrainz_artist_id": "e76f8491-87d1-4df9-8784-a66876653b8e",
+  "spotify_url": "https://open.spotify.com/artist/31ZluoveJV6Rcms4NdQTIW",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb08428f3502699ed0e568c547",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000517408428f3502699ed0e568c547",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f17808428f3502699ed0e568c547",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Artifact",
+    "Artifact (app)",
+    "Artifact (archaeology)",
+    "Artifact (error)",
+    "Artifact (film)",
+    "Artifact (software development)",
+    "Artifact (video game)",
+    "Artifact Uprising",
+    "Artifacts (group)",
+    "Artifakts (bc)"
+  ],
+  "last_updated": "2026-03-28"
+}

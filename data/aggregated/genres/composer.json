@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "composer",
+  "display_title": "Composer",
+  "display_name": "Composer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Composer",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Composer",
+  "summary": "A composer is a person who writes music. The term is especially used to indicate composers of Western classical music, or those who are composers by occupation. Many composers are, or were, also skilled performers of music.",
+  "candidates": [
+    "Chess composer",
+    "Composer",
+    "Composer of the Week",
+    "Composer tributes (classical music)",
+    "Composer's Voice Concert Series",
+    "Composers Recordings, Inc.",
+    "Composers and Authors Society of Hong Kong",
+    "The Composer",
+    "The Composer Glinka",
+    "The Composer Is Dead"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Composer",
+    "page_url": "https://en.wikipedia.org/wiki/Composer",
+    "retrieved_at": "2026-03-28T15:54:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox globe content.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_globe_content.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_globe_content.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/960px-Ambox_globe_content.svg.png",
+      "width": 350,
+      "height": 290,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Julius Giere - Clara Wieck im Alter von 15 Jahren (Lithographie 1835).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Julius_Giere_-_Clara_Wieck_im_Alter_von_15_Jahren_(Lithographie_1835).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Julius_Giere_-_Clara_Wieck_im_Alter_von_15_Jahren_%28Lithographie_1835%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Julius_Giere_-_Clara_Wieck_im_Alter_von_15_Jahren_%28Lithographie_1835%29.jpg",
+      "width": 252,
+      "height": 294,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q1707769\" class=\"extiw\" title=\"d:Q1707769\"\u003e\u003cspan title=\"German lithographer, painter and publisher (1807-1880)\"\u003eJulius Giere\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--composer.json",
+      "url": "https://en.wikipedia.org/wiki/Composer",
+      "retrieved_at": "2026-03-28T15:54:27Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--composer.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

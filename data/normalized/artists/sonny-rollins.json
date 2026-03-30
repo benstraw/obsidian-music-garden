@@ -1,0 +1,106 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1VEzN9lxvG6KPR3QQGsebR",
+  "name": "Sonny Rollins",
+  "spotify_url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR",
+  "musicbrainz_artist_id": "3b47247e-5b57-49b6-a0ed-bad80243802a",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Sonny Rollins",
+  "summary": "Walter Theodore \"Sonny\" Rollins is a retired American jazz tenor saxophonist who is widely recognized as one of the most important and influential jazz musicians.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Sonny_Rollins",
+  "candidates": [
+    "Sonny Rollins",
+    "Sonny Rollins Plus 4",
+    "Sonny Rollins and the Big Brass",
+    "Sonny Rollins and the Contemporary Leaders",
+    "Sonny Rollins at Music Inn/Teddy Edwards at Falcon's Lair",
+    "Sonny Rollins discography",
+    "Sonny Rollins on Impulse!",
+    "Sonny Rollins with the Modern Jazz Quartet",
+    "Sonny Rollins, Vol. 2",
+    "Sonny Rollins, Volume 1"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sonny Rollins",
+    "page_url": "https://en.wikipedia.org/wiki/Sonny_Rollins",
+    "retrieved_at": "2026-03-28T10:42:46Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:SonnyRollins.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:SonnyRollins.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/SonnyRollins.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/SonnyRollins.jpg",
+      "width": 517,
+      "height": 651,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Brianmcmillen\" class=\"extiw\" title=\"wikipedia:User:Brianmcmillen\"\u003eBrianmcmillen\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Rollins.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Rollins.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sonny_Rollins.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sonny_Rollins.jpg/960px-Sonny_Rollins.jpg",
+      "width": 2000,
+      "height": 2000,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Yves_Moch\" title=\"User:Yves Moch\"\u003eYves Moch\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonny Rollins 2011.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonny_Rollins_2011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sonny_Rollins_2011.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sonny_Rollins_2011.jpg",
+      "width": 666,
+      "height": 1000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Tom Beetz"
+    }
+  ]
+}

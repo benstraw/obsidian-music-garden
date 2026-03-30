@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "big-beat",
+  "display_title": "Big Beat",
+  "display_name": "Big Beat",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Big beat",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Big_beat",
+  "summary": "Big beat is an electronic music genre that usually uses heavy breakbeats and synthesizer-generated loops and patterns – common to acid house/techno. The term has been used by the British music industry to describe music by artists such as the Prodigy, the Chemical Brothers, Fatboy Slim, the Crystal Method, Propellerheads, Basement Jaxx, and Groove Armada.",
+  "candidates": [
+    "Big Beat (album)",
+    "Big Beat (film)",
+    "Big Beat Boutique",
+    "Big Beat Records (American record label)",
+    "Big Beat Records (British record label)",
+    "Big Beat from Badsville",
+    "Big beat",
+    "Big-beat (Eastern Bloc)",
+    "The Big Beat (Art Blakey album)",
+    "The Big Beat (TV program)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Big beat",
+    "page_url": "https://en.wikipedia.org/wiki/Big_beat",
+    "retrieved_at": "2026-03-28T15:53:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fatboy Slim in 2004.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fatboy_Slim_in_2004.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Fatboy_Slim_in_2004.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Fatboy_Slim_in_2004.jpg",
+      "width": 522,
+      "height": 800,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/88083713@N00/sets/72157594494613243/\"\u003eShokophoto\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Chemical Brothers performing in Barcelona, Spain (2007).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Chemical_Brothers_performing_in_Barcelona,_Spain_(2007).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Chemical_Brothers_performing_in_Barcelona%2C_Spain_%282007%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/The_Chemical_Brothers_performing_in_Barcelona%2C_Spain_%282007%29.jpg/960px-The_Chemical_Brothers_performing_in_Barcelona%2C_Spain_%282007%29.jpg",
+      "width": 1680,
+      "height": 1120,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/alterna2/\"\u003ehttps://www.flickr.com/photos/alterna2/\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Prodigy live in Romania.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Prodigy_live_in_Romania.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_Prodigy_live_in_Romania.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_Prodigy_live_in_Romania.JPG/960px-The_Prodigy_live_in_Romania.JPG",
+      "width": 1552,
+      "height": 985,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:ParaDoxus\" class=\"extiw\" title=\"en:User:ParaDoxus\"\u003eParaDoxus\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:ParaDoxus\" class=\"extiw\" title=\"en:User talk:ParaDoxus\"\u003etalk\u003c/a\u003e)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--big-beat.json",
+      "url": "https://en.wikipedia.org/wiki/Big_beat",
+      "retrieved_at": "2026-03-28T15:53:27Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--big-beat.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

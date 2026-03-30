@@ -4,6 +4,9 @@
   "name": "nyc in 1940",
   "primary_artist_name": "berlioz",
   "primary_artist_canonical_slug": "berlioz",
+  "additional_artist_slugs": [
+    "ted-jasper"
+  ],
   "release_name": "nyc in 1940",
   "release_canonical_slug": "berlioz--nyc-in-1940",
   "spotify_url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j"

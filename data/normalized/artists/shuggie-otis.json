@@ -3,6 +3,20 @@
   "source_artist_id": "4YHtIE7FI8ITfekzzN5Jpl",
   "name": "Shuggie Otis",
   "spotify_url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl",
+  "musicbrainz_artist_id": "ff9542ca-7859-4db2-8796-c1e3c39b9c0a",
+  "source_genres": [
+    "blues",
+    "blues rock",
+    "psychedelic soul",
+    "rock",
+    "soul"
+  ],
+  "canonical_genre_slugs": [
+    "blues",
+    "blues-rock",
+    "rock",
+    "soul"
+  ],
   "status": "matched",
   "page_title": "Shuggie Otis",
   "summary": "Johnny Shuggie Otis is an American singer-songwriter, recording artist, and multi-instrumentalist.",

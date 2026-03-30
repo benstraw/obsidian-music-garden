@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "big-music",
+  "display_title": "Big Music",
+  "display_name": "Big Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Big (musical)",
+    "Big Music",
+    "Big Music (Machinations album)",
+    "Big Music (Simple Minds album)",
+    "Big Music (record label)",
+    "Big Music Fest",
+    "Big Music Tour 2015",
+    "The Big Music",
+    "The Big Music Quiz",
+    "The Big Sick"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

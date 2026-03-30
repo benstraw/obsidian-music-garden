@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "myanmar",
+  "display_title": "Myanmar",
+  "display_name": "Myanmar",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Myanmar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Myanmar",
+  "summary": "Myanmar, officially the Republic of the Union of Myanmar and also referred to as Burma, is a country in northwest Southeast Asia. It is the largest country by area in Mainland Southeast Asia and has a population of about 55 million. It is bordered by India and Bangladesh to the northwest, China to the northeast, Laos and Thailand to the east and southeast, and the Andaman Sea and the Bay of Bengal to the south and southwest. The country's capital city is Naypyidaw, while its largest city is Yangon.",
+  "candidates": [
+    "2025 Myanmar earthquake",
+    "Myanmar",
+    "Myanmar Air Force",
+    "Myanmar Army",
+    "Myanmar civil war (2021–present)",
+    "Myanmar conflict",
+    "Myanmar kyat",
+    "Myanmar national football team",
+    "Myanmar protests (2021–present)",
+    "Myanmar–United States relations"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Myanmar",
+    "page_url": "https://en.wikipedia.org/wiki/Myanmar",
+    "retrieved_at": "2026-03-28T15:58:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2007 Myanmar protests 7.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2007_Myanmar_protests_7.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2007_Myanmar_protests_7.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2007_Myanmar_protests_7.jpg/960px-2007_Myanmar_protests_7.jpg",
+    "width": 2816,
+    "height": 2112,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/17158481@N00\"\u003eracoles\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2007 Myanmar protests 7.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2007_Myanmar_protests_7.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2007_Myanmar_protests_7.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2007_Myanmar_protests_7.jpg/960px-2007_Myanmar_protests_7.jpg",
+      "width": 2816,
+      "height": 2112,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/17158481@N00\"\u003eracoles\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A nun and group of monks praying before idols in Myanmar.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_nun_and_group_of_monks_praying_before_idols_in_Myanmar.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/A_nun_and_group_of_monks_praying_before_idols_in_Myanmar.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_nun_and_group_of_monks_praying_before_idols_in_Myanmar.jpg/960px-A_nun_and_group_of_monks_praying_before_idols_in_Myanmar.jpg",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9508280@N07\"\u003eDan Lundberg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Asia Australia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Armed conflict zones in Myanmar.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Armed_conflict_zones_in_Myanmar.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Armed_conflict_zones_in_Myanmar.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Armed_conflict_zones_in_Myanmar.png/960px-Armed_conflict_zones_in_Myanmar.png",
+      "width": 1324,
+      "height": 2938,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Yue\" title=\"User:Yue\"\u003eYuet Man Lee\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Asia (orthographic projection).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Asia_(orthographic_projection).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Asia_%28orthographic_projection%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/960px-Asia_%28orthographic_projection%29.svg.png",
+      "width": 541,
+      "height": 541,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/U\" title=\"U\"\u003eKoyos\u003c/a\u003e + \u003ca href=\"//commons.wikimedia.org/wiki/User:Ssolbergj\" title=\"User:Ssolbergj\"\u003eSsolbergj\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--myanmar.json",
+      "url": "https://en.wikipedia.org/wiki/Myanmar",
+      "retrieved_at": "2026-03-28T15:58:40Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--myanmar.json",
+      "url": "https://commons.wikimedia.org/wiki/File:2007_Myanmar_protests_7.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

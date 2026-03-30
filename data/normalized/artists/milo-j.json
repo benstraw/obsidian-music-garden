@@ -1,0 +1,55 @@
+{
+  "source": "spotify",
+  "source_artist_id": "19HM5j0ULGSmEoRcrSe5x3",
+  "name": "Milo j",
+  "spotify_url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3",
+  "musicbrainz_artist_id": "e665f81b-71c9-4be6-9a4e-02a3f6952e58",
+  "status": "matched",
+  "page_title": "Milo J",
+  "summary": "Camilo Joaquín Villarruel, known by his stage name Milo J is an Argentine rapper, singer, producer and songwriter. He achieved international recognition in 2023 with the song \"Milo J: Bzrp Music Sessions, Vol. 57\" as well as the collaborative EP En Dormir Sin Madrid, both with Argentine producer Bizarrap.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Milo_J",
+  "candidates": [
+    "Jean Milo",
+    "Jean-Roger Milo",
+    "Milo J",
+    "Milo J Mason",
+    "Milo J. Manheim",
+    "Milo J: Bzrp Music Sessions, Vol. 57",
+    "Milo Janus",
+    "Milo Jewett House",
+    "Milo John Radulovich",
+    "Milo John Reese"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Milo J",
+    "page_url": "https://en.wikipedia.org/wiki/Milo_J",
+    "retrieved_at": "2026-03-28T10:41:17Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Milo J.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Milo_J.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Milo_J.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Milo_J.jpg",
+    "width": 655,
+    "height": 407,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "indicamiki"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Milo J.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Milo_J.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Milo_J.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Milo_J.jpg",
+      "width": 655,
+      "height": 407,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "indicamiki"
+    }
+  ]
+}

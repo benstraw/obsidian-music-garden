@@ -7,6 +7,7 @@
     "indie pop"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Indie pop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Indie_pop",
@@ -81,17 +82,191 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 35,
+    "unique_artist_count": 3,
+    "unique_release_count": 3,
+    "unique_track_count": 19,
+    "first_played_at": "2024-01-01T00:00:00.074180697Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "the-magnetic-fields",
+      "name": "The Magnetic Fields",
+      "play_count": 25,
+      "spotify_artist_id": "6RWjTQqILL7a1tQ0VapyLK",
+      "musicbrainz_artist_id": "3ff72a59-f39d-411d-9f93-2d4a86413013",
+      "spotify_url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+    },
+    {
+      "canonical_slug": "young-marble-giants",
+      "name": "Young Marble Giants",
+      "play_count": 8,
+      "spotify_artist_id": "0tQ2Q4y9iUkKszxXyB14ZH",
+      "musicbrainz_artist_id": "3d113367-769f-4200-9ff8-e19d47def451",
+      "spotify_url": "https://open.spotify.com/artist/0tQ2Q4y9iUkKszxXyB14ZH"
+    },
+    {
+      "canonical_slug": "norah-jones",
+      "name": "Norah Jones",
+      "play_count": 2,
+      "spotify_artist_id": "2Kx7MNY7cI1ENniW7vT30N",
+      "musicbrainz_artist_id": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+      "spotify_url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "the-magnetic-fields--69-love-songs",
+      "name": "69 Love Songs",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "spotify_album_id": "2GuROKcqyHdpIDcgxml1C7",
+      "musicbrainz_release_id": "3404f020-f022-4afa-bc03-d1a11f30fd2d",
+      "musicbrainz_release_group_id": "5dfac852-1aed-35b2-93b6-e8f9c93fe521"
+    },
+    {
+      "canonical_slug": "young-marble-giants--colossal-youth-40th-anniversary-edition",
+      "name": "Colossal Youth (40th Anniversary Edition)",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "young-marble-giants",
+      "primary_artist_name": "Young Marble Giants",
+      "spotify_album_id": "3a6CNDNbGTUnHkeBskWpBM"
+    },
+    {
+      "canonical_slug": "norah-jones--featuring-norah-jones",
+      "name": "… Featuring Norah Jones",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "norah-jones",
+      "primary_artist_name": "Norah Jones",
+      "spotify_album_id": "022I8JNsbclNqE0hJDxhYz"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "young-marble-giants--salad-days",
+      "name": "Salad Days",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "young-marble-giants",
+      "primary_artist_name": "Young Marble Giants",
+      "release_canonical_slug": "young-marble-giants--colossal-youth-40th-anniversary-edition",
+      "release_name": "Colossal Youth (40th Anniversary Edition)",
+      "spotify_track_id": "6LpmyPsBaXM7ec8MoGtq8y",
+      "spotify_url": "https://open.spotify.com/track/6LpmyPsBaXM7ec8MoGtq8y"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--crazy-for-you-but-not-that-crazy",
+      "name": "(Crazy for You But) Not That Crazy",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "2b6MeXEpjZ43o7QVkMU3FM",
+      "spotify_url": "https://open.spotify.com/track/2b6MeXEpjZ43o7QVkMU3FM"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--acoustic-guitar",
+      "name": "Acoustic Guitar",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6ZMQVLuKlJgUvEscKnUkNY",
+      "spotify_url": "https://open.spotify.com/track/6ZMQVLuKlJgUvEscKnUkNY"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--all-my-little-words",
+      "name": "All My Little Words",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "3KvTZQPpzPw9UKxaGlJkBs",
+      "spotify_url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--boa-constrictor",
+      "name": "Boa Constrictor",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6gNrp68wiWJBPTszkFc4LM",
+      "spotify_url": "https://open.spotify.com/track/6gNrp68wiWJBPTszkFc4LM"
+    },
+    {
+      "canonical_slug": "young-marble-giants--brand-new-life",
+      "name": "Brand - New - Life",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "young-marble-giants",
+      "primary_artist_name": "Young Marble Giants",
+      "release_canonical_slug": "young-marble-giants--colossal-youth-40th-anniversary-edition",
+      "release_name": "Colossal Youth (40th Anniversary Edition)",
+      "spotify_track_id": "6L1TXPJxAMdVnVcMe0weWR",
+      "spotify_url": "https://open.spotify.com/track/6L1TXPJxAMdVnVcMe0weWR"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--busby-berkeley-dreams",
+      "name": "Busby Berkeley Dreams",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "0xR82DzxszFTagYuvAwIUz",
+      "spotify_url": "https://open.spotify.com/track/0xR82DzxszFTagYuvAwIUz"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--fido-your-leash-is-too-long",
+      "name": "Fido, Your Leash Is Too Long",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "1SQT9yLODRGxbszCCzcmKY",
+      "spotify_url": "https://open.spotify.com/track/1SQT9yLODRGxbszCCzcmKY"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--grand-canyon",
+      "name": "Grand Canyon",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "4mGSYUCvO57ObOkmIGAxuZ",
+      "spotify_url": "https://open.spotify.com/track/4mGSYUCvO57ObOkmIGAxuZ"
+    },
+    {
+      "canonical_slug": "norah-jones--loretta-live-from-the-ryman-auditorium-nashville-2004",
+      "name": "Loretta - Live From The Ryman Auditorium, Nashville/2004",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "norah-jones",
+      "primary_artist_name": "Norah Jones",
+      "release_canonical_slug": "norah-jones--featuring-norah-jones",
+      "release_name": "… Featuring Norah Jones",
+      "spotify_track_id": "2x7VpQwVaeuQkNB0F3gqNa",
+      "spotify_url": "https://open.spotify.com/track/2x7VpQwVaeuQkNB0F3gqNa"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -108,7 +283,14 @@
       "path": "normalized/genres/wikipedia--indie-pop.json",
       "url": "https://commons.wikimedia.org/wiki/File:AcidHouseKings.jpg",
       "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-29T17:53:54.137Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:53:54.137Z"
 }

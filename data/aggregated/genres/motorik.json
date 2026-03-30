@@ -1,0 +1,109 @@
+{
+  "canonical_slug": "motorik",
+  "display_title": "Motorik",
+  "display_name": "Motorik",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Motorik",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Motorik",
+  "summary": "Motorik is the 44 beat often used by, and heavily associated with, krautrock bands. Coined by music journalists, the term is German for \"motor skill\". The motorik beat was pioneered by Jaki Liebezeit, drummer with German experimental rock band Can. Klaus Dinger of Neu!, another early pioneer of motorik, later called it the \"Apache beat\". The motorik beat is heard in one section of Kraftwerk's \"Autobahn\", a song composed to convey the feeling of driving on the German highway. It is heard throughout Neu!'s \"Hallogallo\", from their self-titled album Neu!, and used on all subsequent Neu! albums with differing tempos and variations; Hawkwind reproduced Neu!'s \"Hallogallo\" motorik beat on the track \"Opa-Loka\" on their 1975 Warrior on the Edge of Time album.",
+  "candidates": [
+    "Motor oil",
+    "Motorcycle",
+    "Motorcycle racing",
+    "Motorik",
+    "Motorola",
+    "Motorola 68000",
+    "Motorola Mobility",
+    "Motorsport",
+    "Motörhead",
+    "Motörhead discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Motorik",
+    "page_url": "https://en.wikipedia.org/wiki/Motorik",
+    "retrieved_at": "2026-03-28T15:58:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-audio-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-audio-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gnome-mime-audio-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gnome-mime-audio-openclipart.svg/960px-Gnome-mime-audio-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://openclipart.org/user-detail/Andy\"\u003eAndy\u003c/a\u003e at OpenClipart"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Motorik drum set beat.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Motorik_drum_set_beat.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Motorik_drum_set_beat.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Motorik_drum_set_beat.svg/960px-Motorik_drum_set_beat.svg.png",
+      "width": 1549,
+      "height": 319,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Vinegar-tomb\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Vinegar-tomb (page does not exist)\"\u003eVinegar-tomb\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Motorik rhythm.mid",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Motorik_rhythm.mid",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Motorik_rhythm.mid",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hyacinth\" title=\"User:Hyacinth\"\u003eHyacinth\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--motorik.json",
+      "url": "https://en.wikipedia.org/wiki/Motorik",
+      "retrieved_at": "2026-03-28T15:58:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--motorik.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-audio-openclipart.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

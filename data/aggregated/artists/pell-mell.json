@@ -1,0 +1,50 @@
+{
+  "canonical_slug": "pell-mell",
+  "name": "Pell Mell",
+  "play_count": 4,
+  "spotify_artist_id": "4pfYqfulJefekgQC41Vp5P",
+  "musicbrainz_artist_id": "12845829-7032-4042-89ec-291dd0f82ac9",
+  "spotify_url": "https://open.spotify.com/artist/4pfYqfulJefekgQC41Vp5P",
+  "genres": [
+    "alternative-rock"
+  ],
+  "source_genres": [
+    "alternative rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/1febdf2375e64c5ab0b9acdc910ff88ca8779a4c",
+      "height": 659,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/f07b6302b82458e21973ade8e4ae78a2a166511c",
+      "height": 422,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1419a20bc94ca0490e702a08903b64fc6af986c9",
+      "height": 132,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/abc7bddb82113038b60885ae7e9331ba5377e4d7",
+      "height": 42,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Kelton Pell",
+    "Pell Mell",
+    "Pell Mell (band)",
+    "Pell Mell (play)",
+    "Pell mell",
+    "Pell-Mell \u0026 Woodcote",
+    "Pell-mell",
+    "Pelle Pelle",
+    "William Ferris Pell",
+    "William Pell (tenor)"
+  ],
+  "last_updated": "2026-03-28"
+}

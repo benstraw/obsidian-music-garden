@@ -1,0 +1,95 @@
+{
+  "canonical_slug": "mose-allison",
+  "name": "Mose Allison",
+  "play_count": 13,
+  "spotify_artist_id": "0sN4enVJwylJKEXZlSbgsm",
+  "musicbrainz_artist_id": "18b76828-4b12-44c1-b8d9-ae82b22557a0",
+  "spotify_url": "https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm",
+  "genres": [
+    "blues",
+    "jazz"
+  ],
+  "source_genres": [
+    "blues",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c7c44852bb5f6cb05561efcca",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd227c44852bb5f6cb05561efcca",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac37c44852bb5f6cb05561efcca",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f747c44852bb5f6cb05561efcca",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Mose Allison",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mose_Allison",
+  "summary": "Mose John Allison Jr. was an American jazz and blues pianist, singer, and songwriter. He became notable for playing a unique mix of blues and modern jazz, both singing and playing piano. After moving to New York in 1956, he worked primarily in jazz settings, playing with jazz musicians like Stan Getz, Al Cohn, and Zoot Sims, along with producing numerous recordings.",
+  "candidates": [
+    "Mae Allison",
+    "Mike Allison",
+    "Mike Allison (basketball)",
+    "More (Alison Moyet song)",
+    "Mose Allison",
+    "Most of All (song)",
+    "Mrs. Ellison",
+    "The Most with Alison Stewart"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mose Allison",
+    "page_url": "https://en.wikipedia.org/wiki/Mose_Allison",
+    "retrieved_at": "2026-03-28T10:41:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Mose Allison-Bonnie Raitt.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Mose_Allison-Bonnie_Raitt.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mose_Allison-Bonnie_Raitt.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mose_Allison-Bonnie_Raitt.jpg",
+    "width": 273,
+    "height": 363,
+    "license": "Public domain",
+    "author": "WETA TV"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mose Allison-Bonnie Raitt.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mose_Allison-Bonnie_Raitt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mose_Allison-Bonnie_Raitt.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mose_Allison-Bonnie_Raitt.jpg",
+      "width": 273,
+      "height": 363,
+      "license": "Public domain",
+      "author": "WETA TV"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mose Allison (crop).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mose_Allison_(crop).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mose_Allison_%28crop%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mose_Allison_%28crop%29.jpg",
+      "width": 469,
+      "height": 658,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Mattb4310 (en.wp user)"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

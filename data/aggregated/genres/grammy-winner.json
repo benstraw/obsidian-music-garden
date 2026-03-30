@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "grammy-winner",
+  "display_title": "Grammy Winner",
+  "display_name": "Grammy Winner",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Grammy Awards",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Grammy_Awards",
+  "summary": "The Grammy Awards, stylized as GRAMMY, and often referred to as the Grammys, are awards presented by the Recording Academy of the United States to recognize outstanding achievements in music. They are regarded by many as the most prestigious and significant awards in the music industry worldwide, and thus the show is frequently called \"music's biggest night\". The trophy depicts a gilded gramophone, and the original idea was to call them the \"Gramophone Awards\".",
+  "candidates": [
+    "Grammy winner"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Grammy Awards",
+    "page_url": "https://en.wikipedia.org/wiki/Grammy_Awards",
+    "retrieved_at": "2026-03-28T15:56:42Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Grammy_Awards_logo.svg/500px-Grammy_Awards_logo.svg.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Grammy_Awards_logo.svg/330px-Grammy_Awards_logo.svg.png",
+    "width": 500,
+    "height": 200
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--grammy-winner.json",
+      "url": "https://en.wikipedia.org/wiki/Grammy_Awards",
+      "retrieved_at": "2026-03-28T15:56:42Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--grammy-winner.json",
+      "url": "https://en.wikipedia.org/wiki/Grammy_Awards",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

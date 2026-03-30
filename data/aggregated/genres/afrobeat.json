@@ -6,7 +6,8 @@
   "aliases": [
     "afrobeat"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Afrobeat",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Afrobeat",
@@ -80,32 +81,101 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T02:24:03.192Z",
+    "play_count": 6,
+    "unique_artist_count": 4,
+    "unique_release_count": 4,
+    "unique_track_count": 6,
+    "first_played_at": "2024-01-01T00:00:00.845515912Z",
     "last_played_at": "2026-03-03T02:24:03.192Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "the-budos-band",
+      "name": "The Budos Band",
+      "play_count": 3,
+      "spotify_artist_id": "5q4eLKmqFVP0xII8087PHz",
+      "musicbrainz_artist_id": "b6fa9b9b-41cf-45a6-adc0-0a4c9a8c0d3c",
+      "spotify_url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+    },
     {
       "canonical_slug": "burna-boy",
       "name": "Burna Boy",
       "play_count": 1,
       "spotify_artist_id": "3wcj11K77LjEY1PkEazffa",
+      "musicbrainz_artist_id": "78a19169-ac75-4868-b504-7e2e073118e0",
       "spotify_url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band",
+      "name": "Lafayette Afro Rock Band",
+      "play_count": 1,
+      "spotify_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
+      "musicbrainz_artist_id": "68b22fd5-038c-4b74-8ed0-ee93b13c1d9e",
+      "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
+    },
+    {
+      "canonical_slug": "little-simz",
+      "name": "Little Simz",
+      "play_count": 1,
+      "spotify_artist_id": "6eXZu6O7nAUA5z6vLV8NKI",
+      "musicbrainz_artist_id": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+      "spotify_url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "the-budos-band--the-budos-band",
+      "name": "The Budos Band",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-budos-band",
+      "primary_artist_name": "The Budos Band",
+      "spotify_album_id": "7Gu0cy8nMC6Uk10PsdAHXd",
+      "musicbrainz_release_id": "d0f7dd01-6c16-3984-af84-e79d64d503c6",
+      "musicbrainz_release_group_id": "012853cb-ce1d-3124-9cc9-1d925a19a408"
+    },
     {
       "canonical_slug": "burna-boy--african-giant",
       "name": "African Giant",
       "play_count": 1,
       "primary_artist_canonical_slug": "burna-boy",
-      "primary_artist_name": "Burna Boy"
+      "primary_artist_name": "Burna Boy",
+      "spotify_album_id": "34vlTd4355ddD4q9pPsoqF",
+      "musicbrainz_release_id": "66bf6a99-013c-4987-886f-57c4ce0b116d",
+      "musicbrainz_release_group_id": "84444c7d-ef0e-433e-b649-72f71c054eb6"
+    },
+    {
+      "canonical_slug": "little-simz--lotus",
+      "name": "Lotus",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "little-simz",
+      "primary_artist_name": "Little Simz",
+      "spotify_album_id": "0ofdTvYtx4LpsVjemJt71X",
+      "musicbrainz_release_id": "9dc39f94-50a7-43cf-bba9-1882caab0966",
+      "musicbrainz_release_group_id": "749672ae-a51d-4cf5-920c-beaeab147bb6"
+    },
+    {
+      "canonical_slug": "lafayette-afro-rock-band--malik",
+      "name": "Malik",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+      "primary_artist_name": "Lafayette Afro-Rock Band",
+      "spotify_album_id": "2ntrZv73irqeBCKaPGt7cT",
+      "musicbrainz_release_id": "2091d818-93a1-4056-a3c7-e783ad4dfca6",
+      "musicbrainz_release_group_id": "5af719e4-eb2d-3d95-abab-0caffad86b54"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "lafayette-afro-rock-band--darkest-light-remastered",
+      "name": "Darkest Light - Remastered",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lafayette-afro-rock-band",
+      "primary_artist_name": "Lafayette Afro Rock Band",
+      "release_canonical_slug": "lafayette-afro-rock-band--malik",
+      "release_name": "Malik",
+      "spotify_track_id": "6eDVnsVgEAjMdcczx4mpoq",
+      "spotify_url": "https://open.spotify.com/track/6eDVnsVgEAjMdcczx4mpoq"
+    },
     {
       "canonical_slug": "burna-boy--gbona",
       "name": "Gbona",
@@ -116,6 +186,50 @@
       "release_name": "African Giant",
       "spotify_track_id": "7rpWDu9GPlLxbLorYKVys7",
       "spotify_url": "https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7"
+    },
+    {
+      "canonical_slug": "the-budos-band--ghost-walk",
+      "name": "Ghost Walk",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-budos-band",
+      "primary_artist_name": "The Budos Band",
+      "release_canonical_slug": "the-budos-band--the-budos-band",
+      "release_name": "The Budos Band",
+      "spotify_track_id": "4x8uLA848ZXSAMYVLDl1Br",
+      "spotify_url": "https://open.spotify.com/track/4x8uLA848ZXSAMYVLDl1Br"
+    },
+    {
+      "canonical_slug": "the-budos-band--t-i-b-w-f",
+      "name": "T.I.B.W.F.",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-budos-band",
+      "primary_artist_name": "The Budos Band",
+      "release_canonical_slug": "the-budos-band--the-budos-band",
+      "release_name": "The Budos Band",
+      "spotify_track_id": "7wwLfGqZ5VaTfNGRihJiqu",
+      "spotify_url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
+    },
+    {
+      "canonical_slug": "the-budos-band--up-from-the-south",
+      "name": "Up From the South",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-budos-band",
+      "primary_artist_name": "The Budos Band",
+      "release_canonical_slug": "the-budos-band--the-budos-band",
+      "release_name": "The Budos Band",
+      "spotify_track_id": "7GS4WQCPUQuZW6ZSvfZXvA",
+      "spotify_url": "https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA"
+    },
+    {
+      "canonical_slug": "little-simz--young",
+      "name": "Young",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "little-simz",
+      "primary_artist_name": "Little Simz",
+      "release_canonical_slug": "little-simz--lotus",
+      "release_name": "Lotus",
+      "spotify_track_id": "1MQKhg5Kbn3cd07LQ5JPRK",
+      "spotify_url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
     }
   ],
   "source_refs": [
@@ -124,6 +238,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

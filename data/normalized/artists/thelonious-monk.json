@@ -1,0 +1,119 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4PDpGtF16XpqvXxsrFwQnN",
+  "name": "Thelonious Monk",
+  "spotify_url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN",
+  "musicbrainz_artist_id": "8e8c7417-c905-46b1-b42a-5260b4274ed4",
+  "source_genres": [
+    "acoustic",
+    "angular",
+    "bop",
+    "complex",
+    "hard bop",
+    "improvisation",
+    "instrumental",
+    "jazz",
+    "melodic",
+    "nocturnal",
+    "passionate",
+    "playful",
+    "quirky",
+    "technical"
+  ],
+  "canonical_genre_slugs": [
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Thelonious Monk",
+  "summary": "Thelonious Sphere Monk was an American jazz pianist and composer. He had a unique improvisational style and made numerous contributions to the standard jazz repertoire, including \"'Round Midnight\", \"Blue Monk\", \"Straight, No Chaser\", \"Ruby, My Dear\", \"In Walked Bud\", and \"Well, You Needn't\". Monk is the second-most-recorded jazz composer after Duke Ellington.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Thelonious_Monk",
+  "candidates": [
+    "The Thelonious Monk Orchestra at Town Hall",
+    "Thelonious Monk",
+    "Thelonious Monk Plays Duke Ellington",
+    "Thelonious Monk Quartet with John Coltrane at Carnegie Hall",
+    "Thelonious Monk Trio",
+    "Thelonious Monk and Sonny Rollins",
+    "Thelonious Monk discography",
+    "Thelonious Monk with John Coltrane",
+    "Thelonious Monk: Straight, No Chaser",
+    "Thelonious Monk: The Complete Riverside Recordings"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Thelonious Monk",
+    "page_url": "https://en.wikipedia.org/wiki/Thelonious_Monk",
+    "retrieved_at": "2026-03-28T10:43:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Nachtconcert van Thelonious Monk in het Concertgebouw, Bestanddeelnr 912-3529.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw,_Bestanddeelnr_912-3529.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw%2C_Bestanddeelnr_912-3529.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw%2C_Bestanddeelnr_912-3529.jpg/960px-Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw%2C_Bestanddeelnr_912-3529.jpg",
+    "width": 2576,
+    "height": 2479,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Anefo"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Nachtconcert van Thelonious Monk in het Concertgebouw, Bestanddeelnr 912-3529.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw,_Bestanddeelnr_912-3529.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw%2C_Bestanddeelnr_912-3529.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw%2C_Bestanddeelnr_912-3529.jpg/960px-Nachtconcert_van_Thelonious_Monk_in_het_Concertgebouw%2C_Bestanddeelnr_912-3529.jpg",
+      "width": 2576,
+      "height": 2479,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Anefo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pulitzer Medal - obverse.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pulitzer_Medal_-_obverse.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pulitzer_Medal_-_obverse.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pulitzer_Medal_-_obverse.png/960px-Pulitzer_Medal_-_obverse.png",
+      "width": 1114,
+      "height": 1110,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Daniel_Chester_French\" title=\"Daniel Chester French\"\u003eDaniel Chester French\u003c/a\u003e (1850–1931)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pulitzer Medal - reverse.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pulitzer_Medal_-_reverse.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pulitzer_Medal_-_reverse.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pulitzer_Medal_-_reverse.png/960px-Pulitzer_Medal_-_reverse.png",
+      "width": 1115,
+      "height": 1101,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Daniel_Chester_French\" title=\"Daniel Chester French\"\u003eDaniel Chester French\u003c/a\u003e (1850–1931)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947 (William P. Gottlieb 06191).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Thelonious_Monk,_Minton%27s_Playhouse,_New_York,_N.Y.,_ca._Sept._1947_(William_P._Gottlieb_06191).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg/960px-Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg",
+      "width": 4898,
+      "height": 5148,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e / \u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/User:Adam_Cuerden\" class=\"extiw\" title=\"en:User:Adam Cuerden\"\u003eAdam Cuerden\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Thelonious Monk, Minton's Playhouse, New York, N.Y., ca. Sept. 1947 (William P. Gottlieb 06221).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Thelonious_Monk,_Minton%27s_Playhouse,_New_York,_N.Y.,_ca._Sept._1947_(William_P._Gottlieb_06221).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06221%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06221%29.jpg/960px-Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06221%29.jpg",
+      "width": 2450,
+      "height": 2569,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_P._Gottlieb\" class=\"extiw\" title=\"w:en:William P. Gottlieb\"\u003e\u003cspan title=\"American photographer (1917–2006)\"\u003eWilliam P. Gottlieb\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ]
+}

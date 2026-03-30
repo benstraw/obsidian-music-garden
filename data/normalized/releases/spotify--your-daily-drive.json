@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1qvRrl85vhiJnPU5CVoWIE",
   "name": "Your Daily Drive",
   "primary_artist_name": "Spotify",
-  "primary_artist_canonical_slug": "spotify"
+  "primary_artist_canonical_slug": "spotify",
+  "musicbrainz_release_id": "bb614f97-eccb-45dd-88cb-fdc0d2d162d2",
+  "musicbrainz_release_group_id": "a5d0c308-93fc-436b-b0f6-ce7fba540aab"
 }

@@ -1,0 +1,110 @@
+{
+  "canonical_slug": "ron-carter",
+  "name": "Ron Carter",
+  "play_count": 4,
+  "spotify_artist_id": "4wnzivx3OQ3vjrySAdTdJP",
+  "musicbrainz_artist_id": "57db3f59-9c58-4f68-a00e-e044666c4828",
+  "spotify_url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz",
+    "post-bop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/9c724a804bf2ade7506852dcfcf2317e857932c6",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/b47a5e4852ede502af0478fd0c33b845feb8a2a7",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/340bb508517747c07dac25a8509580e56e24bef7",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/2971d2310eef68a82c609e90007d5e931b51880d",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Ron Carter",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ron_Carter",
+  "summary": "Ronald Levin Carter is an American jazz double bassist. His appearances on 2,221 recording sessions make him the most-recorded jazz bassist in history. He has won three Grammy Awards, and is also a cellist who has recorded numerous times on the instrument. In addition to a solo career of more than 60 years, Carter is well-known for playing on numerous iconic Blue Note albums in the 1960s, as well as being the anchor of trumpeter Miles Davis's \"Second Great Quintet\" from 1963-1968.",
+  "candidates": [
+    "Ron Cameron (sportscaster)",
+    "Ron Carey (labor leader)",
+    "Ron Carter",
+    "Ron Carter (basketball)",
+    "Ron Carter (businessman)",
+    "Ron Carter (disambiguation)",
+    "Ron Carter (ice hockey)",
+    "Ron Carter discography",
+    "Ron Harper",
+    "Ron Harper Jr."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ron Carter",
+    "page_url": "https://en.wikipedia.org/wiki/Ron_Carter",
+    "retrieved_at": "2026-03-28T10:42:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ron Carter Berkeley1.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ron_Carter_Berkeley1.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ron_Carter_Berkeley1.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ron_Carter_Berkeley1.jpg",
+    "width": 546,
+    "height": 912,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ron Carter Berkeley1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ron_Carter_Berkeley1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ron_Carter_Berkeley1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ron_Carter_Berkeley1.jpg",
+      "width": 546,
+      "height": 912,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ron Carter DSC0352b.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ron_Carter_DSC0352b.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ron_Carter_DSC0352b.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ron_Carter_DSC0352b.jpg/960px-Ron_Carter_DSC0352b.jpg",
+      "width": 2832,
+      "height": 4256,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Marek_Lazarski\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Marek Lazarski (page does not exist)\"\u003eMarek Lazarski\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ron Carter photo 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ron_Carter_photo_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ron_Carter_photo_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ron_Carter_photo_1.jpg/960px-Ron_Carter_photo_1.jpg",
+      "width": 1504,
+      "height": 1000,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Laura Manchinu (aka La Manchù)"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

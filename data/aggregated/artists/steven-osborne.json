@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "steven-osborne",
+  "name": "Steven Osborne",
+  "spotify_artist_id": "23G1DjI5kQBbjOaLbUONgK",
+  "musicbrainz_artist_id": "2d97aec4-f9bf-4d62-853e-5aafa77e3da0",
+  "spotify_url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK",
+  "source_genres": [
+    "british pianist",
+    "pianist",
+    "piano"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/918c5d5dfcc687c7f80a6e4cb815397d084a07cc",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/1edb9ce3f93f37e8562d0f429ecd749cb48fd332",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/cb2535e62faede41c4c54beb57a4318b20a21efc",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/cf6910e5c19ca39632b29eea85910b5c843a0e14",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Stephen Osborne",
+    "Stephen Osborne (athlete)",
+    "Stephen Osborne (writer)",
+    "Steve Osborn",
+    "Steve Osborne",
+    "Steve Osborne (footballer)",
+    "Steven Osborne (pianist)"
+  ],
+  "last_updated": "2026-03-30"
+}

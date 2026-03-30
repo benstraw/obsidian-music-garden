@@ -1,0 +1,48 @@
+{
+  "canonical_slug": "folktronica",
+  "display_title": "Folktronica",
+  "display_name": "Folktronica",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Folktronica",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Folktronica",
+  "summary": "Folktronica is a genre of indie electronic music comprising various elements of folk music and electronica, often featuring uses of acoustic instruments—especially stringed instruments—deploying hip hop, electronic or dance rhythms, and incorporating delicate, textural sound design, although it varies based on influences and choice of sounds. The Ashgate Research Companion to Popular Musicology describes folktronica as \"a catch-all [term] for all manner of artists who have combined mechanical dance beats with elements of acoustic rock or folk\".",
+  "candidates": [
+    "Folkton Carr",
+    "Folktronic (album)",
+    "Folktronica",
+    "Funktronica"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Folktronica",
+    "page_url": "https://en.wikipedia.org/wiki/Folktronica",
+    "retrieved_at": "2026-03-28T15:56:07Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--folktronica.json",
+      "url": "https://en.wikipedia.org/wiki/Folktronica",
+      "retrieved_at": "2026-03-28T15:56:07Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

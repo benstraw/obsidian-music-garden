@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "bboy",
+  "display_title": "Bboy",
+  "display_name": "Bboy",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Breakdancing",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Breakdancing",
+  "summary": "Breakdancing or breaking, also called b-boying or b-girling (women), is a style of street dance developed by African Americans and Puerto Ricans in The Bronx borough of New York City.",
+  "candidates": [
+    "B Boy Baby",
+    "B for Boy",
+    "B-Boy (wrestler)",
+    "B-Boy Blues",
+    "B-Boy Records",
+    "B-Boys \u0026 Flygirls",
+    "B-boy Issin",
+    "Bboy",
+    "Bboy Hong 10",
+    "Bboy Lilou"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Breakdancing",
+    "page_url": "https://en.wikipedia.org/wiki/Breakdancing",
+    "retrieved_at": "2026-03-28T15:53:25Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dancesport_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Mixed_Team_%E2%80%93_Battle_for_3rd_Place_%2853%29.jpeg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dancesport_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Mixed_Team_%E2%80%93_Battle_for_3rd_Place_%2853%29.jpeg/330px-Dancesport_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Mixed_Team_%E2%80%93_Battle_for_3rd_Place_%2853%29.jpeg",
+    "width": 6016,
+    "height": 4000
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bboy.json",
+      "url": "https://en.wikipedia.org/wiki/Breakdancing",
+      "retrieved_at": "2026-03-28T15:53:25Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bboy.json",
+      "url": "https://en.wikipedia.org/wiki/Breakdancing",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

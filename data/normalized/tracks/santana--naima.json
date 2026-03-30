@@ -1,0 +1,14 @@
+{
+  "source": "spotify",
+  "source_track_id": "3iZSSzKZ3ZEokfCDYixEbH",
+  "name": "Naima",
+  "primary_artist_name": "Santana",
+  "primary_artist_canonical_slug": "santana",
+  "additional_artist_slugs": [
+    "john-mclaughlin",
+    "mahavishnu-orchestra"
+  ],
+  "release_name": "Dance Of The Rainbow Serpent",
+  "release_canonical_slug": "santana--dance-of-the-rainbow-serpent",
+  "spotify_url": "https://open.spotify.com/track/3iZSSzKZ3ZEokfCDYixEbH"
+}

@@ -1,0 +1,133 @@
+{
+  "canonical_slug": "europe",
+  "display_title": "Europe",
+  "display_name": "Europe",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Europe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Europe",
+  "summary": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Europe shares the landmass of Eurasia with Asia, and of Afro-Eurasia with both Africa and Asia. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea, and the Turkish straits.",
+  "candidates": [
+    "Europe",
+    "European Commission",
+    "European Convention on Human Rights",
+    "European Cup and UEFA Champions League records and statistics",
+    "European Parliament",
+    "European Space Agency",
+    "European Union",
+    "European colonization of the Americas",
+    "European emission standards",
+    "European theatre of World War II"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Europe",
+    "page_url": "https://en.wikipedia.org/wiki/Europe",
+    "retrieved_at": "2026-03-28T15:55:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1916 political map of Europe.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1916_political_map_of_Europe.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1916_political_map_of_Europe.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1916_political_map_of_Europe.jpg/960px-1916_political_map_of_Europe.jpg",
+    "width": 3276,
+    "height": 2475,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Ralph_Stockman_Tarr\" class=\"extiw\" title=\"w:en:Ralph Stockman Tarr\"\u003e\u003cspan title=\"American geographer (1864–1912)\"\u003eRalph Stockman Tarr\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e / \u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Frank_Morton_McMurry\" class=\"extiw\" title=\"w:en:Frank Morton McMurry\"\u003e\u003cspan title=\"American academic\"\u003eFrank Morton McMurry\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1916 political map of Europe.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1916_political_map_of_Europe.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1916_political_map_of_Europe.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1916_political_map_of_Europe.jpg/960px-1916_political_map_of_Europe.jpg",
+      "width": 3276,
+      "height": 2475,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Ralph_Stockman_Tarr\" class=\"extiw\" title=\"w:en:Ralph Stockman Tarr\"\u003e\u003cspan title=\"American geographer (1864–1912)\"\u003eRalph Stockman Tarr\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e / \u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Frank_Morton_McMurry\" class=\"extiw\" title=\"w:en:Frank Morton McMurry\"\u003e\u003cspan title=\"American academic\"\u003eFrank Morton McMurry\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Africa (orthographic projection).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Africa_(orthographic_projection).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Africa_%28orthographic_projection%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/960px-Africa_%28orthographic_projection%29.svg.png",
+      "width": 600,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Martin23230\" title=\"User talk:Martin23230\"\u003eMartin23230\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Afro-Eurasia (orthographic projection) political.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Afro-Eurasia_(orthographic_projection)_political.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Afro-Eurasia_%28orthographic_projection%29_political.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Afro-Eurasia_%28orthographic_projection%29_political.svg/960px-Afro-Eurasia_%28orthographic_projection%29_political.svg.png",
+      "width": 550,
+      "height": 550,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Keepscases\" title=\"User talk:Keepscases\"\u003eKeepscases\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alliances militaires en Europe 1914-1918-fr.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alliances_militaires_en_Europe_1914-1918-fr.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Alliances_militaires_en_Europe_1914-1918-fr.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Alliances_militaires_en_Europe_1914-1918-fr.svg/960px-Alliances_militaires_en_Europe_1914-1918-fr.svg.png",
+      "width": 998,
+      "height": 593,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003cp\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:Historicair\" title=\"User:Historicair\"\u003ehistoricair\u003c/a\u003e\n\u003c/p\u003e\n\u003cul\u003e\u003cli\u003ederivative work : \u003ca href=\"//commons.wikimedia.org/wiki/User:Augusta_89\" title=\"User:Augusta 89\"\u003eAugusta 89\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Americas (orthographic projection).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Americas_(orthographic_projection).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Americas_%28orthographic_projection%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/960px-Americas_%28orthographic_projection%29.svg.png",
+      "width": 550,
+      "height": 550,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Martin23230\" title=\"User talk:Martin23230\"\u003eMartin23230\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--europe.json",
+      "url": "https://en.wikipedia.org/wiki/Europe",
+      "retrieved_at": "2026-03-28T15:55:37Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--europe.json",
+      "url": "https://commons.wikimedia.org/wiki/File:1916_political_map_of_Europe.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

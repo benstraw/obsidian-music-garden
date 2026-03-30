@@ -3,10 +3,14 @@
   "source_artist_id": "3meioy7GWDwpwmjv2LPyAb",
   "name": "Carl Philipp Emanuel Bach",
   "spotify_url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb",
+  "musicbrainz_artist_id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
   "source_genres": [
     "baroque",
     "classical",
-    "classical piano"
+    "classical period",
+    "classical piano",
+    "composer",
+    "german composer"
   ],
   "canonical_genre_slugs": [
     "classical",

@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "composers",
+  "display_title": "Composers",
+  "display_name": "Composers",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Composer",
+    "Composers Association of New Zealand",
+    "Composers Quarter Hamburg",
+    "Composers Recordings, Inc.",
+    "Composers Union of Azerbaijan",
+    "Composers and Authors Society of Hong Kong",
+    "Composers in Red Sneakers",
+    "Composers' Quarter, Copenhagen",
+    "Composers, Authors and Publishers Association of Canada",
+    "The Composers Quartet"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5fFftOUCiSbNfofIj8vXx0",
   "name": "Afrikan Culture",
-  "primary_artist_name": "Shabaka",
-  "primary_artist_canonical_slug": "shabaka"
+  "primary_artist_name": "Shabaka Hutchings",
+  "primary_artist_canonical_slug": "shabaka",
+  "musicbrainz_release_id": "653fc811-5195-468d-bdb6-2dcf7aff178f",
+  "musicbrainz_release_group_id": "3af8fc95-a0e8-4410-af28-92ec928d59c8"
 }

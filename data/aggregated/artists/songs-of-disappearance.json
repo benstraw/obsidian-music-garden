@@ -1,7 +1,9 @@
 {
   "canonical_slug": "songs-of-disappearance",
   "name": "Songs of Disappearance",
+  "play_count": 16,
   "spotify_artist_id": "3fmjIu8f1q5tzSxycTsi33",
+  "musicbrainz_artist_id": "4618b4a6-bced-4846-a37e-c8816052d2da",
   "spotify_url": "https://open.spotify.com/artist/3fmjIu8f1q5tzSxycTsi33",
   "images": [
     {
@@ -60,5 +62,5 @@
       "author": "David Vignoni"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

@@ -1,0 +1,81 @@
+{
+  "canonical_slug": "mission-of-burma",
+  "name": "Mission Of Burma",
+  "play_count": 5,
+  "spotify_artist_id": "5UMQV83wwZCCvRSQCVjZw6",
+  "musicbrainz_artist_id": "db9d25d7-a85b-4a29-b2ff-8f5b69ed691e",
+  "spotify_url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6",
+  "genres": [
+    "post-punk",
+    "rock"
+  ],
+  "source_genres": [
+    "art punk",
+    "post-hardcore",
+    "post-punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c98dec3e7cb9cf5345cf8e750",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2298dec3e7cb9cf5345cf8e750",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac398dec3e7cb9cf5345cf8e750",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7498dec3e7cb9cf5345cf8e750",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Mission of Burma",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mission_of_Burma",
+  "summary": "Mission of Burma was an American post-punk band from Boston, Massachusetts. The group formed in 1979 with Roger Miller on guitar, Clint Conley on bass, Peter Prescott on drums, and Martin Swope contributing audiotape manipulation and acting as the band’s sound engineer. In this initial lineup, Miller, Conley, and Prescott all shared singing and songwriting duties.",
+  "candidates": [
+    "Mission of Burma",
+    "Mission of Burma discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mission of Burma",
+    "page_url": "https://en.wikipedia.org/wiki/Mission_of_Burma",
+    "retrieved_at": "2026-03-28T10:41:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Mission of Burma-51.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Mission_of_Burma-51.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+    "width": 900,
+    "height": 600,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/neonwar\"\u003eneonwar\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mission of Burma-51.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mission_of_Burma-51.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Mission_of_Burma-51.jpg",
+      "width": 900,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/neonwar\"\u003eneonwar\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

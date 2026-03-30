@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "art-blakey-and-the-jazz-messengers",
+  "name": "Art Blakey \u0026 The Jazz Messengers",
+  "play_count": 50,
+  "spotify_artist_id": "6ykfXAed2KOLOMI3R0TZdz",
+  "musicbrainz_artist_id": "209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee",
+  "spotify_url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz",
+  "genres": [
+    "bebop",
+    "cool-jazz",
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "bebop",
+    "cool jazz",
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9b3c987329c5ae6f4c586bb0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051749b3c987329c5ae6f4c586bb0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1789b3c987329c5ae6f4c586bb0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Art Blakey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Blakey",
+  "summary": "Arthur Blakey was an American jazz drummer and bandleader. He was also known as Abdullah Ibn Buhaina after he converted to Islam for a short time in the late 1940s.",
+  "candidates": [
+    "Art Blakey \u0026 The Jazz Messengers",
+    "Art Blakey \u0026 the Jazz Messengers",
+    "Art Blakey et les Jazz Messengers au Théâtre des Champs-Élysées"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Art Blakey",
+    "page_url": "https://en.wikipedia.org/wiki/Art_Blakey",
+    "retrieved_at": "2026-03-28T10:37:17Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Art_blakey_studio_portrait.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Art_blakey_studio_portrait.jpg/330px-Art_blakey_studio_portrait.jpg",
+    "width": 1086,
+    "height": 1200
+  },
+  "last_updated": "2026-03-30"
+}

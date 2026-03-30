@@ -3,14 +3,17 @@
   "source_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
   "name": "David Allan Coe",
   "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6",
+  "musicbrainz_artist_id": "d6ad0ad1-2a7c-4d5f-8776-331a3732360c",
   "source_genres": [
     "classic country",
     "country",
+    "folk",
     "honky tonk",
     "outlaw country"
   ],
   "canonical_genre_slugs": [
     "country",
+    "folk",
     "honky-tonk",
     "outlaw-country"
   ],

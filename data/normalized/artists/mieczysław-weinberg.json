@@ -1,0 +1,99 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6roPI9Y9n0FmCWxI3GxjaH",
+  "name": "Mieczysław Weinberg",
+  "spotify_url": "https://open.spotify.com/artist/6roPI9Y9n0FmCWxI3GxjaH",
+  "musicbrainz_artist_id": "554fbabf-54f4-4640-8eb6-88693b6085c7",
+  "source_genres": [
+    "classical",
+    "composer"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Mieczysław Weinberg",
+  "summary": "Mieczysław Weinberg was a Polish, Soviet, and Russian composer and pianist. Born in Warsaw to parents who worked in the Yiddish theatre in Poland, his early years were surrounded by music. At the age of 12, he began formal music lessons. Later, he studied piano at the Warsaw Conservatory. In 1939, Weinberg fled Warsaw when Germany invaded Poland and started World War II. His family was later murdered at the Trawniki concentration camp.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Mieczys%C5%82aw_Weinberg",
+  "candidates": [
+    "Mieczysław Weinberg"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Mieczysław Weinberg",
+    "page_url": "https://en.wikipedia.org/wiki/Mieczys%C5%82aw_Weinberg",
+    "retrieved_at": "2026-03-28T10:41:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Adria w Warszawie przed 1939.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Adria_w_Warszawie_przed_1939.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Adria_w_Warszawie_przed_1939.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adria_w_Warszawie_przed_1939.jpg/960px-Adria_w_Warszawie_przed_1939.jpg",
+    "width": 1040,
+    "height": 1396,
+    "license": "Public domain",
+    "author": "nieznany/unknown"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Adria w Warszawie przed 1939.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Adria_w_Warszawie_przed_1939.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Adria_w_Warszawie_przed_1939.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adria_w_Warszawie_przed_1939.jpg/960px-Adria_w_Warszawie_przed_1939.jpg",
+      "width": 1040,
+      "height": 1396,
+      "license": "Public domain",
+      "author": "nieznany/unknown"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Conservatoire, Minsk.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Conservatoire,_Minsk.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Conservatoire%2C_Minsk.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Conservatoire%2C_Minsk.JPG",
+      "width": 640,
+      "height": 480,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gruszecki\" title=\"User:Gruszecki\"\u003eGruszecki\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KGB-FSB headquarters, Lubyanka Square, Moscow, Russia.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:KGB-FSB_headquarters,_Lubyanka_Square,_Moscow,_Russia.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/KGB-FSB_headquarters%2C_Lubyanka_Square%2C_Moscow%2C_Russia.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/KGB-FSB_headquarters%2C_Lubyanka_Square%2C_Moscow%2C_Russia.jpg/960px-KGB-FSB_headquarters%2C_Lubyanka_Square%2C_Moscow%2C_Russia.jpg",
+      "width": 3072,
+      "height": 2048,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\"\u003eVyacheslav Argenberg\u003c/a\u003e",
+      "attribution_text": "© \u003ca href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\"\u003eVyacheslav Argenberg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mieczysław Weinberg - Signatura.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mieczys%C5%82aw_Weinberg_-_Signatura.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mieczys%C5%82aw_Weinberg_-_Signatura.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mieczys%C5%82aw_Weinberg_-_Signatura.png",
+      "width": 612,
+      "height": 214,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Lohen11\" title=\"User:Lohen11\"\u003eLohen11\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mikhail Kalatozov PSE Russia 2003.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mikhail_Kalatozov_PSE_Russia_2003.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mikhail_Kalatozov_PSE_Russia_2003.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mikhail_Kalatozov_PSE_Russia_2003.jpg/960px-Mikhail_Kalatozov_PSE_Russia_2003.jpg",
+      "width": 7742,
+      "height": 5374,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Russian_Post\" class=\"extiw\" title=\"w:Russian Post\"\u003eRussian Post\u003c/a\u003e, Publishing and Trade Centre \"Marka\" (\u003ca href=\"https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE-%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%C2%AB%D0%9C%D0%B0%D1%80%D0%BA%D0%B0%C2%BB\" class=\"extiw\" title=\"ru:Издательско-торговый центр «Марка»\"\u003eИТЦ «Марка»\u003c/a\u003e). The designer of the envelope: O. Yudin. Scanned by \u003ca href=\"//commons.wikimedia.org/wiki/User:Dmitry_Ivanov\" title=\"User:Dmitry Ivanov\"\u003eDmitry Ivanov\u003c/a\u003e"
+    }
+  ]
+}

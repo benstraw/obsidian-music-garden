@@ -1,0 +1,105 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1xgFexIwrf2QjbU0buCNnp",
+  "name": "The Breeders",
+  "spotify_url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp",
+  "musicbrainz_artist_id": "667e856e-f3a7-42e9-8244-95422ef31321",
+  "source_genres": [
+    "alternative rock",
+    "alternrock",
+    "indie rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "indie-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "The Breeders",
+  "summary": "The Breeders are an American alternative rock band based in Dayton, Ohio, consisting of members Kim Deal, her twin sister Kelley Deal, Josephine Wiggs and Jim Macpherson (drums).",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Breeders",
+  "candidates": [
+    "The Breakers",
+    "The Breakers (1878)",
+    "The Breakers (American band)",
+    "The Breakers (hotel)",
+    "The Breeders",
+    "The Breeders (group)",
+    "The Breeders Tour 2009",
+    "The Breeders Tour 2014",
+    "The Breeders Tour 2017",
+    "The Breeders discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Breeders",
+    "page_url": "https://en.wikipedia.org/wiki/The_Breeders",
+    "retrieved_at": "2026-03-28T10:43:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Breeders Kim Deal.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Breeders_Kim_Deal.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Breeders_Kim_Deal.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Breeders_Kim_Deal.jpg",
+    "width": 768,
+    "height": 519,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50373796@N00\"\u003eDanny Norton\u003c/a\u003e from Portland, OR, United States"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Breeders Kim Deal.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Breeders_Kim_Deal.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Breeders_Kim_Deal.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Breeders_Kim_Deal.jpg",
+      "width": 768,
+      "height": 519,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50373796@N00\"\u003eDanny Norton\u003c/a\u003e from Portland, OR, United States"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:IrisTheBreeders.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kim Deal Smoke.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kim_Deal_Smoke.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kim_Deal_Smoke.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kim_Deal_Smoke.jpg",
+      "width": 519,
+      "height": 768,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/dannynorton/\"\u003eDanny Norton\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Breeders (40914642655).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Breeders_(40914642655).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Breeders_%2840914642655%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Breeders_%2840914642655%29.jpg/960px-The_Breeders_%2840914642655%29.jpg",
+      "width": 4593,
+      "height": 3281,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/154086798@N02\"\u003eRebecca Sowell\u003c/a\u003e"
+    }
+  ]
+}

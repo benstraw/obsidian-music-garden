@@ -1,20 +1,28 @@
 {
   "canonical_slug": "dr-dre",
   "name": "Dr. Dre",
+  "play_count": 5,
   "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+  "musicbrainz_artist_id": "5f6ab597-f57a-40da-be9e-adad48708203",
   "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7",
   "genres": [
     "g-funk",
     "gangster-rap",
+    "hardcore-hip-hop",
     "hip-hop",
     "old-school-hip-hop",
     "rap",
     "west-coast-hip-hop"
   ],
   "source_genres": [
+    "5+ wochen",
     "g-funk",
+    "gangsta rap",
     "gangster rap",
+    "hardcore hip hop",
     "hip hop",
+    "hip-hop",
+    "hip-hop / rap",
     "old school hip hop",
     "rap",
     "west coast hip hop"
@@ -126,5 +134,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/26701921@N00\"\u003eJustin Davis\u003c/a\u003e from San Jose, US"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

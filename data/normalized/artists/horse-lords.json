@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0Oslq5zLftqRVwKseBJ7MV",
+  "name": "Horse Lords",
+  "spotify_url": "https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV",
+  "musicbrainz_artist_id": "6efe2782-6926-41f6-b246-bdd60f997b8b",
+  "source_genres": [
+    "experimental",
+    "krautrock",
+    "math rock",
+    "neo-psychedelic",
+    "noise rock"
+  ],
+  "canonical_genre_slugs": [
+    "experimental",
+    "krautrock",
+    "neo-psychedelic"
+  ],
+  "status": "matched",
+  "page_title": "Horse Lords",
+  "summary": "Horse Lords are an American avant-garde rock band from Baltimore.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Horse_Lords",
+  "candidates": [
+    "Horse Lords",
+    "Horse worship",
+    "Horselords",
+    "House of Lords",
+    "House of Lords (Hereditary Peers) Act 2026",
+    "House of Lords Act 1999",
+    "House of Lords Appointments Commission",
+    "Steven Horsford",
+    "The Horse that Lost its Liberty",
+    "The horse in Nordic mythology"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Horse Lords",
+    "page_url": "https://en.wikipedia.org/wiki/Horse_Lords",
+    "retrieved_at": "2026-03-28T10:39:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Musical Notes U.S..svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_Notes_U.S..svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Musical_Notes_U.S..svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Musical_Notes_U.S..svg/960px-Musical_Notes_U.S..svg.png",
+    "width": 605,
+    "height": 372,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Musical Notes U.S..svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Musical_Notes_U.S..svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Musical_Notes_U.S..svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Musical_Notes_U.S..svg/960px-Musical_Notes_U.S..svg.png",
+      "width": 605,
+      "height": 372,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+    }
+  ]
+}

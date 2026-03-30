@@ -6,7 +6,8 @@
   "aliases": [
     "jazz rap"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Jazz rap",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Jazz_rap",
@@ -55,127 +56,193 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 46,
-    "unique_artist_count": 6,
-    "unique_release_count": 12,
-    "unique_track_count": 24,
-    "first_played_at": "2026-02-26T02:26:11.568Z",
+    "play_count": 330,
+    "unique_artist_count": 16,
+    "unique_release_count": 49,
+    "unique_track_count": 221,
+    "first_played_at": "2024-01-01T00:00:00.018586576Z",
     "last_played_at": "2026-03-19T02:33:23.842Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "a-tribe-called-quest",
-      "name": "A Tribe Called Quest",
-      "play_count": 27,
-      "spotify_artist_id": "09hVIj6vWgoCDtT03h8ZCa",
-      "spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+      "canonical_slug": "thes-one",
+      "name": "Thes One",
+      "play_count": 106,
+      "spotify_artist_id": "6G69CndLxnRxLdy8MVLNmG",
+      "musicbrainz_artist_id": "d1281759-3892-49e5-9b7a-ce73cfd4f835",
+      "spotify_url": "https://open.spotify.com/artist/6G69CndLxnRxLdy8MVLNmG"
     },
     {
       "canonical_slug": "de-la-soul",
       "name": "De La Soul",
-      "play_count": 11,
+      "play_count": 90,
       "spotify_artist_id": "1Z8ODXyhEBi3WynYw0Rya6",
+      "musicbrainz_artist_id": "a8ebde98-7e91-46c7-992c-90039ba42017",
       "spotify_url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "play_count": 51,
+      "spotify_artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+      "musicbrainz_artist_id": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+      "spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+    },
+    {
+      "canonical_slug": "the-pharcyde",
+      "name": "The Pharcyde",
+      "play_count": 21,
+      "spotify_artist_id": "7yk35uHNQclPXFGFoTU44w",
+      "musicbrainz_artist_id": "d7134426-a937-43bf-bc54-f10ad8102ed9",
+      "spotify_url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
     },
     {
       "canonical_slug": "black-star",
       "name": "Black Star",
-      "play_count": 5,
+      "play_count": 15,
       "spotify_artist_id": "67ei8ib6PLT1w3OkhIb4fB",
+      "musicbrainz_artist_id": "02708fd6-0fe6-4738-a27d-0561ace8b4c6",
       "spotify_url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
     },
     {
-      "canonical_slug": "common",
-      "name": "Common",
-      "play_count": 1,
-      "spotify_artist_id": "2GHclqNVjqGuiE5mA7BEoc",
-      "spotify_url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+      "canonical_slug": "digable-planets",
+      "name": "Digable Planets",
+      "play_count": 9,
+      "spotify_artist_id": "0gqIrDRL7CEPBWMmkuZPdQ",
+      "musicbrainz_artist_id": "ff44f779-74ab-48f8-aac3-39ebe8f7c18e",
+      "spotify_url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+    },
+    {
+      "canonical_slug": "butcher-brown",
+      "name": "Butcher Brown",
+      "play_count": 7,
+      "spotify_artist_id": "2jQ6wRQ7yP1UrctodeuYQP",
+      "musicbrainz_artist_id": "c0937ba4-6869-456b-afd0-10335ae50245",
+      "spotify_url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+    },
+    {
+      "canonical_slug": "the-roots",
+      "name": "The Roots",
+      "play_count": 7,
+      "spotify_artist_id": "78xUyw6FkVZrRAtziFdtdu",
+      "musicbrainz_artist_id": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+      "spotify_url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
     },
     {
       "canonical_slug": "people-under-the-stairs",
       "name": "People Under The Stairs",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+      "musicbrainz_artist_id": "3dc00dcb-6106-43d1-b48d-21d236f53983",
       "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
     },
     {
-      "canonical_slug": "us3",
-      "name": "Us3",
-      "play_count": 1,
-      "spotify_artist_id": "4LtIfuFeAamus9OOItuWDD",
-      "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD"
+      "canonical_slug": "terrace-martin",
+      "name": "Terrace Martin",
+      "play_count": 6,
+      "spotify_artist_id": "7MNEVabc4cs19CbzAFZmXz",
+      "musicbrainz_artist_id": "47d06156-05af-420e-8835-be50353a5d52",
+      "spotify_url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "a-tribe-called-quest--we-got-it-from-here-thank-you-4-your-service",
-      "name": "We got it from Here... Thank You 4 Your service",
-      "play_count": 9,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest"
-    },
-    {
-      "canonical_slug": "a-tribe-called-quest--the-low-end-theory",
-      "name": "The Low End Theory",
-      "play_count": 7,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest"
-    },
-    {
-      "canonical_slug": "de-la-soul--3-feet-high-and-rising",
-      "name": "3 Feet High and Rising",
-      "play_count": 5,
-      "primary_artist_canonical_slug": "de-la-soul",
-      "primary_artist_name": "De La Soul"
+      "canonical_slug": "thes-one--10-years-of-thes-one",
+      "name": "10 Years of Thes One",
+      "play_count": 64,
+      "primary_artist_canonical_slug": "thes-one",
+      "primary_artist_name": "Thes One",
+      "spotify_album_id": "623wsoLB2FtwXyV6dWY9R6",
+      "musicbrainz_release_id": "7c575005-2775-4071-9f70-051d1ffef368",
+      "musicbrainz_release_group_id": "507c68e2-1f0d-43c3-8e99-dbcdbbda21df"
     },
     {
       "canonical_slug": "de-la-soul--de-la-soul-is-dead",
       "name": "De La Soul is Dead",
-      "play_count": 5,
+      "play_count": 36,
       "primary_artist_canonical_slug": "de-la-soul",
-      "primary_artist_name": "De La Soul"
+      "primary_artist_name": "De La Soul",
+      "spotify_album_id": "03birJOUpTh31nxuK75zrM",
+      "musicbrainz_release_id": "2fa48352-7734-4829-a8be-db1139e948cf",
+      "musicbrainz_release_group_id": "0be4cdd5-ed37-3842-82ba-7f9983a34473"
     },
     {
-      "canonical_slug": "a-tribe-called-quest--midnight-marauders",
-      "name": "Midnight Marauders",
-      "play_count": 5,
+      "canonical_slug": "de-la-soul--3-feet-high-and-rising",
+      "name": "3 Feet High and Rising",
+      "play_count": 26,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul",
+      "spotify_album_id": "34LxHI9x14qXUOS8AWRrYD",
+      "musicbrainz_release_id": "6ae7ef0b-f175-4f5e-8b2b-1e71f561ce41",
+      "musicbrainz_release_group_id": "5243f39c-c344-3989-a0f6-2a2f75a9d827"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--the-low-end-theory",
+      "name": "The Low End Theory",
+      "play_count": 21,
       "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest"
+      "primary_artist_name": "A Tribe Called Quest",
+      "spotify_album_id": "1p12OAWwudgMqfMzjMvl2a",
+      "musicbrainz_release_id": "63747b49-c817-4688-a3c3-c6b534672f3e",
+      "musicbrainz_release_group_id": "c3733436-fcba-3c08-b082-d548df5c5139"
+    },
+    {
+      "canonical_slug": "thes-one--lifestyle-marketing",
+      "name": "Lifestyle Marketing",
+      "play_count": 19,
+      "primary_artist_canonical_slug": "thes-one",
+      "primary_artist_name": "Thes One",
+      "spotify_album_id": "5icgHvy0Y3Tqo7a2KBihXR",
+      "musicbrainz_release_id": "6f119a45-652a-4b19-8741-0447e706592a",
+      "musicbrainz_release_group_id": "c81945ab-c418-3568-8ef5-6d38d8b4f4f2"
     },
     {
       "canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
       "name": "Mos Def \u0026 Talib Kweli Are Black Star",
-      "play_count": 5,
+      "play_count": 15,
       "primary_artist_canonical_slug": "black-star",
-      "primary_artist_name": "Black Star"
+      "primary_artist_name": "Black Star",
+      "spotify_album_id": "6GRzmk9UGL7odxprOPop1Q",
+      "musicbrainz_release_id": "8d2645c7-8576-47ee-8827-80a887646fd8",
+      "musicbrainz_release_group_id": "aaa445c1-5f73-37c0-b53a-2444b279c538"
     },
     {
-      "canonical_slug": "a-tribe-called-quest--the-anthology",
-      "name": "The Anthology",
-      "play_count": 3,
+      "canonical_slug": "thes-one--farewell-my-friend",
+      "name": "Farewell, my friend.",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "thes-one",
+      "primary_artist_name": "Thes One",
+      "spotify_album_id": "3223yckrIqK6F8yEjcekrJ",
+      "musicbrainz_release_id": "14233ec0-d389-43af-926a-d53b3e6ad319",
+      "musicbrainz_release_group_id": "d54f6b31-1f28-4c6f-96a4-01eb143f155e"
+    },
+    {
+      "canonical_slug": "the-pharcyde--bizarre-ride-ii-the-pharcyde",
+      "name": "Bizarre Ride II The Pharcyde",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "the-pharcyde",
+      "primary_artist_name": "The Pharcyde",
+      "spotify_album_id": "48kU5gP41TqZEw32Cwhsna",
+      "musicbrainz_release_id": "946eff9c-e3b0-48d7-af69-7f7be31364ac",
+      "musicbrainz_release_group_id": "c799ef0c-f038-364b-972b-51f52d794781"
+    },
+    {
+      "canonical_slug": "the-pharcyde--labcabincalifornia-deluxe-edition",
+      "name": "Labcabincalifornia (Deluxe Edition)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "the-pharcyde",
+      "primary_artist_name": "The Pharcyde",
+      "spotify_album_id": "05Qg48LlYGKYdeXrNGg00g"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--midnight-marauders",
+      "name": "Midnight Marauders",
+      "play_count": 9,
       "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest"
-    },
-    {
-      "canonical_slug": "a-tribe-called-quest--the-love-movement",
-      "name": "The Love Movement",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest"
-    },
-    {
-      "canonical_slug": "de-la-soul--aoi-bionix",
-      "name": "AOI: Bionix",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "de-la-soul",
-      "primary_artist_name": "De La Soul"
-    },
-    {
-      "canonical_slug": "us3--hand-on-the-torch",
-      "name": "Hand On The Torch",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "us3",
-      "primary_artist_name": "Us3"
+      "primary_artist_name": "A Tribe Called Quest",
+      "spotify_album_id": "4v5x3Oo3UjQ9YmF3hRAip5",
+      "musicbrainz_release_id": "a4a76ede-a544-45c2-b218-2f8243a2eb16",
+      "musicbrainz_release_group_id": "c2afedfb-034a-3683-ad47-e4404cd7c485"
     }
   ],
   "top_tracks": [
@@ -193,7 +260,7 @@
     {
       "canonical_slug": "de-la-soul--bitties-in-the-bk-lounge",
       "name": "Bitties in the BK Lounge",
-      "play_count": 5,
+      "play_count": 6,
       "primary_artist_canonical_slug": "de-la-soul",
       "primary_artist_name": "De La Soul",
       "release_canonical_slug": "de-la-soul--de-la-soul-is-dead",
@@ -202,75 +269,9 @@
       "spotify_url": "https://open.spotify.com/track/5Oau0nwi1toumk4lShjlRn"
     },
     {
-      "canonical_slug": "a-tribe-called-quest--buggin-out",
-      "name": "Buggin' Out",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest",
-      "release_canonical_slug": "a-tribe-called-quest--the-low-end-theory",
-      "release_name": "The Low End Theory",
-      "spotify_track_id": "6GAemDMWAXa8wZOBkO1gar",
-      "spotify_url": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar"
-    },
-    {
-      "canonical_slug": "a-tribe-called-quest--electric-relaxation",
-      "name": "Electric Relaxation",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest",
-      "release_canonical_slug": "a-tribe-called-quest--the-anthology",
-      "release_name": "The Anthology",
-      "spotify_track_id": "0eEXcw3JLVXcRxYrVYMy68",
-      "spotify_url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "canonical_slug": "a-tribe-called-quest--find-a-way",
-      "name": "Find a Way",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest",
-      "release_canonical_slug": "a-tribe-called-quest--the-love-movement",
-      "release_name": "The Love Movement",
-      "spotify_track_id": "2MAaiV0bbeq4FpSwPe2rR8",
-      "spotify_url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
-    },
-    {
-      "canonical_slug": "a-tribe-called-quest--award-tour-feat-trugoy-the-dove",
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "a-tribe-called-quest",
-      "primary_artist_name": "A Tribe Called Quest",
-      "release_canonical_slug": "a-tribe-called-quest--midnight-marauders",
-      "release_name": "Midnight Marauders",
-      "spotify_track_id": "5YTM7OgQDt9EJAYcfHLniJ",
-      "spotify_url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
-    },
-    {
-      "canonical_slug": "black-star--definition",
-      "name": "Definition",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "black-star",
-      "primary_artist_name": "Black Star",
-      "release_canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
-      "release_name": "Mos Def \u0026 Talib Kweli Are Black Star",
-      "spotify_track_id": "4C7Ss9bTPOWJMh3rarF1mN",
-      "spotify_url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
-    },
-    {
-      "canonical_slug": "de-la-soul--eye-know",
-      "name": "Eye Know",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "de-la-soul",
-      "primary_artist_name": "De La Soul",
-      "release_canonical_slug": "de-la-soul--3-feet-high-and-rising",
-      "release_name": "3 Feet High and Rising",
-      "spotify_track_id": "4xQMFoD33vx6stB1UzfA6s",
-      "spotify_url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
-    },
-    {
       "canonical_slug": "de-la-soul--me-myself-and-i",
       "name": "Me Myself and I",
-      "play_count": 2,
+      "play_count": 6,
       "primary_artist_canonical_slug": "de-la-soul",
       "primary_artist_name": "De La Soul",
       "release_canonical_slug": "de-la-soul--3-feet-high-and-rising",
@@ -279,15 +280,81 @@
       "spotify_url": "https://open.spotify.com/track/792UwI6utk5DMQUT1KXa5E"
     },
     {
-      "canonical_slug": "black-star--respiration",
-      "name": "Respiration",
-      "play_count": 2,
+      "canonical_slug": "a-tribe-called-quest--buggin-out",
+      "name": "Buggin' Out",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-low-end-theory",
+      "release_name": "The Low End Theory",
+      "spotify_track_id": "6GAemDMWAXa8wZOBkO1gar",
+      "spotify_url": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar"
+    },
+    {
+      "canonical_slug": "black-star--definition",
+      "name": "Definition",
+      "play_count": 4,
       "primary_artist_canonical_slug": "black-star",
       "primary_artist_name": "Black Star",
       "release_canonical_slug": "black-star--mos-def-and-talib-kweli-are-black-star",
       "release_name": "Mos Def \u0026 Talib Kweli Are Black Star",
-      "spotify_track_id": "5mxVKAuunOKqcBfR5ivbRf",
-      "spotify_url": "https://open.spotify.com/track/5mxVKAuunOKqcBfR5ivbRf"
+      "spotify_track_id": "4C7Ss9bTPOWJMh3rarF1mN",
+      "spotify_url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--electric-relaxation",
+      "name": "Electric Relaxation",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--the-anthology",
+      "release_name": "The Anthology",
+      "spotify_track_id": "0eEXcw3JLVXcRxYrVYMy68",
+      "spotify_url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
+    },
+    {
+      "canonical_slug": "de-la-soul--let-let-me-in",
+      "name": "Let, Let Me In",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul",
+      "release_canonical_slug": "de-la-soul--de-la-soul-is-dead",
+      "release_name": "De La Soul is Dead",
+      "spotify_track_id": "23jRBsezQf4JAwNZkPK48I",
+      "spotify_url": "https://open.spotify.com/track/23jRBsezQf4JAwNZkPK48I"
+    },
+    {
+      "canonical_slug": "a-tribe-called-quest--award-tour-feat-trugoy-the-dove",
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "a-tribe-called-quest",
+      "primary_artist_name": "A Tribe Called Quest",
+      "release_canonical_slug": "a-tribe-called-quest--midnight-marauders",
+      "release_name": "Midnight Marauders",
+      "spotify_track_id": "5YTM7OgQDt9EJAYcfHLniJ",
+      "spotify_url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "canonical_slug": "digable-planets--dog-it",
+      "name": "Dog It",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "digable-planets",
+      "primary_artist_name": "Digable Planets",
+      "release_canonical_slug": "digable-planets--blowout-comb",
+      "release_name": "Blowout Comb",
+      "spotify_track_id": "6Mbm86B4joMLyCncLCESCG",
+      "spotify_url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
+    },
+    {
+      "canonical_slug": "de-la-soul--eye-know",
+      "name": "Eye Know",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "de-la-soul",
+      "primary_artist_name": "De La Soul",
+      "release_canonical_slug": "de-la-soul--3-feet-high-and-rising",
+      "release_name": "3 Feet High and Rising",
+      "spotify_track_id": "4xQMFoD33vx6stB1UzfA6s",
+      "spotify_url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
     }
   ],
   "source_refs": [
@@ -296,6 +363,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

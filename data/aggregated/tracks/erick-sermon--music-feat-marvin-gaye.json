@@ -1,11 +1,14 @@
 {
   "canonical_slug": "erick-sermon--music-feat-marvin-gaye",
   "name": "Music (feat. Marvin Gaye)",
+  "play_count": 3,
   "primary_artist_canonical_slug": "erick-sermon",
   "primary_artist_name": "Erick Sermon",
+  "additional_artist_slugs": [
+    "marvin-gaye"
+  ],
   "release_canonical_slug": "erick-sermon--music",
   "release_name": "Music",
   "spotify_track_id": "6IFOw9Ck9mWHRQgw6QrPYx",
-  "spotify_url": "https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/6IFOw9Ck9mWHRQgw6QrPYx"
 }

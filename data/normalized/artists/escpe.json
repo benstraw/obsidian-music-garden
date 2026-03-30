@@ -1,0 +1,35 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0BmnB01PeIJC2Dqgnr5A1L",
+  "name": "ESCPE",
+  "spotify_url": "https://open.spotify.com/artist/0BmnB01PeIJC2Dqgnr5A1L",
+  "musicbrainz_artist_id": "bc3a8edf-6a8f-4d0a-a716-c385501b8c33",
+  "source_genres": [
+    "downtempo",
+    "electronic",
+    "electronica",
+    "experimental",
+    "instrumental",
+    "phonk",
+    "trap",
+    "wave",
+    "world fusion"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "experimental"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "ESCP-EAP",
+    "Escape Room: Tournament of Champions",
+    "Escape from L.A.",
+    "Escape from New York",
+    "Escape from Tarkov",
+    "Escape velocity",
+    "Escapement",
+    "Eschatology",
+    "Escherichia coli",
+    "M. C. Escher"
+  ]
+}

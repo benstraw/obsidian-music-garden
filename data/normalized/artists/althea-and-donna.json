@@ -1,0 +1,29 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5E8FbSTegbOlYAH4b2rZj2",
+  "name": "Althea And Donna",
+  "spotify_url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2",
+  "musicbrainz_artist_id": "9392a824-7157-4a5b-9880-23775ee54805",
+  "source_genres": [
+    "reggae",
+    "roots reggae",
+    "steel pulse"
+  ],
+  "canonical_genre_slugs": [
+    "reggae",
+    "roots-reggae"
+  ],
+  "status": "matched",
+  "page_title": "Althea \u0026 Donna",
+  "summary": "Althea \u0026 Donna are a Jamaican reggae vocal duo, consisting of Althea Rose Forrest and Donna Marie Reid. They are best known for their 1977 single \"Uptown Top Ranking\", which was a number-one hit in the United Kingdom in 1978, making them the first Jamaican female duo to top the UK Singles Chart. Following the song's success, they became the first Jamaican female duo to be signed to a major record label.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Althea_%26_Donna",
+  "candidates": [
+    "Althea and Donna"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Althea \u0026 Donna",
+    "page_url": "https://en.wikipedia.org/wiki/Althea_%26_Donna",
+    "retrieved_at": "2026-03-28T10:37:04Z"
+  }
+}

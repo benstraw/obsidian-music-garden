@@ -3,11 +3,15 @@
   "source_artist_id": "63aP18bg2ABSOqSNQcAMNy",
   "name": "Allen Toussaint",
   "spotify_url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy",
+  "musicbrainz_artist_id": "ec21cced-2d22-4883-9ee3-f642e6e52f58",
   "source_genres": [
-    "cajun"
+    "cajun",
+    "jazz",
+    "r\u0026b"
   ],
   "canonical_genre_slugs": [
-    "cajun"
+    "cajun",
+    "jazz"
   ],
   "status": "matched",
   "page_title": "Allen Toussaint",

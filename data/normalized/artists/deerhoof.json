@@ -1,0 +1,108 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7AZwAitWq1KcFoIJhRWb6V",
+  "name": "Deerhoof",
+  "spotify_url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V",
+  "musicbrainz_artist_id": "11eabe0c-2638-4808-92f9-1dbd9c453429",
+  "source_genres": [
+    "art pop",
+    "art punk",
+    "experimental rock",
+    "garage rock revival",
+    "indie rock",
+    "math pop",
+    "noise pop",
+    "noise rock",
+    "pop rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "art-pop",
+    "experimental-rock",
+    "indie-rock",
+    "pop",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Deerhoof",
+  "summary": "Deerhoof is an American musical group formed in San Francisco in 1994. It consists of founding drummer Greg Saunier, bassist and singer Satomi Matsuzaki, and guitarists John Dieterich and Ed Rodriguez. Beginning as an improvised noise punk band, Deerhoof became widely renowned and influential in the 2000s through its self-produced albums.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Deerhoof",
+  "candidates": [
+    "Deer of Great Britain",
+    "Deer of Ireland",
+    "Deerfoot",
+    "Deerfoot Trail",
+    "Deerhoof",
+    "Deerhoof milkman",
+    "Deerhoof vs. Evil",
+    "Deerwood Country Club",
+    "Deerwood, Minnesota",
+    "Deerwood, Texas"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Deerhoof",
+    "page_url": "https://en.wikipedia.org/wiki/Deerhoof",
+    "retrieved_at": "2026-03-28T10:38:31Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Deerhoof2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Deerhoof2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Deerhoof2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Deerhoof2.jpg",
+    "width": 722,
+    "height": 480,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Deerhoof2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Deerhoof2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Deerhoof2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Deerhoof2.jpg",
+      "width": 722,
+      "height": 480,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Deerhoof - Haldern Pop Festival 2018-6.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Deerhoof_-_Haldern_Pop_Festival_2018-6.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Deerhoof_-_Haldern_Pop_Festival_2018-6.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Deerhoof_-_Haldern_Pop_Festival_2018-6.jpg/960px-Deerhoof_-_Haldern_Pop_Festival_2018-6.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Jukebox_Romeo\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Jukebox Romeo (page does not exist)\"\u003eMartin Schumann / Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Deerhoof on stage.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Deerhoof_on_stage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Deerhoof_on_stage.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Deerhoof_on_stage.jpg",
+      "width": 438,
+      "height": 438,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mcgwireonfire\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mcgwireonfire (page does not exist)\"\u003eMcgwireonfire\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Deerhoofprospect.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Deerhoofprospect.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Deerhoofprospect.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Deerhoofprospect.png",
+      "width": 412,
+      "height": 258,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Tduk\" title=\"User:Tduk\"\u003eTduk\u003c/a\u003e Alex Lozupone"
+    }
+  ]
+}

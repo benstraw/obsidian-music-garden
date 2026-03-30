@@ -1,0 +1,104 @@
+{
+  "source": "spotify",
+  "source_artist_id": "26T3LtbuGT1Fu9m0eRq5X3",
+  "name": "Cage The Elephant",
+  "spotify_url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3",
+  "musicbrainz_artist_id": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+  "source_genres": [
+    "alternative rock",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "alternative-rock",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "Cage the Elephant",
+  "summary": "Cage the Elephant is an American rock band formed in 2006 in Bowling Green, Kentucky. They moved to England and settled in London in 2008, shortly before their self-titled first album was released. The band currently consists of Matt Shultz (vocals), his older brother Brad Shultz, Nick Bockrath, Matthan Minster, Daniel Tichenor (bass), and Jared Champion (drums). The band's first album was released to much success, spawning several successful radio singles and gaining the band a large following in both the United States and the United Kingdom. It was influenced by classic rock, '90s alternative, blues, punk rock, and funk music. Lincoln Parish served as the band's lead guitarist from their formation in 2006 until 2013, when he left on good terms to pursue a career in producing.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Cage_the_Elephant",
+  "candidates": [
+    "Cage the Elephant",
+    "Cage the Elephant (album)",
+    "Cage the Elephant discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Cage the Elephant",
+    "page_url": "https://en.wikipedia.org/wiki/Cage_the_Elephant",
+    "retrieved_at": "2026-03-28T10:37:54Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2019 RiP Cage the Elephant - by 2eight - ZSC4480.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg/960px-2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg",
+    "width": 2048,
+    "height": 1152,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Stefan Brending (\u003ca href=\"//commons.wikimedia.org/wiki/User:2eight\" title=\"User:2eight\"\u003e2eight\u003c/a\u003e)",
+    "attribution_text": "Foto: \u003ca href=\"https://de.wikipedia.org/wiki/User:2eight\" class=\"extiw\" title=\"de:User:2eight\"\u003eStefan Brending\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2019 RiP Cage the Elephant - by 2eight - ZSC4480.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg/960px-2019_RiP_Cage_the_Elephant_-_by_2eight_-_ZSC4480.jpg",
+      "width": 2048,
+      "height": 1152,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Stefan Brending (\u003ca href=\"//commons.wikimedia.org/wiki/User:2eight\" title=\"User:2eight\"\u003e2eight\u003c/a\u003e)",
+      "attribution_text": "Foto: \u003ca href=\"https://de.wikipedia.org/wiki/User:2eight\" class=\"extiw\" title=\"de:User:2eight\"\u003eStefan Brending\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cage The Elephant @ Bluesfest (5978928681).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cage_The_Elephant_@_Bluesfest_(5978928681).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cage_The_Elephant_%40_Bluesfest_%285978928681%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cage_The_Elephant_%40_Bluesfest_%285978928681%29.jpg/960px-Cage_The_Elephant_%40_Bluesfest_%285978928681%29.jpg",
+      "width": 3456,
+      "height": 2592,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/29605922@N03\"\u003eceedub13\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cage The Elephant Live @ Bonnaroo 2017.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cage_The_Elephant_Live_@_Bonnaroo_2017.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cage_The_Elephant_Live_%40_Bonnaroo_2017.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cage_The_Elephant_Live_%40_Bonnaroo_2017.jpg/960px-Cage_The_Elephant_Live_%40_Bonnaroo_2017.jpg",
+      "width": 5472,
+      "height": 3648,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:ThorntonDrury\" title=\"User:ThorntonDrury\"\u003eThornton Drury\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cage the Elephant (28446478259).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cage_the_Elephant_(28446478259).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cage_the_Elephant_%2828446478259%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cage_the_Elephant_%2828446478259%29.jpg/960px-Cage_the_Elephant_%2828446478259%29.jpg",
+      "width": 3766,
+      "height": 2511,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/33614339@N05\"\u003eCaitlin Ison\u003c/a\u003e"
+    }
+  ]
+}

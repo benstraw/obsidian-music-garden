@@ -1,0 +1,49 @@
+{
+  "source": "spotify",
+  "source_artist_id": "28Bn2PxtmXD8UbBSM968Fp",
+  "name": "Bertrand Chamayou",
+  "spotify_url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp",
+  "musicbrainz_artist_id": "09cf0e3b-6315-47dc-b79c-984f60b9ceb7",
+  "source_genres": [
+    "french pianist"
+  ],
+  "status": "matched",
+  "page_title": "Bertrand Chamayou",
+  "summary": "Bertrand Chamayou is a French pianist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bertrand_Chamayou",
+  "candidates": [
+    "Bertrand Chamayou"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bertrand Chamayou",
+    "page_url": "https://en.wikipedia.org/wiki/Bertrand_Chamayou",
+    "retrieved_at": "2026-03-28T10:37:23Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bertrand Chamayou 2010.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bertrand_Chamayou_2010.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bertrand_Chamayou_2010.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bertrand_Chamayou_2010.jpg/960px-Bertrand_Chamayou_2010.jpg",
+    "width": 2048,
+    "height": 2709,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Siren-Com\" title=\"User:Siren-Com\"\u003eSiren-Com\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bertrand Chamayou 2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bertrand_Chamayou_2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bertrand_Chamayou_2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bertrand_Chamayou_2010.jpg/960px-Bertrand_Chamayou_2010.jpg",
+      "width": 2048,
+      "height": 2709,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Siren-Com\" title=\"User:Siren-Com\"\u003eSiren-Com\u003c/a\u003e"
+    }
+  ]
+}

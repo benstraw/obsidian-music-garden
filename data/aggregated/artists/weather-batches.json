@@ -1,0 +1,30 @@
+{
+  "canonical_slug": "weather-batches",
+  "name": "Weather Batches",
+  "play_count": 5,
+  "spotify_artist_id": "44RZwyPFg40Ferde44wbGT",
+  "spotify_url": "https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2732cadd2283b58b6739203f00a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e022cadd2283b58b6739203f00a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048512cadd2283b58b6739203f00a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "The weather in Manchester",
+    "Weatherby Chesney"
+  ],
+  "last_updated": "2026-03-28"
+}

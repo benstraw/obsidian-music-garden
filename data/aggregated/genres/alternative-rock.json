@@ -11,6 +11,7 @@
     "alternative rock music"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Alternative rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_rock",
@@ -107,42 +108,303 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T14:07:30.400Z",
-    "last_played_at": "2026-03-03T14:07:30.400Z"
+    "play_count": 399,
+    "unique_artist_count": 35,
+    "unique_release_count": 103,
+    "unique_track_count": 276,
+    "first_played_at": "2024-01-01T00:00:00.036212235Z",
+    "last_played_at": "2026-03-29T04:37:25.499Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "modest-mouse",
-      "name": "Modest Mouse",
-      "play_count": 1,
-      "spotify_artist_id": "1yAwtBaoHLEDWAnWR87hBT",
-      "spotify_url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+      "canonical_slug": "cage-the-elephant",
+      "name": "Cage The Elephant",
+      "play_count": 83,
+      "spotify_artist_id": "26T3LtbuGT1Fu9m0eRq5X3",
+      "musicbrainz_artist_id": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+      "spotify_url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+    },
+    {
+      "canonical_slug": "pavement",
+      "name": "Pavement",
+      "play_count": 30,
+      "spotify_artist_id": "3inCNiUr4R6XQ3W43s9Aqi",
+      "musicbrainz_artist_id": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+      "spotify_url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+    },
+    {
+      "canonical_slug": "dinosaur-jr",
+      "name": "Dinosaur Jr.",
+      "play_count": 22,
+      "spotify_artist_id": "267VY6GX5LyU5c9M85ECZQ",
+      "musicbrainz_artist_id": "77c167d2-4965-4421-830a-9815e4956475",
+      "spotify_url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+    },
+    {
+      "canonical_slug": "liars",
+      "name": "Liars",
+      "play_count": 22,
+      "spotify_artist_id": "2z78AlkdwE2Ghj9EB50M6z",
+      "musicbrainz_artist_id": "03098741-08b3-4dd7-b3f6-1b0bfa2c879c",
+      "spotify_url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+    },
+    {
+      "canonical_slug": "the-dead-milkmen",
+      "name": "The Dead Milkmen",
+      "play_count": 21,
+      "spotify_artist_id": "2fhngmJMaaKcdhXHCa4cPK",
+      "musicbrainz_artist_id": "cdd2e0f0-703d-454d-b5c7-cc3bb6dd5552",
+      "spotify_url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+    },
+    {
+      "canonical_slug": "electrelane",
+      "name": "Electrelane",
+      "play_count": 19,
+      "spotify_artist_id": "7ulIMfVKiXh8ecEpAVHIAY",
+      "musicbrainz_artist_id": "7756e3dc-f44c-4678-a7bc-d1b31204a963",
+      "spotify_url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+    },
+    {
+      "canonical_slug": "violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 16,
+      "spotify_artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+      "musicbrainz_artist_id": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+      "spotify_url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+    },
+    {
+      "canonical_slug": "cows",
+      "name": "Cows",
+      "play_count": 15,
+      "spotify_artist_id": "5Al98vDcGka3JcJ1WlZYoN",
+      "musicbrainz_artist_id": "d4b064a0-5567-4930-a359-16fadfa7941b",
+      "spotify_url": "https://open.spotify.com/artist/5Al98vDcGka3JcJ1WlZYoN"
+    },
+    {
+      "canonical_slug": "beck",
+      "name": "Beck",
+      "play_count": 14,
+      "spotify_artist_id": "3vbKDsSS70ZX9D2OcvbZmS",
+      "musicbrainz_artist_id": "309c62ba-7a22-4277-9f67-4a162526d18a",
+      "spotify_url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+    },
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 12,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "modest-mouse--good-news-for-people-who-love-bad-news",
-      "name": "Good News For People Who Love Bad News",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "modest-mouse",
-      "primary_artist_name": "Modest Mouse"
+      "canonical_slug": "pavement--wowee-zowee",
+      "name": "Wowee Zowee",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "pavement",
+      "primary_artist_name": "Pavement",
+      "spotify_album_id": "0OHDiDMyxzWJfwtoeHNCf4",
+      "musicbrainz_release_id": "e82d07a2-aba4-4926-9961-55135db3c7e3",
+      "musicbrainz_release_group_id": "fa79988d-62b5-3039-9169-ed0d17d53296"
+    },
+    {
+      "canonical_slug": "liars--drum-s-not-dead",
+      "name": "Drum's Not Dead",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "spotify_album_id": "4xeba6CVGWt31LsqwhS8Mg",
+      "musicbrainz_release_id": "207d66ce-3699-30b2-99c0-4fa60daaf01c",
+      "musicbrainz_release_group_id": "003bca6c-ca70-3c20-81d2-3f615b583fbf"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--neon-pill",
+      "name": "Neon Pill",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage the Elephant",
+      "spotify_album_id": "0wXH96NWr3scCMVuVuAkt1",
+      "musicbrainz_release_id": "37e83d1c-facb-4890-9e28-d7c5e3a307ce",
+      "musicbrainz_release_group_id": "98b784ec-4cb8-4887-9481-12f680eedd37"
+    },
+    {
+      "canonical_slug": "electrelane--no-shouts-no-calls",
+      "name": "No Shouts, No Calls",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "electrelane",
+      "primary_artist_name": "Electrelane",
+      "spotify_album_id": "0l9mVAWNzHKX0B7o9IEIeB",
+      "musicbrainz_release_id": "d8e4a57a-ed1d-480e-9d95-33d1f33a1656",
+      "musicbrainz_release_group_id": "a42737df-433d-36a4-9d19-7224e08be609"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--cage-the-elephant-expanded-edition",
+      "name": "Cage The Elephant (Expanded Edition)",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage The Elephant",
+      "spotify_album_id": "7H814Cg8HV0qpoMheYbhNn"
+    },
+    {
+      "canonical_slug": "violent-femmes--violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "0Ojio25IPzIrw1rUmgrhrG",
+      "musicbrainz_release_id": "47db7a62-72b5-458d-9877-efd463a13f32",
+      "musicbrainz_release_group_id": "616a1d80-83d0-3234-bf71-fe3de8109f99"
+    },
+    {
+      "canonical_slug": "dinosaur-jr--you-re-living-all-over-me",
+      "name": "You're Living All Over Me",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "dinosaur-jr",
+      "primary_artist_name": "Dinosaur Jr.",
+      "spotify_album_id": "3peMqhMZ1HT8N4lvSS3GPu"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--social-cues",
+      "name": "Social Cues",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage the Elephant",
+      "spotify_album_id": "2VuZJsJBPLwg9BeQFQle8G",
+      "musicbrainz_release_id": "be99cd7a-03cf-452d-a482-a9d180446c48",
+      "musicbrainz_release_group_id": "b248952b-f242-4526-8877-b051b48812ce"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--tell-me-i-m-pretty",
+      "name": "Tell Me I'm Pretty",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage the Elephant",
+      "spotify_album_id": "0nW0w37lrQ87k7PLZvC4qJ",
+      "musicbrainz_release_id": "7e363aba-52c0-4e0f-8f00-154fecbb4891",
+      "musicbrainz_release_group_id": "865ca6c7-64f2-4b88-a79f-33ca42d49811"
+    },
+    {
+      "canonical_slug": "the-dead-milkmen--big-lizard-in-my-backyard",
+      "name": "Big Lizard In My Backyard",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "the-dead-milkmen",
+      "primary_artist_name": "The Dead Milkmen",
+      "spotify_album_id": "6N8dOvnSvUMYQWBxC4uZeV",
+      "musicbrainz_release_id": "fbdc0070-002e-4215-9217-e028c424e57d",
+      "musicbrainz_release_group_id": "06a44fee-11d1-3a92-943d-7f7dad49537b"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "modest-mouse--float-on",
-      "name": "Float On",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "modest-mouse",
-      "primary_artist_name": "Modest Mouse",
-      "release_canonical_slug": "modest-mouse--good-news-for-people-who-love-bad-news",
-      "release_name": "Good News For People Who Love Bad News",
-      "spotify_track_id": "2lwwrWVKdf3LR9lbbhnr6R",
-      "spotify_url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
+      "canonical_slug": "cage-the-elephant--out-loud",
+      "name": "Out Loud",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage The Elephant",
+      "release_canonical_slug": "cage-the-elephant--out-loud",
+      "release_name": "Out Loud",
+      "spotify_track_id": "6Yx5Cw2mVmx6LiVP2VXWEO",
+      "spotify_url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
+    {
+      "canonical_slug": "the-breeders--new-year",
+      "name": "New Year",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-breeders",
+      "primary_artist_name": "The Breeders",
+      "release_canonical_slug": "the-breeders--last-splash",
+      "release_name": "Last Splash",
+      "spotify_track_id": "6MEAQnIS71j4BGkyRhz7dA",
+      "spotify_url": "https://open.spotify.com/track/6MEAQnIS71j4BGkyRhz7dA"
+    },
+    {
+      "canonical_slug": "liars--a-visit-from-drum",
+      "name": "A Visit From Drum",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "release_canonical_slug": "liars--drum-s-not-dead",
+      "release_name": "Drum's Not Dead",
+      "spotify_track_id": "70dQckN10afBXt30Ug51si",
+      "spotify_url": "https://open.spotify.com/track/70dQckN10afBXt30Ug51si"
+    },
+    {
+      "canonical_slug": "silver-jews--advice-to-the-graduate",
+      "name": "Advice To The Graduate",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "silver-jews",
+      "primary_artist_name": "Silver Jews",
+      "release_canonical_slug": "silver-jews--starlite-walker",
+      "release_name": "Starlite Walker",
+      "spotify_track_id": "6HADliXFMMRQl4300tE4Hy",
+      "spotify_url": "https://open.spotify.com/track/6HADliXFMMRQl4300tE4Hy"
+    },
+    {
+      "canonical_slug": "elvis-costello--alison",
+      "name": "Alison",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "release_canonical_slug": "elvis-costello--my-aim-is-true",
+      "release_name": "My Aim Is True",
+      "spotify_track_id": "1v98rfd0an913AzHvMNG8a",
+      "spotify_url": "https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a"
+    },
+    {
+      "canonical_slug": "pell-mell--anna-karina",
+      "name": "Anna Karina",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "pell-mell",
+      "primary_artist_name": "Pell Mell",
+      "release_canonical_slug": "pell-mell--interstate",
+      "release_name": "Interstate",
+      "spotify_track_id": "0aPFwvS6sGQZA7VWPlagIy",
+      "spotify_url": "https://open.spotify.com/track/0aPFwvS6sGQZA7VWPlagIy"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--around-my-head",
+      "name": "Around My Head",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage The Elephant",
+      "release_canonical_slug": "cage-the-elephant--thank-you-happy-birthday",
+      "release_name": "Thank You Happy Birthday",
+      "spotify_track_id": "0oFCz4vOMbg9dRmV69K1vG",
+      "spotify_url": "https://open.spotify.com/track/0oFCz4vOMbg9dRmV69K1vG"
+    },
+    {
+      "canonical_slug": "uncle-tupelo--atomic-power",
+      "name": "Atomic Power",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "uncle-tupelo",
+      "primary_artist_name": "Uncle Tupelo",
+      "release_canonical_slug": "uncle-tupelo--march-16-20-1992",
+      "release_name": "March 16-20, 1992",
+      "spotify_track_id": "0rVrDzOeAXrTJZ71ZpJvZO",
+      "spotify_url": "https://open.spotify.com/track/0rVrDzOeAXrTJZ71ZpJvZO"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--back-against-the-wall",
+      "name": "Back Against the Wall",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage The Elephant",
+      "release_canonical_slug": "cage-the-elephant--cage-the-elephant-expanded-edition",
+      "release_name": "Cage The Elephant (Expanded Edition)",
+      "spotify_track_id": "0vz64VTiPPBpcmla0QvAI9",
+      "spotify_url": "https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9"
     }
   ],
   "source_refs": [
@@ -151,6 +413,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -172,9 +440,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T14:07:30.400Z",
+      "updated_at": "2026-03-29T04:37:25.499Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:37:25.499Z"
 }

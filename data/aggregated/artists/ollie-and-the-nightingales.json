@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "ollie-and-the-nightingales",
+  "name": "Ollie \u0026 The Nightingales",
+  "play_count": 5,
+  "spotify_artist_id": "3DdJHfaIJApxVnU9HRUV2X",
+  "spotify_url": "https://open.spotify.com/artist/3DdJHfaIJApxVnU9HRUV2X",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2733131be9983a0aa6f9237cfb9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e023131be9983a0aa6f9237cfb9",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048513131be9983a0aa6f9237cfb9",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "The Dixie Nightingales",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Dixie_Nightingales",
+  "summary": "The Dixie Nightingales, also known as Ollie \u0026 the Nightingales and The Nightingales, was an African-American male vocal group, whose repertoire included gospel and later rhythm and blues and soul music.",
+  "candidates": [
+    "Ollie \u0026 The Nightingales"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Dixie Nightingales",
+    "page_url": "https://en.wikipedia.org/wiki/The_Dixie_Nightingales",
+    "retrieved_at": "2026-03-28T10:41:39Z"
+  },
+  "last_updated": "2026-03-28"
+}

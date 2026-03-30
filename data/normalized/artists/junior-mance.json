@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1KTUh4AYegM2fSdac5xqPb",
+  "name": "Junior Mance",
+  "spotify_url": "https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb",
+  "musicbrainz_artist_id": "d217c8ff-7dcc-4c11-84f2-3b5cdf018523",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Junior Mance",
+  "summary": "Julian Clifford Mance, Jr., known as Junior Mance, was an American jazz pianist and composer.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Junior_Mance",
+  "candidates": [
+    "Junior Mance",
+    "Junior Mance Special",
+    "Junior Mance Trio at the Village Vanguard",
+    "Junior MasterChef Australia",
+    "Junior MasterChef Australia series 1",
+    "Junior MasterChef Australia series 2",
+    "Junior MasterChef Australia series 3",
+    "Junior MasterChef Pinoy Edition",
+    "Marcos Júnior",
+    "The Junior Mance Touch"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Junior Mance",
+    "page_url": "https://en.wikipedia.org/wiki/Junior_Mance",
+    "retrieved_at": "2026-03-28T10:40:18Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Junior Mance.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Junior_Mance.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Junior_Mance.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Junior_Mance.jpg",
+    "width": 450,
+    "height": 650,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Lioneldecoster\" title=\"User:Lioneldecoster\"\u003eLionel decoster\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Junior Mance.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Junior_Mance.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Junior_Mance.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Junior_Mance.jpg",
+      "width": 450,
+      "height": 650,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Lioneldecoster\" title=\"User:Lioneldecoster\"\u003eLionel decoster\u003c/a\u003e"
+    }
+  ]
+}

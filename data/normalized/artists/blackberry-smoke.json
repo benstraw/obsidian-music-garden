@@ -1,0 +1,74 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5P1oS9DUTPEqcrmXDmX4p8",
+  "name": "Blackberry Smoke",
+  "spotify_url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8",
+  "musicbrainz_artist_id": "1576a26e-f77d-47ac-87f2-4f610c141ac6",
+  "source_genres": [
+    "contemporary country",
+    "country",
+    "country-rock",
+    "pop/rock",
+    "rock",
+    "southern rock"
+  ],
+  "canonical_genre_slugs": [
+    "country",
+    "country-rock",
+    "pop",
+    "rock",
+    "southern-rock"
+  ],
+  "status": "matched",
+  "page_title": "Blackberry Smoke",
+  "summary": "Blackberry Smoke is an American country rock band formed in Atlanta, Georgia, in 2001. The lineup consists of lead vocalist and lead guitarist Charlie Starr, lead/rhythm guitarist Paul Jackson, bassist Richard Turner and keyboardist Brandon Still. Richard's brother Brit Turner was the band's co-founder and drummer before his death in March 2024. Drumming duties have been covered during the bands tours since late 2023 by Atlanta drummer Kent Aberle. In 2018, they added touring members, guitarist Benji Shanks and percussionist Preston Holcomb, with Holcomb retiring from touring in the Spring of 2024. They have released eight studio albums, two live albums and five extended plays.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Blackberry_Smoke",
+  "candidates": [
+    "Blackberry Skeletoniser",
+    "Blackberry Smoke"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Blackberry Smoke",
+    "page_url": "https://en.wikipedia.org/wiki/Blackberry_Smoke",
+    "retrieved_at": "2026-03-28T10:37:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Blackberry Smoke in 2012.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Blackberry_Smoke_in_2012.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Blackberry_Smoke_in_2012.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blackberry_Smoke_in_2012.jpg/960px-Blackberry_Smoke_in_2012.jpg",
+    "width": 3264,
+    "height": 2448,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca href=\"//www.flickr.com/people/staceyhuggins\" class=\"extiw\" title=\"flickruser:staceyhuggins\"\u003eStacey Huggins\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blackberry Smoke in 2012.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blackberry_Smoke_in_2012.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Blackberry_Smoke_in_2012.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blackberry_Smoke_in_2012.jpg/960px-Blackberry_Smoke_in_2012.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca href=\"//www.flickr.com/people/staceyhuggins\" class=\"extiw\" title=\"flickruser:staceyhuggins\"\u003eStacey Huggins\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blackberry Smoke live in Oklahoma City on April 28, 2018.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blackberry_Smoke_live_in_Oklahoma_City_on_April_28,_2018.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Blackberry_Smoke_live_in_Oklahoma_City_on_April_28%2C_2018.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Blackberry_Smoke_live_in_Oklahoma_City_on_April_28%2C_2018.jpg/960px-Blackberry_Smoke_live_in_Oklahoma_City_on_April_28%2C_2018.jpg",
+      "width": 1630,
+      "height": 1175,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Peterstormer\" class=\"extiw\" title=\"w:User:Peterstormer\"\u003ePeterstormer\u003c/a\u003e"
+    }
+  ]
+}

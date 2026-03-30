@@ -1,0 +1,136 @@
+{
+  "canonical_slug": "jane-s-addiction",
+  "name": "Jane's Addiction",
+  "play_count": 6,
+  "spotify_artist_id": "02NfyD6AlLA12crYzw5YcR",
+  "musicbrainz_artist_id": "e3434cc7-d348-491a-9dc8-325af3d9086d",
+  "spotify_url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR",
+  "genres": [
+    "alternative-pop-rock",
+    "alternative-rock",
+    "pop",
+    "rock"
+  ],
+  "source_genres": [
+    "alternative",
+    "alternative metal",
+    "alternative pop/rock",
+    "alternative rock",
+    "alternative/indie rock",
+    "college rock",
+    "hard rock",
+    "nude cover",
+    "pop",
+    "pop/rock",
+    "rock",
+    "rock pop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6181668c9b31f2505039ba33",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051746181668c9b31f2505039ba33",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1786181668c9b31f2505039ba33",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Jane's Addiction",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jane's_Addiction",
+  "summary": "Jane's Addiction was an American rock band formed in Los Angeles in 1985. The band's best known line-up consisted of lead vocalist Perry Farrell, bassist Eric Avery, drummer Stephen Perkins and guitarist Dave Navarro. Jane's Addiction was one of the first bands from the early 1990s alternative rock movement to gain commercial success.",
+  "candidates": [
+    "Jane's Addiction",
+    "Jane's Addiction (album)",
+    "Jane's Addiction discography",
+    "Jane's Addition"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jane's Addiction",
+    "page_url": "https://en.wikipedia.org/wiki/Jane's_Addiction",
+    "retrieved_at": "2026-03-28T10:39:48Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Dave Navarro, Santa Barbara Bowl, 2008.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Navarro,_Santa_Barbara_Bowl,_2008.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dave_Navarro%2C_Santa_Barbara_Bowl%2C_2008.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dave_Navarro%2C_Santa_Barbara_Bowl%2C_2008.jpg/960px-Dave_Navarro%2C_Santa_Barbara_Bowl%2C_2008.jpg",
+    "width": 2336,
+    "height": 3504,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Gebgdc\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Gebgdc (page does not exist)\"\u003eGebgdc\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dave Navarro, Santa Barbara Bowl, 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Navarro,_Santa_Barbara_Bowl,_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dave_Navarro%2C_Santa_Barbara_Bowl%2C_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dave_Navarro%2C_Santa_Barbara_Bowl%2C_2008.jpg/960px-Dave_Navarro%2C_Santa_Barbara_Bowl%2C_2008.jpg",
+      "width": 2336,
+      "height": 3504,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Gebgdc\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Gebgdc (page does not exist)\"\u003eGebgdc\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dave Navarro 2 at Patrick-Novello Party 20071011.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_Navarro_2_at_Patrick-Novello_Party_20071011.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dave_Navarro_2_at_Patrick-Novello_Party_20071011.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dave_Navarro_2_at_Patrick-Novello_Party_20071011.jpg",
+      "width": 539,
+      "height": 646,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Luke Ford"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dave sitek TV on the Radio 2009.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dave_sitek_TV_on_the_Radio_2009.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dave_sitek_TV_on_the_Radio_2009.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dave_sitek_TV_on_the_Radio_2009.jpg/960px-Dave_sitek_TV_on_the_Radio_2009.jpg",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "angela n."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DuffMcKagan2023.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DuffMcKagan2023.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/DuffMcKagan2023.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/DuffMcKagan2023.jpg/960px-DuffMcKagan2023.jpg",
+      "width": 1653,
+      "height": 3218,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Duff McKagan 2012 (cropped).JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Duff_McKagan_2012_(cropped).JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Duff_McKagan_2012_%28cropped%29.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Duff_McKagan_2012_%28cropped%29.JPG/960px-Duff_McKagan_2012_%28cropped%29.JPG",
+      "width": 2186,
+      "height": 2732,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Toglenn\" title=\"User:Toglenn\"\u003eToglenn\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

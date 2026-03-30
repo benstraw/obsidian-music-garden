@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7suTZDEkiDpzkouw300noM",
   "name": "Freedom Flight",
   "primary_artist_name": "Shuggie Otis",
-  "primary_artist_canonical_slug": "shuggie-otis"
+  "primary_artist_canonical_slug": "shuggie-otis",
+  "musicbrainz_release_id": "bd085b54-f8ae-4846-846a-0b8055a5321d",
+  "musicbrainz_release_group_id": "987d13f9-5cc8-3190-a090-738f514aedf3"
 }

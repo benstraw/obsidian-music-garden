@@ -1,0 +1,83 @@
+{
+  "canonical_slug": "italian-baroque",
+  "display_title": "Italian Baroque",
+  "display_name": "Italian Baroque",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Italian Baroque",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Italian_Baroque",
+  "summary": "Italian Baroque is a stylistic period in Italian history and art that spanned from the late 16th century to the early 18th century.",
+  "candidates": [
+    "Italian Baroque",
+    "Italian Baroque architecture",
+    "Italian Baroque art",
+    "Italian Baroque interior design",
+    "Italian Baroque sculpture",
+    "Italian Marquesses"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Italian Baroque",
+    "page_url": "https://en.wikipedia.org/wiki/Italian_Baroque",
+    "retrieved_at": "2026-03-28T15:57:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Sant'Andrea.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Sant%27Andrea.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sant%27Andrea.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sant%27Andrea.jpg/960px-Sant%27Andrea.jpg",
+    "width": 1200,
+    "height": 1600,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/antmoose/\"\u003eAnthony M.\u003c/a\u003e from Rome, Italy"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sant'Andrea.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sant%27Andrea.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sant%27Andrea.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sant%27Andrea.jpg/960px-Sant%27Andrea.jpg",
+      "width": 1200,
+      "height": 1600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/antmoose/\"\u003eAnthony M.\u003c/a\u003e from Rome, Italy"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--italian-baroque.json",
+      "url": "https://en.wikipedia.org/wiki/Italian_Baroque",
+      "retrieved_at": "2026-03-28T15:57:25Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--italian-baroque.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Sant%27Andrea.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

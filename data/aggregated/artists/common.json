@@ -1,7 +1,9 @@
 {
   "canonical_slug": "common",
   "name": "Common",
+  "play_count": 5,
   "spotify_artist_id": "2GHclqNVjqGuiE5mA7BEoc",
+  "musicbrainz_artist_id": "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
   "spotify_url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc",
   "genres": [
     "hip-hop",
@@ -43,5 +45,5 @@
     "Commonwealth of Nations",
     "Communism"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

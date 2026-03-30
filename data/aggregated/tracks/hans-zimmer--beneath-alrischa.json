@@ -1,11 +1,14 @@
 {
   "canonical_slug": "hans-zimmer--beneath-alrischa",
   "name": "Beneath Alrischa",
+  "play_count": 1,
   "primary_artist_canonical_slug": "hans-zimmer",
   "primary_artist_name": "Hans Zimmer",
+  "additional_artist_slugs": [
+    "richard-harvey"
+  ],
   "release_canonical_slug": "hans-zimmer--the-da-vinci-code",
   "release_name": "The Da Vinci Code",
   "spotify_track_id": "2Or7dR85K5TvJGjQFliVZc",
-  "spotify_url": "https://open.spotify.com/track/2Or7dR85K5TvJGjQFliVZc",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/2Or7dR85K5TvJGjQFliVZc"
 }

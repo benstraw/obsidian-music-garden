@@ -1,0 +1,53 @@
+{
+  "canonical_slug": "john-leventhal",
+  "name": "John Leventhal",
+  "spotify_artist_id": "04OYvH5KuCKUJqhw8LKGsH",
+  "musicbrainz_artist_id": "685ec09c-79ee-43eb-b197-aa102fca0adc",
+  "spotify_url": "https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH",
+  "status": "matched",
+  "wikipedia_title": "John Leventhal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Leventhal",
+  "summary": "John Leventhal is an American musician, producer, songwriter, and recording engineer who has produced albums for William Bell, The Blind Boys of Alabama, Michelle Branch, Rosanne Cash, Marc Cohn, Shawn Colvin, Sarah Jarosz, Rodney Crowell, Jim Lauderdale, Joan Osborne, Loudon Wainwright III and The Wreckers. He has won six Grammy Awards.",
+  "candidates": [
+    "John Lenthall",
+    "John Lenthall (Roundhead)",
+    "John Lenthall (shipbuilder)",
+    "John Leventhal",
+    "John Leventhorpe",
+    "John Lowenthal",
+    "John Seigenthaler"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Leventhal",
+    "page_url": "https://en.wikipedia.org/wiki/John_Leventhal",
+    "retrieved_at": "2026-03-28T10:40:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:JL Amps.jpeg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:JL_Amps.jpeg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/JL_Amps.jpeg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/JL_Amps.jpeg/960px-JL_Amps.jpeg",
+    "width": 1440,
+    "height": 951,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Crispyfuller\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Crispyfuller (page does not exist)\"\u003eJohn Leventhal\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JL Amps.jpeg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JL_Amps.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/JL_Amps.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/JL_Amps.jpeg/960px-JL_Amps.jpeg",
+      "width": 1440,
+      "height": 951,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Crispyfuller\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Crispyfuller (page does not exist)\"\u003eJohn Leventhal\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

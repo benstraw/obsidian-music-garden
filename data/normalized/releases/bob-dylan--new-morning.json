@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "48efaobqOTbvnlxbETstey",
   "name": "New Morning",
   "primary_artist_name": "Bob Dylan",
-  "primary_artist_canonical_slug": "bob-dylan"
+  "primary_artist_canonical_slug": "bob-dylan",
+  "musicbrainz_release_id": "2006ff8a-dc81-4ffa-910d-91b0b5b0550a",
+  "musicbrainz_release_group_id": "4f2b915f-cc82-3c18-ac9b-05f3d4df622d"
 }

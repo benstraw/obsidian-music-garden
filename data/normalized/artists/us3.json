@@ -3,13 +3,24 @@
   "source_artist_id": "4LtIfuFeAamus9OOItuWDD",
   "name": "Us3",
   "spotify_url": "https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD",
+  "musicbrainz_artist_id": "b370defd-86cc-42f3-85b4-7c2a8305c04a",
   "source_genres": [
     "acid jazz",
+    "electronic",
+    "funk",
+    "hip hop",
+    "jazz",
     "jazz funk",
-    "jazz rap"
+    "jazz rap",
+    "jazz-rap",
+    "underground rap"
   ],
   "canonical_genre_slugs": [
     "acid-jazz",
+    "electronic",
+    "funk",
+    "hip-hop",
+    "jazz",
     "jazz-funk",
     "jazz-rap"
   ],

@@ -6,7 +6,8 @@
   "aliases": [
     "indie jazz"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "ambiguous",
   "candidates": [
     "Indian jazz",
@@ -32,6 +33,7 @@
       "name": "Shabaka",
       "play_count": 1,
       "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+      "musicbrainz_artist_id": "5b0f26cc-1203-49d8-abe2-90bec87a2e71",
       "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
     }
   ],
@@ -41,7 +43,10 @@
       "name": "Afrikan Culture",
       "play_count": 1,
       "primary_artist_canonical_slug": "shabaka",
-      "primary_artist_name": "Shabaka"
+      "primary_artist_name": "Shabaka Hutchings",
+      "spotify_album_id": "5fFftOUCiSbNfofIj8vXx0",
+      "musicbrainz_release_id": "653fc811-5195-468d-bdb6-2dcf7aff178f",
+      "musicbrainz_release_group_id": "3af8fc95-a0e8-4410-af28-92ec928d59c8"
     }
   ],
   "top_tracks": [
@@ -65,6 +70,12 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -72,5 +83,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

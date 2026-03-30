@@ -4,6 +4,9 @@
   "name": "XXX. FEAT. U2.",
   "primary_artist_name": "Kendrick Lamar",
   "primary_artist_canonical_slug": "kendrick-lamar",
+  "additional_artist_slugs": [
+    "u2"
+  ],
   "release_name": "DAMN.",
   "release_canonical_slug": "kendrick-lamar--damn",
   "spotify_url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"

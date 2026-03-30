@@ -1,0 +1,66 @@
+{
+  "canonical_slug": "oliver-nelson",
+  "name": "Oliver Nelson",
+  "play_count": 8,
+  "spotify_artist_id": "2nQKUeZeleLGNsJj6WLUXN",
+  "musicbrainz_artist_id": "4704f86b-33b0-458a-9460-8f9b52869d74",
+  "spotify_url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273d18306ca965621082c1bca78",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02d18306ca965621082c1bca78",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048519ab9b4e0d804541ca54c3f6c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Oliver Nelson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Nelson",
+  "summary": "Oliver Edward Nelson was an American jazz saxophonist, clarinetist, arranger, composer, and bandleader. His 1961 Impulse! album The Blues and the Abstract Truth (1961) is regarded as one of the most significant recordings of its era. The centerpiece of the album is the definitive version of Nelson's composition, \"Stolen Moments\". Other important recordings from the 1960s are the albums More Blues and the Abstract Truth (1964) and Sound Pieces (1966), both also on Impulse!.",
+  "candidates": [
+    "Nelson Oliveira (cyclist)",
+    "Nélson Oliveira",
+    "Oliver Belmont",
+    "Oliver Elton",
+    "Oliver Nelson",
+    "Oliver Nelson Plays Michelle",
+    "Oliver Nelson discography",
+    "Oliver Wilson",
+    "Oliver Wilson (rugby league)",
+    "Olivia Nelson-Ododa"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Oliver Nelson",
+    "page_url": "https://en.wikipedia.org/wiki/Oliver_Nelson",
+    "retrieved_at": "2026-03-28T10:41:39Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Oliver Edward Nelson.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Oliver Edward Nelson.jpg"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

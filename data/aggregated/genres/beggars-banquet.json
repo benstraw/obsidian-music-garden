@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "beggars-banquet",
+  "display_title": "Beggars Banquet",
+  "display_name": "Beggars Banquet",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Beggars Banquet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Beggars_Banquet",
+  "summary": "Beggars Banquet is the seventh studio album by the English rock band the Rolling Stones, released on 6 December 1968 by Decca Records in the United Kingdom and London Records in the United States. It was the first Rolling Stones album produced by Jimmy Miller, whose production work formed a key aspect of the Rolling Stones' sound throughout the late 1960s and early 1970s.",
+  "candidates": [
+    "Beggars Banquet",
+    "Beggars Banquet (book)",
+    "Beggars Banquet (disambiguation)",
+    "Beggars Banquet Records"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Beggars Banquet",
+    "page_url": "https://en.wikipedia.org/wiki/Beggars_Banquet",
+    "retrieved_at": "2026-03-28T15:53:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Beggar Banquet.jpg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beggar Banquet.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BeggarsBanquetLP.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BeggarsBanquetLP.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/BeggarsBanquetLP.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeggarsBanquetLP.jpg/960px-BeggarsBanquetLP.jpg",
+      "width": 1500,
+      "height": 1500,
+      "license": "Public domain",
+      "author": "Unknown – publishing houses: \u003ca href=\"https://en.wikipedia.org/wiki/Decca_Records\" class=\"extiw\" title=\"w:Decca Records\"\u003eDecca\u003c/a\u003e/\u003ca href=\"https://en.wikipedia.org/wiki/ABKCO_Records\" class=\"extiw\" title=\"w:ABKCO Records\"\u003eABKCO\u003c/a\u003e / \u003ca href=\"https://en.wikipedia.org/wiki/London_Records\" class=\"extiw\" title=\"w:London Records\"\u003eLondon\u003c/a\u003e/\u003ca href=\"https://en.wikipedia.org/wiki/ABKCO_Records\" class=\"extiw\" title=\"w:ABKCO Records\"\u003eABKCO\u003c/a\u003e \u003csmall\u003e(\u003ca href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"w:United States\"\u003eUS\u003c/a\u003e)\u003c/small\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Star full.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_full.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/960px-Star_full.svg.png",
+      "width": 108,
+      "height": 110,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eUser:Conti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eUser:RedHotHeat\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--beggars-banquet.json",
+      "url": "https://en.wikipedia.org/wiki/Beggars_Banquet",
+      "retrieved_at": "2026-03-28T15:53:26Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--beggars-banquet.json",
+      "url": "https://en.wikipedia.org/wiki/Beggars_Banquet",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

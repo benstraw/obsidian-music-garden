@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "anja-lechner",
+  "name": "Anja Lechner",
+  "spotify_artist_id": "0SGPrWBKXE2DfxLX4GbtBN",
+  "musicbrainz_artist_id": "cb4dfd8a-5aac-4228-b5ce-25a412ba3064",
+  "spotify_url": "https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb552e12fe69578d65d74dadf1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174552e12fe69578d65d74dadf1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178552e12fe69578d65d74dadf1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

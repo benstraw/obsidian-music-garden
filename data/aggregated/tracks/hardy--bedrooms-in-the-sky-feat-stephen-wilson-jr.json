@@ -1,11 +1,14 @@
 {
   "canonical_slug": "hardy--bedrooms-in-the-sky-feat-stephen-wilson-jr",
   "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+  "play_count": 1,
   "primary_artist_canonical_slug": "hardy",
   "primary_artist_name": "HARDY",
+  "additional_artist_slugs": [
+    "stephen-wilson-jr"
+  ],
   "release_canonical_slug": "hardy--country-country",
   "release_name": "COUNTRY! COUNTRY!",
   "spotify_track_id": "4hVlesuEbCoRKZwuupbgTx",
-  "spotify_url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
 }

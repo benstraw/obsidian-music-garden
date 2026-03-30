@@ -1,0 +1,18 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3Q8wgwyVVv0z4UEh1HB0KY",
+  "name": "Jason Isbell",
+  "spotify_url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY",
+  "source_genres": [
+    "alt country",
+    "americana",
+    "red dirt",
+    "roots rock"
+  ],
+  "canonical_genre_slugs": [
+    "alt-country",
+    "americana",
+    "country-rock",
+    "red-dirt"
+  ]
+}

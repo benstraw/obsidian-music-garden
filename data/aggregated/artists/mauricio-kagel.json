@@ -1,9 +1,12 @@
 {
   "canonical_slug": "mauricio-kagel",
   "name": "Mauricio Kagel",
+  "play_count": 1,
   "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+  "musicbrainz_artist_id": "9f185094-f3d7-4e33-9f60-4588d4c63cb3",
   "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth",
   "genres": [
+    "classical",
     "contemporary-classical",
     "electroacoustic",
     "experimental",
@@ -11,6 +14,8 @@
   ],
   "source_genres": [
     "avant-garde",
+    "classical",
+    "composer",
     "contemporary classical",
     "electroacoustic",
     "expressionism",
@@ -123,5 +128,5 @@
       "author": "Daniel P. B. Smith."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

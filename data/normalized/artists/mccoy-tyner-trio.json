@@ -1,0 +1,33 @@
+{
+  "source": "spotify",
+  "source_artist_id": "1EpLpC0tbCla8knfhET78p",
+  "name": "McCoy Tyner Trio",
+  "spotify_url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p",
+  "musicbrainz_artist_id": "de60490f-8f0a-4011-8a84-0c26ccccb6c0",
+  "source_genres": [
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "McCoy Tyner",
+  "summary": "Alfred McCoy Tyner was an American jazz pianist and composer known for his work with the John Coltrane Quartet from 1960 to 1965 and his long solo career afterward. He was an NEA Jazz Master and a five-time Grammy Award winner. Tyner has been widely imitated and is one of the most recognizable and influential jazz pianists of all time.",
+  "canonical_url": "https://en.wikipedia.org/wiki/McCoy_Tyner",
+  "candidates": [
+    "McCoy Tyner Trio"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "McCoy Tyner",
+    "page_url": "https://en.wikipedia.org/wiki/McCoy_Tyner",
+    "retrieved_at": "2026-03-28T10:41:09Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Mccoy_Tyner_1973_gh_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mccoy_Tyner_1973_gh_%28cropped%29.jpg/330px-Mccoy_Tyner_1973_gh_%28cropped%29.jpg",
+    "width": 416,
+    "height": 552
+  }
+}

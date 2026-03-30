@@ -1,17 +1,25 @@
 {
   "canonical_slug": "mumford-and-sons",
   "name": "Mumford \u0026 Sons",
+  "play_count": 1,
   "spotify_artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+  "musicbrainz_artist_id": "c44e9c22-ef82-4a77-9bcd-af6c958446d6",
   "spotify_url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2",
   "genres": [
+    "alternative-rock",
     "folk",
     "folk-rock",
-    "indie-folk"
+    "indie-folk",
+    "indie-rock",
+    "rock"
   ],
   "source_genres": [
+    "alternative rock",
     "folk",
     "folk rock",
-    "indie folk"
+    "indie folk",
+    "indie rock",
+    "rock"
   ],
   "images": [
     {
@@ -122,5 +130,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.thetroubadoursroad.com\"\u003ehttp://www.thetroubadoursroad.com\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

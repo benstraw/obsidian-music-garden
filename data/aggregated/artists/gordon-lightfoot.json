@@ -1,0 +1,42 @@
+{
+  "canonical_slug": "gordon-lightfoot",
+  "name": "Gordon Lightfoot",
+  "play_count": 2,
+  "spotify_artist_id": "23rleGXVOVVgTk3xgtmfE4",
+  "spotify_url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4",
+  "genres": [
+    "folk",
+    "folk-rock",
+    "singer-songwriter",
+    "yacht-rock"
+  ],
+  "source_genres": [
+    "folk",
+    "folk rock",
+    "singer-songwriter",
+    "yacht rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/4786e7b7378ca4420a75b60531c333f40e9e6b6a",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/bd761ad35b18b3b01f28ef55a4929d97957d1c23",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/17c72a16e6dd38beb6d10996c123359ffe6f749a",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/a19302f7bd3dfcf2aab56a82e10d9e81e20daf31",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

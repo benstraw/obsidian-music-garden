@@ -102,12 +102,12 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1645,
-    "unique_artist_count": 103,
-    "unique_release_count": 457,
-    "unique_track_count": 1201,
-    "first_played_at": "2026-02-26T01:34:41.273Z",
-    "last_played_at": "2026-03-19T02:22:54.001Z"
+    "play_count": 1660,
+    "unique_artist_count": 107,
+    "unique_release_count": 465,
+    "unique_track_count": 1169,
+    "first_played_at": "2024-01-01T00:00:00.000554024Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
   },
   "top_artists": [
     {
@@ -136,7 +136,7 @@
     },
     {
       "canonical_slug": "thelonious-monk",
-      "name": "Thelonious Monk Quartet",
+      "name": "Thelonious Monk",
       "play_count": 79,
       "spotify_artist_id": "4PDpGtF16XpqvXxsrFwQnN",
       "musicbrainz_artist_id": "8e8c7417-c905-46b1-b42a-5260b4274ed4",
@@ -183,12 +183,12 @@
       "spotify_url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
     },
     {
-      "canonical_slug": "john-mclaughlin",
-      "name": "John McLaughlin",
+      "canonical_slug": "ahmad-jamal-trio",
+      "name": "Ahmad Jamal Trio",
       "play_count": 32,
-      "spotify_artist_id": "4v0R1feRiuCDch7aAheVhY",
-      "musicbrainz_artist_id": "fcbc2086-5863-4659-b03d-44be704697d2",
-      "spotify_url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+      "spotify_artist_id": "0BqALs1lInR9TTOulUADH7",
+      "musicbrainz_artist_id": "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+      "spotify_url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
     }
   ],
   "top_releases": [
@@ -285,6 +285,17 @@
   ],
   "top_tracks": [
     {
+      "canonical_slug": "billie-holiday--i-m-a-fool-to-want-you",
+      "name": "I'm a Fool to Want You",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "billie-holiday",
+      "primary_artist_name": "Billie Holiday",
+      "release_canonical_slug": "billie-holiday--lady-in-satin-the-centennial-edition",
+      "release_name": "Lady In Satin: The Centennial Edition",
+      "spotify_track_id": "6SMbbPXKYIqOmmNulpuPSG",
+      "spotify_url": "https://open.spotify.com/track/6SMbbPXKYIqOmmNulpuPSG"
+    },
+    {
       "canonical_slug": "miles-davis--in-a-silent-way",
       "name": "In a Silent Way",
       "play_count": 5,
@@ -294,6 +305,17 @@
       "release_name": "In A Silent Way",
       "spotify_track_id": "54a3lHJAwce1dOKrsDPEHv",
       "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv"
+    },
+    {
+      "canonical_slug": "ahmad-jamal--pavanne",
+      "name": "Pavanne",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "release_canonical_slug": "ahmad-jamal--the-complete-ahmad-jamal-trio-argo-sessions-1956-62",
+      "release_name": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
+      "spotify_track_id": "5dZ9RUJmRvt3pUXd6Y2pJg",
+      "spotify_url": "https://open.spotify.com/track/5dZ9RUJmRvt3pUXd6Y2pJg"
     },
     {
       "canonical_slug": "miles-davis--shhh-peaceful",
@@ -307,92 +329,70 @@
       "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag"
     },
     {
-      "canonical_slug": "jimmy-smith--bashin-single-version",
-      "name": "Bashin' - Single Version",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "jimmy-smith",
-      "primary_artist_name": "Jimmy Smith",
-      "release_canonical_slug": "jimmy-smith--bashin-the-unpredictable-jimmy-smith-expanded-edition",
-      "release_name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-      "spotify_track_id": "6MvpxPZNddekgzBgIrOTzi",
-      "spotify_url": "https://open.spotify.com/track/6MvpxPZNddekgzBgIrOTzi"
+      "canonical_slug": "duke-ellington--stevie",
+      "name": "Stevie",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6Ylpg33fqhQfJrXLwSxnzh",
+      "spotify_url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
     },
     {
-      "canonical_slug": "mulatu-astatke--cha-cha",
-      "name": "Cha Cha",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "mulatu-astatke",
-      "primary_artist_name": "Mulatu Astatke",
-      "release_canonical_slug": "mulatu-astatke--inspiration-information-3",
-      "release_name": "Inspiration Information 3",
-      "spotify_track_id": "6T18Yu2xPqy6NAhylfjQYO",
-      "spotify_url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
+      "canonical_slug": "art-blakey-and-the-jazz-messengers--are-you-real",
+      "name": "Are You Real",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "art-blakey-and-the-jazz-messengers",
+      "primary_artist_name": "Art Blakey \u0026 The Jazz Messengers",
+      "release_canonical_slug": "art-blakey--late-night-art-blakey",
+      "release_name": "Late Night Art Blakey",
+      "spotify_track_id": "1LJrbwO8OZPYofz1aOmL4u",
+      "spotify_url": "https://open.spotify.com/track/1LJrbwO8OZPYofz1aOmL4u"
     },
     {
-      "canonical_slug": "miles-davis--deception",
-      "name": "Deception",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--birth-of-the-cool",
-      "release_name": "Birth Of The Cool",
-      "spotify_track_id": "6Tq8Fj8jZQIO24XhXV5Dno",
-      "spotify_url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+      "canonical_slug": "ahmad-jamal--autumn-leaves",
+      "name": "Autumn Leaves",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "release_canonical_slug": "ahmad-jamal--the-ahmad-jamal-trio",
+      "release_name": "The Ahmad Jamal Trio",
+      "spotify_track_id": "5U35ZpwtS15QDRc821sXT0",
+      "spotify_url": "https://open.spotify.com/track/5U35ZpwtS15QDRc821sXT0"
     },
     {
-      "canonical_slug": "miles-davis--drad-dog-feat-hank-mobley-wynton-kelly-paul-chambers-and-jimmy-cobb",
-      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "miles-davis",
-      "primary_artist_name": "Miles Davis",
-      "release_canonical_slug": "miles-davis--someday-my-prince-will-come",
-      "release_name": "Someday My Prince Will Come",
-      "spotify_track_id": "6uvcEIzqz9mhRcEhrsODgf",
-      "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf"
+      "canonical_slug": "clifford-brown--joy-spring",
+      "name": "Joy Spring",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "clifford-brown",
+      "primary_artist_name": "Clifford Brown",
+      "release_canonical_slug": "clifford-brown--clifford-brown-and-max-roach",
+      "release_name": "Clifford Brown And Max Roach",
+      "spotify_track_id": "2oMaXY0yiWhAEWD7SutXh2",
+      "spotify_url": "https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2"
     },
     {
-      "canonical_slug": "thelonious-monk--epistrophy-alternate-take",
-      "name": "Epistrophy - Alternate Take",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "thelonious-monk",
-      "primary_artist_name": "Thelonious Monk",
-      "release_canonical_slug": "thelonious-monk--thelonious-monk-with-john-coltrane-ojc-remaster",
-      "release_name": "Thelonious Monk with John Coltrane (OJC Remaster)",
-      "spotify_track_id": "6UcmLLsVjdatOQcQKE9XdO",
-      "spotify_url": "https://open.spotify.com/track/6UcmLLsVjdatOQcQKE9XdO"
+      "canonical_slug": "sonny-rollins--st-thomas",
+      "name": "St. Thomas",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "sonny-rollins",
+      "primary_artist_name": "Sonny Rollins",
+      "release_canonical_slug": "sonny-rollins--now-s-the-time",
+      "release_name": "Now's The Time!",
+      "spotify_track_id": "5bUNvFQYiAqJWZ4cQ9MlSZ",
+      "spotify_url": "https://open.spotify.com/track/5bUNvFQYiAqJWZ4cQ9MlSZ"
     },
     {
-      "canonical_slug": "mulatu-astatke--i-faram-gami-i-faram",
-      "name": "I Faram Gami I Faram",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "mulatu-astatke",
-      "primary_artist_name": "Mulatu Astatke",
-      "release_canonical_slug": "mulatu-astatke--new-york-addis-london-the-story-of-ethio-jazz-1965-1975",
-      "release_name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
-      "spotify_track_id": "26YMZ2S61ItkKS1w3gdaDo",
-      "spotify_url": "https://open.spotify.com/track/26YMZ2S61ItkKS1w3gdaDo"
-    },
-    {
-      "canonical_slug": "billie-holiday--i-m-a-fool-to-want-you",
-      "name": "I'm a Fool to Want You",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "billie-holiday",
-      "primary_artist_name": "Billie Holiday",
-      "release_canonical_slug": "billie-holiday--lady-in-satin",
-      "release_name": "Lady In Satin",
-      "spotify_track_id": "6Rvz1jM5eUqzNs2Pi8RMTG",
-      "spotify_url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
-    },
-    {
-      "canonical_slug": "billie-holiday--i-m-a-fool-to-want-you-2",
-      "name": "I'm a Fool to Want You",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "billie-holiday",
-      "primary_artist_name": "Billie Holiday",
-      "release_canonical_slug": "billie-holiday--lady-in-satin-the-centennial-edition",
-      "release_name": "Lady In Satin: The Centennial Edition",
-      "spotify_track_id": "6SMbbPXKYIqOmmNulpuPSG",
-      "spotify_url": "https://open.spotify.com/track/6SMbbPXKYIqOmmNulpuPSG"
+      "canonical_slug": "duke-ellington--take-the-coltrane",
+      "name": "Take The Coltrane",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "duke-ellington",
+      "primary_artist_name": "Duke Ellington",
+      "release_canonical_slug": "duke-ellington--duke-ellington-and-john-coltrane",
+      "release_name": "Duke Ellington \u0026 John Coltrane",
+      "spotify_track_id": "6aNnVdpAQu8R0qGq5NMXyZ",
+      "spotify_url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     }
   ],
   "source_refs": [
@@ -426,11 +426,11 @@
     },
     {
       "role": "listening_stats",
-      "source": "spotify+legacy",
+      "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-19T02:22:54.001Z",
-      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history plus imported untimestamped legacy play counts."
+      "updated_at": "2026-03-29T17:53:54.137Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:53:54.137Z"
 }

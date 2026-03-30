@@ -1,0 +1,102 @@
+{
+  "source": "spotify",
+  "source_artist_id": "3oDbviiivRWhXwIE8hxkVV",
+  "name": "The Beach Boys",
+  "spotify_url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV",
+  "musicbrainz_artist_id": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+  "source_genres": [
+    "oldies",
+    "pop",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "pop",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "The Beach Boys",
+  "summary": "The Beach Boys are an American rock band formed in Hawthorne, California, in 1961. The group's founding members consisted of brothers Brian, Dennis, and Carl Wilson, their cousin Mike Love, and their friend Al Jardine. One of the most influential acts of the rock era, they are known for their musical ingenuity, vocal harmonies, and lyrics initially reflecting a southern California youth culture of surfing, cars, and romance dubbed the \"California sound\". The group drew on the music of 1950s rock and roll, black R\u0026B, and pre-rock and roll pop vocal groups to create their sound. Under Brian's leadership, they often incorporated classical or jazz elements and unconventional recording techniques in innovative ways.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Beach_Boys",
+  "candidates": [
+    "The Beach Boys",
+    "The Beach Boys (album)",
+    "The Beach Boys (film)",
+    "The Beach Boys Love You",
+    "The Beach Boys Today!",
+    "The Beach Boys discography",
+    "The Beach Boys live performances",
+    "The Beach Boys' 1968 US tour with Maharishi Mahesh Yogi",
+    "The Beach Boys' Christmas Album",
+    "The Beach Boys' unreleased and bootleg recordings"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Beach Boys",
+    "page_url": "https://en.wikipedia.org/wiki/The_Beach_Boys",
+    "retrieved_at": "2026-03-28T10:43:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:1967 Rickenbacker 360-12 12 string electric guitar owned and photographed by Greg Field.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg/960px-1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+    "width": 2235,
+    "height": 2628,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Outerrealm\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Outerrealm (page does not exist)\"\u003eOuterrealm\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:1967 Rickenbacker 360-12 12 string electric guitar owned and photographed by Greg Field.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg/960px-1967_Rickenbacker_360-12_12_string_electric_guitar_owned_and_photographed_by_Greg_Field.jpg",
+      "width": 2235,
+      "height": 2628,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Outerrealm\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Outerrealm (page does not exist)\"\u003eOuterrealm\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:BeachBoysAug102024.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:BeachBoysAug102024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/BeachBoysAug102024.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/BeachBoysAug102024.jpg/960px-BeachBoysAug102024.jpg",
+      "width": 4032,
+      "height": 3024,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Pacamah\" title=\"User:Pacamah\"\u003ePacamah\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beach Boys - Good Vibrations.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beach Boys 1963.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beach_Boys_1963.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Beach_Boys_1963.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Beach_Boys_1963.jpg",
+      "width": 526,
+      "height": 485,
+      "license": "Public domain",
+      "author": "The associated student body, Taft High School"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beach Boys 1967 (cropped and restored).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beach_Boys_1967_(cropped_and_restored).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Beach_Boys_1967_%28cropped_and_restored%29.jpg/960px-Beach_Boys_1967_%28cropped_and_restored%29.jpg",
+      "width": 1630,
+      "height": 1117,
+      "license": "Public domain",
+      "author": "Capitol Records"
+    }
+  ]
+}

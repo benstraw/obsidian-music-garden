@@ -6,7 +6,8 @@
   "aliases": [
     "experimental jazz"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Avant-garde jazz",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Avant-garde_jazz",
@@ -22,81 +23,217 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 5,
+    "play_count": 23,
     "unique_artist_count": 4,
-    "unique_release_count": 5,
-    "unique_track_count": 5,
-    "first_played_at": "2026-03-03T13:08:31.707Z",
+    "unique_release_count": 10,
+    "unique_track_count": 16,
+    "first_played_at": "2024-01-01T00:00:00.63097594Z",
     "last_played_at": "2026-03-11T05:48:16.307Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "sun-ra",
+      "name": "Sun Ra",
+      "play_count": 17,
+      "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
+      "musicbrainz_artist_id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+      "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+    },
+    {
+      "canonical_slug": "ornette-coleman",
+      "name": "Ornette Coleman",
+      "play_count": 3,
+      "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
+      "musicbrainz_artist_id": "169c0d1b-fcb8-4a43-9097-829aa7b39205",
+      "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+    },
     {
       "canonical_slug": "nala-sinephro",
       "name": "Nala Sinephro",
       "play_count": 2,
       "spotify_artist_id": "2h5syT5XdsQgKLq8Yn1klO",
+      "musicbrainz_artist_id": "46a4b150-be30-44b3-a337-e06a72657d33",
       "spotify_url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-    },
-    {
-      "canonical_slug": "ornette-coleman",
-      "name": "Ornette Coleman",
-      "play_count": 1,
-      "spotify_artist_id": "47odibUtrN3lnWx0p0pk2P",
-      "spotify_url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
     },
     {
       "canonical_slug": "shabaka",
       "name": "Shabaka",
       "play_count": 1,
       "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+      "musicbrainz_artist_id": "5b0f26cc-1203-49d8-abe2-90bec87a2e71",
       "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-    },
-    {
-      "canonical_slug": "sun-ra",
-      "name": "Sun Ra",
-      "play_count": 1,
-      "spotify_artist_id": "0tIODqvzGUoEaK26rK4pvX",
-      "spotify_url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "sun-ra--a-fireside-chat-with-lucifer",
+      "name": "A Fireside Chat With Lucifer",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "The Sun Ra Arkestra",
+      "spotify_album_id": "5lDDoAm7ZYyyRQdcpvULvU",
+      "musicbrainz_release_id": "70a0d597-ef41-4acc-8cac-52fc0e33b46f",
+      "musicbrainz_release_group_id": "4c7f5064-4f79-36a1-8be4-17705882918d"
+    },
+    {
+      "canonical_slug": "sun-ra--lanquidity-definitive-edition",
+      "name": "Lanquidity (Definitive Edition)",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "spotify_album_id": "6hwD6ZjtCYrZSBMmK5se46"
+    },
+    {
+      "canonical_slug": "sun-ra--we-travel-the-spaceways",
+      "name": "We Travel the Spaceways",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "spotify_album_id": "4HQ3nCTGppPWp3xn05HiUL"
+    },
+    {
+      "canonical_slug": "ornette-coleman--tomorrow-is-the-question",
+      "name": "Tomorrow Is The Question!",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman",
+      "spotify_album_id": "6JHAVBGfBmPZ9JMBoN9RO5",
+      "musicbrainz_release_id": "cb948adf-1ccb-48aa-a832-ada7976fe34c",
+      "musicbrainz_release_group_id": "97d0eec5-13fb-3c1d-88e1-bc30cc8cf5d0"
+    },
     {
       "canonical_slug": "shabaka--afrikan-culture",
       "name": "Afrikan Culture",
       "play_count": 1,
       "primary_artist_canonical_slug": "shabaka",
-      "primary_artist_name": "Shabaka"
+      "primary_artist_name": "Shabaka Hutchings",
+      "spotify_album_id": "5fFftOUCiSbNfofIj8vXx0",
+      "musicbrainz_release_id": "653fc811-5195-468d-bdb6-2dcf7aff178f",
+      "musicbrainz_release_group_id": "3af8fc95-a0e8-4410-af28-92ec928d59c8"
     },
     {
       "canonical_slug": "nala-sinephro--endlessness",
       "name": "Endlessness",
       "play_count": 1,
       "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro"
+      "primary_artist_name": "Nala Sinephro",
+      "spotify_album_id": "51CQQ3tQLRZlZJZ5jcpoGE"
+    },
+    {
+      "canonical_slug": "sun-ra--singles",
+      "name": "Singles",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "spotify_album_id": "46lZr7iicBfmuoPXSCmVzO"
+    },
+    {
+      "canonical_slug": "sun-ra--sound-sun-pleasure",
+      "name": "Sound Sun Pleasure",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "spotify_album_id": "0KGHyCya07zjceVwQ33O7x"
     },
     {
       "canonical_slug": "nala-sinephro--space-1-8",
       "name": "Space 1.8",
       "play_count": 1,
       "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro"
+      "primary_artist_name": "Nala Sinephro",
+      "spotify_album_id": "51HFfu3GhuXa4VUnlpJJy8",
+      "musicbrainz_release_id": "031e01a2-e4d4-45f6-aa6e-1b1b458cfbea",
+      "musicbrainz_release_group_id": "2458a981-bc0e-4359-8f3b-b53c25ed4830"
     },
     {
       "canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
       "name": "The Shape Of Jazz To Come",
       "play_count": 1,
       "primary_artist_canonical_slug": "ornette-coleman",
-      "primary_artist_name": "Ornette Coleman"
-    },
-    {
-      "canonical_slug": "sun-ra--we-travel-the-spaceways",
-      "name": "We Travel the Spaceways",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sun-ra",
-      "primary_artist_name": "Sun Ra"
+      "primary_artist_name": "Ornette Coleman",
+      "spotify_album_id": "2iPH3iUmpa9ufIpwY76keF",
+      "musicbrainz_release_id": "59105e60-a6f7-4a86-aaab-2c4f02ddb4f8",
+      "musicbrainz_release_group_id": "5879cfca-e1d0-3ef4-8014-3b284832ed18"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "sun-ra--tapestry-from-an-asteroid",
+      "name": "Tapestry from an Asteroid",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--we-travel-the-spaceways",
+      "release_name": "We Travel the Spaceways",
+      "spotify_track_id": "0EjtZmOLT6WLShJRHCFWVU",
+      "spotify_url": "https://open.spotify.com/track/0EjtZmOLT6WLShJRHCFWVU"
+    },
+    {
+      "canonical_slug": "sun-ra--lanquidity-remastered",
+      "name": "Lanquidity - Remastered",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--lanquidity-definitive-edition",
+      "release_name": "Lanquidity (Definitive Edition)",
+      "spotify_track_id": "6fqVcTrMdDWCMyOWUVX7EL",
+      "spotify_url": "https://open.spotify.com/track/6fqVcTrMdDWCMyOWUVX7EL"
+    },
+    {
+      "canonical_slug": "sun-ra--makeup",
+      "name": "Makeup",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--a-fireside-chat-with-lucifer",
+      "release_name": "A Fireside Chat With Lucifer",
+      "spotify_track_id": "3TvUqEA3d3bCAFKSJE8zHk",
+      "spotify_url": "https://open.spotify.com/track/3TvUqEA3d3bCAFKSJE8zHk"
+    },
+    {
+      "canonical_slug": "sun-ra--nuclear-war",
+      "name": "Nuclear War",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--a-fireside-chat-with-lucifer",
+      "release_name": "A Fireside Chat With Lucifer",
+      "spotify_track_id": "2Dc4MWMRcM7coMtXKjf7sL",
+      "spotify_url": "https://open.spotify.com/track/2Dc4MWMRcM7coMtXKjf7sL"
+    },
+    {
+      "canonical_slug": "ornette-coleman--tomorrow-is-the-question-instrumental",
+      "name": "Tomorrow Is The Question! - Instrumental",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ornette-coleman",
+      "primary_artist_name": "Ornette Coleman",
+      "release_canonical_slug": "ornette-coleman--tomorrow-is-the-question",
+      "release_name": "Tomorrow Is The Question!",
+      "spotify_track_id": "7ql89p8OTrMIGBn1YPLxN3",
+      "spotify_url": "https://open.spotify.com/track/7ql89p8OTrMIGBn1YPLxN3"
+    },
+    {
+      "canonical_slug": "sun-ra--twin-stars-of-thence-remastered",
+      "name": "Twin Stars of Thence - Remastered",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--lanquidity-definitive-edition",
+      "release_name": "Lanquidity (Definitive Edition)",
+      "spotify_track_id": "38XnyZVBmdiion7AhAZtxD",
+      "spotify_url": "https://open.spotify.com/track/38XnyZVBmdiion7AhAZtxD"
+    },
+    {
+      "canonical_slug": "sun-ra--a-fireside-chat-with-lucifer",
+      "name": "A Fireside Chat With Lucifer",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "sun-ra",
+      "primary_artist_name": "Sun Ra",
+      "release_canonical_slug": "sun-ra--a-fireside-chat-with-lucifer",
+      "release_name": "A Fireside Chat With Lucifer",
+      "spotify_track_id": "6Ib0CKSzwU1bqcxdKnfkhF",
+      "spotify_url": "https://open.spotify.com/track/6Ib0CKSzwU1bqcxdKnfkhF"
+    },
     {
       "canonical_slug": "shabaka--black-meditation",
       "name": "Black meditation",
@@ -120,37 +257,15 @@
       "spotify_url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
     },
     {
-      "canonical_slug": "ornette-coleman--lonely-woman",
-      "name": "Lonely Woman",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "ornette-coleman",
-      "primary_artist_name": "Ornette Coleman",
-      "release_canonical_slug": "ornette-coleman--the-shape-of-jazz-to-come",
-      "release_name": "The Shape Of Jazz To Come",
-      "spotify_track_id": "23aDP04QX8MAHA99FLaPtN",
-      "spotify_url": "https://open.spotify.com/track/23aDP04QX8MAHA99FLaPtN"
-    },
-    {
-      "canonical_slug": "nala-sinephro--space-4",
-      "name": "Space 4",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro",
-      "release_canonical_slug": "nala-sinephro--space-1-8",
-      "release_name": "Space 1.8",
-      "spotify_track_id": "11lcWjr6YXEH0EOCcU7Pfp",
-      "spotify_url": "https://open.spotify.com/track/11lcWjr6YXEH0EOCcU7Pfp"
-    },
-    {
-      "canonical_slug": "sun-ra--tapestry-from-an-asteroid",
-      "name": "Tapestry from an Asteroid",
+      "canonical_slug": "sun-ra--hour-of-parting",
+      "name": "Hour of Parting",
       "play_count": 1,
       "primary_artist_canonical_slug": "sun-ra",
       "primary_artist_name": "Sun Ra",
-      "release_canonical_slug": "sun-ra--we-travel-the-spaceways",
-      "release_name": "We Travel the Spaceways",
-      "spotify_track_id": "0EjtZmOLT6WLShJRHCFWVU",
-      "spotify_url": "https://open.spotify.com/track/0EjtZmOLT6WLShJRHCFWVU"
+      "release_canonical_slug": "sun-ra--sound-sun-pleasure",
+      "release_name": "Sound Sun Pleasure",
+      "spotify_track_id": "3pJ3y2gEJ3KXHRvqWF4PRn",
+      "spotify_url": "https://open.spotify.com/track/3pJ3y2gEJ3KXHRvqWF4PRn"
     }
   ],
   "source_refs": [
@@ -159,6 +274,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

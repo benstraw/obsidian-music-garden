@@ -1,0 +1,95 @@
+{
+  "canonical_slug": "new-jack-swing",
+  "display_title": "New Jack Swing",
+  "display_name": "New Jack Swing",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "New jack swing",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_jack_swing",
+  "summary": "New jack swing, new jack, or swingbeat is a fusion genre of the rhythms and production techniques of hip hop and dance-pop, and the urban contemporary sound of R\u0026B. Spearheaded by producers Teddy Riley, Bernard Belle, Jimmy Jam and Terry Lewis, and Dallas Austin, new jack swing was most popular from the late 1980s to early 1990s.",
+  "candidates": [
+    "New Jack Swing (song)",
+    "New dark swing",
+    "New jack swing",
+    "Newjack (song)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "New jack swing",
+    "page_url": "https://en.wikipedia.org/wiki/New_jack_swing",
+    "retrieved_at": "2026-03-28T15:58:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gnome-mime-sound-openclipart.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+    "width": 160,
+    "height": 160,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Janet Tour.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Janet_Tour.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Janet_Tour.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Janet_Tour.jpg",
+      "width": 330,
+      "height": 450,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Pete Still"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:You Called and Told Me.ogg"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--new-jack-swing.json",
+      "url": "https://en.wikipedia.org/wiki/New_jack_swing",
+      "retrieved_at": "2026-03-28T15:58:49Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--new-jack-swing.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

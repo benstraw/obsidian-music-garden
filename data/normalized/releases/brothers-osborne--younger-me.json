@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1LQ7jQS8wOaIDcHqjcDet2",
   "name": "Younger Me",
   "primary_artist_name": "Brothers Osborne",
-  "primary_artist_canonical_slug": "brothers-osborne"
+  "primary_artist_canonical_slug": "brothers-osborne",
+  "musicbrainz_release_id": "1399f9d4-aaf5-4ffb-bd02-ed96086ac2b7",
+  "musicbrainz_release_group_id": "44f53466-5c3d-41e2-8222-c37fd16fb3f8"
 }

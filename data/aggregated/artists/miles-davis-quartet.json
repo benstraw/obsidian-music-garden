@@ -1,0 +1,41 @@
+{
+  "canonical_slug": "miles-davis-quartet",
+  "name": "Miles Davis Quartet",
+  "play_count": 8,
+  "spotify_artist_id": "4sQVPSDmfqIxG9W8o2EROX",
+  "musicbrainz_artist_id": "03606dee-b333-48fe-b9af-d671c837d40f",
+  "spotify_url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27364351626df25d938db9b9f2f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0264351626df25d938db9b9f2f",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485164351626df25d938db9b9f2f",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Miles Davis Quartet (album)",
+    "Miles Davis Quintet",
+    "Miles Davis Quintet (album)",
+    "Miles Davis Quintet 1965-'68",
+    "Miles Davis Quintet at Peacock Alley",
+    "Miles Davis Quintet: Freedom Jazz Dance: The Bootleg Series, Vol. 5"
+  ],
+  "last_updated": "2026-03-28"
+}

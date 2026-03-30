@@ -1,0 +1,77 @@
+{
+  "canonical_slug": "fenton-robinson",
+  "name": "Fenton Robinson",
+  "play_count": 8,
+  "spotify_artist_id": "5WFeN8vtX0TYqv0IYVbWZT",
+  "musicbrainz_artist_id": "1b943e67-ed8d-4b5c-b86c-45cc3095c77e",
+  "spotify_url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT",
+  "genres": [
+    "blues"
+  ],
+  "source_genres": [
+    "blues",
+    "chicago blues"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f4e63290db30da00141a426d38fa9455948aac26",
+      "height": 1485,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/734b41d1108c4afe76826768d03a62e5dd66ea30",
+      "height": 950,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/1d26ad10c78d95d2dc7f05b601e7076e739a5606",
+      "height": 297,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/d88b162a098084807afccaf9509aec8d19c2067a",
+      "height": 95,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Fenton Robinson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fenton_Robinson",
+  "summary": "Fenton Lee Robinson was an American blues singer and exponent of the Chicago blues guitar. In 2023, he was inducted in the Blues Hall of Fame.",
+  "candidates": [
+    "Fenton Robinson"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Fenton Robinson",
+    "page_url": "https://en.wikipedia.org/wiki/Fenton_Robinson",
+    "retrieved_at": "2026-03-28T10:39:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Fenton robinson-1639579453.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Fenton_robinson-1639579453.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fenton_robinson-1639579453.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fenton_robinson-1639579453.jpg/960px-Fenton_robinson-1639579453.jpg",
+    "width": 3110,
+    "height": 4147,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jan van Vugt"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fenton robinson-1639579453.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fenton_robinson-1639579453.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Fenton_robinson-1639579453.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fenton_robinson-1639579453.jpg/960px-Fenton_robinson-1639579453.jpg",
+      "width": 3110,
+      "height": 4147,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jan van Vugt"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

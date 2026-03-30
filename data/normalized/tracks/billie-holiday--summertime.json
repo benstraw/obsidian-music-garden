@@ -1,0 +1,14 @@
+{
+  "source": "spotify",
+  "source_track_id": "6UUPYYMdNdjohuZGfeRdtD",
+  "name": "Summertime",
+  "primary_artist_name": "Billie Holiday",
+  "primary_artist_canonical_slug": "billie-holiday",
+  "additional_artist_slugs": [
+    "billie-holiday-orchestra",
+    "artie-shaw"
+  ],
+  "release_name": "Summertime",
+  "release_canonical_slug": "billie-holiday--summertime",
+  "spotify_url": "https://open.spotify.com/track/6UUPYYMdNdjohuZGfeRdtD"
+}

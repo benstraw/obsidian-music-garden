@@ -1,7 +1,9 @@
 {
   "canonical_slug": "mark-knopfler",
   "name": "Mark Knopfler",
+  "play_count": 3,
   "spotify_artist_id": "0FI0kxP0BWurTz8cB8BBug",
+  "musicbrainz_artist_id": "e49f69da-17d5-4c5c-bac0-dadcb0e588f5",
   "spotify_url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug",
   "genres": [
     "soft-rock"
@@ -116,5 +118,5 @@
       "author": "Joachim Müllerchen"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

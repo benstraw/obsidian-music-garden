@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6N8uPmDqbgXD3ztkCCfxoo",
   "name": "Just As I Am",
   "primary_artist_name": "Bill Withers",
-  "primary_artist_canonical_slug": "bill-withers"
+  "primary_artist_canonical_slug": "bill-withers",
+  "musicbrainz_release_id": "7e0f7789-8410-44ba-8100-78dafcb8e158",
+  "musicbrainz_release_group_id": "a72ee504-15b5-343c-bfd7-e71f9272e0e5"
 }

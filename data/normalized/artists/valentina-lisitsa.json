@@ -1,0 +1,61 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0gOrXuu1vCBXe3pwTyb5Ca",
+  "name": "Valentina Lisitsa",
+  "spotify_url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca",
+  "musicbrainz_artist_id": "81c9ae67-9eaf-4e47-836a-62b7bbc91664",
+  "source_genres": [
+    "pianist",
+    "ukrainian pianist"
+  ],
+  "status": "matched",
+  "page_title": "Valentina Lisitsa",
+  "summary": "Valentina Yevhenivna Lisitsa is a Ukrainian and Russian classical concert pianist. Lisitsa independently launched her career on social media, without initially signing with a tour promoter or record company. By 2012, Lisitsa was among the most frequently viewed pianists on YouTube. The Toronto Symphony canceled her 2015 engagements as a soloist with them because of her social media postings in support of pro-Russian separatists during the Russo-Ukrainian War.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Valentina_Lisitsa",
+  "candidates": [
+    "Valentina Lisitsa"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Valentina Lisitsa",
+    "page_url": "https://en.wikipedia.org/wiki/Valentina_Lisitsa",
+    "retrieved_at": "2026-03-28T10:43:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Valentina Lisitsa 0421 1200x800.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Valentina_Lisitsa_0421_1200x800.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Valentina_Lisitsa_0421_1200x800.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Valentina_Lisitsa_0421_1200x800.JPG/960px-Valentina_Lisitsa_0421_1200x800.JPG",
+    "width": 1200,
+    "height": 800,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Michael_von_Aichberger\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Michael von Aichberger (page does not exist)\"\u003eMichael von Aichberger\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Valentina Lisitsa 0421 1200x800.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Valentina_Lisitsa_0421_1200x800.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Valentina_Lisitsa_0421_1200x800.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Valentina_Lisitsa_0421_1200x800.JPG/960px-Valentina_Lisitsa_0421_1200x800.JPG",
+      "width": 1200,
+      "height": 800,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Michael_von_Aichberger\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Michael von Aichberger (page does not exist)\"\u003eMichael von Aichberger\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Warsaw-valentina-lisitsa-cr-alexei-kuznetsoff-14.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Warsaw-valentina-lisitsa-cr-alexei-kuznetsoff-14.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Warsaw-valentina-lisitsa-cr-alexei-kuznetsoff-14.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Warsaw-valentina-lisitsa-cr-alexei-kuznetsoff-14.jpg/960px-Warsaw-valentina-lisitsa-cr-alexei-kuznetsoff-14.jpg",
+      "width": 1800,
+      "height": 2862,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Danii_xdd\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Danii xdd (page does not exist)\"\u003eDanii xdd\u003c/a\u003e"
+    }
+  ]
+}

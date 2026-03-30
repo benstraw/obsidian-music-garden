@@ -7,7 +7,8 @@
   "aliases": [
     "aor"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Aor",
@@ -23,12 +24,12 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 3,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 3,
+    "play_count": 6,
+    "unique_artist_count": 2,
+    "unique_release_count": 3,
+    "unique_track_count": 6,
     "first_played_at": "2026-03-16T16:22:44Z",
-    "last_played_at": "2026-03-16T23:27:47.925Z"
+    "last_played_at": "2026-03-28T21:30:25.610Z"
   },
   "top_artists": [
     {
@@ -36,7 +37,15 @@
       "name": "Maurice White",
       "play_count": 3,
       "spotify_artist_id": "6T46cZo3M8wXq5eOoXbZBx",
+      "musicbrainz_artist_id": "e16cc224-7803-46cb-8615-ccf9068199a1",
       "spotify_url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx"
+    },
+    {
+      "canonical_slug": "yes",
+      "name": "Yes",
+      "play_count": 3,
+      "spotify_artist_id": "7AC976RDJzL2asmZuz7qil",
+      "spotify_url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
     }
   ],
   "top_releases": [
@@ -45,7 +54,24 @@
       "name": "Maurice White",
       "play_count": 3,
       "primary_artist_canonical_slug": "maurice-white",
-      "primary_artist_name": "Maurice White"
+      "primary_artist_name": "Maurice White",
+      "spotify_album_id": "75lRlwwQSTZUDxMeG8NmxX",
+      "musicbrainz_release_id": "3ef868bc-1068-4f7a-b4ca-7a3fb18c60cb",
+      "musicbrainz_release_group_id": "6f0f74c2-6db5-31ae-95d7-0f5a803f63ad"
+    },
+    {
+      "canonical_slug": "yes--the-yes-album",
+      "name": "The Yes Album",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "yes",
+      "primary_artist_name": "Yes"
+    },
+    {
+      "canonical_slug": "yes--fragile-super-deluxe",
+      "name": "Fragile (Super Deluxe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "yes",
+      "primary_artist_name": "Yes"
     }
   ],
   "top_tracks": [
@@ -61,6 +87,17 @@
       "spotify_url": "https://open.spotify.com/track/2z0bWcFtSYWgszc1Dbj7o0"
     },
     {
+      "canonical_slug": "yes--i-ve-seen-all-good-people-a-your-move-b-all-good-people-2008-remaster",
+      "name": "I've Seen All Good People: a. Your Move, b. All Good People - 2008 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "yes",
+      "primary_artist_name": "Yes",
+      "release_canonical_slug": "yes--the-yes-album",
+      "release_name": "The Yes Album",
+      "spotify_track_id": "1WVMgdTBBD4kQ5j1IRl0tE",
+      "spotify_url": "https://open.spotify.com/track/1WVMgdTBBD4kQ5j1IRl0tE"
+    },
+    {
       "canonical_slug": "maurice-white--lady-is-love",
       "name": "Lady Is Love",
       "play_count": 1,
@@ -72,6 +109,17 @@
       "spotify_url": "https://open.spotify.com/track/1qSxV5uxGIsPtb2AfmpYg8"
     },
     {
+      "canonical_slug": "yes--long-distance-runaround-2024-steven-wilson-remix",
+      "name": "Long Distance Runaround - 2024 Steven Wilson Remix",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "yes",
+      "primary_artist_name": "Yes",
+      "release_canonical_slug": "yes--fragile-super-deluxe",
+      "release_name": "Fragile (Super Deluxe)",
+      "spotify_track_id": "2zgRRcBuseLg2AJMPhvD7l",
+      "spotify_url": "https://open.spotify.com/track/2zgRRcBuseLg2AJMPhvD7l"
+    },
+    {
       "canonical_slug": "maurice-white--stand-by-me",
       "name": "Stand By Me",
       "play_count": 1,
@@ -81,6 +129,17 @@
       "release_name": "Maurice White",
       "spotify_track_id": "78ed1StERMVBNocbSEQpCF",
       "spotify_url": "https://open.spotify.com/track/78ed1StERMVBNocbSEQpCF"
+    },
+    {
+      "canonical_slug": "yes--starship-trooper-a-life-seeker-b-disillusion-c-würm-2008-remaster",
+      "name": "Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm - 2008 Remaster",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "yes",
+      "primary_artist_name": "Yes",
+      "release_canonical_slug": "yes--the-yes-album",
+      "release_name": "The Yes Album",
+      "spotify_track_id": "3PQWdLxl8mzu5Ukt7rxHuv",
+      "spotify_url": "https://open.spotify.com/track/3PQWdLxl8mzu5Ukt7rxHuv"
     }
   ],
   "source_refs": [
@@ -91,12 +150,18 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-16T23:27:47.925Z",
+      "updated_at": "2026-03-28T21:30:25.610Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28T21:30:25.610Z"
 }

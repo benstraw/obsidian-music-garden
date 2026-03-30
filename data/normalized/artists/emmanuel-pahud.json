@@ -1,0 +1,64 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6duaKoFWgzQNgHlfmn3dHq",
+  "name": "Emmanuel Pahud",
+  "spotify_url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq",
+  "musicbrainz_artist_id": "e9678a8c-4fcd-46ad-8f4e-3d17f6e3943f",
+  "source_genres": [
+    "classical",
+    "flute",
+    "flutist",
+    "swiss flutist"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Emmanuel Pahud",
+  "summary": "Emmanuel Pahud is a Franco-Swiss flautist.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Emmanuel_Pahud",
+  "candidates": [
+    "Emmanuel Paddy Iyamu",
+    "Emmanuel Pahud",
+    "Emmanuel Papadopoulos",
+    "Emmanuel Patut",
+    "Emmanuel Paul",
+    "Emmanuel Paulker",
+    "Emmanuel Pauwels",
+    "Emmanuel Vaudan",
+    "Emmanuel, Paul",
+    "Paul Emmanuel (artist)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Emmanuel Pahud",
+    "page_url": "https://en.wikipedia.org/wiki/Emmanuel_Pahud",
+    "retrieved_at": "2026-03-28T10:38:51Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Emmanuel Pahud 20190729.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Pahud_20190729.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Emmanuel_Pahud_20190729.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Emmanuel_Pahud_20190729.jpg",
+    "width": 492,
+    "height": 592,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Lycstjeanic\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Lycstjeanic (page does not exist)\"\u003eUser:Lycstjeanic\u003c/a\u003e + editing: selection of Pahud by \u003ca href=\"//commons.wikimedia.org/wiki/User:Boud\" title=\"User:Boud\"\u003eUser:Boud\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Emmanuel Pahud 20190729.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Pahud_20190729.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Emmanuel_Pahud_20190729.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Emmanuel_Pahud_20190729.jpg",
+      "width": 492,
+      "height": 592,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Lycstjeanic\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Lycstjeanic (page does not exist)\"\u003eUser:Lycstjeanic\u003c/a\u003e + editing: selection of Pahud by \u003ca href=\"//commons.wikimedia.org/wiki/User:Boud\" title=\"User:Boud\"\u003eUser:Boud\u003c/a\u003e"
+    }
+  ]
+}

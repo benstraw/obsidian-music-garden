@@ -1,21 +1,33 @@
 {
   "canonical_slug": "townes-van-zandt",
   "name": "Townes Van Zandt",
+  "play_count": 1,
   "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
+  "musicbrainz_artist_id": "d67d1a21-6e45-4dd6-aef0-0191ba3796e0",
   "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof",
   "genres": [
     "alt-country",
     "americana",
+    "blues",
+    "country",
+    "country-rock",
     "folk",
+    "folk-rock",
     "outlaw-country",
+    "rock",
     "singer-songwriter",
     "southern-gothic"
   ],
   "source_genres": [
     "alt country",
     "americana",
+    "blues",
+    "country",
+    "country rock",
     "folk",
+    "folk/rock",
     "outlaw country",
+    "rock",
     "singer-songwriter",
     "southern gothic"
   ],
@@ -92,5 +104,5 @@
       "file_title": "File:Towneshwhw.jpg"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

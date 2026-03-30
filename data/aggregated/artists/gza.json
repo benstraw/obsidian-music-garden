@@ -1,7 +1,9 @@
 {
   "canonical_slug": "gza",
   "name": "GZA",
+  "play_count": 3,
   "spotify_artist_id": "6ns6XAOsw4B0nDUIovAOUO",
+  "musicbrainz_artist_id": "d0357dbf-e0fd-4354-897f-e7375cccd400",
   "spotify_url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO",
   "genres": [
     "boom-bap",
@@ -115,5 +117,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

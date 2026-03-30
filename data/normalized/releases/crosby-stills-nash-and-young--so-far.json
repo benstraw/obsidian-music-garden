@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5C1NUv7hNWS6n0GBtLetKM",
   "name": "So Far",
   "primary_artist_name": "Crosby, Stills, Nash \u0026 Young",
-  "primary_artist_canonical_slug": "crosby-stills-nash-and-young"
+  "primary_artist_canonical_slug": "crosby-stills-nash-and-young",
+  "musicbrainz_release_id": "32477e8f-5a6f-44b9-858d-ce4b022e303e",
+  "musicbrainz_release_group_id": "5495ff00-06c2-3361-9284-ed729209dffc"
 }

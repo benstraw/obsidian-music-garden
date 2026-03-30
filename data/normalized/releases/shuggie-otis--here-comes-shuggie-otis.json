@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6mzeogguJ6lMUHWgBJzhcd",
   "name": "Here Comes Shuggie Otis",
   "primary_artist_name": "Shuggie Otis",
-  "primary_artist_canonical_slug": "shuggie-otis"
+  "primary_artist_canonical_slug": "shuggie-otis",
+  "musicbrainz_release_id": "5eef1afe-31d9-479a-800c-3660355e699f",
+  "musicbrainz_release_group_id": "62bc923e-f01c-3a00-b305-0b3f4c3b016f"
 }

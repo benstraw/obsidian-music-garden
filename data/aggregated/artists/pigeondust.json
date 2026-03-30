@@ -1,0 +1,46 @@
+{
+  "canonical_slug": "pigeondust",
+  "name": "Pigeondust",
+  "play_count": 14,
+  "spotify_artist_id": "3ZGFuMnNyyCIAnq5vARz1W",
+  "musicbrainz_artist_id": "f7d1bd1f-30e4-40d4-bb48-25fbd3683241",
+  "spotify_url": "https://open.spotify.com/artist/3ZGFuMnNyyCIAnq5vARz1W",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "hip hop",
+    "instrumental hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27393b6ac821f41a2b5e14a319a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0293b6ac821f41a2b5e14a319a",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485193b6ac821f41a2b5e14a319a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Pig industry in North Carolina",
+    "Pigeon (disambiguation)",
+    "Pigeon Post",
+    "Pigeon Street",
+    "Pigeon post",
+    "Pigeon statues in Wellington",
+    "Pigeon, Steven",
+    "The Pigeon (Australian Playhouse)",
+    "The Pigeon Detectives",
+    "The Pigeon Detectives discography"
+  ],
+  "last_updated": "2026-03-28"
+}

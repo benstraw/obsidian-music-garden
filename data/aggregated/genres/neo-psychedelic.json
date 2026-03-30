@@ -6,54 +6,262 @@
   "aliases": [
     "neo psychedelic"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Neo-psychedelia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Neo-psychedelia",
+  "summary": "Neo-psychedelia is a genre of psychedelic music that draws inspiration from the music production approaches and songwriting of 1960s psychedelia, either exploring emulations of the sounds of the era or applying its ethos to new styles of music. It has occasionally seen mainstream pop success but is typically explored within alternative music, indie music and underground scenes.",
   "candidates": [
-    "NAT (psychedelic)",
-    "NET (psychedelic)",
-    "NHT (psychedelic)",
-    "NMT (psychedelic)",
-    "Neo-psychedelia",
-    "Non-psychedelic 5-HT2A agonist"
+    "Neo-psychedelia"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Neo-psychedelia",
+    "page_url": "https://en.wikipedia.org/wiki/Neo-psychedelia",
+    "retrieved_at": "2026-03-29T17:23:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Retro-flower-ornaments.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Retro-flower-ornaments.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Retro-flower-ornaments.svg/960px-Retro-flower-ornaments.svg.png",
+    "width": 936,
+    "height": 900,
+    "license": "Public domain",
+    "author": "AnonMoos"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Retro-flower-ornaments.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Retro-flower-ornaments.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Retro-flower-ornaments.svg/960px-Retro-flower-ornaments.svg.png",
+      "width": 936,
+      "height": 900,
+      "license": "Public domain",
+      "author": "AnonMoos"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-08T19:21:51.573Z",
+    "play_count": 39,
+    "unique_artist_count": 2,
+    "unique_release_count": 8,
+    "unique_track_count": 29,
+    "first_played_at": "2024-01-01T00:00:00.635362399Z",
     "last_played_at": "2026-03-08T19:21:51.573Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "horse-lords",
+      "name": "Horse Lords",
+      "play_count": 38,
+      "spotify_artist_id": "0Oslq5zLftqRVwKseBJ7MV",
+      "musicbrainz_artist_id": "6efe2782-6926-41f6-b246-bdd60f997b8b",
+      "spotify_url": "https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV"
+    },
     {
       "canonical_slug": "the-flaming-lips",
       "name": "The Flaming Lips",
       "play_count": 1,
       "spotify_artist_id": "16eRpMNXSQ15wuJoeqguaB",
+      "musicbrainz_artist_id": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
       "spotify_url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "horse-lords--interventions",
+      "name": "Interventions",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "5EhcaBEdg11iEoMIRftGJW",
+      "musicbrainz_release_id": "dcb098b6-c267-494d-bc17-24eb2f4a0c1b",
+      "musicbrainz_release_group_id": "d21d369e-3d88-4778-afd4-91038f0ab74e"
+    },
+    {
+      "canonical_slug": "horse-lords--comradely-objects",
+      "name": "Comradely Objects",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "77I9CjThngVCVpPtvC67yp",
+      "musicbrainz_release_id": "7262e180-1d78-4032-89f0-3f90004f9d58",
+      "musicbrainz_release_group_id": "142d682e-987a-4b17-99da-5279f44d334c"
+    },
+    {
+      "canonical_slug": "horse-lords--the-common-task",
+      "name": "The Common Task",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "2geX9gTPy6DlWUooKOeTbd",
+      "musicbrainz_release_id": "4fd0b7bd-1aee-41b4-8d32-b91ca530de3d",
+      "musicbrainz_release_group_id": "9e173ec9-0920-4b7c-9f5d-64f2f11168de"
+    },
+    {
+      "canonical_slug": "horse-lords--as-it-happened-horse-lords-live",
+      "name": "As It Happened: Horse Lords Live",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "7MwWWwlt4XQf0OrTuVjHeb",
+      "musicbrainz_release_id": "9c8e2c3f-9350-411a-9482-bc9744ae0ed4",
+      "musicbrainz_release_group_id": "e6c358a7-48a0-4703-8584-6bd39e3e980c"
+    },
+    {
+      "canonical_slug": "horse-lords--hidden-cities",
+      "name": "Hidden Cities",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "6ecQ7ZwuY6zhNOYhvHy38C",
+      "musicbrainz_release_id": "abbafc72-7c6c-4b3c-b67d-9d00bcaba4a8",
+      "musicbrainz_release_group_id": "76d6fec5-e614-4413-a170-9d6e1b67aca0"
+    },
+    {
+      "canonical_slug": "horse-lords--people-s-park",
+      "name": "People's Park",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "6AAKRmM7vU3mKC7lxNU37e"
+    },
+    {
+      "canonical_slug": "horse-lords--mixtape-iv",
+      "name": "Mixtape IV",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "spotify_album_id": "3DaWFJ8AaXNOAMGVAdjNCu",
+      "musicbrainz_release_id": "58143981-8f7c-4257-a9c7-fe895a8f579f",
+      "musicbrainz_release_group_id": "b5ab269e-e0f9-4795-83de-40fda8d93662"
+    },
+    {
       "canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots",
       "name": "Yoshimi Battles the Pink Robots",
       "play_count": 1,
       "primary_artist_canonical_slug": "the-flaming-lips",
-      "primary_artist_name": "The Flaming Lips"
+      "primary_artist_name": "The Flaming Lips",
+      "spotify_album_id": "49LA20VMk65fQyEaIzYdvf",
+      "musicbrainz_release_id": "5ee8b734-e29a-36d9-9913-3319e21b5444",
+      "musicbrainz_release_group_id": "54b1ad4e-7e86-308d-b053-a0843f6abbdb"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots-pt-1",
-      "name": "Yoshimi Battles the Pink Robots, Pt. 1",
+      "canonical_slug": "horse-lords--fanfare-for-effective-freedom",
+      "name": "Fanfare for Effective Freedom",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--people-s-park",
+      "release_name": "People's Park",
+      "spotify_track_id": "3uvkeDnZyD3u6ZBX8y4Q1g",
+      "spotify_url": "https://open.spotify.com/track/3uvkeDnZyD3u6ZBX8y4Q1g"
+    },
+    {
+      "canonical_slug": "horse-lords--people-s-park",
+      "name": "People's Park",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--the-common-task",
+      "release_name": "The Common Task",
+      "spotify_track_id": "7MFLuyQLNAMu6WZcRCXO8r",
+      "spotify_url": "https://open.spotify.com/track/7MFLuyQLNAMu6WZcRCXO8r"
+    },
+    {
+      "canonical_slug": "horse-lords--intervention-iii",
+      "name": "Intervention III",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--interventions",
+      "release_name": "Interventions",
+      "spotify_track_id": "75AmNpAyXACrcYQJguIp5e",
+      "spotify_url": "https://open.spotify.com/track/75AmNpAyXACrcYQJguIp5e"
+    },
+    {
+      "canonical_slug": "horse-lords--introduction-by-jacques-palminger",
+      "name": "Introduction by Jacques Palminger",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--as-it-happened-horse-lords-live",
+      "release_name": "As It Happened: Horse Lords Live",
+      "spotify_track_id": "5c2KUuU9Ls8XVx8f8bS5PP",
+      "spotify_url": "https://open.spotify.com/track/5c2KUuU9Ls8XVx8f8bS5PP"
+    },
+    {
+      "canonical_slug": "horse-lords--never-ended",
+      "name": "Never Ended",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--interventions",
+      "release_name": "Interventions",
+      "spotify_track_id": "3aXK5pUYCuMGQkqAQfTgWy",
+      "spotify_url": "https://open.spotify.com/track/3aXK5pUYCuMGQkqAQfTgWy"
+    },
+    {
+      "canonical_slug": "horse-lords--plain-hunt-on-four",
+      "name": "Plain Hunt on Four",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--comradely-objects",
+      "release_name": "Comradely Objects",
+      "spotify_track_id": "2HDUNEpCGPUkhnoa99FVCf",
+      "spotify_url": "https://open.spotify.com/track/2HDUNEpCGPUkhnoa99FVCf"
+    },
+    {
+      "canonical_slug": "horse-lords--time-slip",
+      "name": "Time Slip",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--interventions",
+      "release_name": "Interventions",
+      "spotify_track_id": "5Yhob2Q9cNWXs2ChHtpiUP",
+      "spotify_url": "https://open.spotify.com/track/5Yhob2Q9cNWXs2ChHtpiUP"
+    },
+    {
+      "canonical_slug": "horse-lords--zero-degree-machine-live",
+      "name": "Zero-Degree Machine - Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--as-it-happened-horse-lords-live",
+      "release_name": "As It Happened: Horse Lords Live",
+      "spotify_track_id": "25BrNqp1IdQ0ehyvM3d4ZX",
+      "spotify_url": "https://open.spotify.com/track/25BrNqp1IdQ0ehyvM3d4ZX"
+    },
+    {
+      "canonical_slug": "horse-lords--against-gravity",
+      "name": "Against Gravity",
       "play_count": 1,
-      "primary_artist_canonical_slug": "the-flaming-lips",
-      "primary_artist_name": "The Flaming Lips",
-      "release_canonical_slug": "the-flaming-lips--yoshimi-battles-the-pink-robots",
-      "release_name": "Yoshimi Battles the Pink Robots",
-      "spotify_track_id": "0ccCwNzXvr1Yoz91vKz31Z",
-      "spotify_url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--the-common-task",
+      "release_name": "The Common Task",
+      "spotify_track_id": "3ShyTm2hbEoWv2ITK17LxQ",
+      "spotify_url": "https://open.spotify.com/track/3ShyTm2hbEoWv2ITK17LxQ"
+    },
+    {
+      "canonical_slug": "horse-lords--bending-to-the-lash",
+      "name": "Bending to the Lash",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "horse-lords",
+      "primary_artist_name": "Horse Lords",
+      "release_canonical_slug": "horse-lords--interventions",
+      "release_name": "Interventions",
+      "spotify_track_id": "1dQmEIjJh6UVLpq4Tc2q9r",
+      "spotify_url": "https://open.spotify.com/track/1dQmEIjJh6UVLpq4Tc2q9r"
     }
   ],
   "source_refs": [
@@ -64,6 +272,28 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--neo-psychedelic.json",
+      "url": "https://en.wikipedia.org/wiki/Neo-psychedelia",
+      "retrieved_at": "2026-03-29T17:23:08Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--neo-psychedelic.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -71,5 +301,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

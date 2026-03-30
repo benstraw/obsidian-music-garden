@@ -1,0 +1,74 @@
+{
+  "canonical_slug": "young-miko",
+  "name": "Young Miko",
+  "play_count": 3,
+  "spotify_artist_id": "3qsKSpcV3ncke3hw52JSMB",
+  "musicbrainz_artist_id": "c4442130-e7f2-40aa-bcab-b921cc45a365",
+  "spotify_url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb553a8b77d20806bbcf75bfb0",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174553a8b77d20806bbcf75bfb0",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178553a8b77d20806bbcf75bfb0",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Young Miko",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Young_Miko",
+  "summary": "María Victoria Ramírez de Arellano Cardona, known professionally as Young Miko, is a Puerto Rican rapper, singer, songwriter and former footballer. In 2022, she released her debut extended play, Trap Kitty, featuring Latin trap tracks. In April 2024, she released her debut studio album, Att., featuring collaborations with Feid, Jowell \u0026 Randy, Villano Antillano, Elena Rose, and Dei V. In November 2025, she released her second studio album, Do Not Disturb, which featured a collaboration with Eladio Carrión.",
+  "candidates": [
+    "Michael Young (baseball)",
+    "Michael Young (basketball, born 1994)",
+    "Michael Young, Baron Young of Dartington",
+    "Mike Young (Neighbours)",
+    "Young Lions FC",
+    "Young Miko",
+    "Young Miko: Bzrp Music Sessions, Vol. 58",
+    "Young Money Entertainment",
+    "Young Pioneers (Soviet Union)",
+    "Young's modulus"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Young Miko",
+    "page_url": "https://en.wikipedia.org/wiki/Young_Miko",
+    "retrieved_at": "2026-03-28T10:44:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:YOUNG MIKO (Vb6-eaqyUe0) (cropped).png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:YOUNG_MIKO_(Vb6-eaqyUe0)_(cropped).png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/YOUNG_MIKO_%28Vb6-eaqyUe0%29_%28cropped%29.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/YOUNG_MIKO_%28Vb6-eaqyUe0%29_%28cropped%29.png",
+    "width": 760,
+    "height": 894,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@latinosenpelota9355\"\u003eLatinos En Pelota\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:YOUNG MIKO (Vb6-eaqyUe0) (cropped).png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:YOUNG_MIKO_(Vb6-eaqyUe0)_(cropped).png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/YOUNG_MIKO_%28Vb6-eaqyUe0%29_%28cropped%29.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/YOUNG_MIKO_%28Vb6-eaqyUe0%29_%28cropped%29.png",
+      "width": 760,
+      "height": 894,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@latinosenpelota9355\"\u003eLatinos En Pelota\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

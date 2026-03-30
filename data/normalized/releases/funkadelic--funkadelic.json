@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2muElcL0DcIPj12CsCUzhf",
   "name": "Funkadelic",
   "primary_artist_name": "Funkadelic",
-  "primary_artist_canonical_slug": "funkadelic"
+  "primary_artist_canonical_slug": "funkadelic",
+  "musicbrainz_release_id": "125865eb-d1ed-4733-949f-32621d492991",
+  "musicbrainz_release_group_id": "ba6de9b7-828e-35d4-adc5-ea71bdab836b"
 }

@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "chinese-pianist",
+  "display_title": "Chinese Pianist",
+  "display_name": "Chinese Pianist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Chinese Minister of Education",
+    "Chinese Ministry for Public Security",
+    "Chinese Ministry of Civil Affairs",
+    "Chinese Ministry of Finance",
+    "Chinese Ministry of Foreign Affairs",
+    "Chinese Ministry of Science",
+    "Chinese Ministry of State Security",
+    "Chinese Pakistani",
+    "Chinese pipistrelle",
+    "Chinese-Pakistani relations"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

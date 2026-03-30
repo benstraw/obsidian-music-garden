@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0WYYrC9My9rYWigac003hw",
   "name": "Hot Rats",
   "primary_artist_name": "Frank Zappa",
-  "primary_artist_canonical_slug": "frank-zappa"
+  "primary_artist_canonical_slug": "frank-zappa",
+  "musicbrainz_release_id": "6327a725-8554-4900-a268-bdba3cb03169",
+  "musicbrainz_release_group_id": "3f974fbd-9db8-3dff-9466-b9ae6fd9146c"
 }

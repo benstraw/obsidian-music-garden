@@ -8,6 +8,7 @@
     "musique concrète"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Musique concrète",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te",
@@ -67,46 +68,63 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 2,
+    "play_count": 4,
     "unique_artist_count": 2,
     "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-03T14:30:00.780Z",
+    "unique_track_count": 3,
+    "first_played_at": "2024-01-01T00:00:00.642185688Z",
     "last_played_at": "2026-03-12T16:54:06.655Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "negativland",
+      "name": "Negativland",
+      "play_count": 3,
+      "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+      "musicbrainz_artist_id": "78c1866f-92d8-4180-98ea-fe88121aa195",
+      "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
+    },
     {
       "canonical_slug": "mauricio-kagel",
       "name": "Mauricio Kagel",
       "play_count": 1,
       "spotify_artist_id": "0IdJUMh8xVuehu7qlMcDth",
+      "musicbrainz_artist_id": "9f185094-f3d7-4e33-9f60-4588d4c63cb3",
       "spotify_url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
-    },
-    {
-      "canonical_slug": "negativland",
-      "name": "Negativland",
-      "play_count": 1,
-      "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
-      "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
     }
   ],
   "top_releases": [
     {
       "canonical_slug": "negativland--escape-from-noise",
       "name": "Escape from Noise",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "negativland",
-      "primary_artist_name": "Negativland"
+      "primary_artist_name": "Negativland",
+      "spotify_album_id": "1iI8thQSDO3kvRxMtxNuTD",
+      "musicbrainz_release_id": "bfd0eb6b-d1f1-42a4-9bad-a440ee36053f",
+      "musicbrainz_release_group_id": "138fcf27-19b8-3a2d-bfc1-a603e87fa62d"
     },
     {
       "canonical_slug": "mauricio-kagel--kagel-match-für-3-spieler-musik-für-renaissance-instrumente-avantgarde-series",
       "name": "Kagel: Match für 3 Spieler; Musik für Renaissance-Instrumente (Avantgarde series)",
       "play_count": 1,
       "primary_artist_canonical_slug": "mauricio-kagel",
-      "primary_artist_name": "Mauricio Kagel"
+      "primary_artist_name": "Mauricio Kagel",
+      "spotify_album_id": "0lYUkrOg4TiShNCJHUay8e"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "negativland--announcement",
+      "name": "Announcement",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "2nB8br6vbE8MYsBmCR9aia",
+      "spotify_url": "https://open.spotify.com/track/2nB8br6vbE8MYsBmCR9aia"
+    },
     {
       "canonical_slug": "negativland--endscape",
       "name": "Endscape",
@@ -136,6 +154,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

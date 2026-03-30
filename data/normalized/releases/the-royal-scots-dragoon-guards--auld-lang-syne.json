@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "2wEGwkzLPWgtuiGL625AON",
   "name": "Auld Lang Syne",
   "primary_artist_name": "The Royal Scots Dragoon Guards",
-  "primary_artist_canonical_slug": "the-royal-scots-dragoon-guards"
+  "primary_artist_canonical_slug": "the-royal-scots-dragoon-guards",
+  "musicbrainz_release_id": "d80e8596-8670-484a-846a-9717751054df",
+  "musicbrainz_release_group_id": "2bee1cd3-b64b-4b44-bbf2-8ae2457cd3d0"
 }

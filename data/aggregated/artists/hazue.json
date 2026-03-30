@@ -1,0 +1,38 @@
+{
+  "canonical_slug": "hazue",
+  "name": "Hazue",
+  "play_count": 6,
+  "spotify_artist_id": "3YnVojTjzOoV0xMr7Am0EU",
+  "spotify_url": "https://open.spotify.com/artist/3YnVojTjzOoV0xMr7Am0EU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb746d22911a7520da49c1b63e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174746d22911a7520da49c1b63e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178746d22911a7520da49c1b63e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Hazel McCallion",
+    "Hazel Scott",
+    "Hazelnut",
+    "Hazlet, New Jersey",
+    "Hazleton, Pennsylvania",
+    "Hazuki (wrestler)",
+    "Hazur Sahib",
+    "Hazzan",
+    "Riona Hazuki",
+    "The Hague"
+  ],
+  "last_updated": "2026-03-28"
+}

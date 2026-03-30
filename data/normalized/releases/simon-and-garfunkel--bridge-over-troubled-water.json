@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0JwHz5SSvpYWuuCNbtYZoV",
   "name": "Bridge Over Troubled Water",
   "primary_artist_name": "Simon \u0026 Garfunkel",
-  "primary_artist_canonical_slug": "simon-and-garfunkel"
+  "primary_artist_canonical_slug": "simon-and-garfunkel",
+  "musicbrainz_release_id": "036cf7d0-bca5-4be2-9ce9-8d263485a393",
+  "musicbrainz_release_group_id": "840d6dc5-c003-4b94-9426-ab6544574d02"
 }

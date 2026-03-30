@@ -1,0 +1,45 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0604Eow92EXTCLStZOUNlG",
+  "name": "Alexei Lubimov",
+  "spotify_url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG",
+  "status": "matched",
+  "page_title": "Alexei Lubimov",
+  "summary": "Alexei Borisovich Lubimov is a Russian pianist, fortepianist and harpsichordist, People's Artist of Russia.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Alexei_Lubimov",
+  "candidates": [
+    "Alexei Lubimov"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alexei Lubimov",
+    "page_url": "https://en.wikipedia.org/wiki/Alexei_Lubimov",
+    "retrieved_at": "2026-03-28T10:37:00Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alexei Lubimov Odessa 3.03.84.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexei_Lubimov_Odessa_3.03.84.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alexei_Lubimov_Odessa_3.03.84.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alexei_Lubimov_Odessa_3.03.84.jpg",
+    "width": 547,
+    "height": 800,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mnaydorf\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mnaydorf (page does not exist)\"\u003eMnaydorf\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alexei Lubimov Odessa 3.03.84.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexei_Lubimov_Odessa_3.03.84.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alexei_Lubimov_Odessa_3.03.84.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Alexei_Lubimov_Odessa_3.03.84.jpg",
+      "width": 547,
+      "height": 800,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mnaydorf\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mnaydorf (page does not exist)\"\u003eMnaydorf\u003c/a\u003e"
+    }
+  ]
+}

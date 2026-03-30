@@ -1,0 +1,53 @@
+{
+  "canonical_slug": "wipers",
+  "name": "Wipers",
+  "play_count": 13,
+  "spotify_artist_id": "0sTTw3dw3EA0c7NaZnrJd2",
+  "musicbrainz_artist_id": "65aac2dc-216c-4b1a-8501-45567c901c0e",
+  "spotify_url": "https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2",
+  "genres": [
+    "post-punk",
+    "rock"
+  ],
+  "source_genres": [
+    "post-punk",
+    "punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/e9002e3d81c706d2c11e1da9a69bbfac8fed4227",
+      "height": 1097,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/5801f0271984354c8eeed56cd7ad09187811d00e",
+      "height": 702,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/15a8599579547e7e38583a129c1007f4ff364586",
+      "height": 219,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/229910f4bb4b2c2d264e59b80aebc5973aae64ee",
+      "height": 70,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Scott Wiper",
+    "The Wipers Times (play)",
+    "Wiper",
+    "Wiper seal",
+    "WiperSoft",
+    "Wipers (band)",
+    "Wipers (car)",
+    "Wipers Box Set",
+    "Wipers Live",
+    "Wipers Times"
+  ],
+  "last_updated": "2026-03-28"
+}

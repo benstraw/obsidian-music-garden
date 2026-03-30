@@ -1,0 +1,37 @@
+{
+  "canonical_slug": "jane-doe",
+  "name": "Jane Doe",
+  "spotify_artist_id": "26W2arAlXmTgLeLdJ2nwSq",
+  "musicbrainz_artist_id": "73eb97f9-a4a8-46c7-8474-b95b1b0e414a",
+  "spotify_url": "https://open.spotify.com/artist/26W2arAlXmTgLeLdJ2nwSq",
+  "status": "matched",
+  "wikipedia_title": "John Doe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Doe",
+  "summary": "John Doe (male) or Jane Doe (female) are multiple-use placeholder names that are used in the British, Canadian, and American legal systems, when the true name of a person is unknown or is being intentionally concealed. In the context of law enforcement in the United States, such names are often used to refer to a corpse whose identity is unknown or cannot be confirmed. These names are also often used to refer to a hypothetical \"everyman\" in other contexts, like John Q. Public or \"Joe Public\". There are many variants to the above names, including John /Jane Roe, John/Jane Smith, Joe/Jane Bloggs, and Johnie/Janie Doe or just Baby Doe for children. The gender-neutral A. N. Other is also a placeholder name, mainly used in the United Kingdom.",
+  "candidates": [
+    "Jane Doe",
+    "Jane Doe (Kenshi Yonezu and Hikaru Utada song)",
+    "Jane Doe (Minami Takahashi song)",
+    "Jane Doe (album)",
+    "Jane Doe (character)",
+    "Jane Doe (disambiguation)",
+    "Jane Doe (film series)",
+    "Jane Doe B-10",
+    "Jane Doe No. 14 v. Internet Brands, Inc.",
+    "Jane Doe case"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "John Doe",
+    "page_url": "https://en.wikipedia.org/wiki/John_Doe",
+    "retrieved_at": "2026-03-28T10:39:47Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/John_and_Jane_Doe_Headstones.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/John_and_Jane_Doe_Headstones.jpg/330px-John_and_Jane_Doe_Headstones.jpg",
+    "width": 2137,
+    "height": 1577
+  },
+  "last_updated": "2026-03-30"
+}

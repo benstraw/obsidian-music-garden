@@ -1,0 +1,86 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6FD0unjzGQhX3b6eMccMJe",
+  "name": "Ghostface Killah",
+  "spotify_url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe",
+  "musicbrainz_artist_id": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb",
+  "source_genres": [
+    "abstract hip hop",
+    "boom bap",
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "pop rap"
+  ],
+  "canonical_genre_slugs": [
+    "boom-bap",
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Ghostface Killah",
+  "summary": "Dennis David Coles, better known by his stage name Ghostface Killah, is an American rapper and a member of the hip-hop group Wu-Tang Clan. After the group achieved breakthrough success in the aftermath of Enter the Wu-Tang , the members went on to pursue solo careers to varying levels of success. Ghostface Killah debuted his solo career with Ironman, which was well received by music critics, in 1996. He has enjoyed continued success in the years that have followed, releasing critically acclaimed albums such as Supreme Clientele (2000) and Fishscale (2006). His stage name was taken from one of the characters in the 1979 kung fu film The Mystery of Chess Boxing. He is the founder of his own record label, Starks Enterprises.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Ghostface_Killah",
+  "candidates": [
+    "Ghostface Killah",
+    "Ghostface Killah discography",
+    "Ghostface Killahs",
+    "Ghostface Killers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ghostface Killah",
+    "page_url": "https://en.wikipedia.org/wiki/Ghostface_Killah",
+    "retrieved_at": "2026-03-28T10:39:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ghostface - Highline Ballroom 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ghostface_-_Highline_Ballroom_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ghostface_-_Highline_Ballroom_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ghostface_-_Highline_Ballroom_2.jpg/960px-Ghostface_-_Highline_Ballroom_2.jpg",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/gaelenh\"\u003eGaelen Hadlett\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ghostface - Highline Ballroom 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ghostface_-_Highline_Ballroom_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ghostface_-_Highline_Ballroom_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ghostface_-_Highline_Ballroom_2.jpg/960px-Ghostface_-_Highline_Ballroom_2.jpg",
+      "width": 1280,
+      "height": 960,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/gaelenh\"\u003eGaelen Hadlett\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ghostface Killah in 2010 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ghostface_Killah_in_2010_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Ghostface_Killah_in_2010_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Ghostface_Killah_in_2010_%28cropped%29.jpg",
+      "width": 505,
+      "height": 695,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Niklas Hellerstedt, Göteborg \u0026amp; Co"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ghostface Killah sig.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ghostface_Killah_sig.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Ghostface_Killah_sig.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ghostface_Killah_sig.svg/960px-Ghostface_Killah_sig.svg.png",
+      "width": 400,
+      "height": 101,
+      "license": "Public domain",
+      "author": "Ghostface Killah"
+    }
+  ]
+}

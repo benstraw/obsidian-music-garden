@@ -1,0 +1,60 @@
+{
+  "canonical_slug": "astral-jazz",
+  "display_title": "Astral Jazz",
+  "display_name": "Astral Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Spiritual jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+  "summary": "Spiritual jazz is a sub-genre of jazz that originated in the United States during the 1960s. The genre is hard to characterize musically but draws from free, avant-garde and modal jazz and thematically focuses on transcendence and spirituality. John Coltrane's 1965 album A Love Supreme is considered a landmark in the genre.",
+  "candidates": [
+    "Astral Jacket",
+    "Astral jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Spiritual jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+    "retrieved_at": "2026-03-28T15:53:12Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kamasi_Washington_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2061_%2848740768781%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kamasi_Washington_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2061_%2848740768781%29.jpg/330px-Kamasi_Washington_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2061_%2848740768781%29.jpg",
+    "width": 3744,
+    "height": 5616
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--astral-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+      "retrieved_at": "2026-03-28T15:53:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--astral-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

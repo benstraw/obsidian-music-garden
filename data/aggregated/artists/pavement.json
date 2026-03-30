@@ -1,0 +1,55 @@
+{
+  "canonical_slug": "pavement",
+  "name": "Pavement",
+  "play_count": 30,
+  "spotify_artist_id": "3inCNiUr4R6XQ3W43s9Aqi",
+  "musicbrainz_artist_id": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+  "spotify_url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi",
+  "genres": [
+    "alternative-rock",
+    "indie-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "alternative rock",
+    "indie rock",
+    "lo-fi",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/80c16daae85fd73f63aa9d64a30aa4029056bea3",
+      "height": 1104,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/7972236ed86e8c7b82d12eeef5057e30a7b2fd91",
+      "height": 707,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/c612de80bff5150a061ab7e2f13b60ee465d3f51",
+      "height": 221,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/2772384cbf7185632bd7f64bd81bbfcc0a52d2e1",
+      "height": 71,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Pavement",
+    "Pavement (band)",
+    "Pavement (magazine)",
+    "Pavement condition index",
+    "Pavement discography",
+    "Pavement dwellers",
+    "Pavement light",
+    "Pavement management",
+    "Pavement milling",
+    "Pavements (film)"
+  ],
+  "last_updated": "2026-03-28"
+}

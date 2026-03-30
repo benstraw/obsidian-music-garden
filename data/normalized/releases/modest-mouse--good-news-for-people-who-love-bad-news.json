@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0TGTGuc2vXv6ZECoAf52N0",
   "name": "Good News For People Who Love Bad News",
   "primary_artist_name": "Modest Mouse",
-  "primary_artist_canonical_slug": "modest-mouse"
+  "primary_artist_canonical_slug": "modest-mouse",
+  "musicbrainz_release_id": "22fa9ed6-7634-451e-a126-0bc20fc2f4d2",
+  "musicbrainz_release_group_id": "65b47520-2e58-3bc2-a755-34ff35f23ad5"
 }

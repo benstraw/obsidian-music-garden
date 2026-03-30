@@ -1,7 +1,9 @@
 {
   "canonical_slug": "spotify",
   "name": "Spotify",
+  "play_count": 10,
   "spotify_artist_id": "5UUG83KSlqPhrBssrducWV",
+  "musicbrainz_artist_id": "b403e7d4-6571-4bcd-8e86-3079db888b4d",
   "spotify_url": "https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV",
   "images": [
     {
@@ -116,5 +118,5 @@
       "author": "ben.kaden"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

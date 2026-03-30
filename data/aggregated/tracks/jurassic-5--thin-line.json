@@ -1,11 +1,14 @@
 {
   "canonical_slug": "jurassic-5--thin-line",
   "name": "Thin Line",
+  "play_count": 1,
   "primary_artist_canonical_slug": "jurassic-5",
   "primary_artist_name": "Jurassic 5",
+  "additional_artist_slugs": [
+    "nelly-furtado"
+  ],
   "release_canonical_slug": "jurassic-5--power-in-numbers",
   "release_name": "Power In Numbers",
   "spotify_track_id": "7aNPJQpHbuJSeWUD0Pay65",
-  "spotify_url": "https://open.spotify.com/track/7aNPJQpHbuJSeWUD0Pay65",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/7aNPJQpHbuJSeWUD0Pay65"
 }

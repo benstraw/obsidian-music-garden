@@ -1,11 +1,14 @@
 {
   "canonical_slug": "the-notorious-b-i-g--get-money-feat-junior-m-a-f-i-a-2007-remaster",
   "name": "Get Money (feat. Junior M.A.F.I.A.) - 2007 Remaster",
+  "play_count": 1,
   "primary_artist_canonical_slug": "the-notorious-b-i-g",
   "primary_artist_name": "The Notorious B.I.G.",
+  "additional_artist_slugs": [
+    "junior-m-a-f-i-a"
+  ],
   "release_canonical_slug": "the-notorious-b-i-g--greatest-hits",
   "release_name": "Greatest Hits",
   "spotify_track_id": "3PA9dH8cT0wR5UW4XkC44Y",
-  "spotify_url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3PA9dH8cT0wR5UW4XkC44Y"
 }

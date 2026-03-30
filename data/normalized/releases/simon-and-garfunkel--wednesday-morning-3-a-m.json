@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "5pnJrocLlZ3FWEbcr2PTz0",
   "name": "Wednesday Morning, 3 A.M.",
   "primary_artist_name": "Simon \u0026 Garfunkel",
-  "primary_artist_canonical_slug": "simon-and-garfunkel"
+  "primary_artist_canonical_slug": "simon-and-garfunkel",
+  "musicbrainz_release_id": "bdbc5ee3-95a4-3427-b5c5-252c40ff9e2e",
+  "musicbrainz_release_group_id": "6c21abaf-2962-3037-836f-842431587949"
 }

@@ -1,7 +1,9 @@
 {
   "canonical_slug": "negativland",
   "name": "Negativland",
+  "play_count": 3,
   "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+  "musicbrainz_artist_id": "78c1866f-92d8-4180-98ea-fe88121aa195",
   "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW",
   "genres": [
     "experimental",
@@ -86,5 +88,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/41894169422@N01\"\u003eNelson Pavlosky\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

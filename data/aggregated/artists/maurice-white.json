@@ -1,13 +1,21 @@
 {
   "canonical_slug": "maurice-white",
   "name": "Maurice White",
+  "play_count": 3,
   "spotify_artist_id": "6T46cZo3M8wXq5eOoXbZBx",
+  "musicbrainz_artist_id": "e16cc224-7803-46cb-8615-ccf9068199a1",
   "spotify_url": "https://open.spotify.com/artist/6T46cZo3M8wXq5eOoXbZBx",
   "genres": [
-    "aor"
+    "aor",
+    "electronic",
+    "soul"
   ],
   "source_genres": [
-    "aor"
+    "aor",
+    "downtempo",
+    "electronic",
+    "soul",
+    "synth-pop"
   ],
   "images": [
     {
@@ -103,5 +111,5 @@
       "author": "Eriik"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

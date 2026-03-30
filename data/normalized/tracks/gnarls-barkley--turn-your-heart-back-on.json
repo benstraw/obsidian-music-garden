@@ -4,6 +4,10 @@
   "name": "Turn Your Heart Back On",
   "primary_artist_name": "Gnarls Barkley",
   "primary_artist_canonical_slug": "gnarls-barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_name": "Atlanta",
   "release_canonical_slug": "gnarls-barkley--atlanta",
   "spotify_url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM"

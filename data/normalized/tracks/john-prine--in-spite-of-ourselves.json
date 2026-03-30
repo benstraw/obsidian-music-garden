@@ -4,6 +4,9 @@
   "name": "In Spite of Ourselves",
   "primary_artist_name": "John Prine",
   "primary_artist_canonical_slug": "john-prine",
+  "additional_artist_slugs": [
+    "iris-dement"
+  ],
   "release_name": "In Spite Of Ourselves",
   "release_canonical_slug": "john-prine--in-spite-of-ourselves",
   "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O"

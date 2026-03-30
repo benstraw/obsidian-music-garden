@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0hvT3yIEysuuvkK73vgdcW",
   "name": "GNX",
   "primary_artist_name": "Kendrick Lamar",
-  "primary_artist_canonical_slug": "kendrick-lamar"
+  "primary_artist_canonical_slug": "kendrick-lamar",
+  "musicbrainz_release_id": "0cf34834-36f2-464d-bbd4-54dd5c90af34",
+  "musicbrainz_release_group_id": "32cb822c-a14e-49ce-a169-f209c5f31e0f"
 }

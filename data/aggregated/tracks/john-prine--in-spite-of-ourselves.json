@@ -1,11 +1,14 @@
 {
   "canonical_slug": "john-prine--in-spite-of-ourselves",
   "name": "In Spite of Ourselves",
+  "play_count": 7,
   "primary_artist_canonical_slug": "john-prine",
   "primary_artist_name": "John Prine",
+  "additional_artist_slugs": [
+    "iris-dement"
+  ],
   "release_canonical_slug": "john-prine--in-spite-of-ourselves",
   "release_name": "In Spite Of Ourselves",
   "spotify_track_id": "2K2eLVi9HJ84T1dkifkQ9O",
-  "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O"
 }

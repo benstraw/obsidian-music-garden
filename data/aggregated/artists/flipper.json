@@ -1,0 +1,52 @@
+{
+  "canonical_slug": "flipper",
+  "name": "Flipper",
+  "play_count": 4,
+  "spotify_artist_id": "20VDXslLsXlLgSF765m1Ug",
+  "musicbrainz_artist_id": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+  "spotify_url": "https://open.spotify.com/artist/20VDXslLsXlLgSF765m1Ug",
+  "genres": [
+    "rock"
+  ],
+  "source_genres": [
+    "hardcore punk",
+    "punk",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c39adaf4e9f1880425f3cdc1a",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2239adaf4e9f1880425f3cdc1a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac339adaf4e9f1880425f3cdc1a",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7439adaf4e9f1880425f3cdc1a",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Die Flippers",
+    "Flipper",
+    "Flipper \u0026 Lopaka",
+    "Flipper (1964 TV series)",
+    "Flipper (1995 TV series)",
+    "Flipper (1996 film)",
+    "Flipper (band)",
+    "Flipper (franchise)",
+    "Flipper Anderson",
+    "Flipper Zero"
+  ],
+  "last_updated": "2026-03-28"
+}

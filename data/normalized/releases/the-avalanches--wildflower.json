@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "0j0djiGxLnBiW7meVc2PER",
   "name": "Wildflower",
   "primary_artist_name": "The Avalanches",
-  "primary_artist_canonical_slug": "the-avalanches"
+  "primary_artist_canonical_slug": "the-avalanches",
+  "musicbrainz_release_id": "122c1e12-144f-489e-a563-85845f002d2a",
+  "musicbrainz_release_group_id": "e27e2c64-8e49-43d2-8468-c3b484cf11f0"
 }

@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "acid-rap",
+  "display_title": "Acid Rap",
+  "display_name": "Acid Rap",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Psychedelic rap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Psychedelic_rap",
+  "summary": "Psychedelic rap is a microgenre that fuses hip-hop with psychedelia. The genre's sound was influenced by psychedelic rock and soul, funk and jazz, utilizing breaks and samples that create a hallucinogenic effect. Psychedelic drugs may also play a part in shaping the genre's sound.",
+  "candidates": [
+    "Acid Bath",
+    "Acid Rain Program",
+    "Acid Rap",
+    "Acid Reign",
+    "Acid attack",
+    "Acid attacks in the United Kingdom",
+    "Acid jazz",
+    "Acid rain",
+    "Acid rap",
+    "Acid rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Psychedelic rap",
+    "page_url": "https://en.wikipedia.org/wiki/Psychedelic_rap",
+    "retrieved_at": "2026-03-28T15:52:41Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--acid-rap.json",
+      "url": "https://en.wikipedia.org/wiki/Psychedelic_rap",
+      "retrieved_at": "2026-03-28T15:52:41Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

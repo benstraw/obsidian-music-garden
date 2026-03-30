@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "contemporary-country",
+  "display_title": "Contemporary Country",
+  "display_name": "Contemporary Country",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Contemporary Country",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Contemporary_Country",
+  "summary": "Contemporary Country is a 22-volume series issued by Time-Life during the early 1990s, spotlighting country music of the 1970s through mid 1990s.",
+  "candidates": [
+    "Contemporary Country"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Contemporary Country",
+    "page_url": "https://en.wikipedia.org/wiki/Contemporary_Country",
+    "retrieved_at": "2026-03-28T15:54:32Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--contemporary-country.json",
+      "url": "https://en.wikipedia.org/wiki/Contemporary_Country",
+      "retrieved_at": "2026-03-28T15:54:32Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

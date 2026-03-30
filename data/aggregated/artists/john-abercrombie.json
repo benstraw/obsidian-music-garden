@@ -1,0 +1,55 @@
+{
+  "canonical_slug": "john-abercrombie",
+  "name": "John Abercrombie",
+  "play_count": 3,
+  "spotify_artist_id": "1OCdpTg8d7Ehpj8B9j4iqa",
+  "musicbrainz_artist_id": "80c75300-9cf2-4daf-bb23-5fe15964e671",
+  "spotify_url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa",
+  "genres": [
+    "jazz",
+    "jazz-fusion",
+    "rock"
+  ],
+  "source_genres": [
+    "jazz",
+    "jazz fusion",
+    "rock",
+    "rough guide jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/6735e46a40f12ee73c4f61a4ef0692d891f07355",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/17f94b6bb6d837b6614cda3ba6b9f0906c0f9adc",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/17c2d2a0a37071c73cf7312f0520b355b05c32b3",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/bc9367e8760bb72eddec241727ee59cf6dc48e6b",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Joe Abercrombie",
+    "John Abercrombie",
+    "John Abercrombie (congressman)",
+    "John Abercrombie (cricketer)",
+    "John Abercrombie (guitarist)",
+    "John Abercrombie (horticulturist)",
+    "John Abercrombie (physician)",
+    "John Abercrombie / Marc Johnson / Peter Erskine",
+    "John Abercromby (British Army officer)",
+    "John Abercromby, 5th Baron Abercromby"
+  ],
+  "last_updated": "2026-03-28"
+}

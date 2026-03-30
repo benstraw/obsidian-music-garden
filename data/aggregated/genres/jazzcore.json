@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "jazzcore",
+  "display_title": "Jazzcore",
+  "display_name": "Jazzcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Punk jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Punk_jazz",
+  "summary": "Punk jazz is a genre of music that combines elements of jazz, especially improvisation, with the instrumentation and performance style of punk rock. The term was first used to describe James Chance and the Contortions' 1979 album Buy. Punk jazz is closely related to free jazz, no wave, and loft jazz, and has since significantly inspired post-hardcore and alternative hip hop.",
+  "candidates": [
+    "Ja'Corey Brooks",
+    "JaCorey Williams",
+    "Jaz Coleman",
+    "Jazz Orchestra of the Delta",
+    "Jazz Refreshed",
+    "Jazz collections at the University Library of Southern Denmark",
+    "Jazz: Red Hot and Cool",
+    "JazzReggae Festival @ UCLA",
+    "Jazzcore",
+    "Jazzorca"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Punk jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Punk_jazz",
+    "retrieved_at": "2026-03-28T15:57:45Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--jazzcore.json",
+      "url": "https://en.wikipedia.org/wiki/Punk_jazz",
+      "retrieved_at": "2026-03-28T15:57:45Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,7 +1,9 @@
 {
   "canonical_slug": "beastie-boys",
   "name": "Beastie Boys",
+  "play_count": 87,
   "spotify_artist_id": "03r4iKL2g2442PT9n2UKsx",
+  "musicbrainz_artist_id": "9beb62b2-88db-4cea-801e-162cd344ee53",
   "spotify_url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx",
   "genres": [
     "east-coast-hip-hop",
@@ -133,5 +135,5 @@
       "author": "Michael Morel"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

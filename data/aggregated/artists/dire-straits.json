@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "dire-straits",
+  "name": "Dire Straits",
+  "play_count": 9,
+  "spotify_artist_id": "0WwSkZ7LtFUFjGjMZBMt6T",
+  "spotify_url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T",
+  "genres": [
+    "classic-rock"
+  ],
+  "source_genres": [
+    "classic rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4bdaa8c5e65b64f50549c393",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744bdaa8c5e65b64f50549c393",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784bdaa8c5e65b64f50549c393",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-29"
+}

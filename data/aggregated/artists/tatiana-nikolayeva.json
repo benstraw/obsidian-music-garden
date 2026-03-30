@@ -1,0 +1,72 @@
+{
+  "canonical_slug": "tatiana-nikolayeva",
+  "name": "Tatiana Nikolayeva",
+  "spotify_artist_id": "6DLkqUf81qiaGPUYEep6Gb",
+  "spotify_url": "https://open.spotify.com/artist/6DLkqUf81qiaGPUYEep6Gb",
+  "source_genres": [
+    "historic piano performance",
+    "russian classical piano"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273cf05ab907703c0f4f59ee609",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02cf05ab907703c0f4f59ee609",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851cf05ab907703c0f4f59ee609",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Tatiana Nikolayeva",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tatiana_Nikolayeva",
+  "summary": "Tatiana Petrovna Nikolayeva was a Soviet and Russian pianist, composer, and teacher.",
+  "candidates": [
+    "Tatiana Nikolaevna Yusupova",
+    "Tatiana Nikolayeva",
+    "Tatiana Nikolayevna Romanova",
+    "Tatyana Nikolayeva (politician)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tatiana Nikolayeva",
+    "page_url": "https://en.wikipedia.org/wiki/Tatiana_Nikolayeva",
+    "retrieved_at": "2026-03-28T10:42:59Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bundesarchiv Bild 183-43183-0003, Moskau, Konzert Leipziger Gewandhausorchester (Tatiana Nikolayeva – cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-43183-0003,_Moskau,_Konzert_Leipziger_Gewandhausorchester_(Tatiana_Nikolayeva_%E2%80%93_cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bundesarchiv_Bild_183-43183-0003%2C_Moskau%2C_Konzert_Leipziger_Gewandhausorchester_%28Tatiana_Nikolayeva_%E2%80%93_cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bundesarchiv_Bild_183-43183-0003%2C_Moskau%2C_Konzert_Leipziger_Gewandhausorchester_%28Tatiana_Nikolayeva_%E2%80%93_cropped%29.jpg",
+    "width": 145,
+    "height": 218,
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "\u003cdiv class=\"fn value\"\u003e\nUnknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e\u003c/div\u003e",
+    "attribution_text": "Bundesarchiv, Bild 183-43183-0003 / CC-BY-SA 3.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bundesarchiv Bild 183-43183-0003, Moskau, Konzert Leipziger Gewandhausorchester (Tatiana Nikolayeva – cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-43183-0003,_Moskau,_Konzert_Leipziger_Gewandhausorchester_(Tatiana_Nikolayeva_%E2%80%93_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bundesarchiv_Bild_183-43183-0003%2C_Moskau%2C_Konzert_Leipziger_Gewandhausorchester_%28Tatiana_Nikolayeva_%E2%80%93_cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bundesarchiv_Bild_183-43183-0003%2C_Moskau%2C_Konzert_Leipziger_Gewandhausorchester_%28Tatiana_Nikolayeva_%E2%80%93_cropped%29.jpg",
+      "width": 145,
+      "height": 218,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nUnknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e\u003c/div\u003e",
+      "attribution_text": "Bundesarchiv, Bild 183-43183-0003 / CC-BY-SA 3.0"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

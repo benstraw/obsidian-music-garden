@@ -1,0 +1,51 @@
+{
+  "canonical_slug": "pure-x",
+  "name": "Pure X",
+  "play_count": 4,
+  "spotify_artist_id": "1jofoMyHK5JjLIESpm991n",
+  "musicbrainz_artist_id": "055c7b6e-8dc9-46f1-a8c0-cc868266306c",
+  "spotify_url": "https://open.spotify.com/artist/1jofoMyHK5JjLIESpm991n",
+  "genres": [
+    "indie-rock",
+    "psychedelic-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "indie rock",
+    "lo-fi",
+    "psychedelic rock",
+    "rock",
+    "shoegaze"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf4ac2a5fbfa050161aaefc50",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f4ac2a5fbfa050161aaefc50",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f4ac2a5fbfa050161aaefc50",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "PUREX",
+    "Pure Xbox",
+    "PureXML",
+    "Purex",
+    "Purex (bathroom tissue)",
+    "Purex (earwig)",
+    "Purex (laundry detergent)",
+    "Purex Crystals",
+    "Purex Specials for Women",
+    "Purex/Dial Indy 200"
+  ],
+  "last_updated": "2026-03-28"
+}

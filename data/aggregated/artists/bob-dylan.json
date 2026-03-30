@@ -1,7 +1,9 @@
 {
   "canonical_slug": "bob-dylan",
   "name": "Bob Dylan",
+  "play_count": 46,
   "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+  "musicbrainz_artist_id": "72c536dc-7137-4477-a521-567eeb840fa8",
   "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX",
   "genres": [
     "country-rock",
@@ -110,5 +112,5 @@
       "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

@@ -1,0 +1,57 @@
+{
+  "source": "spotify",
+  "source_artist_id": "0pm0LWiklLtNXUP2GVwdqY",
+  "name": "Marc-André Hamelin",
+  "spotify_url": "https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY",
+  "musicbrainz_artist_id": "28bdba1f-35c9-4c13-a728-7a72ea37b3ea",
+  "source_genres": [
+    "canadian",
+    "canadian pianist",
+    "classical",
+    "piano",
+    "western classical"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Marc-André Hamelin",
+  "summary": "Marc-André Hamelin, OC, OQ is a Canadian virtuoso pianist and composer who has received 11 Grammy Award nominations. He is on the faculty of the New England Conservatory of Music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_Hamelin",
+  "candidates": [
+    "Marc-André Hamelin",
+    "Marc-André Hamelin discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Marc-André Hamelin",
+    "page_url": "https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_Hamelin",
+    "retrieved_at": "2026-03-28T10:41:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Marc-André Hamelin in Chicago.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Marc-Andr%C3%A9_Hamelin_in_Chicago.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marc-Andr%C3%A9_Hamelin_in_Chicago.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marc-Andr%C3%A9_Hamelin_in_Chicago.jpg",
+    "width": 843,
+    "height": 1041,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Pianolover1979\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Pianolover1979 (page does not exist)\"\u003ePianolover1979\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Marc-André Hamelin in Chicago.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Marc-Andr%C3%A9_Hamelin_in_Chicago.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marc-Andr%C3%A9_Hamelin_in_Chicago.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marc-Andr%C3%A9_Hamelin_in_Chicago.jpg",
+      "width": 843,
+      "height": 1041,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Pianolover1979\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Pianolover1979 (page does not exist)\"\u003ePianolover1979\u003c/a\u003e"
+    }
+  ]
+}

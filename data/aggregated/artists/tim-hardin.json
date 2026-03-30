@@ -1,0 +1,101 @@
+{
+  "canonical_slug": "tim-hardin",
+  "name": "Tim Hardin",
+  "play_count": 44,
+  "spotify_artist_id": "39GVRVaqlKh7JL8Yl5ZKcb",
+  "musicbrainz_artist_id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+  "spotify_url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb",
+  "genres": [
+    "blues",
+    "folk",
+    "folk-rock",
+    "jazz",
+    "rock"
+  ],
+  "source_genres": [
+    "blues",
+    "folk",
+    "folk rock",
+    "jazz",
+    "pop male singer-songwriter",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/f261fdf97f3afbb46df899eec9ab9b23ffb2bf72",
+      "height": 1551,
+      "width": 981
+    },
+    {
+      "url": "https://i.scdn.co/image/b3a15e3a14ecc71e62795f40acd2380e303f2036",
+      "height": 1012,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/9cb4369639ab1abeba597ec2f8344ad2653c9888",
+      "height": 316,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/b20f0b3cd08667b1297f5d1cd256e5ad5982e37f",
+      "height": 101,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Tim Hardin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Hardin",
+  "summary": "James Timothy Hardin was an American folk music and blues singer-songwriter and guitarist. In addition to his own success, his songs \"If I Were a Carpenter\", \"Reason to Believe\", \"Misty Roses\" and \"The Lady Came from Baltimore\" were hits for other artists.",
+  "candidates": [
+    "This Is Tim Hardin",
+    "Tim Hardaway Jr.",
+    "Tim Hardin",
+    "Tim Hardin 1",
+    "Tim Hardin 2",
+    "Tim Hardin 3 Live in Concert",
+    "Tim Hardin 4",
+    "Tim Harding",
+    "Tim Harding (chess player)",
+    "Tim Harding (musician)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tim Hardin",
+    "page_url": "https://en.wikipedia.org/wiki/Tim_Hardin",
+    "retrieved_at": "2026-03-28T10:43:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:P vip.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+    "width": 1911,
+    "height": 1944,
+    "license": "Public domain"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tim Hardin.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Tim_Hardin.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tim_Hardin.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Tim_Hardin.png",
+      "width": 358,
+      "height": 364,
+      "license": "Public domain",
+      "author": "Columbia Records"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

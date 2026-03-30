@@ -1,0 +1,89 @@
+{
+  "canonical_slug": "new-rave",
+  "display_title": "New Rave",
+  "display_name": "New Rave",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "New rave",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_rave",
+  "summary": "New rave is a microgenre of indie rock and alternative dance coined by Klaxons founder Jamie Reynolds to describe a British alternative music scene that emerged between 2005 and late 2008. Characterized by fast-paced electronica-influenced indie music that drew influences from 1980s Madchester and rave scenes. The genre influenced the development of blog-related music scenes such as bloghouse and blog rock.",
+  "candidates": [
+    "NEW Ravens",
+    "New Age",
+    "New Caledonia",
+    "New Haven, Connecticut",
+    "New Radicals",
+    "New Zealand",
+    "New rave",
+    "New religious movement",
+    "New wave music",
+    "The New Republic"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "New rave",
+    "page_url": "https://en.wikipedia.org/wiki/New_rave",
+    "retrieved_at": "2026-03-28T15:58:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Klaxons Queens May Ball 2007.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Klaxons_Queens_May_Ball_2007.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Klaxons_Queens_May_Ball_2007.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Klaxons_Queens_May_Ball_2007.jpg/960px-Klaxons_Queens_May_Ball_2007.jpg",
+    "width": 2048,
+    "height": 1536,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Zephyris\" class=\"extiw\" title=\"en:User:Zephyris\"\u003eUser:Zephyris\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Zephyris\" class=\"extiw\" title=\"en:User:Zephyris\"\u003eZephyris\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Klaxons Queens May Ball 2007.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Klaxons_Queens_May_Ball_2007.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Klaxons_Queens_May_Ball_2007.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Klaxons_Queens_May_Ball_2007.jpg/960px-Klaxons_Queens_May_Ball_2007.jpg",
+      "width": 2048,
+      "height": 1536,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Zephyris\" class=\"extiw\" title=\"en:User:Zephyris\"\u003eUser:Zephyris\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Zephyris\" class=\"extiw\" title=\"en:User:Zephyris\"\u003eZephyris\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--new-rave.json",
+      "url": "https://en.wikipedia.org/wiki/New_rave",
+      "retrieved_at": "2026-03-28T15:58:50Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--new-rave.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Klaxons_Queens_May_Ball_2007.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

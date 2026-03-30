@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "hurray-for-the-riff-raff",
+  "name": "Hurray For The Riff Raff",
+  "play_count": 4,
+  "spotify_artist_id": "2xLEV2jDreAOcpJXFNoXyt",
+  "musicbrainz_artist_id": "b053efc9-e8ea-474a-981f-a3c6fffcc694",
+  "spotify_url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt",
+  "genres": [
+    "blues"
+  ],
+  "source_genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe34232307221c4e0f77be5fa",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e34232307221c4e0f77be5fa",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e34232307221c4e0f77be5fa",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Hurray for the Riff Raff",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hurray_for_the_Riff_Raff",
+  "summary": "Hurray for the Riff Raff is an American band formed in New Orleans in 2007 by Alynda Segarra, a singer-songwriter from the Bronx, New York.",
+  "candidates": [
+    "Hurray for the Riff Raff"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Hurray for the Riff Raff",
+    "page_url": "https://en.wikipedia.org/wiki/Hurray_for_the_Riff_Raff",
+    "retrieved_at": "2026-03-28T10:39:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2014 Pop Conference - Alynda Lee Segarra 05.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg/960px-2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg",
+    "width": 4040,
+    "height": 2617,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\"\u003eJoe Mabel\u003c/a\u003e",
+    "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\"\u003eJoe Mabel\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2014 Pop Conference - Alynda Lee Segarra 05.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg/960px-2014_Pop_Conference_-_Alynda_Lee_Segarra_05.jpg",
+      "width": 4040,
+      "height": 2617,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\"\u003eJoe Mabel\u003c/a\u003e",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jmabel\" title=\"User:Jmabel\"\u003eJoe Mabel\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hurray for the Riff Raff - Haldern Pop Festival 2017-12.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hurray_for_the_Riff_Raff_-_Haldern_Pop_Festival_2017-12.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hurray_for_the_Riff_Raff_-_Haldern_Pop_Festival_2017-12.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hurray_for_the_Riff_Raff_-_Haldern_Pop_Festival_2017-12.jpg/960px-Hurray_for_the_Riff_Raff_-_Haldern_Pop_Festival_2017-12.jpg",
+      "width": 4354,
+      "height": 2903,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"https://de.wikipedia.org/wiki/Benutzer:Jukebox_Romeo\" class=\"extiw\" title=\"de:Benutzer:Jukebox Romeo\"\u003eMartin Schumann / Wikipedia\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,75 @@
+{
+  "canonical_slug": "freddie-hart",
+  "name": "Freddie Hart",
+  "spotify_artist_id": "2cyENLzpUJ2GfZJwmWxlI4",
+  "musicbrainz_artist_id": "653d14e5-58ce-4596-a1d3-364c64564b09",
+  "spotify_url": "https://open.spotify.com/artist/2cyENLzpUJ2GfZJwmWxlI4",
+  "genres": [
+    "country",
+    "singer-songwriter"
+  ],
+  "source_genres": [
+    "2008 universal fire victim",
+    "country",
+    "singer-songwriter"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Freddie Hart",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Freddie_Hart",
+  "summary": "Frederick Segrest, known professionally as Freddie Hart, was an American country musician and songwriter best known for his chart-topping country song and lone pop hit \"Easy Loving\", which won the Country Music Association Song of the Year award in 1971 and 1972. Hart charted singles from 1953 to 1987, and later became a gospel singer. He also performed at music festivals and other venues until his death in 2018.",
+  "candidates": [
+    "Freddie Barnes",
+    "Freddie Bartholomew",
+    "Freddie Garrity",
+    "Freddie Hart",
+    "Freddie Hunt",
+    "Freddie Martino",
+    "Freddie Patek",
+    "Freddy Eastwood",
+    "Freddy Maertens",
+    "Freddy Martin"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Freddie Hart",
+    "page_url": "https://en.wikipedia.org/wiki/Freddie_Hart",
+    "retrieved_at": "2026-03-28T10:39:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Freddie Hart.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Freddie_Hart.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Freddie_Hart.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Freddie_Hart.png",
+    "width": 171,
+    "height": 239,
+    "license": "Public domain",
+    "author": "Omac Artists Corp."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Freddie Hart.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Freddie_Hart.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Freddie_Hart.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Freddie_Hart.png",
+      "width": 171,
+      "height": 239,
+      "license": "Public domain",
+      "author": "Omac Artists Corp."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

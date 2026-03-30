@@ -1,0 +1,15 @@
+{
+  "source": "spotify",
+  "source_track_id": "6YCAJqpG0uSZSwidZODdjW",
+  "name": "Fran-Dance (feat. John Coltrane, Cannonball Adderley \u0026 Bill Evans)",
+  "primary_artist_name": "Miles Davis",
+  "primary_artist_canonical_slug": "miles-davis",
+  "additional_artist_slugs": [
+    "john-coltrane",
+    "cannonball-adderley",
+    "bill-evans"
+  ],
+  "release_name": "Kind Of Blue (Legacy Edition)",
+  "release_canonical_slug": "miles-davis--kind-of-blue-legacy-edition",
+  "spotify_url": "https://open.spotify.com/track/6YCAJqpG0uSZSwidZODdjW"
+}

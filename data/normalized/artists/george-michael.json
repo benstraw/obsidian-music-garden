@@ -1,0 +1,112 @@
+{
+  "source": "spotify",
+  "source_artist_id": "19ra5tSw0tWufvUp8GotLo",
+  "name": "George Michael",
+  "spotify_url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo",
+  "musicbrainz_artist_id": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+  "source_genres": [
+    "electronic",
+    "pop",
+    "rock",
+    "synth-pop"
+  ],
+  "canonical_genre_slugs": [
+    "electronic",
+    "pop",
+    "rock"
+  ],
+  "status": "matched",
+  "page_title": "George Michael",
+  "summary": "George Michael was an English singer-songwriter and record producer. Regarded as a pop culture icon, he is one of the best-selling recording artists of all time. Michael was known as a creative force in songwriting, vocal performance, and visual presentation. He was inducted into the Rock and Roll Hall of Fame in 2023. The Radio Academy named him the most played artist on British radio during the period 1984–2004.",
+  "canonical_url": "https://en.wikipedia.org/wiki/George_Michael",
+  "candidates": [
+    "Georg Michael Pachtler",
+    "George Michael",
+    "George Michael (academic)",
+    "George Michael (sportscaster)",
+    "George Michael Butterworth",
+    "George Michael Cuomo",
+    "George Michael discography",
+    "George Michael: A Different Story",
+    "Michael Carl George",
+    "The George Michael Sports Machine"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "George Michael",
+    "page_url": "https://en.wikipedia.org/wiki/George_Michael",
+    "retrieved_at": "2026-03-28T10:39:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:5 The Grove, Highgate.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:5_The_Grove,_Highgate.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/5_The_Grove%2C_Highgate.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/5_The_Grove%2C_Highgate.jpg/960px-5_The_Grove%2C_Highgate.jpg",
+    "width": 2720,
+    "height": 2056,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:No_Swan_So_Fine\" title=\"User:No Swan So Fine\"\u003eUser:No Swan So Fine\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:5 The Grove, Highgate.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:5_The_Grove,_Highgate.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/5_The_Grove%2C_Highgate.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/5_The_Grove%2C_Highgate.jpg/960px-5_The_Grove%2C_Highgate.jpg",
+      "width": 2720,
+      "height": 2056,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:No_Swan_So_Fine\" title=\"User:No Swan So Fine\"\u003eUser:No Swan So Fine\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio-input-microphone.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "width": 128,
+      "height": 128,
+      "license": "GPL",
+      "license_url": "http://www.gnu.org/licenses/gpl.html",
+      "author": "DBGthekafu"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Elton John - Twickenham Stoop - Saturday 3rd June 2017 EltonTwicStoop030617-14 (34287287133).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Elton_John_-_Twickenham_Stoop_-_Saturday_3rd_June_2017_EltonTwicStoop030617-14_(34287287133).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Elton_John_-_Twickenham_Stoop_-_Saturday_3rd_June_2017_EltonTwicStoop030617-14_%2834287287133%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Elton_John_-_Twickenham_Stoop_-_Saturday_3rd_June_2017_EltonTwicStoop030617-14_%2834287287133%29.jpg/960px-Elton_John_-_Twickenham_Stoop_-_Saturday_3rd_June_2017_EltonTwicStoop030617-14_%2834287287133%29.jpg",
+      "width": 5103,
+      "height": 2899,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of the United Kingdom.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/960px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+      "width": 1000,
+      "height": 600,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:George-michael-autograph.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:George-michael-autograph.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/George-michael-autograph.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/George-michael-autograph.svg/960px-George-michael-autograph.svg.png",
+      "width": 512,
+      "height": 503,
+      "license": "Public domain",
+      "author": "George Michael"
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "7lJLYTHfQ1MF7Z88SebX7b",
   "name": "Diamonds in the Rough",
   "primary_artist_name": "John Prine",
-  "primary_artist_canonical_slug": "john-prine"
+  "primary_artist_canonical_slug": "john-prine",
+  "musicbrainz_release_id": "19d553b4-5d00-4998-8a94-a38224888400",
+  "musicbrainz_release_group_id": "ed3daa9c-4974-311d-9686-f5b0c547bffb"
 }

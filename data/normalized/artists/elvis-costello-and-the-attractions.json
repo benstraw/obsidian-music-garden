@@ -3,13 +3,31 @@
   "source_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
   "name": "Elvis Costello \u0026 The Attractions",
   "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH",
+  "musicbrainz_artist_id": "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
   "source_genres": [
+    "alternative/indie rock",
+    "classical",
+    "college rock",
+    "country",
+    "country rock",
+    "country-rock",
     "new wave",
-    "power pop"
+    "pop",
+    "pop rock",
+    "pop/rock",
+    "power pop",
+    "punk/new wave",
+    "rock"
   ],
   "canonical_genre_slugs": [
+    "alternative-rock",
+    "classical",
+    "country",
+    "country-rock",
     "new-wave",
-    "power-pop"
+    "pop",
+    "power-pop",
+    "rock"
   ],
   "status": "matched",
   "page_title": "Elvis Costello",

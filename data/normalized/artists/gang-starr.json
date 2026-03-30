@@ -1,0 +1,74 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5cMgGlA1xGyeAB2ctYlRdZ",
+  "name": "Gang Starr",
+  "spotify_url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ",
+  "musicbrainz_artist_id": "9ef8042a-2528-4f5c-b7c1-5e72b1efe170",
+  "source_genres": [
+    "hip hop",
+    "hip-hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Gang Starr",
+  "summary": "Gang Starr was an American hip hop duo, consisting of Houston-born record producer DJ Premier and Boston-based rapper Guru.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Gang_Starr",
+  "candidates": [
+    "Gang Garrison 2",
+    "Gang Starr",
+    "Gang Starr discography",
+    "Gang Starz",
+    "Gang stalking",
+    "Gangsta rap",
+    "Gangstagrass",
+    "Gangstar Rio: City Of Saints",
+    "Gangstar Rio: City of Saints",
+    "The Gang Carries a Corpse Up a Mountain"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gang Starr",
+    "page_url": "https://en.wikipedia.org/wiki/Gang_Starr",
+    "retrieved_at": "2026-03-28T10:39:09Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Gangstarr-08-mika (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Gangstarr-08-mika_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gangstarr-08-mika_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gangstarr-08-mika_%28cropped%29.jpg",
+    "width": 533,
+    "height": 372,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gangstarr-08-mika (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gangstarr-08-mika_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gangstarr-08-mika_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gangstarr-08-mika_%28cropped%29.jpg",
+      "width": 533,
+      "height": 372,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Mika-photography\" title=\"User:Mika-photography\"\u003eMika-photography\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gangstarr-09.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gangstarr-09.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Gangstarr-09.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gangstarr-09.jpg/960px-Gangstarr-09.jpg",
+      "width": 1500,
+      "height": 1502,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Mika Väisänen"
+    }
+  ]
+}

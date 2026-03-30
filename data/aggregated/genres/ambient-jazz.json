@@ -6,7 +6,8 @@
   "aliases": [
     "ambient jazz"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "not_found",
   "listening_stats": {
     "source": "spotify-local-plays",
@@ -23,6 +24,7 @@
       "name": "André 3000",
       "play_count": 7,
       "spotify_artist_id": "74V3dE1a51skRkdII8y2C6",
+      "musicbrainz_artist_id": "f563a1a9-069b-41ed-8b3b-e1b1a6f5b34b",
       "spotify_url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
     },
     {
@@ -30,6 +32,7 @@
       "name": "Nala Sinephro",
       "play_count": 2,
       "spotify_artist_id": "2h5syT5XdsQgKLq8Yn1klO",
+      "musicbrainz_artist_id": "46a4b150-be30-44b3-a337-e06a72657d33",
       "spotify_url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
     },
     {
@@ -37,6 +40,7 @@
       "name": "Shabaka",
       "play_count": 1,
       "spotify_artist_id": "6ywMpa6AmGJpV5Sbyy58Js",
+      "musicbrainz_artist_id": "5b0f26cc-1203-49d8-abe2-90bec87a2e71",
       "spotify_url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
     }
   ],
@@ -46,28 +50,38 @@
       "name": "7 piano sketches",
       "play_count": 7,
       "primary_artist_canonical_slug": "andré-3000",
-      "primary_artist_name": "André 3000"
+      "primary_artist_name": "André 3000",
+      "spotify_album_id": "3u952Zxzx60qhCoohKSf5k",
+      "musicbrainz_release_id": "e700c29d-956e-4cfa-8b08-2977a6157013",
+      "musicbrainz_release_group_id": "2543eccd-8765-4f2f-b7bc-ce20314e8dbe"
     },
     {
       "canonical_slug": "shabaka--afrikan-culture",
       "name": "Afrikan Culture",
       "play_count": 1,
       "primary_artist_canonical_slug": "shabaka",
-      "primary_artist_name": "Shabaka"
+      "primary_artist_name": "Shabaka Hutchings",
+      "spotify_album_id": "5fFftOUCiSbNfofIj8vXx0",
+      "musicbrainz_release_id": "653fc811-5195-468d-bdb6-2dcf7aff178f",
+      "musicbrainz_release_group_id": "3af8fc95-a0e8-4410-af28-92ec928d59c8"
     },
     {
       "canonical_slug": "nala-sinephro--endlessness",
       "name": "Endlessness",
       "play_count": 1,
       "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro"
+      "primary_artist_name": "Nala Sinephro",
+      "spotify_album_id": "51CQQ3tQLRZlZJZ5jcpoGE"
     },
     {
       "canonical_slug": "nala-sinephro--space-1-8",
       "name": "Space 1.8",
       "play_count": 1,
       "primary_artist_canonical_slug": "nala-sinephro",
-      "primary_artist_name": "Nala Sinephro"
+      "primary_artist_name": "Nala Sinephro",
+      "spotify_album_id": "51HFfu3GhuXa4VUnlpJJy8",
+      "musicbrainz_release_id": "031e01a2-e4d4-45f6-aa6e-1b1b458cfbea",
+      "musicbrainz_release_group_id": "2458a981-bc0e-4359-8f3b-b53c25ed4830"
     }
   ],
   "top_tracks": [
@@ -190,6 +204,12 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -197,5 +217,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

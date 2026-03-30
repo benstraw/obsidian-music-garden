@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "44guTOKmNEEMt97tWGxl1p",
   "name": "Tell Me",
-  "primary_artist_name": "Peech.",
-  "primary_artist_canonical_slug": "peech"
+  "primary_artist_name": "Peech",
+  "primary_artist_canonical_slug": "peech",
+  "musicbrainz_release_id": "858ba428-bfa4-409b-83f9-cba1fef77f38",
+  "musicbrainz_release_group_id": "2cfca4ea-51bc-4df4-b9b6-4bfd6eb713c7"
 }

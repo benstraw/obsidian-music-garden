@@ -1,0 +1,128 @@
+{
+  "canonical_slug": "27-club",
+  "display_title": "27 Club",
+  "display_name": "27 Club",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "27 Club",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/27_Club",
+  "summary": "The 27 Club is an informal list consisting mostly of popular musicians who died at age 27. Although the claim of a \"statistical spike\" for the death of musicians at that age has been refuted by scientific research, it remains a common cultural conception that the phenomenon exists, with many celebrities who die at 27 noted for their high-risk lifestyles.",
+  "candidates": [
+    "2007 Club Olimpia season",
+    "2007 Clube Náutico Capibaribe season",
+    "2017 Club Universitario de Deportes season",
+    "2017 Clube Náutico Capibaribe season",
+    "2017 Clube do Remo season",
+    "21 Club",
+    "27 Club",
+    "27 Club (Morgan Wade song)",
+    "27 Club graffiti in Tel Aviv",
+    "2AM Club"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "27 Club",
+    "page_url": "https://en.wikipedia.org/wiki/27_Club",
+    "retrieved_at": "2026-03-28T15:52:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Edit-clear.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+    "width": 48,
+    "height": 48,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Edit-clear.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edit-clear.svg/960px-Edit-clear.svg.png",
+      "width": 48,
+      "height": 48,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://tango.freedesktop.org/The_People\"\u003eThe people from the Tango! project\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Hendrix, Joplin and Morrison - The Atlanta Constitution (1977).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Hendrix,_Joplin_and_Morrison_-_The_Atlanta_Constitution_(1977).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hendrix%2C_Joplin_and_Morrison_-_The_Atlanta_Constitution_%281977%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hendrix%2C_Joplin_and_Morrison_-_The_Atlanta_Constitution_%281977%29.jpg/960px-Hendrix%2C_Joplin_and_Morrison_-_The_Atlanta_Constitution_%281977%29.jpg",
+      "width": 2331,
+      "height": 3083,
+      "license": "Public domain",
+      "author": "The Atlanta Constitution"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jim Morrison 1969.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jim_Morrison_1969.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jim_Morrison_1969.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Jim_Morrison_1969.JPG",
+      "width": 658,
+      "height": 877,
+      "license": "Public domain",
+      "author": "Elektra Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:P vip.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/960px-P_vip.svg.png",
+      "width": 1911,
+      "height": 1944,
+      "license": "Public domain"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--27-club.json",
+      "url": "https://en.wikipedia.org/wiki/27_Club",
+      "retrieved_at": "2026-03-28T15:52:34Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--27-club.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

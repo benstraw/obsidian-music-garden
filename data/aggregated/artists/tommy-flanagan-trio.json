@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "tommy-flanagan-trio",
+  "name": "Tommy Flanagan Trio",
+  "play_count": 9,
+  "spotify_artist_id": "5N8jNQsfW9SHBkhVqqnXbU",
+  "musicbrainz_artist_id": "c3f67a7a-57b5-4162-8d95-e9e1d2ed3d9c",
+  "spotify_url": "https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273e64667b70edf1233bbc498b3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02e64667b70edf1233bbc498b3",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851e64667b70edf1233bbc498b3",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "The Tommy Flanagan Trio",
+    "Tommy Flanagan Tokyo Recital",
+    "Tommy Flanagan Trio and Sextet"
+  ],
+  "last_updated": "2026-03-28"
+}

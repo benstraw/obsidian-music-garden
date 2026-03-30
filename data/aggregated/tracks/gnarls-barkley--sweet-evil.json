@@ -1,11 +1,15 @@
 {
   "canonical_slug": "gnarls-barkley--sweet-evil",
   "name": "Sweet Evil",
+  "play_count": 2,
   "primary_artist_canonical_slug": "gnarls-barkley",
   "primary_artist_name": "Gnarls Barkley",
+  "additional_artist_slugs": [
+    "ceelo-green",
+    "danger-mouse"
+  ],
   "release_canonical_slug": "gnarls-barkley--atlanta",
   "release_name": "Atlanta",
   "spotify_track_id": "3MEMGDxDX8RlwFm8ddvFRx",
-  "spotify_url": "https://open.spotify.com/track/3MEMGDxDX8RlwFm8ddvFRx",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/3MEMGDxDX8RlwFm8ddvFRx"
 }

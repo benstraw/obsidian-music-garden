@@ -6,7 +6,8 @@
   "aliases": [
     "blues rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Blues rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Blues_rock",
@@ -68,89 +69,301 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 4,
-    "unique_artist_count": 2,
-    "unique_release_count": 2,
-    "unique_track_count": 4,
-    "first_played_at": "2026-03-03T04:28:02.516Z",
-    "last_played_at": "2026-03-19T02:11:24.325Z"
+    "play_count": 212,
+    "unique_artist_count": 11,
+    "unique_release_count": 35,
+    "unique_track_count": 146,
+    "first_played_at": "2024-01-01T00:00:00.245353071Z",
+    "last_played_at": "2026-03-29T04:21:25.545Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "jimi-hendrix",
-      "name": "Jimi Hendrix",
-      "play_count": 3,
-      "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
-      "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+      "canonical_slug": "howlin-wolf",
+      "name": "Howlin' Wolf",
+      "play_count": 122,
+      "spotify_artist_id": "0Wxy5Qka8BN9crcFkiAxSR",
+      "musicbrainz_artist_id": "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
+      "spotify_url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+    },
+    {
+      "canonical_slug": "allman-brothers-band",
+      "name": "Allman Brothers Band",
+      "play_count": 22,
+      "spotify_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+      "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+      "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
     },
     {
       "canonical_slug": "j-j-cale",
       "name": "J.J. Cale",
-      "play_count": 1,
+      "play_count": 19,
       "spotify_artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
+      "musicbrainz_artist_id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
       "spotify_url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+    },
+    {
+      "canonical_slug": "the-gun-club",
+      "name": "The Gun Club",
+      "play_count": 11,
+      "spotify_artist_id": "3Un18X4NF1bpjgUk44lUzn",
+      "musicbrainz_artist_id": "e78cc47f-9b89-4ef7-86f8-8f9df4f9dac9",
+      "spotify_url": "https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn"
+    },
+    {
+      "canonical_slug": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "play_count": 10,
+      "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "musicbrainz_artist_id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
+      "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+    },
+    {
+      "canonical_slug": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "play_count": 8,
+      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+      "musicbrainz_artist_id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+    },
+    {
+      "canonical_slug": "cream",
+      "name": "Cream",
+      "play_count": 5,
+      "spotify_artist_id": "74oJ4qxwOZvX6oSsu1DGnw",
+      "musicbrainz_artist_id": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+      "spotify_url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+    },
+    {
+      "canonical_slug": "the-animals",
+      "name": "The Animals",
+      "play_count": 5,
+      "spotify_artist_id": "3ICflSq6ZgYAIrm2CTkfVP",
+      "musicbrainz_artist_id": "4d8afa16-4018-4ca8-8b5e-ede8f9314562",
+      "spotify_url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+    },
+    {
+      "canonical_slug": "the-black-keys",
+      "name": "The Black Keys",
+      "play_count": 5,
+      "spotify_artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+      "musicbrainz_artist_id": "d15721d8-56b4-453d-b506-fc915b14cba2",
+      "spotify_url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+    },
+    {
+      "canonical_slug": "shuggie-otis",
+      "name": "Shuggie Otis",
+      "play_count": 4,
+      "spotify_artist_id": "4YHtIE7FI8ITfekzzN5Jpl",
+      "musicbrainz_artist_id": "ff9542ca-7859-4db2-8796-c1e3c39b9c0a",
+      "spotify_url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "name": "Axis: Bold As Love",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix"
+      "canonical_slug": "howlin-wolf--the-chess-box",
+      "name": "The Chess Box",
+      "play_count": 98,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin’ Wolf",
+      "spotify_album_id": "23Tl49tunn9g2e9YWC2y7B",
+      "musicbrainz_release_id": "3d9876bc-7299-462d-8061-bb0eae6b50e8",
+      "musicbrainz_release_group_id": "0337b3e2-1461-3fc7-9fb8-79e307728511"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "name": "Where It All Begins",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "3OhZTb3unARrvpYc0STkFM",
+      "musicbrainz_release_id": "85950dc1-5e45-4504-816d-582106bf46b9",
+      "musicbrainz_release_group_id": "1acf4af2-3d72-3101-b722-282f94222007"
+    },
+    {
+      "canonical_slug": "howlin-wolf--howlin-wolf",
+      "name": "Howlin' Wolf",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin’ Wolf",
+      "spotify_album_id": "26TtzBrPdUkHMSTPSbctbl",
+      "musicbrainz_release_id": "c290d991-2816-40d1-ad26-67b72cff7723",
+      "musicbrainz_release_group_id": "5472bafe-0beb-3d81-87b5-e5db677becbf"
     },
     {
       "canonical_slug": "j-j-cale--naturally",
       "name": "Naturally",
-      "play_count": 1,
+      "play_count": 10,
       "primary_artist_canonical_slug": "j-j-cale",
-      "primary_artist_name": "J.J. Cale"
+      "primary_artist_name": "J.J. Cale",
+      "spotify_album_id": "3cpNHI7xhNIosF9WjSk8Zh",
+      "musicbrainz_release_id": "1b335bbf-03cd-4d9c-84d5-9b4972385989",
+      "musicbrainz_release_group_id": "a5e655a1-acd0-3d4d-982a-4ab5281db04c"
+    },
+    {
+      "canonical_slug": "howlin-wolf--the-real-folk-blues",
+      "name": "The Real Folk Blues",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin’ Wolf",
+      "spotify_album_id": "02H7GlBPL5ur7WBXHna8W0",
+      "musicbrainz_release_id": "c89e6c6c-6b6f-4149-a846-a46ad9c39830",
+      "musicbrainz_release_group_id": "28f17879-d3ae-3c03-be5e-04825895730e"
+    },
+    {
+      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
+      "name": "Axis: Bold As Love",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "jimi-hendrix",
+      "primary_artist_name": "The Jimi Hendrix Experience",
+      "spotify_album_id": "3uFZf8rykoHo7XMIQVYW6r",
+      "musicbrainz_release_id": "a2662ae2-f06b-3cdd-892f-596646c03558",
+      "musicbrainz_release_group_id": "d0b1e21e-cef6-4575-8d92-1afea1894ca3"
+    },
+    {
+      "canonical_slug": "the-gun-club--fire-of-love-remastered-2020",
+      "name": "Fire of Love (Remastered 2020)",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "the-gun-club",
+      "primary_artist_name": "The Gun Club",
+      "spotify_album_id": "14LxwpAPXrY2RrfZoiAIZu"
+    },
+    {
+      "canonical_slug": "cream--disraeli-gears-deluxe-edition",
+      "name": "Disraeli Gears (Deluxe Edition)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "cream",
+      "primary_artist_name": "Cream",
+      "spotify_album_id": "3W6CI0Lw7lElAPID2Fd3B4"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--eat-a-peach",
+      "name": "Eat A Peach",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "6D9I7GZsqc3pwDg3DFrtjs",
+      "musicbrainz_release_id": "7cb2fcca-3e69-4c95-9448-f9295d803e0c",
+      "musicbrainz_release_group_id": "0b1189ad-0bdf-34bc-89e4-ff05133ec51b"
+    },
+    {
+      "canonical_slug": "the-gun-club--miami-remastered-2020",
+      "name": "Miami (Remastered 2020)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-gun-club",
+      "primary_artist_name": "The Gun Club",
+      "spotify_album_id": "13VswLN6aR21TxQPNMbJdo"
     }
   ],
   "top_tracks": [
     {
+      "canonical_slug": "howlin-wolf--killing-floor",
+      "name": "Killing Floor",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-real-folk-blues",
+      "release_name": "The Real Folk Blues",
+      "spotify_track_id": "1a8vVeidOsauNu6rQmHBRS",
+      "spotify_url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
+    },
+    {
+      "canonical_slug": "howlin-wolf--smokestack-lightnin",
+      "name": "Smokestack Lightnin'",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--moanin-in-the-moonlight",
+      "release_name": "Moanin' In The Moonlight",
+      "spotify_track_id": "2HUZVffVPXvqnrml0gXggp",
+      "spotify_url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "canonical_slug": "the-animals--don-t-let-me-be-misunderstood",
+      "name": "Don't Let Me Be Misunderstood",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-animals",
+      "primary_artist_name": "The Animals",
+      "release_canonical_slug": "the-animals--the-animals-the-mickie-most-years-and-more",
+      "release_name": "The Animals: The Mickie Most Years And More",
+      "spotify_track_id": "4zzY7s6PKnMFIQ3ZNfHzGh",
+      "spotify_url": "https://open.spotify.com/track/4zzY7s6PKnMFIQ3ZNfHzGh"
+    },
+    {
+      "canonical_slug": "howlin-wolf--forty-four",
+      "name": "Forty Four",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--moanin-in-the-moonlight",
+      "release_name": "Moanin' In The Moonlight",
+      "spotify_track_id": "02Ub2Xv4Vs3UEthDciGPvq",
+      "spotify_url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
+    },
+    {
+      "canonical_slug": "howlin-wolf--poor-boy",
+      "name": "Poor Boy",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-real-folk-blues",
+      "release_name": "The Real Folk Blues",
+      "spotify_track_id": "6UAPJQ5qrM5oRViQCC9sFd",
+      "spotify_url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "canonical_slug": "j-j-cale--after-midnight",
+      "name": "After Midnight",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "j-j-cale",
+      "primary_artist_name": "J.J. Cale",
+      "release_canonical_slug": "j-j-cale--naturally",
+      "release_name": "Naturally",
+      "spotify_track_id": "1PC5GV3OaoXx5em8ttQOMI",
+      "spotify_url": "https://open.spotify.com/track/1PC5GV3OaoXx5em8ttQOMI"
+    },
+    {
+      "canonical_slug": "howlin-wolf--ain-t-goin-down-that-dirt-road",
+      "name": "Ain't Goin' Down That Dirt Road",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-chess-box",
+      "release_name": "The Chess Box",
+      "spotify_track_id": "721s1oOq155CE0agflMxUq",
+      "spotify_url": "https://open.spotify.com/track/721s1oOq155CE0agflMxUq"
+    },
+    {
+      "canonical_slug": "howlin-wolf--back-door-man",
+      "name": "Back Door Man",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-chess-box",
+      "release_name": "The Chess Box",
+      "spotify_track_id": "56k88mRQD5S7BeQSi1ay1H",
+      "spotify_url": "https://open.spotify.com/track/56k88mRQD5S7BeQSi1ay1H"
+    },
+    {
+      "canonical_slug": "howlin-wolf--built-for-comfort-single-version",
+      "name": "Built For Comfort - Single Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "howlin-wolf",
+      "primary_artist_name": "Howlin' Wolf",
+      "release_canonical_slug": "howlin-wolf--the-chess-box",
+      "release_name": "The Chess Box",
+      "spotify_track_id": "4yrZD8QscmdMhsb1E0dkS8",
+      "spotify_url": "https://open.spotify.com/track/4yrZD8QscmdMhsb1E0dkS8"
+    },
+    {
       "canonical_slug": "j-j-cale--call-me-the-breeze",
       "name": "Call Me The Breeze",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "j-j-cale",
       "primary_artist_name": "J.J. Cale",
       "release_canonical_slug": "j-j-cale--naturally",
       "release_name": "Naturally",
       "spotify_track_id": "5AQpbyFoQmkOVwmlhKN4ii",
       "spotify_url": "https://open.spotify.com/track/5AQpbyFoQmkOVwmlhKN4ii"
-    },
-    {
-      "canonical_slug": "jimi-hendrix--castles-made-of-sand",
-      "name": "Castles Made of Sand",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix",
-      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "release_name": "Axis: Bold As Love",
-      "spotify_track_id": "3qebSLgUwaEqbwCM5sj5Kh",
-      "spotify_url": "https://open.spotify.com/track/3qebSLgUwaEqbwCM5sj5Kh"
-    },
-    {
-      "canonical_slug": "jimi-hendrix--spanish-castle-magic",
-      "name": "Spanish Castle Magic",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix",
-      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "release_name": "Axis: Bold As Love",
-      "spotify_track_id": "2KFE98Iw0X23sf4vJYcbLH",
-      "spotify_url": "https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH"
-    },
-    {
-      "canonical_slug": "jimi-hendrix--you-got-me-floatin",
-      "name": "You Got Me Floatin'",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix",
-      "release_canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "release_name": "Axis: Bold As Love",
-      "spotify_track_id": "2Fu2CXFkfiKKXPGtbDDlvj",
-      "spotify_url": "https://open.spotify.com/track/2Fu2CXFkfiKKXPGtbDDlvj"
     }
   ],
   "source_refs": [
@@ -159,6 +372,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -180,9 +399,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-19T02:11:24.325Z",
+      "updated_at": "2026-03-29T04:21:25.545Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:21:25.545Z"
 }

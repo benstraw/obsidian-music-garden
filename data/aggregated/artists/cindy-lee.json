@@ -1,0 +1,62 @@
+{
+  "canonical_slug": "cindy-lee",
+  "name": "Cindy Lee",
+  "play_count": 12,
+  "spotify_artist_id": "0TZExq5Dma8hecEIAKwQYA",
+  "musicbrainz_artist_id": "a7537f5b-ef6f-424e-9f4d-9b990cb8866f",
+  "spotify_url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA",
+  "genres": [
+    "dream-pop",
+    "electronic",
+    "pop",
+    "rock"
+  ],
+  "source_genres": [
+    "brill building",
+    "dream pop",
+    "electronic",
+    "hypnagogic pop",
+    "minimal wave",
+    "noise",
+    "noise pop",
+    "pop",
+    "rock",
+    "synth-pop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46cfaf192ccd56bb356f0c655d6",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd22faf192ccd56bb356f0c655d6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac3faf192ccd56bb356f0c655d6",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f74faf192ccd56bb356f0c655d6",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Cindy Lee",
+    "Cindy Lee (band)",
+    "Cindy Lee (businesswoman)",
+    "Cindy Lee (scientist)",
+    "Cindy Lee Berryhill",
+    "Cindy Lee Garcia",
+    "Cindy Lee Hudspeth",
+    "Cindy Lee Miller Sheehan",
+    "Cindy Lee Van Dover",
+    "Cindy-Lee Dennis"
+  ],
+  "last_updated": "2026-03-28"
+}

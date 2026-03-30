@@ -3,12 +3,14 @@
   "source_artist_id": "4jXfFzeP66Zy67HM2mvIIF",
   "name": "Bill Evans",
   "spotify_url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF",
+  "musicbrainz_artist_id": "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
   "source_genres": [
     "bebop",
     "cool jazz",
     "hard bop",
     "jazz",
-    "jazz ballads"
+    "jazz ballads",
+    "traditional jazz"
   ],
   "canonical_genre_slugs": [
     "bebop",

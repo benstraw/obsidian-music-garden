@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4OBbOrkD4geIjOLrICN3wO",
+  "name": "Inspectah Deck",
+  "spotify_url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO",
+  "musicbrainz_artist_id": "a6b90dc0-e22e-44e1-890b-87900bd9aca6",
+  "source_genres": [
+    "hip hop"
+  ],
+  "canonical_genre_slugs": [
+    "hip-hop"
+  ],
+  "status": "matched",
+  "page_title": "Inspectah Deck",
+  "summary": "Jason S. Hunter, better known by his stage name Inspectah Deck, is an American rapper and hip hop producer. He is a member of the groups Wu-Tang Clan and Czarface.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Inspectah_Deck",
+  "candidates": [
+    "Inspectah Deck",
+    "Inspectah Deck discography"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Inspectah Deck",
+    "page_url": "https://en.wikipedia.org/wiki/Inspectah_Deck",
+    "retrieved_at": "2026-03-28T10:39:37Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Inspectah Deck Albany 2024.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Inspectah_Deck_Albany_2024.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Inspectah_Deck_Albany_2024.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Inspectah_Deck_Albany_2024.jpg/960px-Inspectah_Deck_Albany_2024.jpg",
+    "width": 2839,
+    "height": 4000,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Lygonstreet\" title=\"User:Lygonstreet\"\u003eLygonstreet\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Inspectah Deck Albany 2024.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Inspectah_Deck_Albany_2024.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Inspectah_Deck_Albany_2024.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Inspectah_Deck_Albany_2024.jpg/960px-Inspectah_Deck_Albany_2024.jpg",
+      "width": 2839,
+      "height": 4000,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Lygonstreet\" title=\"User:Lygonstreet\"\u003eLygonstreet\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Wu-Tang Clan 01.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Wu-Tang_Clan_01.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wu-Tang_Clan_01.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wu-Tang_Clan_01.jpg/960px-Wu-Tang_Clan_01.jpg",
+      "width": 1232,
+      "height": 1840,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/80976306@N00\"\u003eFestival Eurockéennes\u003c/a\u003e"
+    }
+  ]
+}

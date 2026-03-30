@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "78Fgb88MY0ECc4GVMejqTg",
   "name": "It Was Written",
   "primary_artist_name": "Nas",
-  "primary_artist_canonical_slug": "nas"
+  "primary_artist_canonical_slug": "nas",
+  "musicbrainz_release_id": "dee08d2d-eb6d-4376-988a-07984dbdf738",
+  "musicbrainz_release_group_id": "f4dde59b-9a1d-3e74-9dee-c734435d9ea0"
 }

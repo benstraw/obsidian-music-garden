@@ -1,0 +1,112 @@
+{
+  "source": "spotify",
+  "source_artist_id": "570vCzcespB48HIQyTbDO6",
+  "name": "Bud Powell",
+  "spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+  "musicbrainz_artist_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+  "source_genres": [
+    "bebop",
+    "cool jazz",
+    "hard bop",
+    "jazz"
+  ],
+  "canonical_genre_slugs": [
+    "bebop",
+    "cool-jazz",
+    "hard-bop",
+    "jazz"
+  ],
+  "status": "matched",
+  "page_title": "Bud Powell",
+  "summary": "Earl Rudolph \"Bud\" Powell was an American jazz pianist and composer. A pioneer in the development of bebop and its associated contributions to jazz theory, Powell's application of complex phrasing to the piano influenced both his contemporaries and later pianists including Walter Davis Jr., Toshiko Akiyoshi, and Barry Harris.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Bud_Powell",
+  "candidates": [
+    "Bob Powell",
+    "Bob Powell (baseball)",
+    "Bud Lomell",
+    "Bud Pollard",
+    "Bud Powell",
+    "Bud Powell Trio",
+    "Bud Powell discography",
+    "Bud Powell in Paris",
+    "Bud Powell's Moods",
+    "Bud swell"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bud Powell",
+    "page_url": "https://en.wikipedia.org/wiki/Bud_Powell",
+    "retrieved_at": "2026-03-28T10:37:48Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Birdland club entrance.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Birdland_club_entrance.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Birdland_club_entrance.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Birdland_club_entrance.jpg",
+    "width": 585,
+    "height": 689,
+    "license": "Public domain",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20160208033357/http://i.ebayimg.com/images/g/eDYAAOSwv-NWYJHX/s-l1600.jpg\"\u003eJPM Associates\u003c/a\u003e New York"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Birdland club entrance.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Birdland_club_entrance.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Birdland_club_entrance.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Birdland_club_entrance.jpg",
+      "width": 585,
+      "height": 689,
+      "license": "Public domain",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20160208033357/http://i.ebayimg.com/images/g/eDYAAOSwv-NWYJHX/s-l1600.jpg\"\u003eJPM Associates\u003c/a\u003e New York"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bud Powell.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bud_Powell.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bud_Powell.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bud_Powell.jpg",
+      "width": 257,
+      "height": 337,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Giovegiu\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Giovegiu (page does not exist)\"\u003eGiovegiu\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bud Powell (1953 publicity photo - cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bud_Powell_(1953_publicity_photo_-_cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bud_Powell_%281953_publicity_photo_-_cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bud_Powell_%281953_publicity_photo_-_cropped%29.jpg",
+      "width": 686,
+      "height": 857,
+      "license": "Public domain",
+      "author": "Distributed by the Gale Agency in New York. Photographer uncredited and unknown."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bud Powell 1960.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bud_Powell_1960.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bud_Powell_1960.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bud_Powell_1960.jpg",
+      "width": 624,
+      "height": 800,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Unknown photographer"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Creedmore Psych Cen jeh.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Creedmore_Psych_Cen_jeh.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Creedmore_Psych_Cen_jeh.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Creedmore_Psych_Cen_jeh.jpg/960px-Creedmore_Psych_Cen_jeh.jpg",
+      "width": 3921,
+      "height": 2920,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jim.henderson\" title=\"User:Jim.henderson\"\u003eJim.henderson\u003c/a\u003e"
+    }
+  ]
+}

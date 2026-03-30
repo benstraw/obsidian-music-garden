@@ -1,0 +1,28 @@
+{
+  "source": "spotify",
+  "source_artist_id": "20VDXslLsXlLgSF765m1Ug",
+  "name": "Flipper",
+  "spotify_url": "https://open.spotify.com/artist/20VDXslLsXlLgSF765m1Ug",
+  "musicbrainz_artist_id": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+  "source_genres": [
+    "hardcore punk",
+    "punk",
+    "rock"
+  ],
+  "canonical_genre_slugs": [
+    "rock"
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Die Flippers",
+    "Flipper",
+    "Flipper \u0026 Lopaka",
+    "Flipper (1964 TV series)",
+    "Flipper (1995 TV series)",
+    "Flipper (1996 film)",
+    "Flipper (band)",
+    "Flipper (franchise)",
+    "Flipper Anderson",
+    "Flipper Zero"
+  ]
+}

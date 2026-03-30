@@ -1,0 +1,120 @@
+{
+  "canonical_slug": "german-romanticism",
+  "display_title": "German Romanticism",
+  "display_name": "German Romanticism",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "German Romanticism",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/German_Romanticism",
+  "summary": "German Romanticism was the dominant intellectual movement of German-speaking countries in the late 18th and early 19th centuries, influencing philosophy, aesthetics, literature, and criticism. Compared to English Romanticism, the German variety developed relatively early, and, in the opening years, coincided with Weimar Classicism (1772–1805).",
+  "candidates": [
+    "German Romanticism"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "German Romanticism",
+    "page_url": "https://en.wikipedia.org/wiki/German_Romanticism",
+    "retrieved_at": "2026-03-28T15:56:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Anton Graff Heinrich von Kleist (1).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Graff_Heinrich_von_Kleist_(1).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Anton_Graff_Heinrich_von_Kleist_%281%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Graff_Heinrich_von_Kleist_%281%29.jpg/960px-Anton_Graff_Heinrich_von_Kleist_%281%29.jpg",
+    "width": 1932,
+    "height": 2456,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Anton_Graff\" class=\"extiw\" title=\"w:en:Anton Graff\"\u003e\u003cspan title=\"Swiss portrait artist (1736–1813)\"\u003eAnton Graff\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anton Graff Heinrich von Kleist (1).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anton_Graff_Heinrich_von_Kleist_(1).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Anton_Graff_Heinrich_von_Kleist_%281%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_Graff_Heinrich_von_Kleist_%281%29.jpg/960px-Anton_Graff_Heinrich_von_Kleist_%281%29.jpg",
+      "width": 1932,
+      "height": 2456,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Anton_Graff\" class=\"extiw\" title=\"w:en:Anton Graff\"\u003e\u003cspan title=\"Swiss portrait artist (1736–1813)\"\u003eAnton Graff\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Caspar David Friedrich - Mondaufgang am Meer - Google Art Project.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg/960px-Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg",
+      "width": 3543,
+      "height": 2710,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Caspar_David_Friedrich\" class=\"extiw\" title=\"w:en:Caspar David Friedrich\"\u003e\u003cspan title=\"German Romantic landscape painter (1774–1840)\"\u003eCaspar David Friedrich\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Der junge Goethe, gemalt von Angelica Kauffmann 1787.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Der_junge_Goethe,_gemalt_von_Angelica_Kauffmann_1787.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Der_junge_Goethe%2C_gemalt_von_Angelica_Kauffmann_1787.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Der_junge_Goethe%2C_gemalt_von_Angelica_Kauffmann_1787.JPG/960px-Der_junge_Goethe%2C_gemalt_von_Angelica_Kauffmann_1787.JPG",
+      "width": 2326,
+      "height": 3085,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Angelica_Kauffman\" class=\"extiw\" title=\"w:en:Angelica Kauffman\"\u003e\u003cspan title=\"Swiss artist (1741–1807)\"\u003eAngelica Kauffmann\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DodgerBlue flag waving.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DodgerBlue_flag_waving.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/DodgerBlue_flag_waving.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DodgerBlue_flag_waving.svg/960px-DodgerBlue_flag_waving.svg.png",
+      "width": 249,
+      "height": 268,
+      "license": "Public domain",
+      "author": "\u003cul\u003e\u003cli\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Red_flag_waving.svg\" title=\"File:Red flag waving.svg\"\u003eRed_flag_waving.svg\u003c/a\u003e: \u003ca href=\"//commons.wikimedia.org/wiki/User:Wereon\" title=\"User:Wereon\"\u003eWereon\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003ederivative work: \u003ca href=\"//commons.wikimedia.org/wiki/User:Dove\" title=\"User:Dove\"\u003eDove\u003c/a\u003e (\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Dove\" title=\"User talk:Dove\"\u003e\u003cspan class=\"signature-talk\"\u003etalk\u003c/span\u003e\u003c/a\u003e)\u003c/li\u003e\u003c/ul\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Entwurf Kirchen Oranienburger Vorstadt III Perspektive.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Entwurf_Kirchen_Oranienburger_Vorstadt_III_Perspektive.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Entwurf_Kirchen_Oranienburger_Vorstadt_III_Perspektive.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Entwurf_Kirchen_Oranienburger_Vorstadt_III_Perspektive.jpg/960px-Entwurf_Kirchen_Oranienburger_Vorstadt_III_Perspektive.jpg",
+      "width": 2389,
+      "height": 3094,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Karl_Friedrich_Schinkel\" class=\"extiw\" title=\"w:en:Karl Friedrich Schinkel\"\u003e\u003cspan title=\"Prussian architect, city planner and painter (1781–1841)\"\u003eKarl Friedrich Schinkel\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--german-romanticism.json",
+      "url": "https://en.wikipedia.org/wiki/German_Romanticism",
+      "retrieved_at": "2026-03-28T15:56:33Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--german-romanticism.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Anton_Graff_Heinrich_von_Kleist_(1).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "comedy-rock",
+  "display_title": "Comedy Rock",
+  "display_name": "Comedy Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Comedy rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Comedy_rock",
+  "summary": "Comedy rock is a genre of rock music that is comedic in nature. It is often mixed with satire or irony.",
+  "candidates": [
+    "Comedy Crackers",
+    "Comedy Knockout",
+    "Comedy Records",
+    "Comedy Works",
+    "Comedy Workshop",
+    "Comedy roast",
+    "Comedy rock",
+    "Comedy routine",
+    "Comedy-Romance",
+    "Rick Comegy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Comedy rock",
+    "page_url": "https://en.wikipedia.org/wiki/Comedy_rock",
+    "retrieved_at": "2026-03-28T15:54:26Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--comedy-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Comedy_rock",
+      "retrieved_at": "2026-03-28T15:54:26Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "electroclash"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Electroclash",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Electroclash",
@@ -70,6 +71,7 @@
       "name": "The Dare",
       "play_count": 4,
       "spotify_artist_id": "2mqiqsaX4LzFnUP7PmHGAb",
+      "musicbrainz_artist_id": "7fe3380a-8e35-48d1-ac5a-174fe6b5060b",
       "spotify_url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
     }
   ],
@@ -79,7 +81,8 @@
       "name": "What's Wrong With New York? (Deluxe)",
       "play_count": 4,
       "primary_artist_canonical_slug": "the-dare",
-      "primary_artist_name": "The Dare"
+      "primary_artist_name": "The Dare",
+      "spotify_album_id": "2D89AVMQByhOVAsqYtIUKD"
     }
   ],
   "top_tracks": [
@@ -123,6 +126,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

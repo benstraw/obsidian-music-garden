@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "aln-sh",
+  "display_title": "Aln Sh",
+  "display_name": "Aln Sh",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Al Ahly SC",
+    "Al Hilal SFC",
+    "Al Sharpton",
+    "Al-Ghazali",
+    "Al-Khwarizmi",
+    "Al-Shabaab (militant group)",
+    "Alan Sugar",
+    "Ali Khamenei",
+    "Alnshyd Alwtny Almghrby",
+    "Ạlnsẖyd Ạlwṭny Ạllbnạny"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

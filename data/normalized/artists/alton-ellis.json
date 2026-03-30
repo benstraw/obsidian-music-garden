@@ -1,0 +1,65 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5pryfFgCrWJ41UHaENJPyi",
+  "name": "Alton Ellis",
+  "spotify_url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi",
+  "musicbrainz_artist_id": "b04d9207-306c-42db-8b6a-c94d49b4b08a",
+  "source_genres": [
+    "reggae",
+    "rocksteady"
+  ],
+  "canonical_genre_slugs": [
+    "reggae",
+    "rocksteady"
+  ],
+  "status": "matched",
+  "page_title": "Alton Ellis",
+  "summary": "Alton Nehemiah Ellis was a Jamaican singer-songwriter. One of the innovators of rocksteady, he was given the informal title \"Godfather of Rocksteady\". In 2006, he was inducted into the International Reggae And World Music Awards Hall Of Fame.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Alton_Ellis",
+  "candidates": [
+    "Alban Ellison",
+    "Alessandro Altobelli",
+    "Alston Ellis",
+    "Alton Ellis",
+    "Alton Lister",
+    "Alton, Illinois",
+    "Antony Ellis",
+    "Eliseo Alcon",
+    "John Altobelli",
+    "Valeria De Antonellis"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alton Ellis",
+    "page_url": "https://en.wikipedia.org/wiki/Alton_Ellis",
+    "retrieved_at": "2026-03-28T10:37:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alton Ellis.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alton_Ellis.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alton_Ellis.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alton_Ellis.JPG",
+    "width": 414,
+    "height": 311,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Kat Geb",
+    "attribution_text": "Wikimedia Commons - Alton Ellis - from Flickr"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alton Ellis.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alton_Ellis.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alton_Ellis.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alton_Ellis.JPG",
+      "width": 414,
+      "height": 311,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Kat Geb",
+      "attribution_text": "Wikimedia Commons - Alton Ellis - from Flickr"
+    }
+  ]
+}

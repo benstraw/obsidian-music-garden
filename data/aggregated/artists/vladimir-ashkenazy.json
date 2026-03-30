@@ -1,0 +1,103 @@
+{
+  "canonical_slug": "vladimir-ashkenazy",
+  "name": "Vladimir Ashkenazy",
+  "spotify_artist_id": "20iZXzMb8LoWXOeca32i82",
+  "musicbrainz_artist_id": "15a30428-87c4-455b-b7e8-71013237fea0",
+  "spotify_url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82",
+  "genres": [
+    "classical"
+  ],
+  "source_genres": [
+    "ashkenazy",
+    "brahms",
+    "classical",
+    "conductor",
+    "pianist",
+    "piano",
+    "rachmaninov",
+    "russian conductor",
+    "russian pianist",
+    "western classical"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5a4a932f73faefc19b4e24f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a5a4a932f73faefc19b4e24f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a5a4a932f73faefc19b4e24f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Vladimir Ashkenazy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Ashkenazy",
+  "summary": "Vladimir Davidovich Ashkenazy is a Soviet-born Icelandic pianist, chamber music performer, and conductor. Ashkenazy has collaborated with well-known orchestras and soloists. In addition, he has recorded a large repertoire of classical and romantic works. His recordings have earned him seven Grammy Awards and he has been awarded three stages of Iceland's Order of the Falcon for his overall contribution to music.",
+  "candidates": [
+    "Vladimir Ashkenazy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Vladimir Ashkenazy",
+    "page_url": "https://en.wikipedia.org/wiki/Vladimir_Ashkenazy",
+    "retrieved_at": "2026-03-28T10:43:55Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Jury Kirill Kondrashin concours, Bestanddeelnr 933-0956 (cropped).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Jury_Kirill_Kondrashin_concours,_Bestanddeelnr_933-0956_(cropped).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jury_Kirill_Kondrashin_concours%2C_Bestanddeelnr_933-0956_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jury_Kirill_Kondrashin_concours%2C_Bestanddeelnr_933-0956_%28cropped%29.jpg",
+    "width": 546,
+    "height": 868,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Rob_Croes\" title=\"Category:Rob Croes\"\u003eRob Croes\u003c/a\u003e for \u003ca href=\"//commons.wikimedia.org/wiki/Category:Anefo\" title=\"Category:Anefo\"\u003eAnefo\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jury Kirill Kondrashin concours, Bestanddeelnr 933-0956 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jury_Kirill_Kondrashin_concours,_Bestanddeelnr_933-0956_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jury_Kirill_Kondrashin_concours%2C_Bestanddeelnr_933-0956_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Jury_Kirill_Kondrashin_concours%2C_Bestanddeelnr_933-0956_%28cropped%29.jpg",
+      "width": 546,
+      "height": 868,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Rob_Croes\" title=\"Category:Rob Croes\"\u003eRob Croes\u003c/a\u003e for \u003ca href=\"//commons.wikimedia.org/wiki/Category:Anefo\" title=\"Category:Anefo\"\u003eAnefo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Vladimir Ashkenazy.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Vladimir_Ashkenazy.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vladimir_Ashkenazy.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vladimir_Ashkenazy.jpg",
+      "width": 732,
+      "height": 807,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Che\" title=\"User:Che\"\u003eche\u003c/a\u003e \u003cbr\u003e(Please credit as \u003ci\u003e\"Petr Novák, Wikipedia\"\u003c/i\u003e in case you use this outside Wikimedia projects.)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Vladimir Ashkenazy with wife and son 1963.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Vladimir_Ashkenazy_with_wife_and_son_1963.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vladimir_Ashkenazy_with_wife_and_son_1963.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vladimir_Ashkenazy_with_wife_and_son_1963.jpg/960px-Vladimir_Ashkenazy_with_wife_and_son_1963.jpg",
+      "width": 3578,
+      "height": 2422,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "Gelderen, Hugo van / Anefo"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

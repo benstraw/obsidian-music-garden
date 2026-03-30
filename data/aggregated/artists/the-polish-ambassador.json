@@ -1,0 +1,27 @@
+{
+  "canonical_slug": "the-polish-ambassador",
+  "name": "The Polish Ambassador",
+  "play_count": 7,
+  "spotify_artist_id": "2dI9IuajQnLR5dLxHjTTqU",
+  "musicbrainz_artist_id": "e9787dd2-5857-4b51-8e59-a190a54820fc",
+  "spotify_url": "https://open.spotify.com/artist/2dI9IuajQnLR5dLxHjTTqU",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8af0bfd5a3632331799ed811",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051748af0bfd5a3632331799ed811",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1788af0bfd5a3632331799ed811",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

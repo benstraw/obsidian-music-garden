@@ -1,11 +1,16 @@
 {
   "canonical_slug": "a-tribe-called-quest--scenario-feat-busta-rhymes-dinco-d-and-charlie-brown-lp-mix",
   "name": "Scenario (feat. Busta Rhymes, Dinco D \u0026 Charlie Brown) - LP Mix",
+  "play_count": 1,
   "primary_artist_canonical_slug": "a-tribe-called-quest",
   "primary_artist_name": "A Tribe Called Quest",
+  "additional_artist_slugs": [
+    "busta-rhymes",
+    "dinco-d",
+    "charlie-brown"
+  ],
   "release_canonical_slug": "a-tribe-called-quest--the-low-end-theory",
   "release_name": "The Low End Theory",
   "spotify_track_id": "0301nLjG0ti26rx5ZmfqtP",
-  "spotify_url": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/0301nLjG0ti26rx5ZmfqtP"
 }

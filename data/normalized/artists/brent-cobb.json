@@ -3,17 +3,24 @@
   "source_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
   "name": "Brent Cobb",
   "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz",
+  "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
   "source_genres": [
     "alt country",
     "americana",
+    "country",
     "country blues",
+    "honky tonk",
     "outlaw country",
-    "red dirt"
+    "red dirt",
+    "roots rock"
   ],
   "canonical_genre_slugs": [
     "alt-country",
     "americana",
     "blues",
+    "country",
+    "country-rock",
+    "honky-tonk",
     "outlaw-country",
     "red-dirt"
   ],

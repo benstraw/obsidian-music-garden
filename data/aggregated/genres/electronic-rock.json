@@ -6,7 +6,8 @@
   "aliases": [
     "electronic rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Electronic rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Electronic_rock",

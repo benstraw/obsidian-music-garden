@@ -1,7 +1,9 @@
 {
   "canonical_slug": "talking-heads",
   "name": "Talking Heads",
+  "play_count": 85,
   "spotify_artist_id": "2x9SpqnPi8rlE9pjHBwmSC",
+  "musicbrainz_artist_id": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
   "spotify_url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC",
   "genres": [
     "new-wave",
@@ -114,5 +116,5 @@
       "author": "Distributed by \u003ca href=\"https://en.wikipedia.org/wiki/Sire_Records\" class=\"extiw\" title=\"en:Sire Records\"\u003eSire Records\u003c/a\u003e. Photographer uncredited."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

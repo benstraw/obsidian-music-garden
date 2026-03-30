@@ -3,11 +3,16 @@
   "source_artist_id": "5EgMMveFcSL3rq87Wkyw4s",
   "name": "Lafayette Afro Rock Band",
   "spotify_url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s",
+  "musicbrainz_artist_id": "68b22fd5-038c-4b74-8ed0-ee93b13c1d9e",
   "source_genres": [
+    "afrobeat",
     "funk",
-    "jazz funk"
+    "jazz funk",
+    "jazz-funk",
+    "rare groove a to z"
   ],
   "canonical_genre_slugs": [
+    "afrobeat",
     "funk",
     "jazz-funk"
   ],

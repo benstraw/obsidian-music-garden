@@ -1,0 +1,73 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6Bfy6QzadCXS92y0T8dDZF",
+  "name": "Eddie Floyd",
+  "spotify_url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF",
+  "musicbrainz_artist_id": "484e8d72-ad54-43cf-bceb-283529ac2b62",
+  "source_genres": [
+    "r\u0026b",
+    "soul",
+    "southern soul"
+  ],
+  "canonical_genre_slugs": [
+    "soul"
+  ],
+  "status": "matched",
+  "page_title": "Eddie Floyd",
+  "summary": "Eddie Lee Floyd is an American R\u0026B and soul singer and songwriter, best known for his work on the Stax record label in the 1960s and 1970s, including a No. 1 R\u0026B hit song, \"Knock on Wood\".",
+  "canonical_url": "https://en.wikipedia.org/wiki/Eddie_Floyd",
+  "candidates": [
+    "Eddie Boyd",
+    "Eddie Floyd",
+    "Eddie Flynn",
+    "Eddie Ford",
+    "Eddie Ford (One Life to Live)",
+    "Eddie Ford (footballer, born 2002)",
+    "Eddie Foy",
+    "Eddie Foy III",
+    "Eddie Foy Jr.",
+    "Eddie London"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Eddie Floyd",
+    "page_url": "https://en.wikipedia.org/wiki/Eddie_Floyd",
+    "retrieved_at": "2026-03-28T10:38:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Eddie Floyd R\u0026B singer.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Eddie_Floyd_R%26B_singer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eddie_Floyd_R%26B_singer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Eddie_Floyd_R%26B_singer.jpg",
+      "width": 683,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Christoph Van Lent"
+    }
+  ]
+}

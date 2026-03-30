@@ -4,6 +4,9 @@
   "name": "Love Game",
   "primary_artist_name": "Eminem",
   "primary_artist_canonical_slug": "eminem",
+  "additional_artist_slugs": [
+    "kendrick-lamar"
+  ],
   "release_name": "The Marshall Mathers LP2 (Deluxe)",
   "release_canonical_slug": "eminem--the-marshall-mathers-lp2-deluxe",
   "spotify_url": "https://open.spotify.com/track/0iMN420Q45isZVNlAqzPTW"

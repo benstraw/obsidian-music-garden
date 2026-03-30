@@ -1,0 +1,90 @@
+{
+  "canonical_slug": "kenny-burrell",
+  "name": "Kenny Burrell",
+  "play_count": 3,
+  "spotify_artist_id": "1sdyFmN4bVOcuFDpTVsxBB",
+  "musicbrainz_artist_id": "a85b66d2-34df-4d5a-8c0d-d585b8a14ce1",
+  "spotify_url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "hard bop",
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdbb5ce7865a18716adba5083",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174dbb5ce7865a18716adba5083",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178dbb5ce7865a18716adba5083",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Kenny Burrell",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenny_Burrell",
+  "summary": "Kenneth Earl Burrell is an American jazz guitarist, singer and composer known for his work on numerous top jazz labels: Prestige, Blue Note, Verve, CTI, Muse, and Concord. His collaborations with Jimmy Smith were notable, and produced the 1965 Billboard Top Twenty hit Verve album Organ Grinder Swing. Burrell has cited jazz guitarists Charlie Christian, Oscar Moore, and Django Reinhardt as influences, along with blues guitarists T-Bone Walker and Muddy Waters.",
+  "candidates": [
+    "Kenny Burrell",
+    "Kenny Burrell \u0026 John Coltrane",
+    "Kenny Burrell (Prestige album)",
+    "Kenny Burrell Live at the Village Vanguard",
+    "Kenny Burrell in New York",
+    "Kenny Burrell, Volume 2"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Kenny Burrell",
+    "page_url": "https://en.wikipedia.org/wiki/Kenny_Burrell",
+    "retrieved_at": "2026-03-28T10:40:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Kenny Burrell, 1977.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Burrell,_1977.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kenny_Burrell%2C_1977.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kenny_Burrell%2C_1977.jpg",
+    "width": 679,
+    "height": 1024,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11447043@N00/\"\u003eTom Marcello\u003c/a\u003e Webster, New York, USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kenny Burrell, 1977.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Burrell,_1977.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kenny_Burrell%2C_1977.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Kenny_Burrell%2C_1977.jpg",
+      "width": 679,
+      "height": 1024,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/11447043@N00/\"\u003eTom Marcello\u003c/a\u003e Webster, New York, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kenny Burrell VIS.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kenny_Burrell_VIS.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Kenny_Burrell_VIS.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Kenny_Burrell_VIS.jpg",
+      "width": 912,
+      "height": 754,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

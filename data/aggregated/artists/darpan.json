@@ -1,7 +1,9 @@
 {
   "canonical_slug": "darpan",
   "name": "Darpan",
+  "play_count": 1,
   "spotify_artist_id": "2nG2U57GA2wEds6bfqQMQd",
+  "musicbrainz_artist_id": "fd93b357-6c86-4c5f-a58a-30901a5cca30",
   "spotify_url": "https://open.spotify.com/artist/2nG2U57GA2wEds6bfqQMQd",
   "images": [
     {
@@ -33,5 +35,5 @@
     "Darpanarayan Tagore",
     "Darpanet"
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

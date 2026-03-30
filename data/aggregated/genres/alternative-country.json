@@ -1,0 +1,90 @@
+{
+  "canonical_slug": "alternative-country",
+  "display_title": "Alternative Country",
+  "display_name": "Alternative Country",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Alternative country",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alternative_country",
+  "summary": "Alternative country is a loosely defined subgenre of country music that includes acts that differ significantly in style from mainstream country music, mainstream country rock, and country pop. Most frequently, the term has been used to describe certain country music bands and artists that are also defined as or have incorporated influences from genres such as alternative rock, indie rock, punk rock, heartland rock, Southern rock, progressive country, outlaw country, neotraditional country, Texas country, Red Dirt, roots rock, indie folk, folk rock, rockabilly, bluegrass, and honky tonk.",
+  "candidates": [
+    "Alternative country"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Alternative country",
+    "page_url": "https://en.wikipedia.org/wiki/Alternative_country",
+    "retrieved_at": "2026-03-28T15:52:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Blue Mountain (band).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Blue_Mountain_(band).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Blue_Mountain_%28band%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Blue_Mountain_%28band%29.jpg",
+    "width": 800,
+    "height": 533,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21946080@N00\"\u003eAaron S.\u003c/a\u003e from Lawrence KS, USA"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blue Mountain (band).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blue_Mountain_(band).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Blue_Mountain_%28band%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Blue_Mountain_%28band%29.jpg",
+      "width": 800,
+      "height": 533,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/21946080@N00\"\u003eAaron S.\u003c/a\u003e from Lawrence KS, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sonvolt.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sonvolt.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sonvolt.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sonvolt.jpg/960px-Sonvolt.jpg",
+      "width": 2272,
+      "height": 1704,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/99105016@N00\"\u003eRich Anderson\u003c/a\u003e from Denton, United States"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--alternative-country.json",
+      "url": "https://en.wikipedia.org/wiki/Alternative_country",
+      "retrieved_at": "2026-03-28T15:52:53Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--alternative-country.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Blue_Mountain_(band).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

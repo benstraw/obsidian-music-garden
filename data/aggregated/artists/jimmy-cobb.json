@@ -1,0 +1,80 @@
+{
+  "canonical_slug": "jimmy-cobb",
+  "name": "Jimmy Cobb",
+  "spotify_artist_id": "7KLg0R9RSUabK2CG2MTbBJ",
+  "musicbrainz_artist_id": "d0cbf65a-541b-476a-996c-fe2cd264bbd0",
+  "spotify_url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ",
+  "genres": [
+    "hard-bop",
+    "jazz"
+  ],
+  "source_genres": [
+    "american drummer",
+    "death by lung cancer",
+    "drummer",
+    "hard bop",
+    "jazz",
+    "jazz drummer"
+  ],
+  "status": "matched",
+  "wikipedia_title": "Jimmy Cobb",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Cobb",
+  "summary": "Wilbur James \"Jimmy\" Cobb was an American jazz drummer. He was part of Miles Davis's First Great Sextet. He was awarded an NEA Jazz Masters Fellowship in 2009.",
+  "candidates": [
+    "Jimmy Cobb",
+    "Jimmy Collins",
+    "Jimmy Connors",
+    "Jimmy Connors career statistics",
+    "Jimmy Conrad",
+    "Jimmy Conzelman",
+    "Jimmy Cordero",
+    "Jimmy Corrigan, the Smartest Kid on Earth",
+    "Jimmy Robertson (snooker player)",
+    "Jimmy Webb"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Jimmy Cobb",
+    "page_url": "https://en.wikipedia.org/wiki/Jimmy_Cobb",
+    "retrieved_at": "2026-03-28T10:39:53Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:19930225 jimmy cobb braunschweig museum.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:19930225_jimmy_cobb_braunschweig_museum.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/19930225_jimmy_cobb_braunschweig_museum.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/19930225_jimmy_cobb_braunschweig_museum.jpg/960px-19930225_jimmy_cobb_braunschweig_museum.jpg",
+    "width": 1400,
+    "height": 876,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Krajazz\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Krajazz (page does not exist)\"\u003eKrajazz\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:19930225 jimmy cobb braunschweig museum.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:19930225_jimmy_cobb_braunschweig_museum.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/19930225_jimmy_cobb_braunschweig_museum.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/19930225_jimmy_cobb_braunschweig_museum.jpg/960px-19930225_jimmy_cobb_braunschweig_museum.jpg",
+      "width": 1400,
+      "height": 876,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Krajazz\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Krajazz (page does not exist)\"\u003eKrajazz\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jimmy Cobb.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jimmy_Cobb.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jimmy_Cobb.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Jimmy_Cobb.jpg",
+      "width": 533,
+      "height": 800,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/9967007@N07/\"\u003eTom Beetz\u003c/a\u003e @ \u003ca rel=\"nofollow\" class=\"external text\" href=\"http://home.hetnet.nl/~tbeetz/index.html\"\u003ehttp://home.hetnet.nl/~tbeetz/index.html\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

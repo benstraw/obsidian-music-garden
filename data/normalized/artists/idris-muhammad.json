@@ -1,0 +1,63 @@
+{
+  "source": "spotify",
+  "source_artist_id": "6ghiUK2ao3KcmmDt2pbNzN",
+  "name": "Idris Muhammad",
+  "spotify_url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN",
+  "musicbrainz_artist_id": "318c02c2-d766-4843-9035-e186531fc98c",
+  "source_genres": [
+    "contemporary jazz",
+    "jazz",
+    "jazz fusion",
+    "jazz-funk",
+    "soul jazz"
+  ],
+  "canonical_genre_slugs": [
+    "jazz",
+    "jazz-funk",
+    "jazz-fusion"
+  ],
+  "status": "matched",
+  "page_title": "Idris Muhammad",
+  "summary": "Idris Muhammad was an American jazz drummer and bandleader. He had an extensive career performing jazz, funk, R\u0026B, and soul music and recorded with musicians such as Ahmad Jamal, Lou Donaldson, Pharoah Sanders, Bob James, and Tete Montoliu.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Idris_Muhammad",
+  "candidates": [
+    "Idris Muhammad",
+    "Idris Muhammad Gobir",
+    "Mohammad Idris (Indonesian politician)",
+    "Mohammed Ibrahim Idris",
+    "Muhammad Idrees",
+    "Muhammad Idrees (footballer)",
+    "Muhammad Idrees (politician)",
+    "Muhammad Inuwa Idris"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Idris Muhammad",
+    "page_url": "https://en.wikipedia.org/wiki/Idris_Muhammad",
+    "retrieved_at": "2026-03-28T10:39:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:PharoahSanders.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:PharoahSanders.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PharoahSanders.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PharoahSanders.jpg",
+    "width": 648,
+    "height": 463,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:PharoahSanders.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:PharoahSanders.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PharoahSanders.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PharoahSanders.jpg",
+      "width": 648,
+      "height": 463,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

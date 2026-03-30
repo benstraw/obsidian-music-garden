@@ -1,0 +1,52 @@
+{
+  "canonical_slug": "the-fall",
+  "name": "The Fall",
+  "play_count": 159,
+  "spotify_artist_id": "6WoTvA9qinpHtSRJuldYh6",
+  "musicbrainz_artist_id": "d5da1841-9bc8-4813-9f89-11098090148e",
+  "spotify_url": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6",
+  "genres": [
+    "new-wave",
+    "post-punk",
+    "proto-punk"
+  ],
+  "source_genres": [
+    "cold wave",
+    "deathrock",
+    "madchester",
+    "new wave",
+    "post-punk",
+    "proto-punk"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba271b66efd699ba556b32cd5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a271b66efd699ba556b32cd5",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a271b66efd699ba556b32cd5",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "The Fall",
+    "The Fall (TV series)",
+    "The Fall (band)",
+    "The Fall Guy (2024 film)",
+    "The Fall and Rise of Reggie Dinkins",
+    "The Fall of the House of Usher",
+    "The Fall of the House of Usher (miniseries)",
+    "The Fall of the Roman Empire (film)",
+    "The Fall-Off",
+    "The Falling Man"
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,8 +1,13 @@
 {
   "canonical_slug": "silvia-nakkach",
   "name": "Silvia Nakkach",
+  "play_count": 1,
   "spotify_artist_id": "68dc61FwQ08z495NmqPxjL",
+  "musicbrainz_artist_id": "643ef506-79b4-42c7-95eb-aa64fe674161",
   "spotify_url": "https://open.spotify.com/artist/68dc61FwQ08z495NmqPxjL",
+  "source_genres": [
+    "new age"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/ab6761610000e5eb5cd540c49c6a718961e72340",
@@ -21,5 +26,5 @@
     }
   ],
   "status": "not_found",
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

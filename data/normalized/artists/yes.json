@@ -1,0 +1,16 @@
+{
+  "source": "spotify",
+  "source_artist_id": "7AC976RDJzL2asmZuz7qil",
+  "name": "Yes",
+  "spotify_url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil",
+  "source_genres": [
+    "aor",
+    "art rock",
+    "progressive rock"
+  ],
+  "canonical_genre_slugs": [
+    "aor",
+    "art-rock",
+    "progressive-rock"
+  ]
+}

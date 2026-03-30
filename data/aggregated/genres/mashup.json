@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "mashup",
+  "display_title": "Mashup",
+  "display_name": "Mashup",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Mash-Up (Glee)",
+    "Mashup",
+    "Mashup (combination word)",
+    "Mashup (culture)",
+    "Mashup (education)",
+    "Mashup (music)",
+    "Mashup (video)",
+    "Mashup (web application hybrid)",
+    "Mashup novel",
+    "Mashups by Candlelight"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

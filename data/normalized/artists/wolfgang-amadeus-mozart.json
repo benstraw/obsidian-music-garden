@@ -1,0 +1,115 @@
+{
+  "source": "spotify",
+  "source_artist_id": "4NJhFmfw43RLBLjQvxDuRS",
+  "name": "Wolfgang Amadeus Mozart",
+  "spotify_url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+  "musicbrainz_artist_id": "b972f589-fb0e-474e-b64a-803b0364fa75",
+  "source_genres": [
+    "austrian",
+    "austrian composer",
+    "classical",
+    "classical period",
+    "complete violin wind",
+    "composer",
+    "composers",
+    "composition",
+    "european",
+    "german",
+    "opera"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Wolfgang Amadeus Mozart",
+  "summary": "Wolfgang Amadeus Mozart was a Classical composer and musician. In his brief life, he completed more than 800 works including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera, and choral music.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+  "candidates": [
+    "Wolfgang Amadeus Mozart",
+    "Wolfgang Amadeus Mozart and Freemasonry",
+    "Wolfgang Amadeus Mozart and Prague",
+    "Wolfgang Amadeus Mozart and dance",
+    "Wolfgang Amadeus Mozart and scatology",
+    "Wolfgang Amadeus Mozart in Italy",
+    "Wolfgang Amadeus Mozart monument, Baku",
+    "Wolfgang Amadeus Mozart's compositional method",
+    "Wolfgang Amadeus Mozart's name",
+    "Wolfgang Amadeus Mozart, Jr."
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wolfgang Amadeus Mozart",
+    "page_url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "retrieved_at": "2026-03-28T10:44:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2045 - Salzburg - Mozartplatz.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2045_-_Salzburg_-_Mozartplatz.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/2045_-_Salzburg_-_Mozartplatz.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2045_-_Salzburg_-_Mozartplatz.JPG/960px-2045_-_Salzburg_-_Mozartplatz.JPG",
+    "width": 3648,
+    "height": 2736,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\"\u003eAndrew Bossi\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2045 - Salzburg - Mozartplatz.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2045_-_Salzburg_-_Mozartplatz.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/2045_-_Salzburg_-_Mozartplatz.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2045_-_Salzburg_-_Mozartplatz.JPG/960px-2045_-_Salzburg_-_Mozartplatz.JPG",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Thisisbossi\" title=\"User:Thisisbossi\"\u003eAndrew Bossi\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Casa natale di Mozart.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Casa_natale_di_Mozart.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Casa_natale_di_Mozart.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Casa_natale_di_Mozart.jpg",
+      "width": 566,
+      "height": 866,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Elisa.rolle\" title=\"User:Elisa.rolle\"\u003eElisa.rolle\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Constanze Mozart by Lange 1782.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Constanze_Mozart_by_Lange_1782.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Constanze_Mozart_by_Lange_1782.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Constanze_Mozart_by_Lange_1782.jpg",
+      "width": 556,
+      "height": 749,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Joseph_Lange\" class=\"extiw\" title=\"w:en:Joseph Lange\"\u003e\u003cspan title=\"Austrian actor and artist (1751-1831)\"\u003eJoseph Lange\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:De-Wolfgang Amadeus Mozart.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:De-Wolfgang_Amadeus_Mozart.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/De-Wolfgang_Amadeus_Mozart.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Jeuwre\" title=\"User:Jeuwre\"\u003eJeuwre\u003c/a\u003e"
+    }
+  ]
+}

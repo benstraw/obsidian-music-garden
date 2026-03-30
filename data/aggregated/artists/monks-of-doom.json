@@ -1,0 +1,97 @@
+{
+  "canonical_slug": "monks-of-doom",
+  "name": "Monks of Doom",
+  "play_count": 16,
+  "spotify_artist_id": "4RXqLrmaH6CPVUEjhQLt3U",
+  "musicbrainz_artist_id": "3eabadd7-5766-436d-a7d3-dd85bc209ffe",
+  "spotify_url": "https://open.spotify.com/artist/4RXqLrmaH6CPVUEjhQLt3U",
+  "genres": [
+    "indie-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "indie rock",
+    "rock"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273a93e7f8b1b932990d21f3310",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02a93e7f8b1b932990d21f3310",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851a93e7f8b1b932990d21f3310",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Monks of Doom",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Monks_of_Doom",
+  "summary": "The Monks of Doom is an American alternative rock band, formed in California in 1986. The band's music draws from post-punk, progressive rock, indie rock, psychedelic and folk rock traditions. The group is a side project of the band Camper Van Beethoven, with whom all Monks of Doom members have been involved.",
+  "candidates": [
+    "Monks of Doom"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Monks of Doom",
+    "page_url": "https://en.wikipedia.org/wiki/Monks_of_Doom",
+    "retrieved_at": "2026-03-28T10:41:22Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Monks of Doom.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Monks_of_Doom.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Monks_of_Doom.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monks_of_Doom.jpg/960px-Monks_of_Doom.jpg",
+    "width": 2872,
+    "height": 1970,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/44124466908@N01\"\u003eSteve Rhodes\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Monks of Doom.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Monks_of_Doom.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Monks_of_Doom.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monks_of_Doom.jpg/960px-Monks_of_Doom.jpg",
+      "width": 2872,
+      "height": 1970,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/44124466908@N01\"\u003eSteve Rhodes\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Monks of doom show.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Monks_of_doom_show.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Monks_of_doom_show.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Monks_of_doom_show.jpg/960px-Monks_of_doom_show.jpg",
+      "width": 2272,
+      "height": 1704,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/37191714@N00\"\u003eg\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

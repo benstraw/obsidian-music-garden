@@ -1,0 +1,62 @@
+{
+  "canonical_slug": "klavierwerke",
+  "display_title": "Klavierwerke",
+  "display_name": "Klavierwerke",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Klavierwerke (EP)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Klavierwerke_(EP)",
+  "summary": "Klavierwerke is the third solo EP by English musician James Blake, who plays all the instruments and produced the record. It was released on R\u0026S Records on 27 September 2010. The word \"Klavierwerke\" is German for \"piano works\", as the album is mostly built on piano.",
+  "candidates": [
+    "Klavierwerke (EP)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Klavierwerke (EP)",
+    "page_url": "https://en.wikipedia.org/wiki/Klavierwerke_(EP)",
+    "retrieved_at": "2026-03-28T15:57:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Klavierwerke (Front Cover).png"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Klavierwerke (Front Cover).png"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--klavierwerke.json",
+      "url": "https://en.wikipedia.org/wiki/Klavierwerke_(EP)",
+      "retrieved_at": "2026-03-28T15:57:50Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--klavierwerke.json",
+      "url": "https://en.wikipedia.org/wiki/Klavierwerke_(EP)",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

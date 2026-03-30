@@ -1,7 +1,9 @@
 {
   "canonical_slug": "raekwon",
   "name": "Raekwon",
+  "play_count": 4,
   "spotify_artist_id": "2yQf6b8hxahZaT5dHlWaB1",
+  "musicbrainz_artist_id": "4e954b02-fae2-4bd7-9547-e055a6ac0527",
   "spotify_url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1",
   "genres": [
     "boom-bap",
@@ -12,9 +14,12 @@
   ],
   "source_genres": [
     "boom bap",
+    "coke rap",
     "east coast hip hop",
+    "gangsta rap",
     "hardcore hip hop",
     "hip hop",
+    "mafioso rap",
     "old school hip hop"
   ],
   "images": [
@@ -105,5 +110,5 @@
       "author": "Respective commons pages (reuploaded as SVG)"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

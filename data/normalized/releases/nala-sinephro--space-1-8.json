@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "51HFfu3GhuXa4VUnlpJJy8",
   "name": "Space 1.8",
   "primary_artist_name": "Nala Sinephro",
-  "primary_artist_canonical_slug": "nala-sinephro"
+  "primary_artist_canonical_slug": "nala-sinephro",
+  "musicbrainz_release_id": "031e01a2-e4d4-45f6-aa6e-1b1b458cfbea",
+  "musicbrainz_release_group_id": "2458a981-bc0e-4359-8f3b-b53c25ed4830"
 }

@@ -1,0 +1,95 @@
+{
+  "canonical_slug": "carla-thomas",
+  "name": "Carla Thomas",
+  "play_count": 3,
+  "spotify_artist_id": "1QAGLCom3FHTTiuRFsjzOj",
+  "musicbrainz_artist_id": "66e2a444-5303-4cdf-b20f-d377ecf465ed",
+  "spotify_url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj",
+  "genres": [
+    "soul"
+  ],
+  "source_genres": [
+    "r\u0026b",
+    "soul"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/fa043c0acdf02c23c449e1f9659c4d8f510c283f",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/1bdfadba6e63409c7a04544934c5e415acb461e3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/7b4e2ab73250d3d2c27bf678e12530a25789b93f",
+      "height": 212,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/9c9cacd74e9e803433de600d5da11cc99c7351c3",
+      "height": 68,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Carla Thomas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carla_Thomas",
+  "summary": "Carla Venita Thomas is an American singer, who is often referred to as the Queen of Memphis Soul. She is best known for her 1960s recordings for Atlantic and Stax including the hits \"Gee Whiz \" (1960), \"B-A-B-Y\" (1966) and \"Tramp\" (1967), a duet with Otis Redding. She is the daughter of Rufus Thomas.",
+  "candidates": [
+    "Carl Thomas (singer)",
+    "Carl Thomas Anderson",
+    "Carl Thomas discography",
+    "Carl Thompson (boxer)",
+    "Carla Thomas",
+    "Carla Thomas (basketball)",
+    "Carol Thomas",
+    "Thomas A. Carlin",
+    "Thomas Carew",
+    "Thomas Carte"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Carla Thomas",
+    "page_url": "https://en.wikipedia.org/wiki/Carla_Thomas",
+    "retrieved_at": "2026-03-28T10:37:56Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Carla Thomas.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Carla_Thomas.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+    "width": 375,
+    "height": 614,
+    "license": "Public domain",
+    "author": "Stax"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carla Thomas.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carla_Thomas.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Carla_Thomas.png",
+      "width": 375,
+      "height": 614,
+      "license": "Public domain",
+      "author": "Stax"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carla Thomas billboard card.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carla_Thomas_billboard_card.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Carla_Thomas_billboard_card.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Carla_Thomas_billboard_card.jpg",
+      "width": 945,
+      "height": 1531,
+      "license": "Public domain",
+      "author": "Photo by Billboard."
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

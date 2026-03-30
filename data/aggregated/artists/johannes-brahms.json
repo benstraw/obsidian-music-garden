@@ -1,7 +1,9 @@
 {
   "canonical_slug": "johannes-brahms",
   "name": "Johannes Brahms",
+  "play_count": 14,
   "spotify_artist_id": "5wTAi7QkpP6kp8a54lmTOq",
+  "musicbrainz_artist_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
   "spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
   "genres": [
     "classical",
@@ -114,5 +116,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sanipache\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sanipache (page does not exist)\"\u003eSanipache\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

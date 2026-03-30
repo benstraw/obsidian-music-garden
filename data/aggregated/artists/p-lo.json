@@ -1,0 +1,72 @@
+{
+  "canonical_slug": "p-lo",
+  "name": "P-Lo",
+  "play_count": 5,
+  "spotify_artist_id": "2QLM9IFaHBtB16b8ZDaA3A",
+  "musicbrainz_artist_id": "56ee910c-e11d-4ca3-93b3-b671d6610988",
+  "spotify_url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8bfdbb0ce82adf54cf3d60f2",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051748bfdbb0ce82adf54cf3d60f2",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1788bfdbb0ce82adf54cf3d60f2",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "P-Lo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/P-Lo",
+  "summary": "Paulo Rodriguez, known professionally as P-Lo, is an American rapper and producer from Pinole, California.",
+  "candidates": [
+    "Joan Plowright",
+    "P Love",
+    "P-Lo",
+    "P-local subgroup",
+    "P-loop",
+    "Ploidy",
+    "Plotinus",
+    "Plough",
+    "Plovdiv",
+    "Płock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "P-Lo",
+    "page_url": "https://en.wikipedia.org/wiki/P-Lo",
+    "retrieved_at": "2026-03-28T10:41:49Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

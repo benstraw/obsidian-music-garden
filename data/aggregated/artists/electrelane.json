@@ -1,0 +1,93 @@
+{
+  "canonical_slug": "electrelane",
+  "name": "Electrelane",
+  "play_count": 19,
+  "spotify_artist_id": "7ulIMfVKiXh8ecEpAVHIAY",
+  "musicbrainz_artist_id": "7756e3dc-f44c-4678-a7bc-d1b31204a963",
+  "spotify_url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY",
+  "genres": [
+    "alternative-rock",
+    "art-rock",
+    "experimental",
+    "free-jazz",
+    "indie-rock",
+    "rock"
+  ],
+  "source_genres": [
+    "alternative rock",
+    "art rock",
+    "downtempo",
+    "electro",
+    "experimental",
+    "free jazz",
+    "indie rock",
+    "rock",
+    "synth-pop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27300e4decab546af050b8ded05",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0200e4decab546af050b8ded05",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485100e4decab546af050b8ded05",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Electrelane",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Electrelane",
+  "summary": "Electrelane is an English indie rock band, formed in Brighton in 1998 by Verity Susman and Emma Gaze. The band consists of Susman, Gaze, Mia Clarke, and Ros Murray. Their music draws from a wide range of influences including Neu!, Stereolab, Sonic Youth, and the Velvet Underground. When playing live, the band has a reputation for a focused show that minimizes audience interaction and rarely included more than one encore.",
+  "candidates": [
+    "Electr Electron Eng",
+    "Electr. Electron. Eng.",
+    "Electra Lake",
+    "ElectraNet",
+    "Electranet",
+    "Electrelane",
+    "Electrola Records",
+    "Electrolaser",
+    "Electroliner",
+    "Electroplanet"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Electrelane",
+    "page_url": "https://en.wikipedia.org/wiki/Electrelane",
+    "retrieved_at": "2026-03-28T10:38:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Electrelane.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Electrelane.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Electrelane.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Electrelane.jpg",
+    "width": 640,
+    "height": 433,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Greg Neate"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Electrelane.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Electrelane.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Electrelane.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Electrelane.jpg",
+      "width": 640,
+      "height": 433,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Greg Neate"
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

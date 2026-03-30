@@ -1,0 +1,58 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5q4eLKmqFVP0xII8087PHz",
+  "name": "The Budos Band",
+  "spotify_url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz",
+  "musicbrainz_artist_id": "b6fa9b9b-41cf-45a6-adc0-0a4c9a8c0d3c",
+  "source_genres": [
+    "afrobeat",
+    "funk",
+    "funk soul"
+  ],
+  "canonical_genre_slugs": [
+    "afrobeat",
+    "funk"
+  ],
+  "status": "matched",
+  "page_title": "The Budos Band",
+  "summary": "The Budos Band is a North American instrumental band from Staten Island, New York, formed in 2005. AllMusic describes the group as a \"doom rock Afro-soul big band with a '70s touch\" that joins \"musical universes from trippy psychedelia and Afro-funk to '70s hard rock and late-'60s soul.\" They have described themselves as \"70's Psychedelic Instrumental Music,\" and \"Afro-soul inspired by Ethiopian music with a soul undercurrent\" and \"sprinkled a little bit of sweet 60's stuff on top.\" One press release described the band as “sounding as if Quentin Tarantino was the music supervisor for a Bond film\". Their more recent albums have incorporated sounds from 1970s jazz, funk, Afro-Beat, underground rock, and proto-metal. They have been signed to Daptone Records throughout their career.",
+  "canonical_url": "https://en.wikipedia.org/wiki/The_Budos_Band",
+  "candidates": [
+    "The Budos Band",
+    "The Budos Band III",
+    "The Butts Band",
+    "The Butts Band (album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "The Budos Band",
+    "page_url": "https://en.wikipedia.org/wiki/The_Budos_Band",
+    "retrieved_at": "2026-03-28T10:43:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:The Budos Band by Dan Depew.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Budos_Band_by_Dan_Depew.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Budos_Band_by_Dan_Depew.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Budos_Band_by_Dan_Depew.png/960px-The_Budos_Band_by_Dan_Depew.png",
+    "width": 1408,
+    "height": 1452,
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dan_Depew\" title=\"User:Dan Depew\"\u003eDan Depew\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:The Budos Band by Dan Depew.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:The_Budos_Band_by_Dan_Depew.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/The_Budos_Band_by_Dan_Depew.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/The_Budos_Band_by_Dan_Depew.png/960px-The_Budos_Band_by_Dan_Depew.png",
+      "width": 1408,
+      "height": 1452,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dan_Depew\" title=\"User:Dan Depew\"\u003eDan Depew\u003c/a\u003e"
+    }
+  ]
+}

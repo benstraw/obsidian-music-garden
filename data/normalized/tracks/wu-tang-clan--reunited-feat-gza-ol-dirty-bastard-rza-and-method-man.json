@@ -4,6 +4,12 @@
   "name": "Reunited (feat. GZA, Ol' Dirty Bastard, RZA \u0026 Method Man)",
   "primary_artist_name": "Wu-Tang Clan",
   "primary_artist_canonical_slug": "wu-tang-clan",
+  "additional_artist_slugs": [
+    "gza",
+    "ol-dirty-bastard",
+    "rza",
+    "method-man"
+  ],
   "release_name": "Wu-Tang Forever",
   "release_canonical_slug": "wu-tang-clan--wu-tang-forever",
   "spotify_url": "https://open.spotify.com/track/2CxOJwC4jqWfPQdahEX9oH"

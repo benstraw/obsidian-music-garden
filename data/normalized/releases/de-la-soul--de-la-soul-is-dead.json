@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "03birJOUpTh31nxuK75zrM",
   "name": "De La Soul is Dead",
   "primary_artist_name": "De La Soul",
-  "primary_artist_canonical_slug": "de-la-soul"
+  "primary_artist_canonical_slug": "de-la-soul",
+  "musicbrainz_release_id": "2fa48352-7734-4829-a8be-db1139e948cf",
+  "musicbrainz_release_group_id": "0be4cdd5-ed37-3842-82ba-7f9983a34473"
 }

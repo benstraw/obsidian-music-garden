@@ -1,0 +1,39 @@
+{
+  "canonical_slug": "pheel",
+  "name": "pheel.",
+  "play_count": 6,
+  "spotify_artist_id": "3eAy0xGFGEWl1Gd2C6s9pC",
+  "musicbrainz_artist_id": "6845eb65-ae7c-4ecf-bbfa-4e6c1a7e08ad",
+  "spotify_url": "https://open.spotify.com/artist/3eAy0xGFGEWl1Gd2C6s9pC",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba5f9257a13e49321eb61c823",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a5f9257a13e49321eb61c823",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a5f9257a13e49321eb61c823",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "status": "ambiguous",
+  "candidates": [
+    "Megan Phelps-Roper",
+    "Michael Phelps",
+    "Pheelz",
+    "Pheelz production discography",
+    "Phelps County, Missouri",
+    "Phelps and Gorham Purchase",
+    "Phenelzine",
+    "Phenylketonuria",
+    "Seth Ledyard Phelps",
+    "William Phelps (colonist)"
+  ],
+  "last_updated": "2026-03-28"
+}

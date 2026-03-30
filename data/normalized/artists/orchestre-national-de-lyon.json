@@ -1,0 +1,59 @@
+{
+  "source": "spotify",
+  "source_artist_id": "5nBrvb1brhyZFKTuC2GIAo",
+  "name": "Orchestre National De Lyon",
+  "spotify_url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo",
+  "musicbrainz_artist_id": "00dffefe-6698-427f-88e9-fcf4b58a172c",
+  "source_genres": [
+    "classical",
+    "french orchestra",
+    "symphony orchestra"
+  ],
+  "canonical_genre_slugs": [
+    "classical"
+  ],
+  "status": "matched",
+  "page_title": "Orchestre National de Lyon",
+  "summary": "The Orchestre National de Lyon (ONL) is a French orchestra based in Lyon. Its primary concert venue is the Maurice Ravel Auditorium. The orchestra operates with the help of a subsidy from the French Ministry of Culture and from the Rhône-Alpes regional council. The current general director of the orchestra is Aline Sam-Giao.",
+  "canonical_url": "https://en.wikipedia.org/wiki/Orchestre_National_de_Lyon",
+  "candidates": [
+    "Orchestre National de Lyon",
+    "Orchestre National de Monte Carlo",
+    "Orchestre National de Montpellier",
+    "Orchestre National de l'ORTF",
+    "Orchestre National de l’ O.R.T.F.",
+    "Orchestre national de Montpellier"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Orchestre National de Lyon",
+    "page_url": "https://en.wikipedia.org/wiki/Orchestre_National_de_Lyon",
+    "retrieved_at": "2026-03-28T10:41:42Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ernst van Tiel with Orchestre national de Lyon.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg/960px-Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg",
+    "width": 4928,
+    "height": 3264,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Yelkrokoyade\" title=\"User:Yelkrokoyade\"\u003eYelkrokoyade\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ernst van Tiel with Orchestre national de Lyon.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg/960px-Ernst_van_Tiel_with_Orchestre_national_de_Lyon.jpg",
+      "width": 4928,
+      "height": 3264,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Yelkrokoyade\" title=\"User:Yelkrokoyade\"\u003eYelkrokoyade\u003c/a\u003e"
+    }
+  ]
+}

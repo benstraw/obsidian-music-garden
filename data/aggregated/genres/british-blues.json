@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "british-blues",
+  "display_title": "British Blues",
+  "display_name": "British Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "British blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/British_blues",
+  "summary": "British blues is a form of music derived from the American blues style, a form that originated in the UK in the late 1950s, and reached its height of mainstream popularity in the 1960s. In Britain, blues developed a distinctive and influential style dominated by electric guitar, and made international stars of several proponents of the genre, including the Rolling Stones, the Animals, the Yardbirds, John Mayall, Eric Clapton, Fleetwood Mac and Led Zeppelin.",
+  "candidates": [
+    "British Best All-Rounder",
+    "British Blues Awards",
+    "British Blues Explosion Live",
+    "British Bruisers",
+    "British Business Bank",
+    "British Business School in Prague",
+    "British Equestrian",
+    "British blues",
+    "British business group",
+    "The British Blues Quintet"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "British blues",
+    "page_url": "https://en.wikipedia.org/wiki/British_blues",
+    "retrieved_at": "2026-03-28T15:53:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alexis-Korner.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexis-Korner.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alexis-Korner.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alexis-Korner.jpg/960px-Alexis-Korner.jpg",
+    "width": 2345,
+    "height": 3458,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Heinrich Klaffs"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alexis-Korner.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexis-Korner.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alexis-Korner.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Alexis-Korner.jpg/960px-Alexis-Korner.jpg",
+      "width": 2345,
+      "height": 3458,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Heinrich Klaffs"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Cream Clapton Bruce Baker 1960s.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Cream_Clapton_Bruce_Baker_1960s.jpg",
+      "width": 928,
+      "height": 615,
+      "license": "Public domain",
+      "author": "General Artists Corporation (management) /Atco Records (the band's record label at one time)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fleetwood mac peter green 5.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fleetwood_mac_peter_green_5.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Fleetwood_mac_peter_green_5.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fleetwood_mac_peter_green_5.jpg/960px-Fleetwood_mac_peter_green_5.jpg",
+      "width": 1823,
+      "height": 2500,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:W.W.Thaler\" title=\"User:W.W.Thaler\"\u003eW.W.Thaler - H. Weber, Hildesheim\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Georgie Fame in Sweden 1968.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Georgie_Fame_in_Sweden_1968.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Georgie_Fame_in_Sweden_1968.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Georgie_Fame_in_Sweden_1968.jpg",
+      "width": 467,
+      "height": 340,
+      "license": "Public domain",
+      "author": "Pressens Bild / Scanpix"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--british-blues.json",
+      "url": "https://en.wikipedia.org/wiki/British_blues",
+      "retrieved_at": "2026-03-28T15:53:40Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--british-blues.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Alexis-Korner.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

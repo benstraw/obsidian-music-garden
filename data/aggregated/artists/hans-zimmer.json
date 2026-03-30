@@ -1,12 +1,16 @@
 {
   "canonical_slug": "hans-zimmer",
   "name": "Hans Zimmer",
+  "play_count": 1,
   "spotify_artist_id": "0YC192cP3KPCRWx8zr8MfZ",
+  "musicbrainz_artist_id": "e6de1f3b-6484-491c-88dd-6d619f142abc",
   "spotify_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ",
   "genres": [
     "soundtrack"
   ],
   "source_genres": [
+    "film score",
+    "modern classical",
     "score",
     "soundtrack"
   ],
@@ -122,5 +126,5 @@
       "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\"\u003eRaph_PH\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

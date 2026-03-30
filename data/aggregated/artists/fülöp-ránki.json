@@ -1,0 +1,26 @@
+{
+  "canonical_slug": "fülöp-ránki",
+  "name": "Fülöp Ránki",
+  "spotify_artist_id": "6ozAtG2j28MyMYvSmNaQMA",
+  "musicbrainz_artist_id": "896dfe57-a228-4045-bcaa-a5aba5d3e565",
+  "spotify_url": "https://open.spotify.com/artist/6ozAtG2j28MyMYvSmNaQMA",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2739ba7f8d4d73c109135eb5341",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e029ba7f8d4d73c109135eb5341",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048519ba7f8d4d73c109135eb5341",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-30"
+}

@@ -1,11 +1,15 @@
 {
   "canonical_slug": "omari-hardwick--what-you-say",
   "name": "What You Say",
+  "play_count": 1,
   "primary_artist_canonical_slug": "omari-hardwick",
   "primary_artist_name": "Omari Hardwick",
+  "additional_artist_slugs": [
+    "raphael-saadiq",
+    "big-daddy-kane"
+  ],
   "release_canonical_slug": "omari-hardwick--buffaloes-and-butterflies",
   "release_name": "BuffalOes \u0026 Butterflies",
   "spotify_track_id": "4ix8gioHd82QWwW4qy8pdl",
-  "spotify_url": "https://open.spotify.com/track/4ix8gioHd82QWwW4qy8pdl",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/4ix8gioHd82QWwW4qy8pdl"
 }

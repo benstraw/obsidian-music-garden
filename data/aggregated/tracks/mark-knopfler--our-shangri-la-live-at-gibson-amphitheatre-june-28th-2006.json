@@ -1,11 +1,14 @@
 {
   "canonical_slug": "mark-knopfler--our-shangri-la-live-at-gibson-amphitheatre-june-28th-2006",
   "name": "Our Shangri-La - Live At Gibson Amphitheatre / June 28th 2006",
+  "play_count": 1,
   "primary_artist_canonical_slug": "mark-knopfler",
   "primary_artist_name": "Mark Knopfler",
+  "additional_artist_slugs": [
+    "emmylou-harris"
+  ],
   "release_canonical_slug": "mark-knopfler--real-live-roadrunning",
   "release_name": "Real Live Roadrunning",
   "spotify_track_id": "6r4e2Yjlt4opFysenbx08o",
-  "spotify_url": "https://open.spotify.com/track/6r4e2Yjlt4opFysenbx08o",
-  "last_updated": "2026-03-27"
+  "spotify_url": "https://open.spotify.com/track/6r4e2Yjlt4opFysenbx08o"
 }

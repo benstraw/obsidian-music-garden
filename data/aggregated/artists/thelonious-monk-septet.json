@@ -1,0 +1,33 @@
+{
+  "canonical_slug": "thelonious-monk-septet",
+  "name": "Thelonious Monk Septet",
+  "play_count": 13,
+  "spotify_artist_id": "56koGOp6EpWHZYOfuTTxRB",
+  "musicbrainz_artist_id": "51fe321e-5ad0-4dd1-a5c3-3e773688cdf8",
+  "spotify_url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b2731a5c8cde2988897d297331e6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e021a5c8cde2988897d297331e6",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d000048511a5c8cde2988897d297331e6",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "status": "not_found",
+  "last_updated": "2026-03-28"
+}

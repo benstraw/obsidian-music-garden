@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "redman",
+  "name": "Redman",
+  "spotify_artist_id": "7xTKLpo7UCzXSnlH7fOIoM",
+  "spotify_url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM",
+  "genres": [
+    "east-coast-hip-hop",
+    "hardcore-hip-hop",
+    "hip-hop",
+    "old-school-hip-hop"
+  ],
+  "source_genres": [
+    "east coast hip hop",
+    "hardcore hip hop",
+    "hip hop",
+    "old school hip hop"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebb3abe39a345181d9ec8f985f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174b3abe39a345181d9ec8f985f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178b3abe39a345181d9ec8f985f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

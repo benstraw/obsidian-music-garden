@@ -1,0 +1,112 @@
+{
+  "canonical_slug": "joe-zawinul",
+  "name": "Joe Zawinul",
+  "play_count": 5,
+  "spotify_artist_id": "3DkK9XA1CI1i7U7ovpAo1G",
+  "musicbrainz_artist_id": "dfe8c9e1-10c0-49ab-a07a-5b4c60179611",
+  "spotify_url": "https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G",
+  "genres": [
+    "jazz"
+  ],
+  "source_genres": [
+    "jazz"
+  ],
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/aef8f3bffa14a0830fc1e10863a15c0a9ecbdea0",
+      "height": 1319,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/cfd615d2c54d1b586b1e25c9bec1391fc408b434",
+      "height": 844,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/a6aa1c7cc8e4517e91ae7911659033c7a4545084",
+      "height": 264,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/70c36f93dbd0aea2db592e3188443f371660b4b9",
+      "height": 84,
+      "width": 64
+    }
+  ],
+  "status": "matched",
+  "wikipedia_title": "Joe Zawinul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joe_Zawinul",
+  "summary": "Josef Erich Zawinul was an Austrian jazz and jazz fusion keyboardist and composer. First coming to prominence with saxophonist Cannonball Adderley, Zawinul went on to play with Miles Davis and to become one of the creators of jazz fusion, a musical genre that combined jazz with rock. He co-founded the groups Weather Report and The Zawinul Syndicate. He pioneered the use of electric piano and synthesizer, and was named \"Best Electric Keyboardist\" twenty-eight times by the readers of DownBeat magazine.",
+  "candidates": [
+    "Joe Zawinul"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Joe Zawinul",
+    "page_url": "https://en.wikipedia.org/wiki/Joe_Zawinul",
+    "retrieved_at": "2026-03-28T10:40:01Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2018-11-17-joe-zawinul-centralfriedhof.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2018-11-17-joe-zawinul-centralfriedhof.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/2018-11-17-joe-zawinul-centralfriedhof.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2018-11-17-joe-zawinul-centralfriedhof.jpg/960px-2018-11-17-joe-zawinul-centralfriedhof.jpg",
+    "width": 5184,
+    "height": 3888,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Edburns00\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Edburns00 (page does not exist)\"\u003eEdburns00\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2018-11-17-joe-zawinul-centralfriedhof.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2018-11-17-joe-zawinul-centralfriedhof.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/2018-11-17-joe-zawinul-centralfriedhof.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2018-11-17-joe-zawinul-centralfriedhof.jpg/960px-2018-11-17-joe-zawinul-centralfriedhof.jpg",
+      "width": 5184,
+      "height": 3888,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Edburns00\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Edburns00 (page does not exist)\"\u003eEdburns00\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JoeZawinul.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JoeZawinul.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/JoeZawinul.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/JoeZawinul.jpg",
+      "width": 528,
+      "height": 333,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Jean-Luc Ourlin"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Joe zawinul 2007-03-28 live in freiburg.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Joe_zawinul_2007-03-28_live_in_freiburg.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Joe_zawinul_2007-03-28_live_in_freiburg.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Joe_zawinul_2007-03-28_live_in_freiburg.jpg/960px-Joe_zawinul_2007-03-28_live_in_freiburg.jpg",
+      "width": 1000,
+      "height": 797,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Alex_Ex\" title=\"User:Alex Ex\"\u003eAlex Ex\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Zawinul syndicate 2007-03-28 live in freiburg.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Zawinul_syndicate_2007-03-28_live_in_freiburg.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Zawinul_syndicate_2007-03-28_live_in_freiburg.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Zawinul_syndicate_2007-03-28_live_in_freiburg.jpg/960px-Zawinul_syndicate_2007-03-28_live_in_freiburg.jpg",
+      "width": 1000,
+      "height": 719,
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "author": "myself"
+    }
+  ],
+  "last_updated": "2026-03-30"
+}

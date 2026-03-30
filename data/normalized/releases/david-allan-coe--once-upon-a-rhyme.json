@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6YfHzMRBscPjVqcxIQoXom",
   "name": "Once Upon a Rhyme",
   "primary_artist_name": "David Allan Coe",
-  "primary_artist_canonical_slug": "david-allan-coe"
+  "primary_artist_canonical_slug": "david-allan-coe",
+  "musicbrainz_release_id": "3fec35f7-b294-42c8-a987-45bac9273556",
+  "musicbrainz_release_group_id": "81057829-25c3-3cbe-8a1f-4efc13927db7"
 }

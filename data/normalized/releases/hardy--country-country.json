@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "1j2unVmWjj79ywAaRFPYXc",
   "name": "COUNTRY! COUNTRY!",
   "primary_artist_name": "HARDY",
-  "primary_artist_canonical_slug": "hardy"
+  "primary_artist_canonical_slug": "hardy",
+  "musicbrainz_release_id": "23b65769-05b1-42b7-9f11-02178a20eeb0",
+  "musicbrainz_release_group_id": "947b3c9f-a383-4030-b7c2-cb79f46fa535"
 }

@@ -1,8 +1,18 @@
 {
   "canonical_slug": "del-the-funky-homosapien",
   "name": "Del The Funky Homosapien",
+  "play_count": 50,
   "spotify_artist_id": "0YsLR3SQd5QTXAhGIGX7cl",
+  "musicbrainz_artist_id": "a31a5e0c-d37a-41a8-90d5-9e256a47d83b",
   "spotify_url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl",
+  "genres": [
+    "hip-hop"
+  ],
+  "source_genres": [
+    "conscious hip hop",
+    "hip hop",
+    "hip hop rap"
+  ],
   "images": [
     {
       "url": "https://i.scdn.co/image/37ddb345143488175cef180b553253a467ec5362",
@@ -90,5 +100,5 @@
       "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mwaehner\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mwaehner (page does not exist)\"\u003eMwaehner\u003c/a\u003e"
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-30"
 }

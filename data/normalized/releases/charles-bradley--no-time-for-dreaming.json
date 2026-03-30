@@ -1,6 +1,9 @@
 {
   "source": "spotify",
+  "source_release_id": "6j1xh7WBOIVNekKFKFKbAp",
   "name": "No Time For Dreaming",
   "primary_artist_name": "Charles Bradley",
-  "primary_artist_canonical_slug": "charles-bradley"
+  "primary_artist_canonical_slug": "charles-bradley",
+  "musicbrainz_release_id": "ce7624ec-d9f2-4c3c-b141-d0b536820f1f",
+  "musicbrainz_release_group_id": "5780368b-735c-4481-8cf1-5a873c1f6a80"
 }

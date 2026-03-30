@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "bubblegum-pop",
+  "display_title": "Bubblegum Pop",
+  "display_name": "Bubblegum Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Bubblegum music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bubblegum_music",
+  "summary": "Bubblegum is pop music in a catchy and upbeat style that is marketed for children and adolescents. The term also refers to a more specific rock and pop subgenre, originating in the United States in the late 1960s, that evolved from garage rock, novelty songs, and the Brill Building sound, and which was also defined by its target demographic of preteens and young teenagers. The Archies' 1969 hit \"Sugar, Sugar\" was a representative example that led to cartoon rock, a short-lived trend of Saturday-morning cartoon series that heavily featured pop rock songs in the bubblegum vein.",
+  "candidates": [
+    "Bubble Gum (EP)",
+    "Bubble Guppies",
+    "Bubble Guppies season 1",
+    "Bubblegum (novel)",
+    "Bubblegum Coral",
+    "Bubblegum Dog",
+    "Bubblegum Perfume",
+    "Bubblegum pop",
+    "Bubblegum rap",
+    "Bubblegum-punk"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Bubblegum music",
+    "page_url": "https://en.wikipedia.org/wiki/Bubblegum_music",
+    "retrieved_at": "2026-03-28T15:53:50Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--bubblegum-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Bubblegum_music",
+      "retrieved_at": "2026-03-28T15:53:50Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}
