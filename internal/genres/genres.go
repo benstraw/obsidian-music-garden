@@ -13,7 +13,7 @@ import (
 	"github.com/benstraw/music-garden/internal/models"
 )
 
-const currentVersion = 5
+const currentVersion = 7
 
 const (
 	WorkflowStateDraft       = "draft"
@@ -31,8 +31,6 @@ type Store struct {
 	ArtistSourceIndex   map[string]string        `json:"artist_source_index,omitempty"`
 	Releases            map[string]ReleaseRecord `json:"releases,omitempty"`
 	ReleaseSourceIndex  map[string]string        `json:"release_source_index,omitempty"`
-	Tracks              map[string]TrackRecord   `json:"tracks,omitempty"`
-	TrackSourceIndex    map[string]string        `json:"track_source_index,omitempty"`
 }
 
 // ArtistRecord is the canonical metadata record for one artist.
@@ -66,23 +64,6 @@ type ReleaseRecord struct {
 	MusicBrainzReleaseGroupID string `json:"musicbrainz_release_group_id,omitempty"`
 	MusicBrainzReleaseID      string `json:"musicbrainz_release_id,omitempty"`
 	LastUpdated               string `json:"last_updated,omitempty"`
-}
-
-// TrackRecord is the canonical metadata record for one track.
-type TrackRecord struct {
-	Slug                  string   `json:"slug"`
-	Name                  string   `json:"name"`
-	PrimaryArtistSlug     string   `json:"primary_artist_slug,omitempty"`
-	PrimaryArtistName     string   `json:"primary_artist_name,omitempty"`
-	AdditionalArtistSlugs []string `json:"additional_artist_slugs,omitempty"`
-	AlbumArtistSlugs      []string `json:"album_artist_slugs,omitempty"`
-	ReleaseSlug           string   `json:"release_slug,omitempty"`
-	ReleaseName           string   `json:"release_name,omitempty"`
-	SpotifyTrackID        string   `json:"spotify_track_id,omitempty"`
-	MusicBrainzTrackID    string   `json:"musicbrainz_track_id,omitempty"`
-	SpotifyURL            string   `json:"spotify_url,omitempty"`
-	LegacyPlayCount       int      `json:"legacy_play_count,omitempty"`
-	LastUpdated           string   `json:"last_updated,omitempty"`
 }
 
 // GenreSourceAttribution preserves editorial/source provenance for a genre.
@@ -146,8 +127,6 @@ func NewStore() *Store {
 		ArtistSourceIndex:  map[string]string{},
 		Releases:           map[string]ReleaseRecord{},
 		ReleaseSourceIndex: map[string]string{},
-		Tracks:             map[string]TrackRecord{},
-		TrackSourceIndex:   map[string]string{},
 	}
 }
 
@@ -161,7 +140,12 @@ func Load(path string) (*Store, error) {
 	if err != nil {
 		return nil, err
 	}
+	return LoadBytes(data)
+}
 
+// LoadBytes reads the canonical metadata store from a JSON payload.
+// Legacy map-shaped caches are upgraded in memory to the canonical store shape on load.
+func LoadBytes(data []byte) (*Store, error) {
 	raw := map[string]json.RawMessage{}
 	if err := json.Unmarshal(data, &raw); err != nil {
 		return nil, err
@@ -195,11 +179,40 @@ func Load(path string) (*Store, error) {
 func Save(path string, store *Store) error {
 	normalizeStore(store)
 	sort.Strings(store.PendingGenreAliases)
-	data, err := json.MarshalIndent(store, "", "  ")
+	data, err := MarshalStore(store)
 	if err != nil {
 		return err
 	}
 	return os.WriteFile(path, data, 0644)
+}
+
+// MarshalStore serializes the canonical metadata store without embedded track persistence.
+func MarshalStore(store *Store) ([]byte, error) {
+	normalizeStore(store)
+	persisted := persistedStore{
+		Version:             store.Version,
+		GenreAliases:        store.GenreAliases,
+		PendingGenreAliases: store.PendingGenreAliases,
+		GenreRecords:        store.GenreRecords,
+		Artists:             store.Artists,
+		ArtistSlugAliases:   store.ArtistSlugAliases,
+		ArtistSourceIndex:   store.ArtistSourceIndex,
+		Releases:            store.Releases,
+		ReleaseSourceIndex:  store.ReleaseSourceIndex,
+	}
+	return json.MarshalIndent(persisted, "", "  ")
+}
+
+type persistedStore struct {
+	Version             int                      `json:"version"`
+	GenreAliases        map[string]string        `json:"genre_aliases,omitempty"`
+	PendingGenreAliases []string                 `json:"pending_genre_aliases,omitempty"`
+	GenreRecords        map[string]GenreRecord   `json:"genre_records,omitempty"`
+	Artists             map[string]ArtistRecord  `json:"artists,omitempty"`
+	ArtistSlugAliases   map[string]string        `json:"artist_slug_aliases,omitempty"`
+	ArtistSourceIndex   map[string]string        `json:"artist_source_index,omitempty"`
+	Releases            map[string]ReleaseRecord `json:"releases,omitempty"`
+	ReleaseSourceIndex  map[string]string        `json:"release_source_index,omitempty"`
 }
 
 // UpsertGenreEditorial merges Wikipedia/Wikimedia editorial metadata into a canonical genre record.
@@ -272,12 +285,9 @@ func ResolvePlay(store *Store, play models.Play) models.Play {
 	}
 	if play.ArtistName != "" || play.ArtistID != "" {
 		artist := ensureArtist(store, play.ArtistName, play.ArtistID, play.ArtistSpotifyURL)
-		additionalArtistSlugs := make([]string, 0, len(play.AdditionalArtists))
 		for _, extra := range play.AdditionalArtists {
 			record := ensureArtist(store, extra.Name, extra.ID, extra.SpotifyURL)
-			if record.Slug != "" {
-				additionalArtistSlugs = append(additionalArtistSlugs, record.Slug)
-			}
+			_ = record
 		}
 		release := ensureRelease(store, play.AlbumName, play.AlbumID, artist)
 		play.ArtistSlug = artist.Slug
@@ -296,11 +306,7 @@ func ResolvePlay(store *Store, play models.Play) models.Play {
 				play.ReleaseGroupMusicBrainzID = release.MusicBrainzReleaseGroupID
 			}
 		}
-		track := UpsertTrackMetadata(store, artist, release, play.TrackID, play.TrackName, play.TrackSpotifyURL, play.TrackMusicBrainzID, additionalArtistSlugs, nil, 0)
-		play.TrackSlug = track.Slug
-		if play.TrackMusicBrainzID == "" {
-			play.TrackMusicBrainzID = track.MusicBrainzTrackID
-		}
+		play.TrackSlug = derivedTrackSlug(play.ArtistSlug, play.TrackName, play.TrackID)
 	}
 	return play
 }
@@ -470,66 +476,6 @@ func UpsertReleaseMetadata(store *Store, artist ArtistRecord, spotifyAlbumID, na
 	return record
 }
 
-// UpsertTrackMetadata merges source metadata into a canonical track record.
-func UpsertTrackMetadata(store *Store, artist ArtistRecord, release ReleaseRecord, spotifyTrackID, name, spotifyURL, musicBrainzTrackID string, additionalArtistSlugs, albumArtistSlugs []string, legacyPlayCount int) TrackRecord {
-	normalizeStore(store)
-	additionalArtistSlugs = dedupeSortedStrings(additionalArtistSlugs)
-	albumArtistSlugs = dedupeSortedStrings(albumArtistSlugs)
-
-	if musicBrainzTrackID != "" {
-		if slug, ok := store.TrackSourceIndex[sourceKey("musicbrainz", musicBrainzTrackID)]; ok {
-			record := store.Tracks[slug]
-			record.Name = firstNonEmpty(name, record.Name)
-			record.PrimaryArtistSlug = firstNonEmpty(artist.Slug, record.PrimaryArtistSlug)
-			record.PrimaryArtistName = firstNonEmpty(artist.Name, record.PrimaryArtistName)
-			record.ReleaseSlug = firstNonEmpty(release.Slug, record.ReleaseSlug)
-			record.ReleaseName = firstNonEmpty(release.Name, record.ReleaseName)
-			record.SpotifyTrackID = firstNonEmpty(spotifyTrackID, record.SpotifyTrackID)
-			record.SpotifyURL = firstNonEmpty(spotifyURL, record.SpotifyURL)
-			record.MusicBrainzTrackID = firstNonEmpty(musicBrainzTrackID, record.MusicBrainzTrackID)
-			if len(additionalArtistSlugs) > len(record.AdditionalArtistSlugs) {
-				record.AdditionalArtistSlugs = append([]string(nil), additionalArtistSlugs...)
-			}
-			if len(albumArtistSlugs) > len(record.AlbumArtistSlugs) {
-				record.AlbumArtistSlugs = append([]string(nil), albumArtistSlugs...)
-			}
-			if legacyPlayCount > record.LegacyPlayCount {
-				record.LegacyPlayCount = legacyPlayCount
-			}
-			record.LastUpdated = today()
-			store.Tracks[slug] = record
-			if spotifyTrackID != "" {
-				store.TrackSourceIndex[sourceKey("spotify", spotifyTrackID)] = slug
-			}
-			return record
-		}
-	}
-
-	record := ensureTrack(store, name, spotifyTrackID, spotifyURL, artist, release)
-	record.Name = firstNonEmpty(name, record.Name)
-	record.PrimaryArtistSlug = firstNonEmpty(artist.Slug, record.PrimaryArtistSlug)
-	record.PrimaryArtistName = firstNonEmpty(artist.Name, record.PrimaryArtistName)
-	record.ReleaseSlug = firstNonEmpty(release.Slug, record.ReleaseSlug)
-	record.ReleaseName = firstNonEmpty(release.Name, record.ReleaseName)
-	record.SpotifyURL = firstNonEmpty(spotifyURL, record.SpotifyURL)
-	record.MusicBrainzTrackID = firstNonEmpty(musicBrainzTrackID, record.MusicBrainzTrackID)
-	if len(additionalArtistSlugs) > len(record.AdditionalArtistSlugs) {
-		record.AdditionalArtistSlugs = append([]string(nil), additionalArtistSlugs...)
-	}
-	if len(albumArtistSlugs) > len(record.AlbumArtistSlugs) {
-		record.AlbumArtistSlugs = append([]string(nil), albumArtistSlugs...)
-	}
-	if legacyPlayCount > record.LegacyPlayCount {
-		record.LegacyPlayCount = legacyPlayCount
-	}
-	record.LastUpdated = today()
-	store.Tracks[record.Slug] = record
-	if musicBrainzTrackID != "" {
-		store.TrackSourceIndex[sourceKey("musicbrainz", musicBrainzTrackID)] = record.Slug
-	}
-	return record
-}
-
 // CanonicalizeTopArtist updates the store and returns a top artist value whose
 // Genres field contains canonical genre slugs instead of raw source strings.
 func CanonicalizeTopArtist(store *Store, artist models.TopArtist) models.TopArtist {
@@ -657,22 +603,6 @@ func ReleaseRecords(store *Store) []ReleaseRecord {
 	normalizeStore(store)
 	records := make([]ReleaseRecord, 0, len(store.Releases))
 	for _, record := range store.Releases {
-		records = append(records, record)
-	}
-	sort.Slice(records, func(i, j int) bool {
-		if records[i].Name != records[j].Name {
-			return records[i].Name < records[j].Name
-		}
-		return records[i].Slug < records[j].Slug
-	})
-	return records
-}
-
-// TrackRecords returns all track records sorted by name then slug.
-func TrackRecords(store *Store) []TrackRecord {
-	normalizeStore(store)
-	records := make([]TrackRecord, 0, len(store.Tracks))
-	for _, record := range store.Tracks {
 		records = append(records, record)
 	}
 	sort.Slice(records, func(i, j int) bool {
@@ -854,72 +784,6 @@ func ensureRelease(store *Store, name, spotifyAlbumID string, artist ArtistRecor
 	return record
 }
 
-func ensureTrack(store *Store, name, spotifyTrackID, spotifyURL string, artist ArtistRecord, release ReleaseRecord) TrackRecord {
-	if spotifyTrackID != "" {
-		if slug, ok := store.TrackSourceIndex[sourceKey("spotify", spotifyTrackID)]; ok {
-			record := store.Tracks[slug]
-			if name != "" {
-				record.Name = name
-			}
-			if spotifyURL != "" {
-				record.SpotifyURL = spotifyURL
-			}
-			if record.ReleaseSlug == "" {
-				record.ReleaseSlug = release.Slug
-				record.ReleaseName = release.Name
-			}
-			if record.PrimaryArtistSlug == "" {
-				record.PrimaryArtistSlug = artist.Slug
-				record.PrimaryArtistName = artist.Name
-			}
-			store.Tracks[slug] = record
-			return record
-		}
-	}
-
-	base := Slug(name)
-	if base == "" {
-		base = "unknown-track"
-	}
-	if artist.Slug != "" {
-		base = artist.Slug + "--" + base
-	}
-	slug := base
-	for i := 2; ; i++ {
-		existing, ok := store.Tracks[slug]
-		if !ok {
-			break
-		}
-		if spotifyTrackID != "" && existing.SpotifyTrackID == spotifyTrackID {
-			return existing
-		}
-		if spotifyTrackID == "" && existing.Name == name && existing.PrimaryArtistSlug == artist.Slug {
-			return existing
-		}
-		slug = fmt.Sprintf("%s-%d", base, i)
-	}
-
-	record := TrackRecord{
-		Slug:              slug,
-		Name:              name,
-		PrimaryArtistSlug: artist.Slug,
-		PrimaryArtistName: artist.Name,
-		ReleaseSlug:       release.Slug,
-		ReleaseName:       release.Name,
-		SpotifyTrackID:    spotifyTrackID,
-		SpotifyURL:        spotifyURL,
-		LastUpdated:       today(),
-	}
-	store.Tracks[slug] = record
-	if spotifyTrackID != "" {
-		store.TrackSourceIndex[sourceKey("spotify", spotifyTrackID)] = slug
-	}
-	if record.MusicBrainzTrackID != "" {
-		store.TrackSourceIndex[sourceKey("musicbrainz", record.MusicBrainzTrackID)] = slug
-	}
-	return record
-}
-
 func canonicalGenres(store *Store, sourceGenres []string) []string {
 	normalizeStore(store)
 	seen := map[string]bool{}
@@ -986,12 +850,6 @@ func normalizeStore(store *Store) {
 	if store.ReleaseSourceIndex == nil {
 		store.ReleaseSourceIndex = map[string]string{}
 	}
-	if store.Tracks == nil {
-		store.Tracks = map[string]TrackRecord{}
-	}
-	if store.TrackSourceIndex == nil {
-		store.TrackSourceIndex = map[string]string{}
-	}
 	if store.GenreAliases == nil {
 		store.GenreAliases = map[string]string{}
 	}
@@ -1023,6 +881,19 @@ func normalizeStore(store *Store) {
 		}
 		store.ArtistSlugAliases[normalized] = resolved
 	}
+}
+
+func derivedTrackSlug(artistSlug, trackName, spotifyTrackID string) string {
+	if artistSlug != "" && trackName != "" {
+		return strings.TrimSpace(artistSlug) + "--" + Slug(trackName)
+	}
+	if trackName != "" {
+		return Slug(trackName)
+	}
+	if spotifyTrackID != "" {
+		return Slug("track-" + spotifyTrackID)
+	}
+	return ""
 }
 
 func normalizeWorkflowState(state string) string {

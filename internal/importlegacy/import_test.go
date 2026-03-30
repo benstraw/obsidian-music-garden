@@ -8,7 +8,7 @@ import (
 	"github.com/benstraw/music-garden/internal/genres"
 )
 
-func TestRun_importsLegacyTrackCounts(t *testing.T) {
+func TestRun_ignoresLegacyTopTracks(t *testing.T) {
 	root := t.TempDir()
 	sourceDir := filepath.Join(root, "data", "spotify")
 	if err := os.MkdirAll(filepath.Join(root, "public", "musical-genres", "ambient"), 0755); err != nil {
@@ -34,18 +34,8 @@ func TestRun_importsLegacyTrackCounts(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Run: %v", err)
 	}
-	if summary.TracksAdded != 1 {
-		t.Fatalf("TracksAdded = %d, want 1", summary.TracksAdded)
-	}
-	track := store.Tracks["artist-one--song-one"]
-	if track.LegacyPlayCount != 2 {
-		t.Fatalf("LegacyPlayCount = %d, want 2", track.LegacyPlayCount)
-	}
-	if len(track.AdditionalArtistSlugs) != 0 {
-		t.Fatalf("AdditionalArtistSlugs = %v, want none for unknown collaborators", track.AdditionalArtistSlugs)
-	}
-	if len(track.AlbumArtistSlugs) != 0 {
-		t.Fatalf("AlbumArtistSlugs = %v, want none for unknown collaborators", track.AlbumArtistSlugs)
+	if summary.ArtistsAdded != 1 {
+		t.Fatalf("ArtistsAdded = %d, want 1", summary.ArtistsAdded)
 	}
 	if _, ok := store.Artists["artist-two"]; ok {
 		t.Fatalf("unexpected collaborator artist-two in store")
@@ -55,7 +45,7 @@ func TestRun_importsLegacyTrackCounts(t *testing.T) {
 	}
 }
 
-func TestRun_importsAllowedCollaboratorsFromLegacyTracks(t *testing.T) {
+func TestRun_ignoresLegacyTopTrackCollaboratorDetails(t *testing.T) {
 	root := t.TempDir()
 	sourceDir := filepath.Join(root, "data", "spotify")
 	if err := os.MkdirAll(filepath.Join(root, "public", "musical-genres", "ambient"), 0755); err != nil {
@@ -83,13 +73,11 @@ func TestRun_importsAllowedCollaboratorsFromLegacyTracks(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Run: %v", err)
 	}
-
-	track := store.Tracks["artist-one--song-one"]
-	if len(track.AdditionalArtistSlugs) != 1 || track.AdditionalArtistSlugs[0] != "artist-two" {
-		t.Fatalf("AdditionalArtistSlugs = %v", track.AdditionalArtistSlugs)
+	if _, ok := store.Artists["artist-one"]; !ok {
+		t.Fatalf("expected primary artist-one in store")
 	}
-	if len(track.AlbumArtistSlugs) != 1 || track.AlbumArtistSlugs[0] != "artist-three" {
-		t.Fatalf("AlbumArtistSlugs = %v", track.AlbumArtistSlugs)
+	if _, ok := store.Releases["artist-one--album-one"]; ok {
+		t.Fatalf("unexpected release imported from topTracks.json")
 	}
 }
 

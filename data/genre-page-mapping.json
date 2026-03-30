@@ -2,16 +2,82 @@
   "ambient": {
     "page_title": "Ambient music"
   },
+  "americana": {
+    "page_title": "Americana music"
+  },
+  "bluegrass": {
+    "page_title": "Bluegrass music"
+  },
+  "celtic": {
+    "page_title": "Celtic music"
+  },
   "country": {
     "page_title": "Country music"
+  },
+  "contemporary-classical": {
+    "page_title": "Contemporary classical music"
+  },
+  "dub": {
+    "page_title": "Dub music"
   },
   "electronic": {
     "page_title": "Electronic music"
   },
+  "g-funk": {
+    "page_title": "G-funk"
+  },
+  "jazz-funk": {
+    "page_title": "Jazz-funk"
+  },
+  "neo-psychedelic": {
+    "page_title": "Neo-psychedelia"
+  },
   "hip-hop": {
     "page_title": "Hip hop music"
   },
+  "indie": {
+    "page_title": "Independent music"
+  },
+  "gangster-rap": {
+    "page_title": "Gangsta rap"
+  },
+  "new-wave": {
+    "page_title": "New wave music"
+  },
+  "honky-tonk": {
+    "page_title": "Honky-tonk"
+  },
+  "idm": {
+    "page_title": "Intelligent dance music"
+  },
+  "experimental": {
+    "page_title": "Experimental music"
+  },
+  "pop": {
+    "page_title": "Popular music"
+  },
+  "post-punk": {
+    "page_title": "Post-punk"
+  },
+  "post-rock": {
+    "page_title": "Post-rock"
+  },
+  "proto-punk": {
+    "page_title": "Proto-punk"
+  },
+  "rap": {
+    "page_title": "Rapping"
+  },
+  "red-dirt": {
+    "page_title": "Red dirt music"
+  },
   "rock": {
     "page_title": "Rock music"
+  },
+  "southern-hip-hop": {
+    "page_title": "Southern hip hop"
+  },
+  "singer-songwriter": {
+    "page_title": "Singer-songwriter"
   }
 }

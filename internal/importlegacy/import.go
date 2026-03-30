@@ -23,8 +23,6 @@ type Options struct {
 type Summary struct {
 	ArtistsAdded            int
 	ReleasesAdded           int
-	TracksAdded             int
-	TrackLegacyCountsSet    int
 	ArtistSlugMappings      int
 	GenreSlugMappings       int
 	UnresolvedGenreLabels   int
@@ -66,29 +64,10 @@ type artistsFileRecord struct {
 	Genres     []string `json:"genres"`
 }
 
-type topTracksFile struct {
-	Items []legacyTrack `json:"items"`
-}
-
-type legacyTrack struct {
-	ID           string               `json:"id"`
-	Name         string               `json:"name"`
-	Artists      []legacySimpleArtist `json:"artists"`
-	Album        legacyAlbum          `json:"album"`
-	DurationMS   int                  `json:"duration_ms"`
-	ExternalURLs map[string]string    `json:"external_urls"`
-}
-
 type legacySimpleArtist struct {
 	ID           string            `json:"id"`
 	Name         string            `json:"name"`
 	ExternalURLs map[string]string `json:"external_urls"`
-}
-
-type legacyAlbum struct {
-	ID      string               `json:"id"`
-	Name    string               `json:"name"`
-	Artists []legacySimpleArtist `json:"artists"`
 }
 
 func Run(store *genres.Store, opts Options) (Summary, error) {
@@ -96,14 +75,8 @@ func Run(store *genres.Store, opts Options) (Summary, error) {
 	if sourceDir == "" {
 		return Summary{}, fmt.Errorf("empty source dir")
 	}
-	allowedArtistIDs, err := legacyAllowedArtistIDs(store, sourceDir)
-	if err != nil {
-		return Summary{}, err
-	}
-
 	beforeArtists := len(store.Artists)
 	beforeReleases := len(store.Releases)
-	beforeTracks := len(store.Tracks)
 	beforePending := len(store.PendingGenreAliases)
 
 	if err := importTopArtists(store, filepath.Join(sourceDir, "topArtists.json"), opts.Verbose); err != nil {
@@ -115,11 +88,6 @@ func Run(store *genres.Store, opts Options) (Summary, error) {
 	if err := importArtistsSupplement(store, filepath.Join(sourceDir, "artists.json"), opts.Verbose); err != nil {
 		return Summary{}, err
 	}
-	legacyCounts, err := importTopTracks(store, filepath.Join(sourceDir, "topTracks.json"), allowedArtistIDs, opts.Verbose)
-	if err != nil {
-		return Summary{}, err
-	}
-
 	artistMappings := buildLegacyArtistSlugMappings(store, filepath.Join(sourceDir, "artists.json"))
 	applyLegacyArtistSlugMappings(store, artistMappings)
 	genreMappings := buildLegacyGenreSlugMappings(store, sourceDir)
@@ -127,8 +95,6 @@ func Run(store *genres.Store, opts Options) (Summary, error) {
 	summary := Summary{
 		ArtistsAdded:          len(store.Artists) - beforeArtists,
 		ReleasesAdded:         len(store.Releases) - beforeReleases,
-		TracksAdded:           len(store.Tracks) - beforeTracks,
-		TrackLegacyCountsSet:  legacyCounts,
 		ArtistSlugMappings:    countResolvedArtistMappings(artistMappings),
 		GenreSlugMappings:     countResolvedGenreMappings(genreMappings),
 		UnresolvedGenreLabels: len(store.PendingGenreAliases) - beforePending,
@@ -205,91 +171,6 @@ func importArtistsSupplement(store *genres.Store, path string, verbose bool) err
 	return nil
 }
 
-func importTopTracks(store *genres.Store, path string, allowedArtistIDs map[string]bool, verbose bool) (int, error) {
-	var payload topTracksFile
-	ok, err := readJSON(path, &payload)
-	if err != nil || !ok {
-		return 0, err
-	}
-
-	counts := map[string]int{}
-	tracksByID := map[string]legacyTrack{}
-	order := make([]string, 0, len(payload.Items))
-	for _, track := range payload.Items {
-		if strings.TrimSpace(track.ID) == "" {
-			continue
-		}
-		if _, seen := counts[track.ID]; !seen {
-			order = append(order, track.ID)
-			tracksByID[track.ID] = track
-		}
-		counts[track.ID]++
-	}
-
-	updated := 0
-	for _, trackID := range order {
-		track := tracksByID[trackID]
-		primary := firstLegacyArtist(track.Artists)
-		if !allowedLegacyArtist(primary, allowedArtistIDs) {
-			continue
-		}
-		if verbose {
-			fmt.Printf("legacy top track: %s\n", track.Name)
-		}
-
-		primaryArtist := upsertLegacyArtist(store, primary)
-		additionalArtistSlugs := make([]string, 0, len(track.Artists))
-		for _, artist := range track.Artists[1:] {
-			if !allowedLegacyArtist(artist, allowedArtistIDs) {
-				continue
-			}
-			record := upsertLegacyArtist(store, artist)
-			if record.Slug != "" {
-				additionalArtistSlugs = append(additionalArtistSlugs, record.Slug)
-			}
-		}
-
-		releaseArtist := primaryArtist
-		albumArtistSlugs := []string(nil)
-		if len(track.Album.Artists) > 0 && allowedLegacyArtist(track.Album.Artists[0], allowedArtistIDs) {
-			releaseArtist = upsertLegacyArtist(store, track.Album.Artists[0])
-			normalizedAlbumArtists := models.NormalizeAlbumArtists(
-				models.PlayArtist{ID: primaryArtist.SpotifyArtistID, Name: primaryArtist.Name, SpotifyURL: primaryArtist.SpotifyURL},
-				toPlayArtists(track.Album.Artists),
-			)
-			for _, artist := range normalizedAlbumArtists {
-				if !allowedArtistIDs[artist.ID] {
-					continue
-				}
-				record := genres.UpsertArtistMetadata(store, artist.ID, artist.Name, artist.SpotifyURL, "", nil, nil)
-				if record.Slug != "" {
-					albumArtistSlugs = append(albumArtistSlugs, record.Slug)
-				}
-			}
-		}
-
-		release := genres.UpsertReleaseMetadata(store, releaseArtist, track.Album.ID, track.Album.Name, "", "")
-		before := store.Tracks
-		_ = before
-		record := genres.UpsertTrackMetadata(
-			store,
-			primaryArtist,
-			release,
-			track.ID,
-			track.Name,
-			track.ExternalURLs["spotify"],
-			"",
-			additionalArtistSlugs,
-			albumArtistSlugs,
-			counts[trackID],
-		)
-		if record.LegacyPlayCount == counts[trackID] {
-			updated++
-		}
-	}
-	return updated, nil
-}
-
 func legacyAllowedArtistIDs(store *genres.Store, sourceDir string) (map[string]bool, error) {
 	result := map[string]bool{}
 	for _, record := range store.Artists {
@@ -325,42 +206,6 @@ func legacyAllowedArtistIDs(store *genres.Store, sourceDir string) (map[string]b
 	}
 
 	return result, nil
-}
-
-func allowedLegacyArtist(artist legacySimpleArtist, allowedArtistIDs map[string]bool) bool {
-	id := strings.TrimSpace(artist.ID)
-	return id != "" && allowedArtistIDs[id]
-}
-
-func upsertLegacyArtist(store *genres.Store, artist legacySimpleArtist) genres.ArtistRecord {
-	return genres.UpsertArtistMetadata(
-		store,
-		artist.ID,
-		artist.Name,
-		artist.ExternalURLs["spotify"],
-		"",
-		nil,
-		nil,
-	)
-}
-
-func firstLegacyArtist(artists []legacySimpleArtist) legacySimpleArtist {
-	if len(artists) == 0 {
-		return legacySimpleArtist{}
-	}
-	return artists[0]
-}
-
-func toPlayArtists(artists []legacySimpleArtist) []models.PlayArtist {
-	result := make([]models.PlayArtist, 0, len(artists))
-	for _, artist := range artists {
-		result = append(result, models.PlayArtist{
-			ID:         artist.ID,
-			Name:       artist.Name,
-			SpotifyURL: artist.ExternalURLs["spotify"],
-		})
-	}
-	return result
 }
 
 func buildLegacyArtistSlugMappings(store *genres.Store, path string) []LegacyArtistSlugMapping {

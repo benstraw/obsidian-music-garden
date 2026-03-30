@@ -213,6 +213,20 @@ type AggregatedGenreRecord struct {
 	LastUpdated     string                         `json:"last_updated,omitempty"`
 }
 
+type derivedTrackRecord struct {
+	Slug                  string
+	Name                  string
+	PlayCount             int
+	PrimaryArtistSlug     string
+	PrimaryArtistName     string
+	AdditionalArtistSlugs []string
+	ReleaseSlug           string
+	ReleaseName           string
+	SpotifyTrackID        string
+	MusicBrainzTrackID    string
+	SpotifyURL            string
+}
+
 // RawFetchManifest records how a raw source payload was fetched.
 type RawFetchManifest struct {
 	Source      string `json:"source"`
@@ -366,7 +380,7 @@ func SyncAggregatedStore(dataRoot string, store *genres.Store, plays []models.Pl
 	if err := EnsureLayout(dataRoot); err != nil {
 		return err
 	}
-	if err := SyncNormalizedStore(dataRoot, store); err != nil {
+	if err := SyncNormalizedStore(dataRoot, store, plays); err != nil {
 		return err
 	}
 	if err := writeAggregatedArtists(filepath.Join(dataRoot, "aggregated", "artists"), store, plays); err != nil {
@@ -386,7 +400,7 @@ func SyncAggregatedStore(dataRoot string, store *genres.Store, plays []models.Pl
 
 // SyncNormalizedStore rewrites normalized artist/release/track/genre records
 // for the currently supported source adapters.
-func SyncNormalizedStore(dataRoot string, store *genres.Store) error {
+func SyncNormalizedStore(dataRoot string, store *genres.Store, plays []models.Play) error {
 	if err := EnsureLayout(dataRoot); err != nil {
 		return err
 	}
@@ -396,7 +410,7 @@ func SyncNormalizedStore(dataRoot string, store *genres.Store) error {
 	if err := writeNormalizedReleases(filepath.Join(dataRoot, "normalized", "releases"), store); err != nil {
 		return err
 	}
-	if err := writeNormalizedTracks(filepath.Join(dataRoot, "normalized", "tracks"), store); err != nil {
+	if err := writeNormalizedTracks(filepath.Join(dataRoot, "normalized", "tracks"), store, plays); err != nil {
 		return err
 	}
 	if err := writeNormalizedGenres(filepath.Join(dataRoot, "normalized", "genres"), store); err != nil {
@@ -451,8 +465,8 @@ func writeNormalizedReleases(dir string, store *genres.Store) error {
 	return nil
 }
 
-func writeNormalizedTracks(dir string, store *genres.Store) error {
-	for _, record := range genres.TrackRecords(store) {
+func writeNormalizedTracks(dir string, store *genres.Store, plays []models.Play) error {
+	for _, record := range derivedTrackRecords(store, plays) {
 		path := filepath.Join(dir, record.Slug+".json")
 		payload := NormalizedTrackRecord{
 			Source:                     "spotify",
@@ -461,12 +475,10 @@ func writeNormalizedTracks(dir string, store *genres.Store) error {
 			PrimaryArtistName:          record.PrimaryArtistName,
 			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
 			AdditionalArtistSlugs:      append([]string(nil), record.AdditionalArtistSlugs...),
-			AlbumArtistSlugs:           append([]string(nil), record.AlbumArtistSlugs...),
 			ReleaseName:                record.ReleaseName,
 			ReleaseCanonicalSlug:       record.ReleaseSlug,
 			SpotifyURL:                 record.SpotifyURL,
 			MusicBrainzTrackID:         record.MusicBrainzTrackID,
-			LegacyPlayCount:            record.LegacyPlayCount,
 		}
 		if err := writeJSON(path, payload); err != nil {
 			return err
@@ -556,24 +568,20 @@ func writeAggregatedReleases(dir string, store *genres.Store, plays []models.Pla
 }
 
 func writeAggregatedTracks(dir string, store *genres.Store, plays []models.Play) error {
-	_, _, _, _, observedTrackCounts, legacyTrackCounts := aggregateTrackCounts(store, plays)
-	for _, record := range genres.TrackRecords(store) {
+	for _, record := range derivedTrackRecords(store, plays) {
 		path := filepath.Join(dir, record.Slug+".json")
 		payload := AggregatedTrackRecord{
 			CanonicalSlug:              record.Slug,
 			Name:                       record.Name,
-			PlayCount:                  observedTrackCounts[record.Slug] + legacyTrackCounts[record.Slug],
+			PlayCount:                  record.PlayCount,
 			PrimaryArtistCanonicalSlug: record.PrimaryArtistSlug,
 			PrimaryArtistName:          record.PrimaryArtistName,
 			AdditionalArtistSlugs:      append([]string(nil), record.AdditionalArtistSlugs...),
-			AlbumArtistSlugs:           append([]string(nil), record.AlbumArtistSlugs...),
 			ReleaseCanonicalSlug:       record.ReleaseSlug,
 			ReleaseName:                record.ReleaseName,
 			SpotifyTrackID:             record.SpotifyTrackID,
 			MusicBrainzTrackID:         record.MusicBrainzTrackID,
 			SpotifyURL:                 record.SpotifyURL,
-			LegacyPlayCount:            legacyTrackCounts[record.Slug],
-			LastUpdated:                record.LastUpdated,
 		}
 		if err := writeJSON(path, payload); err != nil {
 			return err
@@ -665,6 +673,7 @@ func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []mo
 	artistCounts := map[string]int{}
 	releaseCounts := map[string]int{}
 	trackCounts := map[string]int{}
+	trackRecords := map[string]derivedTrackRecord{}
 	seenArtists := map[string]bool{}
 	seenReleases := map[string]bool{}
 	seenTracks := map[string]bool{}
@@ -697,29 +706,9 @@ func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []mo
 		if trackSlug != "" {
 			trackCounts[trackSlug]++
 			seenTracks[trackSlug] = true
-		}
-	}
-
-	for _, track := range genres.TrackRecords(store) {
-		if track.LegacyPlayCount <= 0 {
-			continue
-		}
-		artist, ok := store.Artists[track.PrimaryArtistSlug]
-		if !ok || !containsString(artist.Genres, slug) {
-			continue
-		}
-		payload.ListeningStats.PlayCount += track.LegacyPlayCount
-		if artist.Slug != "" {
-			artistCounts[artist.Slug] += track.LegacyPlayCount
-			seenArtists[artist.Slug] = true
-		}
-		if track.ReleaseSlug != "" {
-			releaseCounts[track.ReleaseSlug] += track.LegacyPlayCount
-			seenReleases[track.ReleaseSlug] = true
-		}
-		if track.Slug != "" {
-			trackCounts[track.Slug] += track.LegacyPlayCount
-			seenTracks[track.Slug] = true
+			if track, ok := derivedTrackRecordForPlay(store, play); ok {
+				trackRecords[trackSlug] = mergeDerivedTrackRecord(trackRecords[trackSlug], track)
+			}
 		}
 	}
 
@@ -728,7 +717,7 @@ func BuildAggregatedGenreRecord(dataRoot string, store *genres.Store, plays []mo
 	payload.ListeningStats.UniqueTrackCount = len(seenTracks)
 	payload.TopArtists = topGenreArtists(store, artistCounts, 10)
 	payload.TopReleases = topGenreReleases(store, releaseCounts, 10)
-	payload.TopTracks = topGenreTracks(store, trackCounts, 10)
+	payload.TopTracks = topGenreTracks(trackRecords, trackCounts, 10)
 	payload.SourceRefs = genreSourceRefs(dataRoot, payload, len(aliases) > 0 || payload.DisplayTitle != "" || payload.ParentSlug != "" || payload.Notes != "")
 	payload.LastUpdated = maxTimestamp(payload.LastUpdated, payload.ListeningStats.LastPlayedAt)
 	return payload, nil
@@ -841,18 +830,6 @@ func aggregateEntityCounts(store *genres.Store, plays []models.Play) (map[string
 		}
 	}
 
-	for _, track := range genres.TrackRecords(store) {
-		if track.LegacyPlayCount <= 0 {
-			continue
-		}
-		if track.PrimaryArtistSlug != "" {
-			legacyArtistCounts[track.PrimaryArtistSlug] += track.LegacyPlayCount
-		}
-		if track.ReleaseSlug != "" {
-			legacyReleaseCounts[track.ReleaseSlug] += track.LegacyPlayCount
-		}
-	}
-
 	return observedArtistCounts, legacyArtistCounts, observedReleaseCounts, legacyReleaseCounts
 }
 
@@ -865,12 +842,6 @@ func aggregateTrackCounts(store *genres.Store, plays []models.Play) (map[string]
 		if trackSlug := firstNonEmpty(play.TrackSlug, trackSlugForPlay(store, play)); trackSlug != "" {
 			observedTrackCounts[trackSlug]++
 		}
-	}
-	for _, track := range genres.TrackRecords(store) {
-		if track.LegacyPlayCount <= 0 || track.Slug == "" {
-			continue
-		}
-		legacyTrackCounts[track.Slug] += track.LegacyPlayCount
 	}
 
 	return observedArtistCounts, legacyArtistCounts, observedReleaseCounts, legacyReleaseCounts, observedTrackCounts, legacyTrackCounts
@@ -972,18 +943,111 @@ func trackSlugForPlay(store *genres.Store, play models.Play) string {
 	if play.TrackSlug != "" {
 		return play.TrackSlug
 	}
-	if play.TrackID != "" {
-		if slug := store.TrackSourceIndex["spotify:"+play.TrackID]; slug != "" {
-			return slug
-		}
+	artistSlug := firstNonEmpty(play.ArtistSlug, artistSlugForPlay(store, play))
+	if artistSlug != "" && play.TrackName != "" {
+		return artistSlug + "--" + genres.Slug(play.TrackName)
 	}
-	if play.ArtistSlug != "" && play.TrackName != "" {
-		slug := genres.Slug(play.ArtistSlug + "--" + play.TrackName)
-		if _, ok := store.Tracks[slug]; ok {
+	if play.TrackName != "" {
+		return genres.Slug(play.TrackName)
+	}
+	if play.TrackID != "" {
+		return genres.Slug("track-" + play.TrackID)
+	}
+	return ""
+}
+
+func artistSlugForPlay(store *genres.Store, play models.Play) string {
+	if play.ArtistSlug != "" {
+		return genres.CanonicalArtistSlug(store, play.ArtistSlug)
+	}
+	if play.ArtistID != "" {
+		if slug, ok := store.ArtistSourceIndex["spotify:"+play.ArtistID]; ok {
 			return slug
 		}
 	}
 	return ""
+}
+
+func derivedTrackRecordForPlay(store *genres.Store, play models.Play) (derivedTrackRecord, bool) {
+	slug := trackSlugForPlay(store, play)
+	if slug == "" {
+		return derivedTrackRecord{}, false
+	}
+	artistSlug := firstNonEmpty(play.ArtistSlug, artistSlugForPlay(store, play))
+	artistName := strings.TrimSpace(play.ArtistName)
+	if artistName == "" && artistSlug != "" {
+		if artist, ok := store.Artists[artistSlug]; ok {
+			artistName = artist.Name
+		}
+	}
+	additional := make([]string, 0, len(play.AdditionalArtists))
+	for _, artist := range play.AdditionalArtists {
+		if artist.ID == "" && artist.Name == "" {
+			continue
+		}
+		record := genres.UpsertArtistMetadata(store, artist.ID, artist.Name, artist.SpotifyURL, "", nil, nil)
+		if record.Slug != "" {
+			additional = append(additional, record.Slug)
+		}
+	}
+	return derivedTrackRecord{
+		Slug:                  slug,
+		Name:                  play.TrackName,
+		PrimaryArtistSlug:     artistSlug,
+		PrimaryArtistName:     artistName,
+		AdditionalArtistSlugs: dedupeStrings(additional),
+		ReleaseSlug:           firstNonEmpty(play.ReleaseSlug, releaseSlugForPlay(store, play)),
+		ReleaseName:           play.AlbumName,
+		SpotifyTrackID:        play.TrackID,
+		MusicBrainzTrackID:    play.TrackMusicBrainzID,
+		SpotifyURL:            play.TrackSpotifyURL,
+	}, true
+}
+
+func mergeDerivedTrackRecord(existing, next derivedTrackRecord) derivedTrackRecord {
+	if existing.Slug == "" {
+		return next
+	}
+	existing.Name = firstNonEmpty(existing.Name, next.Name)
+	existing.PrimaryArtistSlug = firstNonEmpty(existing.PrimaryArtistSlug, next.PrimaryArtistSlug)
+	existing.PrimaryArtistName = firstNonEmpty(existing.PrimaryArtistName, next.PrimaryArtistName)
+	existing.ReleaseSlug = firstNonEmpty(existing.ReleaseSlug, next.ReleaseSlug)
+	existing.ReleaseName = firstNonEmpty(existing.ReleaseName, next.ReleaseName)
+	existing.SpotifyTrackID = firstNonEmpty(existing.SpotifyTrackID, next.SpotifyTrackID)
+	existing.MusicBrainzTrackID = firstNonEmpty(existing.MusicBrainzTrackID, next.MusicBrainzTrackID)
+	existing.SpotifyURL = firstNonEmpty(existing.SpotifyURL, next.SpotifyURL)
+	if len(next.AdditionalArtistSlugs) > 0 {
+		existing.AdditionalArtistSlugs = dedupeStrings(append(existing.AdditionalArtistSlugs, next.AdditionalArtistSlugs...))
+	}
+	if next.PlayCount > existing.PlayCount {
+		existing.PlayCount = next.PlayCount
+	}
+	return existing
+}
+
+func derivedTrackRecords(store *genres.Store, plays []models.Play) []derivedTrackRecord {
+	recordsBySlug := map[string]derivedTrackRecord{}
+	for _, play := range plays {
+		record, ok := derivedTrackRecordForPlay(store, play)
+		if !ok {
+			continue
+		}
+		record.PlayCount = 1
+		record = mergeDerivedTrackRecord(recordsBySlug[record.Slug], record)
+		record.PlayCount = recordsBySlug[record.Slug].PlayCount + 1
+		recordsBySlug[record.Slug] = record
+	}
+	records := make([]derivedTrackRecord, 0, len(recordsBySlug))
+	for _, record := range recordsBySlug {
+		records = append(records, record)
+	}
+	sort.Slice(records, func(i, j int) bool {
+		if records[i].Name != records[j].Name {
+			return records[i].Name < records[j].Name
+		}
+		return records[i].Slug < records[j].Slug
+	})
+	return records
 }
 
 func topGenreArtists(store *genres.Store, counts map[string]int, limit int) []AggregatedGenreArtist {
@@ -1070,7 +1134,7 @@ func topGenreReleases(store *genres.Store, counts map[string]int, limit int) []A
 	return result
 }
 
-func topGenreTracks(store *genres.Store, counts map[string]int, limit int) []AggregatedGenreTrack {
+func topGenreTracks(records map[string]derivedTrackRecord, counts map[string]int, limit int) []AggregatedGenreTrack {
 	type bucket struct {
 		slug  string
 		count int
@@ -1078,7 +1142,7 @@ func topGenreTracks(store *genres.Store, counts map[string]int, limit int) []Agg
 	}
 	items := make([]bucket, 0, len(counts))
 	for slug, count := range counts {
-		record, ok := store.Tracks[slug]
+		record, ok := records[slug]
 		if !ok {
 			continue
 		}
@@ -1098,7 +1162,7 @@ func topGenreTracks(store *genres.Store, counts map[string]int, limit int) []Agg
 	}
 	result := make([]AggregatedGenreTrack, 0, len(items))
 	for _, item := range items {
-		record := store.Tracks[item.slug]
+		record := records[item.slug]
 		result = append(result, AggregatedGenreTrack{
 			CanonicalSlug:              item.slug,
 			Name:                       record.Name,
@@ -1128,10 +1192,10 @@ func genreSourceRefs(_ string, record AggregatedGenreRecord, includeTaxonomy boo
 	if record.ListeningStats.PlayCount > 0 {
 		refs = append(refs, AggregatedSourceReference{
 			Role:      "listening_stats",
-			Source:    "spotify+legacy",
+			Source:    "spotify",
 			Path:      filepath.ToSlash(filepath.Join("plays")),
 			UpdatedAt: record.ListeningStats.LastPlayedAt,
-			Note:      "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history plus imported untimestamped legacy play counts.",
+			Note:      "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history.",
 		})
 	}
 	if record.WikipediaURL != "" || record.Summary != "" {

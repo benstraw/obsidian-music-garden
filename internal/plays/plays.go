@@ -23,6 +23,11 @@ func Load(path string) ([]models.Play, error) {
 	if err != nil {
 		return nil, err
 	}
+	return LoadBytes(data)
+}
+
+// LoadBytes decodes a play slice from JSON bytes.
+func LoadBytes(data []byte) ([]models.Play, error) {
 	var plays []models.Play
 	if err := json.Unmarshal(data, &plays); err != nil {
 		return nil, err

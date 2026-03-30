@@ -85,9 +85,6 @@ func TestSyncAggregatedStore(t *testing.T) {
 		AlbumID:    "album1",
 	})
 	plays := []models.Play{play}
-	track := store.Tracks["artist-one--song-one"]
-	track.LegacyPlayCount = 2
-	store.Tracks[track.Slug] = track
 
 	if err := SyncAggregatedStore(root, store, plays); err != nil {
 		t.Fatalf("SyncAggregatedStore: %v", err)
@@ -121,16 +118,16 @@ func TestSyncAggregatedStore(t *testing.T) {
 	if record.WorkflowState != genres.WorkflowStatePublishable {
 		t.Fatalf("WorkflowState = %q", record.WorkflowState)
 	}
-	if record.ListeningStats.PlayCount != 3 {
+	if record.ListeningStats.PlayCount != 1 {
 		t.Fatalf("PlayCount = %d", record.ListeningStats.PlayCount)
 	}
-	if len(record.TopArtists) != 1 || record.TopArtists[0].CanonicalSlug != "artist-one" || record.TopArtists[0].PlayCount != 3 {
+	if len(record.TopArtists) != 1 || record.TopArtists[0].CanonicalSlug != "artist-one" || record.TopArtists[0].PlayCount != 1 {
 		t.Fatalf("TopArtists = %+v", record.TopArtists)
 	}
-	if len(record.TopReleases) != 1 || record.TopReleases[0].CanonicalSlug != "artist-one--album-one" || record.TopReleases[0].PlayCount != 3 {
+	if len(record.TopReleases) != 1 || record.TopReleases[0].CanonicalSlug != "artist-one--album-one" || record.TopReleases[0].PlayCount != 1 {
 		t.Fatalf("TopReleases = %+v", record.TopReleases)
 	}
-	if len(record.TopTracks) != 1 || record.TopTracks[0].CanonicalSlug != "artist-one--song-one" || record.TopTracks[0].PlayCount != 3 {
+	if len(record.TopTracks) != 1 || record.TopTracks[0].CanonicalSlug != "artist-one--song-one" || record.TopTracks[0].PlayCount != 1 {
 		t.Fatalf("TopTracks = %+v", record.TopTracks)
 	}
 	if len(record.SourceRefs) < 3 {
@@ -145,7 +142,7 @@ func TestSyncAggregatedStore(t *testing.T) {
 	if err := json.Unmarshal(artistData, &artistRecord); err != nil {
 		t.Fatalf("Unmarshal aggregated artist: %v", err)
 	}
-	if artistRecord.PlayCount != 3 || artistRecord.LegacyPlayCount != 2 {
+	if artistRecord.PlayCount != 1 || artistRecord.LegacyPlayCount != 0 {
 		t.Fatalf("AggregatedArtist counts = %+v", artistRecord)
 	}
 
@@ -157,7 +154,7 @@ func TestSyncAggregatedStore(t *testing.T) {
 	if err := json.Unmarshal(releaseData, &releaseRecord); err != nil {
 		t.Fatalf("Unmarshal aggregated release: %v", err)
 	}
-	if releaseRecord.PlayCount != 3 || releaseRecord.LegacyPlayCount != 2 {
+	if releaseRecord.PlayCount != 1 || releaseRecord.LegacyPlayCount != 0 {
 		t.Fatalf("AggregatedRelease counts = %+v", releaseRecord)
 	}
 
@@ -169,7 +166,7 @@ func TestSyncAggregatedStore(t *testing.T) {
 	if err := json.Unmarshal(trackData, &trackRecord); err != nil {
 		t.Fatalf("Unmarshal aggregated track: %v", err)
 	}
-	if trackRecord.PlayCount != 3 || trackRecord.LegacyPlayCount != 2 {
+	if trackRecord.PlayCount != 1 || trackRecord.LegacyPlayCount != 0 {
 		t.Fatalf("AggregatedTrack counts = %+v", trackRecord)
 	}
 }

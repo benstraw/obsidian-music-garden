@@ -28,7 +28,7 @@ import (
 )
 
 // version is set at build time via -ldflags "-X main.version=vX.Y.Z"
-var version = "v0.9.0-dev"
+var version = "v0.10.0-dev"
 
 type runtimePaths struct {
 	cwd            string
@@ -411,8 +411,8 @@ func envTrue(key string) bool {
 }
 
 // ensurePlaysDir creates the parent directory for a runtime data file.
-func ensurePlaysDir(playsPath string) error {
-	return os.MkdirAll(filepath.Dir(playsPath), 0755)
+func ensureParentDir(path string) error {
+	return os.MkdirAll(filepath.Dir(path), 0755)
 }
 
 func loadGenreStore(paths runtimePaths) *genres.Store {
@@ -447,7 +447,7 @@ func loadGenreStoreWithTaxonomy(paths runtimePaths, taxonomyPath string) *genres
 // saveGenreStoreOnly persists genres.json without rebuilding the file-based data layer.
 // Use this from hot-path commands like collect that don't need normalized/aggregated files.
 func saveGenreStoreOnly(paths runtimePaths, store *genres.Store) {
-	if err := ensurePlaysDir(paths.genresPath); err != nil {
+	if err := ensureParentDir(paths.genresPath); err != nil {
 		fmt.Fprintf(os.Stderr, "warning: data dir error: %v\n", err)
 		return
 	}
@@ -833,7 +833,7 @@ func runImportLegacy(args []string, paths runtimePaths) {
 	fs := flag.NewFlagSet("import-legacy", flag.ExitOnError)
 	sourceDir := fs.String("source-dir", "", "path to legacy benstrawbridge.com/data/spotify directory")
 	dryRun := fs.Bool("dry-run", false, "report mutations without writing store or compatibility artifacts")
-	verbose := fs.Bool("verbose", false, "print imported artists and tracks")
+	verbose := fs.Bool("verbose", false, "print imported artists")
 	auditGenres := fs.Bool("audit-genres", false, "report unresolved genre labels and legacy genre slugs during import")
 	_ = fs.Parse(args)
 
@@ -856,11 +856,9 @@ func runImportLegacy(args []string, paths runtimePaths) {
 	}
 
 	if *dryRun {
-		fmt.Printf("Dry run: artists added=%d releases added=%d tracks added=%d track legacy counts=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
+		fmt.Printf("Dry run: artists added=%d releases added=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
 			summary.ArtistsAdded,
 			summary.ReleasesAdded,
-			summary.TracksAdded,
-			summary.TrackLegacyCountsSet,
 			summary.ArtistSlugMappings,
 			summary.GenreSlugMappings,
 			summary.UnresolvedGenreLabels,
@@ -870,11 +868,9 @@ func runImportLegacy(args []string, paths runtimePaths) {
 	}
 
 	saveGenreStore(paths, store)
-	fmt.Printf("Imported legacy snapshots: artists added=%d releases added=%d tracks added=%d track legacy counts=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
+	fmt.Printf("Imported legacy snapshots: artists added=%d releases added=%d artist slug mappings=%d genre slug mappings=%d unresolved genre labels=%d unresolved genre slugs=%d\n",
 		summary.ArtistsAdded,
 		summary.ReleasesAdded,
-		summary.TracksAdded,
-		summary.TrackLegacyCountsSet,
 		summary.ArtistSlugMappings,
 		summary.GenreSlugMappings,
 		summary.UnresolvedGenreLabels,
@@ -1115,7 +1111,7 @@ func runGenreBackfill(paths runtimePaths) {
 		os.Exit(1)
 	}
 
-	if err := ensurePlaysDir(paths.genresPath); err != nil {
+	if err := ensureParentDir(paths.genresPath); err != nil {
 		fmt.Fprintln(os.Stderr, "data dir error:", err)
 		os.Exit(1)
 	}
@@ -1700,6 +1696,10 @@ func runDoctor(paths runtimePaths) int {
 	if paths.playsFallback {
 		issues++
 		fmt.Printf("Warning: using CWD fallback for plays dir (%s) because %s is missing\n", paths.playsDir, filepath.Join(paths.stateDir, "data", "plays"))
+	}
+	if paths.genresFallback {
+		issues++
+		fmt.Printf("Warning: using CWD fallback for genres.json (%s) because %s is missing\n", paths.genresPath, filepath.Join(paths.stateDir, "data", "genres.json"))
 	}
 
 	if strings.TrimSpace(os.Getenv("SPOTIFY_CLIENT_ID")) == "" {

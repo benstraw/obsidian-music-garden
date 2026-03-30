@@ -209,10 +209,10 @@
       "notes": "Broad editorial bucket for Western classical music."
     },
     {
-      "slug": "christmas",
-      "display_name": "Christmas",
-      "aliases": ["christmas"],
-      "notes": "Seasonal editorial bucket rather than a strict musical genre."
+      "slug": "christmas-music",
+      "display_name": "Christmas Music",
+      "aliases": ["christmas", "christmas music"],
+      "notes": "Seasonal bucket for explicitly holiday-focused listening; keep out of the default publishable genre set."
     },
     {
       "slug": "classical-piano",
@@ -521,12 +521,6 @@
       "display_name": "Outlaw Country",
       "aliases": ["outlaw country"],
       "parent_slug": "country"
-    },
-    {
-      "slug": "leftfield",
-      "display_name": "Leftfield",
-      "aliases": ["leftfield"],
-      "parent_slug": "electronic"
     },
     {
       "slug": "miami-bass",
