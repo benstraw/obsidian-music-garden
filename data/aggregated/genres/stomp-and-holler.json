@@ -1,0 +1,45 @@
+{
+  "canonical_slug": "stomp-and-holler",
+  "display_title": "Stomp And Holler",
+  "display_name": "Stomp And Holler",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Indie folk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Indie_folk",
+  "summary": "Indie folk is an alternative genre of music that arose in the 1990s among musicians from indie rock scenes influenced by folk music.",
+  "candidates": [
+    "Stomp and holler"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Indie folk",
+    "page_url": "https://en.wikipedia.org/wiki/Indie_folk",
+    "retrieved_at": "2026-03-28T16:01:10Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--stomp-and-holler.json",
+      "url": "https://en.wikipedia.org/wiki/Indie_folk",
+      "retrieved_at": "2026-03-28T16:01:10Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

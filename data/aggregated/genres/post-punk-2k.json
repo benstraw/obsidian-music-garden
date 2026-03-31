@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "post-punk-2k",
+  "display_title": "Post Punk 2k",
+  "display_name": "Post Punk 2k",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Post Punk Kitchen",
+    "Post punk (music)",
+    "Post-Punk Laptop Rap",
+    "Post-punk disco",
+    "Post-punk hardcore",
+    "Post-punk revival"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

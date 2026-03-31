@@ -7,151 +7,284 @@
     "singer songwriter"
   ],
   "pending": false,
-  "status": "ambiguous",
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Singer-songwriter",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Singer-songwriter",
+  "summary": "A singer-songwriter is a musician who writes, composes, and performs their own musical material, including lyrics and melodies. In the United States, the category is built on the folk-acoustic tradition with a guitar, although this role has transmuted through different eras of popular music. Traditionally, these musicians would write and sing songs personal to them. Singer-songwriters often provide the sole musical accompaniment to an entire song. The piano is also an instrument of choice.",
   "candidates": [
-    "Singer, Songwriter \u0026 Legendary Performer",
-    "Singer-Songwriter (album)",
-    "Singer-songwriter",
-    "Singers Songwriters Legends",
-    "Singers and Songwriters (Time-Life Music)"
+    "Singer-songwriter"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Singer-songwriter",
+    "page_url": "https://en.wikipedia.org/wiki/Singer-songwriter",
+    "retrieved_at": "2026-03-29T09:18:29Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Bundesarchiv Bild 183-R1202-0019, Berlin, Palast der Republik, Bulat Okudshawa cropped.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R1202-0019,_Berlin,_Palast_der_Republik,_Bulat_Okudshawa_cropped.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bundesarchiv_Bild_183-R1202-0019%2C_Berlin%2C_Palast_der_Republik%2C_Bulat_Okudshawa_cropped.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bundesarchiv_Bild_183-R1202-0019%2C_Berlin%2C_Palast_der_Republik%2C_Bulat_Okudshawa_cropped.jpg",
+    "width": 288,
+    "height": 384,
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q110733560\" class=\"extiw\" title=\"d:Q110733560\"\u003e\u003cspan title=\"German photographer and photojournalist\"\u003eHartmut Reiche\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e",
+    "attribution_text": "Bundesarchiv, Bild 183-R1202-0019 / Reiche, Hartmut / CC-BY-SA 3.0"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bundesarchiv Bild 183-R1202-0019, Berlin, Palast der Republik, Bulat Okudshawa cropped.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R1202-0019,_Berlin,_Palast_der_Republik,_Bulat_Okudshawa_cropped.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bundesarchiv_Bild_183-R1202-0019%2C_Berlin%2C_Palast_der_Republik%2C_Bulat_Okudshawa_cropped.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bundesarchiv_Bild_183-R1202-0019%2C_Berlin%2C_Palast_der_Republik%2C_Bulat_Okudshawa_cropped.jpg",
+      "width": 288,
+      "height": 384,
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q110733560\" class=\"extiw\" title=\"d:Q110733560\"\u003e\u003cspan title=\"German photographer and photojournalist\"\u003eHartmut Reiche\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e",
+      "attribution_text": "Bundesarchiv, Bild 183-R1202-0019 / Reiche, Hartmut / CC-BY-SA 3.0"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Caetano Veloso.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Caetano_Veloso.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Caetano_Veloso.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Caetano_Veloso.jpg",
+      "width": 480,
+      "height": 360,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Starlight\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Starlight (page does not exist)\"\u003eUser:Starlight\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carole King.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carole_King.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Carole_King.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Carole_King.jpg/960px-Carole_King.jpg",
+      "width": 981,
+      "height": 1500,
+      "license": "Public domain",
+      "author": "Linda D. Kozaryn"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:David Crosby in 1976.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:David_Crosby_in_1976.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/David_Crosby_in_1976.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/David_Crosby_in_1976.jpg",
+      "width": 487,
+      "height": 327,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "David Gans"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fabrizio De Andrè.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fabrizio_De_Andr%C3%A8.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fabrizio_De_Andr%C3%A8.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fabrizio_De_Andr%C3%A8.jpg",
+      "width": 323,
+      "height": 413,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 48,
-    "unique_artist_count": 7,
-    "unique_release_count": 23,
-    "unique_track_count": 30,
-    "first_played_at": "2026-02-13T01:48:42.202Z",
-    "last_played_at": "2026-03-18T01:43:36.082Z"
+    "play_count": 203,
+    "unique_artist_count": 21,
+    "unique_release_count": 67,
+    "unique_track_count": 142,
+    "first_played_at": "2024-01-01T00:00:00.047255442Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "john-prine",
-      "name": "John Prine",
-      "play_count": 19,
-      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
-      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+      "canonical_slug": "bob-dylan",
+      "name": "Bob Dylan",
+      "play_count": 46,
+      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
+      "musicbrainz_artist_id": "72c536dc-7137-4477-a521-567eeb840fa8",
+      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
     },
     {
       "canonical_slug": "neil-young",
       "name": "Neil Young",
-      "play_count": 16,
+      "play_count": 46,
       "spotify_artist_id": "6v8FB84lnmJs434UJf2Mrm",
+      "musicbrainz_artist_id": "75167b8b-44e4-407b-9d35-effe87b223cf",
       "spotify_url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+    },
+    {
+      "canonical_slug": "john-prine",
+      "name": "John Prine",
+      "play_count": 26,
+      "spotify_artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
+      "musicbrainz_artist_id": "e86492c1-0376-4df0-8042-8ba058c83960",
+      "spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+    },
+    {
+      "canonical_slug": "nick-drake",
+      "name": "Nick Drake",
+      "play_count": 11,
+      "spotify_artist_id": "5c3GLXai8YOMid29ZEuR9y",
+      "musicbrainz_artist_id": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+      "spotify_url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+    },
+    {
+      "canonical_slug": "jim-croce",
+      "name": "Jim Croce",
+      "play_count": 9,
+      "spotify_artist_id": "1R6Hx1tJ2VOUyodEpC12xM",
+      "spotify_url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+    },
+    {
+      "canonical_slug": "carole-king",
+      "name": "Carole King",
+      "play_count": 7,
+      "spotify_artist_id": "319yZVtYM9MBGqmSQnMyY6",
+      "musicbrainz_artist_id": "bf6c29f5-b69f-4842-9031-37f9645d365d",
+      "spotify_url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+    },
+    {
+      "canonical_slug": "dan-reeder",
+      "name": "Dan Reeder",
+      "play_count": 7,
+      "spotify_artist_id": "4pzjm2iMtclScYmoJ7q9tD",
+      "musicbrainz_artist_id": "b73ad3ac-be50-4b3c-b5dd-7412d557602c",
+      "spotify_url": "https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD"
     },
     {
       "canonical_slug": "leonard-cohen",
       "name": "Leonard Cohen",
       "play_count": 7,
       "spotify_artist_id": "5l8VQNuIg0turYE1VtM9zV",
+      "musicbrainz_artist_id": "65314b12-0e08-43fa-ba33-baaa7b874c15",
       "spotify_url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
     },
     {
-      "canonical_slug": "emmylou-harris",
-      "name": "Emmylou Harris",
-      "play_count": 3,
-      "spotify_artist_id": "5s6TJEuHTr9GR894wc6VfP",
-      "spotify_url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+      "canonical_slug": "lou-reed",
+      "name": "Lou Reed",
+      "play_count": 7,
+      "spotify_artist_id": "42TFhl7WlMRXiNqzSrnzPL",
+      "musicbrainz_artist_id": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+      "spotify_url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
     },
     {
-      "canonical_slug": "bob-dylan",
-      "name": "Bob Dylan",
-      "play_count": 1,
-      "spotify_artist_id": "74ASZWbe4lXaubB36ztrGX",
-      "spotify_url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-    },
-    {
-      "canonical_slug": "harry-nilsson",
-      "name": "Harry Nilsson",
-      "play_count": 1,
-      "spotify_artist_id": "3RTzAwFprBqiskp550eSJX",
-      "spotify_url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-    },
-    {
-      "canonical_slug": "townes-van-zandt",
-      "name": "Townes Van Zandt",
-      "play_count": 1,
-      "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
-      "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+      "canonical_slug": "ted-hawkins",
+      "name": "Ted Hawkins",
+      "play_count": 7,
+      "spotify_artist_id": "1clAnI6PODaoVlbzlUPOfU",
+      "musicbrainz_artist_id": "f1161aed-e33e-47ec-ba18-8f87766cec09",
+      "spotify_url": "https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "bob-dylan--the-complete-budokan-1978-live",
+      "name": "The Complete Budokan 1978 (Live)",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "spotify_album_id": "6LosaBGHSd97BYSVI7x4ni"
+    },
+    {
       "canonical_slug": "john-prine--in-spite-of-ourselves",
-      "name": "In Spite Of Ourselves",
-      "play_count": 12,
+      "name": "In Spite of Ourselves",
+      "play_count": 14,
       "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "primary_artist_name": "John Prine",
+      "spotify_album_id": "2t6hK5ERtgjbHXVgHlpqJ5",
+      "musicbrainz_release_id": "983d5a36-bf7e-42ac-9221-54bc70a85f80",
+      "musicbrainz_release_group_id": "41714b68-b219-333d-8a7d-cf143d492984"
+    },
+    {
+      "canonical_slug": "bob-dylan--john-wesley-harding",
+      "name": "John Wesley Harding",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "spotify_album_id": "2KzCDxKpgLqBffHu1IZ7Kn",
+      "musicbrainz_release_id": "8e7e12b2-46ff-4e6b-8384-2ce538d90dcc",
+      "musicbrainz_release_group_id": "32981714-597a-32dd-9f29-b2f7566fed89"
+    },
+    {
+      "canonical_slug": "neil-young--neil-young-2009-remaster",
+      "name": "Neil Young (2009 Remaster)",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2dw9jX2uocV1da5WsnJ2Pl"
+    },
+    {
+      "canonical_slug": "neil-young--tonight-s-the-night",
+      "name": "Tonight's the Night",
+      "play_count": 11,
+      "primary_artist_canonical_slug": "neil-young",
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2wjrhhAibIUwC40oFMALtr",
+      "musicbrainz_release_id": "a75df175-7a8b-4b88-b04e-47cf44e9c17d",
+      "musicbrainz_release_group_id": "e0207e33-af06-3862-baba-f42ca722de0d"
     },
     {
       "canonical_slug": "neil-young--harvest-50th-anniversary-edition",
       "name": "Harvest (50th Anniversary Edition)",
-      "play_count": 7,
+      "play_count": 9,
       "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "2LOpi63tYGh0Suy8eLJDVQ"
+    },
+    {
+      "canonical_slug": "nick-drake--five-leaves-left",
+      "name": "Five Leaves Left",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "nick-drake",
+      "primary_artist_name": "Nick Drake",
+      "spotify_album_id": "7IpcJbVxLLEfW0KXB7ndE2",
+      "musicbrainz_release_id": "2c0388da-5dd2-4228-a52e-2e1b4be8b23c",
+      "musicbrainz_release_group_id": "b9c4fc17-0dc5-3aa5-b1b9-08e1446e5bea"
     },
     {
       "canonical_slug": "neil-young--barn",
       "name": "Barn",
       "play_count": 5,
       "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
+      "primary_artist_name": "Neil Young",
+      "spotify_album_id": "7vlrGBbvKz2tZmVqAxK5ec",
+      "musicbrainz_release_id": "6a1a1464-864c-456c-909b-4514e9fc4ff3",
+      "musicbrainz_release_group_id": "f1c2f62b-60e5-4273-8365-1bf16bc61664"
     },
     {
       "canonical_slug": "john-prine--john-prine",
       "name": "John Prine",
-      "play_count": 3,
+      "play_count": 5,
       "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "primary_artist_name": "John Prine",
+      "spotify_album_id": "5t4FHrIAHI8nolSAOBRgPp",
+      "musicbrainz_release_id": "2b115165-6200-4a7f-9c78-f03b53d42b80",
+      "musicbrainz_release_group_id": "a13154a4-14a1-3344-ae14-3bea728ebe58"
     },
     {
-      "canonical_slug": "leonard-cohen--songs-of-leonard-cohen",
-      "name": "Songs Of Leonard Cohen",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "leonard-cohen",
-      "primary_artist_name": "Leonard Cohen"
-    },
-    {
-      "canonical_slug": "leonard-cohen--ten-new-songs",
-      "name": "Ten New Songs",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "leonard-cohen",
-      "primary_artist_name": "Leonard Cohen"
-    },
-    {
-      "canonical_slug": "harry-nilsson--aerial-ballet",
-      "name": "Aerial Ballet",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "harry-nilsson",
-      "primary_artist_name": "Harry Nilsson"
-    },
-    {
-      "canonical_slug": "neil-young--after-the-gold-rush-2009-remaster",
-      "name": "After the Gold Rush (2009 Remaster)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
-    },
-    {
-      "canonical_slug": "neil-young--american-stars-n-bars",
-      "name": "American Stars 'N Bars",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young"
-    },
-    {
-      "canonical_slug": "john-prine--bruised-orange",
-      "name": "Bruised Orange",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine"
+      "canonical_slug": "ted-hawkins--the-next-hundred-years",
+      "name": "The Next Hundred Years",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "ted-hawkins",
+      "primary_artist_name": "Ted Hawkins",
+      "spotify_album_id": "43krXP0sLaV88xqmIrhal9",
+      "musicbrainz_release_id": "3656621a-78ed-4181-9310-56b2c74e181e",
+      "musicbrainz_release_group_id": "4b8a6423-09be-39e7-9565-b084a77b70c5"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "john-prine--in-spite-of-ourselves",
       "name": "In Spite of Ourselves",
-      "play_count": 6,
+      "play_count": 7,
       "primary_artist_canonical_slug": "john-prine",
       "primary_artist_name": "John Prine",
       "release_canonical_slug": "john-prine--in-spite-of-ourselves",
@@ -193,20 +326,20 @@
       "spotify_url": "https://open.spotify.com/track/65L89liJNDrskT7XTDEKbA"
     },
     {
-      "canonical_slug": "leonard-cohen--a-thousand-kisses-deep",
-      "name": "A Thousand Kisses Deep",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "leonard-cohen",
-      "primary_artist_name": "Leonard Cohen",
-      "release_canonical_slug": "leonard-cohen--ten-new-songs",
-      "release_name": "Ten New Songs",
-      "spotify_track_id": "1izTPgfFEyvc0hl7uYAzGt",
-      "spotify_url": "https://open.spotify.com/track/1izTPgfFEyvc0hl7uYAzGt"
+      "canonical_slug": "carole-king--bitter-with-the-sweet",
+      "name": "Bitter with the Sweet",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "release_canonical_slug": "carole-king--rhymes-and-reasons",
+      "release_name": "Rhymes \u0026 Reasons",
+      "spotify_track_id": "6MBS3ARYYlI4FtYjaTinK5",
+      "spotify_url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "canonical_slug": "neil-young--out-on-the-weekend",
       "name": "Out on the Weekend",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "neil-young",
       "primary_artist_name": "Neil Young",
       "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
@@ -217,7 +350,7 @@
     {
       "canonical_slug": "john-prine--spanish-pipedream",
       "name": "Spanish Pipedream",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "john-prine",
       "primary_artist_name": "John Prine",
       "release_canonical_slug": "john-prine--john-prine",
@@ -226,37 +359,37 @@
       "spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
     },
     {
-      "canonical_slug": "john-prine--angel-from-montgomery",
-      "name": "Angel from Montgomery",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "john-prine",
-      "primary_artist_name": "John Prine",
-      "release_canonical_slug": "john-prine--john-prine",
-      "release_name": "John Prine",
-      "spotify_track_id": "2qWKpYIleSvBT6aUMXoia5",
-      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+      "canonical_slug": "bob-dylan--the-man-in-me",
+      "name": "The Man in Me",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bob-dylan",
+      "primary_artist_name": "Bob Dylan",
+      "release_canonical_slug": "bob-dylan--new-morning",
+      "release_name": "New Morning",
+      "spotify_track_id": "7xRemq7GLu0Tbqe9OckG87",
+      "spotify_url": "https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87"
     },
     {
-      "canonical_slug": "neil-young--are-you-ready-for-the-country",
-      "name": "Are You Ready for the Country?",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "neil-young",
-      "primary_artist_name": "Neil Young",
-      "release_canonical_slug": "neil-young--harvest-50th-anniversary-edition",
-      "release_name": "Harvest (50th Anniversary Edition)",
-      "spotify_track_id": "3LJy93lXURXqAIFU33GIS4",
-      "spotify_url": "https://open.spotify.com/track/3LJy93lXURXqAIFU33GIS4"
+      "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
+      "name": "The Revolution Will Not Be Televised",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
+      "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
     },
     {
-      "canonical_slug": "leonard-cohen--avalanche",
-      "name": "Avalanche",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "leonard-cohen",
-      "primary_artist_name": "Leonard Cohen",
-      "release_canonical_slug": "leonard-cohen--songs-of-love-and-hate",
-      "release_name": "Songs of Love and Hate",
-      "spotify_track_id": "3t4qyMVnN9o0ZJhsUaa465",
-      "spotify_url": "https://open.spotify.com/track/3t4qyMVnN9o0ZJhsUaa465"
+      "canonical_slug": "ted-hawkins--there-stands-the-glass",
+      "name": "There Stands The Glass",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "ted-hawkins",
+      "primary_artist_name": "Ted Hawkins",
+      "release_canonical_slug": "ted-hawkins--the-next-hundred-years",
+      "release_name": "The Next Hundred Years",
+      "spotify_track_id": "6Qg08EQ1KlbiiOuUixPYTd",
+      "spotify_url": "https://open.spotify.com/track/6Qg08EQ1KlbiiOuUixPYTd"
     }
   ],
   "source_refs": [
@@ -267,12 +400,34 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--singer-songwriter.json",
+      "url": "https://en.wikipedia.org/wiki/Singer-songwriter",
+      "retrieved_at": "2026-03-29T09:18:29Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--singer-songwriter.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R1202-0019,_Berlin,_Palast_der_Republik,_Bulat_Okudshawa_cropped.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-18T01:43:36.082Z",
+      "updated_at": "2026-03-29T17:53:54.137Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:53:54.137Z"
 }

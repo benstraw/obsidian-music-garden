@@ -1,0 +1,114 @@
+{
+  "canonical_slug": "spiritual-jazz",
+  "display_title": "Spiritual Jazz",
+  "display_name": "Spiritual Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Spiritual jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+  "summary": "Spiritual jazz is a sub-genre of jazz that originated in the United States during the 1960s. The genre is hard to characterize musically but draws from free, avant-garde and modal jazz and thematically focuses on transcendence and spirituality. John Coltrane's 1965 album A Love Supreme is considered a landmark in the genre.",
+  "candidates": [
+    "Spiritual jazz",
+    "Spiritually Japanese"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Spiritual jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+    "retrieved_at": "2026-03-28T16:01:08Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Don Cherry 1989.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Don_Cherry_1989.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Don_Cherry_1989.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Don_Cherry_1989.jpg",
+    "width": 616,
+    "height": 912,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Don Cherry 1989.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Don_Cherry_1989.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Don_Cherry_1989.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Don_Cherry_1989.jpg",
+      "width": 616,
+      "height": 912,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Brianmcmillen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Brianmcmillen (page does not exist)\"\u003eBrianmcmillen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kamasi Washington , Positivus Festival, Latvia, July 2017-2061 (48740768781).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kamasi_Washington_,_Positivus_Festival,_Latvia,_July_2017-2061_(48740768781).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kamasi_Washington_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2061_%2848740768781%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kamasi_Washington_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2061_%2848740768781%29.jpg/960px-Kamasi_Washington_%2C_Positivus_Festival%2C_Latvia%2C_July_2017-2061_%2848740768781%29.jpg",
+      "width": 3744,
+      "height": 5616,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/23349893@N08\"\u003eAnna Hanks\u003c/a\u003e from Austin, Texas, USA"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pharoah Sanders (1981) by Wojciech Soporek.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pharoah_Sanders_(1981)_by_Wojciech_Soporek.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pharoah_Sanders_%281981%29_by_Wojciech_Soporek.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pharoah_Sanders_%281981%29_by_Wojciech_Soporek.jpg",
+      "width": 717,
+      "height": 1053,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:McOleo\" title=\"User:McOleo\"\u003eWojciech Soporek\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--spiritual-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Spiritual_jazz",
+      "retrieved_at": "2026-03-28T16:01:08Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--spiritual-jazz.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Don_Cherry_1989.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

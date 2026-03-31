@@ -1,0 +1,125 @@
+{
+  "canonical_slug": "trip-hop",
+  "display_title": "Trip Hop",
+  "display_name": "Trip Hop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Trip hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Trip_hop",
+  "summary": "Trip hop is a music genre defined as a psychedelic fusion of hip-hop and electronica with slow tempos and an atmospheric sound. The style emerged as a more experimental variant of breakbeat from the Bristol sound scene of the late 1980s and early 1990s, incorporating influences from jazz, soul, funk, dub, rap, as well as sampling from movie soundtracks and other eclectic sources.",
+  "candidates": [
+    "A Trip to the Moon",
+    "Don Trip",
+    "The Trip to Bountiful (play)",
+    "Trichoplax",
+    "Trimethoprim",
+    "Trip Hawkins",
+    "Trip Hoppin'",
+    "Trip World",
+    "Trip hammer",
+    "Trip hop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Trip hop",
+    "page_url": "https://en.wikipedia.org/wiki/Trip_hop",
+    "retrieved_at": "2026-03-28T16:01:43Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Björk @deer lake park 2.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rk_@deer_lake_park_2.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bj%C3%B6rk_%40deer_lake_park_2.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bj%C3%B6rk_%40deer_lake_park_2.jpg/960px-Bj%C3%B6rk_%40deer_lake_park_2.jpg",
+    "width": 2048,
+    "height": 1536,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51035655711@N01\"\u003eJhayne\u003c/a\u003e from Vancouver, Canada"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Björk @deer lake park 2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rk_@deer_lake_park_2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Bj%C3%B6rk_%40deer_lake_park_2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bj%C3%B6rk_%40deer_lake_park_2.jpg/960px-Bj%C3%B6rk_%40deer_lake_park_2.jpg",
+      "width": 2048,
+      "height": 1536,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51035655711@N01\"\u003eJhayne\u003c/a\u003e from Vancouver, Canada"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Massive Attack - Teardrop.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Massive attack at stereoleto.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Massive_attack_at_stereoleto.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Massive_attack_at_stereoleto.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Massive_attack_at_stereoleto.jpg/960px-Massive_attack_at_stereoleto.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Phillennium\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Phillennium (page does not exist)\"\u003ePhillennium\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Tricky mp3h1944.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Tricky_mp3h1944.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tricky_mp3h1944.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tricky_mp3h1944.jpg/960px-Tricky_mp3h1944.jpg",
+      "width": 2336,
+      "height": 3504,
+      "license": "CC BY-SA 2.0 fr",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\"\u003eRama\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--trip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Trip_hop",
+      "retrieved_at": "2026-03-28T16:01:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--trip-hop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rk_@deer_lake_park_2.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

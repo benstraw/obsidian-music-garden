@@ -6,94 +6,275 @@
   "aliases": [
     "southern hip hop"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Southern hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_hip-hop",
+  "summary": "Southern hip-hop, also known as Southern rap, South Coast hip-hop, or dirty south, is a blanket term for a regional genre of American hip-hop music that emerged in the Southern United States, especially in Georgia, Texas, Louisiana, Tennessee, and Florida—often titled \"The Big 5,\" five states which constitute the \"Southern Network\" in rap music.",
   "candidates": [
-    "Southern High Plains",
-    "Southern hip-hop",
-    "Southern siphon whelk"
+    "Southern hip hop"
   ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Southern hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/Southern_hip-hop",
+    "retrieved_at": "2026-03-29T17:26:40Z"
+  },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 3,
-    "unique_artist_count": 2,
-    "unique_release_count": 3,
-    "unique_track_count": 3,
-    "first_played_at": "2026-03-06T04:41:06.053Z",
+    "play_count": 34,
+    "unique_artist_count": 5,
+    "unique_release_count": 11,
+    "unique_track_count": 25,
+    "first_played_at": "2024-01-01T00:00:00.119929428Z",
     "last_played_at": "2026-03-11T03:21:46.265Z"
   },
   "top_artists": [
     {
       "canonical_slug": "outkast",
       "name": "Outkast",
-      "play_count": 2,
+      "play_count": 26,
       "spotify_artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+      "musicbrainz_artist_id": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
       "spotify_url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+    },
+    {
+      "canonical_slug": "jid",
+      "name": "JID",
+      "play_count": 3,
+      "spotify_artist_id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+      "musicbrainz_artist_id": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+      "spotify_url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+    },
+    {
+      "canonical_slug": "scarface",
+      "name": "Scarface",
+      "play_count": 3,
+      "spotify_artist_id": "19KwjzvIL92r29IINtlPNP",
+      "spotify_url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
     },
     {
       "canonical_slug": "goodie-mob",
       "name": "Goodie Mob",
       "play_count": 1,
       "spotify_artist_id": "3F2Y683ovlWT53WKCeq0oj",
+      "musicbrainz_artist_id": "ade9b668-e38f-41a8-a6e5-51442c5d6468",
       "spotify_url": "https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj"
+    },
+    {
+      "canonical_slug": "lil-wayne",
+      "name": "Lil Wayne",
+      "play_count": 1,
+      "spotify_artist_id": "55Aa2cqylxrFIXC767Z865",
+      "musicbrainz_artist_id": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "spotify_url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
     }
   ],
   "top_releases": [
     {
       "canonical_slug": "outkast--atliens",
       "name": "ATLiens",
-      "play_count": 1,
+      "play_count": 21,
       "primary_artist_canonical_slug": "outkast",
-      "primary_artist_name": "Outkast"
+      "primary_artist_name": "OutKast",
+      "spotify_album_id": "1IaBCF26OjgYwUCEPaIyC0",
+      "musicbrainz_release_id": "10fe7149-bcd5-4eab-9466-09e336ab8f57",
+      "musicbrainz_release_group_id": "672fa6be-ae6a-38a2-a0d3-6a393a3929bf"
+    },
+    {
+      "canonical_slug": "outkast--stankonia",
+      "name": "Stankonia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "OutKast",
+      "spotify_album_id": "2tm3Ht61kqqRZtIYsBjxEj",
+      "musicbrainz_release_id": "296f8a54-eff7-3c6a-9857-164c05479c09",
+      "musicbrainz_release_group_id": "00d2cd53-21c9-3738-b683-56847b7b0040"
+    },
+    {
+      "canonical_slug": "scarface--the-diary",
+      "name": "The Diary",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "scarface",
+      "primary_artist_name": "Scarface",
+      "spotify_album_id": "2Z1lDWB2EfTUKV5ILxjdvu"
+    },
+    {
+      "canonical_slug": "jid--the-never-story",
+      "name": "The Never Story",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "spotify_album_id": "1gPqbxhs90kppgOVxGOPzd",
+      "musicbrainz_release_id": "86bcf6ff-83dd-4d89-939f-bea35db48e75",
+      "musicbrainz_release_group_id": "ec456434-681a-4c7b-9030-6725048f0885"
     },
     {
       "canonical_slug": "outkast--big-boi-and-dre-present-outkast",
       "name": "Big Boi \u0026 Dre Present...OutKast",
       "play_count": 1,
       "primary_artist_canonical_slug": "outkast",
-      "primary_artist_name": "Outkast"
+      "primary_artist_name": "OutKast",
+      "spotify_album_id": "5OJKj1KGQEM1pnHtuvY0It",
+      "musicbrainz_release_id": "7500a0d5-923b-421c-b7c6-07dda80c0020",
+      "musicbrainz_release_group_id": "bbf05afc-582d-3db6-8cf6-73a019794bef"
+    },
+    {
+      "canonical_slug": "jid--hey-tony",
+      "name": "HEY TONY!",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "spotify_album_id": "2zs0GVCzgBvCtDBSdRn8Q9",
+      "musicbrainz_release_id": "1a4bc073-0163-4cf6-9eba-d32f8dbb3b0c",
+      "musicbrainz_release_group_id": "57cf0f08-3b29-4db9-a19c-9a2d62ea0e00"
+    },
+    {
+      "canonical_slug": "lil-wayne--i-am-not-a-human-being-ii-deluxe",
+      "name": "I Am Not A Human Being II (Deluxe)",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "lil-wayne",
+      "primary_artist_name": "Lil Wayne",
+      "spotify_album_id": "6Pqlfg42Sc3ElNuyt5NUiK"
+    },
+    {
+      "canonical_slug": "scarface--my-homies-pt-2",
+      "name": "My Homies, Pt. 2",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "scarface",
+      "primary_artist_name": "Scarface",
+      "spotify_album_id": "7cZue7IqkXb5B808cGzZ0F"
+    },
+    {
+      "canonical_slug": "outkast--new-jersey-drive-vol-1",
+      "name": "New Jersey Drive Vol. 1",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "spotify_album_id": "7DoD8us9kfckQxBjsBq9JW"
     },
     {
       "canonical_slug": "goodie-mob--soul-food",
       "name": "Soul Food",
       "play_count": 1,
       "primary_artist_canonical_slug": "goodie-mob",
-      "primary_artist_name": "Goodie Mob"
+      "primary_artist_name": "Goodie Mob",
+      "spotify_album_id": "6cKgDS8oVcCNw9EjQf66er",
+      "musicbrainz_release_id": "fe0a9642-d538-402c-8a93-7ed889b16460",
+      "musicbrainz_release_group_id": "24cfe4c3-06c4-3148-9e32-b88dd2aebdb3"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "goodie-mob--blood",
-      "name": "Blood",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "goodie-mob",
-      "primary_artist_name": "Goodie Mob",
-      "release_canonical_slug": "goodie-mob--soul-food",
-      "release_name": "Soul Food",
-      "spotify_track_id": "363z5eG2zgdEWveqkEo7Vm",
-      "spotify_url": "https://open.spotify.com/track/363z5eG2zgdEWveqkEo7Vm"
-    },
-    {
-      "canonical_slug": "outkast--the-whole-world-feat-killer-mike",
-      "name": "The Whole World (feat. Killer Mike)",
-      "play_count": 1,
+      "canonical_slug": "outkast--decatur-psalm",
+      "name": "Decatur Psalm",
+      "play_count": 2,
       "primary_artist_canonical_slug": "outkast",
       "primary_artist_name": "Outkast",
-      "release_canonical_slug": "outkast--big-boi-and-dre-present-outkast",
-      "release_name": "Big Boi \u0026 Dre Present...OutKast",
-      "spotify_track_id": "074v54tSEWLbq3Hu5wf6uh",
-      "spotify_url": "https://open.spotify.com/track/074v54tSEWLbq3Hu5wf6uh"
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "5aC5KtkmNBfX1iFX4EVfCO",
+      "spotify_url": "https://open.spotify.com/track/5aC5KtkmNBfX1iFX4EVfCO"
+    },
+    {
+      "canonical_slug": "outkast--elevators-me-and-you-onp-86-mix",
+      "name": "Elevators (Me \u0026 You) - ONP 86 Mix",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "3VO93aw7fZhxKk43pr2RTE",
+      "spotify_url": "https://open.spotify.com/track/3VO93aw7fZhxKk43pr2RTE"
+    },
+    {
+      "canonical_slug": "outkast--jazzy-belle",
+      "name": "Jazzy Belle",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "6w4MlvpuxtbjGdL9YeTx89",
+      "spotify_url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
+    },
+    {
+      "canonical_slug": "jid--never",
+      "name": "NEVER",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jid",
+      "primary_artist_name": "JID",
+      "release_canonical_slug": "jid--the-never-story",
+      "release_name": "The Never Story",
+      "spotify_track_id": "7hsulgRNgbyczeAg8tChCB",
+      "spotify_url": "https://open.spotify.com/track/7hsulgRNgbyczeAg8tChCB"
+    },
+    {
+      "canonical_slug": "scarface--no-tears",
+      "name": "No Tears",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "scarface",
+      "primary_artist_name": "Scarface",
+      "release_canonical_slug": "scarface--the-diary",
+      "release_name": "The Diary",
+      "spotify_track_id": "6kYTywTCfycHZcH0WdLyRy",
+      "spotify_url": "https://open.spotify.com/track/6kYTywTCfycHZcH0WdLyRy"
+    },
+    {
+      "canonical_slug": "outkast--so-fresh-so-clean",
+      "name": "So Fresh, So Clean",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--stankonia",
+      "release_name": "Stankonia",
+      "spotify_track_id": "6glsMWIMIxQ4BedzLqGVi4",
+      "spotify_url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "canonical_slug": "outkast--wailin",
+      "name": "Wailin'",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "7nfGrjZf34FxqS0FWXM5B7",
+      "spotify_url": "https://open.spotify.com/track/7nfGrjZf34FxqS0FWXM5B7"
     },
     {
       "canonical_slug": "outkast--wheelz-of-steel",
       "name": "Wheelz of Steel",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "outkast",
       "primary_artist_name": "Outkast",
       "release_canonical_slug": "outkast--atliens",
       "release_name": "ATLiens",
       "spotify_track_id": "5qKqRkWnRTXNVWbEOOmGxk",
       "spotify_url": "https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk"
+    },
+    {
+      "canonical_slug": "outkast--you-may-die-intro",
+      "name": "You May Die (Intro)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "5katW3JH8JM3jiEdrr2zuR",
+      "spotify_url": "https://open.spotify.com/track/5katW3JH8JM3jiEdrr2zuR"
+    },
+    {
+      "canonical_slug": "outkast--13th-floor-growing-old",
+      "name": "13th Floor/Growing Old",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "outkast",
+      "primary_artist_name": "Outkast",
+      "release_canonical_slug": "outkast--atliens",
+      "release_name": "ATLiens",
+      "spotify_track_id": "5oKpqxuTm4kg8BRQwIBFzk",
+      "spotify_url": "https://open.spotify.com/track/5oKpqxuTm4kg8BRQwIBFzk"
     }
   ],
   "source_refs": [
@@ -104,6 +285,21 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--southern-hip-hop.json",
+      "url": "https://en.wikipedia.org/wiki/Southern_hip-hop",
+      "retrieved_at": "2026-03-29T17:26:40Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -111,5 +307,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

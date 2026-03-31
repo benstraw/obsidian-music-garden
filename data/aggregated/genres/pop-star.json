@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "pop-star",
+  "display_title": "Pop Star",
+  "display_name": "Pop Star",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Pop icon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pop_icon",
+  "summary": "A pop icon is a celebrity, character, or object whose exposure in popular culture is regarded as constituting a defining characteristic of a given society or era. The usage of the term is largely subjective since there are no definitively objective criteria. The categorization is usually associated with elements such as longevity, ubiquity and distinction. Moreover, \"pop icon\" status is distinguishable from other kinds of notability outside pop culture, such as with historic figures. Some historic figures are recognized as having reached \"pop icon\" status during their era, and such status may continue into the present. Pop icons of previous eras include Benjamin Franklin and Mozart.",
+  "candidates": [
+    "Pop Star (Ken Hirai song)",
+    "Pop Star (Kirby series)",
+    "Pop Star (album)",
+    "Pop Star Kids",
+    "Pop Star on Ice",
+    "Pop star",
+    "Pop-star",
+    "Popstar (disambiguation)",
+    "Popstar to Operastar",
+    "Popstars"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pop icon",
+    "page_url": "https://en.wikipedia.org/wiki/Pop_icon",
+    "retrieved_at": "2026-03-28T15:59:32Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wolfgang-amadeus-mozart_1.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/330px-Wolfgang-amadeus-mozart_1.jpg",
+    "width": 2996,
+    "height": 3840
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--pop-star.json",
+      "url": "https://en.wikipedia.org/wiki/Pop_icon",
+      "retrieved_at": "2026-03-28T15:59:32Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--pop-star.json",
+      "url": "https://en.wikipedia.org/wiki/Pop_icon",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

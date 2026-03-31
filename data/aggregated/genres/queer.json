@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "queer",
+  "display_title": "Queer",
+  "display_name": "Queer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Queer",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Queer",
+  "summary": "Queer is an umbrella term for sexual and gender minorities. It is alternately used to refer to people who reject sexual and gender norms and share radical politics characterized by solidarity across lines of identity. Queer is also a self-identity term for many people, characterized by rejection or disruption of binary categories of sexual orientation and gender.",
+  "candidates": [
+    "Queer",
+    "Queer (film)",
+    "Queer Eye (2003 TV series)",
+    "Queer Eye (2018 TV series)",
+    "Queer Palm",
+    "Queer as Folk (2000 TV series)",
+    "Queer as Folk (British TV series)",
+    "Queer studies",
+    "Queer theory",
+    "Queerbaiting"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Queer",
+    "page_url": "https://en.wikipedia.org/wiki/Queer",
+    "retrieved_at": "2026-03-28T16:00:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Queer Resistsance Against the Cuts\".jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%22Queer_Resistsance_Against_the_Cuts%22.jpg/960px-%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+    "width": 4608,
+    "height": 3456,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27283274@N00\"\u003eCharles Hutchins\u003c/a\u003e from London, United Kingdom"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Queer Resistsance Against the Cuts\".jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%22Queer_Resistsance_Against_the_Cuts%22.jpg/960px-%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+      "width": 4608,
+      "height": 3456,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27283274@N00\"\u003eCharles Hutchins\u003c/a\u003e from London, United Kingdom"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Drag Ball in Webster Hall--1920s.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Drag_Ball_in_Webster_Hall--1920s.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Drag_Ball_in_Webster_Hall--1920s.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Drag_Ball_in_Webster_Hall--1920s.jpg/960px-Drag_Ball_in_Webster_Hall--1920s.jpg",
+      "width": 1600,
+      "height": 1079,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mergefrom.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mergefrom.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mergefrom.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mergefrom.svg/960px-Mergefrom.svg.png",
+      "width": 50,
+      "height": 20,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Portal LGBT.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Portal_LGBT.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Portal_LGBT.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Portal_LGBT.svg/960px-Portal_LGBT.svg.png",
+      "width": 512,
+      "height": 442,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Grzegorz Wysocki"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Queer Flag.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Queer_Flag.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Queer_Flag.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Queer_Flag.svg/960px-Queer_Flag.svg.png",
+      "width": 4500,
+      "height": 2700,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "pastelmemer"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--queer.json",
+      "url": "https://en.wikipedia.org/wiki/Queer",
+      "retrieved_at": "2026-03-28T16:00:07Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--queer.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%22Queer_Resistsance_Against_the_Cuts%22.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

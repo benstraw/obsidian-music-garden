@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "portland-punk",
+  "display_title": "Portland Punk",
+  "display_name": "Portland Punk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Portland Buckaroos",
+    "Portland Parks \u0026 Recreation",
+    "Portland Pickles",
+    "Portland Public Library",
+    "Portland Public Schools (Maine)",
+    "Portland Public Schools (Oregon)",
+    "Portland Union Station",
+    "Portland United F.C.",
+    "Portland, Pennsylvania",
+    "University of Portland"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

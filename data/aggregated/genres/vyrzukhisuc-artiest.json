@@ -3,6 +3,7 @@
   "display_title": "Vyrzukhisuc Artiest",
   "display_name": "Vyrzukhisuc Artiest",
   "pending": true,
+  "workflow_state": "draft",
   "status": "not_found",
   "listening_stats": {
     "source": "spotify-local-plays",
@@ -19,5 +20,5 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

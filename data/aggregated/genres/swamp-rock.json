@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "swamp-rock",
+  "display_title": "Swamp Rock",
+  "display_name": "Swamp Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Swamp rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Swamp_rock",
+  "summary": "Swamp rock is a genre of rock music that originated in the mid-1960s as a fusion of rockabilly and soul music with swamp blues, country music and funk. The genre originated in Louisiana by artists such as Tony Joe White, but was subsequently popularized by the California band Creedence Clearwater Revival.",
+  "candidates": [
+    "Sam Rockwell",
+    "Sam Rockwell on screen and stage",
+    "Swamp (Brockhampton song)",
+    "Swamp Jockeys",
+    "Swamp Works",
+    "Swamp hickory",
+    "Swamp rice rat",
+    "Swamp rock",
+    "Swamp rose mallow",
+    "Swamp-jack"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Swamp rock",
+    "page_url": "https://en.wikipedia.org/wiki/Swamp_rock",
+    "retrieved_at": "2026-03-28T16:01:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--swamp-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Swamp_rock",
+      "retrieved_at": "2026-03-28T16:01:20Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--swamp-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

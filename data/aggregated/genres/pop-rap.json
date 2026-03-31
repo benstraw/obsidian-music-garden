@@ -3,6 +3,55 @@
   "display_title": "Pop Rap",
   "display_name": "Pop Rap",
   "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Pop rap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pop_rap",
+  "summary": "Pop rap is a genre of music fusing the rhythm-based lyricism of hip-hop with pop's preference for melodic vocals, catchy hooks, and occasional rap-singing on pop-like productions and structure, as well as samples of various popular songs. This genre gained mainstream popularity during the 1990s, though the influences and roots of pop rap can trace back to late-1980s hip-hop artists such as Run-DMC, LL Cool J, and Beastie Boys.",
+  "candidates": [
+    "List of pop-punk bands",
+    "Pop Airplay",
+    "Pop Warner",
+    "Pop art",
+    "Pop rap",
+    "Pop rock",
+    "Pop-Tarts",
+    "Pop-punk",
+    "Pop-up ad",
+    "Poprad"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pop rap",
+    "page_url": "https://en.wikipedia.org/wiki/Pop_rap",
+    "retrieved_at": "2026-03-28T15:59:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Vanilla Ice and MC Hammer.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Vanilla_Ice_and_MC_Hammer.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vanilla_Ice_and_MC_Hammer.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vanilla_Ice_and_MC_Hammer.jpg/960px-Vanilla_Ice_and_MC_Hammer.jpg",
+    "width": 2555,
+    "height": 2048,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10088550@N00\"\u003eYoTuT\u003c/a\u003e from United States"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Vanilla Ice and MC Hammer.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Vanilla_Ice_and_MC_Hammer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Vanilla_Ice_and_MC_Hammer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vanilla_Ice_and_MC_Hammer.jpg/960px-Vanilla_Ice_and_MC_Hammer.jpg",
+      "width": 2555,
+      "height": 2048,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/10088550@N00\"\u003eYoTuT\u003c/a\u003e from United States"
+    }
+  ],
   "listening_stats": {
     "source": "spotify-local-plays",
     "play_count": 0,
@@ -16,6 +65,23 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--pop-rap.json",
+      "url": "https://en.wikipedia.org/wiki/Pop_rap",
+      "retrieved_at": "2026-03-28T15:59:30Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--pop-rap.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Vanilla_Ice_and_MC_Hammer.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
     }
-  ]
+  ],
+  "last_updated": "2026-03-28"
 }

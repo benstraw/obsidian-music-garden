@@ -1,0 +1,76 @@
+{
+  "canonical_slug": "sophisti-pop",
+  "display_title": "Sophisti Pop",
+  "display_name": "Sophisti Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Sophisti-pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sophisti-pop",
+  "summary": "Sophisti-pop is a pop music subgenre that developed during the mid-1980s out of the British new wave era. It originated with acts who blended elements of jazz, soul, and pop with lavish production. The term \"sophisti-pop\" was coined only after the genre's peak in the mid-late 1980s.",
+  "candidates": [
+    "Sophisti-pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sophisti-pop",
+    "page_url": "https://en.wikipedia.org/wiki/Sophisti-pop",
+    "retrieved_at": "2026-03-28T16:00:58Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Saxo Boca1.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+    "width": 219,
+    "height": 230,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--sophisti-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Sophisti-pop",
+      "retrieved_at": "2026-03-28T16:00:58Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--sophisti-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

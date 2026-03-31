@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "rhino",
+  "display_title": "Rhino",
+  "display_name": "Rhino",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Rhino (character)",
+    "Rhino Entertainment",
+    "Rhinoceros",
+    "Rhinoceros (play)",
+    "Rhinoceros 3D",
+    "Rhinoceros Party",
+    "Rhinoceros poaching in Southern Africa",
+    "Rhinoplasty",
+    "Rhinorrhea",
+    "Rhinovirus"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

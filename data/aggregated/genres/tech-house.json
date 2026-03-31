@@ -1,0 +1,87 @@
+{
+  "canonical_slug": "tech-house",
+  "display_title": "Tech House",
+  "display_name": "Tech House",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Tech house",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tech_house",
+  "summary": "Tech house is a house music subgenre that prominently incorporates stylistic features from techno. The term tech house developed as a shorthand record store name for a category of electronic dance music that combined musical aspects of techno, such as \"rugged basslines\" and \"steely beats\", with the harmonies and grooves of progressive house. Tech house originally featured the clean and minimal production style associated with techno from Detroit and the UK.",
+  "candidates": [
+    "Tea house scam",
+    "Teahouse",
+    "Tech Museum",
+    "Tech Museum Award",
+    "Tech house",
+    "TechHaus Volantis",
+    "Technoself studies",
+    "Tecla house",
+    "Tent House, Mount Isa",
+    "Ticho House"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Tech house",
+    "page_url": "https://en.wikipedia.org/wiki/Tech_house",
+    "retrieved_at": "2026-03-28T16:01:30Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Question book-new.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+    "width": 512,
+    "height": 399,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--tech-house.json",
+      "url": "https://en.wikipedia.org/wiki/Tech_house",
+      "retrieved_at": "2026-03-28T16:01:30Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--tech-house.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

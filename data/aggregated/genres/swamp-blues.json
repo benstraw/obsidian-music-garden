@@ -1,0 +1,92 @@
+{
+  "canonical_slug": "swamp-blues",
+  "display_title": "Swamp Blues",
+  "display_name": "Swamp Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Swamp blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Swamp_blues",
+  "summary": "Swamp blues is a type of Louisiana blues that developed in the Black communities of Southwest Louisiana in the 1950s. It incorporates influences from other genres, particularly zydeco and Cajun. Its most successful proponents include Slim Harpo and Lightnin' Slim, who enjoyed national rhythm and blues hits.",
+  "candidates": [
+    "Swamp blue-eye",
+    "Swamp blues",
+    "Swamp bluet",
+    "Swampbuster",
+    "Swamps of the Blue Mountains"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Swamp blues",
+    "page_url": "https://en.wikipedia.org/wiki/Swamp_blues",
+    "retrieved_at": "2026-03-28T16:01:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Lazy Lester in 2004.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Lazy_Lester_in_2004.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lazy_Lester_in_2004.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lazy_Lester_in_2004.jpg/960px-Lazy_Lester_in_2004.jpg",
+      "width": 1000,
+      "height": 667,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Tom Beetz"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--swamp-blues.json",
+      "url": "https://en.wikipedia.org/wiki/Swamp_blues",
+      "retrieved_at": "2026-03-28T16:01:19Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--swamp-blues.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

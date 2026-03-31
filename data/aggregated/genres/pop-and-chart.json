@@ -1,0 +1,121 @@
+{
+  "canonical_slug": "pop-and-chart",
+  "display_title": "Pop And Chart",
+  "display_name": "Pop And Chart",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Poland, Chautauqua County, New York",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Poland%2C_Chautauqua_County%2C_New_York",
+  "summary": "Poland is an incorporated town in Chautauqua County, New York. The population was 2,201 at the time of the 2020 census. The town is on the county's eastern border.",
+  "candidates": [
+    "Poland, Chautauqua County, New York"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Poland, Chautauqua County, New York",
+    "page_url": "https://en.wikipedia.org/wiki/Poland%2C_Chautauqua_County%2C_New_York",
+    "retrieved_at": "2026-03-28T15:59:27Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Boxed East arrow.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Boxed_East_arrow.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boxed_East_arrow.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boxed_East_arrow.svg/960px-Boxed_East_arrow.svg.png",
+    "width": 17,
+    "height": 17,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Boxed East arrow.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Boxed_East_arrow.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Boxed_East_arrow.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boxed_East_arrow.svg/960px-Boxed_East_arrow.svg.png",
+      "width": 17,
+      "height": 17,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Chautauqua County NY Poland town highlighted.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Chautauqua_County_NY_Poland_town_highlighted.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Chautauqua_County_NY_Poland_town_highlighted.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chautauqua_County_NY_Poland_town_highlighted.svg/960px-Chautauqua_County_NY_Poland_town_highlighted.svg.png",
+      "width": 2100,
+      "height": 1345,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Schzmo\" title=\"User:Schzmo\"\u003eSchzmo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Map of New York highlighting Chautauqua County.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Map_of_New_York_highlighting_Chautauqua_County.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Map_of_New_York_highlighting_Chautauqua_County.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Map_of_New_York_highlighting_Chautauqua_County.svg/960px-Map_of_New_York_highlighting_Chautauqua_County.svg.png",
+      "width": 1100,
+      "height": 838,
+      "license": "Public domain",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:David_Benbennick\" title=\"User:David Benbennick\"\u003eDavid Benbennick\u003c/a\u003e assumed (based on copyright claims)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:North.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:North.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/North.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North.svg/960px-North.svg.png",
+      "width": 17,
+      "height": 17,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:DarkEvil\" title=\"User:DarkEvil\"\u003eDarkEvil\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Red pog.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Red_pog.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Red_pog.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/960px-Red_pog.svg.png",
+      "width": 64,
+      "height": 64,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andux\" title=\"User:Andux\"\u003eAndux\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--pop-and-chart.json",
+      "url": "https://en.wikipedia.org/wiki/Poland%2C_Chautauqua_County%2C_New_York",
+      "retrieved_at": "2026-03-28T15:59:27Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--pop-and-chart.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Boxed_East_arrow.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

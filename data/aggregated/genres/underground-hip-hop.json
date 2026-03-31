@@ -6,7 +6,8 @@
   "aliases": [
     "underground hip hop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Underground hip-hop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Underground_hip-hop",
@@ -60,32 +61,130 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-13T19:15:55.675Z",
+    "play_count": 15,
+    "unique_artist_count": 2,
+    "unique_release_count": 3,
+    "unique_track_count": 10,
+    "first_played_at": "2024-01-01T00:00:00.201390207Z",
     "last_played_at": "2026-03-13T19:15:55.675Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "deltron-3030",
+      "name": "Deltron 3030",
+      "play_count": 9,
+      "spotify_artist_id": "2efzHZrUGhawnSOTpyAHOQ",
+      "musicbrainz_artist_id": "ce886f30-8b8f-4cc8-b854-3749291350fd",
+      "spotify_url": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ"
+    },
+    {
       "canonical_slug": "people-under-the-stairs",
       "name": "People Under The Stairs",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "0av074qUwLn5eyzwqoq3xh",
+      "musicbrainz_artist_id": "3dc00dcb-6106-43d1-b48d-21d236f53983",
       "spotify_url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "deltron-3030--deltron-3030",
+      "name": "Deltron 3030",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "spotify_album_id": "04uhhcjGVCHodMgZjXOlye",
+      "musicbrainz_release_id": "9ade9ff7-da70-31f1-b7f6-95f87598c394",
+      "musicbrainz_release_group_id": "a55be3b5-1d86-317a-ac22-49655313bae0"
+    },
+    {
       "canonical_slug": "people-under-the-stairs--o-s-t",
       "name": "O.S.T.",
-      "play_count": 1,
+      "play_count": 4,
       "primary_artist_canonical_slug": "people-under-the-stairs",
-      "primary_artist_name": "People Under The Stairs"
+      "primary_artist_name": "People Under the Stairs",
+      "spotify_album_id": "2ood8bH4VbEAaxPpTFaSCy",
+      "musicbrainz_release_id": "79d35845-7b0b-4624-9999-a13ca25c653f",
+      "musicbrainz_release_group_id": "141fbded-cc06-37ef-ade8-7d70bae561ed"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs--the-next-step",
+      "name": "The Next Step",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under the Stairs",
+      "spotify_album_id": "3xNlOqBSM4hmlO8SmcLXJt",
+      "musicbrainz_release_id": "7ec201f1-a057-4bec-882b-ceb7fcb17950",
+      "musicbrainz_release_group_id": "144ee1f0-fd70-32a9-a8ad-df3b4af06b5c"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "people-under-the-stairs--keepin-it-live",
+      "name": "Keepin It Live",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under The Stairs",
+      "release_canonical_slug": "people-under-the-stairs--o-s-t",
+      "release_name": "O.S.T.",
+      "spotify_track_id": "18LE5EslSQkAlj3GeNM8SL",
+      "spotify_url": "https://open.spotify.com/track/18LE5EslSQkAlj3GeNM8SL"
+    },
+    {
+      "canonical_slug": "deltron-3030--meet-cleofis-randolph-the-patriarch",
+      "name": "Meet Cleofis Randolph the Patriarch",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "1Om3iM04oZdOZVBdjrtx79",
+      "spotify_url": "https://open.spotify.com/track/1Om3iM04oZdOZVBdjrtx79"
+    },
+    {
+      "canonical_slug": "deltron-3030--positive-contact",
+      "name": "Positive Contact",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "6mKai3TB6wtorWTX47wHUt",
+      "spotify_url": "https://open.spotify.com/track/6mKai3TB6wtorWTX47wHUt"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs--slow-bullet",
+      "name": "Slow Bullet",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under The Stairs",
+      "release_canonical_slug": "people-under-the-stairs--the-next-step",
+      "release_name": "The Next Step",
+      "spotify_track_id": "25bXUCKB70o9Qms9YPfGJG",
+      "spotify_url": "https://open.spotify.com/track/25bXUCKB70o9Qms9YPfGJG"
+    },
+    {
+      "canonical_slug": "deltron-3030--virus",
+      "name": "Virus",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "4CpWJkSodVFE3HSylu7ajJ",
+      "spotify_url": "https://open.spotify.com/track/4CpWJkSodVFE3HSylu7ajJ"
+    },
+    {
+      "canonical_slug": "deltron-3030--3030",
+      "name": "3030",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "39GBFwBe4GGk7i3yr3F46P",
+      "spotify_url": "https://open.spotify.com/track/39GBFwBe4GGk7i3yr3F46P"
+    },
     {
       "canonical_slug": "people-under-the-stairs--acid-raindrops",
       "name": "Acid Raindrops",
@@ -96,6 +195,39 @@
       "release_name": "O.S.T.",
       "spotify_track_id": "5vh9GfhmvKwEGN7uCwtGwp",
       "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp"
+    },
+    {
+      "canonical_slug": "deltron-3030--mastermind",
+      "name": "Mastermind",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "0uMn8WKu3qtQLaUyal1bsz",
+      "spotify_url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
+    },
+    {
+      "canonical_slug": "people-under-the-stairs--tales-of-kidd-drunkadelic",
+      "name": "Tales of Kidd Drunkadelic",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "people-under-the-stairs",
+      "primary_artist_name": "People Under The Stairs",
+      "release_canonical_slug": "people-under-the-stairs--o-s-t",
+      "release_name": "O.S.T.",
+      "spotify_track_id": "1bDN2aCHMcaQhwoZ2PwX1e",
+      "spotify_url": "https://open.spotify.com/track/1bDN2aCHMcaQhwoZ2PwX1e"
+    },
+    {
+      "canonical_slug": "deltron-3030--things-you-can-do",
+      "name": "Things You Can Do",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "release_canonical_slug": "deltron-3030--deltron-3030",
+      "release_name": "Deltron 3030",
+      "spotify_track_id": "3LRUR23xkDdMSOPhTnLv2d",
+      "spotify_url": "https://open.spotify.com/track/3LRUR23xkDdMSOPhTnLv2d"
     }
   ],
   "source_refs": [
@@ -104,6 +236,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "performer",
+  "display_title": "Performer",
+  "display_name": "Performer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Performing arts",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Performing_arts",
+  "summary": "The performing arts are arts such as music, dance, and drama which are performed for an audience. They are different from the visual arts, which involve the use of paint, canvas or various materials to create physical or static art objects. Performing arts include a range of disciplines which are performed in front of a live audience, including theatre, music, and dance.",
+  "candidates": [
+    "Performer",
+    "Performer (Trey Songz song)",
+    "Performer (disambiguation)",
+    "Performer (role variant)",
+    "Performer rights",
+    "Performers College",
+    "Performers House",
+    "Performers and Artists for Nuclear Disarmament",
+    "Performers of When the Saints Go Marching In",
+    "The Performer (James Righton album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Performing arts",
+    "page_url": "https://en.wikipedia.org/wiki/Performing_arts",
+    "retrieved_at": "2026-03-28T15:59:16Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Labudovo_jezero%2C_Balet_SNP-a%2C_Jelena_Le%C4%8Di%C4%87%2C_Andrej_Kol%C4%8Deriju%2C_foto_M._Polzovi%C4%87.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Labudovo_jezero%2C_Balet_SNP-a%2C_Jelena_Le%C4%8Di%C4%87%2C_Andrej_Kol%C4%8Deriju%2C_foto_M._Polzovi%C4%87.jpg/330px-Labudovo_jezero%2C_Balet_SNP-a%2C_Jelena_Le%C4%8Di%C4%87%2C_Andrej_Kol%C4%8Deriju%2C_foto_M._Polzovi%C4%87.jpg",
+    "width": 1280,
+    "height": 857
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--performer.json",
+      "url": "https://en.wikipedia.org/wiki/Performing_arts",
+      "retrieved_at": "2026-03-28T15:59:16Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--performer.json",
+      "url": "https://en.wikipedia.org/wiki/Performing_arts",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

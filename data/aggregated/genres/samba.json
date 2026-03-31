@@ -5,7 +5,8 @@
   "aliases": [
     "samba"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Samba",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Samba",
@@ -99,19 +100,20 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
+    "play_count": 3,
     "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T12:09:58.043Z",
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2024-01-01T00:00:00.445333825Z",
     "last_played_at": "2026-03-03T12:09:58.043Z"
   },
   "top_artists": [
     {
       "canonical_slug": "trio-mocoto",
       "name": "Trio Mocoto",
-      "play_count": 1,
+      "play_count": 3,
       "spotify_artist_id": "5nriuBVz6NDh6k8gTU5WgP",
+      "musicbrainz_artist_id": "3a558793-98d2-4b42-aff6-a22ab89bd6f3",
       "spotify_url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
     }
   ],
@@ -119,22 +121,46 @@
     {
       "canonical_slug": "trio-mocoto--trio-mocotó",
       "name": "Trio Mocotó",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "trio-mocoto",
+      "primary_artist_name": "Trio Mocotó",
+      "spotify_album_id": "0Go7lwU4ezAru4cp5glWzB",
+      "musicbrainz_release_id": "6a72b921-7357-4b93-822b-d5e5e323558d",
+      "musicbrainz_release_group_id": "5ac769ff-5585-40ab-977c-c18c76a2e723"
+    },
+    {
+      "canonical_slug": "trio-mocoto--samba-rock",
+      "name": "Samba Rock",
       "play_count": 1,
       "primary_artist_canonical_slug": "trio-mocoto",
-      "primary_artist_name": "Trio Mocoto"
+      "primary_artist_name": "Trio Mocotó",
+      "spotify_album_id": "1Xi2cRkf7VYMp8U5x99XFJ",
+      "musicbrainz_release_id": "cb5c508e-703f-4325-a6fa-8584935ea671",
+      "musicbrainz_release_group_id": "a8662f19-04e0-3332-b980-29f5c0ec6746"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "trio-mocoto--swinga-sambaby",
       "name": "Swinga Sambaby",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "trio-mocoto",
       "primary_artist_name": "Trio Mocoto",
       "release_canonical_slug": "trio-mocoto--trio-mocotó",
       "release_name": "Trio Mocotó",
       "spotify_track_id": "3rlfQRL4gIRARv6vGawaj2",
       "spotify_url": "https://open.spotify.com/track/3rlfQRL4gIRARv6vGawaj2"
+    },
+    {
+      "canonical_slug": "trio-mocoto--mocotó-beat",
+      "name": "Mocotó Beat",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "trio-mocoto",
+      "primary_artist_name": "Trio Mocoto",
+      "release_canonical_slug": "trio-mocoto--samba-rock",
+      "release_name": "Samba Rock",
+      "spotify_track_id": "5Azjtb2iZtzVUg62HXluPX",
+      "spotify_url": "https://open.spotify.com/track/5Azjtb2iZtzVUg62HXluPX"
     }
   ],
   "source_refs": [
@@ -143,6 +169,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

@@ -6,7 +6,8 @@
   "aliases": [
     "ragga"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Ragga",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ragga",
@@ -66,42 +67,238 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T15:39:19.952Z",
+    "play_count": 35,
+    "unique_artist_count": 3,
+    "unique_release_count": 9,
+    "unique_track_count": 25,
+    "first_played_at": "2024-01-01T00:00:00.198059521Z",
     "last_played_at": "2026-03-03T15:39:19.952Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "nas-and-damian-jr-gong-marley",
+      "name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "play_count": 16,
+      "spotify_artist_id": "3w2WYNyPCPkZFoC1EqfCMe",
+      "spotify_url": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+    },
+    {
+      "canonical_slug": "roots-manuva",
+      "name": "Roots Manuva",
+      "play_count": 13,
+      "spotify_artist_id": "4sSSkVtrCTzENCgm2vokiY",
+      "musicbrainz_artist_id": "4f6dd51e-bfd7-4153-ace7-9316d1757a57",
+      "spotify_url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+    },
+    {
       "canonical_slug": "steel-pulse",
       "name": "Steel Pulse",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "musicbrainz_artist_id": "37367b2f-69e4-4df2-9e64-75ca6204764b",
       "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "nas-and-damian-jr-gong-marley--distant-relatives",
+      "name": "Distant Relatives",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "nas-and-damian-jr-gong-marley",
+      "primary_artist_name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "spotify_album_id": "08Cq2FeFxRQdpkKrjCGrth"
+    },
+    {
+      "canonical_slug": "roots-manuva--run-come-save-me",
+      "name": "Run Come Save Me",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "spotify_album_id": "5U7ovzAy1H5vydRxNNuSl1",
+      "musicbrainz_release_id": "4b3b5c57-8665-45f7-8592-b8f2a251a2e8",
+      "musicbrainz_release_group_id": "caa65443-c87c-33b1-a6a9-e0510958acd4"
+    },
+    {
+      "canonical_slug": "steel-pulse--true-democracy",
+      "name": "True Democracy",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "spotify_album_id": "26eFSibLfoQ0pIvnb02NDg",
+      "musicbrainz_release_id": "150d3462-6e4e-4525-aaf9-877923fbd1a7",
+      "musicbrainz_release_group_id": "723f27d0-bae3-3f12-a5e2-eb8a7551090b"
+    },
+    {
+      "canonical_slug": "roots-manuva--bleeds",
+      "name": "Bleeds",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "spotify_album_id": "2ckG3GCP44lx0tGu0E3LWz",
+      "musicbrainz_release_id": "8eab2830-f52e-485f-a336-c5bcc3d0b2a1",
+      "musicbrainz_release_group_id": "0d7af791-1cbf-4747-b73b-eed2baf3c9a2"
+    },
+    {
+      "canonical_slug": "roots-manuva--brand-new-second-hand",
+      "name": "Brand New Second Hand",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "spotify_album_id": "7rpLc55Vg0N5S5drt7MOMt",
+      "musicbrainz_release_id": "6cfa81a9-b642-414e-a846-495d111db4f1",
+      "musicbrainz_release_group_id": "8b20c123-fe55-3c20-8700-cc78b4fdc112"
+    },
+    {
+      "canonical_slug": "roots-manuva--duppy-writer",
+      "name": "Duppy Writer",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "spotify_album_id": "7Ei8uKJgZ4EriVzxniByys",
+      "musicbrainz_release_id": "614c939e-5feb-494c-bf6e-db47daad3689",
+      "musicbrainz_release_group_id": "c249eba6-c1e2-4b06-b44b-b1d27bb486e9"
+    },
+    {
+      "canonical_slug": "nas--distant-relatives",
+      "name": "Distant Relatives",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "damian-marley",
+      "primary_artist_name": "Nas",
+      "spotify_album_id": "6Cj4gSdavyZCIhmeoCcrI6",
+      "musicbrainz_release_id": "cee21897-952a-4d5d-8e3b-542d39a49e87",
+      "musicbrainz_release_group_id": "24ef63c9-1f3c-4135-9a2e-48f3d35aedd7"
+    },
+    {
+      "canonical_slug": "roots-manuva--dub-come-save-me",
+      "name": "Dub Come Save Me",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "spotify_album_id": "7xYeBl2gT9GoKjfCHJ5UXx",
+      "musicbrainz_release_id": "82442a54-eaf8-497d-9910-67540dacb001",
+      "musicbrainz_release_group_id": "051dee5d-de70-3bce-a72d-79d88189e399"
+    },
+    {
       "canonical_slug": "steel-pulse--earth-crisis",
       "name": "Earth Crisis",
       "play_count": 1,
       "primary_artist_canonical_slug": "steel-pulse",
-      "primary_artist_name": "Steel Pulse"
+      "primary_artist_name": "Steel Pulse",
+      "spotify_album_id": "1h5jSwgEiUDx58MiBFVTgV",
+      "musicbrainz_release_id": "a33146a9-4bcd-3158-930d-37f2d8b310a7",
+      "musicbrainz_release_group_id": "e9eefcaa-667c-34a6-84fe-c4e9cb76756c"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "steel-pulse--steppin-out",
-      "name": "Steppin' Out",
-      "play_count": 1,
+      "canonical_slug": "nas-and-damian-jr-gong-marley--patience",
+      "name": "Patience",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "nas-and-damian-jr-gong-marley",
+      "primary_artist_name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "release_canonical_slug": "nas-and-damian-jr-gong-marley--distant-relatives",
+      "release_name": "Distant Relatives",
+      "spotify_track_id": "5ZdVYZaMffiDf1plaJ2Jib",
+      "spotify_url": "https://open.spotify.com/track/5ZdVYZaMffiDf1plaJ2Jib"
+    },
+    {
+      "canonical_slug": "steel-pulse--your-house",
+      "name": "Your House",
+      "play_count": 3,
       "primary_artist_canonical_slug": "steel-pulse",
       "primary_artist_name": "Steel Pulse",
-      "release_canonical_slug": "steel-pulse--earth-crisis",
-      "release_name": "Earth Crisis",
-      "spotify_track_id": "7cxJUcO4HTrJ2jniaKOAaw",
-      "spotify_url": "https://open.spotify.com/track/7cxJUcO4HTrJ2jniaKOAaw"
+      "release_canonical_slug": "steel-pulse--true-democracy",
+      "release_name": "True Democracy",
+      "spotify_track_id": "6PbtTwGUPPbnT7nRTA1gS3",
+      "spotify_url": "https://open.spotify.com/track/6PbtTwGUPPbnT7nRTA1gS3"
+    },
+    {
+      "canonical_slug": "nas-and-damian-jr-gong-marley--africa-must-wake-up",
+      "name": "Africa Must Wake Up",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "nas-and-damian-jr-gong-marley",
+      "primary_artist_name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "release_canonical_slug": "nas-and-damian-jr-gong-marley--distant-relatives",
+      "release_name": "Distant Relatives",
+      "spotify_track_id": "0Bpq1yPSBTH5pgD0g0EmJj",
+      "spotify_url": "https://open.spotify.com/track/0Bpq1yPSBTH5pgD0g0EmJj"
+    },
+    {
+      "canonical_slug": "roots-manuva--butterfly-crab-walk",
+      "name": "Butterfly Crab Walk",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "release_canonical_slug": "roots-manuva--duppy-writer",
+      "release_name": "Duppy Writer",
+      "spotify_track_id": "4Ww0ZWHXFZL1ESd8MJBnrw",
+      "spotify_url": "https://open.spotify.com/track/4Ww0ZWHXFZL1ESd8MJBnrw"
+    },
+    {
+      "canonical_slug": "roots-manuva--dreamy-days",
+      "name": "Dreamy Days",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "release_canonical_slug": "roots-manuva--run-come-save-me",
+      "release_name": "Run Come Save Me",
+      "spotify_track_id": "74ZEiucPvI6jqYe3YxJwx6",
+      "spotify_url": "https://open.spotify.com/track/74ZEiucPvI6jqYe3YxJwx6"
+    },
+    {
+      "canonical_slug": "roots-manuva--fighting-for",
+      "name": "Fighting For?",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "release_canonical_slug": "roots-manuva--bleeds",
+      "release_name": "Bleeds",
+      "spotify_track_id": "3E9iBozKyc4dXyu5QSpxQo",
+      "spotify_url": "https://open.spotify.com/track/3E9iBozKyc4dXyu5QSpxQo"
+    },
+    {
+      "canonical_slug": "steel-pulse--leggo-beast",
+      "name": "Leggo Beast",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--true-democracy",
+      "release_name": "True Democracy",
+      "spotify_track_id": "2Fg0V8uIWQnBSTWJsrW5P6",
+      "spotify_url": "https://open.spotify.com/track/2Fg0V8uIWQnBSTWJsrW5P6"
+    },
+    {
+      "canonical_slug": "roots-manuva--witness-1-hope",
+      "name": "Witness (1 Hope)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "roots-manuva",
+      "primary_artist_name": "Roots Manuva",
+      "release_canonical_slug": "roots-manuva--run-come-save-me",
+      "release_name": "Run Come Save Me",
+      "spotify_track_id": "5KLcIahbdBJeZ8tHAyYMpN",
+      "spotify_url": "https://open.spotify.com/track/5KLcIahbdBJeZ8tHAyYMpN"
+    },
+    {
+      "canonical_slug": "nas-and-damian-jr-gong-marley--as-we-enter",
+      "name": "As We Enter",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "nas-and-damian-jr-gong-marley",
+      "primary_artist_name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "release_canonical_slug": "nas-and-damian-jr-gong-marley--distant-relatives",
+      "release_name": "Distant Relatives",
+      "spotify_track_id": "1hxcg5FRB5lZv5PdAThDpe",
+      "spotify_url": "https://open.spotify.com/track/1hxcg5FRB5lZv5PdAThDpe"
+    },
+    {
+      "canonical_slug": "nas-and-damian-jr-gong-marley--count-your-blessings",
+      "name": "Count Your Blessings",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "nas-and-damian-jr-gong-marley",
+      "primary_artist_name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "release_canonical_slug": "nas-and-damian-jr-gong-marley--distant-relatives",
+      "release_name": "Distant Relatives",
+      "spotify_track_id": "4Jck5CCjzWoeNqkLFFkqaF",
+      "spotify_url": "https://open.spotify.com/track/4Jck5CCjzWoeNqkLFFkqaF"
     }
   ],
   "source_refs": [
@@ -110,6 +307,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

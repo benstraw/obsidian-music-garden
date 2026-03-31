@@ -1,0 +1,91 @@
+{
+  "canonical_slug": "talking-timbuktu",
+  "display_title": "Talking Timbuktu",
+  "display_name": "Talking Timbuktu",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Talking Timbuktu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Talking_Timbuktu",
+  "summary": "Talking Timbuktu is the 1994 collaboration album between Malian guitarist Ali Farka Touré and American guitarist/producer Ry Cooder. The guitar riff from the song \"Diaraby\" was selected for the Geo-quiz segment of The World PRI-BBC radio program and was retained by popular demand when put to a vote by the listeners. In 2009, the album was awarded a gold certification from the Independent Music Companies Association which indicated sales of at least 100,000 copies throughout Europe.",
+  "candidates": [
+    "Talking Timbuktu"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Talking Timbuktu",
+    "page_url": "https://en.wikipedia.org/wiki/Talking_Timbuktu",
+    "retrieved_at": "2026-03-28T16:01:26Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Star empty.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Star_empty.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/960px-Star_empty.svg.png",
+    "width": 108,
+    "height": 110,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eConti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eRedHotHeat\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited.\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Star empty.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Star_empty.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/960px-Star_empty.svg.png",
+      "width": 108,
+      "height": 110,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:table;width:;vertical-align:middle;direction:ltr;float:left;line-height:22px;height:24px;font-size:.96em;margin:0px;padding:2px 4px 2px 6px;color:var(--color-base,#000);background:var(--background-color-neutral-subtle,#F8F9FA);border:1px solid #BAB;border-collapse:separate;border-spacing:0px;;\"\u003e\u003cspan typeof=\"mw:File\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:Inkscape_to_text.svg\" class=\"mw-file-description\"\u003e\u003cimg src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/120px-Inkscape_to_text.svg.png\" decoding=\"async\" width=\"62\" height=\"22\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Inkscape_to_text.svg/250px-Inkscape_to_text.svg.png 2x\" data-file-width=\"140\" data-file-height=\"50\"\u003e\u003c/a\u003e\u003c/span\u003e This \u003ca href=\"https://en.wikipedia.org/wiki/Vector_graphics\" class=\"extiw\" title=\"w:Vector graphics\"\u003evector image\u003c/a\u003e was created with \u003ca href=\"//commons.wikimedia.org/wiki/Help:Inkscape\" title=\"Help:Inkscape\"\u003eInkscape\u003c/a\u003e by \u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eConti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eRedHotHeat\u003c/a\u003e, and then \u003ca href=\"https://en.wikipedia.org/wiki/Text_editor\" class=\"extiw\" title=\"w:Text editor\"\u003emanually\u003c/a\u003e edited.\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Star full.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Star_full.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/960px-Star_full.svg.png",
+      "width": 108,
+      "height": 110,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Conti\" title=\"User:Conti\"\u003eUser:Conti\u003c/a\u003e from the original images by \u003ca href=\"//commons.wikimedia.org/wiki/User:RedHotHeat\" class=\"mw-redirect\" title=\"User:RedHotHeat\"\u003eUser:RedHotHeat\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:TalkingTimbuktu.jpg"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--talking-timbuktu.json",
+      "url": "https://en.wikipedia.org/wiki/Talking_Timbuktu",
+      "retrieved_at": "2026-03-28T16:01:26Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--talking-timbuktu.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

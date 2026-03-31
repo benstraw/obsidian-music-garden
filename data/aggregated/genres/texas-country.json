@@ -6,7 +6,8 @@
   "aliases": [
     "texas country"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Texas (country)",
@@ -35,6 +36,7 @@
       "name": "Cross Canadian Ragweed",
       "play_count": 1,
       "spotify_artist_id": "5Vz7hlMWR4OFye64dYoGm0",
+      "musicbrainz_artist_id": "5db6febe-4179-459c-8d31-37cfc8d191a9",
       "spotify_url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
     },
     {
@@ -42,6 +44,7 @@
       "name": "Flatland Cavalry",
       "play_count": 1,
       "spotify_artist_id": "4SfGzWmeoNPKIOmiyc7Pav",
+      "musicbrainz_artist_id": "ada86294-d23d-4e54-a764-570d090f0d8e",
       "spotify_url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
     }
   ],
@@ -51,14 +54,20 @@
       "name": "Flatland Forever",
       "play_count": 1,
       "primary_artist_canonical_slug": "flatland-cavalry",
-      "primary_artist_name": "Flatland Cavalry"
+      "primary_artist_name": "Flatland Cavalry",
+      "spotify_album_id": "6hsLVJIMa6eZ0eo0sEeVbg",
+      "musicbrainz_release_id": "545ec9d1-ddb9-45ce-a0dc-77eb9a037fa9",
+      "musicbrainz_release_group_id": "ae024ee3-13b8-445c-bc3f-e65132b519bf"
     },
     {
       "canonical_slug": "cross-canadian-ragweed--live-and-loud-at-the-wormy-dog-saloon",
       "name": "Live \u0026 Loud At The Wormy Dog Saloon",
       "play_count": 1,
       "primary_artist_canonical_slug": "cross-canadian-ragweed",
-      "primary_artist_name": "Cross Canadian Ragweed"
+      "primary_artist_name": "Cross Canadian Ragweed",
+      "spotify_album_id": "72YbH4he1XGP1kW3Nmjxc8",
+      "musicbrainz_release_id": "7faf7341-7eee-4ca9-880f-2a10c398fcda",
+      "musicbrainz_release_group_id": "cc4b98cb-72d2-3bcb-9976-bbecf1bcf180"
     }
   ],
   "top_tracks": [
@@ -93,6 +102,12 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -100,5 +115,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

@@ -9,7 +9,8 @@
     "retro soul",
     "soul"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Soul",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Soul",
@@ -104,207 +105,209 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 19,
-    "unique_artist_count": 7,
-    "unique_release_count": 10,
-    "unique_track_count": 16,
-    "first_played_at": "2026-03-01T01:35:13.187Z",
-    "last_played_at": "2026-03-14T18:31:38.761Z"
+    "play_count": 163,
+    "unique_artist_count": 26,
+    "unique_release_count": 39,
+    "unique_track_count": 127,
+    "first_played_at": "2024-01-01T00:00:00.047255442Z",
+    "last_played_at": "2026-03-16T23:27:47.925Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "ahmad-jamal-trio",
+      "name": "Ahmad Jamal Trio",
+      "play_count": 32,
+      "spotify_artist_id": "0BqALs1lInR9TTOulUADH7",
+      "musicbrainz_artist_id": "9e7ca87b-4e3d-4d14-90f1-a74acb645fe2",
+      "spotify_url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+    },
+    {
+      "canonical_slug": "ann-peebles",
+      "name": "Ann Peebles",
+      "play_count": 17,
+      "spotify_artist_id": "5dM7jA0PXh0Ozz8LT2YOCB",
+      "musicbrainz_artist_id": "a7e05e3f-7459-4ba6-9041-8b5cacf6338c",
+      "spotify_url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+    },
+    {
       "canonical_slug": "bill-withers",
       "name": "Bill Withers",
-      "play_count": 6,
+      "play_count": 14,
       "spotify_artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+      "musicbrainz_artist_id": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
       "spotify_url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+    },
+    {
+      "canonical_slug": "otis-redding",
+      "name": "Otis Redding",
+      "play_count": 9,
+      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
+      "musicbrainz_artist_id": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+    },
+    {
+      "canonical_slug": "johnnie-taylor",
+      "name": "Johnnie Taylor",
+      "play_count": 8,
+      "spotify_artist_id": "4OGuNAnRFWZOgOA2d51taz",
+      "musicbrainz_artist_id": "4c1c21bc-56d9-4bed-8b58-360b08e76ffa",
+      "spotify_url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+    },
+    {
+      "canonical_slug": "eddie-floyd",
+      "name": "Eddie Floyd",
+      "play_count": 7,
+      "spotify_artist_id": "6Bfy6QzadCXS92y0T8dDZF",
+      "musicbrainz_artist_id": "484e8d72-ad54-43cf-bceb-283529ac2b62",
+      "spotify_url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+    },
+    {
+      "canonical_slug": "menahan-street-band",
+      "name": "Menahan Street Band",
+      "play_count": 7,
+      "spotify_artist_id": "1PryMSya1JnSAlcwYawCxp",
+      "musicbrainz_artist_id": "93da8c8a-bd13-4418-a00e-2861b8518a8d",
+      "spotify_url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+    },
+    {
+      "canonical_slug": "charles-bradley",
+      "name": "Charles Bradley",
+      "play_count": 6,
+      "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
+      "musicbrainz_artist_id": "dc6d2ba1-012c-47a7-ba3f-d74e76c30d53",
+      "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+    },
+    {
+      "canonical_slug": "dusty-springfield",
+      "name": "Dusty Springfield",
+      "play_count": 6,
+      "spotify_artist_id": "5zaXYwewAXedKNCff45U5l",
+      "musicbrainz_artist_id": "b896aa8c-2761-40ce-b485-0e1fffd26167",
+      "spotify_url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
     },
     {
       "canonical_slug": "curtis-mayfield",
       "name": "Curtis Mayfield",
       "play_count": 5,
       "spotify_artist_id": "2AV6XDIs32ofIJhkkDevjm",
+      "musicbrainz_artist_id": "4dca4bb2-23ba-4103-97e6-5810311db33a",
       "spotify_url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-    },
-    {
-      "canonical_slug": "baby-huey",
-      "name": "Baby Huey",
-      "play_count": 4,
-      "spotify_artist_id": "3YFP5QHEKv8RZZsPminjdv",
-      "spotify_url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-    },
-    {
-      "canonical_slug": "aretha-franklin",
-      "name": "Aretha Franklin",
-      "play_count": 1,
-      "spotify_artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
-      "spotify_url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-    },
-    {
-      "canonical_slug": "charles-bradley",
-      "name": "Charles Bradley",
-      "play_count": 1,
-      "spotify_artist_id": "462T0buQ5ScBUQCRpodDRf",
-      "spotify_url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-    },
-    {
-      "canonical_slug": "otis-redding",
-      "name": "Otis Redding",
-      "play_count": 1,
-      "spotify_artist_id": "60df5JBRRPcnSpsIMxxwQm",
-      "spotify_url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-    },
-    {
-      "canonical_slug": "world-class-wreckin-cru",
-      "name": "World Class Wreckin' Cru",
-      "play_count": 1,
-      "spotify_artist_id": "3xA7r14Rok7gwRmVbrNFd9",
-      "spotify_url": "https://open.spotify.com/artist/3xA7r14Rok7gwRmVbrNFd9"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "bill-withers--still-bill",
-      "name": "Still Bill",
-      "play_count": 4,
-      "primary_artist_canonical_slug": "bill-withers",
-      "primary_artist_name": "Bill Withers"
+      "canonical_slug": "william-bell--the-complete-stax-volt-soul-singles-vol-2-1968-1971",
+      "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+      "play_count": 43,
+      "primary_artist_canonical_slug": "booker-t-and-the-m-g-s",
+      "primary_artist_name": "Booker T. \u0026 the M.G.'s",
+      "spotify_album_id": "09dsUwnIIqRL97qbvGTrjH"
     },
     {
-      "canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
-      "name": "The Baby Huey Story: The Living Legend",
-      "play_count": 4,
-      "primary_artist_canonical_slug": "baby-huey",
-      "primary_artist_name": "Baby Huey"
+      "canonical_slug": "ahmad-jamal--the-complete-ahmad-jamal-trio-argo-sessions-1956-62",
+      "name": "The Complete Ahmad Jamal Trio Argo Sessions 1956-62",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "The Ahmad Jamal Trio",
+      "spotify_album_id": "6q6L2UOZxxE6qJNOexyBSj",
+      "musicbrainz_release_id": "ae408343-c9f3-41b6-a529-83c63fc429cb",
+      "musicbrainz_release_group_id": "27e6f350-303e-446e-aa2e-b5b3aa2c20d9"
     },
     {
-      "canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
-      "name": "Superfly: Deluxe 25th Anniversary Edition",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield"
+      "canonical_slug": "ann-peebles--straight-from-the-heart",
+      "name": "Straight from the Heart",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "ann-peebles",
+      "primary_artist_name": "Ann Peebles",
+      "spotify_album_id": "2HGzxUUz5q4jldJkodIarf",
+      "musicbrainz_release_id": "4d19c2c8-92c9-42bd-98d8-9e468f552948",
+      "musicbrainz_release_group_id": "8226c024-25b2-31d9-a1e9-bf72891d0f86"
     },
     {
       "canonical_slug": "bill-withers--just-as-i-am",
       "name": "Just As I Am",
-      "play_count": 2,
+      "play_count": 9,
       "primary_artist_canonical_slug": "bill-withers",
-      "primary_artist_name": "Bill Withers"
+      "primary_artist_name": "Bill Withers",
+      "spotify_album_id": "6N8uPmDqbgXD3ztkCCfxoo",
+      "musicbrainz_release_id": "7e0f7789-8410-44ba-8100-78dafcb8e158",
+      "musicbrainz_release_group_id": "a72ee504-15b5-343c-bfd7-e71f9272e0e5"
     },
     {
-      "canonical_slug": "otis-redding--dock-of-the-bay-sessions",
-      "name": "Dock of the Bay Sessions",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "otis-redding",
-      "primary_artist_name": "Otis Redding"
-    },
-    {
-      "canonical_slug": "world-class-wreckin-cru--gold",
-      "name": "Gold",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "world-class-wreckin-cru",
-      "primary_artist_name": "World Class Wreckin' Cru"
+      "canonical_slug": "ahmad-jamal-trio--the-awakening",
+      "name": "The Awakening",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "ahmad-jamal-trio",
+      "primary_artist_name": "The Ahmad Jamal Trio",
+      "spotify_album_id": "5oSVYKZLKGCmwYqmJ7AZnO",
+      "musicbrainz_release_id": "1ea31285-9201-4631-a293-ad85c9a41ab3",
+      "musicbrainz_release_group_id": "b3b34cd9-0c9b-37dd-80a1-0f74e80f18fe"
     },
     {
       "canonical_slug": "charles-bradley--no-time-for-dreaming",
       "name": "No Time For Dreaming",
-      "play_count": 1,
+      "play_count": 5,
       "primary_artist_canonical_slug": "charles-bradley",
-      "primary_artist_name": "Charles Bradley"
+      "primary_artist_name": "Charles Bradley",
+      "spotify_album_id": "6j1xh7WBOIVNekKFKFKbAp",
+      "musicbrainz_release_id": "ce7624ec-d9f2-4c3c-b141-d0b536820f1f",
+      "musicbrainz_release_group_id": "5780368b-735c-4481-8cf1-5a873c1f6a80"
     },
     {
-      "canonical_slug": "curtis-mayfield--superfly-original-soundtrack",
-      "name": "Superfly (Original Soundtrack)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield"
+      "canonical_slug": "bill-withers--still-bill",
+      "name": "Still Bill",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers",
+      "spotify_album_id": "0sFuW4rH5mFZUjNKnckO3v",
+      "musicbrainz_release_id": "de3fc9ac-4f6b-42a4-bbe6-f06b9ba7411c",
+      "musicbrainz_release_group_id": "63544e97-de86-3096-8702-250590ae5f90"
     },
     {
-      "canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
-      "name": "There's No Place Like America Today",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield"
+      "canonical_slug": "ahmad-jamal-trio--ahmad-jamal-at-the-pershing-but-not-for-me",
+      "name": "Ahmad Jamal At The Pershing: But Not For Me",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "ahmad-jamal-trio",
+      "primary_artist_name": "The Ahmad Jamal Trio",
+      "spotify_album_id": "3nUwuIFxJid3GQo8c4F6HY",
+      "musicbrainz_release_id": "0008f765-032b-46cd-ab69-2220edab1837",
+      "musicbrainz_release_group_id": "0a8e97fd-457c-30bc-938a-2fba79cb04e7"
     },
     {
-      "canonical_slug": "aretha-franklin--young-gifted-and-black",
-      "name": "Young, Gifted and Black",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "aretha-franklin",
-      "primary_artist_name": "Aretha Franklin"
+      "canonical_slug": "ahmad-jamal--ahmad-s-blues",
+      "name": "Ahmad's Blues",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "ahmad-jamal",
+      "primary_artist_name": "Ahmad Jamal",
+      "spotify_album_id": "1FArgkjoKBdGGbYEhR0j9s",
+      "musicbrainz_release_id": "d6af7c23-cdbd-478f-afdd-69a1e18b289f",
+      "musicbrainz_release_group_id": "3e667daf-2534-38be-b517-94925c4695fd"
+    },
+    {
+      "canonical_slug": "dusty-springfield--dusty-in-memphis-deluxe-edition",
+      "name": "Dusty In Memphis [Deluxe Edition]",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "dusty-springfield",
+      "primary_artist_name": "Dusty Springfield",
+      "spotify_album_id": "6SNMenG3NjZyqgI5p4Hcmg"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "baby-huey--hard-times",
-      "name": "Hard Times",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "baby-huey",
-      "primary_artist_name": "Baby Huey",
-      "release_canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
-      "release_name": "The Baby Huey Story: The Living Legend",
-      "spotify_track_id": "7ycU5Bxfn2fIZjXJypfdRM",
-      "spotify_url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "canonical_slug": "curtis-mayfield--pusherman",
-      "name": "Pusherman",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield",
-      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
-      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
-      "spotify_track_id": "7zrPswSV1yxrill5OyCuaU",
-      "spotify_url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
-    },
-    {
-      "canonical_slug": "bill-withers--use-me",
-      "name": "Use Me",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "bill-withers",
-      "primary_artist_name": "Bill Withers",
-      "release_canonical_slug": "bill-withers--still-bill",
-      "release_name": "Still Bill",
-      "spotify_track_id": "4gRA0i5sxx3jAhHaVjPnUN",
-      "spotify_url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
-    },
-    {
-      "canonical_slug": "curtis-mayfield--billy-jack",
-      "name": "Billy Jack",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield",
-      "release_canonical_slug": "curtis-mayfield--there-s-no-place-like-america-today",
-      "release_name": "There's No Place Like America Today",
-      "spotify_track_id": "58g78TAudwqiMzSJHrhjYB",
-      "spotify_url": "https://open.spotify.com/track/58g78TAudwqiMzSJHrhjYB"
-    },
-    {
-      "canonical_slug": "baby-huey--california-dreamin",
-      "name": "California Dreamin'",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "baby-huey",
-      "primary_artist_name": "Baby Huey",
-      "release_canonical_slug": "baby-huey--the-baby-huey-story-the-living-legend",
-      "release_name": "The Baby Huey Story: The Living Legend",
-      "spotify_track_id": "1HzIPQceSx4GYLUyag9EPm",
-      "spotify_url": "https://open.spotify.com/track/1HzIPQceSx4GYLUyag9EPm"
-    },
-    {
-      "canonical_slug": "curtis-mayfield--freddie-s-dead",
-      "name": "Freddie's Dead",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "curtis-mayfield",
-      "primary_artist_name": "Curtis Mayfield",
-      "release_canonical_slug": "curtis-mayfield--superfly-deluxe-25th-anniversary-edition",
-      "release_name": "Superfly: Deluxe 25th Anniversary Edition",
-      "spotify_track_id": "2ouFIPC3O1HNBcVTw1d9AN",
-      "spotify_url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+      "canonical_slug": "charles-bradley--the-world-is-going-up-in-flames",
+      "name": "The World (Is Going Up in Flames)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "charles-bradley",
+      "primary_artist_name": "Charles Bradley",
+      "release_canonical_slug": "charles-bradley--no-time-for-dreaming",
+      "release_name": "No Time For Dreaming",
+      "spotify_track_id": "6MQlNH8e6jG0LZg2mocK1R",
+      "spotify_url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
     },
     {
       "canonical_slug": "bill-withers--grandma-s-hands",
       "name": "Grandma's Hands",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "bill-withers",
       "primary_artist_name": "Bill Withers",
       "release_canonical_slug": "bill-withers--just-as-i-am",
@@ -313,37 +316,92 @@
       "spotify_url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
     },
     {
-      "canonical_slug": "otis-redding--hard-to-handle",
-      "name": "Hard to Handle",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "otis-redding",
-      "primary_artist_name": "Otis Redding",
-      "release_canonical_slug": "otis-redding--dock-of-the-bay-sessions",
-      "release_name": "Dock of the Bay Sessions",
-      "spotify_track_id": "7FXuCkl1kfxwS5icDjTwbM",
-      "spotify_url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+      "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
+      "name": "The Revolution Will Not Be Televised",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
+      "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
     },
     {
-      "canonical_slug": "bill-withers--harlem",
-      "name": "Harlem",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "bill-withers",
-      "primary_artist_name": "Bill Withers",
-      "release_canonical_slug": "bill-withers--just-as-i-am",
-      "release_name": "Just As I Am",
-      "spotify_track_id": "6JumfGk4f9E5KLT086I75s",
-      "spotify_url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s"
-    },
-    {
-      "canonical_slug": "bill-withers--lonely-town-lonely-street",
-      "name": "Lonely Town, Lonely Street",
-      "play_count": 1,
+      "canonical_slug": "bill-withers--use-me",
+      "name": "Use Me",
+      "play_count": 3,
       "primary_artist_canonical_slug": "bill-withers",
       "primary_artist_name": "Bill Withers",
       "release_canonical_slug": "bill-withers--still-bill",
       "release_name": "Still Bill",
-      "spotify_track_id": "3oiVJNFAQQ77Yp3rXWGsVp",
-      "spotify_url": "https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp"
+      "spotify_track_id": "4gRA0i5sxx3jAhHaVjPnUN",
+      "spotify_url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
+    },
+    {
+      "canonical_slug": "otis-redding--sittin-on-the-dock-of-the-bay",
+      "name": "(Sittin' On) the Dock of the Bay",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding",
+      "release_canonical_slug": "otis-redding--the-dock-of-the-bay-mono",
+      "release_name": "The Dock of the Bay (Mono)",
+      "spotify_track_id": "3zBhihYUHBmGd2bcQIobrF",
+      "spotify_url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+    },
+    {
+      "canonical_slug": "bill-withers--ain-t-no-sunshine",
+      "name": "Ain't No Sunshine",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "bill-withers",
+      "primary_artist_name": "Bill Withers",
+      "release_canonical_slug": "bill-withers--just-as-i-am",
+      "release_name": "Just As I Am",
+      "spotify_track_id": "1k1Bqnv2R0uJXQN4u6LKYt",
+      "spotify_url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "canonical_slug": "otis-redding--cigarettes-and-coffee",
+      "name": "Cigarettes and Coffee",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "otis-redding",
+      "primary_artist_name": "Otis Redding",
+      "release_canonical_slug": "otis-redding--the-soul-album",
+      "release_name": "The Soul Album",
+      "spotify_track_id": "4PFiLGx8jAzcAJxwPLUeZ9",
+      "spotify_url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "canonical_slug": "steve-cropper--don-t-turn-your-heater-down",
+      "name": "Don't Turn Your Heater Down",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "steve-cropper",
+      "primary_artist_name": "Steve Cropper",
+      "release_canonical_slug": "steve-cropper--jammed-together",
+      "release_name": "Jammed Together",
+      "spotify_track_id": "1eez8GoCSFr5ijxW1ImFGL",
+      "spotify_url": "https://open.spotify.com/track/1eez8GoCSFr5ijxW1ImFGL"
+    },
+    {
+      "canonical_slug": "rufus-thomas--funky-mississippi",
+      "name": "Funky Mississippi",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "rufus-thomas",
+      "primary_artist_name": "Rufus Thomas",
+      "release_canonical_slug": "william-bell--the-complete-stax-volt-soul-singles-vol-2-1968-1971",
+      "release_name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+      "spotify_track_id": "5LJd6HJ3vyFseeG8GDVLKb",
+      "spotify_url": "https://open.spotify.com/track/5LJd6HJ3vyFseeG8GDVLKb"
+    },
+    {
+      "canonical_slug": "shuggie-otis--funky-thithee",
+      "name": "Funky Thithee",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "shuggie-otis",
+      "primary_artist_name": "Shuggie Otis",
+      "release_canonical_slug": "shuggie-otis--here-comes-shuggie-otis",
+      "release_name": "Here Comes Shuggie Otis",
+      "spotify_track_id": "7xuET2MbGSP3aLpgU2BGbV",
+      "spotify_url": "https://open.spotify.com/track/7xuET2MbGSP3aLpgU2BGbV"
     }
   ],
   "source_refs": [
@@ -352,6 +410,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -373,7 +437,7 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-14T18:31:38.761Z",
+      "updated_at": "2026-03-16T23:27:47.925Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],

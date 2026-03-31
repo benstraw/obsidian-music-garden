@@ -1,0 +1,133 @@
+{
+  "canonical_slug": "space",
+  "display_title": "Space",
+  "display_name": "Space",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Space",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Space",
+  "summary": "Space is a three-dimensional continuum containing positions and directions. In classical physics, physical space is often conceived in three linear dimensions. Modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. The concept of space is considered to be of fundamental importance to an understanding of the physical universe. However, disagreement continues between philosophers over whether it is itself an entity, a relationship between entities, or part of a conceptual framework.",
+  "candidates": [
+    "Kevin Spacey",
+    "Space",
+    "Space Shuttle",
+    "Space Shuttle Challenger disaster",
+    "Space Shuttle Columbia disaster",
+    "Space exploration",
+    "Space: 1999",
+    "SpaceX",
+    "SpaceX Starship",
+    "Spacetime"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Space",
+    "page_url": "https://en.wikipedia.org/wiki/Space",
+    "retrieved_at": "2026-03-28T16:01:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:3D coordinate system.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:3D_coordinate_system.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/3D_coordinate_system.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/3D_coordinate_system.svg/960px-3D_coordinate_system.svg.png",
+    "width": 487,
+    "height": 487,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:Sakurambo~commonswiki\" title=\"User:Sakurambo~commonswiki\"\u003eSakurambo~commonswiki\u003c/a\u003e assumed (based on copyright claims).",
+    "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sakurambo\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sakurambo (page does not exist)\"\u003eSakurambo\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:3D coordinate system.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:3D_coordinate_system.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/3D_coordinate_system.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/3D_coordinate_system.svg/960px-3D_coordinate_system.svg.png",
+      "width": 487,
+      "height": 487,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/wiki/User:Sakurambo~commonswiki\" title=\"User:Sakurambo~commonswiki\"\u003eSakurambo~commonswiki\u003c/a\u003e assumed (based on copyright claims).",
+      "attribution_text": "I, \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Sakurambo\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Sakurambo (page does not exist)\"\u003eSakurambo\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Albert Einstein Head cleaned.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Albert_Einstein_Head_cleaned.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/960px-Albert_Einstein_Head_cleaned.jpg",
+      "width": 4530,
+      "height": 5607,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q66480610\" class=\"extiw\" title=\"d:Q66480610\"\u003e\u003cspan title=\"American photographer (1889–1968)\"\u003eOrren Jack Turner\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carl Friedrich Gauss.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carl_Friedrich_Gauss.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carl_Friedrich_Gauss.jpg",
+      "width": 917,
+      "height": 1180,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://www.wikidata.org/wiki/Q19284307\" class=\"extiw\" title=\"d:Q19284307\"\u003e\u003cspan title=\"German painter (1824–1908)\"\u003eGottlieb Biermann\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e / \u003cbdi\u003eAfter \u003ca href=\"https://en.wikipedia.org/wiki/en:Christian_Albrecht_Jensen\" class=\"extiw\" title=\"w:en:Christian Albrecht Jensen\"\u003e\u003cspan title=\"Danish portrait painter (1792-1870)\"\u003eChristian Albrecht Jensen\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Crab Nebula.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Crab_Nebula.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/960px-Crab_Nebula.jpg",
+      "width": 3864,
+      "height": 3864,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/NASA\" title=\"NASA\"\u003eNASA\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/ESA\" class=\"mw-redirect\" title=\"ESA\"\u003eESA\u003c/a\u003e, J. Hester and A. Loll (Arizona State University)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Earth-moon.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Earth-moon.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/960px-Earth-moon.jpg",
+      "width": 3000,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Apollo_8\" title=\"Apollo 8\"\u003eApollo 8\u003c/a\u003e crewmember \u003ca href=\"https://en.wikipedia.org/wiki/William_Anders\" class=\"extiw\" title=\"w:William Anders\"\u003eBill Anders\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--space.json",
+      "url": "https://en.wikipedia.org/wiki/Space",
+      "retrieved_at": "2026-03-28T16:01:06Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--space.json",
+      "url": "https://commons.wikimedia.org/wiki/File:3D_coordinate_system.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

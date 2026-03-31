@@ -6,35 +6,89 @@
   "aliases": [
     "red dirt"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Red dirt music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Red_dirt_music",
+  "summary": "Red dirt is a genre of country music that gets its name from the color of soil found in Oklahoma. Many red dirt acts got their start in bars surrounding Oklahoma State University in Stillwater, a city considered to be the center of red dirt music. The genre also extends to music made south of the Red River in Texas. Outlaw country legends Waylon Jennings and Willie Nelson have been associated with the distinctive Texas sound, while the late Oklahoma singer-songwriter Bob Childers is widely recognized as the Father of Oklahoma red dirt music. At one time, the distinction between the two genres was sonically obvious; however, by 2008, that gap had diminished.",
   "candidates": [
-    "Red Dirt (Fear the Walking Dead)",
-    "Red Dirt (film)",
-    "Red Dirt Girl",
-    "Red Dirt Rising",
-    "Red Dirt Road",
-    "Red Dirt Road (song)",
-    "Red Dirt Skinners",
-    "Red Dirt – Red Heart",
-    "Red dirt",
     "Red dirt music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Red dirt music",
+    "page_url": "https://en.wikipedia.org/wiki/Red_dirt_music",
+    "retrieved_at": "2026-03-30T04:11:45Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:JimmyLaFave\u0026Gang08.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:JimmyLaFave%26Gang08.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JimmyLaFave%26Gang08.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JimmyLaFave%26Gang08.jpg/960px-JimmyLaFave%26Gang08.jpg",
+    "width": 3072,
+    "height": 2304,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Karen M. Zundel \u003ca href=\"https://en.wikipedia.org/wiki/User:Kmzundel\" class=\"extiw\" title=\"en:User:Kmzundel\"\u003eKmzundel\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Kmzundel\" class=\"extiw\" title=\"en:User talk:Kmzundel\"\u003etalk\u003c/a\u003e)",
+    "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Kmzundel\" class=\"extiw\" title=\"wikipedia:User:Kmzundel\"\u003eKmzundel\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:JimmyLaFave\u0026Gang08.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:JimmyLaFave%26Gang08.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JimmyLaFave%26Gang08.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JimmyLaFave%26Gang08.jpg/960px-JimmyLaFave%26Gang08.jpg",
+      "width": 3072,
+      "height": 2304,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Karen M. Zundel \u003ca href=\"https://en.wikipedia.org/wiki/User:Kmzundel\" class=\"extiw\" title=\"en:User:Kmzundel\"\u003eKmzundel\u003c/a\u003e (\u003ca href=\"https://en.wikipedia.org/wiki/User_talk:Kmzundel\" class=\"extiw\" title=\"en:User talk:Kmzundel\"\u003etalk\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Kmzundel\" class=\"extiw\" title=\"wikipedia:User:Kmzundel\"\u003eKmzundel\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:John Cooper 2008.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:John_Cooper_2008.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/John_Cooper_2008.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/John_Cooper_2008.jpg/960px-John_Cooper_2008.jpg",
+      "width": 1128,
+      "height": 1072,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Karen M. Zundel at \u003ca href=\"https://en.wikipedia.org/wiki/en:User:Kmzundel\" class=\"extiw\" title=\"w:en:User:Kmzundel\"\u003een.wikipedia.org\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:RedDirtRangers.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:RedDirtRangers.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/RedDirtRangers.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RedDirtRangers.jpg/960px-RedDirtRangers.jpg",
+      "width": 2074,
+      "height": 1280,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Kmzundel\" class=\"extiw\" title=\"en:User:Kmzundel\"\u003eKmzundel\u003c/a\u003e at \u003ca class=\"external text\" href=\"https://en.wikipedia.org\"\u003een.wikipedia\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 10,
+    "play_count": 11,
     "unique_artist_count": 5,
-    "unique_release_count": 5,
-    "unique_track_count": 5,
-    "first_played_at": "2026-03-03T10:54:21.035Z",
+    "unique_release_count": 6,
+    "unique_track_count": 6,
+    "first_played_at": "2024-01-01T00:00:00.52750934Z",
     "last_played_at": "2026-03-15T19:35:10.245Z"
   },
   "top_artists": [
     {
       "canonical_slug": "brent-cobb",
       "name": "Brent Cobb",
-      "play_count": 6,
+      "play_count": 7,
       "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
       "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
     },
     {
@@ -42,6 +96,7 @@
       "name": "Cross Canadian Ragweed",
       "play_count": 1,
       "spotify_artist_id": "5Vz7hlMWR4OFye64dYoGm0",
+      "musicbrainz_artist_id": "5db6febe-4179-459c-8d31-37cfc8d191a9",
       "spotify_url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
     },
     {
@@ -49,6 +104,7 @@
       "name": "Flatland Cavalry",
       "play_count": 1,
       "spotify_artist_id": "4SfGzWmeoNPKIOmiyc7Pav",
+      "musicbrainz_artist_id": "ada86294-d23d-4e54-a764-570d090f0d8e",
       "spotify_url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
     },
     {
@@ -56,6 +112,7 @@
       "name": "Joshua Ray Walker",
       "play_count": 1,
       "spotify_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
+      "musicbrainz_artist_id": "37540a51-8432-46c2-82d1-0b0a6e95af74",
       "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
     },
     {
@@ -63,6 +120,7 @@
       "name": "Zach Bryan",
       "play_count": 1,
       "spotify_artist_id": "40ZNYROS4zLfyyBSs2PGe2",
+      "musicbrainz_artist_id": "51e90731-08c0-4f60-89b6-5b78e5844de8",
       "spotify_url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
     }
   ],
@@ -72,35 +130,60 @@
       "name": "Keep 'Em on They Toes",
       "play_count": 6,
       "primary_artist_canonical_slug": "brent-cobb",
-      "primary_artist_name": "Brent Cobb"
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "0NrDp8wKKFdhyHSMlcHBnD",
+      "musicbrainz_release_id": "f07a248d-a28d-4b9e-ad16-1bfac4e44cc8",
+      "musicbrainz_release_group_id": "7fa57349-3794-4304-a46d-3b7e7151339c"
     },
     {
       "canonical_slug": "flatland-cavalry--flatland-forever",
       "name": "Flatland Forever",
       "play_count": 1,
       "primary_artist_canonical_slug": "flatland-cavalry",
-      "primary_artist_name": "Flatland Cavalry"
+      "primary_artist_name": "Flatland Cavalry",
+      "spotify_album_id": "6hsLVJIMa6eZ0eo0sEeVbg",
+      "musicbrainz_release_id": "545ec9d1-ddb9-45ce-a0dc-77eb9a037fa9",
+      "musicbrainz_release_group_id": "ae024ee3-13b8-445c-bc3f-e65132b519bf"
     },
     {
       "canonical_slug": "cross-canadian-ragweed--live-and-loud-at-the-wormy-dog-saloon",
       "name": "Live \u0026 Loud At The Wormy Dog Saloon",
       "play_count": 1,
       "primary_artist_canonical_slug": "cross-canadian-ragweed",
-      "primary_artist_name": "Cross Canadian Ragweed"
+      "primary_artist_name": "Cross Canadian Ragweed",
+      "spotify_album_id": "72YbH4he1XGP1kW3Nmjxc8",
+      "musicbrainz_release_id": "7faf7341-7eee-4ca9-880f-2a10c398fcda",
+      "musicbrainz_release_group_id": "cc4b98cb-72d2-3bcb-9976-bbecf1bcf180"
+    },
+    {
+      "canonical_slug": "brent-cobb--shine-on-rainy-day",
+      "name": "Shine On Rainy Day",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "3UJXcmx1XSLeimF0dwVsbg",
+      "musicbrainz_release_id": "b8047c66-3dc4-4b35-acf3-4aba0b46a4d5",
+      "musicbrainz_release_group_id": "82b2dc07-e207-4ea4-9c7e-e07447b6843f"
     },
     {
       "canonical_slug": "joshua-ray-walker--wish-you-were-here",
       "name": "Wish You Were Here",
       "play_count": 1,
       "primary_artist_canonical_slug": "joshua-ray-walker",
-      "primary_artist_name": "Joshua Ray Walker"
+      "primary_artist_name": "Joshua Ray Walker",
+      "spotify_album_id": "7d0SVeZ9lBZ83EBAn6DgWu",
+      "musicbrainz_release_id": "cf8f5fed-f690-436e-832f-48328cf45c64",
+      "musicbrainz_release_group_id": "86365e35-fc8b-4ebf-80f6-d91a140ad9cb"
     },
     {
       "canonical_slug": "zach-bryan--with-heaven-on-top",
       "name": "With Heaven On Top",
       "play_count": 1,
       "primary_artist_canonical_slug": "zach-bryan",
-      "primary_artist_name": "Zach Bryan"
+      "primary_artist_name": "Zach Bryan",
+      "spotify_album_id": "4NvMwUFmY1dcDEgD8KoQjG",
+      "musicbrainz_release_id": "02df0459-7357-4047-be41-a4dc9119dc54",
+      "musicbrainz_release_group_id": "84fd33ce-5719-4082-9756-dec4b38a48b4"
     }
   ],
   "top_tracks": [
@@ -125,6 +208,17 @@
       "release_name": "Live \u0026 Loud At The Wormy Dog Saloon",
       "spotify_track_id": "60ZfWcLKGGNVepG0BzpEcB",
       "spotify_url": "https://open.spotify.com/track/60ZfWcLKGGNVepG0BzpEcB"
+    },
+    {
+      "canonical_slug": "brent-cobb--down-in-the-gulley",
+      "name": "Down In The Gulley",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--shine-on-rainy-day",
+      "release_name": "Shine On Rainy Day",
+      "spotify_track_id": "7IPMqEaPMAjAIRXjyGOgxD",
+      "spotify_url": "https://open.spotify.com/track/7IPMqEaPMAjAIRXjyGOgxD"
     },
     {
       "canonical_slug": "flatland-cavalry--humble-folks",
@@ -168,6 +262,28 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     },
     {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--red-dirt.json",
+      "url": "https://en.wikipedia.org/wiki/Red_dirt_music",
+      "retrieved_at": "2026-03-30T04:11:45Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--red-dirt.json",
+      "url": "https://commons.wikimedia.org/wiki/File:JimmyLaFave%26Gang08.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
@@ -175,5 +291,5 @@
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

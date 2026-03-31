@@ -1,0 +1,123 @@
+{
+  "canonical_slug": "record-producer",
+  "display_title": "Record Producer",
+  "display_name": "Record Producer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Record producer",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Record_producer",
+  "summary": "A record producer or music producer is a music-creating project's overall supervisor whose responsibilities can involve a range of creative and technical leadership roles. Typically the job involves hands-on oversight of recording sessions; ensuring artists deliver acceptable and quality performances, supervising the technical engineering of the recording, and coordinating the production team and process. The producer's involvement in a musical project can vary in depth and scope. Sometimes in popular genres the producer may create the recording's entire sound and structure. However, in classical music recording, for example, the producer serves as more of a liaison between the conductor and the engineering team. The role is often likened to that of a film director, though there are important differences. It is distinct from the role of an executive producer, who is mostly involved in the recording project on an administrative level, and from the audio engineer who operates the recording technology.",
+  "candidates": [
+    "Record producer"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Record producer",
+    "page_url": "https://en.wikipedia.org/wiki/Record_producer",
+    "retrieved_at": "2026-03-28T16:00:11Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio mixer faders.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_mixer_faders.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Audio_mixer_faders.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Audio_mixer_faders.jpg/960px-Audio_mixer_faders.jpg",
+      "width": 2304,
+      "height": 3456,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "No machine-readable author provided. \u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Biggerbyfar~commonswiki\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Biggerbyfar~commonswiki (page does not exist)\"\u003eBiggerbyfar~commonswiki\u003c/a\u003e assumed (based on copyright claims)."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Beatles and George Martin in studio 1966.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Beatles_and_George_Martin_in_studio_1966.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Beatles_and_George_Martin_in_studio_1966.JPG/960px-Beatles_and_George_Martin_in_studio_1966.JPG",
+      "width": 3639,
+      "height": 2400,
+      "license": "Public domain",
+      "author": "Capitol Records"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Brian Wilson Pet Sounds 3.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Brian_Wilson_Pet_Sounds_3.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Brian_Wilson_Pet_Sounds_3.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Brian_Wilson_Pet_Sounds_3.jpg",
+      "width": 887,
+      "height": 793,
+      "license": "Public domain",
+      "author": "Cashbox"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--record-producer.json",
+      "url": "https://en.wikipedia.org/wiki/Record_producer",
+      "retrieved_at": "2026-03-28T16:00:11Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--record-producer.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

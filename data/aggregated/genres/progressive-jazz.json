@@ -1,0 +1,61 @@
+{
+  "canonical_slug": "progressive-jazz",
+  "display_title": "Progressive Jazz",
+  "display_name": "Progressive Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Progressive music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Progressive_music",
+  "summary": "Progressive music is music that attempts to expand existing stylistic boundaries associated with specific genres of music. The word comes from the basic concept of \"progress\", which refers to advancements through accumulation, and is often deployed in the context of distinct genres, with progressive rock being the most notable example. Music that is deemed \"progressive\" usually synthesizes influences from various cultural domains, such as European art music, Celtic folk, West Indian, or African. It is rooted in the idea of a cultural alternative, and may also be associated with auteur-stars and concept albums, considered traditional structures of the music industry.",
+  "candidates": [
+    "Progressive jackpot",
+    "Progressive jazz",
+    "Progressive jazz (disambiguation)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Progressive music",
+    "page_url": "https://en.wikipedia.org/wiki/Progressive_music",
+    "retrieved_at": "2026-03-28T15:59:43Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%28Portrait_of_Stan_Kenton%2C_Shelly_Manne%2C_and_Eddie_Safranski%2C_1947_or_1948%29_%28LOC%29_%285354790936%29_%28cropped%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%28Portrait_of_Stan_Kenton%2C_Shelly_Manne%2C_and_Eddie_Safranski%2C_1947_or_1948%29_%28LOC%29_%285354790936%29_%28cropped%29.jpg/330px-%28Portrait_of_Stan_Kenton%2C_Shelly_Manne%2C_and_Eddie_Safranski%2C_1947_or_1948%29_%28LOC%29_%285354790936%29_%28cropped%29.jpg",
+    "width": 551,
+    "height": 736
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--progressive-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Progressive_music",
+      "retrieved_at": "2026-03-28T15:59:43Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--progressive-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Progressive_music",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

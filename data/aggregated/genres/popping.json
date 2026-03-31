@@ -1,0 +1,120 @@
+{
+  "canonical_slug": "popping",
+  "display_title": "Popping",
+  "display_name": "Popping",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Popping",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Popping",
+  "summary": "Popping is a street dance adapted out of the earlier boogaloo cultural movement in Oakland, California. As boogaloo spread, it would be referred to as \"robottin'\" in Richmond, California; Strutting movements in San Francisco and San Jose; and the Strikin' dances of the Oak Park community in Sacramento, and \"Pop-Locking\" of Los Angeles which were popular through the mid-1960s to the late 1970s.",
+  "candidates": [
+    "Brady Poppinga",
+    "Kelly Poppinga",
+    "Poppin (KSI song)",
+    "Popping",
+    "Popping (EP)",
+    "Popping (computer graphics)",
+    "Popping Cherry",
+    "Popping boba",
+    "Popping her cherry",
+    "Popping off"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Popping",
+    "page_url": "https://en.wikipedia.org/wiki/Popping",
+    "retrieved_at": "2026-03-28T15:59:33Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Ambox important.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+    "width": 40,
+    "height": 40,
+    "license": "Public domain",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox important.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/960px-Ambox_important.svg.png",
+      "width": 40,
+      "height": 40,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Dsmurat\" title=\"User:Dsmurat\"\u003eDsmurat\u003c/a\u003e, \u003ca href=\"//commons.wikimedia.org/wiki/User:Penubag\" title=\"User:Penubag\"\u003epenubag\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Moonwalk in Madrid.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Moonwalk_in_Madrid.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Moonwalk_in_Madrid.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Moonwalk_in_Madrid.jpg",
+      "width": 452,
+      "height": 599,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69772513@N00\"\u003eBrocco Lee\u003c/a\u003e from Madrid, Spain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Popping.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Popping.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Popping.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Popping.jpg",
+      "width": 600,
+      "height": 900,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Stefan Bootin"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:William H. Johnson - Jitterbugs (V) - Smithsonian American Art Museum.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:William_H._Johnson_-_Jitterbugs_(V)_-_Smithsonian_American_Art_Museum.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/William_H._Johnson_-_Jitterbugs_%28V%29_-_Smithsonian_American_Art_Museum.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/William_H._Johnson_-_Jitterbugs_%28V%29_-_Smithsonian_American_Art_Museum.jpg/960px-William_H._Johnson_-_Jitterbugs_%28V%29_-_Smithsonian_American_Art_Museum.jpg",
+      "width": 974,
+      "height": 1400,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:William_H._Johnson_(artist)\" class=\"extiw\" title=\"w:en:William H. Johnson (artist)\"\u003e\u003cspan title=\"African American artist (1901-1970)\"\u003eWilliam H. Johnson\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--popping.json",
+      "url": "https://en.wikipedia.org/wiki/Popping",
+      "retrieved_at": "2026-03-28T15:59:33Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--popping.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

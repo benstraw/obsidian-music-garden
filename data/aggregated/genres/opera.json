@@ -1,0 +1,129 @@
+{
+  "canonical_slug": "opera",
+  "display_title": "Opera",
+  "display_name": "Opera",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Opera",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Opera",
+  "summary": "Opera is a form of Western theatre in which music is a fundamental component and dramatic roles are taken by singers. Such a \"work\" is typically a collaboration between a composer and a librettist and incorporates a number of the performing arts, such as acting, scenery, costume, and sometimes dance or ballet. The performance is typically given in an opera house, accompanied by an orchestra or smaller musical ensemble, which since the early 19th century has been led by a conductor. Although musical theatre is closely related to opera, the two are considered to be distinct from one another.",
+  "candidates": [
+    "Opera",
+    "Opera (web browser)",
+    "Operating system",
+    "Operation Barbarossa",
+    "Operation Downfall",
+    "Operation Eagle Claw",
+    "Operation Market Garden",
+    "Operation Metro Surge",
+    "Operation Mincemeat",
+    "Operation Overlord"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Opera",
+    "page_url": "https://en.wikipedia.org/wiki/Opera",
+    "retrieved_at": "2026-03-28T15:59:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Armide Lully by Saint-Aubin.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Armide_Lully_by_Saint-Aubin.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Armide_Lully_by_Saint-Aubin.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Armide_Lully_by_Saint-Aubin.jpg/960px-Armide_Lully_by_Saint-Aubin.jpg",
+    "width": 1274,
+    "height": 777,
+    "license": "Public domain",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Gabriel_de_Saint-Aubin\" class=\"extiw\" title=\"w:en:Gabriel de Saint-Aubin\"\u003e\u003cspan title=\"French draftsman, printmaker, etcher and painter (1724-1780)\"\u003eGabriel de Saint-Aubin\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Armide Lully by Saint-Aubin.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Armide_Lully_by_Saint-Aubin.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Armide_Lully_by_Saint-Aubin.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Armide_Lully_by_Saint-Aubin.jpg/960px-Armide_Lully_by_Saint-Aubin.jpg",
+      "width": 1274,
+      "height": 777,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Gabriel_de_Saint-Aubin\" class=\"extiw\" title=\"w:en:Gabriel de Saint-Aubin\"\u003e\u003cspan title=\"French draftsman, printmaker, etcher and painter (1724-1780)\"\u003eGabriel de Saint-Aubin\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bouffes parisiens (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bouffes_parisiens_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bouffes_parisiens_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bouffes_parisiens_%28cropped%29.jpg",
+      "width": 517,
+      "height": 358,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:%C3%89mile_Bayard\" class=\"extiw\" title=\"w:en:Émile Bayard\"\u003e\u003cspan title=\"French artist (1837-1891)\"\u003eÉmile Bayard\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ceskystage.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ceskystage.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ceskystage.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ceskystage.jpg/960px-Ceskystage.jpg",
+      "width": 2816,
+      "height": 2112,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Alexwardle\" class=\"extiw\" title=\"wikipedia:User:Alexwardle\"\u003eAlexwardle\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Claudio Monteverdi.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Claudio_Monteverdi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Claudio_Monteverdi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Claudio_Monteverdi.jpg",
+      "width": 514,
+      "height": 636,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003eAfter \u003ca href=\"https://en.wikipedia.org/wiki/en:Bernardo_Strozzi\" class=\"extiw\" title=\"w:en:Bernardo Strozzi\"\u003e\u003cspan title=\"Italian painter (1581-1644)\"\u003eBernardo Strozzi\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Erkel Ferenc Györgyi Alajos.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Erkel_Ferenc_Gy%C3%B6rgyi_Alajos.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Erkel_Ferenc_Gy%C3%B6rgyi_Alajos.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Erkel_Ferenc_Gy%C3%B6rgyi_Alajos.jpg",
+      "width": 650,
+      "height": 888,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Alajos_Gy%C3%B6rgyi_Giergl\" class=\"extiw\" title=\"w:en:Alajos Györgyi Giergl\"\u003e\u003cspan title=\"Hungarian painter (1821-1863)\"\u003eAlajos Györgyi Giergl\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--opera.json",
+      "url": "https://en.wikipedia.org/wiki/Opera",
+      "retrieved_at": "2026-03-28T15:59:10Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--opera.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Armide_Lully_by_Saint-Aubin.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

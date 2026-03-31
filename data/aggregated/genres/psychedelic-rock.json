@@ -6,7 +6,8 @@
   "aliases": [
     "psychedelic rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Psychedelic rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Psychedelic_rock",
@@ -92,144 +93,243 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 46,
-    "unique_artist_count": 8,
-    "unique_release_count": 21,
-    "unique_track_count": 39,
-    "first_played_at": "2026-02-13T01:44:42.669Z",
-    "last_played_at": "2026-03-25T18:02:01.875Z"
+    "play_count": 313,
+    "unique_artist_count": 13,
+    "unique_release_count": 71,
+    "unique_track_count": 230,
+    "first_played_at": "2024-01-01T00:00:00.035196456Z",
+    "last_played_at": "2026-03-29T04:21:25.545Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "pink-floyd",
-      "name": "Pink Floyd",
-      "play_count": 12,
-      "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
-      "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      "canonical_slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "play_count": 91,
+      "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+      "musicbrainz_artist_id": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+    },
+    {
+      "canonical_slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "play_count": 75,
+      "spotify_artist_id": "62BcWP4fzR8axESibNQEhs",
+      "musicbrainz_artist_id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+      "spotify_url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
     },
     {
       "canonical_slug": "funkadelic",
       "name": "Funkadelic",
-      "play_count": 10,
+      "play_count": 67,
       "spotify_artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+      "musicbrainz_artist_id": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
       "spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
+    },
+    {
+      "canonical_slug": "pink-floyd",
+      "name": "Pink Floyd",
+      "play_count": 19,
+      "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "musicbrainz_artist_id": "83d91898-7763-47d7-b03b-b92132375c47",
+      "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
     },
     {
       "canonical_slug": "the-beatles",
       "name": "The Beatles",
-      "play_count": 10,
+      "play_count": 15,
       "spotify_artist_id": "3WrFJ7ztbogyGnTHbHJFl2",
+      "musicbrainz_artist_id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
       "spotify_url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-    },
-    {
-      "canonical_slug": "grateful-dead",
-      "name": "Grateful Dead",
-      "play_count": 4,
-      "spotify_artist_id": "4TMHGUX5WI7OOm53PqSDAT",
-      "spotify_url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
     },
     {
       "canonical_slug": "jimi-hendrix",
       "name": "Jimi Hendrix",
-      "play_count": 3,
+      "play_count": 10,
       "spotify_artist_id": "776Uo845nYHJpNaStv1Ds4",
+      "musicbrainz_artist_id": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
       "spotify_url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-    },
-    {
-      "canonical_slug": "the-doors",
-      "name": "The Doors",
-      "play_count": 3,
-      "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
-      "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-    },
-    {
-      "canonical_slug": "can",
-      "name": "CAN",
-      "play_count": 2,
-      "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
-      "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
     },
     {
       "canonical_slug": "frank-zappa",
       "name": "Frank Zappa",
-      "play_count": 2,
+      "play_count": 8,
       "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "musicbrainz_artist_id": "e20747e7-55a4-452e-8766-7b985585082d",
       "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    {
+      "canonical_slug": "khruangbin",
+      "name": "Khruangbin",
+      "play_count": 6,
+      "spotify_artist_id": "2mVVjNmdjXZZDvhgQWiakk",
+      "musicbrainz_artist_id": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+      "spotify_url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+    },
+    {
+      "canonical_slug": "the-doors",
+      "name": "The Doors",
+      "play_count": 6,
+      "spotify_artist_id": "22WZ7M8sxp5THdruNY3gXt",
+      "musicbrainz_artist_id": "9efff43b-3b29-4082-824e-bc82f646f93d",
+      "spotify_url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "canonical_slug": "cream",
+      "name": "Cream",
+      "play_count": 5,
+      "spotify_artist_id": "74oJ4qxwOZvX6oSsu1DGnw",
+      "musicbrainz_artist_id": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+      "spotify_url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "name": "A Saucerful of Secrets",
-      "play_count": 7,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "canonical_slug": "grateful-dead--europe-72-vol-1-wembley-empire-pool-london-england-4-7-72-live",
+      "name": "Europe '72 Vol. 1: Wembley Empire Pool, London, England 4/7/72 (Live)",
+      "play_count": 24,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "6j3vuVPhMRB0H5CgPZ8wTd"
+    },
+    {
+      "canonical_slug": "grateful-dead--reckoning-live",
+      "name": "Reckoning (Live)",
+      "play_count": 17,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "1T7YIthjEvwsxbUHZ7NdBD"
+    },
+    {
+      "canonical_slug": "grateful-dead--grateful-dead-skull-and-roses-live",
+      "name": "Grateful Dead (Skull \u0026 Roses) [Live]",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "0ObxRAQTpVO1u7bT3VxrIN"
     },
     {
       "canonical_slug": "funkadelic--maggot-brain",
       "name": "Maggot Brain",
-      "play_count": 7,
+      "play_count": 15,
       "primary_artist_canonical_slug": "funkadelic",
-      "primary_artist_name": "Funkadelic"
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "3ywVzrwMQ3Kq43N9zBdBQm",
+      "musicbrainz_release_id": "f17855ba-2027-44c0-8a7d-bcdea711d716",
+      "musicbrainz_release_group_id": "a334e612-e736-3b4f-82b4-c4dfb774983c"
     },
     {
-      "canonical_slug": "the-beatles--rubber-soul-remastered-2009",
-      "name": "Rubber Soul (Remastered 2009)",
-      "play_count": 5,
-      "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles"
+      "canonical_slug": "grateful-dead--cornell-5-8-77-live",
+      "name": "Cornell 5/8/77 (Live)",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "spotify_album_id": "3T9UKU0jMIyrRD0PtKXqPJ"
     },
     {
-      "canonical_slug": "pink-floyd--meddle",
-      "name": "Meddle",
-      "play_count": 4,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "canonical_slug": "butthole-surfers--locust-abortion-technician",
+      "name": "Locust Abortion Technician",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "spotify_album_id": "0YaG8TgKhZGxqEqMC913FY",
+      "musicbrainz_release_id": "330f0201-0e03-4338-8543-b3938924ab2c",
+      "musicbrainz_release_group_id": "505efa10-c8c9-3741-814f-9d9fe44e49cf"
     },
     {
-      "canonical_slug": "jimi-hendrix--axis-bold-as-love",
-      "name": "Axis: Bold As Love",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "jimi-hendrix",
-      "primary_artist_name": "Jimi Hendrix"
+      "canonical_slug": "funkadelic--let-s-take-it-to-the-stage",
+      "name": "Let's Take It To The Stage",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2uXSJrDwX2c84LjedQuP0e",
+      "musicbrainz_release_id": "1132dd9d-6043-4ba9-8a53-f2af10195d21",
+      "musicbrainz_release_group_id": "d01f4922-40d0-3452-8c8d-f84bea2cc857"
     },
     {
-      "canonical_slug": "can--ege-bamyasi-remastered-version",
-      "name": "Ege Bamyasi (Remastered Version)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN"
+      "canonical_slug": "funkadelic--standing-on-the-verge-of-getting-it-on",
+      "name": "Standing On The Verge Of Getting It On",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "2o1DC3i9barPdh8EcWEnAf",
+      "musicbrainz_release_id": "63e9dae2-7f43-400d-b1a9-96639392475f",
+      "musicbrainz_release_group_id": "2aca4ebe-fd78-3222-930d-b521a82e3e51"
     },
     {
-      "canonical_slug": "frank-zappa--hot-rats",
-      "name": "Hot Rats",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "frank-zappa",
-      "primary_artist_name": "Frank Zappa"
+      "canonical_slug": "funkadelic--cosmic-slop",
+      "name": "Cosmic Slop",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "spotify_album_id": "49hvcA7jIUDu41njTP17uL",
+      "musicbrainz_release_id": "7987637b-dcaa-443e-84c4-b77a010a7d25",
+      "musicbrainz_release_group_id": "3337c981-c416-3513-a02b-6d6065b9316b"
     },
     {
-      "canonical_slug": "the-beatles--revolver-remastered",
-      "name": "Revolver (Remastered)",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles"
-    },
-    {
-      "canonical_slug": "the-doors--the-soft-parade",
-      "name": "The Soft Parade",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors"
-    },
-    {
-      "canonical_slug": "the-beatles--abbey-road-remastered",
-      "name": "Abbey Road (Remastered)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles"
+      "canonical_slug": "butthole-surfers--hairway-to-steven-2024-remaster",
+      "name": "Hairway To Steven (2024 Remaster)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "spotify_album_id": "33TTBmineUtp4A3i20UBlt"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix",
+      "name": "Ain't That Funkin' Kinda Hard on You? - We Ain't Neva Gonna Stop Remix",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--ain-t-that-funkin-kinda-hard-on-you-we-ain-t-neva-gonna-stop-remix-feat-kendrick-lamar-and-ice-cube-single",
+      "release_name": "Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar \u0026 Ice Cube] - Single",
+      "spotify_track_id": "6SgQIoLn8kpu8J4wfwGWy8",
+      "spotify_url": "https://open.spotify.com/track/6SgQIoLn8kpu8J4wfwGWy8"
+    },
+    {
+      "canonical_slug": "grateful-dead--althea-2013-remaster",
+      "name": "Althea - 2013 Remaster",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "grateful-dead",
+      "primary_artist_name": "Grateful Dead",
+      "release_canonical_slug": "grateful-dead--go-to-heaven",
+      "release_name": "Go to Heaven",
+      "spotify_track_id": "7M7AwtGvWdMYudqx5Iuh1m",
+      "spotify_url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m"
+    },
+    {
+      "canonical_slug": "funkadelic--back-in-our-minds",
+      "name": "Back In Our Minds",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--maggot-brain",
+      "release_name": "Maggot Brain",
+      "spotify_track_id": "25XlPV3Khx2RVhwCBC6HNe",
+      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
+    },
+    {
+      "canonical_slug": "pink-floyd--fearless",
+      "name": "Fearless",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--meddle",
+      "release_name": "Meddle",
+      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
+      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
+    },
+    {
+      "canonical_slug": "funkadelic--i-ll-bet-you",
+      "name": "I'll Bet You",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "funkadelic",
+      "primary_artist_name": "Funkadelic",
+      "release_canonical_slug": "funkadelic--funkadelic",
+      "release_name": "Funkadelic",
+      "spotify_track_id": "1eNkiMjZKstmcsg8rcCHft",
+      "spotify_url": "https://open.spotify.com/track/1eNkiMjZKstmcsg8rcCHft"
+    },
     {
       "canonical_slug": "the-beatles--michelle-remastered-2009",
       "name": "Michelle - Remastered 2009",
@@ -242,20 +342,9 @@
       "spotify_url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
     },
     {
-      "canonical_slug": "pink-floyd--fearless",
-      "name": "Fearless",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "7AalBKBoLDR4UmRYRJpdbj",
-      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
-    },
-    {
       "canonical_slug": "frank-zappa--peaches-en-regalia",
       "name": "Peaches En Regalia",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "frank-zappa",
       "primary_artist_name": "Frank Zappa",
       "release_canonical_slug": "frank-zappa--hot-rats",
@@ -264,81 +353,37 @@
       "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
     },
     {
-      "canonical_slug": "the-doors--the-soft-parade",
-      "name": "The Soft Parade",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors",
-      "release_canonical_slug": "the-doors--the-soft-parade",
-      "release_name": "The Soft Parade",
-      "spotify_track_id": "0YMzPd9mYx4txOuCnhYUGU",
-      "spotify_url": "https://open.spotify.com/track/0YMzPd9mYx4txOuCnhYUGU"
+      "canonical_slug": "butthole-surfers--something",
+      "name": "Something",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "release_canonical_slug": "butthole-surfers--pioughd-widowermaker",
+      "release_name": "Pioughd + Widowermaker!",
+      "spotify_track_id": "5bGqhLcBd5YXuqzMVQiFUl",
+      "spotify_url": "https://open.spotify.com/track/5bGqhLcBd5YXuqzMVQiFUl"
     },
     {
-      "canonical_slug": "can--vitamin-c-2004-remastered-version",
-      "name": "Vitamin C - 2004 Remastered Version",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN",
-      "release_canonical_slug": "can--ege-bamyasi-remastered-version",
-      "release_name": "Ege Bamyasi (Remastered Version)",
-      "spotify_track_id": "1tzXnPndBrd2G5GXrOBc1c",
-      "spotify_url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
-    },
-    {
-      "canonical_slug": "the-beatles--you-won-t-see-me-remastered-2009",
-      "name": "You Won't See Me - Remastered 2009",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "the-beatles",
-      "primary_artist_name": "The Beatles",
-      "release_canonical_slug": "the-beatles--rubber-soul-remastered-2009",
-      "release_name": "Rubber Soul (Remastered 2009)",
-      "spotify_track_id": "4LLBKnNCrSRrSjSTuiwjE9",
-      "spotify_url": "https://open.spotify.com/track/4LLBKnNCrSRrSjSTuiwjE9"
-    },
-    {
-      "canonical_slug": "pink-floyd--a-pillow-of-winds",
-      "name": "A Pillow of Winds",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
-      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
-    },
-    {
-      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "name": "A Saucerful of Secrets",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "0OtkNB4TnTzrlid4zipYDV",
-      "spotify_url": "https://open.spotify.com/track/0OtkNB4TnTzrlid4zipYDV"
-    },
-    {
-      "canonical_slug": "the-doors--alabama-song-whisky-bar",
-      "name": "Alabama Song (Whisky Bar)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "the-doors",
-      "primary_artist_name": "The Doors",
-      "release_canonical_slug": "the-doors--the-doors",
-      "release_name": "The Doors",
-      "spotify_track_id": "0JNZGIavoUrdup1NsgJOQs",
-      "spotify_url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
-    },
-    {
-      "canonical_slug": "funkadelic--back-in-our-minds",
-      "name": "Back In Our Minds",
-      "play_count": 1,
+      "canonical_slug": "funkadelic--super-stupid",
+      "name": "Super Stupid",
+      "play_count": 3,
       "primary_artist_canonical_slug": "funkadelic",
       "primary_artist_name": "Funkadelic",
       "release_canonical_slug": "funkadelic--maggot-brain",
       "release_name": "Maggot Brain",
-      "spotify_track_id": "25XlPV3Khx2RVhwCBC6HNe",
-      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
+      "spotify_track_id": "2X6qfjDzhKQA7UqhzyJrQP",
+      "spotify_url": "https://open.spotify.com/track/2X6qfjDzhKQA7UqhzyJrQP"
+    },
+    {
+      "canonical_slug": "butthole-surfers--22-going-on-23",
+      "name": "22 Going On 23",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "release_canonical_slug": "butthole-surfers--locust-abortion-technician",
+      "release_name": "Locust Abortion Technician",
+      "spotify_track_id": "2zXtevperdjudA1erYYmMa",
+      "spotify_url": "https://open.spotify.com/track/2zXtevperdjudA1erYYmMa"
     }
   ],
   "source_refs": [
@@ -347,6 +392,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -368,9 +419,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-25T18:02:01.875Z",
+      "updated_at": "2026-03-29T04:21:25.545Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:21:25.545Z"
 }

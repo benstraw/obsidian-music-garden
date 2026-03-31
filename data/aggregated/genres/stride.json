@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "stride",
+  "display_title": "Stride",
+  "display_name": "Stride",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Elizabeth Stride",
+    "Mel Stride",
+    "Spencer Strider",
+    "Stride",
+    "Stride (bus rapid transit)",
+    "Stride (gum)",
+    "Stride, Inc.",
+    "Strider (1989 arcade game)",
+    "Strider (2014 video game)",
+    "Strider 2 (1999 video game)"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

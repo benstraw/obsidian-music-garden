@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "trip-rock",
+  "display_title": "Trip Rock",
+  "display_name": "Trip Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Trip hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Trip_hop",
+  "summary": "Trip hop is a music genre defined as a psychedelic fusion of hip-hop and electronica with slow tempos and an atmospheric sound. The style emerged as a more experimental variant of breakbeat from the Bristol sound scene of the late 1980s and early 1990s, incorporating influences from jazz, soul, funk, dub, rap, as well as sampling from movie soundtracks and other eclectic sources.",
+  "candidates": [
+    "Rob Trip",
+    "Trap rock",
+    "Trip Hawkins",
+    "Trip Ross",
+    "Trip Tucker",
+    "Trip recorder",
+    "Trip rock",
+    "Triple Rock Brewery and Alehouse",
+    "Tripod Rock",
+    "Triprocris"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Trip hop",
+    "page_url": "https://en.wikipedia.org/wiki/Trip_hop",
+    "retrieved_at": "2026-03-28T16:01:44Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--trip-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Trip_hop",
+      "retrieved_at": "2026-03-28T16:01:44Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

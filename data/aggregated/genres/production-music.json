@@ -1,0 +1,78 @@
+{
+  "canonical_slug": "production-music",
+  "display_title": "Production Music",
+  "display_name": "Production Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Production music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Production_music",
+  "summary": "Production music is recorded music that can be licensed to customers for use in film, television, radio and other media. Often, the music is produced and owned by production music libraries.",
+  "candidates": [
+    "Production (music)",
+    "Production music",
+    "Production of Justice League (film)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Production music",
+    "page_url": "https://en.wikipedia.org/wiki/Production_music",
+    "retrieved_at": "2026-03-28T15:59:38Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Kevin MacLeod ~ Monkeys Spinning Monkeys.ogg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Kevin_MacLeod_~_Monkeys_Spinning_Monkeys.ogg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kevin_MacLeod_~_Monkeys_Spinning_Monkeys.ogg",
+    "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Kevin_MacLeod\" class=\"extiw\" title=\"w:en:Kevin MacLeod\"\u003e\u003cspan title=\"American composer and music producer (born 1972)\"\u003eKevin MacLeod\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e",
+    "attribution_text": "Monkeys Spinning Monkeys Kevin MacLeod (incompetech.com)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Kevin MacLeod ~ Monkeys Spinning Monkeys.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Kevin_MacLeod_~_Monkeys_Spinning_Monkeys.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kevin_MacLeod_~_Monkeys_Spinning_Monkeys.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Kevin_MacLeod\" class=\"extiw\" title=\"w:en:Kevin MacLeod\"\u003e\u003cspan title=\"American composer and music producer (born 1972)\"\u003eKevin MacLeod\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e",
+      "attribution_text": "Monkeys Spinning Monkeys Kevin MacLeod (incompetech.com)"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--production-music.json",
+      "url": "https://en.wikipedia.org/wiki/Production_music",
+      "retrieved_at": "2026-03-28T15:59:38Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--production-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Kevin_MacLeod_~_Monkeys_Spinning_Monkeys.ogg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

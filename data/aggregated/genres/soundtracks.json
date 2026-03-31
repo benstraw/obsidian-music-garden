@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "soundtracks",
+  "display_title": "Soundtracks",
+  "display_name": "Soundtracks",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Epic Soundtracks",
+    "Soundtrack",
+    "Soundtrack (disambiguation)",
+    "Soundtracks (Can album)",
+    "Soundtracks (Tony Banks album)",
+    "Soundtracks Volume 2",
+    "Soundtracks for the Blind",
+    "Soundtracks from the Shaolin Temple",
+    "Soundtracks of Blade Runner",
+    "Soundtracks of Grand Theft Auto: San Andreas"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,125 @@
+{
+  "canonical_slug": "straight-ahead-jazz",
+  "display_title": "Straight Ahead Jazz",
+  "display_name": "Straight Ahead Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Straight-ahead jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Straight-ahead_jazz",
+  "summary": "Straight-ahead jazz is a genre of jazz that developed in the 1960s, with roots in the prior two decades. It omits the rock music and free jazz influences that began to appear in jazz during this period, instead preferring acoustic instruments, conventional piano comping, walking bass patterns, and swing- and bop-based drum rhythms.",
+  "candidates": [
+    "Straight-ahead jazz"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Straight-ahead jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Straight-ahead_jazz",
+    "retrieved_at": "2026-03-28T16:01:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Al Foster Quartet 02.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Foster_Quartet_02.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Al_Foster_Quartet_02.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Al_Foster_Quartet_02.jpg/960px-Al_Foster_Quartet_02.jpg",
+    "width": 5184,
+    "height": 3456,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Schorle\" title=\"User:Schorle\"\u003eSchorle\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Al Foster Quartet 02.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Al_Foster_Quartet_02.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Al_Foster_Quartet_02.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Al_Foster_Quartet_02.jpg/960px-Al_Foster_Quartet_02.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Schorle\" title=\"User:Schorle\"\u003eSchorle\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Dexter Gordon 1980.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Dexter_Gordon_1980.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dexter_Gordon_1980.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dexter_Gordon_1980.jpg/960px-Dexter_Gordon_1980.jpg",
+      "width": 972,
+      "height": 1146,
+      "license": "CC BY-SA 3.0 nl",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "author": "Bogaerts, Rob / Anefo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Joan chamorro.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Joan_chamorro.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Joan_chamorro.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Joan_chamorro.jpg/960px-Joan_chamorro.jpg",
+      "width": 4016,
+      "height": 6016,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Rai_Fernandes_Foto\" title=\"User:Rai Fernandes Foto\"\u003eRai Fernandes Foto\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:PatMetheny.jpeg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:PatMetheny.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PatMetheny.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/PatMetheny.jpeg",
+      "width": 700,
+      "height": 465,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ryan-Kisor Wynton-Marsalis DSC07546.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ryan-Kisor_Wynton-Marsalis_DSC07546.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ryan-Kisor_Wynton-Marsalis_DSC07546.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ryan-Kisor_Wynton-Marsalis_DSC07546.jpg",
+      "width": 800,
+      "height": 540,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Hreinn_Gudlaugsson\" title=\"User:Hreinn Gudlaugsson\"\u003eHreinn Gudlaugsson\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--straight-ahead-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Straight-ahead_jazz",
+      "retrieved_at": "2026-03-28T16:01:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--straight-ahead-jazz.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Al_Foster_Quartet_02.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

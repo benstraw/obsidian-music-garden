@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "solo-wave",
+  "display_title": "Solo Wave",
+  "display_name": "Solo Wave",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Jacen Solo",
+    "Slow-wave sleep",
+    "Solo (American band)",
+    "Solo Avengers",
+    "Solo Leveling",
+    "Solo Leveling season 1",
+    "Solo Leveling season 2",
+    "Solo Live (Michel Petrucciani album)",
+    "Solo River",
+    "Svetlana Solo"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

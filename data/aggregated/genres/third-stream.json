@@ -1,0 +1,108 @@
+{
+  "canonical_slug": "third-stream",
+  "display_title": "Third Stream",
+  "display_name": "Third Stream",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Third stream",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Third_stream",
+  "summary": "Third stream is a music genre that is a fusion of jazz and classical music. The term was coined in 1957 by composer Gunther Schuller in a lecture at Brandeis University. There are many ways to define third-stream music. It could refer to a group of jazz musicians playing solely, or a jazz soloist performing with a symphony orchestra, as long as the musicians are able to interpret and play jazz music. Improvisation is generally seen as a vital component of third stream. In third-stream music, composers incorporate elements of classical music, such as the use of classical instruments and classical music forms, into their jazz compositions. The fusion of jazz and classical music is also viewed as \"born out of a reciprocal interest: the interest of the classical community in the developments in jazz music and the interest of the jazz community in the advances of classical music.\" The innovative idea of fusing jazz and classical music pushed the boundaries of traditional classical music and introduced a new genre that blends the two styles into a unique hybrid form.",
+  "candidates": [
+    "Third Street (San Francisco)",
+    "Third Street Aleworks",
+    "Third Street Light Rail Project",
+    "Third Street Music School Settlement",
+    "Third Street Promenade",
+    "Third Street Railroad Trestle",
+    "Third Street station (BMT Fifth Avenue Line)",
+    "Third Street, Hong Kong",
+    "Third Treaty of San Ildefonso",
+    "Third stream"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Third stream",
+    "page_url": "https://en.wikipedia.org/wiki/Third_stream",
+    "retrieved_at": "2026-03-28T16:01:36Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Global thinking.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+    "width": 130,
+    "height": 200,
+    "license": "Public domain",
+    "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Global thinking.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Global_thinking.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/960px-Global_thinking.svg.png",
+      "width": 130,
+      "height": 200,
+      "license": "Public domain",
+      "author": "Benjamin D. Esham (\u003ca href=\"//commons.wikimedia.org/wiki/User:Bdesham\" title=\"User:Bdesham\"\u003ebdesham\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gunther Schuller leads NEC Jazz Orchestra, 1990.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gunther_Schuller_leads_NEC_Jazz_Orchestra,_1990.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gunther_Schuller_leads_NEC_Jazz_Orchestra%2C_1990.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gunther_Schuller_leads_NEC_Jazz_Orchestra%2C_1990.jpg/960px-Gunther_Schuller_leads_NEC_Jazz_Orchestra%2C_1990.jpg",
+      "width": 2385,
+      "height": 1714,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Andrew_Hurlbut_NEC\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Andrew Hurlbut NEC (page does not exist)\"\u003eNew England Conservatory Archives\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Saxo Boca1.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Saxo_Boca1.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saxo_Boca1.JPG",
+      "width": 219,
+      "height": 230,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--third-stream.json",
+      "url": "https://en.wikipedia.org/wiki/Third_stream",
+      "retrieved_at": "2026-03-28T16:01:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--third-stream.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Global_thinking.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

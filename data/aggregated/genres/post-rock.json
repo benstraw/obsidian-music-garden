@@ -6,34 +6,331 @@
   "aliases": [
     "post rock"
   ],
-  "pending": true,
-  "status": "ambiguous",
+  "pending": false,
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Post-rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Post-rock",
+  "summary": "Post-rock is a subgenre of experimental rock that emphasizes texture, atmosphere, and non-traditional song structures over conventional rock techniques. Post-rock artists often combine rock instrumentation and rock stylings with electronics and digital production as a means of enabling the exploration of textures, timbres and different styles. Vocals, when present, are often used as an instrumental layer, with many bands opting for entirely instrumental compositions. The genre began in indie and underground music scenes, but deviated.",
   "candidates": [
-    "Post Rock",
-    "Post Rock (South Georgia)",
-    "Post Rock Country",
-    "Post Rock Scenic Byway",
-    "Post hoc ergo propter hoc",
-    "Post-processual archaeology",
-    "Post-racial America",
-    "Post-rock",
-    "Post-rock metal",
-    "Postdoctoral researcher"
+    "Post-rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Post-rock",
+    "page_url": "https://en.wikipedia.org/wiki/Post-rock",
+    "retrieved_at": "2026-03-30T04:06:03Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Mogwai-799171169.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Mogwai-799171169.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mogwai-799171169.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mogwai-799171169.jpg/960px-Mogwai-799171169.jpg",
+    "width": 1600,
+    "height": 1200,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/94056408@N00\"\u003ewonker\u003c/a\u003e from London, United Kingdom"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Mogwai-799171169.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Mogwai-799171169.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mogwai-799171169.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mogwai-799171169.jpg/960px-Mogwai-799171169.jpg",
+      "width": 1600,
+      "height": 1200,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/94056408@N00\"\u003ewonker\u003c/a\u003e from London, United Kingdom"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Simon Reynolds (cropped) (2).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Simon_Reynolds_(cropped)_(2).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Simon_Reynolds_%28cropped%29_%282%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Simon_Reynolds_%28cropped%29_%282%29.jpg",
+      "width": 420,
+      "height": 420,
+      "license": "CC BY 2.0 de",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/de:Benutzer:Justus_Nussbaum\" class=\"extiw\" title=\"w:de:Benutzer:Justus Nussbaum\"\u003eJustus Nussbaum\u003c/a\u003e",
+      "attribution_text": "Justus Nussbaum"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Slint-1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Slint-1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Slint-1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Slint-1.jpg/960px-Slint-1.jpg",
+      "width": 1600,
+      "height": 1066,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/bakameh/\"\u003emichael morel\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 16,
+    "unique_artist_count": 3,
+    "unique_release_count": 8,
+    "unique_track_count": 11,
+    "first_played_at": "2024-01-01T00:00:00.236011356Z",
+    "last_played_at": "2024-11-08T00:00:00.501789439Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "shellac",
+      "name": "Shellac",
+      "play_count": 7,
+      "spotify_artist_id": "6I8R5MFTlez7rHCsH4cx0u",
+      "musicbrainz_artist_id": "604f273a-d3c1-4b5b-ab83-99541f9368ea",
+      "spotify_url": "https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers",
+      "name": "Arms and Sleepers",
+      "play_count": 5,
+      "spotify_artist_id": "0KjF9pkI2bO9EMuB7LnHqP",
+      "musicbrainz_artist_id": "d4dae588-8b66-4aa9-877f-04c604f552a8",
+      "spotify_url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+    },
+    {
+      "canonical_slug": "beak",
+      "name": "Beak\u003e",
+      "play_count": 4,
+      "spotify_artist_id": "5MGxwE9JG5IA6uqswrgNL6",
+      "musicbrainz_artist_id": "bda0beab-8c08-4a34-9af0-97a1b647ad9b",
+      "spotify_url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "shellac--at-action-park",
+      "name": "At Action Park",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "spotify_album_id": "0jyTzetEXLkLDqcTdbagVx",
+      "musicbrainz_release_id": "2c228509-c17c-4b9a-87b5-190b48e314fb",
+      "musicbrainz_release_group_id": "9c3d1af0-c350-32e7-b0f8-556826929a4f"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "name": "Parallel Dreaming",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "spotify_album_id": "15G9YhbyMllnxiRkQTMmJQ"
+    },
+    {
+      "canonical_slug": "beak--couple-in-a-hole-music-from-the-tom-geens-film",
+      "name": "Couple in a Hole (Music From the Tom Geens Film)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "beak",
+      "primary_artist_name": "Beak\u003e",
+      "spotify_album_id": "5E5SHfroUEUSTUw5KHOrpI"
+    },
+    {
+      "canonical_slug": "shellac--terraform",
+      "name": "Terraform",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "spotify_album_id": "6jCFSWKdRWKztDxAAliMpT",
+      "musicbrainz_release_id": "0730eb5d-b0e1-4458-bc21-498783e5eb4e",
+      "musicbrainz_release_group_id": "d90e4737-9860-3d65-bf99-15018258cce7"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "name": "The Palermo Incident",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "spotify_album_id": "7JskS6ERK5KaIrW4veCVSS"
+    },
+    {
+      "canonical_slug": "shellac--1000-hurts",
+      "name": "1000 Hurts",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "spotify_album_id": "0BuFt0gDHaD8vVWqkQOgd5",
+      "musicbrainz_release_id": "76a1b5df-8af7-4c78-8c44-f15ce08c2eb1",
+      "musicbrainz_release_group_id": "39ba70ea-b03b-37fe-a1f4-f5567377e67d"
+    },
+    {
+      "canonical_slug": "beak--unknown-release",
+      "name": "\u003e\u003e",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "beak",
+      "primary_artist_name": "BEAK\u003e",
+      "spotify_album_id": "3IqkjByYoQX04iFT1Z2Jn7",
+      "musicbrainz_release_id": "c1d495e1-20d7-456c-bb4c-37aadc3c86cc",
+      "musicbrainz_release_group_id": "29c2b923-78aa-4518-b1b9-d6afec378379"
+    },
+    {
+      "canonical_slug": "beak--sex-music",
+      "name": "Sex Music",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "beak",
+      "primary_artist_name": "BEAK\u003e",
+      "spotify_album_id": "0Nap8XMdoW665sKGzYlarK",
+      "musicbrainz_release_id": "eaccebde-fcf8-4f2f-965a-e4870d0edf10",
+      "musicbrainz_release_group_id": "11044baa-5d60-4e68-94c3-7f73c3ab3151"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "shellac--copper",
+      "name": "Copper",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "release_canonical_slug": "shellac--terraform",
+      "release_name": "Terraform",
+      "spotify_track_id": "2bXqoXUGEKuv4H6gdopQmO",
+      "spotify_url": "https://open.spotify.com/track/2bXqoXUGEKuv4H6gdopQmO"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--ink-splash",
+      "name": "Ink Splash",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "release_name": "Parallel Dreaming",
+      "spotify_track_id": "1pcCNXHFNdkI4gGQkpNG1M",
+      "spotify_url": "https://open.spotify.com/track/1pcCNXHFNdkI4gGQkpNG1M"
+    },
+    {
+      "canonical_slug": "shellac--my-black-ass",
+      "name": "My Black Ass",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "release_canonical_slug": "shellac--at-action-park",
+      "release_name": "At Action Park",
+      "spotify_track_id": "7mTV9WboxMf3qE8AHDyBC8",
+      "spotify_url": "https://open.spotify.com/track/7mTV9WboxMf3qE8AHDyBC8"
+    },
+    {
+      "canonical_slug": "beak--nailsea",
+      "name": "Nailsea",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "beak",
+      "primary_artist_name": "Beak\u003e",
+      "release_canonical_slug": "beak--couple-in-a-hole-music-from-the-tom-geens-film",
+      "release_name": "Couple in a Hole (Music From the Tom Geens Film)",
+      "spotify_track_id": "6oRIHEzTFCMASeRYit6vD8",
+      "spotify_url": "https://open.spotify.com/track/6oRIHEzTFCMASeRYit6vD8"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "name": "The Palermo Incident",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--the-palermo-incident",
+      "release_name": "The Palermo Incident",
+      "spotify_track_id": "2KsHukre1ujHj5XZSwlPqw",
+      "spotify_url": "https://open.spotify.com/track/2KsHukre1ujHj5XZSwlPqw"
+    },
+    {
+      "canonical_slug": "shellac--a-minute",
+      "name": "A Minute",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "release_canonical_slug": "shellac--at-action-park",
+      "release_name": "At Action Park",
+      "spotify_track_id": "2AP93VqK3ZLyauAnfCH033",
+      "spotify_url": "https://open.spotify.com/track/2AP93VqK3ZLyauAnfCH033"
+    },
+    {
+      "canonical_slug": "shellac--crow",
+      "name": "Crow",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "shellac",
+      "primary_artist_name": "Shellac",
+      "release_canonical_slug": "shellac--at-action-park",
+      "release_name": "At Action Park",
+      "spotify_track_id": "5AUEQx0DBnyCwh2aPugObt",
+      "spotify_url": "https://open.spotify.com/track/5AUEQx0DBnyCwh2aPugObt"
+    },
+    {
+      "canonical_slug": "beak--liar",
+      "name": "Liar",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "beak",
+      "primary_artist_name": "Beak\u003e",
+      "release_canonical_slug": "beak--unknown-release",
+      "release_name": "\u003e\u003e",
+      "spotify_track_id": "63ONbrzfdWicjjYYvp2nC3",
+      "spotify_url": "https://open.spotify.com/track/63ONbrzfdWicjjYYvp2nC3"
+    },
+    {
+      "canonical_slug": "arms-and-sleepers--ours-to-forget",
+      "name": "Ours To Forget",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "arms-and-sleepers",
+      "primary_artist_name": "Arms and Sleepers",
+      "release_canonical_slug": "arms-and-sleepers--parallel-dreaming",
+      "release_name": "Parallel Dreaming",
+      "spotify_track_id": "2hOywxbXPefXKhnn8WsD3g",
+      "spotify_url": "https://open.spotify.com/track/2hOywxbXPefXKhnn8WsD3g"
+    },
+    {
+      "canonical_slug": "beak--sex-music",
+      "name": "Sex Music",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "beak",
+      "primary_artist_name": "Beak\u003e",
+      "release_canonical_slug": "beak--sex-music",
+      "release_name": "Sex Music",
+      "spotify_track_id": "0jHGg3J30vMoGiwpPvRRq6",
+      "spotify_url": "https://open.spotify.com/track/0jHGg3J30vMoGiwpPvRRq6"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--post-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Post-rock",
+      "retrieved_at": "2026-03-30T04:06:03Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--post-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Mogwai-799171169.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2024-11-08T00:00:00.501789439Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29"
 }

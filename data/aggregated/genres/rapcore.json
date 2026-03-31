@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "rapcore",
+  "display_title": "Rapcore",
+  "display_name": "Rapcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Punk rock subgenres",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Punk_rock_subgenres",
+  "summary": "A number of overlapping punk rock subgenres have developed since the emergence of punk rock in the mid-1970s. Even though punk genres at times are difficult to segregate, they usually show differing characteristics in overall structures, instrumental and vocal styles, and tempo. However, sometimes a particular trait is common in several genres, and thus punk genres are normally grouped by a combination of traits.",
+  "candidates": [
+    "Rapcore",
+    "Rapcore punk",
+    "Raptor Lake",
+    "Raptors 905",
+    "Rapture",
+    "Rapture (Anita Baker album)",
+    "Rapture (Blondie song)",
+    "Rapture (iiO song)",
+    "Reneé Rapp",
+    "The Rapture (band)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Punk rock subgenres",
+    "page_url": "https://en.wikipedia.org/wiki/Punk_rock_subgenres",
+    "retrieved_at": "2026-03-28T16:00:10Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--rapcore.json",
+      "url": "https://en.wikipedia.org/wiki/Punk_rock_subgenres",
+      "retrieved_at": "2026-03-28T16:00:10Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

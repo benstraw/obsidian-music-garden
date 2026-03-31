@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "russian-pianist",
+  "display_title": "Russian Pianist",
+  "display_name": "Russian Pianist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Russian Minister of Defence",
+    "Russian Minister of Finance",
+    "Russian Minister of Foreign Affairs",
+    "Russian Minister of Sport",
+    "Russian Ministry of Culture",
+    "Russian Ministry of Education",
+    "Russian Ministry of Emergencies",
+    "Russian Ministry of Foreign Affairs",
+    "Russian Ministry of Interior",
+    "Russian Ministry of Justice"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

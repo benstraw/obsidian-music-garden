@@ -1,0 +1,110 @@
+{
+  "canonical_slug": "slowcore",
+  "display_title": "Slowcore",
+  "display_name": "Slowcore",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Slowcore",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Slowcore",
+  "summary": "Slowcore, also known as sadcore, is a subgenre of indie rock characterised by its subdued tempos, minimalist instrumentation, and sombre vocal performances. Slowcore's influences are diverse, involving various other genres, including folk rock, alternative rock, and dream pop. As a result of these contrasting stylistic directions, there is no definitive characterisation of the genre.",
+  "candidates": [
+    "SLOWPOKE reactor",
+    "Slow Forever",
+    "Slow code",
+    "Slow cooker",
+    "Slow loris",
+    "Slowcoaster",
+    "Slowcore",
+    "Slowloris (cyber attack)",
+    "Slowpoke",
+    "The Slow Regard of Silent Things"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Slowcore",
+    "page_url": "https://en.wikipedia.org/wiki/Slowcore",
+    "retrieved_at": "2026-03-28T16:00:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:\"Lullaby\" - Low.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:\"Lullaby\" - Low.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:American Music Club 11-09-08 -- Bush Hall (2860179547) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:American_Music_Club_11-09-08_--_Bush_Hall_(2860179547)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/American_Music_Club_11-09-08_--_Bush_Hall_%282860179547%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/American_Music_Club_11-09-08_--_Bush_Hall_%282860179547%29_%28cropped%29.jpg/960px-American_Music_Club_11-09-08_--_Bush_Hall_%282860179547%29_%28cropped%29.jpg",
+      "width": 1863,
+      "height": 1257,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50483324@N00\"\u003eNic Gould\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carissa's wierd (4781159971).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carissa%27s_wierd_(4781159971).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Carissa%27s_wierd_%284781159971%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Carissa%27s_wierd_%284781159971%29.jpg/960px-Carissa%27s_wierd_%284781159971%29.jpg",
+      "width": 1000,
+      "height": 667,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51035685756@N01\"\u003eLaura Musselman Duffy\u003c/a\u003e of \u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.lauratakespictures.com/\"\u003eLauratakespictures.com\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Codeine - Alexandra Palace London 260512.jpg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--slowcore.json",
+      "url": "https://en.wikipedia.org/wiki/Slowcore",
+      "retrieved_at": "2026-03-28T16:00:52Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--slowcore.json",
+      "url": "https://en.wikipedia.org/wiki/Slowcore",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

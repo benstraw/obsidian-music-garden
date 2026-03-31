@@ -1,0 +1,122 @@
+{
+  "canonical_slug": "wisconsin",
+  "display_title": "Wisconsin",
+  "display_name": "Wisconsin",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Wisconsin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wisconsin",
+  "summary": "Wisconsin is a state in the Upper Midwest and Great Lakes regions of the United States. It borders Minnesota to the west, Iowa to the southwest, Illinois to the south, Lake Michigan to the east, Michigan to the northeast, and Lake Superior to the north. With a population of about 6 million and an area of about 65,500 square miles (170,000 km2), Wisconsin is the 21st-largest state by population and the 23rd-largest by area. It has 72 counties. The state's most populous city is Milwaukee. Its capital and second-most populous city is Madison; other urban areas include Green Bay and the Fox Cities.",
+  "candidates": [
+    "Wisconsin",
+    "Wisconsin Badgers",
+    "Wisconsin Badgers football",
+    "Wisconsin Badgers men's basketball",
+    "Wisconsin Badgers men's ice hockey",
+    "Wisconsin Dells, Wisconsin",
+    "Wisconsin Evangelical Lutheran Synod",
+    "Wisconsin Range",
+    "Wisconsin Rapids, Wisconsin",
+    "Wisconsin's 6th congressional district"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Wisconsin",
+    "page_url": "https://en.wikipedia.org/wiki/Wisconsin",
+    "retrieved_at": "2026-03-28T16:02:10Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2011 Wisconsin Budget Protests 1 JO.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2011_Wisconsin_Budget_Protests_1_JO.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2011_Wisconsin_Budget_Protests_1_JO.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2011_Wisconsin_Budget_Protests_1_JO.jpg/960px-2011_Wisconsin_Budget_Protests_1_JO.jpg",
+    "width": 4320,
+    "height": 2432,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Justin_Ormont\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Justin Ormont (page does not exist)\"\u003eJustin Ormont\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2011 Wisconsin Budget Protests 1 JO.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2011_Wisconsin_Budget_Protests_1_JO.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2011_Wisconsin_Budget_Protests_1_JO.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2011_Wisconsin_Budget_Protests_1_JO.jpg/960px-2011_Wisconsin_Budget_Protests_1_JO.jpg",
+      "width": 4320,
+      "height": 2432,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Justin_Ormont\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Justin Ormont (page does not exist)\"\u003eJustin Ormont\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:3c Wisconsin Statehood Centennial, 1948 issue.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:3c_Wisconsin_Statehood_Centennial,_1948_issue.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/3c_Wisconsin_Statehood_Centennial%2C_1948_issue.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/3c_Wisconsin_Statehood_Centennial%2C_1948_issue.jpg/960px-3c_Wisconsin_Statehood_Centennial%2C_1948_issue.jpg",
+      "width": 1164,
+      "height": 743,
+      "license": "Public domain",
+      "author": "U.S. Post Office -- U.S. Bureau of Engraving and Printing"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aerial view of Wind Point Lighthouse, Wisconsin, US julesvernex2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Wind_Point_Lighthouse,_Wisconsin,_US_julesvernex2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Aerial_view_of_Wind_Point_Lighthouse%2C_Wisconsin%2C_US_julesvernex2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerial_view_of_Wind_Point_Lighthouse%2C_Wisconsin%2C_US_julesvernex2.jpg/960px-Aerial_view_of_Wind_Point_Lighthouse%2C_Wisconsin%2C_US_julesvernex2.jpg",
+      "width": 8052,
+      "height": 5871,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Julesvernex2\" title=\"User:Julesvernex2\"\u003eJules Verne Times Two\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ancient Aztalan Village DSC 0 121.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ancient_Aztalan_Village_DSC_0_121.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ancient_Aztalan_Village_DSC_0_121.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ancient_Aztalan_Village_DSC_0_121.jpg/960px-Ancient_Aztalan_Village_DSC_0_121.jpg",
+      "width": 3872,
+      "height": 2592,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "wackybadger"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--wisconsin.json",
+      "url": "https://en.wikipedia.org/wiki/Wisconsin",
+      "retrieved_at": "2026-03-28T16:02:10Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--wisconsin.json",
+      "url": "https://commons.wikimedia.org/wiki/File:2011_Wisconsin_Budget_Protests_1_JO.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

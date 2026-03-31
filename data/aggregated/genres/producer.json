@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "producer",
+  "display_title": "Producer",
+  "display_name": "Producer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Producer",
+    "Producers Guild Film Awards",
+    "Producers Guild of America",
+    "Producers Guild of America Award for Best Animated Motion Picture",
+    "Producers Guild of America Award for Best Episodic Comedy",
+    "Producers Guild of America Award for Best Episodic Drama",
+    "Producers Guild of America Award for Best Theatrical Motion Picture",
+    "Producers Guild of America Awards",
+    "The Producers (TV series)",
+    "The Producers (musical)"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

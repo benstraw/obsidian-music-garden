@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "west-coast-rap",
+  "display_title": "West Coast Rap",
+  "display_name": "West Coast Rap",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "West Coast hip-hop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+  "summary": "West Coast hip-hop is a regional genre of hip-hop music that encompasses any artists or music that originated in the West Coast of the United States. West Coast hip-hop began to dominate from a radio play and sales standpoint during the early to-mid 1990s with the birth of G-funk and the emergence of record labels such as Suge Knight and Dr. Dre's Death Row Records, Ice Cube's Lench Mob Records, the continued success of Eazy-E's Ruthless Records, Dr. Dre's Aftermath Entertainment, and many others. Though the term \"West Coast hip hop\" may also be used to describe Northwest hip-hop and other movements from the Western U.S., it is primarily associated with the state of California, especially Los Angeles and the San Francisco Bay Area.",
+  "candidates": [
+    "West Coast Avengers",
+    "West Coast Eagles",
+    "West Coast Main Line",
+    "West Coast Naval Command",
+    "West Coast Railways",
+    "West Coast Range",
+    "West Coast Rap All-Stars",
+    "West Coast Rap-The First Dynasty",
+    "West Coast Region",
+    "West coast rap"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "West Coast hip-hop",
+    "page_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+    "retrieved_at": "2026-03-28T16:02:07Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--west-coast-rap.json",
+      "url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
+      "retrieved_at": "2026-03-28T16:02:07Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

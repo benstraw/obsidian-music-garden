@@ -6,7 +6,8 @@
   "aliases": [
     "space rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Space rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Space_rock",
@@ -104,6 +105,7 @@
       "name": "CAN",
       "play_count": 2,
       "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "musicbrainz_artist_id": "13501c7d-d181-45ba-af52-5f101d8516a0",
       "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
     }
   ],
@@ -113,7 +115,8 @@
       "name": "Ege Bamyasi (Remastered Version)",
       "play_count": 2,
       "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN"
+      "primary_artist_name": "CAN",
+      "spotify_album_id": "3Qa2CdymyGvXkqoqIZykmT"
     }
   ],
   "top_tracks": [
@@ -135,6 +138,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

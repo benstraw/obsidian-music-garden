@@ -1,0 +1,98 @@
+{
+  "canonical_slug": "psychedelic-folk",
+  "display_title": "Psychedelic Folk",
+  "display_name": "Psychedelic Folk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Psychedelic folk",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Psychedelic_folk",
+  "summary": "Psychedelic folk is a loosely defined form of psychedelic music that originated in the 1960s. It retains the largely acoustic instrumentation of folk, but adds musical elements common to psychedelia.",
+  "candidates": [
+    "Psychedelic Lollipop",
+    "Psychedelic bolete",
+    "Psychedelic film",
+    "Psychedelic flashback",
+    "Psychedelic folk",
+    "Psychedelic funk",
+    "Psychedelic rock",
+    "Psychedelic rock in Australia and New Zealand",
+    "Psychedelic rock in Latin America",
+    "The Psychedelic Folk Virgins"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Psychedelic folk",
+    "page_url": "https://en.wikipedia.org/wiki/Psychedelic_folk",
+    "retrieved_at": "2026-03-28T15:59:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Donovan (1965).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Donovan_(1965).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Donovan_%281965%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Donovan_%281965%29.jpg/960px-Donovan_%281965%29.jpg",
+    "width": 1488,
+    "height": 1488,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Jack_de_Nijs\" title=\"Category:Jack de Nijs\"\u003eJack de Nijs\u003c/a\u003e for \u003ca href=\"//commons.wikimedia.org/wiki/Category:Anefo\" title=\"Category:Anefo\"\u003eAnefo\u003c/a\u003e  / Anefo"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Donovan (1965).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Donovan_(1965).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Donovan_%281965%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Donovan_%281965%29.jpg/960px-Donovan_%281965%29.jpg",
+      "width": 1488,
+      "height": 1488,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/Category:Jack_de_Nijs\" title=\"Category:Jack de Nijs\"\u003eJack de Nijs\u003c/a\u003e for \u003ca href=\"//commons.wikimedia.org/wiki/Category:Anefo\" title=\"Category:Anefo\"\u003eAnefo\u003c/a\u003e  / Anefo"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Retro-flower-ornaments.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Retro-flower-ornaments.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Retro-flower-ornaments.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Retro-flower-ornaments.svg/960px-Retro-flower-ornaments.svg.png",
+      "width": 936,
+      "height": 900,
+      "license": "Public domain",
+      "author": "AnonMoos"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--psychedelic-folk.json",
+      "url": "https://en.wikipedia.org/wiki/Psychedelic_folk",
+      "retrieved_at": "2026-03-28T15:59:52Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--psychedelic-folk.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Donovan_(1965).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

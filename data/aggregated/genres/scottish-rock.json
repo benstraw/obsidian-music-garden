@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "scottish-rock",
+  "display_title": "Scottish Rock",
+  "display_name": "Scottish Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Geology of Scotland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Geology_of_Scotland",
+  "summary": "The geology of Scotland is unusually varied for a country of its size, with a large number of different geological features. There are three main geographical sub-divisions: the Highlands and Islands is a diverse area which lies to the north and west of the Highland Boundary Fault; the Central Lowlands is a rift valley mainly comprising Palaeozoic formations; and the Southern Uplands, which lie south of the Southern Uplands Fault, are largely composed of Silurian deposits.",
+  "candidates": [
+    "Scottish Rock Garden Club",
+    "Scottish Rocks",
+    "Scottish Romani and Traveller groups",
+    "Scottish Socialist Party",
+    "Scottish book sculptures",
+    "Scottish folk music",
+    "Scottish rock",
+    "Scottish royal tapestry collection",
+    "Scottish society in the Middle Ages",
+    "Scottish society in the early modern era"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Geology of Scotland",
+    "page_url": "https://en.wikipedia.org/wiki/Geology_of_Scotland",
+    "retrieved_at": "2026-03-28T16:00:41Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Scotland.central.geological.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Scotland.central.geological.jpg/330px-Scotland.central.geological.jpg",
+    "width": 1000,
+    "height": 973
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--scottish-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Geology_of_Scotland",
+      "retrieved_at": "2026-03-28T16:00:41Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--scottish-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Geology_of_Scotland",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

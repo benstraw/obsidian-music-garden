@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "progressive-r-andb",
+  "display_title": "Progressive R Andb",
+  "display_name": "Progressive R Andb",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Gary Null",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gary_Null",
+  "summary": "Gary Michael Null is an American talk radio host and author who advocates pseudoscientific alternative medicine and produces a line of questionable dietary supplements.",
+  "candidates": [
+    "Progressive Radio Network"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Gary Null",
+    "page_url": "https://en.wikipedia.org/wiki/Gary_Null",
+    "retrieved_at": "2026-03-28T15:59:45Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gary_Null_Speaking_Out_Against_Mandatory_Vaccination_in_NYC.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gary_Null_Speaking_Out_Against_Mandatory_Vaccination_in_NYC.jpg",
+    "width": 306,
+    "height": 345
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--progressive-r-andb.json",
+      "url": "https://en.wikipedia.org/wiki/Gary_Null",
+      "retrieved_at": "2026-03-28T15:59:45Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--progressive-r-andb.json",
+      "url": "https://en.wikipedia.org/wiki/Gary_Null",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

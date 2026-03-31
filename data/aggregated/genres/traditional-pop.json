@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "traditional-pop",
+  "display_title": "Traditional Pop",
+  "display_name": "Traditional Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Traditional pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Traditional_pop",
+  "summary": "Traditional pop is Western popular music that generally pre-dates the advent of rock and roll and pop music in the mid-1950s. The most popular and enduring songs from this era of music are known as pop standards or American standards. The works of these songwriters and composers are usually considered part of the canon known as the \"Great American Songbook\". More generally, the term \"standard\" can be applied to any popular song that has become very widely known within mainstream culture and recorded by many artists.",
+  "candidates": [
+    "Traditional Japanese music",
+    "Traditional Japanese musical instruments",
+    "Traditional Korean medicine",
+    "Traditional Korean musical instruments",
+    "Traditional Persian",
+    "Traditional Phenological Knowledge",
+    "Traditional colors of Japan",
+    "Traditional food",
+    "Traditional patterns of Korea",
+    "Traditional pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Traditional pop",
+    "page_url": "https://en.wikipedia.org/wiki/Traditional_pop",
+    "retrieved_at": "2026-03-28T16:01:40Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Frank Sinatra (1944 CBS Radio publicity photo).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Frank_Sinatra_(1944_CBS_Radio_publicity_photo).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Frank_Sinatra_%281944_CBS_Radio_publicity_photo%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frank_Sinatra_%281944_CBS_Radio_publicity_photo%29.jpg/960px-Frank_Sinatra_%281944_CBS_Radio_publicity_photo%29.jpg",
+    "width": 2228,
+    "height": 2784,
+    "license": "Public domain",
+    "author": "Distributed by \u003ca href=\"https://en.wikipedia.org/wiki/CBS\" class=\"extiw\" title=\"w:CBS\"\u003eCBS\u003c/a\u003e/\u003ca href=\"https://en.wikipedia.org/wiki/CBS_Radio\" class=\"extiw\" title=\"w:CBS Radio\"\u003eCBS Radio\u003c/a\u003e. Photographer uncredited and unknown."
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frank Sinatra (1944 CBS Radio publicity photo).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frank_Sinatra_(1944_CBS_Radio_publicity_photo).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Frank_Sinatra_%281944_CBS_Radio_publicity_photo%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Frank_Sinatra_%281944_CBS_Radio_publicity_photo%29.jpg/960px-Frank_Sinatra_%281944_CBS_Radio_publicity_photo%29.jpg",
+      "width": 2228,
+      "height": 2784,
+      "license": "Public domain",
+      "author": "Distributed by \u003ca href=\"https://en.wikipedia.org/wiki/CBS\" class=\"extiw\" title=\"w:CBS\"\u003eCBS\u003c/a\u003e/\u003ca href=\"https://en.wikipedia.org/wiki/CBS_Radio\" class=\"extiw\" title=\"w:CBS Radio\"\u003eCBS Radio\u003c/a\u003e. Photographer uncredited and unknown."
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--traditional-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Traditional_pop",
+      "retrieved_at": "2026-03-28T16:01:40Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--traditional-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Frank_Sinatra_(1944_CBS_Radio_publicity_photo).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -8,7 +8,8 @@
     "progressive rock",
     "progressive rock music"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Progressive rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Progressive_rock",
@@ -96,34 +97,59 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 16,
-    "unique_artist_count": 3,
-    "unique_release_count": 5,
-    "unique_track_count": 13,
-    "first_played_at": "2026-03-01T02:18:46.227Z",
-    "last_played_at": "2026-03-25T18:02:01.875Z"
+    "play_count": 39,
+    "unique_artist_count": 6,
+    "unique_release_count": 14,
+    "unique_track_count": 30,
+    "first_played_at": "2024-01-01T00:00:00.388869035Z",
+    "last_played_at": "2026-03-29T04:18:25.665Z"
   },
   "top_artists": [
     {
       "canonical_slug": "pink-floyd",
       "name": "Pink Floyd",
-      "play_count": 12,
+      "play_count": 19,
       "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "musicbrainz_artist_id": "83d91898-7763-47d7-b03b-b92132375c47",
       "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "canonical_slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "play_count": 8,
+      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
+      "musicbrainz_artist_id": "e20747e7-55a4-452e-8766-7b985585082d",
+      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+    },
+    {
+      "canonical_slug": "brian-eno",
+      "name": "Brian Eno",
+      "play_count": 6,
+      "spotify_artist_id": "7MSUfLeTdDEoZiJPDSBXgi",
+      "musicbrainz_artist_id": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+      "spotify_url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+    },
+    {
+      "canonical_slug": "yes",
+      "name": "Yes",
+      "play_count": 3,
+      "spotify_artist_id": "7AC976RDJzL2asmZuz7qil",
+      "spotify_url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
     },
     {
       "canonical_slug": "can",
       "name": "CAN",
       "play_count": 2,
       "spotify_artist_id": "4l8xPGtl6DHR2uvunqrl8r",
+      "musicbrainz_artist_id": "13501c7d-d181-45ba-af52-5f101d8516a0",
       "spotify_url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
     },
     {
-      "canonical_slug": "frank-zappa",
-      "name": "Frank Zappa",
-      "play_count": 2,
-      "spotify_artist_id": "6ra4GIOgCZQZMOaUECftGN",
-      "spotify_url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+      "canonical_slug": "emerson-lake-and-palmer",
+      "name": "Emerson, Lake \u0026 Palmer",
+      "play_count": 1,
+      "spotify_artist_id": "0nCiidE5GgDrc5kWN3NZgZ",
+      "spotify_url": "https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ"
     }
   ],
   "top_releases": [
@@ -132,42 +158,94 @@
       "name": "A Saucerful of Secrets",
       "play_count": 7,
       "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "primary_artist_name": "Pink Floyd",
+      "spotify_album_id": "2vnJKtGjZXRUg0mYPZ3HGH",
+      "musicbrainz_release_id": "bc2be498-ff42-4a4f-b4df-53d6e3bee74a",
+      "musicbrainz_release_group_id": "8a9caa40-b7c6-33eb-a13c-6c15f09b1c44"
     },
     {
       "canonical_slug": "pink-floyd--meddle",
       "name": "Meddle",
-      "play_count": 4,
+      "play_count": 6,
       "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "primary_artist_name": "Pink Floyd",
+      "spotify_album_id": "468ZwCchVtzEbt9BHmXopb",
+      "musicbrainz_release_id": "09ed5877-bb22-4a26-8ec7-c95e5ee70fd3",
+      "musicbrainz_release_group_id": "4e98c9b4-92f6-3049-b9da-a1088b623672"
+    },
+    {
+      "canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "name": "Here Come The Warm Jets",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "spotify_album_id": "74jn28Kr29iyh8eZXSvnwi",
+      "musicbrainz_release_id": "46a2f184-ef38-4025-a6e8-c0507f790d90",
+      "musicbrainz_release_group_id": "90d9be4c-30be-3e28-949a-66ee22c3a63a"
+    },
+    {
+      "canonical_slug": "frank-zappa--hot-rats",
+      "name": "Hot Rats",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa",
+      "spotify_album_id": "0WYYrC9My9rYWigac003hw",
+      "musicbrainz_release_id": "6327a725-8554-4900-a268-bdba3cb03169",
+      "musicbrainz_release_group_id": "3f974fbd-9db8-3dff-9466-b9ae6fd9146c"
+    },
+    {
+      "canonical_slug": "frank-zappa--apostrophe",
+      "name": "Apostrophe(')",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "frank-zappa",
+      "primary_artist_name": "Frank Zappa"
+    },
+    {
+      "canonical_slug": "pink-floyd--the-dark-side-of-the-moon",
+      "name": "The Dark Side of the Moon",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "spotify_album_id": "4LH4d3cOWNNsVw41Gqt2kv",
+      "musicbrainz_release_id": "b84ee12a-09ef-421b-82de-0441a926375b",
+      "musicbrainz_release_group_id": "f5093c06-23e3-404f-aeaa-40f72885ee3a"
+    },
+    {
+      "canonical_slug": "brian-eno--another-green-world-2004-remaster",
+      "name": "Another Green World (2004 Remaster)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "spotify_album_id": "6uoeezh45SYEb8lcT8gDTY"
     },
     {
       "canonical_slug": "can--ege-bamyasi-remastered-version",
       "name": "Ege Bamyasi (Remastered Version)",
       "play_count": 2,
       "primary_artist_canonical_slug": "can",
-      "primary_artist_name": "CAN"
+      "primary_artist_name": "CAN",
+      "spotify_album_id": "3Qa2CdymyGvXkqoqIZykmT"
     },
     {
-      "canonical_slug": "frank-zappa--hot-rats",
-      "name": "Hot Rats",
+      "canonical_slug": "pink-floyd--obscured-by-clouds",
+      "name": "Obscured by Clouds",
       "play_count": 2,
-      "primary_artist_canonical_slug": "frank-zappa",
-      "primary_artist_name": "Frank Zappa"
-    },
-    {
-      "canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
-      "name": "The Piper at the Gates of Dawn",
-      "play_count": 1,
       "primary_artist_canonical_slug": "pink-floyd",
       "primary_artist_name": "Pink Floyd"
+    },
+    {
+      "canonical_slug": "yes--the-yes-album",
+      "name": "The Yes Album",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "yes",
+      "primary_artist_name": "Yes"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "pink-floyd--fearless",
       "name": "Fearless",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "pink-floyd",
       "primary_artist_name": "Pink Floyd",
       "release_canonical_slug": "pink-floyd--meddle",
@@ -178,13 +256,57 @@
     {
       "canonical_slug": "frank-zappa--peaches-en-regalia",
       "name": "Peaches En Regalia",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "frank-zappa",
       "primary_artist_name": "Frank Zappa",
       "release_canonical_slug": "frank-zappa--hot-rats",
       "release_name": "Hot Rats",
       "spotify_track_id": "5uDu2qOoDou7cFXsipAo8l",
       "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l"
+    },
+    {
+      "canonical_slug": "pink-floyd--breathe-in-the-air",
+      "name": "Breathe (In the Air)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "pink-floyd",
+      "primary_artist_name": "Pink Floyd",
+      "release_canonical_slug": "pink-floyd--the-dark-side-of-the-moon",
+      "release_name": "The Dark Side of the Moon",
+      "spotify_track_id": "2ctvdKmETyOzPb2GiJJT53",
+      "spotify_url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
+      "canonical_slug": "brian-eno--cindy-tells-me-2004-digital-remaster",
+      "name": "Cindy Tells Me - 2004 Digital Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "release_name": "Here Come The Warm Jets",
+      "spotify_track_id": "5bF63YObFP3gfcIfbX84NH",
+      "spotify_url": "https://open.spotify.com/track/5bF63YObFP3gfcIfbX84NH"
+    },
+    {
+      "canonical_slug": "brian-eno--dead-finks-don-t-talk-2004-digital-remaster",
+      "name": "Dead Finks Don't Talk - 2004 Digital Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--here-come-the-warm-jets",
+      "release_name": "Here Come The Warm Jets",
+      "spotify_track_id": "2asnQKwHCVy0FT96Jw5H2x",
+      "spotify_url": "https://open.spotify.com/track/2asnQKwHCVy0FT96Jw5H2x"
+    },
+    {
+      "canonical_slug": "brian-eno--sombre-reptiles-2004-remaster",
+      "name": "Sombre Reptiles - 2004 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "brian-eno",
+      "primary_artist_name": "Brian Eno",
+      "release_canonical_slug": "brian-eno--another-green-world-2004-remaster",
+      "release_name": "Another Green World (2004 Remaster)",
+      "spotify_track_id": "09owruFWkS2w3SXKdbmBbw",
+      "spotify_url": "https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw"
     },
     {
       "canonical_slug": "can--vitamin-c-2004-remastered-version",
@@ -220,59 +342,15 @@
       "spotify_url": "https://open.spotify.com/track/0OtkNB4TnTzrlid4zipYDV"
     },
     {
-      "canonical_slug": "pink-floyd--corporal-clegg",
-      "name": "Corporal Clegg",
+      "canonical_slug": "pink-floyd--brain-damage",
+      "name": "Brain Damage",
       "play_count": 1,
       "primary_artist_canonical_slug": "pink-floyd",
       "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "0GML1aXwt0GJH8XRvcH7Fl",
-      "spotify_url": "https://open.spotify.com/track/0GML1aXwt0GJH8XRvcH7Fl"
-    },
-    {
-      "canonical_slug": "pink-floyd--jugband-blues",
-      "name": "Jugband Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "7L1n9EL0Sh0LMOyxDI7rxr",
-      "spotify_url": "https://open.spotify.com/track/7L1n9EL0Sh0LMOyxDI7rxr"
-    },
-    {
-      "canonical_slug": "pink-floyd--let-there-be-more-light",
-      "name": "Let There Be More Light",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "5xUz3xvyPPrNfnBrh9IOZa",
-      "spotify_url": "https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa"
-    },
-    {
-      "canonical_slug": "pink-floyd--matilda-mother",
-      "name": "Matilda Mother",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
-      "release_name": "The Piper at the Gates of Dawn",
-      "spotify_track_id": "6SlI8JYwFaESqre47wrQZz",
-      "spotify_url": "https://open.spotify.com/track/6SlI8JYwFaESqre47wrQZz"
-    },
-    {
-      "canonical_slug": "pink-floyd--one-of-these-days",
-      "name": "One of These Days",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "6uU0Hu8oVk9gBihokcrDMH",
-      "spotify_url": "https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH"
+      "release_canonical_slug": "pink-floyd--the-dark-side-of-the-moon",
+      "release_name": "The Dark Side of the Moon",
+      "spotify_track_id": "05uGBKRCuePsf43Hfm0JwX",
+      "spotify_url": "https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX"
     }
   ],
   "source_refs": [
@@ -281,6 +359,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -302,9 +386,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-25T18:02:01.875Z",
+      "updated_at": "2026-03-29T04:18:25.665Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:18:25.665Z"
 }

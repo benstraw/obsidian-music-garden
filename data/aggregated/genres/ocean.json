@@ -1,0 +1,133 @@
+{
+  "canonical_slug": "ocean",
+  "display_title": "Ocean",
+  "display_name": "Ocean",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Ocean",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ocean",
+  "summary": "The ocean is the body of salt water that covers approximately 70.8% of Earth. The ocean is conventionally divided into large bodies of water, which are also referred to as oceans, and are themselves mostly divided into seas, gulfs and subsequent bodies of water. The ocean contains 97% of Earth's water and is the primary component of Earth's hydrosphere, acting as a huge reservoir of heat for Earth's energy budget, as well as for its carbon cycle and water cycle, forming the basis for climate and weather patterns worldwide. The ocean is essential to life on Earth, harbouring most of Earth's animals and protist life, originating photosynthesis and therefore Earth's atmospheric oxygen, still supplying half of it.",
+  "candidates": [
+    "Frank Ocean",
+    "Ocean",
+    "Ocean Vuong",
+    "Ocean acidification",
+    "Ocean liner",
+    "Ocean sunfish",
+    "Oceania",
+    "Oceania Football Confederation",
+    "Oceanic climate",
+    "Oceanside, California"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Ocean",
+    "page_url": "https://en.wikipedia.org/wiki/Ocean",
+    "retrieved_at": "2026-03-28T15:59:07Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Aegopodium podagraria1 ies.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+    "width": 800,
+    "height": 700,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Frank Vincentz"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aegopodium podagraria1 ies.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+      "width": 800,
+      "height": 700,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Frank Vincentz"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Antarctic bottom water.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Antarctic_bottom_water.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Antarctic_bottom_water.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/960px-Antarctic_bottom_water.svg.png",
+      "width": 745,
+      "height": 470,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fred_the_Oyster\" title=\"User:Fred the Oyster\"\u003eFred the Oyster\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bay of Fundy.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bay_of_Fundy.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bay_of_Fundy.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bay_of_Fundy.jpg",
+      "width": 600,
+      "height": 450,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://vi.wikipedia.org/wiki/wiki:user_Tttrung\" class=\"extiw\" title=\"vi:wiki:user Tttrung\"\u003eTttrung\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Corrientes-oceanicas.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Corrientes-oceanicas.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Corrientes-oceanicas.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Corrientes-oceanicas.png/960px-Corrientes-oceanicas.png",
+      "width": 1000,
+      "height": 522,
+      "license": "Public domain",
+      "author": "Dr. Michael Pidwirny (see \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.physicalgeography.net\"\u003ehttp://www.physicalgeography.net\u003c/a\u003e)"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Diagram3 600.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Diagram3_600.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Diagram3_600.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Diagram3_600.jpg",
+      "width": 600,
+      "height": 450,
+      "license": "Public domain",
+      "author": "Kyle Carothers, NOAA Ocean Exploration"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--ocean.json",
+      "url": "https://en.wikipedia.org/wiki/Ocean",
+      "retrieved_at": "2026-03-28T15:59:07Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--ocean.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

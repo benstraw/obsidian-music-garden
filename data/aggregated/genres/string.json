@@ -1,0 +1,99 @@
+{
+  "canonical_slug": "string",
+  "display_title": "String",
+  "display_name": "String",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "String",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/String",
+  "summary": "String is a long flexible tool made from fibers twisted together into a single strand, or from multiple such strands which are in turn twisted together. String is used to tie, bind, or hang other objects. It is also used as a material to make things, such as textiles, and in arts and crafts. String is a simple tool, and its use by humans is known to have been developed tens of thousands of years ago. String may also be a component in other tools, and in devices as diverse as weapons, musical instruments, and toys. The ubiquity of string as a tool has led to conceptual and scientific uses of the term, including strings in computer science, cosmic strings, and string theory.",
+  "candidates": [
+    "Billy Strings",
+    "String",
+    "String (computer science)",
+    "String (music)",
+    "String instrument",
+    "String literal",
+    "String of cash",
+    "String theory",
+    "Strings (band)",
+    "The String Cheese Incident"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "String",
+    "page_url": "https://en.wikipedia.org/wiki/String",
+    "retrieved_at": "2026-03-28T16:01:14Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Blue+Red String Under Microscope (40x).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Blue%2BRed_String_Under_Microscope_(40x).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Blue%2BRed_String_Under_Microscope_%2840x%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue%2BRed_String_Under_Microscope_%2840x%29.jpg/960px-Blue%2BRed_String_Under_Microscope_%2840x%29.jpg",
+    "width": 2085,
+    "height": 2398,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fritzmann2002\" title=\"User:Fritzmann2002\"\u003eFritzmann2002\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blue+Red String Under Microscope (40x).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blue%2BRed_String_Under_Microscope_(40x).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Blue%2BRed_String_Under_Microscope_%2840x%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blue%2BRed_String_Under_Microscope_%2840x%29.jpg/960px-Blue%2BRed_String_Under_Microscope_%2840x%29.jpg",
+      "width": 2085,
+      "height": 2398,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Fritzmann2002\" title=\"User:Fritzmann2002\"\u003eFritzmann2002\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Sudadera urban.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Sudadera_urban.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sudadera_urban.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sudadera_urban.jpg",
+      "width": 350,
+      "height": 350,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Davidcanogomez\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Davidcanogomez (page does not exist)\"\u003eDavidcanogomez\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--string.json",
+      "url": "https://en.wikipedia.org/wiki/String",
+      "retrieved_at": "2026-03-28T16:01:14Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--string.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Blue%2BRed_String_Under_Microscope_(40x).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

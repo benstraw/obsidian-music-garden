@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "rnb",
+  "display_title": "Rnb",
+  "display_name": "Rnb",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Rhythm and blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+  "summary": "Rhythm and blues, frequently abbreviated as R\u0026B or R'n'B, is a genre of popular music that originated within African American communities in the 1940s. The term was originally used by record companies to describe recordings marketed predominantly to African Americans, at a time when \"rocking, jazz based music ... [with a] heavy, insistent beat\" was starting to become more popular.\nIn the commercial rhythm and blues music typical of the 1950s through the 1970s, the bands usually consisted of a piano, one or two guitars, bass, drums, one or more saxophones, and sometimes background vocalists. R\u0026B lyrical themes often encapsulate the African American history and experience of pain and the quest for freedom and joy, as well as triumphs and failures in terms of societal racism, oppression, relationships, economics, and aspirations.",
+  "candidates": [
+    "RNB (Nicki Minaj song)",
+    "RNB (song)",
+    "RNB España",
+    "RNB Global University",
+    "RNBDJ",
+    "RNBR",
+    "RnB (EP)",
+    "RnB Songs",
+    "RnBass",
+    "Rnb"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rhythm and blues",
+    "page_url": "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+    "retrieved_at": "2026-03-28T16:00:16Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ruth-Brown-1955.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ruth-Brown-1955.jpg/330px-Ruth-Brown-1955.jpg",
+    "width": 1289,
+    "height": 1600
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--rnb.json",
+      "url": "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+      "retrieved_at": "2026-03-28T16:00:16Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--rnb.json",
+      "url": "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

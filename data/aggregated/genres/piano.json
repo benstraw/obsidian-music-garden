@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "piano",
+  "display_title": "Piano",
+  "display_name": "Piano",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Piano",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Piano",
+  "summary": "A piano is a keyboard instrument that produces sound when its keys are depressed, activating an action mechanism where hammers strike strings. Modern pianos have a row of 88 black and white keys—with the exception of the Bosendörfer and Stuart \u0026 Sons pianos—and tuned to a chromatic scale in equal temperament. A musician who specializes in piano is called a pianist.",
+  "candidates": [
+    "Piano",
+    "Piano Concerto No. 1 (Tchaikovsky)",
+    "Piano Concerto No. 2 (Rachmaninoff)",
+    "Piano Man (song)",
+    "Piano Sonata No. 14 (Beethoven)",
+    "Piano concertos by Wolfgang Amadeus Mozart",
+    "Piano music of Gabriel Fauré",
+    "Renzo Piano",
+    "The Piano Lesson (2024 film)",
+    "The Piano Teacher (film)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Piano",
+    "page_url": "https://en.wikipedia.org/wiki/Piano",
+    "retrieved_at": "2026-03-28T15:59:20Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Broadwood grand square action.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Broadwood_grand_square_action.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Broadwood_grand_square_action.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Broadwood_grand_square_action.svg/960px-Broadwood_grand_square_action.svg.png",
+    "width": 1224,
+    "height": 614,
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mireut\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mireut (page does not exist)\"\u003eMireut\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Broadwood grand square action.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Broadwood_grand_square_action.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Broadwood_grand_square_action.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Broadwood_grand_square_action.svg/960px-Broadwood_grand_square_action.svg.png",
+      "width": 1224,
+      "height": 614,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Mireut\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Mireut (page does not exist)\"\u003eMireut\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:CristoforiPiano1726LeipzigKeyboardView.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:CristoforiPiano1726LeipzigKeyboardView.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/CristoforiPiano1726LeipzigKeyboardView.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CristoforiPiano1726LeipzigKeyboardView.jpg/960px-CristoforiPiano1726LeipzigKeyboardView.jpg",
+      "width": 3648,
+      "height": 2736,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Opus33\" title=\"User:Opus33\"\u003eOpus33\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:D274.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:D274.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/D274.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/D274.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "KarlKunde"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DisklavierPlayer.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DisklavierPlayer.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/DisklavierPlayer.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/DisklavierPlayer.jpg",
+      "width": 480,
+      "height": 640,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Kowloonese\" class=\"extiw\" title=\"en:User:Kowloonese\"\u003eKowloonese\u003c/a\u003e at en.wikipedia",
+      "attribution_text": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Kowloonese\" class=\"extiw\" title=\"en:User:Kowloonese\"\u003eKowloonese\u003c/a\u003e at the \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"w:\"\u003eEnglish-language Wikipedia\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:DuplexScale.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:DuplexScale.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/DuplexScale.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/DuplexScale.JPG",
+      "width": 518,
+      "height": 487,
+      "license": "Public domain",
+      "author": "Joel Lidstrom"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--piano.json",
+      "url": "https://en.wikipedia.org/wiki/Piano",
+      "retrieved_at": "2026-03-28T15:59:20Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--piano.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Broadwood_grand_square_action.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

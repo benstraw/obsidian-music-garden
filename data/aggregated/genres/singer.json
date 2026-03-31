@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "singer",
+  "display_title": "Singer",
+  "display_name": "Singer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Singing",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Singing",
+  "summary": "Singing is the art of creating music with the voice. It is the oldest form of musical expression, and the human voice can be considered the first musical instrument by some. The definition of singing varies across sources. Some sources define singing as the act of creating musical sounds with the voice. Other common definitions include \"the utterance of words or sounds in tuneful succession\" or \"the production of musical tones by means of the human voice\".",
+  "candidates": [
+    "Bryan Singer",
+    "Eric Singer",
+    "Isaac Bashevis Singer",
+    "Paul Singer (businessman)",
+    "Peter Singer",
+    "Singer",
+    "Singer Building",
+    "Singer Corporation",
+    "Singer-songwriter",
+    "The Singers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Singing",
+    "page_url": "https://en.wikipedia.org/wiki/Singing",
+    "retrieved_at": "2026-03-28T16:00:48Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ah_cricket_20122_%287364759010%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ah_cricket_20122_%287364759010%29.jpg/330px-Ah_cricket_20122_%287364759010%29.jpg",
+    "width": 5450,
+    "height": 3509
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--singer.json",
+      "url": "https://en.wikipedia.org/wiki/Singing",
+      "retrieved_at": "2026-03-28T16:00:48Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--singer.json",
+      "url": "https://en.wikipedia.org/wiki/Singing",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

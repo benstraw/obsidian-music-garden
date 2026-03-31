@@ -3,6 +3,7 @@
   "display_title": "Owned",
   "display_name": "Owned",
   "pending": true,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Ownership",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ownership",

@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "rock-musicians",
+  "display_title": "Rock Musicians",
+  "display_name": "Rock Musicians",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Rock music and politics",
+    "Rock music and the fall of communism",
+    "Rock music band",
+    "Rock music in Australia",
+    "Rock music in India",
+    "Rock music in Iran",
+    "Rock music of Bangladesh",
+    "Rock music of Canada",
+    "Rock musical",
+    "Rock musician"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

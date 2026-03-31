@@ -1,0 +1,124 @@
+{
+  "canonical_slug": "sunshine-pop",
+  "display_title": "Sunshine Pop",
+  "display_name": "Sunshine Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Sunshine pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sunshine_pop",
+  "summary": "Sunshine pop is a loosely defined form of pop music that was first associated with early soft rock producers and songwriters based in Los Angeles, California, during the mid- to late 1960s. Its studio-centric sound was primarily rooted in folk rock and easy listening, typically featuring rich harmony vocals and progressive elements, while lyrics combined idyllic imagery with a subtle awareness of societal change, melancholic undertones, and countercultural themes. It was among the dominating music styles heard in television, film, and commercials of the era.",
+  "candidates": [
+    "Sunshine (Pop Smoke song)",
+    "Sunshine Coast Lightning",
+    "Sunshine Coast Region",
+    "Sunshine Coast, Queensland",
+    "Sunshine Policy",
+    "Sunshine Protection Act",
+    "Sunshine Superman (album)",
+    "Sunshine of Your Love",
+    "Sunshine on Leith (album)",
+    "Sunshine pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sunshine pop",
+    "page_url": "https://en.wikipedia.org/wiki/Sunshine_pop",
+    "retrieved_at": "2026-03-28T16:01:16Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio-input-microphone.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+    "width": 128,
+    "height": 128,
+    "license": "GPL",
+    "license_url": "http://www.gnu.org/licenses/gpl.html",
+    "author": "DBGthekafu"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio-input-microphone.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Audio-input-microphone.png",
+      "width": 128,
+      "height": 128,
+      "license": "GPL",
+      "license_url": "http://www.gnu.org/licenses/gpl.html",
+      "author": "DBGthekafu"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:California Dreamin.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Carl Brian Al.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Carl_Brian_Al.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Carl_Brian_Al.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Carl_Brian_Al.jpg",
+      "width": 943,
+      "height": 506,
+      "license": "Public domain",
+      "author": "Cashbox"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flowerpowerportfolio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flowerpowerportfolio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Flowerpowerportfolio.jpg",
+      "width": 698,
+      "height": 361,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Rightleftright\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Rightleftright (page does not exist)\"\u003eRightleftright\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--sunshine-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Sunshine_pop",
+      "retrieved_at": "2026-03-28T16:01:16Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--sunshine-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Audio-input-microphone.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

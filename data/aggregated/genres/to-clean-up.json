@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "to-clean-up",
+  "display_title": "To Clean Up",
+  "display_name": "To Clean Up",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Aurel Țicleanu",
+    "The Clean Up",
+    "The Clean Up (1923 film)",
+    "The Clean Up (1929 film)",
+    "The Clean Up Crew",
+    "The Clean Up Man",
+    "The Clean Up Man (G-Unit Radio Part 24)",
+    "The Clean Up Woman",
+    "The Clean-Up (1917 film)",
+    "Toalean people"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

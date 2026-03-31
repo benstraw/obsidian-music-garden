@@ -1,0 +1,53 @@
+{
+  "canonical_slug": "philly-soul",
+  "display_title": "Philly Soul",
+  "display_name": "Philly Soul",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Philadelphia soul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Philadelphia_soul",
+  "summary": "Philadelphia soul, sometimes called Philly soul, the Philadelphia sound, Phillysound, or The Sound of Philadelphia (TSOP), is a genre of late 1960s–1970s soul music characterized by funk influences and lush string and horn arrangements. The genre laid the groundwork for the emergence of disco later in the 1970s by fusing the R\u0026B rhythm sections of the 1960s with the pop vocal tradition, and featuring a more pronounced jazz influence in its melodic structures and arrangements. Fred Wesley, trombonist with the J.B.'s and Parliament-Funkadelic, described the Philadelphia soul sound as \"putting the bow tie on funk.\"",
+  "candidates": [
+    "Philly (song)",
+    "Philly Cullen",
+    "Philly Holmes",
+    "Philly Outlawz",
+    "Philly Roller Derby",
+    "Philly Shell",
+    "Philly roll",
+    "Philly slick",
+    "Philly soul"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Philadelphia soul",
+    "page_url": "https://en.wikipedia.org/wiki/Philadelphia_soul",
+    "retrieved_at": "2026-03-28T15:59:18Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--philly-soul.json",
+      "url": "https://en.wikipedia.org/wiki/Philadelphia_soul",
+      "retrieved_at": "2026-03-28T15:59:18Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

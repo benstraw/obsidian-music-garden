@@ -8,7 +8,8 @@
     "score",
     "soundtrack"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Soundtrack",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Soundtrack",
@@ -68,19 +69,36 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 5,
-    "unique_artist_count": 3,
-    "unique_release_count": 4,
-    "unique_track_count": 5,
-    "first_played_at": "2026-03-03T12:16:36.951Z",
+    "play_count": 43,
+    "unique_artist_count": 5,
+    "unique_release_count": 10,
+    "unique_track_count": 31,
+    "first_played_at": "2024-01-01T00:00:00.250002287Z",
     "last_played_at": "2026-03-14T18:26:20.855Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "ottorino-respighi",
+      "name": "Ottorino Respighi",
+      "play_count": 27,
+      "spotify_artist_id": "7KkUirCiJZhgRN3NbgG98L",
+      "musicbrainz_artist_id": "788c380d-247b-42f0-b7a9-64881e1f0fd9",
+      "spotify_url": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
+    },
+    {
+      "canonical_slug": "neu",
+      "name": "NEU!",
+      "play_count": 11,
+      "spotify_artist_id": "2CqEOngQOOMstJupNn6Hmf",
+      "musicbrainz_artist_id": "adec1fc3-83c1-48f7-9e49-8347ac6d40b0",
+      "spotify_url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+    },
     {
       "canonical_slug": "christian-borle",
       "name": "Christian Borle",
       "play_count": 2,
       "spotify_artist_id": "3mXvO1rdMCgdOYNiWeduWG",
+      "musicbrainz_artist_id": "68840364-a295-4411-a504-73e20da1007c",
       "spotify_url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
     },
     {
@@ -88,6 +106,7 @@
       "name": "Christopher Sieber",
       "play_count": 2,
       "spotify_artist_id": "5peNY8vXtrXeevW4JWq797",
+      "musicbrainz_artist_id": "e40728b2-181e-45fc-a19a-c24e998b1d1f",
       "spotify_url": "https://open.spotify.com/artist/5peNY8vXtrXeevW4JWq797"
     },
     {
@@ -95,94 +114,208 @@
       "name": "Hans Zimmer",
       "play_count": 1,
       "spotify_artist_id": "0YC192cP3KPCRWx8zr8MfZ",
+      "musicbrainz_artist_id": "e6de1f3b-6484-491c-88dd-6d619f142abc",
       "spotify_url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "christian-borle--monty-python-s-spamalot",
+      "canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "name": "Respighi: Piano Music",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "spotify_album_id": "2Nm7vx01wJA7fNH6askGry"
+    },
+    {
+      "canonical_slug": "neu--neu",
+      "name": "NEU!",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "neu",
+      "primary_artist_name": "Neu!",
+      "spotify_album_id": "1aKOQpS6TrGd3wTQooaIBH",
+      "musicbrainz_release_id": "abf742a9-a22e-3a3b-86c7-66dd84e7159f",
+      "musicbrainz_release_group_id": "00b3e683-47fa-3302-add0-4c0cecc5224e"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--respighi-suite-in-g-major-p-58-trittico-botticelliano-the-birds-and-serenata",
+      "name": "Respighi: Suite in G Major, P. 58, Trittico botticelliano, The Birds, \u0026 Serenata",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "spotify_album_id": "0plx2TqrooA0sSZypjwCtp"
+    },
+    {
+      "canonical_slug": "christopher-sieber--monty-python-s-spamalot",
       "name": "Monty Python's Spamalot",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "christopher-sieber",
+      "primary_artist_name": "Christopher Sieber",
+      "spotify_album_id": "5To3LrXgZuZEfDTiIjKqFf"
+    },
+    {
+      "canonical_slug": "neu--neu-2",
+      "name": "NEU! 2",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "neu",
+      "primary_artist_name": "Neu!",
+      "spotify_album_id": "2PKmOmYVEzOuHwEUpmtuak",
+      "musicbrainz_release_id": "9686380c-b265-4b1c-a70a-db786ce3463d",
+      "musicbrainz_release_group_id": "9ea01d83-e7e9-3445-a1bc-e231ebec635b"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--respighi-ancient-airs-and-dances-suites-nos-1-3",
+      "name": "Respighi: Ancient Airs And Dances, Suites Nos. 1-3",
       "play_count": 2,
-      "primary_artist_canonical_slug": "christian-borle",
-      "primary_artist_name": "Christian Borle"
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "spotify_album_id": "3pQx91h84EeCjToUx77McG"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--respighi-astuzie-de-columbina-le-la-pentola-magica",
+      "name": "Respighi: Astuzie De Columbina (Le) / La Pentola Magica",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "spotify_album_id": "3ceHeJRqhhoBZCeGqkpziR"
     },
     {
       "canonical_slug": "christopher-sieber--death-becomes-her-original-broadway-cast-recording",
       "name": "Death Becomes Her (Original Broadway Cast Recording)",
       "play_count": 1,
       "primary_artist_canonical_slug": "christopher-sieber",
-      "primary_artist_name": "Christopher Sieber"
+      "primary_artist_name": "Christopher Sieber",
+      "spotify_album_id": "5nUimQrGD2Ay1FgVUGJDnm"
     },
     {
-      "canonical_slug": "christopher-sieber--monty-python-s-spamalot",
-      "name": "Monty Python's Spamalot",
+      "canonical_slug": "ottorino-respighi--respighi-orchestral-works",
+      "name": "Respighi: Orchestral Works",
       "play_count": 1,
-      "primary_artist_canonical_slug": "christopher-sieber",
-      "primary_artist_name": "Christopher Sieber"
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "spotify_album_id": "6349ffmlFFtAz39cDHDRg5"
     },
     {
       "canonical_slug": "hans-zimmer--the-da-vinci-code",
       "name": "The Da Vinci Code",
       "play_count": 1,
       "primary_artist_canonical_slug": "hans-zimmer",
-      "primary_artist_name": "Hans Zimmer"
+      "primary_artist_name": "Hans Zimmer",
+      "spotify_album_id": "4GuLx38y1727p45spIvslr",
+      "musicbrainz_release_id": "f142c220-050f-4c8a-be9d-2cdc818376be",
+      "musicbrainz_release_group_id": "f78cb731-2c72-3881-bb28-c7b5dae2955f"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "hans-zimmer--beneath-alrischa",
-      "name": "Beneath Alrischa",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "hans-zimmer",
-      "primary_artist_name": "Hans Zimmer",
-      "release_canonical_slug": "hans-zimmer--the-da-vinci-code",
-      "release_name": "The Da Vinci Code",
-      "spotify_track_id": "2Or7dR85K5TvJGjQFliVZc",
-      "spotify_url": "https://open.spotify.com/track/2Or7dR85K5TvJGjQFliVZc"
+      "canonical_slug": "ottorino-respighi--3-preludi-sopra-melodie-gregoriane-p-131-i-molto-lento",
+      "name": "3 Preludi Sopra Melodie Gregoriane, P. 131: I. Molto Lento",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "1ONzRvx7L9jhvyyqZJoh9m",
+      "spotify_url": "https://open.spotify.com/track/1ONzRvx7L9jhvyyqZJoh9m"
     },
     {
-      "canonical_slug": "christian-borle--historian-s-introduction-to-act-ii-from-spamalot-original-broadway-cast-recording",
-      "name": "Historian's Introduction to Act II - From \"Spamalot\" Original Broadway Cast Recording",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "christian-borle",
-      "primary_artist_name": "Christian Borle",
-      "release_canonical_slug": "christian-borle--monty-python-s-spamalot",
-      "release_name": "Monty Python's Spamalot",
-      "spotify_track_id": "6n2oGJrmwMC23hzMCximPE",
-      "spotify_url": "https://open.spotify.com/track/6n2oGJrmwMC23hzMCximPE"
+      "canonical_slug": "ottorino-respighi--6-pezzi-p-44-no-5-studio",
+      "name": "6 Pezzi, P. 44: No. 5. Studio",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "0EGKIwHF13Gry0Ov0hpVpT",
+      "spotify_url": "https://open.spotify.com/track/0EGKIwHF13Gry0Ov0hpVpT"
     },
     {
-      "canonical_slug": "christian-borle--monks-chant-he-is-not-dead-yet-from-spamalot-original-broadway-cast-recording",
-      "name": "Monks Chant / He Is Not Dead Yet - From \"Spamalot\" Original Broadway Cast Recording",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "christian-borle",
-      "primary_artist_name": "Christian Borle",
-      "release_canonical_slug": "christian-borle--monty-python-s-spamalot",
-      "release_name": "Monty Python's Spamalot",
-      "spotify_track_id": "3tl5aGjKkwfZDA3PkiGSRC",
-      "spotify_url": "https://open.spotify.com/track/3tl5aGjKkwfZDA3PkiGSRC"
+      "canonical_slug": "ottorino-respighi--6-pezzi-p-44-no-6-internmezzo-serenata",
+      "name": "6 Pezzi, P. 44: No. 6. Internmezzo-serenata",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "5fVw7TjMRqG183RyPIUoba",
+      "spotify_url": "https://open.spotify.com/track/5fVw7TjMRqG183RyPIUoba"
     },
     {
-      "canonical_slug": "christopher-sieber--the-plan",
-      "name": "The Plan",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "christopher-sieber",
-      "primary_artist_name": "Christopher Sieber",
-      "release_canonical_slug": "christopher-sieber--death-becomes-her-original-broadway-cast-recording",
-      "release_name": "Death Becomes Her (Original Broadway Cast Recording)",
-      "spotify_track_id": "6STQ489QSDRSAnH9weT9L8",
-      "spotify_url": "https://open.spotify.com/track/6STQ489QSDRSAnH9weT9L8"
+      "canonical_slug": "ottorino-respighi--antiche-danze-ed-arie-per-liuto-ancient-airs-and-dances-p-114-i-balletto-detto-il-conte-orlando",
+      "name": "Antiche Danze Ed Arie Per Liuto (Ancient Airs And Dances), P. 114: I. Balletto Detto 'Il Conte Orlando'",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "5pXGaOCnwIuKdu1PIA5maJ",
+      "spotify_url": "https://open.spotify.com/track/5pXGaOCnwIuKdu1PIA5maJ"
     },
     {
-      "canonical_slug": "christopher-sieber--the-song-that-goes-like-this-from-spamalot-original-broadway-cast-recording",
-      "name": "The Song That Goes Like This - From \"Spamalot\" Original Broadway Cast Recording",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "christopher-sieber",
-      "primary_artist_name": "Christopher Sieber",
-      "release_canonical_slug": "christopher-sieber--monty-python-s-spamalot",
-      "release_name": "Monty Python's Spamalot",
-      "spotify_track_id": "3LwfZ5u7kBI79r8saMvFIb",
-      "spotify_url": "https://open.spotify.com/track/3LwfZ5u7kBI79r8saMvFIb"
+      "canonical_slug": "ottorino-respighi--antiche-danze-ed-arie-per-liuto-ancient-airs-and-dances-p-114-ii-villanella-quadro-iii",
+      "name": "Antiche Danze Ed Arie Per Liuto (Ancient Airs And Dances), P. 114: II. Villanella (Quadro III",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "7kdEXrpgmqoUaJN6Y3hYm1",
+      "spotify_url": "https://open.spotify.com/track/7kdEXrpgmqoUaJN6Y3hYm1"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--antiche-danze-ed-arie-per-liuto-ancient-airs-and-dances-p-114-vi-passacaglia",
+      "name": "Antiche Danze Ed Arie Per Liuto (Ancient Airs And Dances), P. 114: VI. Passacaglia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-piano-music",
+      "release_name": "Respighi: Piano Music",
+      "spotify_track_id": "3ByR24hDhHVR0kCjIlLw8P",
+      "spotify_url": "https://open.spotify.com/track/3ByR24hDhHVR0kCjIlLw8P"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--gli-uccelli-the-birds-p-154-v-il-cucu-allegro",
+      "name": "Gli uccelli (The Birds), P. 154: V. Il cucu: Allegro",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-suite-in-g-major-p-58-trittico-botticelliano-the-birds-and-serenata",
+      "release_name": "Respighi: Suite in G Major, P. 58, Trittico botticelliano, The Birds, \u0026 Serenata",
+      "spotify_track_id": "25V8y1DL6EKMhpwKxPuyRK",
+      "spotify_url": "https://open.spotify.com/track/25V8y1DL6EKMhpwKxPuyRK"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--la-pentola-magica-p-129-preludio",
+      "name": "La pentola magica, P. 129: Preludio",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-astuzie-de-columbina-le-la-pentola-magica",
+      "release_name": "Respighi: Astuzie De Columbina (Le) / La Pentola Magica",
+      "spotify_track_id": "10i5u8aKyqP76Pi2G3g7oQ",
+      "spotify_url": "https://open.spotify.com/track/10i5u8aKyqP76Pi2G3g7oQ"
+    },
+    {
+      "canonical_slug": "neu--lieber-honig",
+      "name": "Lieber Honig",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "neu",
+      "primary_artist_name": "NEU!",
+      "release_canonical_slug": "neu--neu",
+      "release_name": "NEU!",
+      "spotify_track_id": "2y38r30VlwZjVihZSzHlJh",
+      "spotify_url": "https://open.spotify.com/track/2y38r30VlwZjVihZSzHlJh"
+    },
+    {
+      "canonical_slug": "ottorino-respighi--suite-no-3-p-172-i-italiana-andantino",
+      "name": "Suite No. 3, P. 172: I. Italiana: Andantino",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "ottorino-respighi",
+      "primary_artist_name": "Ottorino Respighi",
+      "release_canonical_slug": "ottorino-respighi--respighi-ancient-airs-and-dances-suites-nos-1-3",
+      "release_name": "Respighi: Ancient Airs And Dances, Suites Nos. 1-3",
+      "spotify_track_id": "04A0DEE7bul6oA3xmGhiQp",
+      "spotify_url": "https://open.spotify.com/track/04A0DEE7bul6oA3xmGhiQp"
     }
   ],
   "source_refs": [
@@ -191,6 +324,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

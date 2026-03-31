@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "torch-song",
+  "display_title": "Torch Song",
+  "display_name": "Torch Song",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Torch song",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Torch_song",
+  "summary": "A torch song is a sentimental love song, typically one in which the singer laments an unrequited or lost love, either where one party is oblivious to the existence of the other, where one party has moved on, or where a romantic affair has affected the relationship. The term comes from the saying \"to carry a torch for someone\" or to keep aflame the light of an unrequited love. It was first used by the cabaret singer Tommy Lyman in his praise of \"My Melancholy Baby\".",
+  "candidates": [
+    "Torch Song (1953 film)",
+    "Torch Song (1993 film)",
+    "Torch Song (2024 film)",
+    "Torch Song (New Batman Adventures)",
+    "Torch Song (band)",
+    "Torch Song (short story)",
+    "Torch Song Trilogy",
+    "Torch Song Trilogy (film)",
+    "Torch song",
+    "Torch song (disambiguation)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Torch song",
+    "page_url": "https://en.wikipedia.org/wiki/Torch_song",
+    "retrieved_at": "2026-03-28T16:01:37Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--torch-song.json",
+      "url": "https://en.wikipedia.org/wiki/Torch_song",
+      "retrieved_at": "2026-03-28T16:01:37Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

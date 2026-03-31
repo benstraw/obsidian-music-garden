@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "pov-indie",
+  "display_title": "Pov Indie",
+  "display_name": "Pov Indie",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Elizabeth Povinelli",
+    "George Poindexter",
+    "John Poindexter",
+    "Mark Povinelli",
+    "Michelle Povinelli",
+    "Pavel Povinec",
+    "Poe, Indiana",
+    "Poo, India",
+    "Poonindie, South Australia",
+    "The Poindexter Brothers"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

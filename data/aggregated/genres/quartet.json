@@ -1,0 +1,112 @@
+{
+  "canonical_slug": "quartet",
+  "display_title": "Quartet",
+  "display_name": "Quartet",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Quartet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Quartet",
+  "summary": "In music, a quartet is an ensemble of four singers or instrumental performers.",
+  "candidates": [
+    "Quartet",
+    "Quartet (1948 film)",
+    "Quartet (2012 film)",
+    "Quartet (Ultravox album)",
+    "Quartet (novel)",
+    "Quartet San Francisco",
+    "Quartet on the Middle East",
+    "Quartetto Gelato",
+    "Quartetto Italiano",
+    "Quartettsatz, D 703 (Schubert)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Quartet",
+    "page_url": "https://en.wikipedia.org/wiki/Quartet",
+    "retrieved_at": "2026-03-28T16:00:06Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Street wind quartet, with trumpet and trombones. Dresden - 1396.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Street_wind_quartet,_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg/960px-Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+    "width": 4368,
+    "height": 2784,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Jorge Royan",
+    "attribution_text": "© Jorge Royan / \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.royan.com.ar\"\u003ehttp://www.royan.com.ar\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Street wind quartet, with trumpet and trombones. Dresden - 1396.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Street_wind_quartet,_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg/960px-Street_wind_quartet%2C_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+      "width": 4368,
+      "height": 2784,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Jorge Royan",
+      "attribution_text": "© Jorge Royan / \u003ca rel=\"nofollow\" class=\"external free\" href=\"http://www.royan.com.ar\"\u003ehttp://www.royan.com.ar\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:String quartet.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:String_quartet.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/String_quartet.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/String_quartet.JPG",
+      "width": 720,
+      "height": 479,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Pf1988\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Pf1988 (page does not exist)\"\u003ePf1988\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Style Quartet SPb.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Style_Quartet_SPb.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Style_Quartet_SPb.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Style_Quartet_SPb.jpg/960px-Style_Quartet_SPb.jpg",
+      "width": 9481,
+      "height": 5760,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Даниил Рабовский / Daniil Rabovsky"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--quartet.json",
+      "url": "https://en.wikipedia.org/wiki/Quartet",
+      "retrieved_at": "2026-03-28T16:00:06Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--quartet.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Street_wind_quartet,_with_trumpet_and_trombones._Dresden_-_1396.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

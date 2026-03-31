@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "vox",
+  "display_title": "Vox",
+  "display_name": "Vox",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "VOX (German TV channel)",
+    "Vox",
+    "Vox (company)",
+    "Vox (political party)",
+    "Vox (website)",
+    "Vox Clamantis",
+    "Vox Day",
+    "Vox Media",
+    "Vox-ATypI classification",
+    "Voxel"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

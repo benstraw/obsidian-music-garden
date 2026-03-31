@@ -6,7 +6,8 @@
   "aliases": [
     "power pop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Power pop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Power_pop",
@@ -87,19 +88,20 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 3,
+    "play_count": 4,
     "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-13T23:51:29.373Z",
+    "unique_release_count": 2,
+    "unique_track_count": 2,
+    "first_played_at": "2024-01-01T00:00:00.55402905Z",
     "last_played_at": "2026-03-14T18:12:15.736Z"
   },
   "top_artists": [
     {
       "canonical_slug": "elvis-costello-and-the-attractions",
       "name": "Elvis Costello \u0026 The Attractions",
-      "play_count": 3,
+      "play_count": 4,
       "spotify_artist_id": "4qmHkMxr6pTWh5Zo74odpH",
+      "musicbrainz_artist_id": "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
       "spotify_url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
     }
   ],
@@ -109,7 +111,18 @@
       "name": "Armed Forces (Remastered 2020)",
       "play_count": 3,
       "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
-      "primary_artist_name": "Elvis Costello \u0026 The Attractions"
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "spotify_album_id": "5w3q6GZbw0gsAtvl1c0rmu"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--almost-blue",
+      "name": "Almost Blue",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "spotify_album_id": "6Y234kkXewBp0CjanUQW3w",
+      "musicbrainz_release_id": "f4388003-dfc7-4ce3-9838-9174e2db49e3",
+      "musicbrainz_release_group_id": "d0e85992-d58f-3e33-b25c-47a6313164e5"
     }
   ],
   "top_tracks": [
@@ -123,6 +136,17 @@
       "release_name": "Armed Forces (Remastered 2020)",
       "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
       "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--good-year-for-the-roses",
+      "name": "Good Year For The Roses",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--almost-blue",
+      "release_name": "Almost Blue",
+      "spotify_track_id": "4RZCoFsZHw9XvDZdv2jtkK",
+      "spotify_url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
     }
   ],
   "source_refs": [
@@ -131,6 +155,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

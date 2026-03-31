@@ -6,7 +6,8 @@
   "aliases": [
     "uk garage"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "UK garage",
   "wikipedia_url": "https://en.wikipedia.org/wiki/UK_garage",
@@ -27,36 +28,77 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 4,
-    "unique_artist_count": 1,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-21T17:29:44.871Z",
+    "play_count": 10,
+    "unique_artist_count": 2,
+    "unique_release_count": 5,
+    "unique_track_count": 7,
+    "first_played_at": "2024-01-01T00:00:00.491018599Z",
     "last_played_at": "2026-03-21T18:24:13.598Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "dillard",
+      "name": "Dillard",
+      "play_count": 6,
+      "spotify_artist_id": "5nAvegaN5UuHkKfAo9a2kq",
+      "musicbrainz_artist_id": "43db7554-f047-4f39-bd15-47a9aa235970",
+      "spotify_url": "https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq"
+    },
     {
       "canonical_slug": "tonez",
       "name": "Tonez",
       "play_count": 4,
       "spotify_artist_id": "5pvsRwXcUfr3oUVVbgrv5P",
+      "musicbrainz_artist_id": "7a07fe60-7183-474f-a147-8b8388717393",
       "spotify_url": "https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "dillard--afterlife-lp",
+      "name": "Afterlife LP",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "spotify_album_id": "73vOuqvQHY2dc1PejsEa69",
+      "musicbrainz_release_id": "cce7cd6d-e4f1-4fd2-8898-97e948e3fc59",
+      "musicbrainz_release_group_id": "f7eabcf1-3c1d-4bcd-aa07-2bb3c22677b9"
+    },
+    {
       "canonical_slug": "tonez--fade",
       "name": "Fade",
       "play_count": 2,
       "primary_artist_canonical_slug": "tonez",
-      "primary_artist_name": "Tonez"
+      "primary_artist_name": "Tonez",
+      "spotify_album_id": "7c8uerKlVKWJLDjgBqST7e"
+    },
+    {
+      "canonical_slug": "dillard--palm-skyline",
+      "name": "Palm Skyline",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "spotify_album_id": "1W8e7MPKUmbFFOPoSKI6OT",
+      "musicbrainz_release_id": "838eb5a1-3577-4dbf-9079-715fa94ab8b0",
+      "musicbrainz_release_group_id": "e7b09874-6aa4-4087-b585-c1742902c914"
     },
     {
       "canonical_slug": "tonez--thiccfreqness-remixed-vol-1",
       "name": "Thiccfreqness Remixed Vol. 1",
       "play_count": 2,
       "primary_artist_canonical_slug": "tonez",
-      "primary_artist_name": "Tonez"
+      "primary_artist_name": "Tonez",
+      "spotify_album_id": "6EzRPIpClM4Y4zrokWPd8H"
+    },
+    {
+      "canonical_slug": "dillard--empress-lp",
+      "name": "Empress LP",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "spotify_album_id": "3I8npjpGjb78cPw4k0kU1z",
+      "musicbrainz_release_id": "43501949-47bc-4e16-899a-59bd002aee1a",
+      "musicbrainz_release_group_id": "98d03ca8-f88d-4c4d-8ab2-6e1cdb5bb94a"
     }
   ],
   "top_tracks": [
@@ -81,6 +123,61 @@
       "release_name": "Thiccfreqness Remixed Vol. 1",
       "spotify_track_id": "4qDNBFq7x89GHic0pGg1BA",
       "spotify_url": "https://open.spotify.com/track/4qDNBFq7x89GHic0pGg1BA"
+    },
+    {
+      "canonical_slug": "dillard--leap",
+      "name": "Leap",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "release_canonical_slug": "dillard--afterlife-lp",
+      "release_name": "Afterlife LP",
+      "spotify_track_id": "7ov0GugnJJERNK6hQfAa5e",
+      "spotify_url": "https://open.spotify.com/track/7ov0GugnJJERNK6hQfAa5e"
+    },
+    {
+      "canonical_slug": "dillard--chasing",
+      "name": "Chasing",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "release_canonical_slug": "dillard--empress-lp",
+      "release_name": "Empress LP",
+      "spotify_track_id": "4t6hiUlNpKTkZnMANraPpW",
+      "spotify_url": "https://open.spotify.com/track/4t6hiUlNpKTkZnMANraPpW"
+    },
+    {
+      "canonical_slug": "dillard--needed-you",
+      "name": "Needed You",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "release_canonical_slug": "dillard--palm-skyline",
+      "release_name": "Palm Skyline",
+      "spotify_track_id": "40fWpFkRvRJU3Gvy75SLRN",
+      "spotify_url": "https://open.spotify.com/track/40fWpFkRvRJU3Gvy75SLRN"
+    },
+    {
+      "canonical_slug": "dillard--neural-net",
+      "name": "Neural Net",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "release_canonical_slug": "dillard--afterlife-lp",
+      "release_name": "Afterlife LP",
+      "spotify_track_id": "41G3eYZhncCJ4bAGbC5d7Q",
+      "spotify_url": "https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q"
+    },
+    {
+      "canonical_slug": "dillard--regeneration",
+      "name": "Regeneration",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "dillard",
+      "primary_artist_name": "Dillard",
+      "release_canonical_slug": "dillard--palm-skyline",
+      "release_name": "Palm Skyline",
+      "spotify_track_id": "4BaKK8aHzj4KZIn1QJn3Gb",
+      "spotify_url": "https://open.spotify.com/track/4BaKK8aHzj4KZIn1QJn3Gb"
     }
   ],
   "source_refs": [
@@ -89,6 +186,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

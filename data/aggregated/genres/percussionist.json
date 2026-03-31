@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "percussionist",
+  "display_title": "Percussionist",
+  "display_name": "Percussionist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Percussion instrument",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Percussion_instrument",
+  "summary": "A percussion instrument is a musical instrument that is sounded by being struck or scraped by a beater including attached or enclosed beaters or rattles struck, scraped or rubbed by hand or struck against another similar instrument. Excluding zoomusicological instruments and the human voice, the percussion family is believed to include the oldest musical instruments. In spite of being a very common term to designate instruments, and to relate them to their players, the percussionists, percussion is not a systematic classificatory category of instruments, as described by the scientific field of organology. It is shown below that percussion instruments may belong to the organological classes of idiophone, membranophone, aerophone and chordophone.",
+  "candidates": [
+    "Les Percussions de Guinée",
+    "Percussion Summit",
+    "Percussion at Work",
+    "Percussion instrument technique",
+    "Percussion section",
+    "Percussion stick",
+    "Percussion stone",
+    "Percussionist",
+    "Perfusionist",
+    "The Persuasionists"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Percussion instrument",
+    "page_url": "https://en.wikipedia.org/wiki/Percussion_instrument",
+    "retrieved_at": "2026-03-28T15:59:15Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/2010Jul1-PercussionByVernBarber.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2010Jul1-PercussionByVernBarber.JPG/330px-2010Jul1-PercussionByVernBarber.JPG",
+    "width": 4288,
+    "height": 2848
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--percussionist.json",
+      "url": "https://en.wikipedia.org/wiki/Percussion_instrument",
+      "retrieved_at": "2026-03-28T15:59:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--percussionist.json",
+      "url": "https://en.wikipedia.org/wiki/Percussion_instrument",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

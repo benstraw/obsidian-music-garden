@@ -1,0 +1,31 @@
+{
+  "canonical_slug": "spanish-guitar",
+  "display_title": "Spanish Guitar",
+  "display_name": "Spanish Guitar",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "For a Spanish Guitar",
+    "Spanish Guardia Civil",
+    "Spanish Guiana",
+    "Spanish Guitar (song)",
+    "Spanish guitar"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

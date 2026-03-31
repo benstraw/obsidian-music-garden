@@ -1,0 +1,134 @@
+{
+  "canonical_slug": "san-francisco",
+  "display_title": "San Francisco",
+  "display_name": "San Francisco",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "San Francisco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/San_Francisco",
+  "summary": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 827,526 in 2024. Among U.S. cities with a population of 300,000 or more, San Francisco is ranked first by per capita income, second by population density, and sixth by aggregate income as of 2023. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States.",
+  "candidates": [
+    "San Francisco",
+    "San Francisco 49ers",
+    "San Francisco Ballet",
+    "San Francisco Bay Area",
+    "San Francisco Giants",
+    "San Francisco International Airport",
+    "San Francisco State University",
+    "San Francisco Unified School District",
+    "San Francisco cable car system",
+    "San Francisco–Oakland Bay Bridge"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "San Francisco",
+    "page_url": "https://en.wikipedia.org/wiki/San_Francisco",
+    "retrieved_at": "2026-03-28T16:00:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:2017 SFMOMA from Yerba Buena Gardens.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/960px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+    "width": 3034,
+    "height": 2244,
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Beyond_My_Ken\" class=\"mw-redirect\" title=\"User:Beyond My Ken\"\u003eBeyond My Ken\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2017 SFMOMA from Yerba Buena Gardens.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2017_SFMOMA_from_Yerba_Buena_Gardens.jpg/960px-2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+      "width": 3034,
+      "height": 2244,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Beyond_My_Ken\" class=\"mw-redirect\" title=\"User:Beyond My Ken\"\u003eBeyond My Ken\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:2019 San Francisco Carnaval Grand Parade 431 (49490263633) (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:2019_San_Francisco_Carnaval_Grand_Parade_431_(49490263633)_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/2019_San_Francisco_Carnaval_Grand_Parade_431_%2849490263633%29_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2019_San_Francisco_Carnaval_Grand_Parade_431_%2849490263633%29_%28cropped%29.jpg/960px-2019_San_Francisco_Carnaval_Grand_Parade_431_%2849490263633%29_%28cropped%29.jpg",
+      "width": 4323,
+      "height": 2683,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/17281186@N00\"\u003eCarnaval.com Studios\u003c/a\u003e from The Inner Mission San Francisco, Earth"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:A view of Yerba Buena (San Francisco). On July 9, 1846, Capt. Montgomery of the Sloop of War Portsmouth, raised the American Flag in the plaza and seized the region of the United States LCCN2004666425.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:A_view_of_Yerba_Buena_(San_Francisco)._On_July_9,_1846,_Capt._Montgomery_of_the_Sloop_of_War_Portsmouth,_raised_the_American_Flag_in_the_plaza_and_seized_the_region_of_the_United_States_LCCN2004666425.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/A_view_of_Yerba_Buena_%28San_Francisco%29._On_July_9%2C_1846%2C_Capt._Montgomery_of_the_Sloop_of_War_Portsmouth%2C_raised_the_American_Flag_in_the_plaza_and_seized_the_region_of_the_United_States_LCCN2004666425.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/A_view_of_Yerba_Buena_%28San_Francisco%29._On_July_9%2C_1846%2C_Capt._Montgomery_of_the_Sloop_of_War_Portsmouth%2C_raised_the_American_Flag_in_the_plaza_and_seized_the_region_of_the_United_States_LCCN2004666425.jpg/960px-thumbnail.jpg",
+      "width": 5776,
+      "height": 4208,
+      "license": "Public domain",
+      "author": "Popular Graphic Arts"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aerial view - Presidio-whole.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_-_Presidio-whole.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Aerial_view_-_Presidio-whole.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Aerial_view_-_Presidio-whole.jpg",
+      "width": 720,
+      "height": 480,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.chamoismoon.com/\"\u003eRobert Campbell\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aerial view of San Francisco, 30 Jun 2018 (cropped).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_San_Francisco,_30_Jun_2018_(cropped).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Aerial_view_of_San_Francisco%2C_30_Jun_2018_%28cropped%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Aerial_view_of_San_Francisco%2C_30_Jun_2018_%28cropped%29.jpg/960px-Aerial_view_of_San_Francisco%2C_30_Jun_2018_%28cropped%29.jpg",
+      "width": 2490,
+      "height": 1938,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:The_wub\" title=\"User:The wub\"\u003eThe wub\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--san-francisco.json",
+      "url": "https://en.wikipedia.org/wiki/San_Francisco",
+      "retrieved_at": "2026-03-28T16:00:34Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--san-francisco.json",
+      "url": "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,109 @@
+{
+  "canonical_slug": "punk-blues",
+  "display_title": "Punk Blues",
+  "display_name": "Punk Blues",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Punk blues",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Punk_blues",
+  "summary": "Punk blues is a music genre that mixes elements of punk rock and blues. Punk blues musicians and bands usually incorporate elements of related styles, such as protopunk and blues rock. Its origins lie strongly within the garage rock sound of the 1960s and 1970s.",
+  "candidates": [
+    "List of punk blues musicians and bands",
+    "Pink Blue Plate",
+    "Pink Blues",
+    "Pink-blue reversal",
+    "Pony Blues",
+    "Punk Bites 2",
+    "Punk blues",
+    "PunkBuster",
+    "Punky Bruester",
+    "The Pink Blueprint"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Punk blues",
+    "page_url": "https://en.wikipedia.org/wiki/Punk_blues",
+    "retrieved_at": "2026-03-28T16:00:04Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Guit Blues.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+    "width": 159,
+    "height": 161,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Guit Blues.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Guit_Blues.JPG",
+      "width": 159,
+      "height": 161,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jon Spencer 2006.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jon_Spencer_2006.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jon_Spencer_2006.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jon_Spencer_2006.jpg",
+      "width": 259,
+      "height": 391,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/bartjanvanvugt/\"\u003eBart Jan van Vugt\u003c/a\u003e on \u003ca href=\"//commons.wikimedia.org/wiki/Flickr\" class=\"mw-redirect\" title=\"Flickr\"\u003eFlickr\u003c/a\u003e, from     Antwerp, Belgium"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:PJ Harvey.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:PJ_Harvey.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/PJ_Harvey.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/PJ_Harvey.jpg/960px-PJ_Harvey.jpg",
+      "width": 1026,
+      "height": 832,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/davemitchell/\"\u003eDave Mitchell (Plastic Jesus)\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--punk-blues.json",
+      "url": "https://en.wikipedia.org/wiki/Punk_blues",
+      "retrieved_at": "2026-03-28T16:00:04Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--punk-blues.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Guit_Blues.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

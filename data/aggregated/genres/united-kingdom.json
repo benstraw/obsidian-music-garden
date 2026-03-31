@@ -1,0 +1,137 @@
+{
+  "canonical_slug": "united-kingdom",
+  "display_title": "United Kingdom",
+  "display_name": "United Kingdom",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "United Kingdom",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/United_Kingdom",
+  "summary": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376 km2). It shares a land border with the Republic of Ireland and is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea, while maintaining sovereignty over the Crown Dependencies and the British Overseas Territories. The capital and largest city of England and the UK is London; Edinburgh, Cardiff and Belfast are the national capitals of Scotland, Wales and Northern Ireland.",
+  "candidates": [
+    "2011 United Kingdom Alternative Vote referendum",
+    "2024 United Kingdom riots",
+    "List of prime ministers of the United Kingdom",
+    "September 2022 United Kingdom mini-budget",
+    "United Kingdom",
+    "United Kingdom football sexual abuse scandal",
+    "United Kingdom in the Eurovision Song Contest",
+    "United Kingdom of Great Britain and Ireland",
+    "United Kingdom parliamentary expenses scandal",
+    "United Kingdom–United States relations"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "United Kingdom",
+    "page_url": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "retrieved_at": "2026-03-28T16:01:52Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:An LNER Azuma train on the East Coast Railway Line, geograph 6275180 by Walter Baxter.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:An_LNER_Azuma_train_on_the_East_Coast_Railway_Line,_geograph_6275180_by_Walter_Baxter.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg/960px-An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg",
+    "width": 1024,
+    "height": 686,
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Walter Baxter",
+    "attribution_text": "Walter Baxter"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:An LNER Azuma train on the East Coast Railway Line, geograph 6275180 by Walter Baxter.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:An_LNER_Azuma_train_on_the_East_Coast_Railway_Line,_geograph_6275180_by_Walter_Baxter.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg/960px-An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg",
+      "width": 1024,
+      "height": 686,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Walter Baxter",
+      "attribution_text": "Walter Baxter"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Angel of the North - 6150534524.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Angel_of_the_North_-_6150534524.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Angel_of_the_North_-_6150534524.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Angel_of_the_North_-_6150534524.jpg/960px-Angel_of_the_North_-_6150534524.jpg",
+      "width": 1600,
+      "height": 931,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Barly.."
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anglophone World.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Anglophone_World.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Anglophone_World.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Anglophone_World.svg/960px-Anglophone_World.svg.png",
+      "width": 1920,
+      "height": 974,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:M.Bitton\" class=\"mw-redirect\" title=\"User:M.Bitton\"\u003eM.Bitton\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ardrossan's fan club. - panoramio.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ardrossan%27s_fan_club._-_panoramio.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ardrossan%27s_fan_club._-_panoramio.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ardrossan%27s_fan_club._-_panoramio.jpg/960px-Ardrossan%27s_fan_club._-_panoramio.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161019205639/http://www.panoramio.com/user/6055616?with_photo_id=65449390\"\u003egrumpylumixuser\u003c/a\u003e",
+      "attribution_text": "grumpylumixuser"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Articles of Union between England and Scotland 28 Jan 1707.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png/960px-Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png",
+      "width": 1387,
+      "height": 1730,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/Parliament_of_England\" class=\"extiw\" title=\"en:Parliament of England\"\u003eParliament of England\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--united-kingdom.json",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "retrieved_at": "2026-03-28T16:01:52Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--united-kingdom.json",
+      "url": "https://commons.wikimedia.org/wiki/File:An_LNER_Azuma_train_on_the_East_Coast_Railway_Line,_geograph_6275180_by_Walter_Baxter.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

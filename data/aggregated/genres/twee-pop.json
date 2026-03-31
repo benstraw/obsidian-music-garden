@@ -1,0 +1,111 @@
+{
+  "canonical_slug": "twee-pop",
+  "display_title": "Twee Pop",
+  "display_name": "Twee Pop",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Twee pop",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Twee_pop",
+  "summary": "Twee pop is a subgenre of indie pop that originally emerged in the United Kingdom during the mid-to late 1980s. The style has been described as \"excessively or affectedly quaint, pretty, or sentimental\" and initially rose to prominence through the NME's C86 cassette compilation, with AllMusic describing twee as \"simplicity and innocence\" as well as \"boy-girl harmonies, lovelorn lyrics, infectious melodies, and simple, unaffected performances\".",
+  "candidates": [
+    "Teen pop",
+    "The Pop Group",
+    "The Pop Out: Ken \u0026 Friends",
+    "The Pope's Exorcist",
+    "The Popeye Show",
+    "The Popinjay Cavalier",
+    "The Poppy War",
+    "The Population Bomb",
+    "The Two Popes",
+    "Twee pop"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Twee pop",
+    "page_url": "https://en.wikipedia.org/wiki/Twee_pop",
+    "retrieved_at": "2026-03-28T16:01:47Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Heavenly indie 1994.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Heavenly_indie_1994.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Heavenly_indie_1994.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heavenly_indie_1994.jpg/960px-Heavenly_indie_1994.jpg",
+    "width": 1428,
+    "height": 1017,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Greg Neate"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Heavenly indie 1994.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Heavenly_indie_1994.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Heavenly_indie_1994.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Heavenly_indie_1994.jpg/960px-Heavenly_indie_1994.jpg",
+      "width": 1428,
+      "height": 1017,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Greg Neate"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Stephen Pastel, Bearsden, 1982.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Stephen_Pastel,_Bearsden,_1982.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Stephen_Pastel%2C_Bearsden%2C_1982.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Stephen_Pastel%2C_Bearsden%2C_1982.jpg",
+      "width": 350,
+      "height": 503,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Alan_Dimmick\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Alan Dimmick (page does not exist)\"\u003eAlan Dimmick\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Television Personalities (5363667797).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Television_Personalities_(5363667797).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Television_Personalities_%285363667797%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Television_Personalities_%285363667797%29.jpg/960px-Television_Personalities_%285363667797%29.jpg",
+      "width": 2779,
+      "height": 1821,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/45489981@N00\"\u003eMasao Nakagami\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--twee-pop.json",
+      "url": "https://en.wikipedia.org/wiki/Twee_pop",
+      "retrieved_at": "2026-03-28T16:01:47Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--twee-pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Heavenly_indie_1994.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

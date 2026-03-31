@@ -1,0 +1,135 @@
+{
+  "canonical_slug": "world",
+  "display_title": "World",
+  "display_name": "World",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "World",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/World",
+  "summary": "The world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique, while others talk of a \"plurality of worlds\". Some treat the world as one simple object, while others analyze the world as a complex made up of parts.",
+  "candidates": [
+    "World",
+    "World Government (One Piece)",
+    "World Health Organization",
+    "World Trade Center (1973–2001)",
+    "World War I",
+    "World War II",
+    "World War III",
+    "World Wide Web",
+    "World of Warcraft",
+    "World population"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "World",
+    "page_url": "https://en.wikipedia.org/wiki/World",
+    "retrieved_at": "2026-03-28T16:02:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Aegopodium podagraria1 ies.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+    "width": 800,
+    "height": 700,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Frank Vincentz"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aegopodium podagraria1 ies.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+      "width": 800,
+      "height": 700,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Frank Vincentz"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Africa (orthographic projection).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Africa_(orthographic_projection).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Africa_%28orthographic_projection%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/960px-Africa_%28orthographic_projection%29.svg.png",
+      "width": 600,
+      "height": 600,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Martin23230\" title=\"User talk:Martin23230\"\u003eMartin23230\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Afro-Eurasia (orthographic projection) political.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Afro-Eurasia_(orthographic_projection)_political.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Afro-Eurasia_%28orthographic_projection%29_political.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Afro-Eurasia_%28orthographic_projection%29_political.svg/960px-Afro-Eurasia_%28orthographic_projection%29_political.svg.png",
+      "width": 550,
+      "height": 550,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Keepscases\" title=\"User talk:Keepscases\"\u003eKeepscases\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Americas (orthographic projection).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Americas_(orthographic_projection).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Americas_%28orthographic_projection%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/960px-Americas_%28orthographic_projection%29.svg.png",
+      "width": 550,
+      "height": 550,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Martin23230\" title=\"User talk:Martin23230\"\u003eMartin23230\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Antarctica (orthographic projection).svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Antarctica_(orthographic_projection).svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Antarctica_%28orthographic_projection%29.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/960px-Antarctica_%28orthographic_projection%29.svg.png",
+      "width": 537,
+      "height": 536,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003cb\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:Heraldry\" title=\"User:Heraldry\"\u003e\u003cspan style=\"font-size:medium; font-family:vivaldi; color:black;\"\u003eHeraldry\u003c/span\u003e\u003c/a\u003e\u003c/b\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--world.json",
+      "url": "https://en.wikipedia.org/wiki/World",
+      "retrieved_at": "2026-03-28T16:02:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--world.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Aegopodium_podagraria1_ies.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

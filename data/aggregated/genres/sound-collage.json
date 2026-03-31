@@ -1,0 +1,47 @@
+{
+  "canonical_slug": "sound-collage",
+  "display_title": "Sound Collage",
+  "display_name": "Sound Collage",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Sound collage",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sound_collage",
+  "summary": "In music, montage or sound collage is a technique where newly branded sound objects or compositions, including songs, are created from collage, also known as musique concrète. This is often done through the use of sampling, while some sound collages are produced by gluing together sectors of different vinyl records. Like its visual cousin, sound collage works may have a completely different effect than that of the component parts, even if the original parts are recognizable or from a single source. Audio collage was a feature of the audio art of John Cage, Fluxus, postmodern hip-hop and postconceptual digital art.",
+  "candidates": [
+    "SoulCollage",
+    "Sound Collective",
+    "Sound collage"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Sound collage",
+    "page_url": "https://en.wikipedia.org/wiki/Sound_collage",
+    "retrieved_at": "2026-03-28T16:01:02Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--sound-collage.json",
+      "url": "https://en.wikipedia.org/wiki/Sound_collage",
+      "retrieved_at": "2026-03-28T16:01:02Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

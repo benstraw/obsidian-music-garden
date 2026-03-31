@@ -6,7 +6,8 @@
   "aliases": [
     "yacht rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Yacht rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Yacht_rock",
@@ -31,50 +32,208 @@
   },
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 2,
-    "unique_artist_count": 2,
-    "unique_release_count": 2,
-    "unique_track_count": 2,
-    "first_played_at": "2026-03-03T02:11:03.432Z",
-    "last_played_at": "2026-03-03T15:27:14.275Z"
+    "play_count": 92,
+    "unique_artist_count": 13,
+    "unique_release_count": 37,
+    "unique_track_count": 79,
+    "first_played_at": "2024-01-01T00:00:00.145983296Z",
+    "last_played_at": "2026-03-28T23:51:27.876Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "steely-dan",
+      "name": "Steely Dan",
+      "play_count": 49,
+      "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
+      "musicbrainz_artist_id": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+      "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+    },
+    {
+      "canonical_slug": "america",
+      "name": "America",
+      "play_count": 8,
+      "spotify_artist_id": "35U9lQaRWSQISxQAB94Meo",
+      "spotify_url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+    },
+    {
       "canonical_slug": "fleetwood-mac",
       "name": "Fleetwood Mac",
-      "play_count": 1,
+      "play_count": 8,
       "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+      "musicbrainz_artist_id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
       "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
     },
     {
-      "canonical_slug": "steely-dan",
-      "name": "Steely Dan",
-      "play_count": 1,
-      "spotify_artist_id": "6P7H3ai06vU1sGvdpBwDmE",
-      "spotify_url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+      "canonical_slug": "crosby-stills-and-nash",
+      "name": "Crosby, Stills \u0026 Nash",
+      "play_count": 7,
+      "spotify_artist_id": "2pdvghEHZJtgSXZ7cvNLou",
+      "spotify_url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+    },
+    {
+      "canonical_slug": "daryl-hall-and-john-oates",
+      "name": "Daryl Hall \u0026 John Oates",
+      "play_count": 4,
+      "spotify_artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+      "spotify_url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+    },
+    {
+      "canonical_slug": "jackson-browne",
+      "name": "Jackson Browne",
+      "play_count": 4,
+      "spotify_artist_id": "5lkiCO9UQ8B23dZ1o0UV4m",
+      "musicbrainz_artist_id": "88527d26-7496-47c5-8358-ebdb1868a90f",
+      "spotify_url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+    },
+    {
+      "canonical_slug": "ambrosia",
+      "name": "Ambrosia",
+      "play_count": 3,
+      "spotify_artist_id": "0J2Ej2rMQyqaUX3G6MUISw",
+      "spotify_url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+    },
+    {
+      "canonical_slug": "gerry-rafferty",
+      "name": "Gerry Rafferty",
+      "play_count": 2,
+      "spotify_artist_id": "7tjbDPvrdvDshcpEMXKRVb",
+      "spotify_url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+    },
+    {
+      "canonical_slug": "gordon-lightfoot",
+      "name": "Gordon Lightfoot",
+      "play_count": 2,
+      "spotify_artist_id": "23rleGXVOVVgTk3xgtmfE4",
+      "spotify_url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+    },
+    {
+      "canonical_slug": "seals-and-crofts",
+      "name": "Seals and Crofts",
+      "play_count": 2,
+      "spotify_artist_id": "6jdObwsrIjSRnBbMw6lPBj",
+      "spotify_url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
     }
   ],
   "top_releases": [
     {
       "canonical_slug": "steely-dan--can-t-buy-a-thrill",
       "name": "Can't Buy A Thrill",
-      "play_count": 1,
+      "play_count": 10,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "spotify_album_id": "6DlSUW5gmq6Byc3osKDJ2p",
+      "musicbrainz_release_id": "91975b77-c9f2-46d1-a03b-f1fffbda1d1c",
+      "musicbrainz_release_group_id": "9d73a864-2976-3286-b6c1-8aabc7407737"
+    },
+    {
+      "canonical_slug": "steely-dan--countdown-to-ecstasy",
+      "name": "Countdown To Ecstasy",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "spotify_album_id": "1oOpgDzHt6wl7kHbFFPzEc",
+      "musicbrainz_release_id": "da3e8221-1d4b-4c99-96ef-8a984c3183ee",
+      "musicbrainz_release_group_id": "33726877-dd41-301b-9f1e-498ebbadc7d8"
+    },
+    {
+      "canonical_slug": "steely-dan--pretzel-logic",
+      "name": "Pretzel Logic",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "spotify_album_id": "4XfN871nBIz6obaUDEzZXm",
+      "musicbrainz_release_id": "996bae7d-1c12-3037-ad98-39ecf92451df",
+      "musicbrainz_release_group_id": "5c938587-b4cd-3d6c-9f9e-a87492a2c9de"
+    },
+    {
+      "canonical_slug": "steely-dan--aja",
+      "name": "Aja",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan"
+    },
+    {
+      "canonical_slug": "steely-dan--gaucho",
+      "name": "Gaucho",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan"
+    },
+    {
+      "canonical_slug": "america--america",
+      "name": "America",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "america",
+      "primary_artist_name": "America"
+    },
+    {
+      "canonical_slug": "crosby-stills-and-nash--crosby-stills-and-nash",
+      "name": "Crosby, Stills \u0026 Nash",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "crosby-stills-and-nash",
+      "primary_artist_name": "Crosby, Stills \u0026 Nash"
+    },
+    {
+      "canonical_slug": "steely-dan--katy-lied",
+      "name": "Katy Lied",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan"
+    },
+    {
+      "canonical_slug": "steely-dan--the-royal-scam-2025-remaster",
+      "name": "The Royal Scam (2025 Remaster)",
+      "play_count": 4,
       "primary_artist_canonical_slug": "steely-dan",
       "primary_artist_name": "Steely Dan"
     },
     {
       "canonical_slug": "fleetwood-mac--rumours-super-deluxe",
       "name": "Rumours (Super Deluxe)",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "fleetwood-mac",
-      "primary_artist_name": "Fleetwood Mac"
+      "primary_artist_name": "Fleetwood Mac",
+      "spotify_album_id": "0BwWUstDMUbgq2NYONRqlu"
     }
   ],
   "top_tracks": [
     {
+      "canonical_slug": "steely-dan--any-major-dude-will-tell-you",
+      "name": "Any Major Dude Will Tell You",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--pretzel-logic",
+      "release_name": "Pretzel Logic",
+      "spotify_track_id": "1u42hFacJ1Bs8H9GX2O8z3",
+      "spotify_url": "https://open.spotify.com/track/1u42hFacJ1Bs8H9GX2O8z3"
+    },
+    {
+      "canonical_slug": "steely-dan--do-it-again",
+      "name": "Do It Again",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--can-t-buy-a-thrill",
+      "release_name": "Can't Buy A Thrill",
+      "spotify_track_id": "2LXISHBkx8FyoxCBkckh19",
+      "spotify_url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "canonical_slug": "steely-dan--my-old-school",
+      "name": "My Old School",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--countdown-to-ecstasy",
+      "release_name": "Countdown To Ecstasy",
+      "spotify_track_id": "3FpKXPOG2FqB3QzmfafG1H",
+      "spotify_url": "https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H"
+    },
+    {
       "canonical_slug": "steely-dan--dirty-work",
       "name": "Dirty Work",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "steely-dan",
       "primary_artist_name": "Steely Dan",
       "release_canonical_slug": "steely-dan--can-t-buy-a-thrill",
@@ -85,13 +244,68 @@
     {
       "canonical_slug": "fleetwood-mac--dreams-2004-remaster",
       "name": "Dreams - 2004 Remaster",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "fleetwood-mac",
       "primary_artist_name": "Fleetwood Mac",
       "release_canonical_slug": "fleetwood-mac--rumours-super-deluxe",
       "release_name": "Rumours (Super Deluxe)",
       "spotify_track_id": "0ofHAoxe9vBkTCp2UQIavz",
       "spotify_url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
+    },
+    {
+      "canonical_slug": "daryl-hall-and-john-oates--fall-in-philadelphia",
+      "name": "Fall in Philadelphia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "daryl-hall-and-john-oates",
+      "primary_artist_name": "Daryl Hall \u0026 John Oates",
+      "release_canonical_slug": "daryl-hall-and-john-oates--whole-oats",
+      "release_name": "Whole Oats",
+      "spotify_track_id": "4JsRR4poQA4L4hpe7fB8P9",
+      "spotify_url": "https://open.spotify.com/track/4JsRR4poQA4L4hpe7fB8P9"
+    },
+    {
+      "canonical_slug": "crosby-stills-and-nash--helplessly-hoping-2005-remaster",
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "crosby-stills-and-nash",
+      "primary_artist_name": "Crosby, Stills \u0026 Nash",
+      "release_canonical_slug": "crosby-stills-and-nash--crosby-stills-and-nash-2",
+      "release_name": "Crosby, Stills \u0026 Nash",
+      "spotify_track_id": "1UKobFsdqNXQb8OthimCKe",
+      "spotify_url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--hypnotized",
+      "name": "Hypnotized",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "release_canonical_slug": "fleetwood-mac--mystery-to-me",
+      "release_name": "Mystery to Me",
+      "spotify_track_id": "1cHCG42MxckrXNFqyF8Uhr",
+      "spotify_url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--man-of-the-world-1998-remaster",
+      "name": "Man of the World - 1998 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "release_canonical_slug": "fleetwood-mac--men-of-the-world-the-early-years",
+      "release_name": "Men of the World: The Early Years",
+      "spotify_track_id": "6fnZKO6nWl3elfvT11j5Mn",
+      "spotify_url": "https://open.spotify.com/track/6fnZKO6nWl3elfvT11j5Mn"
+    },
+    {
+      "canonical_slug": "steely-dan--only-a-fool-would-say-that",
+      "name": "Only A Fool Would Say That",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "steely-dan",
+      "primary_artist_name": "Steely Dan",
+      "release_canonical_slug": "steely-dan--can-t-buy-a-thrill",
+      "release_name": "Can't Buy A Thrill",
+      "spotify_track_id": "7GVvj4zJNVuBJSl6StEfn5",
+      "spotify_url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5"
     }
   ],
   "source_refs": [
@@ -100,6 +314,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -114,9 +334,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T15:27:14.275Z",
+      "updated_at": "2026-03-28T23:51:27.876Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28T23:51:27.876Z"
 }

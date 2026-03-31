@@ -6,7 +6,8 @@
   "aliases": [
     "southern rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Southern rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_rock",
@@ -92,42 +93,273 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-01T01:12:35.597Z",
-    "last_played_at": "2026-03-01T01:12:35.597Z"
+    "play_count": 68,
+    "unique_artist_count": 7,
+    "unique_release_count": 21,
+    "unique_track_count": 51,
+    "first_played_at": "2024-01-01T00:00:00.347214363Z",
+    "last_played_at": "2026-03-28T23:36:10.765Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "allman-brothers-band",
+      "name": "Allman Brothers Band",
+      "play_count": 22,
+      "spotify_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+      "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+      "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+    },
+    {
+      "canonical_slug": "blackberry-smoke",
+      "name": "Blackberry Smoke",
+      "play_count": 17,
+      "spotify_artist_id": "5P1oS9DUTPEqcrmXDmX4p8",
+      "musicbrainz_artist_id": "1576a26e-f77d-47ac-87f2-4f610c141ac6",
+      "spotify_url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+    },
+    {
       "canonical_slug": "little-feat",
       "name": "Little Feat",
-      "play_count": 1,
+      "play_count": 15,
       "spotify_artist_id": "0ZIwOAzDuGPspzK7yiTc4S",
+      "musicbrainz_artist_id": "9b106beb-12b5-4525-8025-42e295a2b90a",
       "spotify_url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+    },
+    {
+      "canonical_slug": "the-band",
+      "name": "The Band",
+      "play_count": 9,
+      "spotify_artist_id": "4vpDg7Y7fU982Ds30zawDA",
+      "spotify_url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+    },
+    {
+      "canonical_slug": "the-marshall-tucker-band",
+      "name": "The Marshall Tucker Band",
+      "play_count": 3,
+      "spotify_artist_id": "59QxeZBL6k9L4oJBGSyukd",
+      "spotify_url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
+    },
+    {
+      "canonical_slug": "atlanta-rhythm-section",
+      "name": "Atlanta Rhythm Section",
+      "play_count": 1,
+      "spotify_artist_id": "0WgyCbru4tXnMsbTmX4mFw",
+      "spotify_url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+    },
+    {
+      "canonical_slug": "the-doobie-brothers",
+      "name": "The Doobie Brothers",
+      "play_count": 1,
+      "spotify_artist_id": "39T6qqI0jDtSWWioX8eGJz",
+      "spotify_url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "name": "Where It All Begins",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "3OhZTb3unARrvpYc0STkFM",
+      "musicbrainz_release_id": "85950dc1-5e45-4504-816d-582106bf46b9",
+      "musicbrainz_release_group_id": "1acf4af2-3d72-3101-b722-282f94222007"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--the-whippoorwill",
+      "name": "The Whippoorwill",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "2jFnRLRUvsEfnmosLcwjCi",
+      "musicbrainz_release_id": "7fee4ee8-c94f-44d9-923b-36a87cdb2fd0",
+      "musicbrainz_release_group_id": "514a7c52-82e1-41bf-b270-adefb2bd5c6c"
+    },
+    {
       "canonical_slug": "little-feat--feats-don-t-fail-me-now",
       "name": "Feats Don't Fail Me Now",
-      "play_count": 1,
+      "play_count": 7,
       "primary_artist_canonical_slug": "little-feat",
-      "primary_artist_name": "Little Feat"
+      "primary_artist_name": "Little Feat",
+      "spotify_album_id": "5nflfddG6Tlrt2YiZhXJAD",
+      "musicbrainz_release_id": "aa786884-e79e-4eb2-8ca1-c5994f99baf2",
+      "musicbrainz_release_group_id": "0be2e12c-afe8-3439-ad0f-1167f9009114"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--eat-a-peach",
+      "name": "Eat A Peach",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "6D9I7GZsqc3pwDg3DFrtjs",
+      "musicbrainz_release_id": "7cb2fcca-3e69-4c95-9448-f9295d803e0c",
+      "musicbrainz_release_group_id": "0b1189ad-0bdf-34bc-89e4-ff05133ec51b"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--little-piece-of-dixie",
+      "name": "Little Piece of Dixie",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "2biYZTjJzWGHUhwABuQNfs",
+      "musicbrainz_release_id": "c53a2a16-b8c7-48ea-ba92-cc5c8f6924a1",
+      "musicbrainz_release_group_id": "2fcb62b5-0a70-4e9b-93df-694fa21189c3"
+    },
+    {
+      "canonical_slug": "the-band--music-from-big-pink-remastered",
+      "name": "Music From Big Pink (Remastered)",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "the-band",
+      "primary_artist_name": "The Band"
+    },
+    {
+      "canonical_slug": "the-band--northern-lights-southern-cross-expanded-edition",
+      "name": "Northern Lights-Southern Cross (Expanded Edition)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-band",
+      "primary_artist_name": "The Band"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--bad-luck-ain-t-no-crime",
+      "name": "Bad Luck Ain't No Crime",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "47E4mWqRTqSTgxX49hkGbb",
+      "musicbrainz_release_id": "74005ae4-4756-4f58-a409-9eab5730133b",
+      "musicbrainz_release_group_id": "0c0a29c1-2d2b-3804-a9d2-12c488d9dcc9"
+    },
+    {
+      "canonical_slug": "little-feat--dixie-chicken",
+      "name": "Dixie Chicken",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "little-feat",
+      "primary_artist_name": "Little Feat",
+      "spotify_album_id": "4xtCtXkGuTbHQwTaVd5FCF",
+      "musicbrainz_release_id": "58f8bc5a-795b-442f-815e-425a1e7668ff",
+      "musicbrainz_release_group_id": "42099734-1f34-30d4-bec8-413fe7bb34cd"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--like-an-arrow",
+      "name": "Like an Arrow",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "4r0Zb1FdEFbpF5olm5ZIW0",
+      "musicbrainz_release_id": "e58d1e19-4197-45f1-8af5-0bc136fdab9c",
+      "musicbrainz_release_group_id": "bcc43a9d-785b-4050-a354-6c330ee9dc0e"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "little-feat--spanish-moon",
       "name": "Spanish Moon",
-      "play_count": 1,
+      "play_count": 4,
       "primary_artist_canonical_slug": "little-feat",
       "primary_artist_name": "Little Feat",
       "release_canonical_slug": "little-feat--feats-don-t-fail-me-now",
       "release_name": "Feats Don't Fail Me Now",
       "spotify_track_id": "24eRthJ3VWBI7B9cuFBdMG",
       "spotify_url": "https://open.spotify.com/track/24eRthJ3VWBI7B9cuFBdMG"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--don-t-want-you-no-more",
+      "name": "Don't Want You No More",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--the-allman-brothers-band-deluxe",
+      "release_name": "The Allman Brothers Band (Deluxe)",
+      "spotify_track_id": "7t51PlWUNcJQ9E2LJKRpH7",
+      "spotify_url": "https://open.spotify.com/track/7t51PlWUNcJQ9E2LJKRpH7"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--everybody-s-got-a-mountain-to-climb",
+      "name": "Everybody's Got a Mountain to Climb",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "release_name": "Where It All Begins",
+      "spotify_track_id": "5Ipk7VnrpZ8IUfqvWvcH11",
+      "spotify_url": "https://open.spotify.com/track/5Ipk7VnrpZ8IUfqvWvcH11"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--like-i-am",
+      "name": "Like I Am",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "release_canonical_slug": "blackberry-smoke--little-piece-of-dixie",
+      "release_name": "Little Piece of Dixie",
+      "spotify_track_id": "5ULUJAWr7s2IGGAOgYfGja",
+      "spotify_url": "https://open.spotify.com/track/5ULUJAWr7s2IGGAOgYfGja"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--mean-woman-blues",
+      "name": "Mean Woman Blues",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "release_name": "Where It All Begins",
+      "spotify_track_id": "5r7Mvn0WRZORoybExPjHD7",
+      "spotify_url": "https://open.spotify.com/track/5r7Mvn0WRZORoybExPjHD7"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--melissa",
+      "name": "Melissa",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--eat-a-peach",
+      "release_name": "Eat A Peach",
+      "spotify_track_id": "30St98Bok3jJmXdkkHVPQe",
+      "spotify_url": "https://open.spotify.com/track/30St98Bok3jJmXdkkHVPQe"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--one-horse-town",
+      "name": "One Horse Town",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "release_canonical_slug": "blackberry-smoke--the-whippoorwill",
+      "release_name": "The Whippoorwill",
+      "spotify_track_id": "5Y36csDNfP9gRThyyveiBT",
+      "spotify_url": "https://open.spotify.com/track/5Y36csDNfP9gRThyyveiBT"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--sailin-cross-the-devil-s-sea",
+      "name": "Sailin' 'Cross the Devil's Sea",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "Allman Brothers Band",
+      "release_canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "release_name": "Where It All Begins",
+      "spotify_track_id": "59h24nkXSrVSLcyTvyFVyV",
+      "spotify_url": "https://open.spotify.com/track/59h24nkXSrVSLcyTvyFVyV"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--scare-the-devil-outta-you-bonus-track",
+      "name": "Scare the Devil Outta You (Bonus Track)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "release_canonical_slug": "blackberry-smoke--bad-luck-ain-t-no-crime",
+      "release_name": "Bad Luck Ain't No Crime",
+      "spotify_track_id": "2cXMFjQLCXgWpzleqJQq1X",
+      "spotify_url": "https://open.spotify.com/track/2cXMFjQLCXgWpzleqJQq1X"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--shakin-hands-with-the-holy-ghost",
+      "name": "Shakin' Hands With the Holy Ghost",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "release_canonical_slug": "blackberry-smoke--the-whippoorwill",
+      "release_name": "The Whippoorwill",
+      "spotify_track_id": "5NRqgmLhiKfrMPnIHEuuEZ",
+      "spotify_url": "https://open.spotify.com/track/5NRqgmLhiKfrMPnIHEuuEZ"
     }
   ],
   "source_refs": [
@@ -136,6 +368,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -157,9 +395,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-01T01:12:35.597Z",
+      "updated_at": "2026-03-28T23:36:10.765Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28T23:36:10.765Z"
 }

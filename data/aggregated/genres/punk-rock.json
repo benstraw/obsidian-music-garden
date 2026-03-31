@@ -1,0 +1,119 @@
+{
+  "canonical_slug": "punk-rock",
+  "display_title": "Punk Rock",
+  "display_name": "Punk Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Punk rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Punk_rock",
+  "summary": "Punk rock is a subgenre of rock music that emerged in the mid-1970s. Rooted in 1950s rock and roll and 1960s garage rock, punk bands rejected the overproduction and corporate nature of mainstream rock music. Typically producing short, fast-paced songs with rough stripped-down vocals and instrumentation and an anti-establishment theme, artists embrace a DIY ethic with many bands self-producing and distributing recordings through independent labels.",
+  "candidates": [
+    "Punk Rock (play)",
+    "Punk Rock Bowling Music Festival",
+    "Punk Rock Girl",
+    "Punk Rock Jesus",
+    "Punk Rocky",
+    "Punk rock",
+    "Punk rock in Australia",
+    "Punk rock in California",
+    "Punk rock in Yugoslavia",
+    "Punk rock subgenres"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Punk rock",
+    "page_url": "https://en.wikipedia.org/wiki/Punk_rock",
+    "retrieved_at": "2026-03-28T16:00:05Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Anarchy in the UK.ogg"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Anarchy in the UK.ogg"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bad brains 1983.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bad_brains_1983.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bad_brains_1983.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bad_brains_1983.jpg/960px-Bad_brains_1983.jpg",
+      "width": 3484,
+      "height": 2336,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Malco23\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Malco23 (page does not exist)\"\u003eMalco23\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ben-weasel2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ben-weasel2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ben-weasel2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ben-weasel2.jpg",
+      "width": 293,
+      "height": 404,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Ken Schmidt"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Blondie (Debbie Harry) One.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Blondie_(Debbie_Harry)_One.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Blondie_%28Debbie_Harry%29_One.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Blondie_%28Debbie_Harry%29_One.jpg",
+      "width": 232,
+      "height": 343,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/52489759@N00\"\u003eJean-Luc\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Bratmobile.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Bratmobile.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bratmobile.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bratmobile.jpg/960px-Bratmobile.jpg",
+      "width": 1777,
+      "height": 1185,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Greg Neate"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--punk-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Punk_rock",
+      "retrieved_at": "2026-03-28T16:00:05Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--punk-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Punk_rock",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

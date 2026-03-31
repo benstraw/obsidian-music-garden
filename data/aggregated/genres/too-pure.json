@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "too-pure",
+  "display_title": "Too Pure",
+  "display_name": "Too Pure",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Too Pure",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Too_Pure",
+  "summary": "Too Pure Records was a London-based independent record label formed in 1990 by Richard Roberts and Paul Cox. The label gained prominence after the release of PJ Harvey's debut studio album Dry in 1992, and subsequently found further success in the late 1990s and early 2000s with albums by indie rock artists such as Mclusky and Electrelane. The label closed in 2008.",
+  "candidates": [
+    "Hendrik Toompere Jr. Jr.",
+    "The Too-Perfect Saint",
+    "Tom Perez",
+    "Tom Preston-Werner",
+    "Too Cute Crisis",
+    "Too Pure",
+    "Too Pure (disambiguation)",
+    "Too Pure – The Peel Sessions",
+    "Too True",
+    "Toonpur Ka Superrhero"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Too Pure",
+    "page_url": "https://en.wikipedia.org/wiki/Too_Pure",
+    "retrieved_at": "2026-03-28T16:01:36Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/TooPureRecordslogo.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/TooPureRecordslogo.jpg",
+    "width": 300,
+    "height": 145
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--too-pure.json",
+      "url": "https://en.wikipedia.org/wiki/Too_Pure",
+      "retrieved_at": "2026-03-28T16:01:36Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--too-pure.json",
+      "url": "https://en.wikipedia.org/wiki/Too_Pure",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

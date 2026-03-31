@@ -1,0 +1,79 @@
+{
+  "canonical_slug": "piano-jazz",
+  "display_title": "Piano Jazz",
+  "display_name": "Piano Jazz",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Piano Jazz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Piano_Jazz",
+  "summary": "Piano Jazz is a weekly one-hour radio show produced and distributed by National Public Radio (NPR). It began on June 4, 1978, and was hosted by jazz pianist Marian McPartland (1918–2013) until 2011. It is the longest-running cultural program on NPR. The show generally features a single guest, and usually consists of about an equal mixture of discussion and playing, often duets with McPartland. Initially the guests were limited to jazz pianists, but the format was later expanded to include performers on other instruments as well as other genres. The show provides an inside look at the relationships of jazz musicians, since McPartland often had long friendships with many of her guests. Piano Jazz won a Peabody Award in 1983. The show is an exclusive production of South Carolina public radio on WLTR and is offered nationally by NPR.",
+  "candidates": [
+    "Piano Jazz",
+    "Piano Jazz: McPartland/Costello",
+    "Pinoy jazz",
+    "The Piano (jazz album)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Piano Jazz",
+    "page_url": "https://en.wikipedia.org/wiki/Piano_Jazz",
+    "retrieved_at": "2026-03-28T15:59:21Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Marian McPartland interviews Ramsey Lewis.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+    "width": 450,
+    "height": 300,
+    "license": "Public domain",
+    "author": "NEA photographer by Melisa Goh"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Marian McPartland interviews Ramsey Lewis.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+      "width": 450,
+      "height": 300,
+      "license": "Public domain",
+      "author": "NEA photographer by Melisa Goh"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--piano-jazz.json",
+      "url": "https://en.wikipedia.org/wiki/Piano_Jazz",
+      "retrieved_at": "2026-03-28T15:59:21Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--piano-jazz.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Marian_McPartland_interviews_Ramsey_Lewis.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

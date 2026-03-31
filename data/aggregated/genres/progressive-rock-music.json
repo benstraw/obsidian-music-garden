@@ -3,6 +3,7 @@
   "display_title": "Progressive Rock Music",
   "display_name": "Progressive Rock Music",
   "pending": true,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Progressive folk music",
@@ -23,5 +24,5 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

@@ -6,7 +6,8 @@
   "aliases": [
     "post grunge"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "ambiguous",
   "candidates": [
     "Pop grunge",
@@ -29,5 +30,5 @@
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28"
 }

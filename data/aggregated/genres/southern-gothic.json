@@ -6,7 +6,8 @@
   "aliases": [
     "southern gothic"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Southern Gothic",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_Gothic",
@@ -98,19 +99,20 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 3,
+    "play_count": 92,
     "unique_artist_count": 3,
-    "unique_release_count": 3,
-    "unique_track_count": 3,
-    "first_played_at": "2026-02-13T02:25:41.986Z",
-    "last_played_at": "2026-03-03T15:19:02.206Z"
+    "unique_release_count": 13,
+    "unique_track_count": 70,
+    "first_played_at": "2024-01-01T00:00:00.986979258Z",
+    "last_played_at": "2026-03-29T19:15:19.979Z"
   },
   "top_artists": [
     {
       "canonical_slug": "gillian-welch",
       "name": "Gillian Welch",
-      "play_count": 1,
+      "play_count": 90,
       "spotify_artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+      "musicbrainz_artist_id": "2ff49515-1701-4bac-a53a-04345893f3f3",
       "spotify_url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
     },
     {
@@ -118,6 +120,7 @@
       "name": "Rose's Pawn Shop",
       "play_count": 1,
       "spotify_artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+      "musicbrainz_artist_id": "9750816a-a7d9-4559-8db6-f0895e0416dc",
       "spotify_url": "https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3"
     },
     {
@@ -125,65 +128,220 @@
       "name": "Townes Van Zandt",
       "play_count": 1,
       "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
+      "musicbrainz_artist_id": "d67d1a21-6e45-4dd6-aef0-0191ba3796e0",
       "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "rose-s-pawn-shop--gravity-well",
-      "name": "Gravity Well",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "rose-s-pawn-shop",
-      "primary_artist_name": "Rose's Pawn Shop"
+      "canonical_slug": "gillian-welch--boots-no-2-the-lost-songs",
+      "name": "Boots No. 2: The Lost Songs",
+      "play_count": 31,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0wDBoq9LTEIw8DXoAZTrfP",
+      "musicbrainz_release_id": "d61fa15a-c525-4b48-b20a-10c64b77d59c",
+      "musicbrainz_release_group_id": "d8c8298f-6148-4b32-9eae-21c00ac53232"
+    },
+    {
+      "canonical_slug": "gillian-welch--all-the-good-times",
+      "name": "All The Good Times",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "0JgpOuuz9D8eH50iZomnvD",
+      "musicbrainz_release_id": "68860171-db2b-41de-902c-f1bce7c22d31",
+      "musicbrainz_release_group_id": "e82cbc11-098d-4f42-a849-90a92cf06bd4"
+    },
+    {
+      "canonical_slug": "gillian-welch--revival",
+      "name": "Revival",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "733rVkP3oBulDHJbiuRANa",
+      "musicbrainz_release_id": "cdaf7475-71ad-49e2-bcb5-492957366d48",
+      "musicbrainz_release_group_id": "1b59c403-965a-3f63-bca2-2590f3a0660f"
+    },
+    {
+      "canonical_slug": "gillian-welch--soul-journey",
+      "name": "Soul Journey",
+      "play_count": 10,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "75NIWZjBwsF7MyfbG8JPwr",
+      "musicbrainz_release_id": "b3d4dc24-fc81-4f5e-a43e-e60782b7ad2f",
+      "musicbrainz_release_group_id": "cf71f2e5-2cfe-3652-b572-8f24560f44b0"
     },
     {
       "canonical_slug": "gillian-welch--time-the-revelator",
       "name": "Time (The Revelator)",
-      "play_count": 1,
+      "play_count": 7,
       "primary_artist_canonical_slug": "gillian-welch",
-      "primary_artist_name": "Gillian Welch"
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "55FP2ypQcghszSqylyBRbp",
+      "musicbrainz_release_id": "917a723a-9449-4517-83be-1bc8a56ae64b",
+      "musicbrainz_release_group_id": "4f9a9d35-b16d-3b7b-80d0-32b29683633f"
     },
     {
-      "canonical_slug": "townes-van-zandt--townes-van-zandt",
-      "name": "Townes Van Zandt",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "townes-van-zandt",
-      "primary_artist_name": "Townes Van Zandt"
+      "canonical_slug": "gillian-welch--hell-among-the-yearlings",
+      "name": "Hell Among The Yearlings",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "7lj5fnqPOsrdANEyn9t8pM",
+      "musicbrainz_release_id": "08578f20-4604-45d7-9c33-c5af64eb5768",
+      "musicbrainz_release_group_id": "a13b58e4-a2d7-31ec-8012-04f55c78d9f5"
+    },
+    {
+      "canonical_slug": "gillian-welch--the-harrow-and-the-harvest",
+      "name": "The Harrow \u0026 The Harvest",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "5uz9hkZeN7l5KHtmMDqgR0",
+      "musicbrainz_release_id": "857fab01-855b-46fe-b93b-946e568e1e06",
+      "musicbrainz_release_group_id": "bea454b7-cb3c-420b-bf08-46886440af1c"
+    },
+    {
+      "canonical_slug": "gillian-welch--boots-no-1-the-official-revival-bootleg",
+      "name": "Boots No. 1: The Official Revival Bootleg",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "235ZzGz026rUvay44aA8JU",
+      "musicbrainz_release_id": "135b1222-41f3-484a-af09-1e0fd9434ea3",
+      "musicbrainz_release_group_id": "e464e345-7bb1-4f9a-8eca-ccc66b5b30db"
+    },
+    {
+      "canonical_slug": "gillian-welch--boots-no-2-the-lost-songs-vol-1",
+      "name": "Boots No. 2: The Lost Songs, Vol. 1",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "spotify_album_id": "33qsTsdSSS0dXLEOOUpcci",
+      "musicbrainz_release_id": "9a3782f3-e457-47c1-8578-fbeb82ca72e9",
+      "musicbrainz_release_group_id": "b9ef25f9-f17b-40cc-8ae4-b1d15bfc0d85"
+    },
+    {
+      "canonical_slug": "gillian-welch--o-brother-where-art-thou-original-motion-picture-soundtrack",
+      "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "emmylou-harris",
+      "primary_artist_name": "Emmylou Harris",
+      "spotify_album_id": "7gzX88qS3Vx2r87g5pbdfJ"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "rose-s-pawn-shop--country-blues",
-      "name": "Country Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "rose-s-pawn-shop",
-      "primary_artist_name": "Rose's Pawn Shop",
-      "release_canonical_slug": "rose-s-pawn-shop--gravity-well",
-      "release_name": "Gravity Well",
-      "spotify_track_id": "4902sigaZA0IflQ6FdWmtk",
-      "spotify_url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+      "canonical_slug": "gillian-welch--jackson",
+      "name": "Jackson",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--all-the-good-times",
+      "release_name": "All The Good Times",
+      "spotify_track_id": "3NQK1uTiWfaeO9DhRtkD1A",
+      "spotify_url": "https://open.spotify.com/track/3NQK1uTiWfaeO9DhRtkD1A"
     },
     {
-      "canonical_slug": "townes-van-zandt--i-ll-be-here-in-the-morning",
-      "name": "I'll Be Here in the Morning",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "townes-van-zandt",
-      "primary_artist_name": "Townes Van Zandt",
-      "release_canonical_slug": "townes-van-zandt--townes-van-zandt",
-      "release_name": "Townes Van Zandt",
-      "spotify_track_id": "0HLBLRkkTOlAmjonShicD0",
-      "spotify_url": "https://open.spotify.com/track/0HLBLRkkTOlAmjonShicD0"
+      "canonical_slug": "gillian-welch--shotgun-song",
+      "name": "Shotgun Song",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--boots-no-2-the-lost-songs-vol-1",
+      "release_name": "Boots No. 2: The Lost Songs, Vol. 1",
+      "spotify_track_id": "0HM87zIvkV8blF0RU6fmWQ",
+      "spotify_url": "https://open.spotify.com/track/0HM87zIvkV8blF0RU6fmWQ"
     },
     {
-      "canonical_slug": "gillian-welch--revelator",
-      "name": "Revelator",
-      "play_count": 1,
+      "canonical_slug": "gillian-welch--by-the-mark",
+      "name": "By The Mark",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--revival",
+      "release_name": "Revival",
+      "spotify_track_id": "6IcMRgfMKohbduQ7kMWaaw",
+      "spotify_url": "https://open.spotify.com/track/6IcMRgfMKohbduQ7kMWaaw"
+    },
+    {
+      "canonical_slug": "gillian-welch--dear-someone",
+      "name": "Dear Someone",
+      "play_count": 2,
       "primary_artist_canonical_slug": "gillian-welch",
       "primary_artist_name": "Gillian Welch",
       "release_canonical_slug": "gillian-welch--time-the-revelator",
       "release_name": "Time (The Revelator)",
-      "spotify_track_id": "3d3uCbMDDCzIJlbVNd18C3",
-      "spotify_url": "https://open.spotify.com/track/3d3uCbMDDCzIJlbVNd18C3"
+      "spotify_track_id": "5XvHuAtSvCfKSIx6H6SYtx",
+      "spotify_url": "https://open.spotify.com/track/5XvHuAtSvCfKSIx6H6SYtx"
+    },
+    {
+      "canonical_slug": "gillian-welch--give-that-man-a-road",
+      "name": "Give That Man A Road",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--boots-no-2-the-lost-songs",
+      "release_name": "Boots No. 2: The Lost Songs",
+      "spotify_track_id": "5ELuixI2c9vVzXmnsLRbXg",
+      "spotify_url": "https://open.spotify.com/track/5ELuixI2c9vVzXmnsLRbXg"
+    },
+    {
+      "canonical_slug": "gillian-welch--honey-baby",
+      "name": "Honey Baby",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--boots-no-2-the-lost-songs",
+      "release_name": "Boots No. 2: The Lost Songs",
+      "spotify_track_id": "7g7Xf4ENMtlVDO1HJKFgft",
+      "spotify_url": "https://open.spotify.com/track/7g7Xf4ENMtlVDO1HJKFgft"
+    },
+    {
+      "canonical_slug": "gillian-welch--i-had-a-real-good-mother-and-father",
+      "name": "I Had A Real Good Mother and Father",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--soul-journey",
+      "release_name": "Soul Journey",
+      "spotify_track_id": "7h5Fo79KttT0f7ARxDKKEh",
+      "spotify_url": "https://open.spotify.com/track/7h5Fo79KttT0f7ARxDKKEh"
+    },
+    {
+      "canonical_slug": "gillian-welch--i-ll-fly-away",
+      "name": "I'll Fly Away",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--o-brother-where-art-thou-original-motion-picture-soundtrack",
+      "release_name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
+      "spotify_track_id": "4rJtUMlnhJzlzlnxyoc3tb",
+      "spotify_url": "https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb"
+    },
+    {
+      "canonical_slug": "gillian-welch--lowlands",
+      "name": "Lowlands",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--soul-journey",
+      "release_name": "Soul Journey",
+      "spotify_track_id": "47X3zJKwzB5D9mj2BoWLor",
+      "spotify_url": "https://open.spotify.com/track/47X3zJKwzB5D9mj2BoWLor"
+    },
+    {
+      "canonical_slug": "gillian-welch--make-me-a-pallet-on-your-floor",
+      "name": "Make Me A Pallet On Your Floor",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "gillian-welch",
+      "primary_artist_name": "Gillian Welch",
+      "release_canonical_slug": "gillian-welch--soul-journey",
+      "release_name": "Soul Journey",
+      "spotify_track_id": "1rKWoKIn1Zc4z6JMf4LNuL",
+      "spotify_url": "https://open.spotify.com/track/1rKWoKIn1Zc4z6JMf4LNuL"
     }
   ],
   "source_refs": [
@@ -192,6 +350,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -213,9 +377,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T15:19:02.206Z",
+      "updated_at": "2026-03-29T19:15:19.979Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T19:15:19.979Z"
 }

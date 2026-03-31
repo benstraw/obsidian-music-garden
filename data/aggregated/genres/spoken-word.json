@@ -5,7 +5,8 @@
   "aliases": [
     "spoken word"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Spoken word",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Spoken_word",
@@ -104,26 +105,28 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 4,
+    "play_count": 8,
     "unique_artist_count": 3,
     "unique_release_count": 3,
-    "unique_track_count": 4,
-    "first_played_at": "2026-03-01T01:48:13.102Z",
+    "unique_track_count": 5,
+    "first_played_at": "2024-01-01T00:00:00.047255442Z",
     "last_played_at": "2026-03-03T15:08:09.738Z"
   },
   "top_artists": [
     {
       "canonical_slug": "gil-scott-heron",
       "name": "Gil Scott-Heron",
-      "play_count": 2,
+      "play_count": 4,
       "spotify_artist_id": "0kEfub5RzlZOB2zGomqVSU",
+      "musicbrainz_artist_id": "b5b89643-c488-4f39-a302-25cab31084a5",
       "spotify_url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
     },
     {
       "canonical_slug": "negativland",
       "name": "Negativland",
-      "play_count": 1,
+      "play_count": 3,
       "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+      "musicbrainz_artist_id": "78c1866f-92d8-4180-98ea-fe88121aa195",
       "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
     },
     {
@@ -131,6 +134,7 @@
       "name": "Omari Hardwick",
       "play_count": 1,
       "spotify_artist_id": "42G5kgQURgn9sOZHtOdji5",
+      "musicbrainz_artist_id": "eab48264-aef5-4220-bce2-f1ff1050663c",
       "spotify_url": "https://open.spotify.com/artist/42G5kgQURgn9sOZHtOdji5"
     }
   ],
@@ -138,26 +142,55 @@
     {
       "canonical_slug": "gil-scott-heron--pieces-of-a-man",
       "name": "Pieces of a Man",
-      "play_count": 2,
+      "play_count": 4,
       "primary_artist_canonical_slug": "gil-scott-heron",
-      "primary_artist_name": "Gil Scott-Heron"
+      "primary_artist_name": "Gil Scott‐Heron",
+      "spotify_album_id": "3Iny1eqJMoqU1I1UoUbVQl",
+      "musicbrainz_release_id": "5f8b4190-e9f4-4b6a-8c06-681b6699b7d3",
+      "musicbrainz_release_group_id": "950f8cdc-da7b-3cd1-8d98-1c73cf5432d9"
+    },
+    {
+      "canonical_slug": "negativland--escape-from-noise",
+      "name": "Escape from Noise",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "spotify_album_id": "1iI8thQSDO3kvRxMtxNuTD",
+      "musicbrainz_release_id": "bfd0eb6b-d1f1-42a4-9bad-a440ee36053f",
+      "musicbrainz_release_group_id": "138fcf27-19b8-3a2d-bfc1-a603e87fa62d"
     },
     {
       "canonical_slug": "omari-hardwick--buffaloes-and-butterflies",
       "name": "BuffalOes \u0026 Butterflies",
       "play_count": 1,
       "primary_artist_canonical_slug": "omari-hardwick",
-      "primary_artist_name": "Omari Hardwick"
-    },
-    {
-      "canonical_slug": "negativland--escape-from-noise",
-      "name": "Escape from Noise",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "negativland",
-      "primary_artist_name": "Negativland"
+      "primary_artist_name": "Omari Hardwick",
+      "spotify_album_id": "4q7qTTW1oN3nCm1OUsWEAp"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
+      "name": "The Revolution Will Not Be Televised",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "gil-scott-heron",
+      "primary_artist_name": "Gil Scott-Heron",
+      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
+      "release_name": "Pieces of a Man",
+      "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
+      "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
+    },
+    {
+      "canonical_slug": "negativland--announcement",
+      "name": "Announcement",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "2nB8br6vbE8MYsBmCR9aia",
+      "spotify_url": "https://open.spotify.com/track/2nB8br6vbE8MYsBmCR9aia"
+    },
     {
       "canonical_slug": "negativland--endscape",
       "name": "Endscape",
@@ -181,17 +214,6 @@
       "spotify_url": "https://open.spotify.com/track/3pmp40HtLapVQ8L89Mz1vh"
     },
     {
-      "canonical_slug": "gil-scott-heron--the-revolution-will-not-be-televised",
-      "name": "The Revolution Will Not Be Televised",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "gil-scott-heron",
-      "primary_artist_name": "Gil Scott-Heron",
-      "release_canonical_slug": "gil-scott-heron--pieces-of-a-man",
-      "release_name": "Pieces of a Man",
-      "spotify_track_id": "7ni78Vjslqo2VxiDOahYlV",
-      "spotify_url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
-    },
-    {
       "canonical_slug": "omari-hardwick--what-you-say",
       "name": "What You Say",
       "play_count": 1,
@@ -209,6 +231,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

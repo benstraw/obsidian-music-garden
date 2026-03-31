@@ -1,0 +1,59 @@
+{
+  "canonical_slug": "soundtrack-composer",
+  "display_title": "Soundtrack Composer",
+  "display_name": "Soundtrack Composer",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Music of Grim Fandango",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Music_of_Grim_Fandango",
+  "summary": "The music for the video game Grim Fandango was composed and produced by Peter McConnell and published by LucasArts in 1998. The soundtrack is a mix of South American folk music, jazz, swing and big band sounds, for the game story filled with adventure and intrigue set in a unique combination of film noir and Mexican folklore's Day of the Dead. The soundtrack garnered critical acclaim and remained subject of positive reviews and inclusion in critics' rankings for the two decades after its first release. The soundtrack was praised both as a stand-alone musical experience, as well as for its outstanding contribution to the overall game experience; capturing the spirit of the game, \"gluing\" the story together, and becoming \"integral\" to the success of the game.",
+  "candidates": [
+    "Soundtrack of computer game Grim Fandango"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Music of Grim Fandango",
+    "page_url": "https://en.wikipedia.org/wiki/Music_of_Grim_Fandango",
+    "retrieved_at": "2026-03-28T16:01:02Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Grim_Fandango_Original_Game_Soundtrack_%281998%29_-_Album_CD_cover.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/e/ef/Grim_Fandango_Original_Game_Soundtrack_%281998%29_-_Album_CD_cover.png",
+    "width": 319,
+    "height": 313
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--soundtrack-composer.json",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Grim_Fandango",
+      "retrieved_at": "2026-03-28T16:01:02Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--soundtrack-composer.json",
+      "url": "https://en.wikipedia.org/wiki/Music_of_Grim_Fandango",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

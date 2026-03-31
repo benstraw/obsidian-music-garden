@@ -1,0 +1,134 @@
+{
+  "canonical_slug": "seattle",
+  "display_title": "Seattle",
+  "display_name": "Seattle",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Seattle",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Seattle",
+  "summary": "Seattle is the most populous city in the U.S. state of Washington and the Pacific Northwest region of North America. It is the 18th-most populous city in the United States with a population of 780,995 in 2024, while the Seattle metropolitan area at over 4.15 million residents is the 15th-most populous metropolitan area in the nation. The city is the county seat of King County, the most populous county in Washington. Seattle's growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.",
+  "candidates": [
+    "Seattle",
+    "Seattle Kraken",
+    "Seattle Mariners",
+    "Seattle Mariners minor league players",
+    "Seattle Reign FC",
+    "Seattle Seahawks",
+    "Seattle Sounders FC",
+    "Seattle SuperSonics",
+    "Seattle metropolitan area",
+    "Seattle–Tacoma International Airport"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Seattle",
+    "page_url": "https://en.wikipedia.org/wiki/Seattle",
+    "retrieved_at": "2026-03-28T16:00:44Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Abies lasiocarpa 0775.JPG",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_0775.JPG",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Abies_lasiocarpa_0775.JPG",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Abies_lasiocarpa_0775.JPG/960px-Abies_lasiocarpa_0775.JPG",
+    "width": 4272,
+    "height": 2848,
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Wsiegmund\" title=\"User:Wsiegmund\"\u003eWalter Siegmund\u003c/a\u003e \u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Wsiegmund\" title=\"User talk:Wsiegmund\"\u003e(talk)\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Abies lasiocarpa 0775.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_0775.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Abies_lasiocarpa_0775.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Abies_lasiocarpa_0775.JPG/960px-Abies_lasiocarpa_0775.JPG",
+      "width": 4272,
+      "height": 2848,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Wsiegmund\" title=\"User:Wsiegmund\"\u003eWalter Siegmund\u003c/a\u003e \u003ca href=\"//commons.wikimedia.org/wiki/User_talk:Wsiegmund\" title=\"User talk:Wsiegmund\"\u003e(talk)\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Amazon Spheres from 6th Avenue, April 2020.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_from_6th_Avenue,_April_2020.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Amazon_Spheres_from_6th_Avenue%2C_April_2020.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Amazon_Spheres_from_6th_Avenue%2C_April_2020.jpg/960px-Amazon_Spheres_from_6th_Avenue%2C_April_2020.jpg",
+      "width": 4904,
+      "height": 3252,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:SounderBruce\" title=\"User:SounderBruce\"\u003eSounderBruce\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Ambox current red Asia Australia.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Ambox_current_red_Asia_Australia.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ambox_current_red_Asia_Australia.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/960px-Ambox_current_red_Asia_Australia.svg.png",
+      "width": 360,
+      "height": 290,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Andrybak\" title=\"User:Andrybak\"\u003eandrybak\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Benaroya Hall, Seattle, Washington, USA.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Benaroya_Hall,_Seattle,_Washington,_USA.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Benaroya_Hall%2C_Seattle%2C_Washington%2C_USA.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Benaroya_Hall%2C_Seattle%2C_Washington%2C_USA.jpg/960px-Benaroya_Hall%2C_Seattle%2C_Washington%2C_USA.jpg",
+      "width": 4899,
+      "height": 3266,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Andrew A Smith"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Birds-eye-view of Seattle and environs King County, Wash., 1891. LOC 75696663.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Birds-eye-view_of_Seattle_and_environs_King_County,_Wash.,_1891._LOC_75696663.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Birds-eye-view_of_Seattle_and_environs_King_County%2C_Wash.%2C_1891._LOC_75696663.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Birds-eye-view_of_Seattle_and_environs_King_County%2C_Wash.%2C_1891._LOC_75696663.jpg/960px-Birds-eye-view_of_Seattle_and_environs_King_County%2C_Wash.%2C_1891._LOC_75696663.jpg",
+      "width": 15389,
+      "height": 10416,
+      "license": "Public domain",
+      "author": "Koch, Augustus; Hughes Litho. Co."
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--seattle.json",
+      "url": "https://en.wikipedia.org/wiki/Seattle",
+      "retrieved_at": "2026-03-28T16:00:44Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--seattle.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_0775.JPG",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

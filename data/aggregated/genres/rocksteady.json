@@ -6,7 +6,8 @@
   "aliases": [
     "rocksteady"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Rocksteady",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Rocksteady",
@@ -81,32 +82,186 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 1,
-    "unique_artist_count": 1,
-    "unique_release_count": 1,
-    "unique_track_count": 1,
-    "first_played_at": "2026-03-03T15:39:19.952Z",
+    "play_count": 16,
+    "unique_artist_count": 3,
+    "unique_release_count": 6,
+    "unique_track_count": 10,
+    "first_played_at": "2024-01-01T00:00:00.337015196Z",
     "last_played_at": "2026-03-03T15:39:19.952Z"
   },
   "top_artists": [
     {
       "canonical_slug": "steel-pulse",
       "name": "Steel Pulse",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "musicbrainz_artist_id": "37367b2f-69e4-4df2-9e64-75ca6204764b",
       "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+    },
+    {
+      "canonical_slug": "the-wailers",
+      "name": "The Wailers",
+      "play_count": 6,
+      "spotify_artist_id": "6uSKeCyQEhvPC2NODgiqFE",
+      "musicbrainz_artist_id": "c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+      "spotify_url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+    },
+    {
+      "canonical_slug": "alton-ellis",
+      "name": "Alton Ellis",
+      "play_count": 4,
+      "spotify_artist_id": "5pryfFgCrWJ41UHaENJPyi",
+      "musicbrainz_artist_id": "b04d9207-306c-42db-8b6a-c94d49b4b08a",
+      "spotify_url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--burnin-deluxe-edition",
+      "name": "Burnin' (Deluxe Edition)",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "spotify_album_id": "5EZMcYc3xK0rlru83kHpUe"
+    },
+    {
+      "canonical_slug": "steel-pulse--true-democracy",
+      "name": "True Democracy",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "spotify_album_id": "26eFSibLfoQ0pIvnb02NDg",
+      "musicbrainz_release_id": "150d3462-6e4e-4525-aaf9-877923fbd1a7",
+      "musicbrainz_release_group_id": "723f27d0-bae3-3f12-a5e2-eb8a7551090b"
+    },
+    {
+      "canonical_slug": "alton-ellis--mr-soul-of-jamaica",
+      "name": "Mr Soul of Jamaica",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "alton-ellis",
+      "primary_artist_name": "Alton Ellis",
+      "spotify_album_id": "4EpjLfEAWQ4aVhlTMk69Fh",
+      "musicbrainz_release_id": "91a9c524-e17a-4766-bd53-b150e139a2e8",
+      "musicbrainz_release_group_id": "314f5f85-9dba-35b2-8bc1-e98468919be0"
+    },
     {
       "canonical_slug": "steel-pulse--earth-crisis",
       "name": "Earth Crisis",
       "play_count": 1,
       "primary_artist_canonical_slug": "steel-pulse",
-      "primary_artist_name": "Steel Pulse"
+      "primary_artist_name": "Steel Pulse",
+      "spotify_album_id": "1h5jSwgEiUDx58MiBFVTgV",
+      "musicbrainz_release_id": "a33146a9-4bcd-3158-930d-37f2d8b310a7",
+      "musicbrainz_release_group_id": "e9eefcaa-667c-34a6-84fe-c4e9cb76756c"
+    },
+    {
+      "canonical_slug": "alton-ellis--legend",
+      "name": "Legend",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "alton-ellis",
+      "primary_artist_name": "Alton Ellis",
+      "spotify_album_id": "1YPQbNTmxhGKr9ndPpeUzt",
+      "musicbrainz_release_id": "40e0062a-f794-4b85-96fa-652cd63f1ea4",
+      "musicbrainz_release_group_id": "c78106f8-5585-461f-9804-334f3657d0fd"
+    },
+    {
+      "canonical_slug": "alton-ellis--randy-s-superstar-singers",
+      "name": "Randy's Superstar Singers",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "alton-ellis",
+      "primary_artist_name": "Alton Ellis",
+      "spotify_album_id": "1vhjhYiWQNABgWXHvh3PsZ"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "steel-pulse--your-house",
+      "name": "Your House",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--true-democracy",
+      "release_name": "True Democracy",
+      "spotify_track_id": "6PbtTwGUPPbnT7nRTA1gS3",
+      "spotify_url": "https://open.spotify.com/track/6PbtTwGUPPbnT7nRTA1gS3"
+    },
+    {
+      "canonical_slug": "the-wailers--duppy-conqueror",
+      "name": "Duppy Conqueror",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-wailers",
+      "primary_artist_name": "The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--burnin-deluxe-edition",
+      "release_name": "Burnin' (Deluxe Edition)",
+      "spotify_track_id": "3JF5q9r8jTik1ZCb5CvJ61",
+      "spotify_url": "https://open.spotify.com/track/3JF5q9r8jTik1ZCb5CvJ61"
+    },
+    {
+      "canonical_slug": "steel-pulse--leggo-beast",
+      "name": "Leggo Beast",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "steel-pulse",
+      "primary_artist_name": "Steel Pulse",
+      "release_canonical_slug": "steel-pulse--true-democracy",
+      "release_name": "True Democracy",
+      "spotify_track_id": "2Fg0V8uIWQnBSTWJsrW5P6",
+      "spotify_url": "https://open.spotify.com/track/2Fg0V8uIWQnBSTWJsrW5P6"
+    },
+    {
+      "canonical_slug": "the-wailers--put-it-on",
+      "name": "Put It On",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-wailers",
+      "primary_artist_name": "The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--burnin-deluxe-edition",
+      "release_name": "Burnin' (Deluxe Edition)",
+      "spotify_track_id": "7nnxlucFOovCdayN8JcrVZ",
+      "spotify_url": "https://open.spotify.com/track/7nnxlucFOovCdayN8JcrVZ"
+    },
+    {
+      "canonical_slug": "alton-ellis--rock-steady",
+      "name": "Rock Steady",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "alton-ellis",
+      "primary_artist_name": "Alton Ellis",
+      "release_canonical_slug": "alton-ellis--mr-soul-of-jamaica",
+      "release_name": "Mr Soul of Jamaica",
+      "spotify_track_id": "6azx6iv2R1DhwovSp4xd5v",
+      "spotify_url": "https://open.spotify.com/track/6azx6iv2R1DhwovSp4xd5v"
+    },
+    {
+      "canonical_slug": "alton-ellis--make-me-happy",
+      "name": "Make Me Happy",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "alton-ellis",
+      "primary_artist_name": "Alton Ellis",
+      "release_canonical_slug": "alton-ellis--legend",
+      "release_name": "Legend",
+      "spotify_track_id": "3zvfIDB88lhqfSAjrdwDjp",
+      "spotify_url": "https://open.spotify.com/track/3zvfIDB88lhqfSAjrdwDjp"
+    },
+    {
+      "canonical_slug": "the-wailers--rastaman-chant",
+      "name": "Rastaman Chant",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-wailers",
+      "primary_artist_name": "The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--burnin-deluxe-edition",
+      "release_name": "Burnin' (Deluxe Edition)",
+      "spotify_track_id": "1WujDB3odQoKJYJNvhgEGL",
+      "spotify_url": "https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL"
+    },
+    {
+      "canonical_slug": "the-wailers--small-axe",
+      "name": "Small Axe",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "the-wailers",
+      "primary_artist_name": "The Wailers",
+      "release_canonical_slug": "bob-marley-and-the-wailers--burnin-deluxe-edition",
+      "release_name": "Burnin' (Deluxe Edition)",
+      "spotify_track_id": "1WdjhpptMbaldV9A18LGz7",
+      "spotify_url": "https://open.spotify.com/track/1WdjhpptMbaldV9A18LGz7"
+    },
     {
       "canonical_slug": "steel-pulse--steppin-out",
       "name": "Steppin' Out",
@@ -117,6 +272,17 @@
       "release_name": "Earth Crisis",
       "spotify_track_id": "7cxJUcO4HTrJ2jniaKOAaw",
       "spotify_url": "https://open.spotify.com/track/7cxJUcO4HTrJ2jniaKOAaw"
+    },
+    {
+      "canonical_slug": "alton-ellis--too-late-to-turn-back-now",
+      "name": "Too Late to Turn Back Now",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "alton-ellis",
+      "primary_artist_name": "Alton Ellis",
+      "release_canonical_slug": "alton-ellis--randy-s-superstar-singers",
+      "release_name": "Randy's Superstar Singers",
+      "spotify_track_id": "3f9grIIoGwySGKOE9C0d5P",
+      "spotify_url": "https://open.spotify.com/track/3f9grIIoGwySGKOE9C0d5P"
     }
   ],
   "source_refs": [
@@ -125,6 +291,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

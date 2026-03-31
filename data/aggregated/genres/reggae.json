@@ -7,7 +7,8 @@
     "reggae",
     "reggae rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Reggae",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Reggae",
@@ -106,106 +107,186 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 47,
-    "unique_artist_count": 3,
-    "unique_release_count": 10,
-    "unique_track_count": 30,
-    "first_played_at": "2026-02-16T01:47:58.417Z",
+    "play_count": 422,
+    "unique_artist_count": 14,
+    "unique_release_count": 58,
+    "unique_track_count": 276,
+    "first_played_at": "2024-01-01T00:00:00.039739921Z",
     "last_played_at": "2026-03-19T01:47:54.056Z"
   },
   "top_artists": [
     {
+      "canonical_slug": "sublime",
+      "name": "Sublime",
+      "play_count": 198,
+      "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+      "musicbrainz_artist_id": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
+      "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+    },
+    {
       "canonical_slug": "bob-marley-and-the-wailers",
       "name": "Bob Marley \u0026 The Wailers",
-      "play_count": 24,
+      "play_count": 130,
       "spotify_artist_id": "2QsynagSdAqZj3U9HgDzjD",
+      "musicbrainz_artist_id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
       "spotify_url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
     },
     {
-      "canonical_slug": "sublime",
-      "name": "Sublime",
-      "play_count": 22,
-      "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
-      "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+      "canonical_slug": "nas-and-damian-jr-gong-marley",
+      "name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "play_count": 16,
+      "spotify_artist_id": "3w2WYNyPCPkZFoC1EqfCMe",
+      "spotify_url": "https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe"
+    },
+    {
+      "canonical_slug": "10-ft-ganja-plant",
+      "name": "10 Ft. Ganja Plant",
+      "play_count": 14,
+      "spotify_artist_id": "0lsuCH8qG9UM8BihdL1Vsc",
+      "musicbrainz_artist_id": "d818f471-6f94-4758-8ef6-55c45f29c328",
+      "spotify_url": "https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc"
+    },
+    {
+      "canonical_slug": "bob-andy",
+      "name": "Bob Andy",
+      "play_count": 13,
+      "spotify_artist_id": "6GFAZnwXhNER0WS76WMpS4",
+      "musicbrainz_artist_id": "c6df8ff5-cdea-4699-8579-89c007f7193c",
+      "spotify_url": "https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4"
+    },
+    {
+      "canonical_slug": "the-itals",
+      "name": "The Itals",
+      "play_count": 9,
+      "spotify_artist_id": "3RDff6Y6BKZv5SN3in3Zpm",
+      "musicbrainz_artist_id": "6ec9d37f-932f-49c1-b58b-b32185c1225c",
+      "spotify_url": "https://open.spotify.com/artist/3RDff6Y6BKZv5SN3in3Zpm"
+    },
+    {
+      "canonical_slug": "the-viceroys",
+      "name": "The Viceroys",
+      "play_count": 7,
+      "spotify_artist_id": "1D9gvipi900QNpsgh679xb",
+      "musicbrainz_artist_id": "0e98ba03-b70e-4656-8a15-3d2f4d784224",
+      "spotify_url": "https://open.spotify.com/artist/1D9gvipi900QNpsgh679xb"
+    },
+    {
+      "canonical_slug": "junior-byles",
+      "name": "Junior Byles",
+      "play_count": 6,
+      "spotify_artist_id": "5J6lHDYy53GyksfcJyHadC",
+      "musicbrainz_artist_id": "a7f02a97-8db1-4f64-9fb9-c048032f721b",
+      "spotify_url": "https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC"
+    },
+    {
+      "canonical_slug": "niney-the-observer",
+      "name": "Niney The Observer",
+      "play_count": 6,
+      "spotify_artist_id": "1eM04Kj9DckOUmU1LOfj8j",
+      "musicbrainz_artist_id": "fbca566a-3a40-4649-871f-6367babb768f",
+      "spotify_url": "https://open.spotify.com/artist/1eM04Kj9DckOUmU1LOfj8j"
     },
     {
       "canonical_slug": "steel-pulse",
       "name": "Steel Pulse",
-      "play_count": 1,
+      "play_count": 6,
       "spotify_artist_id": "6UL7BodGc5iVmQGlMwHR0g",
+      "musicbrainz_artist_id": "37367b2f-69e4-4df2-9e64-75ca6204764b",
       "spotify_url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "sublime--everything-under-the-sun",
+      "name": "Everything Under The Sun",
+      "play_count": 92,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "5fJ2bEPDiCX5BLr5PYSauS",
+      "musicbrainz_release_id": "ce76e432-567e-4eda-90ee-d4aa839244ae",
+      "musicbrainz_release_group_id": "110cfaf9-822e-38e9-ad4b-d84da7b74daa"
+    },
+    {
       "canonical_slug": "sublime--40oz-to-freedom",
       "name": "40oz. To Freedom",
-      "play_count": 18,
+      "play_count": 41,
       "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime"
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "0vuwlanMPucXrYMGnOjhYL"
     },
     {
-      "canonical_slug": "bob-marley-and-the-wailers--confrontation",
-      "name": "Confrontation",
-      "play_count": 10,
+      "canonical_slug": "bob-marley-and-the-wailers--exodus-deluxe-edition",
+      "name": "Exodus (Deluxe Edition)",
+      "play_count": 34,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers"
-    },
-    {
-      "canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
-      "name": "Songs Of Freedom Rarities",
-      "play_count": 6,
-      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers"
-    },
-    {
-      "canonical_slug": "sublime--sublime",
-      "name": "Sublime",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime"
-    },
-    {
-      "canonical_slug": "bob-marley-and-the-wailers--survival",
-      "name": "Survival",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers"
-    },
-    {
-      "canonical_slug": "bob-marley-and-the-wailers--uprising",
-      "name": "Uprising",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "spotify_album_id": "2BGBKhA5Oo3MMg7VccWeae"
     },
     {
       "canonical_slug": "bob-marley-and-the-wailers--catch-a-fire",
       "name": "Catch A Fire",
-      "play_count": 1,
+      "play_count": 24,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "spotify_album_id": "39kLAVdcgW7jbMcTEaY2qy",
+      "musicbrainz_release_id": "a247aca8-f226-437a-871b-3815c56f227d",
+      "musicbrainz_release_group_id": "03170256-02c9-44c7-abad-e0ea3dd47c22"
     },
     {
-      "canonical_slug": "steel-pulse--earth-crisis",
-      "name": "Earth Crisis",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "steel-pulse",
-      "primary_artist_name": "Steel Pulse"
+      "canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
+      "name": "Songs Of Freedom Rarities",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "spotify_album_id": "6GGOPGtT3AQMCgeHh5hPMA",
+      "musicbrainz_release_id": "c5782ce9-3989-4491-ae78-fca14fb88705",
+      "musicbrainz_release_group_id": "05da2004-4b26-4441-959e-1233253fc6c9"
     },
     {
-      "canonical_slug": "sublime--everything-under-the-sun",
-      "name": "Everything Under The Sun",
-      "play_count": 1,
+      "canonical_slug": "nas-and-damian-jr-gong-marley--distant-relatives",
+      "name": "Distant Relatives",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "nas-and-damian-jr-gong-marley",
+      "primary_artist_name": "Nas \u0026 Damian \"Jr. Gong\" Marley",
+      "spotify_album_id": "08Cq2FeFxRQdpkKrjCGrth"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--confrontation",
+      "name": "Confrontation",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "spotify_album_id": "5Rg4ZSwf1LPCuAMr0msdun",
+      "musicbrainz_release_id": "9f3c7fc2-36ef-46c9-b589-66c60df37857",
+      "musicbrainz_release_group_id": "e20b6b85-f911-31f2-933b-391f2d10dcb3"
+    },
+    {
+      "canonical_slug": "sublime--sublime",
+      "name": "Sublime",
+      "play_count": 11,
       "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime"
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "14eK347GdWO4mBBx78tsut",
+      "musicbrainz_release_id": "159be5fc-fc1e-4c90-83ad-1c9e19488efc",
+      "musicbrainz_release_group_id": "0430d8c5-7417-3c4c-9f2a-b7d02ef7d164"
     },
     {
-      "canonical_slug": "bob-marley-and-the-wailers--kaya",
-      "name": "Kaya",
-      "play_count": 1,
+      "canonical_slug": "bob-marley-and-the-wailers--exodus",
+      "name": "Exodus",
+      "play_count": 10,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers"
+      "primary_artist_name": "Bob Marley \u0026 The Wailers",
+      "spotify_album_id": "655KljKIXl42fiNDMKivbY",
+      "musicbrainz_release_id": "77cfed3c-5cc6-4a59-91bd-a440a09abde8",
+      "musicbrainz_release_group_id": "87164686-938c-30d5-accc-c50957735686"
+    },
+    {
+      "canonical_slug": "sublime--5-at-the-door-live-at-tressel-tavern-1994",
+      "name": "$5 At The Door (Live at Tressel Tavern, 1994)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "4SsUhMdeVbtmIVpHps7Jzc"
     }
   ],
   "top_tracks": [
@@ -223,7 +304,7 @@
     {
       "canonical_slug": "bob-marley-and-the-wailers--iron-lion-zion",
       "name": "Iron Lion Zion",
-      "play_count": 6,
+      "play_count": 7,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
       "primary_artist_name": "Bob Marley \u0026 The Wailers",
       "release_canonical_slug": "bob-marley-and-the-wailers--songs-of-freedom-rarities",
@@ -234,7 +315,7 @@
     {
       "canonical_slug": "sublime--right-back",
       "name": "Right Back",
-      "play_count": 4,
+      "play_count": 5,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--40oz-to-freedom",
@@ -243,53 +324,20 @@
       "spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda"
     },
     {
-      "canonical_slug": "sublime--d-j-s",
-      "name": "D.J.'s",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
-      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
-    },
-    {
-      "canonical_slug": "bob-marley-and-the-wailers--zimbabwe",
-      "name": "Zimbabwe",
-      "play_count": 2,
+      "canonical_slug": "bob-marley-and-the-wailers--waiting-in-vain-advert-mix",
+      "name": "Waiting In Vain - Advert Mix",
+      "play_count": 4,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
       "primary_artist_name": "Bob Marley \u0026 The Wailers",
-      "release_canonical_slug": "bob-marley-and-the-wailers--survival",
-      "release_name": "Survival",
-      "spotify_track_id": "5ApfJDLibIoWL0mRZ5uOKu",
-      "spotify_url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu"
-    },
-    {
-      "canonical_slug": "sublime--40oz-to-freedom",
-      "name": "40oz. To Freedom",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "0vtJ9Dq53hfXE3KyP1yPni",
-      "spotify_url": "https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"
-    },
-    {
-      "canonical_slug": "bob-marley-and-the-wailers--babylon-system",
-      "name": "Babylon System",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
-      "primary_artist_name": "Bob Marley \u0026 The Wailers",
-      "release_canonical_slug": "bob-marley-and-the-wailers--survival",
-      "release_name": "Survival",
-      "spotify_track_id": "6xbtDXk8utIS8rOWD0X9XA",
-      "spotify_url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
+      "release_canonical_slug": "bob-marley-and-the-wailers--exodus-deluxe-edition",
+      "release_name": "Exodus (Deluxe Edition)",
+      "spotify_track_id": "7ipX0lEwPRpxUGbIevqoju",
+      "spotify_url": "https://open.spotify.com/track/7ipX0lEwPRpxUGbIevqoju"
     },
     {
       "canonical_slug": "sublime--badfish",
       "name": "Badfish",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--40oz-to-freedom",
@@ -298,26 +346,59 @@
       "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
     },
     {
-      "canonical_slug": "bob-marley-and-the-wailers--buffalo-soldier",
-      "name": "Buffalo Soldier",
-      "play_count": 1,
+      "canonical_slug": "bob-marley-and-the-wailers--concrete-jungle",
+      "name": "Concrete Jungle",
+      "play_count": 3,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
       "primary_artist_name": "Bob Marley \u0026 The Wailers",
-      "release_canonical_slug": "bob-marley-and-the-wailers--confrontation",
-      "release_name": "Confrontation",
-      "spotify_track_id": "7BfW1eoDh27W69nxsmRicb",
-      "spotify_url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+      "release_canonical_slug": "bob-marley-and-the-wailers--catch-a-fire",
+      "release_name": "Catch A Fire",
+      "spotify_track_id": "2AFJm70C2psT6i9IM5WF2U",
+      "spotify_url": "https://open.spotify.com/track/2AFJm70C2psT6i9IM5WF2U"
     },
     {
-      "canonical_slug": "bob-marley-and-the-wailers--coming-in-from-the-cold",
-      "name": "Coming In From The Cold",
-      "play_count": 1,
+      "canonical_slug": "sublime--d-j-s",
+      "name": "D.J.'s",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
+      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
+    },
+    {
+      "canonical_slug": "junior-byles--i-ve-got-a-feeling",
+      "name": "I've Got a Feeling",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "junior-byles",
+      "primary_artist_name": "Junior Byles",
+      "release_canonical_slug": "junior-byles--beat-down-babylon-expanded-version",
+      "release_name": "Beat Down Babylon (Expanded Version)",
+      "spotify_track_id": "6SrlOqaY6He6qBtp7XXXUC",
+      "spotify_url": "https://open.spotify.com/track/6SrlOqaY6He6qBtp7XXXUC"
+    },
+    {
+      "canonical_slug": "sublime--let-s-go-get-stoned",
+      "name": "Let's Go Get Stoned",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "2qN7J3rwekpYjskmtOT6Ex",
+      "spotify_url": "https://open.spotify.com/track/2qN7J3rwekpYjskmtOT6Ex"
+    },
+    {
+      "canonical_slug": "bob-marley-and-the-wailers--one-love-people-get-ready",
+      "name": "One Love / People Get Ready",
+      "play_count": 3,
       "primary_artist_canonical_slug": "bob-marley-and-the-wailers",
       "primary_artist_name": "Bob Marley \u0026 The Wailers",
-      "release_canonical_slug": "bob-marley-and-the-wailers--uprising",
-      "release_name": "Uprising",
-      "spotify_track_id": "6lmLUNd7mcyYqKcg6EIAOu",
-      "spotify_url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu"
+      "release_canonical_slug": "bob-marley-and-the-wailers--exodus-deluxe-edition",
+      "release_name": "Exodus (Deluxe Edition)",
+      "spotify_track_id": "77gqF80dSqA5oeyUxJrw24",
+      "spotify_url": "https://open.spotify.com/track/77gqF80dSqA5oeyUxJrw24"
     }
   ],
   "source_refs": [
@@ -326,6 +407,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

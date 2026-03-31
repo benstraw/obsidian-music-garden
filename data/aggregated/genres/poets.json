@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "poets",
+  "display_title": "Poets",
+  "display_name": "Poets",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Poet",
+    "Poet Laureate of New Jersey",
+    "Poet laureate",
+    "Poets \u0026 Saints",
+    "Poets \u0026 Writers",
+    "Poets Corner Group",
+    "Poets in (and from) Goa",
+    "Poets of the Fall",
+    "Poets of the Fall discography",
+    "Poets' Corner"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,130 @@
+{
+  "canonical_slug": "samba-rock",
+  "display_title": "Samba Rock",
+  "display_name": "Samba Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Samba rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Samba_rock",
+  "summary": "Samba rock is a Brazilian dance culture and music genre that fuses samba with rock, soul, and funk. It emerged from the dance parties of São Paulo's lower-class black communities after they had been exposed to rock and roll and African-American music in the late 1950s.",
+  "candidates": [
+    "O Samba Poconé",
+    "Saba Rock",
+    "Sam Backo",
+    "Sam Baldock",
+    "Sam Barsky",
+    "Sam Rockwell",
+    "Sam Rockwell on screen and stage",
+    "Samba (rice)",
+    "Samba rock",
+    "Samba-folk music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Samba rock",
+    "page_url": "https://en.wikipedia.org/wiki/Samba_rock",
+    "retrieved_at": "2026-03-28T16:00:28Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Conga.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Conga.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Conga.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Conga.svg/960px-Conga.svg.png",
+    "width": 765,
+    "height": 990,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/pacofsm\"\u003epacofsm\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Conga.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Conga.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Conga.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Conga.svg/960px-Conga.svg.png",
+      "width": 765,
+      "height": 990,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/pacofsm\"\u003epacofsm\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Flag of Brazil.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/960px-Flag_of_Brazil.svg.png",
+      "width": 1000,
+      "height": 700,
+      "license": "Public domain",
+      "author": "Raimundo Teixeira Mendes"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Gnome-mime-sound-openclipart.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Gnome-mime-sound-openclipart.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gnome-mime-sound-openclipart.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/960px-Gnome-mime-sound-openclipart.svg.png",
+      "width": 160,
+      "height": 160,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Eubulides\" title=\"User:Eubulides\"\u003eUser:Eubulides\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jorge Ben, 1972.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jorge_Ben,_1972.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Jorge_Ben%2C_1972.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jorge_Ben%2C_1972.jpg/960px-Jorge_Ben%2C_1972.jpg",
+      "width": 1874,
+      "height": 2283,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\nFoto Carlos\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Samba Rock Samba.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Samba_Rock_Samba.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Samba_Rock_Samba.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:RuydoJB\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:RuydoJB (page does not exist)\"\u003eRuydoJB\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--samba-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Samba_rock",
+      "retrieved_at": "2026-03-28T16:00:28Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--samba-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Conga.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

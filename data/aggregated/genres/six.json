@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "six",
+  "display_title": "Six",
+  "display_name": "Six",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "6",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/6",
+  "summary": "6 (six) is the natural number following 5 and preceding 7. It is a composite number and the smallest perfect number.",
+  "candidates": [
+    "Nikki Sixx",
+    "Six",
+    "Six (musical)",
+    "Six Feet Under (TV series)",
+    "Six Flags",
+    "Six Nations Championship",
+    "Six Sigma",
+    "Six degrees of separation",
+    "Six-Day War",
+    "Sixth generation of video game consoles"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "6",
+    "page_url": "https://en.wikipedia.org/wiki/6",
+    "retrieved_at": "2026-03-28T16:00:49Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--six.json",
+      "url": "https://en.wikipedia.org/wiki/6",
+      "retrieved_at": "2026-03-28T16:00:49Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -6,7 +6,8 @@
   "aliases": [
     "plunderphonics"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Plunderphonics",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Plunderphonics",
@@ -70,11 +71,11 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 5,
+    "play_count": 7,
     "unique_artist_count": 2,
     "unique_release_count": 3,
-    "unique_track_count": 4,
-    "first_played_at": "2026-03-03T14:24:19.176Z",
+    "unique_track_count": 5,
+    "first_played_at": "2024-01-01T00:00:00.642185688Z",
     "last_played_at": "2026-03-08T19:46:50.685Z"
   },
   "top_artists": [
@@ -83,40 +84,60 @@
       "name": "The Avalanches",
       "play_count": 4,
       "spotify_artist_id": "3C8RpaI3Go0yFF9whvKoED",
+      "musicbrainz_artist_id": "a6623d39-2d8e-4f70-8242-0a9553b91e50",
       "spotify_url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
     },
     {
       "canonical_slug": "negativland",
       "name": "Negativland",
-      "play_count": 1,
+      "play_count": 3,
       "spotify_artist_id": "6m6fw8IM7yDdkdgjBTTisW",
+      "musicbrainz_artist_id": "78c1866f-92d8-4180-98ea-fe88121aa195",
       "spotify_url": "https://open.spotify.com/artist/6m6fw8IM7yDdkdgjBTTisW"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "negativland--escape-from-noise",
+      "name": "Escape from Noise",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "spotify_album_id": "1iI8thQSDO3kvRxMtxNuTD",
+      "musicbrainz_release_id": "bfd0eb6b-d1f1-42a4-9bad-a440ee36053f",
+      "musicbrainz_release_group_id": "138fcf27-19b8-3a2d-bfc1-a603e87fa62d"
+    },
+    {
       "canonical_slug": "the-avalanches--since-i-left-you-20th-anniversary-deluxe-edition",
       "name": "Since I Left You (20th Anniversary Deluxe Edition)",
       "play_count": 2,
       "primary_artist_canonical_slug": "the-avalanches",
-      "primary_artist_name": "The Avalanches"
+      "primary_artist_name": "The Avalanches",
+      "spotify_album_id": "0YtYaaO0aipyeQl0xhAWTO"
     },
     {
       "canonical_slug": "the-avalanches--wildflower",
       "name": "Wildflower",
       "play_count": 2,
       "primary_artist_canonical_slug": "the-avalanches",
-      "primary_artist_name": "The Avalanches"
-    },
-    {
-      "canonical_slug": "negativland--escape-from-noise",
-      "name": "Escape from Noise",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "negativland",
-      "primary_artist_name": "Negativland"
+      "primary_artist_name": "The Avalanches",
+      "spotify_album_id": "0j0djiGxLnBiW7meVc2PER",
+      "musicbrainz_release_id": "122c1e12-144f-489e-a563-85845f002d2a",
+      "musicbrainz_release_group_id": "e27e2c64-8e49-43d2-8468-c3b484cf11f0"
     }
   ],
   "top_tracks": [
+    {
+      "canonical_slug": "negativland--announcement",
+      "name": "Announcement",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "negativland",
+      "primary_artist_name": "Negativland",
+      "release_canonical_slug": "negativland--escape-from-noise",
+      "release_name": "Escape from Noise",
+      "spotify_track_id": "2nB8br6vbE8MYsBmCR9aia",
+      "spotify_url": "https://open.spotify.com/track/2nB8br6vbE8MYsBmCR9aia"
+    },
     {
       "canonical_slug": "the-avalanches--frontier-psychiatrist",
       "name": "Frontier Psychiatrist",
@@ -168,6 +189,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

@@ -1,0 +1,85 @@
+{
+  "canonical_slug": "reggae-music",
+  "display_title": "Reggae Music",
+  "display_name": "Reggae Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Reggae",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reggae",
+  "summary": "Reggae is a music genre that originated in Jamaica in the late 1960s. The term also refers to the modern popular music of Jamaica and its diaspora. The 1968 single by Toots and the Maytals titled \"Do the Reggay\" was the first popular song to use the word reggae, effectively naming the genre and introducing it to a global audience.",
+  "candidates": [
+    "Ragga music",
+    "Regal (musical instrument)",
+    "Regal (musician)",
+    "Regal Musical Instrument Company",
+    "Reggae fusion",
+    "Reggae music",
+    "Reggae music in Kenya",
+    "Reggae musician list",
+    "Reggaematic Funk",
+    "This Is Reggae Music: The Golden Era 1960–1975"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Reggae",
+    "page_url": "https://en.wikipedia.org/wiki/Reggae",
+    "retrieved_at": "2026-03-28T16:00:12Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Redirect arrow without text.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Redirect_arrow_without_text.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Redirect_arrow_without_text.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Redirect_arrow_without_text.svg/960px-Redirect_arrow_without_text.svg.png",
+    "width": 47,
+    "height": 20,
+    "license": "Public domain",
+    "author": "Originally \u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"//commons.wikimedia.org/wiki/User:Kieff\" class=\"mw-redirect\" title=\"User:Kieff\"\u003eKieff\u003c/a\u003e, made transparent by \u003ca href=\"//commons.wikimedia.org/wiki/User:Alterego\" title=\"User:Alterego\"\u003eAlterego\u003c/a\u003e, and edited by \u003ca href=\"//commons.wikimedia.org/wiki/User:Get_It\" title=\"User:Get It\"\u003eGet_It\u003c/a\u003e until current PNG version. \u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"//commons.wikimedia.org/wiki/User:Nethac_DIU\" title=\"User:Nethac DIU\"\u003eNethac DIU\u003c/a\u003e\n\u003cdiv class=\"description es\" dir=\"ltr\" lang=\"es\"\u003e\u003cspan class=\"language es\" title=\"Spanish\"\u003e\u003cb\u003eEspañol: \u003c/b\u003e\u003c/span\u003e Originalmente dibujada por \u003ca href=\"//commons.wikimedia.org/wiki/User:Kieff\" class=\"mw-redirect\" title=\"User:Kieff\"\u003eKieff\u003c/a\u003e\u003c/div\u003e, hecha transparente por \u003ca href=\"//commons.wikimedia.org/wiki/User:Alterego\" title=\"User:Alterego\"\u003eAlterego\u003c/a\u003e, y editada por \u003ca href=\"//commons.wikimedia.org/wiki/User:Get_It\" title=\"User:Get It\"\u003eGet_It\u003c/a\u003e hasta la versión actual en PNG. Vectorizada por \u003ca href=\"//commons.wikimedia.org/wiki/User:Nethac_DIU\" title=\"User:Nethac DIU\"\u003eNethac DIU\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Redirect arrow without text.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Redirect_arrow_without_text.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Redirect_arrow_without_text.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Redirect_arrow_without_text.svg/960px-Redirect_arrow_without_text.svg.png",
+      "width": 47,
+      "height": 20,
+      "license": "Public domain",
+      "author": "Originally \u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"//commons.wikimedia.org/wiki/User:Kieff\" class=\"mw-redirect\" title=\"User:Kieff\"\u003eKieff\u003c/a\u003e, made transparent by \u003ca href=\"//commons.wikimedia.org/wiki/User:Alterego\" title=\"User:Alterego\"\u003eAlterego\u003c/a\u003e, and edited by \u003ca href=\"//commons.wikimedia.org/wiki/User:Get_It\" title=\"User:Get It\"\u003eGet_It\u003c/a\u003e until current PNG version. \u003cb\u003eVectorization: \u003c/b\u003e \u003ca href=\"//commons.wikimedia.org/wiki/User:Nethac_DIU\" title=\"User:Nethac DIU\"\u003eNethac DIU\u003c/a\u003e\n\u003cdiv class=\"description es\" dir=\"ltr\" lang=\"es\"\u003e\u003cspan class=\"language es\" title=\"Spanish\"\u003e\u003cb\u003eEspañol: \u003c/b\u003e\u003c/span\u003e Originalmente dibujada por \u003ca href=\"//commons.wikimedia.org/wiki/User:Kieff\" class=\"mw-redirect\" title=\"User:Kieff\"\u003eKieff\u003c/a\u003e\u003c/div\u003e, hecha transparente por \u003ca href=\"//commons.wikimedia.org/wiki/User:Alterego\" title=\"User:Alterego\"\u003eAlterego\u003c/a\u003e, y editada por \u003ca href=\"//commons.wikimedia.org/wiki/User:Get_It\" title=\"User:Get It\"\u003eGet_It\u003c/a\u003e hasta la versión actual en PNG. Vectorizada por \u003ca href=\"//commons.wikimedia.org/wiki/User:Nethac_DIU\" title=\"User:Nethac DIU\"\u003eNethac DIU\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--reggae-music.json",
+      "url": "https://en.wikipedia.org/wiki/Reggae",
+      "retrieved_at": "2026-03-28T16:00:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--reggae-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Redirect_arrow_without_text.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

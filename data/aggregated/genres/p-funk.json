@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "p-funk",
+  "display_title": "P Funk",
+  "display_name": "P Funk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Parliament-Funkadelic",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Parliament-Funkadelic",
+  "summary": "Parliament-Funkadelic is an American music collective of rotating musicians headed by George Clinton, primarily consisting of the funk bands Parliament and Funkadelic, both active since the 1960s. With an eclectic style drawing on psychedelia, outlandish fashion, and surreal humor, they have released albums such as Maggot Brain (1971), Mothership Connection (1975), and One Nation Under a Groove (1978) to critical praise, and scored charting hits with singles such as \"Tear the Roof Off the Sucker\" (1975) and \"Flash Light\" (1978). Overall, the collective achieved thirteen top ten hits in the American R\u0026B music charts between 1967 and 1983, including six number one hits. Their work has had an influential effect on subsequent funk, post-punk, hip-hop, and techno artists of the 1980s and 1990s, while their collective mythology has helped pioneer Afrofuturism.",
+  "candidates": [
+    "CM Punk",
+    "P Is the Funk",
+    "P funk",
+    "P-Funk (Wants to Get Funked Up)",
+    "P-Funk Earth Tour",
+    "P-Funk Mothership",
+    "P-Funk members",
+    "P-Funk mythology",
+    "Pop-punk",
+    "Punk rock"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Parliament-Funkadelic",
+    "page_url": "https://en.wikipedia.org/wiki/Parliament-Funkadelic",
+    "retrieved_at": "2026-03-28T15:59:14Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/George_Clinton_2006.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/George_Clinton_2006.jpg/330px-George_Clinton_2006.jpg",
+    "width": 3008,
+    "height": 2000
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--p-funk.json",
+      "url": "https://en.wikipedia.org/wiki/Parliament-Funkadelic",
+      "retrieved_at": "2026-03-28T15:59:14Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--p-funk.json",
+      "url": "https://en.wikipedia.org/wiki/Parliament-Funkadelic",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

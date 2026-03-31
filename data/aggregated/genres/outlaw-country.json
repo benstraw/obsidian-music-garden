@@ -6,7 +6,8 @@
   "aliases": [
     "outlaw country"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "draft",
   "status": "matched",
   "wikipedia_title": "Outlaw country",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Outlaw_country",
@@ -52,19 +53,20 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 12,
+    "play_count": 13,
     "unique_artist_count": 5,
-    "unique_release_count": 5,
-    "unique_track_count": 5,
-    "first_played_at": "2026-03-03T11:19:45.423Z",
+    "unique_release_count": 6,
+    "unique_track_count": 6,
+    "first_played_at": "2024-01-01T00:00:00.52750934Z",
     "last_played_at": "2026-03-15T19:35:10.245Z"
   },
   "top_artists": [
     {
       "canonical_slug": "brent-cobb",
       "name": "Brent Cobb",
-      "play_count": 6,
+      "play_count": 7,
       "spotify_artist_id": "26C2AjqgMr5aDzj6Yp2ORz",
+      "musicbrainz_artist_id": "98213b08-577a-43a8-8376-b267284558c6",
       "spotify_url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
     },
     {
@@ -72,6 +74,7 @@
       "name": "David Allan Coe",
       "play_count": 3,
       "spotify_artist_id": "6nwh8AhPpbwOUnHZJWrHT6",
+      "musicbrainz_artist_id": "d6ad0ad1-2a7c-4d5f-8776-331a3732360c",
       "spotify_url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
     },
     {
@@ -79,6 +82,7 @@
       "name": "Cross Canadian Ragweed",
       "play_count": 1,
       "spotify_artist_id": "5Vz7hlMWR4OFye64dYoGm0",
+      "musicbrainz_artist_id": "5db6febe-4179-459c-8d31-37cfc8d191a9",
       "spotify_url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
     },
     {
@@ -86,6 +90,7 @@
       "name": "Joshua Ray Walker",
       "play_count": 1,
       "spotify_artist_id": "5SlqleEyFgUYZEZCJ5juDr",
+      "musicbrainz_artist_id": "37540a51-8432-46c2-82d1-0b0a6e95af74",
       "spotify_url": "https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr"
     },
     {
@@ -93,6 +98,7 @@
       "name": "Townes Van Zandt",
       "play_count": 1,
       "spotify_artist_id": "3ZWab2LEVkNKiBPIClTwof",
+      "musicbrainz_artist_id": "d67d1a21-6e45-4dd6-aef0-0191ba3796e0",
       "spotify_url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
     }
   ],
@@ -102,35 +108,60 @@
       "name": "Keep 'Em on They Toes",
       "play_count": 6,
       "primary_artist_canonical_slug": "brent-cobb",
-      "primary_artist_name": "Brent Cobb"
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "0NrDp8wKKFdhyHSMlcHBnD",
+      "musicbrainz_release_id": "f07a248d-a28d-4b9e-ad16-1bfac4e44cc8",
+      "musicbrainz_release_group_id": "7fa57349-3794-4304-a46d-3b7e7151339c"
     },
     {
       "canonical_slug": "david-allan-coe--once-upon-a-rhyme",
       "name": "Once Upon a Rhyme",
       "play_count": 3,
       "primary_artist_canonical_slug": "david-allan-coe",
-      "primary_artist_name": "David Allan Coe"
+      "primary_artist_name": "David Allan Coe",
+      "spotify_album_id": "6YfHzMRBscPjVqcxIQoXom",
+      "musicbrainz_release_id": "3fec35f7-b294-42c8-a987-45bac9273556",
+      "musicbrainz_release_group_id": "81057829-25c3-3cbe-8a1f-4efc13927db7"
     },
     {
       "canonical_slug": "cross-canadian-ragweed--live-and-loud-at-the-wormy-dog-saloon",
       "name": "Live \u0026 Loud At The Wormy Dog Saloon",
       "play_count": 1,
       "primary_artist_canonical_slug": "cross-canadian-ragweed",
-      "primary_artist_name": "Cross Canadian Ragweed"
+      "primary_artist_name": "Cross Canadian Ragweed",
+      "spotify_album_id": "72YbH4he1XGP1kW3Nmjxc8",
+      "musicbrainz_release_id": "7faf7341-7eee-4ca9-880f-2a10c398fcda",
+      "musicbrainz_release_group_id": "cc4b98cb-72d2-3bcb-9976-bbecf1bcf180"
+    },
+    {
+      "canonical_slug": "brent-cobb--shine-on-rainy-day",
+      "name": "Shine On Rainy Day",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "spotify_album_id": "3UJXcmx1XSLeimF0dwVsbg",
+      "musicbrainz_release_id": "b8047c66-3dc4-4b35-acf3-4aba0b46a4d5",
+      "musicbrainz_release_group_id": "82b2dc07-e207-4ea4-9c7e-e07447b6843f"
     },
     {
       "canonical_slug": "townes-van-zandt--townes-van-zandt",
       "name": "Townes Van Zandt",
       "play_count": 1,
       "primary_artist_canonical_slug": "townes-van-zandt",
-      "primary_artist_name": "Townes Van Zandt"
+      "primary_artist_name": "Townes Van Zandt",
+      "spotify_album_id": "6KFVwdp9yZczVIVv4glWue",
+      "musicbrainz_release_id": "af77efc3-60eb-4d4b-b53f-9b7f95c36889",
+      "musicbrainz_release_group_id": "4801bedb-ca04-3aef-a520-798b799778d1"
     },
     {
       "canonical_slug": "joshua-ray-walker--wish-you-were-here",
       "name": "Wish You Were Here",
       "play_count": 1,
       "primary_artist_canonical_slug": "joshua-ray-walker",
-      "primary_artist_name": "Joshua Ray Walker"
+      "primary_artist_name": "Joshua Ray Walker",
+      "spotify_album_id": "7d0SVeZ9lBZ83EBAn6DgWu",
+      "musicbrainz_release_id": "cf8f5fed-f690-436e-832f-48328cf45c64",
+      "musicbrainz_release_group_id": "86365e35-fc8b-4ebf-80f6-d91a140ad9cb"
     }
   ],
   "top_tracks": [
@@ -168,6 +199,17 @@
       "spotify_url": "https://open.spotify.com/track/60ZfWcLKGGNVepG0BzpEcB"
     },
     {
+      "canonical_slug": "brent-cobb--down-in-the-gulley",
+      "name": "Down In The Gulley",
+      "play_count": 1,
+      "primary_artist_canonical_slug": "brent-cobb",
+      "primary_artist_name": "Brent Cobb",
+      "release_canonical_slug": "brent-cobb--shine-on-rainy-day",
+      "release_name": "Shine On Rainy Day",
+      "spotify_track_id": "7IPMqEaPMAjAIRXjyGOgxD",
+      "spotify_url": "https://open.spotify.com/track/7IPMqEaPMAjAIRXjyGOgxD"
+    },
+    {
       "canonical_slug": "townes-van-zandt--i-ll-be-here-in-the-morning",
       "name": "I'll Be Here in the Morning",
       "play_count": 1,
@@ -196,6 +238,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

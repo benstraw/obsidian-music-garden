@@ -6,7 +6,8 @@
   "aliases": [
     "ska punk"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Ska punk",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Ska_punk",
@@ -80,50 +81,120 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 22,
+    "play_count": 198,
     "unique_artist_count": 1,
-    "unique_release_count": 3,
-    "unique_track_count": 18,
-    "first_played_at": "2026-03-03T01:21:14.093Z",
+    "unique_release_count": 12,
+    "unique_track_count": 129,
+    "first_played_at": "2024-01-01T00:00:00.350076005Z",
     "last_played_at": "2026-03-19T01:47:54.056Z"
   },
   "top_artists": [
     {
       "canonical_slug": "sublime",
       "name": "Sublime",
-      "play_count": 22,
+      "play_count": 198,
       "spotify_artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+      "musicbrainz_artist_id": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
       "spotify_url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "sublime--everything-under-the-sun",
+      "name": "Everything Under The Sun",
+      "play_count": 92,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "5fJ2bEPDiCX5BLr5PYSauS",
+      "musicbrainz_release_id": "ce76e432-567e-4eda-90ee-d4aa839244ae",
+      "musicbrainz_release_group_id": "110cfaf9-822e-38e9-ad4b-d84da7b74daa"
+    },
+    {
       "canonical_slug": "sublime--40oz-to-freedom",
       "name": "40oz. To Freedom",
-      "play_count": 18,
+      "play_count": 41,
       "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime"
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "0vuwlanMPucXrYMGnOjhYL"
     },
     {
       "canonical_slug": "sublime--sublime",
       "name": "Sublime",
-      "play_count": 3,
+      "play_count": 11,
       "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime"
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "14eK347GdWO4mBBx78tsut",
+      "musicbrainz_release_id": "159be5fc-fc1e-4c90-83ad-1c9e19488efc",
+      "musicbrainz_release_group_id": "0430d8c5-7417-3c4c-9f2a-b7d02ef7d164"
     },
     {
-      "canonical_slug": "sublime--everything-under-the-sun",
-      "name": "Everything Under The Sun",
-      "play_count": 1,
+      "canonical_slug": "sublime--5-at-the-door-live-at-tressel-tavern-1994",
+      "name": "$5 At The Door (Live at Tressel Tavern, 1994)",
+      "play_count": 9,
       "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime"
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "4SsUhMdeVbtmIVpHps7Jzc"
+    },
+    {
+      "canonical_slug": "sublime--robbin-the-hood",
+      "name": "Robbin' The Hood",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "0yZuUc5poB8rtqkbmA0APm",
+      "musicbrainz_release_id": "15a8ef74-ccbb-492c-af40-c999e35bc5b6",
+      "musicbrainz_release_group_id": "34abb96d-dc57-37a4-a56f-f36d406818e9"
+    },
+    {
+      "canonical_slug": "sublime--sublime-meets-scientist-and-mad-professor-inna-l-b-c",
+      "name": "Sublime Meets Scientist \u0026 Mad Professor Inna L.B.C.",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "1uFb8xIikYRlfXfsHpnEMu"
+    },
+    {
+      "canonical_slug": "sublime--jah-won-t-pay-the-bills",
+      "name": "Jah Won't Pay The Bills",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "02VqlfUtNMogzTh1lckGOF",
+      "musicbrainz_release_id": "46869c1b-94d7-4bc3-9774-0455e1109f92",
+      "musicbrainz_release_group_id": "95e1798e-12fb-3fc9-8c10-e84c3113ffad"
+    },
+    {
+      "canonical_slug": "sublime--sublime-10th-anniversary-edition-deluxe-edition-2",
+      "name": "Sublime (10th Anniversary Edition / Deluxe Edition)",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "4kq4T5cWLlP8NJkMA3S6AN"
+    },
+    {
+      "canonical_slug": "sublime--sublime-acoustic-bradley-nowell-and-friends",
+      "name": "Sublime Acoustic: Bradley Nowell \u0026 Friends",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "760Zl8uV0tMet5ihlXOYDX"
+    },
+    {
+      "canonical_slug": "sublime--second-hand-smoke",
+      "name": "Second-Hand Smoke",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "spotify_album_id": "75TcMiwrxS0jHbWkbLnNqD",
+      "musicbrainz_release_id": "4ef09cab-23e6-4234-a1c6-8bf8f8ce4e00",
+      "musicbrainz_release_group_id": "918ea3b9-246c-37f8-bc55-1bf7d4c61783"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "sublime--right-back",
       "name": "Right Back",
-      "play_count": 4,
+      "play_count": 5,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--40oz-to-freedom",
@@ -132,31 +203,9 @@
       "spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda"
     },
     {
-      "canonical_slug": "sublime--d-j-s",
-      "name": "D.J.'s",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
-      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
-    },
-    {
-      "canonical_slug": "sublime--40oz-to-freedom",
-      "name": "40oz. To Freedom",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "0vtJ9Dq53hfXE3KyP1yPni",
-      "spotify_url": "https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"
-    },
-    {
       "canonical_slug": "sublime--badfish",
       "name": "Badfish",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--40oz-to-freedom",
@@ -165,31 +214,20 @@
       "spotify_url": "https://open.spotify.com/track/2fXLhLA7cPYEmQ1NbeAtBD"
     },
     {
-      "canonical_slug": "sublime--don-t-push",
-      "name": "Don't Push",
-      "play_count": 1,
+      "canonical_slug": "sublime--d-j-s",
+      "name": "D.J.'s",
+      "play_count": 3,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--40oz-to-freedom",
       "release_name": "40oz. To Freedom",
-      "spotify_track_id": "4FlWVsDRnYa28oJSAApL4t",
-      "spotify_url": "https://open.spotify.com/track/4FlWVsDRnYa28oJSAApL4t"
-    },
-    {
-      "canonical_slug": "sublime--ebin",
-      "name": "Ebin",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "1CHuPmcfltngwCIztkX4wv",
-      "spotify_url": "https://open.spotify.com/track/1CHuPmcfltngwCIztkX4wv"
+      "spotify_track_id": "0dUQI22joLSJc0kSLNnRi4",
+      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4"
     },
     {
       "canonical_slug": "sublime--let-s-go-get-stoned",
       "name": "Let's Go Get Stoned",
-      "play_count": 1,
+      "play_count": 3,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--40oz-to-freedom",
@@ -198,37 +236,70 @@
       "spotify_url": "https://open.spotify.com/track/2qN7J3rwekpYjskmtOT6Ex"
     },
     {
-      "canonical_slug": "sublime--live-at-e-s",
-      "name": "Live At E's",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "2wNa2VUe6VY8JLBAMaxmLc",
-      "spotify_url": "https://open.spotify.com/track/2wNa2VUe6VY8JLBAMaxmLc"
-    },
-    {
-      "canonical_slug": "sublime--rivers-of-babylon",
-      "name": "Rivers Of Babylon",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "sublime",
-      "primary_artist_name": "Sublime",
-      "release_canonical_slug": "sublime--40oz-to-freedom",
-      "release_name": "40oz. To Freedom",
-      "spotify_track_id": "59FK9uQYzunUJOLky9K4yK",
-      "spotify_url": "https://open.spotify.com/track/59FK9uQYzunUJOLky9K4yK"
-    },
-    {
-      "canonical_slug": "sublime--roots-of-creation-demo",
-      "name": "Roots Of Creation - Demo",
-      "play_count": 1,
+      "canonical_slug": "sublime--perfect-world-rarities-version",
+      "name": "Perfect World - Rarities Version",
+      "play_count": 3,
       "primary_artist_canonical_slug": "sublime",
       "primary_artist_name": "Sublime",
       "release_canonical_slug": "sublime--everything-under-the-sun",
       "release_name": "Everything Under The Sun",
-      "spotify_track_id": "385maNWgHJ675jVKHFbobw",
-      "spotify_url": "https://open.spotify.com/track/385maNWgHJ675jVKHFbobw"
+      "spotify_track_id": "6QHLY8aRGTpAN0L3xUMCmP",
+      "spotify_url": "https://open.spotify.com/track/6QHLY8aRGTpAN0L3xUMCmP"
+    },
+    {
+      "canonical_slug": "sublime--what-i-got",
+      "name": "What I Got",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--sublime",
+      "release_name": "Sublime",
+      "spotify_track_id": "3B4q6KbHbGV51HO3GznBFF",
+      "spotify_url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+    },
+    {
+      "canonical_slug": "sublime--40oz-to-freedom",
+      "name": "40oz. To Freedom",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--40oz-to-freedom",
+      "release_name": "40oz. To Freedom",
+      "spotify_track_id": "0vtJ9Dq53hfXE3KyP1yPni",
+      "spotify_url": "https://open.spotify.com/track/0vtJ9Dq53hfXE3KyP1yPni"
+    },
+    {
+      "canonical_slug": "sublime--5446-rarities-version",
+      "name": "5446 - Rarities Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--everything-under-the-sun",
+      "release_name": "Everything Under The Sun",
+      "spotify_track_id": "5onXlZnQhuDx2ufIXqhD9z",
+      "spotify_url": "https://open.spotify.com/track/5onXlZnQhuDx2ufIXqhD9z"
+    },
+    {
+      "canonical_slug": "sublime--91-freestyle-rarities-version",
+      "name": "91 Freestyle - Rarities Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--everything-under-the-sun",
+      "release_name": "Everything Under The Sun",
+      "spotify_track_id": "5t3d7fQanvRZ4C8ArGi2fI",
+      "spotify_url": "https://open.spotify.com/track/5t3d7fQanvRZ4C8ArGi2fI"
+    },
+    {
+      "canonical_slug": "sublime--all-you-need-rarities-version",
+      "name": "All You Need - Rarities Version",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sublime",
+      "primary_artist_name": "Sublime",
+      "release_canonical_slug": "sublime--everything-under-the-sun",
+      "release_name": "Everything Under The Sun",
+      "spotify_track_id": "75EfqzJwoBSbpyybX6N5AB",
+      "spotify_url": "https://open.spotify.com/track/75EfqzJwoBSbpyybX6N5AB"
     }
   ],
   "source_refs": [
@@ -237,6 +308,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",

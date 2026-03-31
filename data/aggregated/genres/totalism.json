@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "totalism",
+  "display_title": "Totalism",
+  "display_name": "Totalism",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Totalism",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Totalism",
+  "summary": "Totalism is a style of art music that arose in the 1980s and 1990s as a response to minimalism. It paralleled postminimalism but involved a younger generation of creators, born in the 1950s. This term, invented by writer and composer Kyle Gann, has not been adopted by contemporary musicology and generally still refers only to Gann's use of it in his writings.",
+  "candidates": [
+    "Operation Totalize",
+    "Total Mortgage Arena",
+    "Total Siyapaa",
+    "Total station",
+    "TotalBiscuit",
+    "Totalisator Agency Board",
+    "Totalism",
+    "Totalitarianism",
+    "Totalmente Demais",
+    "Totális Metál"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Totalism",
+    "page_url": "https://en.wikipedia.org/wiki/Totalism",
+    "retrieved_at": "2026-03-28T16:01:38Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--totalism.json",
+      "url": "https://en.wikipedia.org/wiki/Totalism",
+      "retrieved_at": "2026-03-28T16:01:38Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

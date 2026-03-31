@@ -6,7 +6,8 @@
   "aliases": [
     "soft rock"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Soft rock",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Soft_rock",
@@ -57,68 +58,209 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 4,
-    "unique_artist_count": 2,
-    "unique_release_count": 3,
-    "unique_track_count": 4,
-    "first_played_at": "2026-02-16T02:08:58.308Z",
-    "last_played_at": "2026-03-03T02:11:03.432Z"
+    "play_count": 57,
+    "unique_artist_count": 13,
+    "unique_release_count": 31,
+    "unique_track_count": 44,
+    "first_played_at": "2024-01-01T00:00:00.145983296Z",
+    "last_played_at": "2026-03-28T23:48:47.214Z"
   },
   "top_artists": [
+    {
+      "canonical_slug": "tim-buckley",
+      "name": "Tim Buckley",
+      "play_count": 9,
+      "spotify_artist_id": "6zHRqvws8dVeqL8D31ponr",
+      "musicbrainz_artist_id": "8546949d-f46c-45ab-8391-85b26dda6b65",
+      "spotify_url": "https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr"
+    },
+    {
+      "canonical_slug": "america",
+      "name": "America",
+      "play_count": 8,
+      "spotify_artist_id": "35U9lQaRWSQISxQAB94Meo",
+      "spotify_url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+    },
+    {
+      "canonical_slug": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "play_count": 8,
+      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
+      "musicbrainz_artist_id": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+    },
+    {
+      "canonical_slug": "carole-king",
+      "name": "Carole King",
+      "play_count": 7,
+      "spotify_artist_id": "319yZVtYM9MBGqmSQnMyY6",
+      "musicbrainz_artist_id": "bf6c29f5-b69f-4842-9031-37f9645d365d",
+      "spotify_url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+    },
+    {
+      "canonical_slug": "jack-johnson",
+      "name": "Jack Johnson",
+      "play_count": 6,
+      "spotify_artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+      "musicbrainz_artist_id": "ff6e677f-91dd-4986-a174-8db0474b1799",
+      "spotify_url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+    },
+    {
+      "canonical_slug": "daryl-hall-and-john-oates",
+      "name": "Daryl Hall \u0026 John Oates",
+      "play_count": 4,
+      "spotify_artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+      "spotify_url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+    },
+    {
+      "canonical_slug": "jackson-browne",
+      "name": "Jackson Browne",
+      "play_count": 4,
+      "spotify_artist_id": "5lkiCO9UQ8B23dZ1o0UV4m",
+      "musicbrainz_artist_id": "88527d26-7496-47c5-8358-ebdb1868a90f",
+      "spotify_url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+    },
+    {
+      "canonical_slug": "ambrosia",
+      "name": "Ambrosia",
+      "play_count": 3,
+      "spotify_artist_id": "0J2Ej2rMQyqaUX3G6MUISw",
+      "spotify_url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+    },
     {
       "canonical_slug": "mark-knopfler",
       "name": "Mark Knopfler",
       "play_count": 3,
       "spotify_artist_id": "0FI0kxP0BWurTz8cB8BBug",
+      "musicbrainz_artist_id": "e49f69da-17d5-4c5c-bac0-dadcb0e588f5",
       "spotify_url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
     },
     {
-      "canonical_slug": "fleetwood-mac",
-      "name": "Fleetwood Mac",
-      "play_count": 1,
-      "spotify_artist_id": "08GQAI4eElDnROBrJRGE0X",
-      "spotify_url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+      "canonical_slug": "seals-and-crofts",
+      "name": "Seals and Crofts",
+      "play_count": 2,
+      "spotify_artist_id": "6jdObwsrIjSRnBbMw6lPBj",
+      "spotify_url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
     }
   ],
   "top_releases": [
+    {
+      "canonical_slug": "jack-johnson--in-between-dreams",
+      "name": "In Between Dreams",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "jack-johnson",
+      "primary_artist_name": "Jack Johnson",
+      "spotify_album_id": "7tTc46dNdE6GGuiQsssWxo",
+      "musicbrainz_release_id": "3aa38601-3fdc-4bcf-8283-5ca307af9f5b",
+      "musicbrainz_release_group_id": "20151063-d6d9-3131-91ac-5c4a7a0f5f01"
+    },
+    {
+      "canonical_slug": "america--america",
+      "name": "America",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "america",
+      "primary_artist_name": "America"
+    },
+    {
+      "canonical_slug": "tim-buckley--goodbye-and-hello",
+      "name": "Goodbye And Hello",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "spotify_album_id": "1jKfTvT64lcQwA74WmkKiJ",
+      "musicbrainz_release_id": "99466c7f-0bfa-4a76-958f-e58c6a028f2a",
+      "musicbrainz_release_group_id": "2e569a55-d829-31c8-9016-0c9a56333288"
+    },
+    {
+      "canonical_slug": "carole-king--tapestry",
+      "name": "Tapestry",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "spotify_album_id": "12n11cgnpjXKLeqrnIERoS",
+      "musicbrainz_release_id": "74467fc2-2b96-3e25-914b-082a82373014",
+      "musicbrainz_release_group_id": "6e4f39e6-3403-39d7-81c6-8e61a990d509"
+    },
+    {
+      "canonical_slug": "tim-buckley--happy-sad",
+      "name": "Happy Sad",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "spotify_album_id": "20CYfxjKvqXkCXBhAgOE39",
+      "musicbrainz_release_id": "30438d95-b851-45da-ab0c-1de75ec7502e",
+      "musicbrainz_release_group_id": "50701e2b-a074-380e-82aa-cfb21421dbb4"
+    },
+    {
+      "canonical_slug": "carole-king--rhymes-and-reasons",
+      "name": "Rhymes \u0026 Reasons",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "spotify_album_id": "3kUmJfZkReqIb3ZqB4Q4kv",
+      "musicbrainz_release_id": "95133e0b-bc60-4fb2-962e-20f74cc84f21",
+      "musicbrainz_release_group_id": "1350801a-8797-3d8d-b444-33d016ff3040"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--rumours-super-deluxe",
+      "name": "Rumours (Super Deluxe)",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "spotify_album_id": "0BwWUstDMUbgq2NYONRqlu"
+    },
+    {
+      "canonical_slug": "daryl-hall-and-john-oates--abandoned-luncheonette",
+      "name": "Abandoned Luncheonette",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "daryl-hall-and-john-oates",
+      "primary_artist_name": "Daryl Hall \u0026 John Oates"
+    },
     {
       "canonical_slug": "mark-knopfler--all-the-roadrunning",
       "name": "All The Roadrunning",
       "play_count": 2,
       "primary_artist_canonical_slug": "mark-knopfler",
-      "primary_artist_name": "Mark Knopfler"
+      "primary_artist_name": "Mark Knopfler",
+      "spotify_album_id": "6oGCz3d9MqAB6OVMUOLibu",
+      "musicbrainz_release_id": "5a47bfe3-721e-47d4-ae4e-a26b165e2719",
+      "musicbrainz_release_group_id": "fcb95e96-cdba-4fa5-8795-28825cca7535"
     },
     {
-      "canonical_slug": "mark-knopfler--real-live-roadrunning",
-      "name": "Real Live Roadrunning",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mark-knopfler",
-      "primary_artist_name": "Mark Knopfler"
-    },
-    {
-      "canonical_slug": "fleetwood-mac--rumours-super-deluxe",
-      "name": "Rumours (Super Deluxe)",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "fleetwood-mac",
-      "primary_artist_name": "Fleetwood Mac"
+      "canonical_slug": "america--homecoming",
+      "name": "Homecoming",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "america",
+      "primary_artist_name": "America"
     }
   ],
   "top_tracks": [
     {
-      "canonical_slug": "mark-knopfler--beyond-my-wildest-dreams",
-      "name": "Beyond My Wildest Dreams",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mark-knopfler",
-      "primary_artist_name": "Mark Knopfler",
-      "release_canonical_slug": "mark-knopfler--all-the-roadrunning",
-      "release_name": "All The Roadrunning",
-      "spotify_track_id": "3SlOROUWa6OQe77oID5nix",
-      "spotify_url": "https://open.spotify.com/track/3SlOROUWa6OQe77oID5nix"
+      "canonical_slug": "carole-king--bitter-with-the-sweet",
+      "name": "Bitter with the Sweet",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "release_canonical_slug": "carole-king--rhymes-and-reasons",
+      "release_name": "Rhymes \u0026 Reasons",
+      "spotify_track_id": "6MBS3ARYYlI4FtYjaTinK5",
+      "spotify_url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "canonical_slug": "jack-johnson--banana-pancakes",
+      "name": "Banana Pancakes",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jack-johnson",
+      "primary_artist_name": "Jack Johnson",
+      "release_canonical_slug": "jack-johnson--in-between-dreams",
+      "release_name": "In Between Dreams",
+      "spotify_track_id": "451GvHwY99NKV4zdKPRWmv",
+      "spotify_url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
     },
     {
       "canonical_slug": "fleetwood-mac--dreams-2004-remaster",
       "name": "Dreams - 2004 Remaster",
-      "play_count": 1,
+      "play_count": 2,
       "primary_artist_canonical_slug": "fleetwood-mac",
       "primary_artist_name": "Fleetwood Mac",
       "release_canonical_slug": "fleetwood-mac--rumours-super-deluxe",
@@ -127,26 +269,81 @@
       "spotify_url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
-      "canonical_slug": "mark-knopfler--love-and-happiness",
-      "name": "Love and Happiness",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mark-knopfler",
-      "primary_artist_name": "Mark Knopfler",
-      "release_canonical_slug": "mark-knopfler--all-the-roadrunning",
-      "release_name": "All The Roadrunning",
-      "spotify_track_id": "0cnFQVdwqvAkq3MinhdCf0",
-      "spotify_url": "https://open.spotify.com/track/0cnFQVdwqvAkq3MinhdCf0"
+      "canonical_slug": "daryl-hall-and-john-oates--fall-in-philadelphia",
+      "name": "Fall in Philadelphia",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "daryl-hall-and-john-oates",
+      "primary_artist_name": "Daryl Hall \u0026 John Oates",
+      "release_canonical_slug": "daryl-hall-and-john-oates--whole-oats",
+      "release_name": "Whole Oats",
+      "spotify_track_id": "4JsRR4poQA4L4hpe7fB8P9",
+      "spotify_url": "https://open.spotify.com/track/4JsRR4poQA4L4hpe7fB8P9"
     },
     {
-      "canonical_slug": "mark-knopfler--our-shangri-la-live-at-gibson-amphitheatre-june-28th-2006",
-      "name": "Our Shangri-La - Live At Gibson Amphitheatre / June 28th 2006",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "mark-knopfler",
-      "primary_artist_name": "Mark Knopfler",
-      "release_canonical_slug": "mark-knopfler--real-live-roadrunning",
-      "release_name": "Real Live Roadrunning",
-      "spotify_track_id": "6r4e2Yjlt4opFysenbx08o",
-      "spotify_url": "https://open.spotify.com/track/6r4e2Yjlt4opFysenbx08o"
+      "canonical_slug": "fleetwood-mac--hypnotized",
+      "name": "Hypnotized",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "release_canonical_slug": "fleetwood-mac--mystery-to-me",
+      "release_name": "Mystery to Me",
+      "spotify_track_id": "1cHCG42MxckrXNFqyF8Uhr",
+      "spotify_url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr"
+    },
+    {
+      "canonical_slug": "fleetwood-mac--man-of-the-world-1998-remaster",
+      "name": "Man of the World - 1998 Remaster",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "fleetwood-mac",
+      "primary_artist_name": "Fleetwood Mac",
+      "release_canonical_slug": "fleetwood-mac--men-of-the-world-the-early-years",
+      "release_name": "Men of the World: The Early Years",
+      "spotify_track_id": "6fnZKO6nWl3elfvT11j5Mn",
+      "spotify_url": "https://open.spotify.com/track/6fnZKO6nWl3elfvT11j5Mn"
+    },
+    {
+      "canonical_slug": "tim-buckley--morning-glory",
+      "name": "Morning Glory",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "release_canonical_slug": "tim-buckley--goodbye-and-hello",
+      "release_name": "Goodbye And Hello",
+      "spotify_track_id": "3J09tJweoMVDYd8Fwjb1Nt",
+      "spotify_url": "https://open.spotify.com/track/3J09tJweoMVDYd8Fwjb1Nt"
+    },
+    {
+      "canonical_slug": "jack-johnson--never-know",
+      "name": "Never Know",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "jack-johnson",
+      "primary_artist_name": "Jack Johnson",
+      "release_canonical_slug": "jack-johnson--in-between-dreams",
+      "release_name": "In Between Dreams",
+      "spotify_track_id": "3dKFxCpVtK3g9KAB8S1FwY",
+      "spotify_url": "https://open.spotify.com/track/3dKFxCpVtK3g9KAB8S1FwY"
+    },
+    {
+      "canonical_slug": "tim-buckley--once-i-was",
+      "name": "Once I Was",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "release_canonical_slug": "tim-buckley--goodbye-and-hello",
+      "release_name": "Goodbye And Hello",
+      "spotify_track_id": "6iI6NXjtI3IkjK2k1juqaX",
+      "spotify_url": "https://open.spotify.com/track/6iI6NXjtI3IkjK2k1juqaX"
+    },
+    {
+      "canonical_slug": "tim-buckley--sing-a-song-for-you",
+      "name": "Sing a Song for You",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "tim-buckley",
+      "primary_artist_name": "Tim Buckley",
+      "release_canonical_slug": "tim-buckley--happy-sad",
+      "release_name": "Happy Sad",
+      "spotify_track_id": "01o6YGrdvMrUAFmWgwoDCb",
+      "spotify_url": "https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb"
     }
   ],
   "source_refs": [
@@ -155,6 +352,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -176,9 +379,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-03T02:11:03.432Z",
+      "updated_at": "2026-03-28T23:48:47.214Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-28T23:48:47.214Z"
 }

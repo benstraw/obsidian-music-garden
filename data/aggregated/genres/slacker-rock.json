@@ -1,0 +1,92 @@
+{
+  "canonical_slug": "slacker-rock",
+  "display_title": "Slacker Rock",
+  "display_name": "Slacker Rock",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Slacker rock",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Slacker_rock",
+  "summary": "Slacker rock is a subgenre of indie rock that emerged in the United States during the late 1980s to early 1990s. Characterized by a rejection of technical proficiency and production quality, in favor of stripped down lo-fi aesthetics and an apathetic singing style. The style was originally associated with Generation X slacker culture. It experienced a resurgence during the 2000s and 2010s amongst Millennials and Gen Z.",
+  "candidates": [
+    "Shaker rocker",
+    "Slacker rock",
+    "Slater Rocks"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Slacker rock",
+    "page_url": "https://en.wikipedia.org/wiki/Slacker_rock",
+    "retrieved_at": "2026-03-28T16:00:50Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Pavement2010.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Pavement2010.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pavement2010.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Pavement2010.jpg",
+      "width": 306,
+      "height": 306,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Niwi6\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Niwi6 (page does not exist)\"\u003eNW\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--slacker-rock.json",
+      "url": "https://en.wikipedia.org/wiki/Slacker_rock",
+      "retrieved_at": "2026-03-28T16:00:50Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--slacker-rock.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

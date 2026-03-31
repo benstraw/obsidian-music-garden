@@ -1,0 +1,36 @@
+{
+  "canonical_slug": "pop-punk",
+  "display_title": "Pop Punk",
+  "display_name": "Pop Punk",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "List of pop-punk bands",
+    "Pokpung-ho",
+    "Pop Drunk Snot Bread",
+    "Pop Punk Zombies",
+    "Pop Punks Not Dead Tour",
+    "Pop punk albums",
+    "Pop punk subculture",
+    "Pop-punk",
+    "Pop-punk chord progression",
+    "Post-punk"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_slug": "television-music",
+  "display_title": "Television Music",
+  "display_name": "Television Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "List of television theme music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_television_theme_music",
+  "summary": "The following list contains scores or songs which are the primary theme music of a television series or miniseries. They are sorted alphabetically by the television series' title. Any themes, scores, or songs which are billed under a different name than their respective television series' title are shown in parentheses, except in cases where they are officially billed as \"Theme from [Series' Name]\", \"[Series' Name] Theme\", etc., which are omitted. This list does not include television series whose broadcast run was less than ten episodes unless officially designated as a television miniseries. In cases where more than one piece of music was used for the main theme during the broadcast run of a television series, only the most widely recognized score is listed.",
+  "candidates": [
+    "Television Magic",
+    "Television in Mexico",
+    "Television music",
+    "Television musical"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "List of television theme music",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_television_theme_music",
+    "retrieved_at": "2026-03-28T16:01:32Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--television-music.json",
+      "url": "https://en.wikipedia.org/wiki/List_of_television_theme_music",
+      "retrieved_at": "2026-03-28T16:01:32Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

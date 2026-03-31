@@ -1,0 +1,127 @@
+{
+  "canonical_slug": "string-quartet",
+  "display_title": "String Quartet",
+  "display_name": "String Quartet",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "String quartet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/String_quartet",
+  "summary": "The term string quartet is a type of musical composition or a group of four people who play the quartets. Many composers from the mid-18th century onwards wrote string quartets. The associated musical ensemble consists of two violinists, a violist, and a cellist.",
+  "candidates": [
+    "List of string quartet ensembles",
+    "String Quartet (Ravel)",
+    "String Quartet No. 12 (Dvořák)",
+    "String Quartet No. 14 (Beethoven)",
+    "String Quartet No. 14 (Schubert)",
+    "String Quartet No. 15 (Beethoven)",
+    "String Quartets (Schoenberg)",
+    "String Quartets, Op. 20 (Haydn)",
+    "String Quartets, Op. 76 (Haydn)",
+    "String quartet"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "String quartet",
+    "page_url": "https://en.wikipedia.org/wiki/String_quartet",
+    "retrieved_at": "2026-03-28T16:01:15Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Audio a.svg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+    "width": 800,
+    "height": 460,
+    "license": "Public domain",
+    "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Audio a.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Audio_a.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Audio_a.svg/960px-Audio_a.svg.png",
+      "width": 800,
+      "height": 460,
+      "license": "Public domain",
+      "author": "\u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#BDC\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/File:%27A%27_(PSF).png\" title=\"File:'A' (PSF).png\"\u003e\u003cb\u003eOriginal: \u003c/b\u003e\u003c/a\u003e\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:3px 0;\"\u003ePearson Scott Foresman\u003c/div\u003e \u003cdiv style=\"display:inline-block;padding:0 3px;background-color:#CCF\"\u003eVector: \u003c/div\u003e \u003cdiv style=\"display:inline-block;\"\u003e\u003ca href=\"//commons.wikimedia.org/wiki/User:McSush\" title=\"User:McSush\"\u003eMcSush\u003c/a\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Casals Forum, Arensky string quartet encore.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Casals_Forum,_Arensky_string_quartet_encore.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Casals_Forum%2C_Arensky_string_quartet_encore.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Casals_Forum%2C_Arensky_string_quartet_encore.jpg/960px-Casals_Forum%2C_Arensky_string_quartet_encore.jpg",
+      "width": 2003,
+      "height": 1502,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Gerda_Arendt\" title=\"User:Gerda Arendt\"\u003eGerda Arendt\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Fitzwilliam Quartet.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Fitzwilliam_Quartet.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fitzwilliam_Quartet.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fitzwilliam_Quartet.jpg",
+      "width": 800,
+      "height": 600,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:Surreybirder\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:Surreybirder (page does not exist)\"\u003eSurreybirder\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Haydn StringQuartetInDMajorOp.64 JosephHaydn-StringQuartetInDOp.645H363Lark-01-AllegroModerato.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Haydn_StringQuartetInDMajorOp.64_JosephHaydn-StringQuartetInDOp.645H363Lark-01-AllegroModerato.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Haydn_StringQuartetInDMajorOp.64_JosephHaydn-StringQuartetInDOp.645H363Lark-01-AllegroModerato.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "PDM-owner",
+      "author": "Musopen String Quartet"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Haydn StringQuartetInDMajorOp.64 JosephHaydn-StringQuartetInDOp.645H363Lark-02-AdagioCantabile.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Haydn_StringQuartetInDMajorOp.64_JosephHaydn-StringQuartetInDOp.645H363Lark-02-AdagioCantabile.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Haydn_StringQuartetInDMajorOp.64_JosephHaydn-StringQuartetInDOp.645H363Lark-02-AdagioCantabile.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "PDM-owner",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Joseph_Haydn\" class=\"extiw\" title=\"w:en:Joseph Haydn\"\u003e\u003cspan title=\"Austrian composer (1732–1809)\"\u003eJoseph Haydn\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--string-quartet.json",
+      "url": "https://en.wikipedia.org/wiki/String_quartet",
+      "retrieved_at": "2026-03-28T16:01:15Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--string-quartet.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Audio_a.svg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

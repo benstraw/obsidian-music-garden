@@ -1,0 +1,96 @@
+{
+  "canonical_slug": "vocal-music",
+  "display_title": "Vocal Music",
+  "display_name": "Vocal Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Vocal music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vocal_music",
+  "summary": "Vocal music is a type of singing performed by one or more singers, either with instrumental accompaniment or without instrumental accompaniment, in which singing provides the main focus of the piece. Music which employs singing but does not feature it prominently is generally considered to be instrumental music as is music without singing. Music without any non-vocal instrumental accompaniment is referred to as a cappella.",
+  "candidates": [
+    "List of viral music videos",
+    "The Vicar (music producer)",
+    "Vocal mimicry",
+    "Vocal muscle",
+    "Vocal music",
+    "Vocal music (Bach)",
+    "Vocal music of India"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Vocal music",
+    "page_url": "https://en.wikipedia.org/wiki/Vocal_music",
+    "retrieved_at": "2026-03-28T16:02:02Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Men's Chorus In Kokomo Indiana (6214553464).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Men%27s_Chorus_In_Kokomo_Indiana_(6214553464).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Men%27s_Chorus_In_Kokomo_Indiana_%286214553464%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Men%27s_Chorus_In_Kokomo_Indiana_%286214553464%29.jpg",
+    "width": 600,
+    "height": 596,
+    "license": "No restrictions",
+    "license_url": "https://www.flickr.com/commons/usage/",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52529054@N06\"\u003eMennonite Church USA Archives\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Men's Chorus In Kokomo Indiana (6214553464).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Men%27s_Chorus_In_Kokomo_Indiana_(6214553464).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Men%27s_Chorus_In_Kokomo_Indiana_%286214553464%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Men%27s_Chorus_In_Kokomo_Indiana_%286214553464%29.jpg",
+      "width": 600,
+      "height": 596,
+      "license": "No restrictions",
+      "license_url": "https://www.flickr.com/commons/usage/",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52529054@N06\"\u003eMennonite Church USA Archives\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--vocal-music.json",
+      "url": "https://en.wikipedia.org/wiki/Vocal_music",
+      "retrieved_at": "2026-03-28T16:02:02Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--vocal-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Men%27s_Chorus_In_Kokomo_Indiana_(6214553464).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

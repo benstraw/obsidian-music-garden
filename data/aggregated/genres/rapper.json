@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "rapper",
+  "display_title": "Rapper",
+  "display_name": "Rapper",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Rapping",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rapping",
+  "summary": "Rapping is an artistic form of vocal delivery and emotive expression that incorporates \"rhyme, rhythmic speech, and [commonly] street vernacular\". It is usually performed over a backing beat or musical accompaniment. The components of rap include \"content\", \"flow\", and \"delivery\". Rap differs from spoken-word poetry in that it is usually performed off-time to musical accompaniment. It also differs from singing, which varies in pitch and does not always include words. Because they do not rely on pitch inflection, some rap artists may play with timbre or other vocal qualities. Rap is a primary ingredient of hip-hop music, and so commonly associated with the genre that it is sometimes called \"rap music\".",
+  "candidates": [
+    "Elisabeth von Rapperswil",
+    "Rapper",
+    "Rapper sword",
+    "Rapper's Delight",
+    "Rapperswil",
+    "Rapperswil Castle",
+    "Rapperswil railway station",
+    "Rapperswil, Bern",
+    "Rapperswil-Jona",
+    "The Rapper"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Rapping",
+    "page_url": "https://en.wikipedia.org/wiki/Rapping",
+    "retrieved_at": "2026-03-28T16:00:10Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/50_cent_en_concierto.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/50_cent_en_concierto.jpg/330px-50_cent_en_concierto.jpg",
+    "width": 1824,
+    "height": 1368
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--rapper.json",
+      "url": "https://en.wikipedia.org/wiki/Rapping",
+      "retrieved_at": "2026-03-28T16:00:10Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--rapper.json",
+      "url": "https://en.wikipedia.org/wiki/Rapping",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

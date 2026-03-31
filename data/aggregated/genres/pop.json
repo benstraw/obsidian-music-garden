@@ -7,33 +7,426 @@
     "pop rock"
   ],
   "pending": false,
-  "status": "ambiguous",
+  "workflow_state": "publishable",
+  "status": "matched",
+  "wikipedia_title": "Popular music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_music",
+  "summary": "Popular music is music with wide appeal that is typically distributed to large audiences through the music industry. These forms and styles can be enjoyed and performed by people with little or no musical training. As a kind of popular art, it stands in contrast to art music. Art music was historically disseminated through the performances of written music, although since the beginning of the recording industry, it is also disseminated through recordings. Traditional music forms such as early blues songs or hymns were passed along orally, or to smaller, local audiences.",
   "candidates": [
-    "List of popes",
-    "Pop",
-    "Pope",
-    "Pope Benedict XVI",
-    "Pope Francis",
-    "Pope John Paul II",
-    "Pope Leo XIV",
-    "Pope Pius XII",
-    "Poppy Playtime",
-    "Popular Mobilization Forces"
+    "Popular music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Popular music",
+    "page_url": "https://en.wikipedia.org/wiki/Popular_music",
+    "retrieved_at": "2026-03-29T09:14:35Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Didier Awadi.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Didier_Awadi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Didier_Awadi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Didier_Awadi.jpg",
+      "width": 594,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Seneweb"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jenny Lind in La Sonnambula.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jenny_Lind_in_La_Sonnambula.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jenny_Lind_in_La_Sonnambula.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jenny_Lind_in_La_Sonnambula.jpg",
+      "width": 700,
+      "height": 925,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\n\u003cp\u003ePrinted by: Day \u0026amp; Co\n\u003c/p\u003e\n\u003cdl\u003e\u003cdd\u003ePublished by: William Spooner\u003c/dd\u003e\u003c/dl\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KioskSF.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:KioskSF.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/KioskSF.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/KioskSF.JPG",
+      "width": 505,
+      "height": 408,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Zereshk\" class=\"extiw\" title=\"wikipedia:User:Zereshk\"\u003eZereshk\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 0,
-    "unique_artist_count": 0,
-    "unique_release_count": 0,
-    "unique_track_count": 0
+    "play_count": 314,
+    "unique_artist_count": 31,
+    "unique_release_count": 87,
+    "unique_track_count": 212,
+    "first_played_at": "2024-01-01T00:00:00.036212235Z",
+    "last_played_at": "2026-03-29T17:53:54.137Z"
   },
+  "top_artists": [
+    {
+      "canonical_slug": "the-beach-boys",
+      "name": "The Beach Boys",
+      "play_count": 42,
+      "spotify_artist_id": "3oDbviiivRWhXwIE8hxkVV",
+      "musicbrainz_artist_id": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+      "spotify_url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 37,
+      "spotify_artist_id": "2P03Aan9wfgwkxTwGch2g1",
+      "musicbrainz_artist_id": "3e356f2a-3501-4e68-8eff-f77d582c066a",
+      "spotify_url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields",
+      "name": "The Magnetic Fields",
+      "play_count": 25,
+      "spotify_artist_id": "6RWjTQqILL7a1tQ0VapyLK",
+      "musicbrainz_artist_id": "3ff72a59-f39d-411d-9f93-2d4a86413013",
+      "spotify_url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+    },
+    {
+      "canonical_slug": "blackberry-smoke",
+      "name": "Blackberry Smoke",
+      "play_count": 17,
+      "spotify_artist_id": "5P1oS9DUTPEqcrmXDmX4p8",
+      "musicbrainz_artist_id": "1576a26e-f77d-47ac-87f2-4f610c141ac6",
+      "spotify_url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+    },
+    {
+      "canonical_slug": "violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 16,
+      "spotify_artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+      "musicbrainz_artist_id": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+      "spotify_url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+    },
+    {
+      "canonical_slug": "madonna",
+      "name": "Madonna",
+      "play_count": 15,
+      "spotify_artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+      "musicbrainz_artist_id": "79239441-bfd5-4981-a70c-55c3f15c1287",
+      "spotify_url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+    },
+    {
+      "canonical_slug": "beck",
+      "name": "Beck",
+      "play_count": 14,
+      "spotify_artist_id": "3vbKDsSS70ZX9D2OcvbZmS",
+      "musicbrainz_artist_id": "309c62ba-7a22-4277-9f67-4a162526d18a",
+      "spotify_url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+    },
+    {
+      "canonical_slug": "cindy-lee",
+      "name": "Cindy Lee",
+      "play_count": 12,
+      "spotify_artist_id": "0TZExq5Dma8hecEIAKwQYA",
+      "musicbrainz_artist_id": "a7537f5b-ef6f-424e-9f4d-9b990cb8866f",
+      "spotify_url": "https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA"
+    },
+    {
+      "canonical_slug": "david-bowie",
+      "name": "David Bowie",
+      "play_count": 12,
+      "spotify_artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "musicbrainz_artist_id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "spotify_url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "canonical_slug": "r-e-m",
+      "name": "R.E.M.",
+      "play_count": 12,
+      "spotify_artist_id": "4KWTAlx2RvbpseOGMEmROg",
+      "musicbrainz_artist_id": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "spotify_url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+    }
+  ],
+  "top_releases": [
+    {
+      "canonical_slug": "the-magnetic-fields--69-love-songs",
+      "name": "69 Love Songs",
+      "play_count": 25,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "spotify_album_id": "2GuROKcqyHdpIDcgxml1C7",
+      "musicbrainz_release_id": "3404f020-f022-4afa-bc03-d1a11f30fd2d",
+      "musicbrainz_release_group_id": "5dfac852-1aed-35b2-93b6-e8f9c93fe521"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine--je-ne-connais-pas-cet-homme-fontaine-4",
+      "name": "Je ne connais pas cet homme - Fontaine 4",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "0THVXnv0o3cdaN3lFXP4kp"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine--brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "22ZGqiGnOQsieY6mPL4m4Q",
+      "musicbrainz_release_id": "eb86b7e3-220d-3e98-94fb-479b8f349ba7",
+      "musicbrainz_release_group_id": "5e2d63f9-7a43-3930-b1d3-7592de96a640"
+    },
+    {
+      "canonical_slug": "madonna--like-a-prayer",
+      "name": "Like a Prayer",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "madonna",
+      "primary_artist_name": "Madonna",
+      "spotify_album_id": "48AGkmM7iO4jrELRnNZGPV",
+      "musicbrainz_release_id": "f411fb1f-ddd2-4b7c-b37c-49af6099d5bc",
+      "musicbrainz_release_group_id": "ea3a395f-5e10-3332-bba1-e0694a638212"
+    },
+    {
+      "canonical_slug": "violent-femmes--violent-femmes",
+      "name": "Violent Femmes",
+      "play_count": 13,
+      "primary_artist_canonical_slug": "violent-femmes",
+      "primary_artist_name": "Violent Femmes",
+      "spotify_album_id": "0Ojio25IPzIrw1rUmgrhrG",
+      "musicbrainz_release_id": "47db7a62-72b5-458d-9877-efd463a13f32",
+      "musicbrainz_release_group_id": "616a1d80-83d0-3234-bf71-fe3de8109f99"
+    },
+    {
+      "canonical_slug": "cindy-lee--what-s-tonight-to-eternity",
+      "name": "What's Tonight to Eternity",
+      "play_count": 12,
+      "primary_artist_canonical_slug": "cindy-lee",
+      "primary_artist_name": "Cindy Lee",
+      "spotify_album_id": "5BEV4gGnAkRsLuoW3FQeqN",
+      "musicbrainz_release_id": "6b79086f-628e-4c87-bf84-fb1e639d58b7",
+      "musicbrainz_release_group_id": "f97e5de3-2714-4f36-b7c1-09b07ff55a0c"
+    },
+    {
+      "canonical_slug": "blackberry-smoke--the-whippoorwill",
+      "name": "The Whippoorwill",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "blackberry-smoke",
+      "primary_artist_name": "Blackberry Smoke",
+      "spotify_album_id": "2jFnRLRUvsEfnmosLcwjCi",
+      "musicbrainz_release_id": "7fee4ee8-c94f-44d9-923b-36a87cdb2fd0",
+      "musicbrainz_release_group_id": "514a7c52-82e1-41bf-b270-adefb2bd5c6c"
+    },
+    {
+      "canonical_slug": "r-e-m--green-remastered",
+      "name": "Green (Remastered)",
+      "play_count": 8,
+      "primary_artist_canonical_slug": "r-e-m",
+      "primary_artist_name": "R.E.M.",
+      "spotify_album_id": "7rfKAiPs9ToZP9zEJDBqBH"
+    },
+    {
+      "canonical_slug": "beck--one-foot-in-the-grave-deluxe-reissue",
+      "name": "One Foot in the Grave (Deluxe Reissue)",
+      "play_count": 7,
+      "primary_artist_canonical_slug": "beck",
+      "primary_artist_name": "Beck",
+      "spotify_album_id": "1Wevdui6vRd9olTF4ipEu8"
+    },
+    {
+      "canonical_slug": "deerhoof--breakup-song",
+      "name": "Breakup Song",
+      "play_count": 6,
+      "primary_artist_canonical_slug": "deerhoof",
+      "primary_artist_name": "Deerhoof",
+      "spotify_album_id": "5JunU3flt52yhYBKhmUnM1",
+      "musicbrainz_release_id": "a0800e93-d0da-40ed-ad71-cf814dd0a2d3",
+      "musicbrainz_release_group_id": "a186e8e5-7c3b-4080-b039-2cf92e0211a2"
+    }
+  ],
+  "top_tracks": [
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
+    {
+      "canonical_slug": "tai-verdes--aok",
+      "name": "AOK",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "tai-verdes",
+      "primary_artist_name": "Tai Verdes",
+      "release_canonical_slug": "tai-verdes--aok",
+      "release_name": "AOK",
+      "spotify_track_id": "1v3Ozpbcx2B926aVW0UuXk",
+      "spotify_url": "https://open.spotify.com/track/1v3Ozpbcx2B926aVW0UuXk"
+    },
+    {
+      "canonical_slug": "carole-king--bitter-with-the-sweet",
+      "name": "Bitter with the Sweet",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "release_canonical_slug": "carole-king--rhymes-and-reasons",
+      "release_name": "Rhymes \u0026 Reasons",
+      "spotify_track_id": "6MBS3ARYYlI4FtYjaTinK5",
+      "spotify_url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "canonical_slug": "tai-verdes--drugs",
+      "name": "DRUGS",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "tai-verdes",
+      "primary_artist_name": "Tai Verdes",
+      "release_canonical_slug": "tai-verdes--tv",
+      "release_name": "TV",
+      "spotify_track_id": "4tVASOccgcigdCfwUamZCh",
+      "spotify_url": "https://open.spotify.com/track/4tVASOccgcigdCfwUamZCh"
+    },
+    {
+      "canonical_slug": "bad-bunny--me-porto-bonito",
+      "name": "Me Porto Bonito",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "bad-bunny",
+      "primary_artist_name": "Bad Bunny",
+      "release_canonical_slug": "bad-bunny--un-verano-sin-ti",
+      "release_name": "Un Verano Sin Ti",
+      "spotify_track_id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+      "spotify_url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--crazy-for-you-but-not-that-crazy",
+      "name": "(Crazy for You But) Not That Crazy",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "2b6MeXEpjZ43o7QVkMU3FM",
+      "spotify_url": "https://open.spotify.com/track/2b6MeXEpjZ43o7QVkMU3FM"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--acoustic-guitar",
+      "name": "Acoustic Guitar",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "6ZMQVLuKlJgUvEscKnUkNY",
+      "spotify_url": "https://open.spotify.com/track/6ZMQVLuKlJgUvEscKnUkNY"
+    },
+    {
+      "canonical_slug": "elvis-costello--alison",
+      "name": "Alison",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "elvis-costello",
+      "primary_artist_name": "Elvis Costello",
+      "release_canonical_slug": "elvis-costello--my-aim-is-true",
+      "release_name": "My Aim Is True",
+      "spotify_track_id": "1v98rfd0an913AzHvMNG8a",
+      "spotify_url": "https://open.spotify.com/track/1v98rfd0an913AzHvMNG8a"
+    },
+    {
+      "canonical_slug": "the-magnetic-fields--all-my-little-words",
+      "name": "All My Little Words",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-magnetic-fields",
+      "primary_artist_name": "The Magnetic Fields",
+      "release_canonical_slug": "the-magnetic-fields--69-love-songs",
+      "release_name": "69 Love Songs",
+      "spotify_track_id": "3KvTZQPpzPw9UKxaGlJkBs",
+      "spotify_url": "https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs"
+    },
+    {
+      "canonical_slug": "sarah-vaughan--april-in-paris",
+      "name": "April In Paris",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "sarah-vaughan",
+      "primary_artist_name": "Sarah Vaughan",
+      "release_canonical_slug": "sarah-vaughan--sarah-vaughan",
+      "release_name": "Sarah Vaughan",
+      "spotify_track_id": "4NHNztFS67GSpnU611l74v",
+      "spotify_url": "https://open.spotify.com/track/4NHNztFS67GSpnU611l74v"
+    }
+  ],
   "source_refs": [
     {
       "role": "canonical_taxonomy",
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--pop.json",
+      "url": "https://en.wikipedia.org/wiki/Popular_music",
+      "retrieved_at": "2026-03-29T09:14:35Z",
+      "updated_at": "2026-03-29",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--pop.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    },
+    {
+      "role": "listening_stats",
+      "source": "spotify",
+      "path": "plays",
+      "updated_at": "2026-03-29T17:53:54.137Z",
+      "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T17:53:54.137Z"
 }

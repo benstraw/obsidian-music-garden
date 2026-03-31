@@ -1,0 +1,62 @@
+{
+  "canonical_slug": "victorian-britain",
+  "display_title": "Victorian Britain",
+  "display_name": "Victorian Britain",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Victorian era",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Victorian_era",
+  "summary": "In the history of the United Kingdom and the British Empire, the Victorian era was the reign of Queen Victoria, from 20 June 1837 until her death on 22 January 1901, although slightly different definitions are sometimes used. The era followed the Georgian era and preceded the Edwardian era, and its later half overlaps with the first part of the Belle Époque era of continental Europe.",
+  "candidates": [
+    "Victoria Brittain",
+    "Victoria of Britain",
+    "Victorian Britain",
+    "Victorian British prime ministers"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Victorian era",
+    "page_url": "https://en.wikipedia.org/wiki/Victorian_era",
+    "retrieved_at": "2026-03-28T16:01:59Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Queen_Victoria_-_Winterhalter_1859.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Queen_Victoria_-_Winterhalter_1859.jpg/330px-Queen_Victoria_-_Winterhalter_1859.jpg",
+    "width": 1463,
+    "height": 2250
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--victorian-britain.json",
+      "url": "https://en.wikipedia.org/wiki/Victorian_era",
+      "retrieved_at": "2026-03-28T16:01:59Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--victorian-britain.json",
+      "url": "https://en.wikipedia.org/wiki/Victorian_era",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

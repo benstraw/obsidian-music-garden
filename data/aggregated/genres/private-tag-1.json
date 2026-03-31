@@ -1,0 +1,32 @@
+{
+  "canonical_slug": "private-tag-1",
+  "display_title": "Private Tag 1",
+  "display_name": "Private Tag 1",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "ambiguous",
+  "candidates": [
+    "Private (magazine)",
+    "Private Tainan Junior College of Home Economics",
+    "Private Tamama",
+    "Private bag",
+    "Private magazine",
+    "Private tab"
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

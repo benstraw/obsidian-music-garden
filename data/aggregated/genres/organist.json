@@ -1,0 +1,122 @@
+{
+  "canonical_slug": "organist",
+  "display_title": "Organist",
+  "display_name": "Organist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Organist",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Organist",
+  "summary": "An organist is a musician who plays any type of organ. An organist may play solo organ works, play with an ensemble or orchestra, or accompany one or more singers or instrumental soloists. In addition, an organist may accompany congregational hymn-singing and play liturgical music.",
+  "candidates": [
+    "Alejandro Organista",
+    "Organist",
+    "Organist and master of the choristers",
+    "Organist at St. Vitus' Cathedral",
+    "Organista",
+    "Organistrum",
+    "Organizations of the Dune universe",
+    "Organized crime",
+    "Sérgio Organista",
+    "The Organist Entertains"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Organist",
+    "page_url": "https://en.wikipedia.org/wiki/Organist",
+    "retrieved_at": "2026-03-28T15:59:13Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Frederik Magle playing organ 2011 (III).jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Frederik_Magle_playing_organ_2011_(III).jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Frederik_Magle_playing_organ_2011_%28III%29.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederik_Magle_playing_organ_2011_%28III%29.jpg/960px-Frederik_Magle_playing_organ_2011_%28III%29.jpg",
+    "width": 1440,
+    "height": 788,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Baltazar Hertel/Suspekt"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Frederik Magle playing organ 2011 (III).jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Frederik_Magle_playing_organ_2011_(III).jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Frederik_Magle_playing_organ_2011_%28III%29.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Frederik_Magle_playing_organ_2011_%28III%29.jpg/960px-Frederik_Magle_playing_organ_2011_%28III%29.jpg",
+      "width": 1440,
+      "height": 788,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Baltazar Hertel/Suspekt"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:LA El Capitan organist 1.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:LA_El_Capitan_organist_1.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/LA_El_Capitan_organist_1.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/LA_El_Capitan_organist_1.jpg/960px-LA_El_Capitan_organist_1.jpg",
+      "width": 3264,
+      "height": 2448,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Photo: Andreas Praefcke"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Organist at Lausanne Cathedral.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Organist_at_Lausanne_Cathedral.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Organist_at_Lausanne_Cathedral.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Organist_at_Lausanne_Cathedral.jpg/960px-Organist_at_Lausanne_Cathedral.jpg",
+      "width": 3008,
+      "height": 2000,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Greenshed\" title=\"User:Greenshed\"\u003eGreenshed\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--organist.json",
+      "url": "https://en.wikipedia.org/wiki/Organist",
+      "retrieved_at": "2026-03-28T15:59:13Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--organist.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Frederik_Magle_playing_organ_2011_(III).jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "world-fusion",
+  "display_title": "World Fusion",
+  "display_name": "World Fusion",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "World music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/World_music",
+  "summary": "World music is an English phrase for styles of music from non-English-speaking countries, including quasi-traditional, intercultural, and traditional music. World music's broad nature and elasticity as a musical category pose obstacles to a universal definition, but its ethic of interest in the culturally exotic is encapsulated in Roots magazine's description of the genre as \"local music from out there\".",
+  "candidates": [
+    "World Business Council for Sustainable Development",
+    "World Union for Progressive Judaism",
+    "World Union of Jewish Students",
+    "World Union of National Socialists",
+    "World Vision Australia",
+    "World Vision Canada",
+    "World Vision India",
+    "World Vision International",
+    "World Vision United States",
+    "World fusion"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "World music",
+    "page_url": "https://en.wikipedia.org/wiki/World_music",
+    "retrieved_at": "2026-03-28T16:02:12Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--world-fusion.json",
+      "url": "https://en.wikipedia.org/wiki/World_music",
+      "retrieved_at": "2026-03-28T16:02:12Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

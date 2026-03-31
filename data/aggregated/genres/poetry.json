@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "poetry",
+  "display_title": "Poetry",
+  "display_name": "Poetry",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Poetry",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Poetry",
+  "summary": "Poetry is a form of literary art that uses aesthetic and often rhythmic qualities of language to evoke meanings in addition to, or in place of, literal or surface-level meanings. Any particular instance of poetry is called a poem and is written by a poet. Poets use a variety of techniques called poetic devices, such as assonance, alliteration, consonance, euphony and cacophony, onomatopoeia, rhythm, rhyme schemes and sound symbolism, to produce musical or other artistic effects. They also frequently organize these devices into poetic structures, which may be strict or loose, conventional or invented by the poet. Poetic structures vary dramatically by language and cultural convention, but they often rely on rhythmic metre: patterns of syllable stress or syllable weight. They may also use repeating patterns of phonemes, phoneme groups, tones, words, or entire phrases. Poetic structures may even be semantic.",
+  "candidates": [
+    "Poetry",
+    "Poetry (magazine)",
+    "Poetry Foundation",
+    "Poetry Now Award",
+    "Poetry analysis",
+    "Poetry in The Lord of the Rings",
+    "Poetry of Catullus",
+    "Poetry of Mao Zedong",
+    "Poetry slam",
+    "The Poetry Business"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Poetry",
+    "page_url": "https://en.wikipedia.org/wiki/Poetry",
+    "retrieved_at": "2026-03-28T15:59:25Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:Alexander Blok - Noch, ulica, fonar, apteka.jpg",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexander_Blok_-_Noch,_ulica,_fonar,_apteka.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Alexander_Blok_-_Noch%2C_ulica%2C_fonar%2C_apteka.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alexander_Blok_-_Noch%2C_ulica%2C_fonar%2C_apteka.jpg/960px-Alexander_Blok_-_Noch%2C_ulica%2C_fonar%2C_apteka.jpg",
+    "width": 1577,
+    "height": 1180,
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Pepicek\" title=\"User:Pepicek\"\u003ePepicek\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alexander Blok - Noch, ulica, fonar, apteka.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alexander_Blok_-_Noch,_ulica,_fonar,_apteka.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Alexander_Blok_-_Noch%2C_ulica%2C_fonar%2C_apteka.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alexander_Blok_-_Noch%2C_ulica%2C_fonar%2C_apteka.jpg/960px-Alexander_Blok_-_Noch%2C_ulica%2C_fonar%2C_apteka.jpg",
+      "width": 1577,
+      "height": 1180,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Pepicek\" title=\"User:Pepicek\"\u003ePepicek\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Alkaios Sappho Staatliche Antikensammlungen 2416 n2.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Alkaios_Sappho_Staatliche_Antikensammlungen_2416_n2.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Alkaios_Sappho_Staatliche_Antikensammlungen_2416_n2.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alkaios_Sappho_Staatliche_Antikensammlungen_2416_n2.jpg/960px-Alkaios_Sappho_Staatliche_Antikensammlungen_2416_n2.jpg",
+      "width": 2157,
+      "height": 1726,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/en:Brygos_Painter\" class=\"extiw\" title=\"w:en:Brygos Painter\"\u003eBrygos Painter\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Archibaldmacleish.jpeg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Archibaldmacleish.jpeg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Archibaldmacleish.jpeg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Archibaldmacleish.jpeg/960px-Archibaldmacleish.jpeg",
+      "width": 1517,
+      "height": 2161,
+      "license": "Public domain"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Aristoteles Louvre.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Aristoteles_Louvre.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Aristoteles_Louvre.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aristoteles_Louvre.jpg/960px-Aristoteles_Louvre.jpg",
+      "width": 1680,
+      "height": 2241,
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Eric Gaba (\u003ca href=\"//commons.wikimedia.org/wiki/User:Sting\" title=\"User:Sting\"\u003eUser:Sting\u003c/a\u003e)",
+      "attribution_text": "\u003ca href=\"//commons.wikimedia.org/wiki/User:Sting\" title=\"User:Sting\"\u003eSting\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:AudenVanVechten1939.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:AudenVanVechten1939.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AudenVanVechten1939.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AudenVanVechten1939.jpg",
+      "width": 901,
+      "height": 1323,
+      "license": "Public domain",
+      "author": "\u003cbdi\u003e\u003ca href=\"https://en.wikipedia.org/wiki/en:Carl_Van_Vechten\" class=\"extiw\" title=\"w:en:Carl Van Vechten\"\u003e\u003cspan title=\"American writer and photographer (1880–1964)\"\u003eCarl Van Vechten\u003c/span\u003e\u003c/a\u003e\u003c/bdi\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--poetry.json",
+      "url": "https://en.wikipedia.org/wiki/Poetry",
+      "retrieved_at": "2026-03-28T15:59:25Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--poetry.json",
+      "url": "https://commons.wikimedia.org/wiki/File:Alexander_Blok_-_Noch,_ulica,_fonar,_apteka.jpg",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

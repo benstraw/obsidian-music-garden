@@ -1,0 +1,132 @@
+{
+  "canonical_slug": "popular-music",
+  "display_title": "Popular Music",
+  "display_name": "Popular Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Popular music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Popular_music",
+  "summary": "Popular music is music with wide appeal that is typically distributed to large audiences through the music industry. These forms and styles can be enjoyed and performed by people with little or no musical training. As a kind of popular art, it stands in contrast to art music. Art music was historically disseminated through the performances of written music, although since the beginning of the recording industry, it is also disseminated through recordings. Traditional music forms such as early blues songs or hymns were passed along orally, or to smaller, local audiences.",
+  "candidates": [
+    "Popular Music Royality",
+    "Popular Music from Vittula",
+    "Popular music",
+    "Popular music in Croatia",
+    "Popular music in Ethiopia",
+    "Popular music in Sweden",
+    "Popular music in Yugoslavia",
+    "Popular music of Birmingham",
+    "Popular music of Manchester",
+    "Popular music pedagogy"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Popular music",
+    "page_url": "https://en.wikipedia.org/wiki/Popular_music",
+    "retrieved_at": "2026-03-28T15:59:34Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:45 record.png",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+    "width": 792,
+    "height": 800,
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:45 record.png",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/45_record.png",
+      "width": 792,
+      "height": 800,
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "\u003ca rel=\"nofollow\" class=\"external text\" href=\"http://www.openclipart.org/user-detail/laurianne\"\u003elaurianne\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Didier Awadi.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Didier_Awadi.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Didier_Awadi.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Didier_Awadi.jpg",
+      "width": 594,
+      "height": 600,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Seneweb"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:GClef.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:GClef.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/GClef.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/960px-GClef.svg.png",
+      "width": 15,
+      "height": 41,
+      "license": "Public domain",
+      "author": "\u003ca href=\"//commons.wikimedia.org/wiki/User:%E3%81%A3\" title=\"User:っ\"\u003eっ\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Jenny Lind in La Sonnambula.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Jenny_Lind_in_La_Sonnambula.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jenny_Lind_in_La_Sonnambula.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jenny_Lind_in_La_Sonnambula.jpg",
+      "width": 700,
+      "height": 925,
+      "license": "Public domain",
+      "author": "\u003cdiv class=\"fn value\"\u003e\n\u003cp\u003ePrinted by: Day \u0026amp; Co\n\u003c/p\u003e\n\u003cdl\u003e\u003cdd\u003ePublished by: William Spooner\u003c/dd\u003e\u003c/dl\u003e\u003c/div\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:KioskSF.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:KioskSF.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/KioskSF.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/KioskSF.JPG",
+      "width": 505,
+      "height": 408,
+      "license": "Public domain",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Zereshk\" class=\"extiw\" title=\"wikipedia:User:Zereshk\"\u003eZereshk\u003c/a\u003e at \u003ca href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\"\u003eEnglish Wikipedia\u003c/a\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--popular-music.json",
+      "url": "https://en.wikipedia.org/wiki/Popular_music",
+      "retrieved_at": "2026-03-28T15:59:34Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--popular-music.json",
+      "url": "https://commons.wikimedia.org/wiki/File:45_record.png",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

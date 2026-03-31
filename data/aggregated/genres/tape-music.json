@@ -1,0 +1,54 @@
+{
+  "canonical_slug": "tape-music",
+  "display_title": "Tape Music",
+  "display_name": "Tape Music",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Electroacoustic music",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Electroacoustic_music",
+  "summary": "Electroacoustic music is a genre of Western art music in which composers use recording technology and audio signal processing to manipulate the timbres of acoustic sounds in the creation of pieces of music. It originated around the middle of the 20th century, following the incorporation of electronic sound production into formal compositional practice. The initial developments in electroacoustic music composition to fixed media during the 20th century are associated with the activities of the Groupe de recherches musicales at the ORTF in Paris, the home of musique concrète, the Studio for Electronic Music in Cologne, where the focus was on the composition of elektronische Musik, and the Columbia-Princeton Electronic Music Center in New York City, where tape music, electronic music, and computer music were all explored. Practical electronic music instruments began to appear in the early 20th century.",
+  "candidates": [
+    "Taite Music Prize",
+    "Taizé - Music of Unity and Peace",
+    "Tape Music",
+    "Tape music",
+    "The Music",
+    "The Music Machine",
+    "The Music Man",
+    "The Music Man (1962 film)",
+    "The Music Trades",
+    "Trap music"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Electroacoustic music",
+    "page_url": "https://en.wikipedia.org/wiki/Electroacoustic_music",
+    "retrieved_at": "2026-03-28T16:01:29Z"
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--tape-music.json",
+      "url": "https://en.wikipedia.org/wiki/Electroacoustic_music",
+      "retrieved_at": "2026-03-28T16:01:29Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

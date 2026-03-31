@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "symbolist",
+  "display_title": "Symbolist",
+  "display_name": "Symbolist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Symbolism (movement)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Symbolism_(movement)",
+  "summary": "Symbolism was a late 19th-century art movement of French and Belgian origin in poetry and other arts seeking to represent absolute truths symbolically through language and metaphorical images, mainly as a reaction against naturalism and realism.",
+  "candidates": [
+    "Symbolic artificial intelligence",
+    "Symbolism",
+    "Symbolist",
+    "Symbolist Manifesto",
+    "Symbolist movement in Romania",
+    "Symbolist painting",
+    "Symbolistis",
+    "Symbolistis argyromitra",
+    "Symbolistis orophota",
+    "The Symbolist Movement in Literature"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Symbolism (movement)",
+    "page_url": "https://en.wikipedia.org/wiki/Symbolism_(movement)",
+    "retrieved_at": "2026-03-28T16:01:21Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Death_of_the_Grave_Digger.jpg",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_Death_of_the_Grave_Digger.jpg/330px-The_Death_of_the_Grave_Digger.jpg",
+    "width": 550,
+    "height": 764
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--symbolist.json",
+      "url": "https://en.wikipedia.org/wiki/Symbolism_(movement)",
+      "retrieved_at": "2026-03-28T16:01:21Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--symbolist.json",
+      "url": "https://en.wikipedia.org/wiki/Symbolism_(movement)",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

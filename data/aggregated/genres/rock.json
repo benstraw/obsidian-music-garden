@@ -6,6 +6,7 @@
     "rock"
   ],
   "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "Rock music",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_music",
@@ -96,50 +97,244 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 12,
-    "unique_artist_count": 1,
-    "unique_release_count": 3,
-    "unique_track_count": 11,
-    "first_played_at": "2026-03-04T03:20:43.375Z",
-    "last_played_at": "2026-03-25T18:02:01.875Z"
+    "play_count": 985,
+    "unique_artist_count": 85,
+    "unique_release_count": 264,
+    "unique_track_count": 698,
+    "first_played_at": "2024-01-01T00:00:00.018980515Z",
+    "last_played_at": "2026-03-29T04:40:25.381Z"
   },
   "top_artists": [
     {
-      "canonical_slug": "pink-floyd",
-      "name": "Pink Floyd",
-      "play_count": 12,
-      "spotify_artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
-      "spotify_url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      "canonical_slug": "cage-the-elephant",
+      "name": "Cage The Elephant",
+      "play_count": 83,
+      "spotify_artist_id": "26T3LtbuGT1Fu9m0eRq5X3",
+      "musicbrainz_artist_id": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+      "spotify_url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+    },
+    {
+      "canonical_slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "play_count": 75,
+      "spotify_artist_id": "62BcWP4fzR8axESibNQEhs",
+      "musicbrainz_artist_id": "2339bc21-aa92-4850-86f0-4bb9433910c8",
+      "spotify_url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+    },
+    {
+      "canonical_slug": "tim-hardin",
+      "name": "Tim Hardin",
+      "play_count": 44,
+      "spotify_artist_id": "39GVRVaqlKh7JL8Yl5ZKcb",
+      "musicbrainz_artist_id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+      "spotify_url": "https://open.spotify.com/artist/39GVRVaqlKh7JL8Yl5ZKcb"
+    },
+    {
+      "canonical_slug": "the-beach-boys",
+      "name": "The Beach Boys",
+      "play_count": 42,
+      "spotify_artist_id": "3oDbviiivRWhXwIE8hxkVV",
+      "musicbrainz_artist_id": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+      "spotify_url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 37,
+      "spotify_artist_id": "2P03Aan9wfgwkxTwGch2g1",
+      "musicbrainz_artist_id": "3e356f2a-3501-4e68-8eff-f77d582c066a",
+      "spotify_url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+    },
+    {
+      "canonical_slug": "pavement",
+      "name": "Pavement",
+      "play_count": 30,
+      "spotify_artist_id": "3inCNiUr4R6XQ3W43s9Aqi",
+      "musicbrainz_artist_id": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+      "spotify_url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+    },
+    {
+      "canonical_slug": "allman-brothers-band",
+      "name": "Allman Brothers Band",
+      "play_count": 22,
+      "spotify_artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+      "musicbrainz_artist_id": "72359492-22be-4ed9-aaa0-efa434fb2b01",
+      "spotify_url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+    },
+    {
+      "canonical_slug": "dinosaur-jr",
+      "name": "Dinosaur Jr.",
+      "play_count": 22,
+      "spotify_artist_id": "267VY6GX5LyU5c9M85ECZQ",
+      "musicbrainz_artist_id": "77c167d2-4965-4421-830a-9815e4956475",
+      "spotify_url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+    },
+    {
+      "canonical_slug": "fugazi",
+      "name": "Fugazi",
+      "play_count": 22,
+      "spotify_artist_id": "62sC6lUEWRjbFqXpMmOk4G",
+      "musicbrainz_artist_id": "233fc3f3-6de2-465c-985e-e721dbabbace",
+      "spotify_url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+    },
+    {
+      "canonical_slug": "liars",
+      "name": "Liars",
+      "play_count": 22,
+      "spotify_artist_id": "2z78AlkdwE2Ghj9EB50M6z",
+      "musicbrainz_artist_id": "03098741-08b3-4dd7-b3f6-1b0bfa2c879c",
+      "spotify_url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
     }
   ],
   "top_releases": [
     {
-      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "name": "A Saucerful of Secrets",
-      "play_count": 7,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "canonical_slug": "pavement--wowee-zowee",
+      "name": "Wowee Zowee",
+      "play_count": 23,
+      "primary_artist_canonical_slug": "pavement",
+      "primary_artist_name": "Pavement",
+      "spotify_album_id": "0OHDiDMyxzWJfwtoeHNCf4",
+      "musicbrainz_release_id": "e82d07a2-aba4-4926-9961-55135db3c7e3",
+      "musicbrainz_release_group_id": "fa79988d-62b5-3039-9169-ed0d17d53296"
     },
     {
-      "canonical_slug": "pink-floyd--meddle",
-      "name": "Meddle",
-      "play_count": 4,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "canonical_slug": "scratch-acid--the-greatest-gift",
+      "name": "The Greatest Gift",
+      "play_count": 20,
+      "primary_artist_canonical_slug": "scratch-acid",
+      "primary_artist_name": "Scratch Acid",
+      "spotify_album_id": "35NI0HtkhQ2PAvCYZET9gb",
+      "musicbrainz_release_id": "7de18ce6-456e-41b8-85f2-0c805b391d0b",
+      "musicbrainz_release_group_id": "0cb82269-399d-3095-8eba-4e23176ab579"
     },
     {
-      "canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
-      "name": "The Piper at the Gates of Dawn",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd"
+      "canonical_slug": "brigitte-fontaine--je-ne-connais-pas-cet-homme-fontaine-4",
+      "name": "Je ne connais pas cet homme - Fontaine 4",
+      "play_count": 18,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "0THVXnv0o3cdaN3lFXP4kp"
+    },
+    {
+      "canonical_slug": "liars--drum-s-not-dead",
+      "name": "Drum's Not Dead",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "liars",
+      "primary_artist_name": "Liars",
+      "spotify_album_id": "4xeba6CVGWt31LsqwhS8Mg",
+      "musicbrainz_release_id": "207d66ce-3699-30b2-99c0-4fa60daaf01c",
+      "musicbrainz_release_group_id": "003bca6c-ca70-3c20-81d2-3f615b583fbf"
+    },
+    {
+      "canonical_slug": "monks-of-doom--soundtrack-to-the-film-breakfast-on-the-beach-of-deception",
+      "name": "Soundtrack to the Film \"Breakfast on the Beach of Deception\"",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "monks-of-doom",
+      "primary_artist_name": "Monks of Doom",
+      "spotify_album_id": "7G4fKNCU6vSqw720IxsCiT",
+      "musicbrainz_release_id": "6a6989d1-4d4e-4a1a-bf36-c5b85be3b028",
+      "musicbrainz_release_group_id": "ff4ff83f-8649-38eb-935d-baa8d85f20ed"
+    },
+    {
+      "canonical_slug": "tim-hardin--tim-hardin-1",
+      "name": "Tim Hardin 1",
+      "play_count": 16,
+      "primary_artist_canonical_slug": "tim-hardin",
+      "primary_artist_name": "Tim Hardin",
+      "spotify_album_id": "7GWTeFyEAmLUNYHwba9YvX",
+      "musicbrainz_release_id": "70d857a1-173e-49bb-8e36-5e0b726ef9b0",
+      "musicbrainz_release_group_id": "b1dc278a-ddeb-36ce-856d-ea633649e9eb"
+    },
+    {
+      "canonical_slug": "cage-the-elephant--neon-pill",
+      "name": "Neon Pill",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage the Elephant",
+      "spotify_album_id": "0wXH96NWr3scCMVuVuAkt1",
+      "musicbrainz_release_id": "37e83d1c-facb-4890-9e28-d7c5e3a307ce",
+      "musicbrainz_release_group_id": "98b784ec-4cb8-4887-9481-12f680eedd37"
+    },
+    {
+      "canonical_slug": "allman-brothers-band--where-it-all-begins",
+      "name": "Where It All Begins",
+      "play_count": 15,
+      "primary_artist_canonical_slug": "allman-brothers-band",
+      "primary_artist_name": "The Allman Brothers Band",
+      "spotify_album_id": "3OhZTb3unARrvpYc0STkFM",
+      "musicbrainz_release_id": "85950dc1-5e45-4504-816d-582106bf46b9",
+      "musicbrainz_release_group_id": "1acf4af2-3d72-3101-b722-282f94222007"
+    },
+    {
+      "canonical_slug": "brigitte-fontaine--brigitte-fontaine",
+      "name": "Brigitte Fontaine",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "brigitte-fontaine",
+      "primary_artist_name": "Brigitte Fontaine",
+      "spotify_album_id": "22ZGqiGnOQsieY6mPL4m4Q",
+      "musicbrainz_release_id": "eb86b7e3-220d-3e98-94fb-479b8f349ba7",
+      "musicbrainz_release_group_id": "5e2d63f9-7a43-3930-b1d3-7592de96a640"
+    },
+    {
+      "canonical_slug": "madonna--like-a-prayer",
+      "name": "Like a Prayer",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "madonna",
+      "primary_artist_name": "Madonna",
+      "spotify_album_id": "48AGkmM7iO4jrELRnNZGPV",
+      "musicbrainz_release_id": "f411fb1f-ddd2-4b7c-b37c-49af6099d5bc",
+      "musicbrainz_release_group_id": "ea3a395f-5e10-3332-bba1-e0694a638212"
     }
   ],
   "top_tracks": [
     {
+      "canonical_slug": "cage-the-elephant--out-loud",
+      "name": "Out Loud",
+      "play_count": 4,
+      "primary_artist_canonical_slug": "cage-the-elephant",
+      "primary_artist_name": "Cage The Elephant",
+      "release_canonical_slug": "cage-the-elephant--out-loud",
+      "release_name": "Out Loud",
+      "spotify_track_id": "6Yx5Cw2mVmx6LiVP2VXWEO",
+      "spotify_url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
+    },
+    {
+      "canonical_slug": "elvis-costello-and-the-attractions--what-s-so-funny-bout-peace-love-and-understanding",
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "elvis-costello-and-the-attractions",
+      "primary_artist_name": "Elvis Costello \u0026 The Attractions",
+      "release_canonical_slug": "elvis-costello-and-the-attractions--armed-forces-remastered-2020",
+      "release_name": "Armed Forces (Remastered 2020)",
+      "spotify_track_id": "77XzsYwTkvLoveW01Lanrk",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+    },
+    {
+      "canonical_slug": "carole-king--bitter-with-the-sweet",
+      "name": "Bitter with the Sweet",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "carole-king",
+      "primary_artist_name": "Carole King",
+      "release_canonical_slug": "carole-king--rhymes-and-reasons",
+      "release_name": "Rhymes \u0026 Reasons",
+      "spotify_track_id": "6MBS3ARYYlI4FtYjaTinK5",
+      "spotify_url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "canonical_slug": "the-animals--don-t-let-me-be-misunderstood",
+      "name": "Don't Let Me Be Misunderstood",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-animals",
+      "primary_artist_name": "The Animals",
+      "release_canonical_slug": "the-animals--the-animals-the-mickie-most-years-and-more",
+      "release_name": "The Animals: The Mickie Most Years And More",
+      "spotify_track_id": "4zzY7s6PKnMFIQ3ZNfHzGh",
+      "spotify_url": "https://open.spotify.com/track/4zzY7s6PKnMFIQ3ZNfHzGh"
+    },
+    {
       "canonical_slug": "pink-floyd--fearless",
       "name": "Fearless",
-      "play_count": 2,
+      "play_count": 3,
       "primary_artist_canonical_slug": "pink-floyd",
       "primary_artist_name": "Pink Floyd",
       "release_canonical_slug": "pink-floyd--meddle",
@@ -148,103 +343,59 @@
       "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj"
     },
     {
-      "canonical_slug": "pink-floyd--a-pillow-of-winds",
-      "name": "A Pillow of Winds",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "7krbQbYq63hcwVMNW1R0tD",
-      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD"
+      "canonical_slug": "the-breeders--new-year",
+      "name": "New Year",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "the-breeders",
+      "primary_artist_name": "The Breeders",
+      "release_canonical_slug": "the-breeders--last-splash",
+      "release_name": "Last Splash",
+      "spotify_track_id": "6MEAQnIS71j4BGkyRhz7dA",
+      "spotify_url": "https://open.spotify.com/track/6MEAQnIS71j4BGkyRhz7dA"
     },
     {
-      "canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "name": "A Saucerful of Secrets",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "0OtkNB4TnTzrlid4zipYDV",
-      "spotify_url": "https://open.spotify.com/track/0OtkNB4TnTzrlid4zipYDV"
+      "canonical_slug": "butthole-surfers--something",
+      "name": "Something",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "butthole-surfers",
+      "primary_artist_name": "Butthole Surfers",
+      "release_canonical_slug": "butthole-surfers--pioughd-widowermaker",
+      "release_name": "Pioughd + Widowermaker!",
+      "spotify_track_id": "5bGqhLcBd5YXuqzMVQiFUl",
+      "spotify_url": "https://open.spotify.com/track/5bGqhLcBd5YXuqzMVQiFUl"
     },
     {
-      "canonical_slug": "pink-floyd--corporal-clegg",
-      "name": "Corporal Clegg",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "0GML1aXwt0GJH8XRvcH7Fl",
-      "spotify_url": "https://open.spotify.com/track/0GML1aXwt0GJH8XRvcH7Fl"
+      "canonical_slug": "x--the-once-over-twice",
+      "name": "The Once over Twice",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "x",
+      "primary_artist_name": "X",
+      "release_canonical_slug": "x--wild-gift",
+      "release_name": "Wild Gift",
+      "spotify_track_id": "6RTXSRakdyMcAdqHp3UCMZ",
+      "spotify_url": "https://open.spotify.com/track/6RTXSRakdyMcAdqHp3UCMZ"
     },
     {
-      "canonical_slug": "pink-floyd--jugband-blues",
-      "name": "Jugband Blues",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "7L1n9EL0Sh0LMOyxDI7rxr",
-      "spotify_url": "https://open.spotify.com/track/7L1n9EL0Sh0LMOyxDI7rxr"
+      "canonical_slug": "nucleus--1916",
+      "name": "1916",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "nucleus",
+      "primary_artist_name": "Nucleus",
+      "release_canonical_slug": "nucleus--elastic-rock",
+      "release_name": "Elastic Rock",
+      "spotify_track_id": "0dcdhjTw25jFpSZKK9WFpc",
+      "spotify_url": "https://open.spotify.com/track/0dcdhjTw25jFpSZKK9WFpc"
     },
     {
-      "canonical_slug": "pink-floyd--let-there-be-more-light",
-      "name": "Let There Be More Light",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "5xUz3xvyPPrNfnBrh9IOZa",
-      "spotify_url": "https://open.spotify.com/track/5xUz3xvyPPrNfnBrh9IOZa"
-    },
-    {
-      "canonical_slug": "pink-floyd--matilda-mother",
-      "name": "Matilda Mother",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--the-piper-at-the-gates-of-dawn",
-      "release_name": "The Piper at the Gates of Dawn",
-      "spotify_track_id": "6SlI8JYwFaESqre47wrQZz",
-      "spotify_url": "https://open.spotify.com/track/6SlI8JYwFaESqre47wrQZz"
-    },
-    {
-      "canonical_slug": "pink-floyd--one-of-these-days",
-      "name": "One of These Days",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--meddle",
-      "release_name": "Meddle",
-      "spotify_track_id": "6uU0Hu8oVk9gBihokcrDMH",
-      "spotify_url": "https://open.spotify.com/track/6uU0Hu8oVk9gBihokcrDMH"
-    },
-    {
-      "canonical_slug": "pink-floyd--remember-a-day",
-      "name": "Remember a Day",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "2YcxeBmk9hvMH7RFFyqnIr",
-      "spotify_url": "https://open.spotify.com/track/2YcxeBmk9hvMH7RFFyqnIr"
-    },
-    {
-      "canonical_slug": "pink-floyd--see-saw",
-      "name": "See-Saw",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "pink-floyd",
-      "primary_artist_name": "Pink Floyd",
-      "release_canonical_slug": "pink-floyd--a-saucerful-of-secrets",
-      "release_name": "A Saucerful of Secrets",
-      "spotify_track_id": "4bnu1f2cbv0YYJrPeV4dIF",
-      "spotify_url": "https://open.spotify.com/track/4bnu1f2cbv0YYJrPeV4dIF"
+      "canonical_slug": "the-stooges--1970",
+      "name": "1970",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-stooges",
+      "primary_artist_name": "The Stooges",
+      "release_canonical_slug": "the-stooges--funhouse",
+      "release_name": "Funhouse",
+      "spotify_track_id": "0L7F1blNNYj3AjIu4gCjhP",
+      "spotify_url": "https://open.spotify.com/track/0L7F1blNNYj3AjIu4gCjhP"
     }
   ],
   "source_refs": [
@@ -253,6 +404,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
@@ -274,9 +431,9 @@
       "role": "listening_stats",
       "source": "spotify",
       "path": "plays",
-      "updated_at": "2026-03-25T18:02:01.875Z",
+      "updated_at": "2026-03-29T04:40:25.381Z",
       "note": "Listening stats and top artists/releases/tracks are derived from local canonicalized Spotify play history."
     }
   ],
-  "last_updated": "2026-03-27"
+  "last_updated": "2026-03-29T04:40:25.381Z"
 }

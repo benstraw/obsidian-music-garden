@@ -1,0 +1,68 @@
+{
+  "canonical_slug": "the-lost-generation",
+  "display_title": "The Lost Generation",
+  "display_name": "The Lost Generation",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Lost Generation",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lost_Generation",
+  "summary": "The Lost Generation was the demographic cohort that reached early adulthood in the decade before, or during, World War I, and preceded the Greatest Generation. This generation is generally defined as people born from 1883 to 1900. They came of age in either the 1900s or the 1910s, and were the first generation to mature in the 20th century. The term is also particularly used to refer to a group of American expatriate writers living in Paris during the 1920s. Gertrude Stein is credited with coining the term, and it was subsequently popularized by Ernest Hemingway, who used it in the epigraph for his 1926 novel The Sun Also Rises: \"You are all a lost generation.\" \"Lost\" in this context refers to the \"disoriented, wandering, directionless\" spirit of many of the war's survivors in the early interwar period.",
+  "candidates": [
+    "The Last Generation (Star Trek: Picard)",
+    "The Last Generation of the Roman Republic",
+    "The Lost Generation",
+    "The Lost Generation (1968 film)",
+    "The Lost Generation (album)",
+    "The Lost Generation (band)",
+    "The Lost Generation (book)",
+    "The Lost Generation (novel series)",
+    "The Love Generation",
+    "The lost generation"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Lost Generation",
+    "page_url": "https://en.wikipedia.org/wiki/Lost_Generation",
+    "retrieved_at": "2026-03-28T16:01:34Z"
+  },
+  "image": {
+    "source": "wikipedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Generation_timeline_simple.svg/960px-Generation_timeline_simple.svg.png",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Generation_timeline_simple.svg/330px-Generation_timeline_simple.svg.png",
+    "width": 512,
+    "height": 320
+  },
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--the-lost-generation.json",
+      "url": "https://en.wikipedia.org/wiki/Lost_Generation",
+      "retrieved_at": "2026-03-28T16:01:34Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--the-lost-generation.json",
+      "url": "https://en.wikipedia.org/wiki/Lost_Generation",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

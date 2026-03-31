@@ -1,0 +1,131 @@
+{
+  "canonical_slug": "pianist",
+  "display_title": "Pianist",
+  "display_name": "Pianist",
+  "pending": true,
+  "workflow_state": "draft",
+  "status": "matched",
+  "wikipedia_title": "Pianist",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pianist",
+  "summary": "A pianist is a musician who plays the piano. A pianist's repertoire may include music from a diverse variety of styles, such as traditional classical music, jazz, blues, and popular music, including rock and roll. Most pianists can, to an extent, easily play other keyboard instruments such as the synthesizer, harpsichord, celesta, and the organ.",
+  "candidates": [
+    "Pianist",
+    "Pianist (KBS Drama Special)",
+    "Pianist (disambiguation)",
+    "Pianist Nada",
+    "Pianist, Arranger, Composer, Conductor",
+    "The Pianist (1991 film)",
+    "The Pianist (1998 film)",
+    "The Pianist (2002 film)",
+    "The Pianist (album)",
+    "The Pianist (memoir)"
+  ],
+  "attribution": {
+    "source": "wikipedia",
+    "page_title": "Pianist",
+    "page_url": "https://en.wikipedia.org/wiki/Pianist",
+    "retrieved_at": "2026-03-28T15:59:19Z"
+  },
+  "image": {
+    "source": "wikimedia-commons",
+    "file_title": "File:'Humoresque' by Sergei Rachmaninoff.webm",
+    "file_page_url": "https://commons.wikimedia.org/wiki/File:%27Humoresque%27_by_Sergei_Rachmaninoff.webm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%27Humoresque%27_by_Sergei_Rachmaninoff.webm",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%27Humoresque%27_by_Sergei_Rachmaninoff.webm/640px--%27Humoresque%27_by_Sergei_Rachmaninoff.webm.jpg",
+    "width": 1270,
+    "height": 720,
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "RaderMusicFamily"
+  },
+  "image_candidates": [
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:'Humoresque' by Sergei Rachmaninoff.webm",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:%27Humoresque%27_by_Sergei_Rachmaninoff.webm",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%27Humoresque%27_by_Sergei_Rachmaninoff.webm",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/%27Humoresque%27_by_Sergei_Rachmaninoff.webm/640px--%27Humoresque%27_by_Sergei_Rachmaninoff.webm.jpg",
+      "width": 1270,
+      "height": 720,
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "author": "RaderMusicFamily"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Johnny Hahn January 2012.JPG",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Johnny_Hahn_January_2012.JPG",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Johnny_Hahn_January_2012.JPG",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Johnny_Hahn_January_2012.JPG/960px-Johnny_Hahn_January_2012.JPG",
+      "width": 2595,
+      "height": 1854,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "\u003ca href=\"//commons.wikimedia.org/w/index.php?title=User:MontagZen\u0026amp;action=edit\u0026amp;redlink=1\" class=\"new\" title=\"User:MontagZen (page does not exist)\"\u003eMontagZen\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Maurice Ravel Ondine.ogg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Maurice_Ravel_Ondine.ogg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Maurice_Ravel_Ondine.ogg",
+      "thumbnail_url": "https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png",
+      "license": "Public domain",
+      "author": "Maurice Ravel, Bernd Krueger"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Question book-new.svg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/960px-Question_book-new.svg.png",
+      "width": 512,
+      "height": 399,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "\u003ca href=\"https://en.wikipedia.org/wiki/User:Saranphat.cha\" class=\"extiw\" title=\"en:User:Saranphat.cha\"\u003een:User:Saranphat.cha\u003c/a\u003e"
+    },
+    {
+      "source": "wikimedia-commons",
+      "file_title": "File:Rachmaninoff playing Steinway grand piano.jpg",
+      "file_page_url": "https://commons.wikimedia.org/wiki/File:Rachmaninoff_playing_Steinway_grand_piano.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Rachmaninoff_playing_Steinway_grand_piano.jpg",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Rachmaninoff_playing_Steinway_grand_piano.jpg",
+      "width": 900,
+      "height": 656,
+      "license": "Public domain",
+      "author": "Unknown author\u003cspan style=\"display: none;\"\u003eUnknown author\u003c/span\u003e"
+    }
+  ],
+  "listening_stats": {
+    "source": "spotify-local-plays",
+    "play_count": 0,
+    "unique_artist_count": 0,
+    "unique_release_count": 0,
+    "unique_track_count": 0
+  },
+  "source_refs": [
+    {
+      "role": "canonical_taxonomy",
+      "source": "music-garden",
+      "path": "genre-taxonomy.json",
+      "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "editorial_summary",
+      "source": "wikipedia",
+      "path": "normalized/genres/wikipedia--pianist.json",
+      "url": "https://en.wikipedia.org/wiki/Pianist",
+      "retrieved_at": "2026-03-28T15:59:19Z",
+      "updated_at": "2026-03-28",
+      "note": "Editorial summary and page metadata come from Wikipedia normalization."
+    },
+    {
+      "role": "image_metadata",
+      "source": "wikimedia-commons",
+      "path": "normalized/genres/wikipedia--pianist.json",
+      "url": "https://commons.wikimedia.org/wiki/File:%27Humoresque%27_by_Sergei_Rachmaninoff.webm",
+      "note": "Image metadata is carried forward for later review before downstream use."
+    }
+  ],
+  "last_updated": "2026-03-28"
+}

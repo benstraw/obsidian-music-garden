@@ -6,7 +6,8 @@
   "aliases": [
     "west coast hip hop"
   ],
-  "pending": true,
+  "pending": false,
+  "workflow_state": "publishable",
   "status": "matched",
   "wikipedia_title": "West Coast hip-hop",
   "wikipedia_url": "https://en.wikipedia.org/wiki/West_Coast_hip-hop",
@@ -96,120 +97,176 @@
   ],
   "listening_stats": {
     "source": "spotify-local-plays",
-    "play_count": 33,
-    "unique_artist_count": 4,
-    "unique_release_count": 12,
-    "unique_track_count": 25,
-    "first_played_at": "2026-03-03T10:43:31.248Z",
+    "play_count": 127,
+    "unique_artist_count": 7,
+    "unique_release_count": 27,
+    "unique_track_count": 92,
+    "first_played_at": "2024-01-01T00:00:00.111803576Z",
     "last_played_at": "2026-03-19T02:37:24.397Z"
   },
   "top_artists": [
     {
       "canonical_slug": "kendrick-lamar",
       "name": "Kendrick Lamar",
-      "play_count": 17,
+      "play_count": 65,
       "spotify_artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "musicbrainz_artist_id": "381086ea-f511-4aba-bdf9-71c753dc5077",
       "spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "canonical_slug": "the-pharcyde",
+      "name": "The Pharcyde",
+      "play_count": 21,
+      "spotify_artist_id": "7yk35uHNQclPXFGFoTU44w",
+      "musicbrainz_artist_id": "d7134426-a937-43bf-bc54-f10ad8102ed9",
+      "spotify_url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
     },
     {
       "canonical_slug": "cypress-hill",
       "name": "Cypress Hill",
-      "play_count": 10,
+      "play_count": 15,
       "spotify_artist_id": "4P0dddbxPil35MNN9G2MEX",
+      "musicbrainz_artist_id": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
       "spotify_url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+    },
+    {
+      "canonical_slug": "deltron-3030",
+      "name": "Deltron 3030",
+      "play_count": 9,
+      "spotify_artist_id": "2efzHZrUGhawnSOTpyAHOQ",
+      "musicbrainz_artist_id": "ce886f30-8b8f-4cc8-b854-3749291350fd",
+      "spotify_url": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ"
     },
     {
       "canonical_slug": "snoop-dogg",
       "name": "Snoop Dogg",
-      "play_count": 4,
+      "play_count": 8,
       "spotify_artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+      "musicbrainz_artist_id": "f90e8b26-9e52-4669-a5c9-e28529c47894",
       "spotify_url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
     },
     {
       "canonical_slug": "dr-dre",
       "name": "Dr. Dre",
-      "play_count": 2,
+      "play_count": 5,
       "spotify_artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+      "musicbrainz_artist_id": "5f6ab597-f57a-40da-be9e-adad48708203",
       "spotify_url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+    },
+    {
+      "canonical_slug": "2pac",
+      "name": "2Pac",
+      "play_count": 4,
+      "spotify_artist_id": "1ZwdS5xdxEREPySFridCfh",
+      "musicbrainz_artist_id": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "spotify_url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
     }
   ],
   "top_releases": [
     {
+      "canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
+      "name": "To Pimp A Butterfly",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "spotify_album_id": "7ycBtnsMtyVbbwTfJwRjSP",
+      "musicbrainz_release_id": "8a426098-714d-4897-b180-dfd8f0a70fc9",
+      "musicbrainz_release_group_id": "d9103c72-3807-4378-9ce7-b6f3e8fdd547"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--good-kid-m-a-a-d-city",
+      "name": "good kid, m.A.A.d city",
+      "play_count": 14,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "spotify_album_id": "6PBZN8cbwkqm1ERj2BGXJ1",
+      "musicbrainz_release_id": "d5bcadc9-d6b2-4119-bf50-af1b9dca834c",
+      "musicbrainz_release_group_id": "499c19c8-0dab-4824-884b-6191d145e95b"
+    },
+    {
       "canonical_slug": "cypress-hill--black-sunday",
       "name": "Black Sunday",
-      "play_count": 7,
+      "play_count": 10,
       "primary_artist_canonical_slug": "cypress-hill",
-      "primary_artist_name": "Cypress Hill"
+      "primary_artist_name": "Cypress Hill",
+      "spotify_album_id": "02lktkm4J7K7N8T63Gm7KX",
+      "musicbrainz_release_id": "08af217f-4b6f-33ee-be39-df41fedd96ba",
+      "musicbrainz_release_group_id": "fe860e74-7eb8-4bc3-8b8d-cbf621aed500"
     },
     {
       "canonical_slug": "kendrick-lamar--damn",
       "name": "DAMN.",
-      "play_count": 4,
+      "play_count": 10,
       "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar"
+      "primary_artist_name": "Kendrick Lamar",
+      "spotify_album_id": "4eLPsYPBmXABThSJ821sqY",
+      "musicbrainz_release_id": "81ad6e82-8e70-4805-8866-42e246c6f68c",
+      "musicbrainz_release_group_id": "b88655ba-7469-48b8-a296-b9011ab73ef3"
     },
     {
-      "canonical_slug": "kendrick-lamar--section-80",
-      "name": "Section.80",
-      "play_count": 4,
+      "canonical_slug": "the-pharcyde--bizarre-ride-ii-the-pharcyde",
+      "name": "Bizarre Ride II The Pharcyde",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "the-pharcyde",
+      "primary_artist_name": "The Pharcyde",
+      "spotify_album_id": "48kU5gP41TqZEw32Cwhsna",
+      "musicbrainz_release_id": "946eff9c-e3b0-48d7-af69-7f7be31364ac",
+      "musicbrainz_release_group_id": "c799ef0c-f038-364b-972b-51f52d794781"
+    },
+    {
+      "canonical_slug": "deltron-3030--deltron-3030",
+      "name": "Deltron 3030",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "deltron-3030",
+      "primary_artist_name": "Deltron 3030",
+      "spotify_album_id": "04uhhcjGVCHodMgZjXOlye",
+      "musicbrainz_release_id": "9ade9ff7-da70-31f1-b7f6-95f87598c394",
+      "musicbrainz_release_group_id": "a55be3b5-1d86-317a-ac22-49655313bae0"
+    },
+    {
+      "canonical_slug": "the-pharcyde--labcabincalifornia-deluxe-edition",
+      "name": "Labcabincalifornia (Deluxe Edition)",
+      "play_count": 9,
+      "primary_artist_canonical_slug": "the-pharcyde",
+      "primary_artist_name": "The Pharcyde",
+      "spotify_album_id": "05Qg48LlYGKYdeXrNGg00g"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--mr-morale-and-the-big-steppers",
+      "name": "Mr. Morale \u0026 The Big Steppers",
+      "play_count": 8,
       "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar"
-    },
-    {
-      "canonical_slug": "cypress-hill--cypress-hill",
-      "name": "Cypress Hill",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "cypress-hill",
-      "primary_artist_name": "Cypress Hill"
-    },
-    {
-      "canonical_slug": "snoop-dogg--doggystyle",
-      "name": "Doggystyle",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
-      "name": "To Pimp A Butterfly",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--good-kid-m-a-a-d-city-deluxe",
-      "name": "good kid, m.A.A.d city (Deluxe)",
-      "play_count": 3,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar"
+      "primary_artist_name": "Kendrick Lamar",
+      "spotify_album_id": "79ONNoS4M9tfIA1mYLBYVX",
+      "musicbrainz_release_id": "5e658ccb-cdfe-4e3c-91f7-79299ee45027",
+      "musicbrainz_release_group_id": "6bd70eee-bd46-4738-851a-f50c19d8d6db"
     },
     {
       "canonical_slug": "dr-dre--2001",
       "name": "2001",
-      "play_count": 2,
+      "play_count": 5,
       "primary_artist_canonical_slug": "dr-dre",
-      "primary_artist_name": "Dr. Dre"
+      "primary_artist_name": "Dr. Dre",
+      "spotify_album_id": "7q2B4M5EiBkqrlsNW8lB7N",
+      "musicbrainz_release_id": "9545a5e5-014e-3381-8d8a-32a780b450ae",
+      "musicbrainz_release_group_id": "f28e065d-fd56-3929-b0a4-6aa1b4c78bdb"
     },
     {
-      "canonical_slug": "snoop-dogg--doggumentary",
-      "name": "Doggumentary",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--gnx",
-      "name": "GNX",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar"
+      "canonical_slug": "cypress-hill--cypress-hill",
+      "name": "Cypress Hill",
+      "play_count": 5,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "spotify_album_id": "4tQSV1ZGpwlo3dBiTRuKvM",
+      "musicbrainz_release_id": "2c1b6187-dee7-4786-b289-50a7e318cf53",
+      "musicbrainz_release_group_id": "6845afb3-c21c-47ef-9fae-6244fd8b74d2"
     }
   ],
   "top_tracks": [
     {
       "canonical_slug": "cypress-hill--when-the-shit-goes-down",
       "name": "When the Shit Goes Down",
-      "play_count": 5,
+      "play_count": 6,
       "primary_artist_canonical_slug": "cypress-hill",
       "primary_artist_name": "Cypress Hill",
       "release_canonical_slug": "cypress-hill--black-sunday",
@@ -229,6 +286,83 @@
       "spotify_url": "https://open.spotify.com/track/7AaET28qSzlkFBcySHh4ES"
     },
     {
+      "canonical_slug": "kendrick-lamar--untitled-06-06-30-2014",
+      "name": "untitled 06 | 06.30.2014.",
+      "play_count": 3,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--untitled-unmastered",
+      "release_name": "untitled unmastered.",
+      "spotify_track_id": "4M2t7bP4Mq87mGMn0PObUX",
+      "spotify_url": "https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX"
+    },
+    {
+      "canonical_slug": "the-pharcyde--4-better-or-4-worse-dj-nu-mark-remix",
+      "name": "4 Better Or 4 Worse - DJ Nu-Mark Remix",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "the-pharcyde",
+      "primary_artist_name": "The Pharcyde",
+      "release_canonical_slug": "the-pharcyde--runnin-4-better-or-4-worse-remixes",
+      "release_name": "Runnin' / 4 Better Or 4 Worse (Remixes)",
+      "spotify_track_id": "1KHUsvQPOADCJko6Ws9H8Q",
+      "spotify_url": "https://open.spotify.com/track/1KHUsvQPOADCJko6Ws9H8Q"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--alright",
+      "name": "Alright",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
+      "release_name": "To Pimp A Butterfly",
+      "spotify_track_id": "3iVcZ5G6tvkXZkZKlMpIUs",
+      "spotify_url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--for-free-interlude",
+      "name": "For Free? - Interlude",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
+      "release_name": "To Pimp A Butterfly",
+      "spotify_track_id": "75izAeHlGuOgA865CFDyIv",
+      "spotify_url": "https://open.spotify.com/track/75izAeHlGuOgA865CFDyIv"
+    },
+    {
+      "canonical_slug": "kendrick-lamar--for-sale-interlude",
+      "name": "For Sale? - Interlude",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "kendrick-lamar",
+      "primary_artist_name": "Kendrick Lamar",
+      "release_canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
+      "release_name": "To Pimp A Butterfly",
+      "spotify_track_id": "7unx2Rvsq8D0RfOLRXclTA",
+      "spotify_url": "https://open.spotify.com/track/7unx2Rvsq8D0RfOLRXclTA"
+    },
+    {
+      "canonical_slug": "cypress-hill--hand-on-the-pump",
+      "name": "Hand On the Pump",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "release_canonical_slug": "cypress-hill--cypress-hill",
+      "release_name": "Cypress Hill",
+      "spotify_track_id": "1TeVeYATRojNVCH7q1APiv",
+      "spotify_url": "https://open.spotify.com/track/1TeVeYATRojNVCH7q1APiv"
+    },
+    {
+      "canonical_slug": "cypress-hill--hits-from-the-bong",
+      "name": "Hits from the Bong",
+      "play_count": 2,
+      "primary_artist_canonical_slug": "cypress-hill",
+      "primary_artist_name": "Cypress Hill",
+      "release_canonical_slug": "cypress-hill--black-sunday",
+      "release_name": "Black Sunday",
+      "spotify_track_id": "0cfqYhY6B8PbGF9vaVNUeG",
+      "spotify_url": "https://open.spotify.com/track/0cfqYhY6B8PbGF9vaVNUeG"
+    },
+    {
       "canonical_slug": "cypress-hill--how-i-could-just-kill-a-man",
       "name": "How I Could Just Kill a Man",
       "play_count": 2,
@@ -238,83 +372,6 @@
       "release_name": "Cypress Hill",
       "spotify_track_id": "6l4wMAXzI8RxIysQMYZY0w",
       "spotify_url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
-    },
-    {
-      "canonical_slug": "snoop-dogg--tha-shiznit",
-      "name": "Tha Shiznit",
-      "play_count": 2,
-      "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg",
-      "release_canonical_slug": "snoop-dogg--doggystyle",
-      "release_name": "Doggystyle",
-      "spotify_track_id": "2DhL7DtMmxmqrCUB2NAlLm",
-      "spotify_url": "https://open.spotify.com/track/2DhL7DtMmxmqrCUB2NAlLm"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--alright",
-      "name": "Alright",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar",
-      "release_canonical_slug": "kendrick-lamar--to-pimp-a-butterfly",
-      "release_name": "To Pimp A Butterfly",
-      "spotify_track_id": "3iVcZ5G6tvkXZkZKlMpIUs",
-      "spotify_url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--feel",
-      "name": "FEEL.",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar",
-      "release_canonical_slug": "kendrick-lamar--damn",
-      "release_name": "DAMN.",
-      "spotify_track_id": "2LTlO3NuNVN70lp2ZbVswF",
-      "spotify_url": "https://open.spotify.com/track/2LTlO3NuNVN70lp2ZbVswF"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--god",
-      "name": "GOD.",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar",
-      "release_canonical_slug": "kendrick-lamar--damn",
-      "release_name": "DAMN.",
-      "spotify_track_id": "5p3NP9mQblDsVJLdfNZJ3I",
-      "spotify_url": "https://open.spotify.com/track/5p3NP9mQblDsVJLdfNZJ3I"
-    },
-    {
-      "canonical_slug": "snoop-dogg--gin-and-juice",
-      "name": "Gin and Juice",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "snoop-dogg",
-      "primary_artist_name": "Snoop Dogg",
-      "release_canonical_slug": "snoop-dogg--doggystyle",
-      "release_name": "Doggystyle",
-      "spotify_track_id": "39QBkWKnap8wRSW4WB9OK0",
-      "spotify_url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
-    },
-    {
-      "canonical_slug": "cypress-hill--hand-on-the-pump",
-      "name": "Hand On the Pump",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "cypress-hill",
-      "primary_artist_name": "Cypress Hill",
-      "release_canonical_slug": "cypress-hill--cypress-hill",
-      "release_name": "Cypress Hill",
-      "spotify_track_id": "1TeVeYATRojNVCH7q1APiv",
-      "spotify_url": "https://open.spotify.com/track/1TeVeYATRojNVCH7q1APiv"
-    },
-    {
-      "canonical_slug": "kendrick-lamar--hiiipower",
-      "name": "HiiiPower",
-      "play_count": 1,
-      "primary_artist_canonical_slug": "kendrick-lamar",
-      "primary_artist_name": "Kendrick Lamar",
-      "release_canonical_slug": "kendrick-lamar--section-80",
-      "release_name": "Section.80",
-      "spotify_track_id": "4WEuEfFiczWxblHyuucSBL",
-      "spotify_url": "https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL"
     }
   ],
   "source_refs": [
@@ -323,6 +380,12 @@
       "source": "music-garden",
       "path": "genre-taxonomy.json",
       "note": "Canonical genre slug, display title, aliases, parent, and notes come from the human-edited taxonomy."
+    },
+    {
+      "role": "cross_source_enrichment",
+      "source": "musicbrainz",
+      "path": "normalized",
+      "note": "Top artists and releases carry MusicBrainz identifiers when enrichment is available."
     },
     {
       "role": "editorial_summary",
