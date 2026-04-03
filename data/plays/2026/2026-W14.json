@@ -1,5 +1,104 @@
 [
   {
+    "played_at": "2026-04-03T20:25:22.799Z",
+    "track_id": "45MgL96GvRGGQmWdq7tuCY",
+    "track_name": "Crazy Women Ridge",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 210497,
+    "track_spotify_url": "https://open.spotify.com/track/45MgL96GvRGGQmWdq7tuCY"
+  },
+  {
+    "played_at": "2026-04-03T18:02:18.926Z",
+    "track_id": "52Sj2Os6oTXHbgorqgyBhz",
+    "track_name": "Life \u0026 Times of Billy McLane (Theme II)",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 26339,
+    "track_spotify_url": "https://open.spotify.com/track/52Sj2Os6oTXHbgorqgyBhz"
+  },
+  {
+    "played_at": "2026-04-03T18:02:18.898Z",
+    "track_id": "7KMMyM10b2LVYMhO4nvv3G",
+    "track_name": "I Shot Jesse James",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 168906,
+    "track_spotify_url": "https://open.spotify.com/track/7KMMyM10b2LVYMhO4nvv3G"
+  },
+  {
+    "played_at": "2026-04-03T17:59:19.326Z",
+    "track_id": "6YH1SdNUROjNhQfGzZP330",
+    "track_name": "Diamond Belle (Country Boy)",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 152275,
+    "track_spotify_url": "https://open.spotify.com/track/6YH1SdNUROjNhQfGzZP330"
+  },
+  {
+    "played_at": "2026-04-03T17:56:49.175Z",
+    "track_id": "2kXndrAnkiA2HY1f08UQtT",
+    "track_name": "Fastest Gun Alive",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 187768,
+    "track_spotify_url": "https://open.spotify.com/track/2kXndrAnkiA2HY1f08UQtT"
+  },
+  {
+    "played_at": "2026-04-03T17:48:44.932Z",
+    "track_id": "3z5cIlHXa47eaa905sxo7Q",
+    "track_name": "My Last Drink Of Wine",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 200446,
+    "track_spotify_url": "https://open.spotify.com/track/3z5cIlHXa47eaa905sxo7Q"
+  },
+  {
+    "played_at": "2026-04-03T17:45:14.994Z",
+    "track_id": "5lByIUANihNyDzD9ie0EV5",
+    "track_name": "Rancho Deluxe (Main Theme)",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 126335,
+    "track_spotify_url": "https://open.spotify.com/track/5lByIUANihNyDzD9ie0EV5"
+  },
+  {
+    "played_at": "2026-04-03T17:43:14.840Z",
+    "track_id": "3ossErA68C3bYNofQgQDsB",
+    "track_name": "Lonesome Dove",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 184383,
+    "track_spotify_url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
+  },
+  {
+    "played_at": "2026-04-03T17:40:15.896Z",
+    "track_id": "0aCxc6G7ncoeI7yDdVjkb3",
+    "track_name": "Life \u0026 Times Of Billy McLane (Theme I)",
+    "artist_id": "3BJX1nYizKvWpZTY5HOAr4",
+    "artist_name": "Charley Crockett",
+    "artist_spotify_url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4",
+    "album_name": "Age of the Ram",
+    "duration_ms": 56608,
+    "track_spotify_url": "https://open.spotify.com/track/0aCxc6G7ncoeI7yDdVjkb3"
+  },
+  {
     "played_at": "2026-04-03T06:15:29.709Z",
     "track_id": "782YL8tQgq9yHnM6ZomxTq",
     "track_name": "An abysm of time",
