@@ -1413,6 +1413,30 @@
     ],
     "last_updated": "2026-03-18"
   },
+  "1YTe4dNIoWX3iHX8H4xVeM": {
+    "name": "Jerry Garcia Band",
+    "genres": [
+      "jam band"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf20cdb170f6664d45c9c068b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174f20cdb170f6664d45c9c068b",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178f20cdb170f6664d45c9c068b",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-04-21"
+  },
   "1YfEcTuGvBQ8xSD1f53UnK": {
     "name": "Busta Rhymes",
     "genres": [
@@ -5521,6 +5545,33 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "6FxuPrpa8phaP3Xn73emhT": {
+    "name": "The Wood Brothers",
+    "genres": [
+      "bluegrass",
+      "newgrass",
+      "americana",
+      "folk"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb50ac52539a0cbcd402122b16",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517450ac52539a0cbcd402122b16",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17850ac52539a0cbcd402122b16",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-04-21"
   },
   "6I0kP8JmVEFr4krxYl8KrF": {
     "name": "Kitsch And Camp",
