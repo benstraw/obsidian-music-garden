@@ -5656,6 +5656,30 @@
     ],
     "last_updated": "2026-03-18"
   },
+  "5sD1ZLf2dGQ9gQ3YJl1eAd": {
+    "name": "Blind Melon",
+    "genres": [
+      "grunge"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdcc3fe6af94c5c178a36d006",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174dcc3fe6af94c5c178a36d006",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178dcc3fe6af94c5c178a36d006",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-04-29"
+  },
   "5szMuuBbDzULkagWIfI5LG": {
     "name": "Immanuel Wilkins",
     "genres": [
@@ -5737,6 +5761,32 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "5xUf6j4upBrXZPg6AI4MRK": {
+    "name": "Soundgarden",
+    "genres": [
+      "grunge",
+      "post-grunge",
+      "hard rock"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebafa254b2a224584485286526",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174afa254b2a224584485286526",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178afa254b2a224584485286526",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-04-29"
   },
   "60df5JBRRPcnSpsIMxxwQm": {
     "name": "Otis Redding",
