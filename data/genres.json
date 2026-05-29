@@ -1740,6 +1740,39 @@
     ],
     "last_updated": "2026-03-18"
   },
+  "1VEzN9lxvG6KPR3QQGsebR": {
+    "name": "Sonny Rollins",
+    "genres": [
+      "hard bop",
+      "jazz",
+      "bebop",
+      "jazz ballads",
+      "cool jazz"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6772690000c46c36895fb1d821585e10947a37",
+        "height": 1000,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6772690000dd2236895fb1d821585e10947a37",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6772690000bac336895fb1d821585e10947a37",
+        "height": 200,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67726900008f7436895fb1d821585e10947a37",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "last_updated": "2026-05-29"
+  },
   "1W9qOBYRTfP7HcizWN43G1": {
     "name": "Slick Rick",
     "genres": [
@@ -6471,6 +6504,41 @@
       }
     ],
     "last_updated": "2026-03-26"
+  },
+  "5RzjqfPS0Bu4bUMkyNNDpn": {
+    "name": "Dizzy Gillespie",
+    "genres": [
+      "bebop",
+      "jazz",
+      "afro-cuban jazz",
+      "hard bop",
+      "latin jazz",
+      "big band",
+      "cool jazz"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/896485317ae7153ad421012f2f7cb90cf3fbfbff",
+        "height": 1024,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/96daabf66ecd18cc20df9339e0e9c1ba1d2f868f",
+        "height": 656,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/7662f15f1ef7e479b452a602663975af1b271000",
+        "height": 205,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/8368a17dfed9085ca0d6f3eda7ec799fdbeb77fd",
+        "height": 66,
+        "width": 64
+      }
+    ],
+    "last_updated": "2026-05-29"
   },
   "5SbkVQYYzlw1kte75QIabH": {
     "name": "Gnarls Barkley",
