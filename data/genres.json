@@ -1969,6 +1969,37 @@
     ],
     "last_updated": "2026-03-18"
   },
+  "1dfeR4HaWDbWqFHLkxsg1d": {
+    "name": "Queen",
+    "genres": [
+      "classic rock",
+      "rock",
+      "glam rock"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6772690000c46c47488c35a509d42072c23976",
+        "height": 1000,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6772690000dd2247488c35a509d42072c23976",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6772690000bac347488c35a509d42072c23976",
+        "height": 200,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67726900008f7447488c35a509d42072c23976",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "last_updated": "2026-06-04"
+  },
   "1eEfMU2AhEo7XnKgL7c304": {
     "name": "Carpenters",
     "genres": [
@@ -9121,6 +9152,33 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "7bu3H8JO7d0UbMoVzbo70s": {
+    "name": "The Cure",
+    "genres": [
+      "new wave",
+      "post-punk",
+      "gothic rock",
+      "darkwave"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174dd427c765c409ec02dc3a868",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178dd427c765c409ec02dc3a868",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-04"
   },
   "7c9O0hfRy2u32JVcWhoope": {
     "name": "Lars Danielsson",
