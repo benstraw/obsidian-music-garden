@@ -1,5 +1,93 @@
 [
   {
+    "played_at": "2026-06-09T01:41:40.297Z",
+    "track_id": "2cDCojn6uIBM6A5xTAbl3H",
+    "track_name": "m.A.A.d city",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 350120,
+    "track_spotify_url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
+  },
+  {
+    "played_at": "2026-06-09T01:35:50.418Z",
+    "track_id": "5vuJuBqwzHJgCA1ysRfwxZ",
+    "track_name": "good kid",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 214120,
+    "track_spotify_url": "https://open.spotify.com/track/5vuJuBqwzHJgCA1ysRfwxZ"
+  },
+  {
+    "played_at": "2026-06-09T01:09:39.032Z",
+    "track_id": "2P3SLxeQHPqh8qKB6gtJY2",
+    "track_name": "Poetic Justice",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 300160,
+    "track_spotify_url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+  },
+  {
+    "played_at": "2026-06-09T00:22:17.601Z",
+    "track_id": "0AOvNRgl0SMfOibWA5bP8o",
+    "track_name": "Money Trees",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 386906,
+    "track_spotify_url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
+  },
+  {
+    "played_at": "2026-06-09T00:15:50.815Z",
+    "track_id": "0d0jsoba88SpOoFxCxA2rZ",
+    "track_name": "The Art of Peer Pressure",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 324533,
+    "track_spotify_url": "https://open.spotify.com/track/0d0jsoba88SpOoFxCxA2rZ"
+  },
+  {
+    "played_at": "2026-06-09T00:10:26.022Z",
+    "track_id": "3aGibUHhQyBsyumYHylw0K",
+    "track_name": "Backseat Freestyle",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 212653,
+    "track_spotify_url": "https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K"
+  },
+  {
+    "played_at": "2026-06-09T00:06:53.608Z",
+    "track_id": "712uvW1Vezq8WpQi38v2L9",
+    "track_name": "Bitch, Don’t Kill My Vibe",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 310720,
+    "track_spotify_url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
+  },
+  {
+    "played_at": "2026-06-09T00:01:42.610Z",
+    "track_id": "0qGFnxDIqGBIq2D3zNbjk9",
+    "track_name": "Sherane a.k.a Master Splinter’s Daughter",
+    "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "artist_name": "Kendrick Lamar",
+    "artist_spotify_url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg",
+    "album_name": "good kid, m.A.A.d city (Deluxe)",
+    "duration_ms": 273640,
+    "track_spotify_url": "https://open.spotify.com/track/0qGFnxDIqGBIq2D3zNbjk9"
+  },
+  {
     "played_at": "2026-06-08T06:38:28.404Z",
     "track_id": "3F0GWeDzBhltnxajLj06h3",
     "track_name": "Two White Rat",
