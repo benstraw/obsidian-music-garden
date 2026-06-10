@@ -3472,6 +3472,33 @@
     ],
     "last_updated": "2026-03-29"
   },
+  "2pAWfrd7WFF3XhVt9GooDL": {
+    "name": "MF DOOM",
+    "genres": [
+      "experimental hip hop",
+      "east coast hip hop",
+      "jazz rap",
+      "alternative hip hop"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6c8167ef48a872b6f190078f",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051746c8167ef48a872b6f190078f",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1786c8167ef48a872b6f190078f",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-10"
+  },
   "2pdvghEHZJtgSXZ7cvNLou": {
     "name": "Crosby, Stills \u0026 Nash",
     "genres": [
@@ -9109,6 +9136,28 @@
     ],
     "last_updated": "2026-04-05"
   },
+  "73sIBHcqh3Z3NyqHKZ7FOL": {
+    "name": "Childish Gambino",
+    "genres": [],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174c3dc5429b676b16d451e5f77",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178c3dc5429b676b16d451e5f77",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-10"
+  },
   "74ASZWbe4lXaubB36ztrGX": {
     "name": "Bob Dylan",
     "genres": [
@@ -9952,6 +10001,38 @@
       }
     ],
     "last_updated": "2026-04-21"
+  },
+  "7yk35uHNQclPXFGFoTU44w": {
+    "name": "The Pharcyde",
+    "genres": [
+      "jazz rap",
+      "west coast hip hop",
+      "old school hip hop",
+      "hip hop"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
+        "height": 1394,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/01126acfcb317eaa068dfb1699006946abe51262",
+        "height": 892,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/379f08564c1550cf56734267857226bb1a0b7bee",
+        "height": 279,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/7959e017ada2921da27ba3d8e93222d70b121733",
+        "height": 89,
+        "width": 64
+      }
+    ],
+    "last_updated": "2026-06-10"
   },
   "7zLDabVhJXJvgPMaVIsW3G": {
     "name": "Christian Bollmann",
