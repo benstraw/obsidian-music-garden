@@ -505,6 +505,30 @@
     ],
     "last_updated": "2026-04-29"
   },
+  "0L9xkvBPcEp1nrhDrodxc5": {
+    "name": "Level 42",
+    "genres": [
+      "synthpop"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc416e89fd5d1eedab418f8de",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174c416e89fd5d1eedab418f8de",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178c416e89fd5d1eedab418f8de",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-14"
+  },
   "0LN8DYo6VtPVK0WQ3g6AXJ": {
     "name": "The Supervillains",
     "genres": [
@@ -3957,6 +3981,31 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "2ycnb8Er79LoH2AsR5ldjh": {
+    "name": "Pet Shop Boys",
+    "genres": [
+      "synthpop",
+      "new wave"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd24f448b409b6304c2880614",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174d24f448b409b6304c2880614",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178d24f448b409b6304c2880614",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-14"
   },
   "30U8fYtiNpeA5KH6H87QUV": {
     "name": "Dead Kennedys",
