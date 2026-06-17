@@ -556,6 +556,37 @@
     ],
     "last_updated": "2026-05-06"
   },
+  "0NAr5zThPfMx26ISgooQK6": {
+    "name": "John Hartford",
+    "genres": [
+      "bluegrass",
+      "newgrass",
+      "americana"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/aafb8bb33b29dc9e3eb83bfec71467e153feeccd",
+        "height": 733,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/996c01c59d6aacf63874a6e8d6f17c9839ad542c",
+        "height": 469,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/7ee19bc07fb3920e19b36b84a101d7957ba8e512",
+        "height": 147,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/9ad5b2696d9021e7acbcae2431ba4173afc8d919",
+        "height": 47,
+        "width": 64
+      }
+    ],
+    "last_updated": "2026-06-17"
+  },
   "0NnCgUxhtWt1yBtpDyvFQf": {
     "name": "Black Sheep",
     "genres": [
@@ -4767,6 +4798,30 @@
     ],
     "last_updated": "2026-04-21"
   },
+  "3QcM2tU8CDY3LyzvwCj1CI": {
+    "name": "Dillard \u0026 Clark",
+    "genres": [
+      "country rock"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273fb30ef03cc2fee16cd2b8918",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02fb30ef03cc2fee16cd2b8918",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851fb30ef03cc2fee16cd2b8918",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "last_updated": "2026-06-17"
+  },
   "3RTzAwFprBqiskp550eSJX": {
     "name": "Harry Nilsson",
     "genres": [
@@ -5199,6 +5254,31 @@
     ],
     "last_updated": "2026-03-26"
   },
+  "3loACRmkzdtOMNJEaB6j8L": {
+    "name": "Loudon Wainwright III",
+    "genres": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb386067d241fbc8ac18c1e89f",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174386067d241fbc8ac18c1e89f",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178386067d241fbc8ac18c1e89f",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-17"
+  },
   "3mXvO1rdMCgdOYNiWeduWG": {
     "name": "Christian Borle",
     "genres": [
@@ -5322,6 +5402,32 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "3oVcF3VdpMuvMvLLyHPT4t": {
+    "name": "Sierra Ferrell",
+    "genres": [
+      "americana",
+      "bluegrass",
+      "alt country"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb871c90e9904cac69a6c31697",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174871c90e9904cac69a6c31697",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178871c90e9904cac69a6c31697",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-17"
   },
   "3q7HBObVc0L8jNeTe5Gofh": {
     "name": "50 Cent",
@@ -6755,6 +6861,28 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "4pzjm2iMtclScYmoJ7q9tD": {
+    "name": "Dan Reeder",
+    "genres": [],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb521a0de2066d4a71076fe45d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174521a0de2066d4a71076fe45d",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178521a0de2066d4a71076fe45d",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-06-17"
   },
   "4qmHkMxr6pTWh5Zo74odpH": {
     "name": "Elvis Costello \u0026 The Attractions",
