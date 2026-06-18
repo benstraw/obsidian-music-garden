@@ -1,5 +1,27 @@
 [
   {
+    "played_at": "2026-06-18T18:50:24.876Z",
+    "track_id": "5Zm2BnGdRDUFx0hzAOOOU5",
+    "track_name": "Be Careful",
+    "artist_id": "7tNLRmiAN8hpmFrbIHiHsy",
+    "artist_name": "Patty Griffin",
+    "artist_spotify_url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy",
+    "album_name": "1000 Kisses",
+    "duration_ms": 244293,
+    "track_spotify_url": "https://open.spotify.com/track/5Zm2BnGdRDUFx0hzAOOOU5"
+  },
+  {
+    "played_at": "2026-06-18T18:46:20.604Z",
+    "track_id": "1hypKxsd3jDj2TzYFnwaXC",
+    "track_name": "Making Pies",
+    "artist_id": "7tNLRmiAN8hpmFrbIHiHsy",
+    "artist_name": "Patty Griffin",
+    "artist_spotify_url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy",
+    "album_name": "1000 Kisses",
+    "duration_ms": 219973,
+    "track_spotify_url": "https://open.spotify.com/track/1hypKxsd3jDj2TzYFnwaXC"
+  },
+  {
     "played_at": "2026-06-17T19:59:51.232Z",
     "track_id": "3LkXOTWDwskwciQoARFDzu",
     "track_name": "Guilty Conscience 2",
