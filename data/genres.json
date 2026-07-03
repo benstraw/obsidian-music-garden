@@ -10024,6 +10024,32 @@
     ],
     "last_updated": "2026-06-06"
   },
+  "6kACVPfCOnqzgfEF5ryl0x": {
+    "name": "Johnny Cash",
+    "genres": [
+      "classic country",
+      "outlaw country",
+      "country"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb94a8326675bfcafb20f0a235",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517494a8326675bfcafb20f0a235",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17894a8326675bfcafb20f0a235",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-07-03"
+  },
   "6kPXTIsluODISnUy2JBlI6": {
     "name": "Sheffy Oren Bach",
     "genres": [],
