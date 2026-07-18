@@ -1,5 +1,104 @@
 [
   {
+    "played_at": "2026-07-18T17:56:44.124Z",
+    "track_id": "6MqfTP3OwngywVTOS5OAFt",
+    "track_name": "Memphis Soul Stew",
+    "artist_id": "0WxOgeRxUt0MwPrI7A5atQ",
+    "artist_name": "King Curtis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ",
+    "album_name": "King Size Soul",
+    "duration_ms": 179413,
+    "track_spotify_url": "https://open.spotify.com/track/6MqfTP3OwngywVTOS5OAFt"
+  },
+  {
+    "played_at": "2026-07-18T17:53:44.348Z",
+    "track_id": "5kyqgKXp6HdMXdNMsp22EJ",
+    "track_name": "Wars Of Armageddon",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 583168,
+    "track_spotify_url": "https://open.spotify.com/track/5kyqgKXp6HdMXdNMsp22EJ"
+  },
+  {
+    "played_at": "2026-07-18T17:44:01.173Z",
+    "track_id": "25XlPV3Khx2RVhwCBC6HNe",
+    "track_name": "Back In Our Minds",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 157845,
+    "track_spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe"
+  },
+  {
+    "played_at": "2026-07-18T17:41:23.432Z",
+    "track_id": "2X6qfjDzhKQA7UqhzyJrQP",
+    "track_name": "Super Stupid",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 237141,
+    "track_spotify_url": "https://open.spotify.com/track/2X6qfjDzhKQA7UqhzyJrQP"
+  },
+  {
+    "played_at": "2026-07-18T17:37:26.395Z",
+    "track_id": "1alxqrqIYG7YIlaCmwzl6p",
+    "track_name": "You And Your Folks, Me And My Folks",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 216938,
+    "track_spotify_url": "https://open.spotify.com/track/1alxqrqIYG7YIlaCmwzl6p"
+  },
+  {
+    "played_at": "2026-07-18T17:23:57.972Z",
+    "track_id": "2w7R3CQgvl8PIKJlwtT9Mv",
+    "track_name": "Hit It and Quit It",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 229525,
+    "track_spotify_url": "https://open.spotify.com/track/2w7R3CQgvl8PIKJlwtT9Mv"
+  },
+  {
+    "played_at": "2026-07-18T17:20:07.075Z",
+    "track_id": "5lc9L9FeLBwlJPgEbq9uEw",
+    "track_name": "Can You Get To That",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 169856,
+    "track_spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw"
+  },
+  {
+    "played_at": "2026-07-18T17:17:17.213Z",
+    "track_id": "5WJU527RQNyMLuKecjsL8V",
+    "track_name": "Maggot Brain",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 619263,
+    "track_spotify_url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
+  },
+  {
+    "played_at": "2026-07-18T17:05:07.566Z",
+    "track_id": "5WJU527RQNyMLuKecjsL8V",
+    "track_name": "Maggot Brain",
+    "artist_id": "450o9jw6AtiQlQkHCdH6Ru",
+    "artist_name": "Funkadelic",
+    "artist_spotify_url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru",
+    "album_name": "Maggot Brain",
+    "duration_ms": 619263,
+    "track_spotify_url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
+  },
+  {
     "played_at": "2026-07-16T21:07:35.868Z",
     "track_id": "4FgsX8sfaIUErvFzlaD3tN",
     "track_name": "Autumn In New York - Set 1 / Live At Cafe Bohemia, May 31, 1956",
