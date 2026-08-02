@@ -6542,6 +6542,36 @@
     ],
     "last_updated": "2026-04-05"
   },
+  "3bLSAQPeix7Xm2e5Gtn48R": {
+    "name": "The Steeldrivers",
+    "genres": [
+      "bluegrass",
+      "newgrass",
+      "outlaw country",
+      "americana",
+      "red dirt",
+      "country",
+      "alt country"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdc908a34abcbb9b335b94c14",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174dc908a34abcbb9b335b94c14",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178dc908a34abcbb9b335b94c14",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-08-02"
+  },
   "3cdI6SvJ24KsOcvYyBwH9c": {
     "name": "Luz",
     "genres": [],
@@ -10367,6 +10397,33 @@
     ],
     "last_updated": "2026-04-26"
   },
+  "675tsBPpaZtqyiBwEf3ZEP": {
+    "name": "Watchhouse",
+    "genres": [
+      "bluegrass",
+      "americana",
+      "newgrass",
+      "folk"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebbf832300f2032e64d42fe763",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174bf832300f2032e64d42fe763",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178bf832300f2032e64d42fe763",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-08-02"
+  },
   "67PZTxaHKMZBFRUh8wIzCy": {
     "name": "John Coltrane Quartet",
     "genres": [
@@ -12849,6 +12906,32 @@
       }
     ],
     "last_updated": "2026-03-18"
+  },
+  "7dmeVSH4lJqxXU7C87dKIB": {
+    "name": "Tanya Tucker",
+    "genres": [
+      "classic country",
+      "country",
+      "outlaw country"
+    ],
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebacc786c55075e7d82a414e15",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174acc786c55075e7d82a414e15",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178acc786c55075e7d82a414e15",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "last_updated": "2026-08-02"
   },
   "7g9DeYASD3RzlT4kDchsQZ": {
     "name": "Gil Evans",
