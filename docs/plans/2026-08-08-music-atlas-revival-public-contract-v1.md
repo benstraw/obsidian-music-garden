@@ -154,8 +154,9 @@ atomically replacing the previous export.
   `codex/music-atlas-consumer-v1`, leaving the website's unrelated branch
   untouched.
 - Pushed producer implementation commit `57d243d0` and consumer implementation
-  commit `9732992`. Draft PR creation remains pending because the local GitHub
-  CLI credentials require reauthentication.
+  commit `9732992`. Opened paired draft PRs:
+  [producer #11](https://github.com/benstraw/obsidian-music-garden/pull/11)
+  and [consumer #103](https://github.com/benstraw/benstrawbridge.com/pull/103).
 - Moved authoritative stores under `data/catalog/` with environment overrides
   and one-release root-path fallback. Real 2026 play shards were enriched with
   primary/featured/album artists, positions, and 886 complete Spotify editions.
@@ -199,5 +200,5 @@ atomically replacing the previous export.
   scan of the export found no `played_at`, exact RFC3339 timestamps, or
   `synthetic-legacy` marker.
 - The real export and consumer production build passed together. Release tag,
-  PR links, merge revisions, and two scheduled sync results remain pending due
-  to the GitHub authentication, source-policy, and temporal cutover gates above.
+  merge revisions, and two scheduled sync results remain pending due to the
+  source-policy and temporal cutover gates above.
