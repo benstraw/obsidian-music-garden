@@ -307,6 +307,35 @@ func TestRenderWeekly_includesAdditionalArtistsInRotation(t *testing.T) {
 	}
 }
 
+func TestRenderWeekly_createsStubsOnlyForPrimaryArtists(t *testing.T) {
+	dir := t.TempDir()
+	date := time.Date(2026, 2, 18, 0, 0, 0, 0, time.UTC)
+
+	plays := []models.Play{
+		{
+			PlayedAt:   "2026-02-18T12:00:00Z",
+			TrackName:  "My Song",
+			ArtistName: "Primary Artist",
+			AdditionalArtists: []models.PlayArtist{
+				{Name: "Featured Artist"},
+			},
+			AlbumName:  "My Album",
+			DurationMS: 200000,
+		},
+	}
+
+	if _, err := RenderWeekly(plays, date, dir, nil); err != nil {
+		t.Fatalf("RenderWeekly: %v", err)
+	}
+
+	if _, err := os.Stat(filepath.Join(dir, "music", "artists", "Primary Artist.md")); err != nil {
+		t.Fatalf("expected primary artist stub: %v", err)
+	}
+	if _, err := os.Stat(filepath.Join(dir, "music", "artists", "Featured Artist.md")); !os.IsNotExist(err) {
+		t.Fatalf("expected no featured artist stub, got err=%v", err)
+	}
+}
+
 func TestRenderGenrePage(t *testing.T) {
 	dir := t.TempDir()
 	tmplPath := filepath.Join(dir, "genre.md.tmpl")

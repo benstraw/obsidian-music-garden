@@ -104,11 +104,15 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistM
 	// Stats
 	uniqueTracks := map[string]bool{}
 	uniqueArtists := map[string]bool{}
+	primaryArtists := map[string]bool{}
 	uniqueAlbums := map[string]bool{}
 	totalMS := 0
 	for _, p := range weekPlays {
 		uniqueTracks[p.TrackName+"|"+p.ArtistName] = true
 		uniqueArtists[p.ArtistName] = true
+		if strings.TrimSpace(p.ArtistName) != "" {
+			primaryArtists[p.ArtistName] = true
+		}
 		for _, artist := range p.AdditionalArtists {
 			if strings.TrimSpace(artist.Name) != "" {
 				uniqueArtists[artist.Name] = true
@@ -173,23 +177,23 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistM
 	}
 	sort.Strings(artistsSorted)
 
-	// New artists (not yet in vault)
+	// New primary artists (not yet in vault)
 	artistsDir := filepath.Join(vaultPath, "music", "artists")
 	var newArtists []string
-	for _, a := range artistsSorted {
+	primaryArtistsSorted := make([]string, 0, len(primaryArtists))
+	for a := range primaryArtists {
+		primaryArtistsSorted = append(primaryArtistsSorted, a)
+	}
+	sort.Strings(primaryArtistsSorted)
+	for _, a := range primaryArtistsSorted {
 		stubPath := filepath.Join(artistsDir, a+".md")
 		if _, err := os.Stat(stubPath); os.IsNotExist(err) {
 			newArtists = append(newArtists, a)
 		}
 	}
 
-	// Create artist stubs for weekly plays.
-	allArtistNames := map[string]bool{}
-	for _, a := range artistsSorted {
-		allArtistNames[a] = true
-	}
-
-	// Build url map from weekly plays.
+	// Create artist stubs for primary weekly artists only.
+	// Additional artists still appear in note content but do not get their own stub pages.
 	artistURLs := map[string]string{}
 	for _, p := range weekPlays {
 		if _, ok := artistURLs[p.ArtistName]; !ok {
@@ -197,13 +201,7 @@ func RenderWeekly(plays []models.Play, date time.Time, vaultPath string, artistM
 		}
 	}
 
-	sortedAllArtists := make([]string, 0, len(allArtistNames))
-	for name := range allArtistNames {
-		sortedAllArtists = append(sortedAllArtists, name)
-	}
-	sort.Strings(sortedAllArtists)
-
-	for _, name := range sortedAllArtists {
+	for _, name := range primaryArtistsSorted {
 		record, ok := artistMetadata[name]
 		if !ok {
 			record = genres.ArtistRecord{
