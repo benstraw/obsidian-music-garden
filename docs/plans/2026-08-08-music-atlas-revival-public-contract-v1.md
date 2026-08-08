@@ -153,6 +153,9 @@ atomically replacing the previous export.
 - Implemented producer work on `codex/revival-foundation` and consumer work on
   `codex/music-atlas-consumer-v1`, leaving the website's unrelated branch
   untouched.
+- Pushed producer implementation commit `57d243d0` and consumer implementation
+  commit `9732992`. Draft PR creation remains pending because the local GitHub
+  CLI credentials require reauthentication.
 - Moved authoritative stores under `data/catalog/` with environment overrides
   and one-release root-path fallback. Real 2026 play shards were enriched with
   primary/featured/album artists, positions, and 886 complete Spotify editions.
@@ -197,4 +200,4 @@ atomically replacing the previous export.
   `synthetic-legacy` marker.
 - The real export and consumer production build passed together. Release tag,
   PR links, merge revisions, and two scheduled sync results remain pending due
-  to the source-policy and temporal cutover gates above.
+  to the GitHub authentication, source-policy, and temporal cutover gates above.
