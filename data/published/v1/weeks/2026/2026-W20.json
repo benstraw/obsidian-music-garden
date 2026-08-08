@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-05-11",
+  "weekEnd": "2026-05-17",
+  "total_plays": 113,
+  "unique_tracks": 111,
+  "unique_artists": 22,
+  "unique_albums": 53,
+  "total_minutes": 429,
+  "topArtistName": "Johann Sebastian Bach",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88",
+      "height": 479,
+      "width": 479
+    },
+    {
+      "url": "https://i.scdn.co/image/53ec9642cf116eca56d88284c40bb1497585e28e",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/438b280a22e63f994fd39feb031683fb861a31cb",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "plays": 38
+    },
+    {
+      "slug": "bud-powell",
+      "name": "Bud Powell",
+      "plays": 30
+    },
+    {
+      "slug": "allison-russell",
+      "name": "Allison Russell",
+      "plays": 12
+    },
+    {
+      "slug": "johannes-brahms",
+      "name": "Johannes Brahms",
+      "plays": 5
+    },
+    {
+      "slug": "glenn-gould",
+      "name": "Glenn Gould",
+      "plays": 4
+    },
+    {
+      "slug": "ludwig-van-beethoven",
+      "name": "Ludwig van Beethoven",
+      "plays": 4
+    },
+    {
+      "slug": "charlie-parker",
+      "name": "Charlie Parker",
+      "plays": 3
+    },
+    {
+      "slug": "billy-strings",
+      "name": "Billy Strings",
+      "plays": 2
+    },
+    {
+      "slug": "domenico-scarlatti",
+      "name": "Domenico Scarlatti",
+      "plays": 2
+    },
+    {
+      "slug": "aoife-o-donovan",
+      "name": "Aoife O'Donovan",
+      "plays": 1
+    },
+    {
+      "slug": "bud-powell-trio",
+      "name": "Bud Powell Trio",
+      "plays": 1
+    },
+    {
+      "slug": "cure-for-paranoia",
+      "name": "Cure for Paranoia",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Springtime",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "The Returner",
+      "spotify_url": "https://open.spotify.com/track/2VVL0yN3sb3WLpsSiz2pSX",
+      "plays": 2
+    },
+    {
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "You're Not Alone [Feat. Brandi Carlile]",
+      "spotify_url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16",
+      "plays": 2
+    },
+    {
+      "name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
+      "artist": "Sergei Rachmaninoff",
+      "artist_slug": "sergei-rachmaninoff",
+      "album": "Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux",
+      "spotify_url": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua",
+      "plays": 1
+    },
+    {
+      "name": "4 Ballades, Op. 10: No. 4 in B Major. Andante con molto",
+      "artist": "Johannes Brahms",
+      "artist_slug": "johannes-brahms",
+      "album": "Brahms: 4 Ballades, 2 Rhapsodies \u0026 Intermezzi",
+      "spotify_url": "https://open.spotify.com/track/6U2bkhwmb8u1fDEgxGPETv",
+      "plays": 1
+    },
+    {
+      "name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
+      "spotify_url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR",
+      "plays": 1
+    },
+    {
+      "name": "A Night In Tunisia",
+      "artist": "Bud Powell Trio",
+      "artist_slug": "bud-powell-trio",
+      "album": "The Amazing Bud Powell",
+      "spotify_url": "https://open.spotify.com/track/1gVNKswHJISJ5y0ocAdvlv",
+      "plays": 1
+    },
+    {
+      "name": "Autumn In New York",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Amazing Bud Powell (Vol. 2)",
+      "spotify_url": "https://open.spotify.com/track/2AqoA5iNgWBnHfaZsErN9V",
+      "plays": 1
+    },
+    {
+      "name": "Blues In The Closet",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "Blues In The Closet",
+      "spotify_url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK",
+      "plays": 1
+    },
+    {
+      "name": "Body And Soul",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "Piano Solos",
+      "spotify_url": "https://open.spotify.com/track/283A25EB0DjHnWNwpYlyVb",
+      "plays": 1
+    },
+    {
+      "name": "Borderick - Remastered 2003/Rudy Van Gelder Edition",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/1deQvPN0tVQj494avGcimK",
+      "plays": 1
+    },
+    {
+      "name": "Bouncin' With Bud",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Amazing Bud Powell",
+      "spotify_url": "https://open.spotify.com/track/6GzIxYLosb0IlS1bNtu0lO",
+      "plays": 1
+    },
+    {
+      "name": "Buster Rides Again - Remastered 1999/Rudy Van Gelder Edition",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "Time Waits: The Amazing Bud Powell, Vol. 4",
+      "spotify_url": "https://open.spotify.com/track/2Q9JCcBc3HFIwXouooW1Y4",
+      "plays": 1
+    },
+    {
+      "name": "By Your Side",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "By Your Side / Landslide",
+      "spotify_url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4",
+      "plays": 1
+    },
+    {
+      "name": "Celia",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "Piano",
+      "spotify_url": "https://open.spotify.com/track/3LKa5OHbWgDcj8ApQvteHE",
+      "plays": 1
+    },
+    {
+      "name": "Cheryl",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "Mad Bebop",
+      "spotify_url": "https://open.spotify.com/track/7JWsnxzGX5kKOgSBkpNHcC",
+      "plays": 1
+    },
+    {
+      "name": "Cleopatra's Dream - Remastered 2003/Rudy Van Gelder Edition",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Very Best",
+      "spotify_url": "https://open.spotify.com/track/7pNfEYVT7Sfs9PDPIuzusc",
+      "plays": 1
+    },
+    {
+      "name": "Cold April (ft. Kara Jackson, Denitia \u0026 Explore! Pop Choir)",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "Cold April (ft. Kara Jackson, Denitia \u0026 Explore! Pop Choir)",
+      "spotify_url": "https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg",
+      "plays": 1
+    },
+    {
+      "name": "Collard Greens And Black-Eyed Peas - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
+      "spotify_url": "https://open.spotify.com/track/4Kj2xLNaqnbA99wWl9dnrR",
+      "plays": 1
+    },
+    {
+      "name": "Crossin' The Channel - Remastered 2003/Rudy Van Gelder Edition",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/2ttnkO0nEG4UrC8TTDgd9H",
+      "plays": 1
+    },
+    {
+      "name": "Danceland - Remastered 2003/Rudy Van Gelder Edition",
+      "artist": "Bud Powell",
+      "artist_slug": "bud-powell",
+      "album": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/1zXJt4kNA76NkBGeqZt52M",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "classical",
+      "name": "Classical",
+      "plays": 48
+    },
+    {
+      "slug": "classical-piano",
+      "name": "Classical Piano",
+      "plays": 47
+    },
+    {
+      "slug": "concerto",
+      "name": "Concerto",
+      "plays": 38
+    },
+    {
+      "slug": "early-music",
+      "name": "Early Music",
+      "plays": 38
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 34
+    },
+    {
+      "slug": "bebop",
+      "name": "Bebop",
+      "plays": 30
+    },
+    {
+      "slug": "cool-jazz",
+      "name": "Cool Jazz",
+      "plays": 30
+    },
+    {
+      "slug": "hard-bop",
+      "name": "Hard Bop",
+      "plays": 30
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 4
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 3
+    }
+  ]
+}

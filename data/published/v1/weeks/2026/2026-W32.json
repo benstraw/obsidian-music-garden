@@ -1,0 +1,271 @@
+{
+  "weekStart": "2026-08-03",
+  "weekEnd": "2026-08-09",
+  "total_plays": 112,
+  "unique_tracks": 99,
+  "unique_artists": 38,
+  "unique_albums": 64,
+  "total_minutes": 448,
+  "topArtistName": "Charles Wesley Godwin",
+  "top_artists": [
+    {
+      "slug": "charles-wesley-godwin",
+      "name": "Charles Wesley Godwin",
+      "plays": 39
+    },
+    {
+      "slug": "stephen-wilson-jr",
+      "name": "Stephen Wilson Jr.",
+      "plays": 15
+    },
+    {
+      "slug": "kelly-willis",
+      "name": "Kelly Willis",
+      "plays": 7
+    },
+    {
+      "slug": "ray-wylie-hubbard",
+      "name": "Ray Wylie Hubbard",
+      "plays": 4
+    },
+    {
+      "slug": "son-volt",
+      "name": "Son Volt",
+      "plays": 4
+    },
+    {
+      "slug": "bruce-robison",
+      "name": "Bruce Robison",
+      "plays": 3
+    },
+    {
+      "slug": "sturgill-simpson",
+      "name": "Sturgill Simpson",
+      "plays": 3
+    },
+    {
+      "slug": "drive-by-truckers",
+      "name": "Drive-By Truckers",
+      "plays": 2
+    },
+    {
+      "slug": "lucinda-williams",
+      "name": "Lucinda Williams",
+      "plays": 2
+    },
+    {
+      "slug": "robbie-fulks",
+      "name": "Robbie Fulks",
+      "plays": 2
+    },
+    {
+      "slug": "ryan-bingham",
+      "name": "Ryan Bingham",
+      "plays": 2
+    },
+    {
+      "slug": "shaboozey",
+      "name": "Shaboozey",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Father's Søn",
+      "artist": "Stephen Wilson Jr.",
+      "artist_slug": "stephen-wilson-jr",
+      "album": "søn of dad (deluxe)",
+      "spotify_url": "https://open.spotify.com/track/6BqroNusompVGz4QVjj2SZ",
+      "plays": 3
+    },
+    {
+      "name": "Crooked Teeth (Live From The Church)",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "Live From The Church",
+      "spotify_url": "https://open.spotify.com/track/3DUEB4pclLa3ah36xQKbsK",
+      "plays": 2
+    },
+    {
+      "name": "Cuckoo",
+      "artist": "Stephen Wilson Jr.",
+      "artist_slug": "stephen-wilson-jr",
+      "album": "søn of dad (deluxe)",
+      "spotify_url": "https://open.spotify.com/track/28YtdreXdwCSYDWUadCfOu",
+      "plays": 2
+    },
+    {
+      "name": "Gary",
+      "artist": "Stephen Wilson Jr.",
+      "artist_slug": "stephen-wilson-jr",
+      "album": "Gary",
+      "spotify_url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ",
+      "plays": 2
+    },
+    {
+      "name": "I Just Lived a Country Song",
+      "artist": "Robbie Fulks",
+      "artist_slug": "robbie-fulks",
+      "album": "Wild! Wild! Wild!",
+      "spotify_url": "https://open.spotify.com/track/3HqAzytVlPRKcm9MP8UAx1",
+      "plays": 2
+    },
+    {
+      "name": "I'm A Song - Live at The Print Shop",
+      "artist": "Stephen Wilson Jr.",
+      "artist_slug": "stephen-wilson-jr",
+      "album": "søn of dad (deluxe)",
+      "spotify_url": "https://open.spotify.com/track/6YrkatdanWuKHmF4mBxX2i",
+      "plays": 2
+    },
+    {
+      "name": "Lyin' Low",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "How the Mighty Fall",
+      "spotify_url": "https://open.spotify.com/track/6XctIFwSWTIfgCz6YCfVFk",
+      "plays": 2
+    },
+    {
+      "name": "Reason to Believe",
+      "artist": "Kelly Willis",
+      "artist_slug": "kelly-willis",
+      "album": "Easy",
+      "spotify_url": "https://open.spotify.com/track/4OI1AI7H2Rd5IPxJBNjaUq",
+      "plays": 2
+    },
+    {
+      "name": "Took A Walk - from \"The Long Walk\"",
+      "artist": "Shaboozey",
+      "artist_slug": "shaboozey",
+      "album": "Took A Walk (from \"The Long Walk\")",
+      "spotify_url": "https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4",
+      "plays": 2
+    },
+    {
+      "name": "Windfall - 2015 Remaster",
+      "artist": "Son Volt",
+      "artist_slug": "son-volt",
+      "album": "Trace (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t",
+      "plays": 2
+    },
+    {
+      "name": "Year to Be Young 1994",
+      "artist": "Stephen Wilson Jr.",
+      "artist_slug": "stephen-wilson-jr",
+      "album": "søn of dad (deluxe)",
+      "spotify_url": "https://open.spotify.com/track/4zHap579Bjo01DMtsat8GH",
+      "plays": 2
+    },
+    {
+      "name": "patches",
+      "artist": "Stephen Wilson Jr.",
+      "artist_slug": "stephen-wilson-jr",
+      "album": "søn of dad (deluxe)",
+      "spotify_url": "https://open.spotify.com/track/6SARKgR2JIcVu7XcM1JIOT",
+      "plays": 2
+    },
+    {
+      "name": "(Windmill) Keep on Turning",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "Seneca",
+      "spotify_url": "https://open.spotify.com/track/1gvKBXsJ0ViaiB348mdrTI",
+      "plays": 1
+    },
+    {
+      "name": "10-38 - Full Band Version",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "State Trooper / 10-38 (Full Band Version)",
+      "spotify_url": "https://open.spotify.com/track/4NlLCC9FS7dyDD97UmTyWU",
+      "plays": 1
+    },
+    {
+      "name": "7563",
+      "artist": "Florence Road",
+      "artist_slug": "florence-road",
+      "album": "7563",
+      "spotify_url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y",
+      "plays": 1
+    },
+    {
+      "name": "All Again",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "Family Ties",
+      "spotify_url": "https://open.spotify.com/track/5etrSAugIe3FXuG6em9Atj",
+      "plays": 1
+    },
+    {
+      "name": "Another Leaf",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "Family Ties",
+      "spotify_url": "https://open.spotify.com/track/177b31e8ivwDt3YVZGhk97",
+      "plays": 1
+    },
+    {
+      "name": "Beaumont",
+      "artist": "Hayes Carll",
+      "artist_slug": "hayes-carll",
+      "album": "Trouble In Mind",
+      "spotify_url": "https://open.spotify.com/track/64c0o7We5e7rete26iTZS1",
+      "plays": 1
+    },
+    {
+      "name": "Better That Way (feat. Luke Combs)",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "Christian Name",
+      "spotify_url": "https://open.spotify.com/track/2urMZfOy02YwxPKYl3V4YW",
+      "plays": 1
+    },
+    {
+      "name": "Blue Side Of The Mountain",
+      "artist": "The Steeldrivers",
+      "artist_slug": "the-steeldrivers",
+      "album": "The SteelDrivers",
+      "spotify_url": "https://open.spotify.com/track/5RQsNib1m9Hxo2AIjJcdpK",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "country",
+      "name": "Country",
+      "plays": 4
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 2
+    },
+    {
+      "slug": "red-dirt",
+      "name": "Red Dirt",
+      "plays": 2
+    },
+    {
+      "slug": "classical",
+      "name": "Classical",
+      "plays": 1
+    },
+    {
+      "slug": "classical-piano",
+      "name": "Classical Piano",
+      "plays": 1
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 1
+    },
+    {
+      "slug": "plunderphonics",
+      "name": "Plunderphonics",
+      "plays": 1
+    }
+  ]
+}

@@ -1,99 +1,171 @@
 [
   {
     "played_at": "2026-07-25T22:16:29.167Z",
+    "source": "spotify",
     "track_id": "3kipE3F3ghfvZHPxDvbNQF",
+    "track_slug": "billy-strings--turmoil-and-tinfoil",
     "track_name": "Turmoil \u0026 Tinfoil",
+    "artist_slug": "billy-strings",
     "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
     "artist_name": "Billy Strings",
     "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_musicbrainz_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+    "release_slug": "billy-strings--turmoil-and-tinfoil-2",
+    "album_id": "3CKP5G9f93RBbUi73HnyVC",
     "album_name": "Turmoil \u0026 Tinfoil",
     "duration_ms": 382998,
     "track_spotify_url": "https://open.spotify.com/track/3kipE3F3ghfvZHPxDvbNQF"
   },
   {
     "played_at": "2026-07-25T22:01:07.941Z",
+    "source": "spotify",
     "track_id": "6JWRyzC0GrtxO3D2TNoGsL",
+    "track_slug": "marcus-king--dirt-feat-billy-strings-nashville-version",
     "track_name": "Dirt (feat. Billy Strings) - Nashville version",
+    "artist_slug": "marcus-king",
     "artist_id": "0FeWKiZSwBRdGzqeCdlH1a",
     "artist_name": "Marcus King",
     "artist_spotify_url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a",
+    "additional_artists": [
+      {
+        "id": "0tgaHqkU1p7QhBUIzKXVU9",
+        "name": "The Marcus King Band",
+        "spotify_url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+      },
+      {
+        "id": "1ZN1c1qWEGZNX1pGeKCPpf",
+        "name": "Billy Strings",
+        "spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+      }
+    ],
+    "release_slug": "marcus-king--darling-blue-2",
+    "album_id": "14gWu1NRr0J0M1evRdF83C",
     "album_name": "Darling Blue",
     "duration_ms": 211077,
     "track_spotify_url": "https://open.spotify.com/track/6JWRyzC0GrtxO3D2TNoGsL"
   },
   {
     "played_at": "2026-07-25T21:57:36.524Z",
+    "source": "spotify",
     "track_id": "6ULjjAbwB2BoTZthQKv1Q2",
+    "track_slug": "kacey-musgraves--everybody-wants-to-be-a-cowboy-feat-billy-strings",
     "track_name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
+    "artist_slug": "kacey-musgraves",
     "artist_id": "70kkdajctXSbqSMJbQO424",
     "artist_name": "Kacey Musgraves",
     "artist_spotify_url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424",
+    "additional_artists": [
+      {
+        "id": "1ZN1c1qWEGZNX1pGeKCPpf",
+        "name": "Billy Strings",
+        "spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+      }
+    ],
+    "release_slug": "kacey-musgraves--middle-of-nowhere-2",
+    "album_id": "1quFS6EneVBW7PTbipPlNg",
     "album_name": "Middle of Nowhere",
     "duration_ms": 219357,
     "track_spotify_url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
   },
   {
     "played_at": "2026-07-25T03:19:37.342Z",
+    "source": "spotify",
     "track_id": "0dMd4rilfd6gPbXaLpNYhu",
+    "track_slug": "stevie-wonder--higher-ground",
     "track_name": "Higher Ground",
+    "artist_slug": "stevie-wonder",
     "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
     "artist_name": "Stevie Wonder",
     "artist_spotify_url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
+    "release_slug": "stevie-wonder--innervisions-2",
+    "album_id": "5jgI8Eminx9MmLBontDWq8",
     "album_name": "Innervisions",
     "duration_ms": 222600,
     "track_spotify_url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
   },
   {
     "played_at": "2026-07-25T01:09:38.225Z",
+    "source": "spotify",
     "track_id": "1v1PV2wERHiMPesMWX0qmO",
+    "track_slug": "parliament--flash-light",
     "track_name": "Flash Light",
+    "artist_slug": "parliament",
     "artist_id": "5SMVzTJyKFJ7TUb46DglcH",
     "artist_name": "Parliament",
     "artist_spotify_url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH",
+    "release_slug": "parliament--funkentelechy-vs-the-placebo-syndrome-2",
+    "album_id": "7Kv0H0XMdIyRs41a6USzrd",
     "album_name": "Funkentelechy Vs. The Placebo Syndrome",
     "duration_ms": 346666,
     "track_spotify_url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
   },
   {
     "played_at": "2026-07-25T01:03:51.184Z",
+    "source": "spotify",
     "track_id": "4XRkQloZFcRrCONN7ZQ49Y",
+    "track_slug": "parliament--give-up-the-funk-tear-the-roof-off-the-sucker",
     "track_name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+    "artist_slug": "parliament",
     "artist_id": "5SMVzTJyKFJ7TUb46DglcH",
     "artist_name": "Parliament",
     "artist_spotify_url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH",
+    "release_slug": "parliament--mothership-connection-2",
+    "album_id": "4q1HNSka8CzuLvC8ydcsD2",
     "album_name": "Mothership Connection",
     "duration_ms": 348066,
     "track_spotify_url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
   },
   {
     "played_at": "2026-07-24T05:10:38.516Z",
+    "source": "spotify",
     "track_id": "4XRkQloZFcRrCONN7ZQ49Y",
+    "track_slug": "parliament--give-up-the-funk-tear-the-roof-off-the-sucker",
     "track_name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+    "artist_slug": "parliament",
     "artist_id": "5SMVzTJyKFJ7TUb46DglcH",
     "artist_name": "Parliament",
     "artist_spotify_url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH",
+    "release_slug": "parliament--mothership-connection-2",
+    "album_id": "4q1HNSka8CzuLvC8ydcsD2",
     "album_name": "Mothership Connection",
     "duration_ms": 348066,
     "track_spotify_url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
   },
   {
     "played_at": "2026-07-24T04:37:51.720Z",
+    "source": "spotify",
     "track_id": "6ztstiyZL6FXzh4aG46ZPD",
+    "track_slug": "earth-wind-and-fire--boogie-wonderland-with-the-emotions",
     "track_name": "Boogie Wonderland (with The Emotions)",
+    "artist_slug": "earth-wind-and-fire",
     "artist_id": "4QQgXkCYTt3BlENzhyNETg",
     "artist_name": "Earth, Wind \u0026 Fire",
     "artist_spotify_url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
+    "additional_artists": [
+      {
+        "id": "64CuUOOirKmdAYLQSfaOyr",
+        "name": "The Emotions",
+        "spotify_url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+      }
+    ],
+    "release_slug": "earth-wind-and-fire--i-am-2",
+    "album_id": "4RLVTxnuVN5ZWZqBFnaaQt",
     "album_name": "I Am",
     "duration_ms": 288408,
     "track_spotify_url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
   },
   {
     "played_at": "2026-07-24T04:29:51.721Z",
+    "source": "spotify",
     "track_id": "0RgcOUQg4qYAEt9RIdf3oB",
+    "track_slug": "earth-wind-and-fire--shining-star",
     "track_name": "Shining Star",
+    "artist_slug": "earth-wind-and-fire",
     "artist_id": "4QQgXkCYTt3BlENzhyNETg",
     "artist_name": "Earth, Wind \u0026 Fire",
     "artist_spotify_url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg",
+    "release_slug": "earth-wind-and-fire--that-s-the-way-of-the-world-2",
+    "album_id": "5tXZfxvr2VaWibD74nw8VL",
     "album_name": "That's The Way Of The World",
     "duration_ms": 170212,
     "track_spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"

@@ -53,5 +53,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/plays/ data/genres.json
+          git add data/plays/ data/catalog/
           git diff --cached --quiet && echo "No changes to commit" || (git commit -m "collect: update plays data" && git push)

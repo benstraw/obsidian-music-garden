@@ -1,0 +1,288 @@
+{
+  "weekStart": "2026-06-22",
+  "weekEnd": "2026-06-28",
+  "total_plays": 29,
+  "unique_tracks": 27,
+  "unique_artists": 12,
+  "unique_albums": 15,
+  "total_minutes": 116,
+  "topArtistName": "Bob Marley \u0026 The Wailers",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
+      "height": 858,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/4cd57e5e12ea2c24644c40886d65a9b22eca9802",
+      "height": 549,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/02fd758d9805ef44d1caafc35ff17a47f9dff098",
+      "height": 172,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/357fe6ef3655b1b33855e33546e3c174a38a1a36",
+      "height": 55,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "plays": 13
+    },
+    {
+      "slug": "billy-strings",
+      "name": "Billy Strings",
+      "plays": 3
+    },
+    {
+      "slug": "jack-van-cleaf",
+      "name": "Jack Van Cleaf",
+      "plays": 3
+    },
+    {
+      "slug": "strawberry-farm",
+      "name": "Strawberry Farm",
+      "plays": 2
+    },
+    {
+      "slug": "charles-wesley-godwin",
+      "name": "Charles Wesley Godwin",
+      "plays": 1
+    },
+    {
+      "slug": "damian-marley",
+      "name": "Damian Marley",
+      "plays": 1
+    },
+    {
+      "slug": "jesse-welles",
+      "name": "Jesse Welles",
+      "plays": 1
+    },
+    {
+      "slug": "johnny-blue-skies",
+      "name": "Johnny Blue Skies",
+      "plays": 1
+    },
+    {
+      "slug": "peter-tosh",
+      "name": "Peter Tosh",
+      "plays": 1
+    },
+    {
+      "slug": "sierra-ferrell",
+      "name": "Sierra Ferrell",
+      "plays": 1
+    },
+    {
+      "slug": "sister-nancy",
+      "name": "Sister Nancy",
+      "plays": 1
+    },
+    {
+      "slug": "sturgill-simpson",
+      "name": "Sturgill Simpson",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Green",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "JVC",
+      "spotify_url": "https://open.spotify.com/track/1y0irYFXbGGPmAUjK8bFNA",
+      "plays": 2
+    },
+    {
+      "name": "Kazoo",
+      "artist": "Strawberry Farm",
+      "artist_slug": "strawberry-farm",
+      "album": "Kazoo",
+      "spotify_url": "https://open.spotify.com/track/5dG0K5TOMnUZJXP7oA05o7",
+      "plays": 2
+    },
+    {
+      "name": "A Whiter Shade of Pale",
+      "artist": "Johnny Blue Skies",
+      "artist_slug": "johnny-blue-skies",
+      "album": "Mutiny After Midnight (Extended Edition)",
+      "spotify_url": "https://open.spotify.com/track/06L4a5JnNqZAfaOerHnfYt",
+      "plays": 1
+    },
+    {
+      "name": "Bad Card",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/2Zw5FtdFtvKWg4h44GOv3R",
+      "plays": 1
+    },
+    {
+      "name": "Coming In From The Cold",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu",
+      "plays": 1
+    },
+    {
+      "name": "Could You Be Loved",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC",
+      "plays": 1
+    },
+    {
+      "name": "Could You Be Loved - Errol Brown and Alex Sadkin Remix / Bonus Track",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/1Rb4eWCv2mPz7bVyrwbwvP",
+      "plays": 1
+    },
+    {
+      "name": "Exodus",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Exodus",
+      "spotify_url": "https://open.spotify.com/track/1lRkDJ9hMuiE1GZOlbgkam",
+      "plays": 1
+    },
+    {
+      "name": "Forever Loving Jah",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f",
+      "plays": 1
+    },
+    {
+      "name": "Gild the Lily",
+      "artist": "Billy Strings",
+      "artist_slug": "billy-strings",
+      "album": "Highway Prayers",
+      "spotify_url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ",
+      "plays": 1
+    },
+    {
+      "name": "Hey There Son (feat. Wyatt Flores)",
+      "artist": "Charles Wesley Godwin",
+      "artist_slug": "charles-wesley-godwin",
+      "album": "Hey There Son",
+      "spotify_url": "https://open.spotify.com/track/6bxxxlnPtYLDCFJiHEnJ9s",
+      "plays": 1
+    },
+    {
+      "name": "I Could Drive You Crazy",
+      "artist": "Sierra Ferrell",
+      "artist_slug": "sierra-ferrell",
+      "album": "Trail Of Flowers",
+      "spotify_url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo",
+      "plays": 1
+    },
+    {
+      "name": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+      "artist": "Billy Strings",
+      "artist_slug": "billy-strings",
+      "album": "If You're Gonna Be Dumb, You Gotta Be Tough (from jackass: best and last)",
+      "spotify_url": "https://open.spotify.com/track/4fDZIUFr4ntAQvqCHCvl3k",
+      "plays": 1
+    },
+    {
+      "name": "My Sweet Lord",
+      "artist": "Damian Marley",
+      "artist_slug": "damian-marley",
+      "album": "My Sweet Lord",
+      "spotify_url": "https://open.spotify.com/track/0gVCFdvavY7YRsIpssaxaz",
+      "plays": 1
+    },
+    {
+      "name": "One Two",
+      "artist": "Sister Nancy",
+      "artist_slug": "sister-nancy",
+      "album": "One Two",
+      "spotify_url": "https://open.spotify.com/track/4CzVVIrkZE2IulKqwQiqh1",
+      "plays": 1
+    },
+    {
+      "name": "Paradise",
+      "artist": "Sturgill Simpson",
+      "artist_slug": "sturgill-simpson",
+      "album": "Broken Hearts \u0026 Dirty Windows: Songs of John Prine, Vol. 2",
+      "spotify_url": "https://open.spotify.com/track/1ZS3ON442UGUMg87rNdo8v",
+      "plays": 1
+    },
+    {
+      "name": "Pimper's Paradise",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/5JqCmd41S3PZ2AS6GuHqcR",
+      "plays": 1
+    },
+    {
+      "name": "Real Situation",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ",
+      "plays": 1
+    },
+    {
+      "name": "Red",
+      "artist": "Jesse Welles",
+      "artist_slug": "jesse-welles",
+      "album": "Masks Off",
+      "spotify_url": "https://open.spotify.com/track/4nf294FQhYPL14ffef391d",
+      "plays": 1
+    },
+    {
+      "name": "Redemption Song",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "reggae",
+      "name": "Reggae",
+      "plays": 14
+    },
+    {
+      "slug": "roots-reggae",
+      "name": "Roots Reggae",
+      "plays": 13
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 3
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 3
+    },
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 3
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 1
+    }
+  ]
+}

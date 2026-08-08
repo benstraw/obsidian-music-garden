@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-03-30",
+  "weekEnd": "2026-04-05",
+  "total_plays": 157,
+  "unique_tracks": 155,
+  "unique_artists": 55,
+  "unique_albums": 78,
+  "total_minutes": 570,
+  "topArtistName": "Eminem",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "eminem",
+      "name": "Eminem",
+      "plays": 31
+    },
+    {
+      "slug": "charley-crockett",
+      "name": "Charley Crockett",
+      "plays": 22
+    },
+    {
+      "slug": "stevie-wonder",
+      "name": "Stevie Wonder",
+      "plays": 11
+    },
+    {
+      "slug": "max-richter",
+      "name": "Max Richter",
+      "plays": 8
+    },
+    {
+      "slug": "the-notorious-b-i-g",
+      "name": "The Notorious B.I.G.",
+      "plays": 8
+    },
+    {
+      "slug": "kendrick-lamar",
+      "name": "Kendrick Lamar",
+      "plays": 7
+    },
+    {
+      "slug": "pete-and-bas",
+      "name": "Pete \u0026 Bas",
+      "plays": 6
+    },
+    {
+      "slug": "50-cent",
+      "name": "50 Cent",
+      "plays": 5
+    },
+    {
+      "slug": "dr-dre",
+      "name": "Dr. Dre",
+      "plays": 5
+    },
+    {
+      "slug": "jaÿ-z",
+      "name": "JAŸ-Z",
+      "plays": 3
+    },
+    {
+      "slug": "el-michels-affair",
+      "name": "El Michels Affair",
+      "plays": 2
+    },
+    {
+      "slug": "emma-jean-thackray",
+      "name": "Emma-Jean Thackray",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Crazy Women Ridge",
+      "artist": "Charley Crockett",
+      "artist_slug": "charley-crockett",
+      "album": "Age of the Ram",
+      "spotify_url": "https://open.spotify.com/track/45MgL96GvRGGQmWdq7tuCY",
+      "plays": 2
+    },
+    {
+      "name": "Habits",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/53kFmhBak6PbvO0phyL4Yo",
+      "plays": 2
+    },
+    {
+      "name": "(Rap) Superstar (feat. Eminem \u0026 Noreaga)",
+      "artist": "Cypress Hill",
+      "artist_slug": "cypress-hill",
+      "album": "Skull \u0026 Bones",
+      "spotify_url": "https://open.spotify.com/track/7ivM5ILtz3k5Z6sRjXu0v2",
+      "plays": 1
+    },
+    {
+      "name": "A Title Comes",
+      "artist": "Tortoise",
+      "artist_slug": "tortoise",
+      "album": "A Title Comes",
+      "spotify_url": "https://open.spotify.com/track/4oNX7BtKXIGqTucl7buKEd",
+      "plays": 1
+    },
+    {
+      "name": "All You Got - skit",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/7vFdI157seXQORiNa94Z59",
+      "plays": 1
+    },
+    {
+      "name": "Almost There",
+      "artist": "Beach for Tiger",
+      "artist_slug": "beach-for-tiger",
+      "album": "Almost There",
+      "spotify_url": "https://open.spotify.com/track/1HpRxna6vhK0VfVkCLP4tz",
+      "plays": 1
+    },
+    {
+      "name": "An abysm of time",
+      "artist": "Max Richter",
+      "artist_slug": "max-richter",
+      "album": "Hamnet (Original Motion Picture Soundtrack)",
+      "spotify_url": "https://open.spotify.com/track/782YL8tQgq9yHnM6ZomxTq",
+      "plays": 1
+    },
+    {
+      "name": "Antarctica",
+      "artist": "Marta Del Grandi",
+      "artist_slug": "marta-del-grandi",
+      "album": "Antarctica / Neon Lights",
+      "spotify_url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh",
+      "plays": 1
+    },
+    {
+      "name": "Antichrist",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/6XhwcdZxNEPLkaFvRceYy6",
+      "plays": 1
+    },
+    {
+      "name": "Anywhere With You",
+      "artist": "FLOOR CRY",
+      "artist_slug": "floor-cry",
+      "album": "Anywhere With You",
+      "spotify_url": "https://open.spotify.com/track/6HlND3N9eJ91D2WLhChC3m",
+      "plays": 1
+    },
+    {
+      "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+      "artist": "Denzel Curry",
+      "artist_slug": "denzel-curry",
+      "album": "King Of The Mischievous South Vol. 2",
+      "spotify_url": "https://open.spotify.com/track/1KucENjrvmAEkSVjAgkGH2",
+      "plays": 1
+    },
+    {
+      "name": "Bad One",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/3IDIpnV4qxCH9Sh9FvxHU8",
+      "plays": 1
+    },
+    {
+      "name": "Billy McLane",
+      "artist": "Charley Crockett",
+      "artist_slug": "charley-crockett",
+      "album": "Age of the Ram",
+      "spotify_url": "https://open.spotify.com/track/3IIo3nOqu8KlZdHoHiSbY3",
+      "plays": 1
+    },
+    {
+      "name": "Bish Bash Bosh",
+      "artist": "Pete \u0026 Bas",
+      "artist_slug": "pete-and-bas",
+      "album": "Mugshot",
+      "spotify_url": "https://open.spotify.com/track/3qKpQAdefLUPV8WBqRRPhK",
+      "plays": 1
+    },
+    {
+      "name": "Border Winds",
+      "artist": "Charley Crockett",
+      "artist_slug": "charley-crockett",
+      "album": "Age of the Ram",
+      "spotify_url": "https://open.spotify.com/track/3TJPixlx1KNs33YTJFMy6g",
+      "plays": 1
+    },
+    {
+      "name": "Brain Damage",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Slim Shady LP",
+      "spotify_url": "https://open.spotify.com/track/099MPsZhn5HkEUNlpA89rK",
+      "plays": 1
+    },
+    {
+      "name": "Brainless",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Marshall Mathers LP2 (Deluxe)",
+      "spotify_url": "https://open.spotify.com/track/5k7wy2Ek7y6kSQ4fER7w0E",
+      "plays": 1
+    },
+    {
+      "name": "Brand New Dance",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/4bdMOgYZehlFLkcNmvMkT5",
+      "plays": 1
+    },
+    {
+      "name": "Breaking News - skit",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/07nFv4VQx7U9Kgeu5gLBHO",
+      "plays": 1
+    },
+    {
+      "name": "Business",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Eminem Show",
+      "spotify_url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 61
+    },
+    {
+      "slug": "rap",
+      "name": "Rap",
+      "plays": 41
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 23
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 20
+    },
+    {
+      "slug": "gangster-rap",
+      "name": "Gangster Rap",
+      "plays": 16
+    },
+    {
+      "slug": "west-coast-hip-hop",
+      "name": "West Coast Hip Hop",
+      "plays": 14
+    },
+    {
+      "slug": "hardcore-hip-hop",
+      "name": "Hardcore Hip Hop",
+      "plays": 7
+    },
+    {
+      "slug": "g-funk",
+      "name": "G Funk",
+      "plays": 6
+    },
+    {
+      "slug": "alternative-hip-hop",
+      "name": "Alternative Hip Hop",
+      "plays": 3
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 2
+    }
+  ]
+}

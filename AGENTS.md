@@ -4,7 +4,7 @@
 - `main.go`: CLI entrypoint and command wiring (`auth`, `collect`, `weekly`, `catch-up`, `persona`, `setlist`).
 - `internal/`: core packages by responsibility (`auth/`, `client/`, `fetch/`, `plays/`, `render/`, `models/`). Keep business logic here, not in `main.go`.
 - `templates/`: markdown templates used for note generation.
-- `data/`: local runtime data (for example `data/plays.json`, git-ignored).
+- `data/`: local/runtime data and canonical metadata (`data/plays/`, `data/genres.json`).
 - `docs/`: command, architecture, and auth-flow reference docs.
 - Root scripts (`run_music_collect_spotify.sh`, `run_music_weekly_spotify.sh`) support launchd automation.
 
@@ -34,7 +34,7 @@
 - For output/template changes, include a short sample of generated markdown in the PR description.
 
 ## Security & Configuration Tips
-- Never commit `.env`, `tokens.json`, or `data/plays.json`.
+- Never commit `.env` or `tokens.json`.
 - Use `.env.example` as the source of required variables.
 - Ensure `SPOTIFY_REDIRECT_URI` and local callback port settings match your Spotify app config.
 
