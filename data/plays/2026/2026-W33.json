@@ -1,5 +1,71 @@
 [
   {
+    "played_at": "2026-08-13T18:38:54.616Z",
+    "track_id": "1aH17xIbWJQToV9dEa89z8",
+    "track_name": "Seneca Creek",
+    "artist_id": "2ErsJAz6qJ5cqjoVAvfvaC",
+    "artist_name": "Charles Wesley Godwin",
+    "artist_spotify_url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC",
+    "album_name": "Seneca",
+    "duration_ms": 326276,
+    "track_spotify_url": "https://open.spotify.com/track/1aH17xIbWJQToV9dEa89z8"
+  },
+  {
+    "played_at": "2026-08-13T18:24:16.270Z",
+    "track_id": "3MGkaaSUgm40GOZT4fuVFb",
+    "track_name": "It’s The Little Things",
+    "artist_id": "2ErsJAz6qJ5cqjoVAvfvaC",
+    "artist_name": "Charles Wesley Godwin",
+    "artist_spotify_url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC",
+    "album_name": "It's The Little Things",
+    "duration_ms": 230644,
+    "track_spotify_url": "https://open.spotify.com/track/3MGkaaSUgm40GOZT4fuVFb"
+  },
+  {
+    "played_at": "2026-08-13T18:18:10.839Z",
+    "track_id": "0x7lC40oyrC7FVTdgQhSPl",
+    "track_name": "Better That Way (feat. Luke Combs)",
+    "artist_id": "2ErsJAz6qJ5cqjoVAvfvaC",
+    "artist_name": "Charles Wesley Godwin",
+    "artist_spotify_url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC",
+    "album_name": "Better That Way",
+    "duration_ms": 225884,
+    "track_spotify_url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
+  },
+  {
+    "played_at": "2026-08-13T18:14:24.329Z",
+    "track_id": "7MyxpCWldoyrKvB61kahpS",
+    "track_name": "Jesse",
+    "artist_id": "2ErsJAz6qJ5cqjoVAvfvaC",
+    "artist_name": "Charles Wesley Godwin",
+    "artist_spotify_url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC",
+    "album_name": "How the Mighty Fall",
+    "duration_ms": 231672,
+    "track_spotify_url": "https://open.spotify.com/track/7MyxpCWldoyrKvB61kahpS"
+  },
+  {
+    "played_at": "2026-08-13T18:10:07.332Z",
+    "track_id": "4Rmo8AlFFRA0Om1KfnuBpL",
+    "track_name": "Willing and Able",
+    "artist_id": "2ErsJAz6qJ5cqjoVAvfvaC",
+    "artist_name": "Charles Wesley Godwin",
+    "artist_spotify_url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC",
+    "album_name": "Family Ties",
+    "duration_ms": 233653,
+    "track_spotify_url": "https://open.spotify.com/track/4Rmo8AlFFRA0Om1KfnuBpL"
+  },
+  {
+    "played_at": "2026-08-13T18:06:13.234Z",
+    "track_id": "2PkFUhJ7YsNKZJyL8Golyf",
+    "track_name": "Hey There Son (feat. Wyatt Flores)",
+    "artist_id": "2ErsJAz6qJ5cqjoVAvfvaC",
+    "artist_name": "Charles Wesley Godwin",
+    "artist_spotify_url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC",
+    "album_name": "Christian Name",
+    "duration_ms": 248977,
+    "track_spotify_url": "https://open.spotify.com/track/2PkFUhJ7YsNKZJyL8Golyf"
+  },
+  {
     "played_at": "2026-08-13T17:59:56.107Z",
     "track_id": "1FgqLtTcKP5G2G4FQheagn",
     "track_name": "Hallelujah High",
