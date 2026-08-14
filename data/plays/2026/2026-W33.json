@@ -1,5 +1,60 @@
 [
   {
+    "played_at": "2026-08-14T17:17:31.330Z",
+    "track_id": "3HGqnEEJTAWKqBy2x1oMYk",
+    "track_name": "Afterlife",
+    "artist_id": "6pwdJyPinRaOdoWLYXJrSF",
+    "artist_name": "Joelton Mayfield",
+    "artist_spotify_url": "https://open.spotify.com/artist/6pwdJyPinRaOdoWLYXJrSF",
+    "album_name": "Afterlife",
+    "duration_ms": 215375,
+    "track_spotify_url": "https://open.spotify.com/track/3HGqnEEJTAWKqBy2x1oMYk"
+  },
+  {
+    "played_at": "2026-08-14T17:13:55.553Z",
+    "track_id": "1shOo0mPoJqWBTjLEPgPGd",
+    "track_name": "The Shore",
+    "artist_id": "6pwdJyPinRaOdoWLYXJrSF",
+    "artist_name": "Joelton Mayfield",
+    "artist_spotify_url": "https://open.spotify.com/artist/6pwdJyPinRaOdoWLYXJrSF",
+    "album_name": "Crowd Pleaser",
+    "duration_ms": 314797,
+    "track_spotify_url": "https://open.spotify.com/track/1shOo0mPoJqWBTjLEPgPGd"
+  },
+  {
+    "played_at": "2026-08-14T17:08:40.467Z",
+    "track_id": "3Xp0cTe4Lzs4RkpcioayZ3",
+    "track_name": "Blame",
+    "artist_id": "6pwdJyPinRaOdoWLYXJrSF",
+    "artist_name": "Joelton Mayfield",
+    "artist_spotify_url": "https://open.spotify.com/artist/6pwdJyPinRaOdoWLYXJrSF",
+    "album_name": "Crowd Pleaser",
+    "duration_ms": 232674,
+    "track_spotify_url": "https://open.spotify.com/track/3Xp0cTe4Lzs4RkpcioayZ3"
+  },
+  {
+    "played_at": "2026-08-14T17:04:47.435Z",
+    "track_id": "2PgewyzrEfKg58tFFT4i23",
+    "track_name": "Speechwriter",
+    "artist_id": "6pwdJyPinRaOdoWLYXJrSF",
+    "artist_name": "Joelton Mayfield",
+    "artist_spotify_url": "https://open.spotify.com/artist/6pwdJyPinRaOdoWLYXJrSF",
+    "album_name": "Crowd Pleaser",
+    "duration_ms": 271291,
+    "track_spotify_url": "https://open.spotify.com/track/2PgewyzrEfKg58tFFT4i23"
+  },
+  {
+    "played_at": "2026-08-14T17:00:15.700Z",
+    "track_id": "3cJZGlLkVgRaITN7ONBFIt",
+    "track_name": "Turpentine (You Know the One)",
+    "artist_id": "6pwdJyPinRaOdoWLYXJrSF",
+    "artist_name": "Joelton Mayfield",
+    "artist_spotify_url": "https://open.spotify.com/artist/6pwdJyPinRaOdoWLYXJrSF",
+    "album_name": "Crowd Pleaser",
+    "duration_ms": 218092,
+    "track_spotify_url": "https://open.spotify.com/track/3cJZGlLkVgRaITN7ONBFIt"
+  },
+  {
     "played_at": "2026-08-14T03:49:28.163Z",
     "track_id": "1fRnysUhiECVtlgdFN8Io4",
     "track_name": "Tupelo Honey",
