@@ -1,5 +1,126 @@
 [
   {
+    "played_at": "2026-08-27T22:52:40.075Z",
+    "track_id": "3B72ff9yDPp0W1Shrh6YC4",
+    "track_name": "Cowboys (feat. Outsidaz)",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 323600,
+    "track_spotify_url": "https://open.spotify.com/track/3B72ff9yDPp0W1Shrh6YC4"
+  },
+  {
+    "played_at": "2026-08-27T22:47:16.475Z",
+    "track_id": "5elNhhFg7KjzQcdTNAgpey",
+    "track_name": "The Mask",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 290493,
+    "track_spotify_url": "https://open.spotify.com/track/5elNhhFg7KjzQcdTNAgpey"
+  },
+  {
+    "played_at": "2026-08-27T22:41:49.694Z",
+    "track_id": "37X1fXbkwsD2Qb6TFQzLR6",
+    "track_name": "The Score (feat. Diamond D)",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 247600,
+    "track_spotify_url": "https://open.spotify.com/track/37X1fXbkwsD2Qb6TFQzLR6"
+  },
+  {
+    "played_at": "2026-08-27T22:31:17.376Z",
+    "track_id": "0EKow7JeCxHtweqQyVy5ko",
+    "track_name": "Killing Me Softly with His Song",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 298733,
+    "track_spotify_url": "https://open.spotify.com/track/0EKow7JeCxHtweqQyVy5ko"
+  },
+  {
+    "played_at": "2026-08-27T22:26:18.678Z",
+    "track_id": "5nxbjW5f5qDDswq0bM7r8r",
+    "track_name": "Family Business (feat. John Forté)",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 343800,
+    "track_spotify_url": "https://open.spotify.com/track/5nxbjW5f5qDDswq0bM7r8r"
+  },
+  {
+    "played_at": "2026-08-27T22:14:22.051Z",
+    "track_id": "5RM1vov4MHJ2aNQV4RJlBH",
+    "track_name": "Fu-Gee-La",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 259972,
+    "track_spotify_url": "https://open.spotify.com/track/5RM1vov4MHJ2aNQV4RJlBH"
+  },
+  {
+    "played_at": "2026-08-27T22:10:02.097Z",
+    "track_id": "0JnsAU6ODCbreYcjqidUNt",
+    "track_name": "The Beast - includes Chinese restaurant skit",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 337200,
+    "track_spotify_url": "https://open.spotify.com/track/0JnsAU6ODCbreYcjqidUNt"
+  },
+  {
+    "played_at": "2026-08-27T22:04:24.857Z",
+    "track_id": "4846HUwVip7OkAJDmWqhDg",
+    "track_name": "Zealots",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 260560,
+    "track_spotify_url": "https://open.spotify.com/track/4846HUwVip7OkAJDmWqhDg"
+  },
+  {
+    "played_at": "2026-08-27T22:00:04.299Z",
+    "track_id": "74Yv0wbf4JLG1Rb5QVNcBJ",
+    "track_name": "Ready or Not",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 227040,
+    "track_spotify_url": "https://open.spotify.com/track/74Yv0wbf4JLG1Rb5QVNcBJ"
+  },
+  {
+    "played_at": "2026-08-27T21:56:17.249Z",
+    "track_id": "744EpSVAucany6CWpwTedz",
+    "track_name": "How Many Mics",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 268893,
+    "track_spotify_url": "https://open.spotify.com/track/744EpSVAucany6CWpwTedz"
+  },
+  {
+    "played_at": "2026-08-27T21:51:48.408Z",
+    "track_id": "3NFyBoF2cRpK01qoW6oLot",
+    "track_name": "Red Intro",
+    "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+    "artist_name": "Fugees",
+    "artist_spotify_url": "https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY",
+    "album_name": "The Score",
+    "duration_ms": 112000,
+    "track_spotify_url": "https://open.spotify.com/track/3NFyBoF2cRpK01qoW6oLot"
+  },
+  {
     "played_at": "2026-08-27T03:09:20.683Z",
     "track_id": "1pf6uFUyZrELnt6aeJxCrw",
     "track_name": "Feels Like Home - 2015 Remaster",
