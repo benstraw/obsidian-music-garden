@@ -6,6 +6,7 @@ import (
 	"io/fs"
 	"os"
 	"path/filepath"
+	"reflect"
 	"sort"
 	"strings"
 	"time"
@@ -22,6 +23,11 @@ func Load(path string) ([]models.Play, error) {
 	if err != nil {
 		return nil, err
 	}
+	return LoadBytes(data)
+}
+
+// LoadBytes decodes a play slice from JSON bytes.
+func LoadBytes(data []byte) ([]models.Play, error) {
 	var plays []models.Play
 	if err := json.Unmarshal(data, &plays); err != nil {
 		return nil, err
@@ -44,22 +50,74 @@ func Save(path string, plays []models.Play) error {
 // Merge returns the union of existing and incoming plays, deduplicated by played_at,
 // sorted descending.
 func Merge(existing, incoming []models.Play) []models.Play {
-	seen := make(map[string]bool, len(existing))
-	for _, p := range existing {
-		seen[p.PlayedAt] = true
-	}
+	seen := make(map[string]int, len(existing))
 	combined := make([]models.Play, len(existing))
 	copy(combined, existing)
+	for i, p := range existing {
+		seen[p.PlayedAt] = i
+	}
 	for _, p := range incoming {
-		if !seen[p.PlayedAt] {
+		if idx, ok := seen[p.PlayedAt]; ok {
+			combined[idx] = mergePlay(combined[idx], p)
+		} else {
 			combined = append(combined, p)
-			seen[p.PlayedAt] = true
+			seen[p.PlayedAt] = len(combined) - 1
 		}
 	}
 	sort.Slice(combined, func(i, j int) bool {
 		return combined[i].PlayedAt > combined[j].PlayedAt
 	})
 	return combined
+}
+
+func mergePlay(existing, incoming models.Play) models.Play {
+	merged := existing
+	merged.Source = firstNonEmpty(existing.Source, incoming.Source)
+	merged.TrackID = firstNonEmpty(existing.TrackID, incoming.TrackID)
+	merged.TrackSlug = firstNonEmpty(existing.TrackSlug, incoming.TrackSlug)
+	merged.TrackName = firstNonEmpty(existing.TrackName, incoming.TrackName)
+	merged.TrackMusicBrainzID = firstNonEmpty(existing.TrackMusicBrainzID, incoming.TrackMusicBrainzID)
+	merged.ArtistSlug = firstNonEmpty(existing.ArtistSlug, incoming.ArtistSlug)
+	merged.ArtistID = firstNonEmpty(existing.ArtistID, incoming.ArtistID)
+	merged.ArtistName = firstNonEmpty(existing.ArtistName, incoming.ArtistName)
+	merged.ArtistSpotifyURL = firstNonEmpty(existing.ArtistSpotifyURL, incoming.ArtistSpotifyURL)
+	merged.ArtistMusicBrainzID = firstNonEmpty(existing.ArtistMusicBrainzID, incoming.ArtistMusicBrainzID)
+	merged.AdditionalArtists = mergePlayArtists(existing.AdditionalArtists, incoming.AdditionalArtists)
+	merged.ReleaseSlug = firstNonEmpty(existing.ReleaseSlug, incoming.ReleaseSlug)
+	merged.AlbumID = firstNonEmpty(existing.AlbumID, incoming.AlbumID)
+	merged.AlbumName = firstNonEmpty(existing.AlbumName, incoming.AlbumName)
+	merged.ReleaseMusicBrainzID = firstNonEmpty(existing.ReleaseMusicBrainzID, incoming.ReleaseMusicBrainzID)
+	merged.ReleaseGroupMusicBrainzID = firstNonEmpty(existing.ReleaseGroupMusicBrainzID, incoming.ReleaseGroupMusicBrainzID)
+	if merged.DurationMS == 0 && incoming.DurationMS != 0 {
+		merged.DurationMS = incoming.DurationMS
+	}
+	merged.TrackSpotifyURL = firstNonEmpty(existing.TrackSpotifyURL, incoming.TrackSpotifyURL)
+	return merged
+}
+
+func mergePlayArtists(existing, incoming []models.PlayArtist) []models.PlayArtist {
+	if len(existing) == 0 && len(incoming) == 0 {
+		return nil
+	}
+	if len(existing) == 0 {
+		return append([]models.PlayArtist(nil), incoming...)
+	}
+	if len(incoming) == 0 {
+		return append([]models.PlayArtist(nil), existing...)
+	}
+	if len(incoming) > len(existing) {
+		return append([]models.PlayArtist(nil), incoming...)
+	}
+	return append([]models.PlayArtist(nil), existing...)
+}
+
+func firstNonEmpty(values ...string) string {
+	for _, value := range values {
+		if strings.TrimSpace(value) != "" {
+			return value
+		}
+	}
+	return ""
 }
 
 // parsePlayedAt parses a Spotify played_at timestamp (RFC3339 with optional sub-seconds).
@@ -178,10 +236,12 @@ func SaveSharded(baseDir string, incoming []models.Play) (int, error) {
 		}
 		merged := Merge(existing, g.plays)
 		n := len(merged) - len(existing)
-		if n <= 0 {
+		if n <= 0 && reflect.DeepEqual(existing, merged) {
 			continue // nothing new for this week
 		}
-		added += n
+		if n > 0 {
+			added += n
+		}
 		if err := os.MkdirAll(filepath.Dir(g.path), 0755); err != nil {
 			return added, fmt.Errorf("mkdir %s: %w", filepath.Dir(g.path), err)
 		}
@@ -219,4 +279,48 @@ func MigrateToSharded(legacyPath, baseDir string) error {
 		return fmt.Errorf("rename legacy file: %w", err)
 	}
 	return nil
+}
+
+// MigrateCanonicalSharded rewrites sharded play files in place when the provided
+// resolver adds missing canonical fields or source metadata.
+func MigrateCanonicalSharded(baseDir string, resolver func(models.Play) models.Play) (bool, error) {
+	if _, err := os.Stat(baseDir); os.IsNotExist(err) {
+		return false, nil
+	}
+
+	changedAny := false
+	err := filepath.WalkDir(baseDir, func(path string, d fs.DirEntry, walkErr error) error {
+		if walkErr != nil {
+			return walkErr
+		}
+		if d.IsDir() || !strings.HasSuffix(path, ".json") {
+			return nil
+		}
+
+		existing, err := Load(path)
+		if err != nil {
+			return fmt.Errorf("load %s: %w", path, err)
+		}
+		updated := make([]models.Play, len(existing))
+		changed := false
+		for i, play := range existing {
+			next := resolver(play)
+			if !reflect.DeepEqual(play, next) {
+				changed = true
+			}
+			updated[i] = next
+		}
+		if !changed {
+			return nil
+		}
+		if err := Save(path, updated); err != nil {
+			return fmt.Errorf("save %s: %w", path, err)
+		}
+		changedAny = true
+		return nil
+	})
+	if err != nil {
+		return false, err
+	}
+	return changedAny, nil
 }

@@ -1,0 +1,15 @@
+{
+  "contract": "music-garden.public",
+  "contract_version": "1.0.0",
+  "privacy": "derived-only",
+  "timezone": "America/Los_Angeles",
+  "dataset_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "counts": {
+    "artist_count": 0,
+    "indexed_artists": 0,
+    "indexed_genres": 0,
+    "listened_releases": 0,
+    "weekly_pages": 0
+  },
+  "files": []
+}

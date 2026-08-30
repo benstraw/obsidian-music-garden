@@ -1,0 +1,44 @@
+name: Publish Music Garden public-v1
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+concurrency:
+  group: music-garden-public-v1
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: false
+
+      - name: Verify producer
+        run: |
+          go vet ./...
+          go test ./...
+          go build -o music-garden .
+
+      - name: Export validated public contract
+        run: ./music-garden export --contract public-v1 --out data/published/v1 --source-revision "${GITHUB_SHA}"
+
+      - name: Commit validated publication
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/catalog data/published/v1 data/reviews
+          git diff --cached --quiet && exit 0
+          git commit -m "publish: update public-v1 music atlas"
+          git push

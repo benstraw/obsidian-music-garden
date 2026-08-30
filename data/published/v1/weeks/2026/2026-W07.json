@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-02-09",
+  "weekEnd": "2026-02-15",
+  "total_plays": 48,
+  "unique_tracks": 48,
+  "unique_artists": 15,
+  "unique_albums": 44,
+  "total_minutes": 191,
+  "topArtistName": "Crosby, Stills, Nash \u0026 Young",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4e5018dad07ee004f171d7d3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051744e5018dad07ee004f171d7d3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1784e5018dad07ee004f171d7d3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "crosby-stills-nash-and-young",
+      "name": "Crosby, Stills, Nash \u0026 Young",
+      "plays": 9
+    },
+    {
+      "slug": "john-prine",
+      "name": "John Prine",
+      "plays": 5
+    },
+    {
+      "slug": "leonard-cohen",
+      "name": "Leonard Cohen",
+      "plays": 5
+    },
+    {
+      "slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "plays": 4
+    },
+    {
+      "slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "plays": 4
+    },
+    {
+      "slug": "neil-young",
+      "name": "Neil Young",
+      "plays": 4
+    },
+    {
+      "slug": "simon-and-garfunkel",
+      "name": "Simon \u0026 Garfunkel",
+      "plays": 4
+    },
+    {
+      "slug": "the-beatles",
+      "name": "The Beatles",
+      "plays": 4
+    },
+    {
+      "slug": "mark-knopfler",
+      "name": "Mark Knopfler",
+      "plays": 3
+    },
+    {
+      "slug": "cal-smith",
+      "name": "Cal Smith",
+      "plays": 1
+    },
+    {
+      "slug": "country-s-family-reunion",
+      "name": "Country's Family Reunion",
+      "plays": 1
+    },
+    {
+      "slug": "emmylou-harris",
+      "name": "Emmylou Harris",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Avalanche",
+      "artist": "Leonard Cohen",
+      "artist_slug": "leonard-cohen",
+      "album": "Songs of Love and Hate",
+      "spotify_url": "https://open.spotify.com/track/3t4qyMVnN9o0ZJhsUaa465",
+      "plays": 1
+    },
+    {
+      "name": "Beyond My Wildest Dreams",
+      "artist": "Mark Knopfler",
+      "artist_slug": "mark-knopfler",
+      "album": "All The Roadrunning",
+      "spotify_url": "https://open.spotify.com/track/3SlOROUWa6OQe77oID5nix",
+      "plays": 1
+    },
+    {
+      "name": "Bleecker Street",
+      "artist": "Simon \u0026 Garfunkel",
+      "artist_slug": "simon-and-garfunkel",
+      "album": "Wednesday Morning, 3 A.M.",
+      "spotify_url": "https://open.spotify.com/track/4c0ecVwn17owdwpIBL07wC",
+      "plays": 1
+    },
+    {
+      "name": "Bookends Theme - Reprise",
+      "artist": "Simon \u0026 Garfunkel",
+      "artist_slug": "simon-and-garfunkel",
+      "album": "Bookends",
+      "spotify_url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl",
+      "plays": 1
+    },
+    {
+      "name": "Buffalo Soldier",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Confrontation",
+      "spotify_url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb",
+      "plays": 1
+    },
+    {
+      "name": "Casey Jones - 2013 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Workingman's Dead",
+      "spotify_url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8",
+      "plays": 1
+    },
+    {
+      "name": "Cassidy - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB",
+      "plays": 1
+    },
+    {
+      "name": "Chicago - Live",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "4 Way Street",
+      "spotify_url": "https://open.spotify.com/track/3tS932CzD7Wv6BBCqXy5JP",
+      "plays": 1
+    },
+    {
+      "name": "Clear Blue Skies",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "American Dream",
+      "spotify_url": "https://open.spotify.com/track/5aBo35KynwE90mboBMWKQI",
+      "plays": 1
+    },
+    {
+      "name": "Clocks and Spoons",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Diamonds in the Rough",
+      "spotify_url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM",
+      "plays": 1
+    },
+    {
+      "name": "Coming Back to You",
+      "artist": "Leonard Cohen",
+      "artist_slug": "leonard-cohen",
+      "album": "Various Positions",
+      "spotify_url": "https://open.spotify.com/track/14jpNd0RHKKnIbepofxTJO",
+      "plays": 1
+    },
+    {
+      "name": "Don't Let It Bring You Down - Live",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "4 Way Street",
+      "spotify_url": "https://open.spotify.com/track/3oOPIrRUrCtBxnpLbxCSHY",
+      "plays": 1
+    },
+    {
+      "name": "Easy Loving - Live",
+      "artist": "Country's Family Reunion",
+      "artist_slug": "country-s-family-reunion",
+      "album": "Celebration (Live / Vol. 1)",
+      "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI",
+      "plays": 1
+    },
+    {
+      "name": "Eleanor Rigby - Remastered 2009",
+      "artist": "The Beatles",
+      "artist_slug": "the-beatles",
+      "album": "Revolver (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q",
+      "plays": 1
+    },
+    {
+      "name": "Franklin's Tower - 2013 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Blues for Allah (2013 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ",
+      "plays": 1
+    },
+    {
+      "name": "Get Back - Remastered 2009",
+      "artist": "The Beatles",
+      "artist_slug": "the-beatles",
+      "album": "Let It Be (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26",
+      "plays": 1
+    },
+    {
+      "name": "Glory of True Love",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Fair and Square",
+      "spotify_url": "https://open.spotify.com/track/41tPuWC8nh2CVvQhNvFjC1",
+      "plays": 1
+    },
+    {
+      "name": "Heading West",
+      "artist": "Neil Young",
+      "artist_slug": "neil-young",
+      "album": "Barn",
+      "spotify_url": "https://open.spotify.com/track/6XtmeG61N9gqY5RFmhQqYH",
+      "plays": 1
+    },
+    {
+      "name": "Helplessly Hoping",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "So Far",
+      "spotify_url": "https://open.spotify.com/track/40WeJU3odsbq1fXNbub4nh",
+      "plays": 1
+    },
+    {
+      "name": "Helplessly Hoping (Live at Fillmore East, 1969) - 2024 Mix",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "Live At Fillmore East, 1969 (2024 Mix)",
+      "spotify_url": "https://open.spotify.com/track/2WqL0V3HP4FD395xK8DMAq",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 17
+    },
+    {
+      "slug": "folk-rock",
+      "name": "Folk Rock",
+      "plays": 17
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 15
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 11
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 8
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 7
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 7
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 5
+    },
+    {
+      "slug": "acid-rock",
+      "name": "Acid Rock",
+      "plays": 4
+    },
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 4
+    }
+  ]
+}

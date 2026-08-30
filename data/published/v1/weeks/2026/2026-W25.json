@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-06-15",
+  "weekEnd": "2026-06-21",
+  "total_plays": 48,
+  "unique_tracks": 48,
+  "unique_artists": 14,
+  "unique_albums": 24,
+  "total_minutes": 167,
+  "topArtistName": "John Prine",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf109851845669becdc5c63f6",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174f109851845669becdc5c63f6",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178f109851845669becdc5c63f6",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "john-prine",
+      "name": "John Prine",
+      "plays": 20
+    },
+    {
+      "slug": "eminem",
+      "name": "Eminem",
+      "plays": 13
+    },
+    {
+      "slug": "patty-griffin",
+      "name": "Patty Griffin",
+      "plays": 3
+    },
+    {
+      "slug": "iris-dement",
+      "name": "Iris DeMent",
+      "plays": 2
+    },
+    {
+      "slug": "billy-bragg",
+      "name": "Billy Bragg",
+      "plays": 1
+    },
+    {
+      "slug": "dan-reeder",
+      "name": "Dan Reeder",
+      "plays": 1
+    },
+    {
+      "slug": "dillard-and-clark",
+      "name": "Dillard \u0026 Clark",
+      "plays": 1
+    },
+    {
+      "slug": "john-hartford",
+      "name": "John Hartford",
+      "plays": 1
+    },
+    {
+      "slug": "loudon-wainwright-iii",
+      "name": "Loudon Wainwright III",
+      "plays": 1
+    },
+    {
+      "slug": "mary-gauthier",
+      "name": "Mary Gauthier",
+      "plays": 1
+    },
+    {
+      "slug": "sierra-ferrell",
+      "name": "Sierra Ferrell",
+      "plays": 1
+    },
+    {
+      "slug": "uncle-tupelo",
+      "name": "Uncle Tupelo",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "All You Got - skit",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/7y8n4wbMzsLMzTI6Qan02f",
+      "plays": 1
+    },
+    {
+      "name": "All the Best",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "The Missing Years",
+      "spotify_url": "https://open.spotify.com/track/0KN2tNTeW1oGasiDuEZjV7",
+      "plays": 1
+    },
+    {
+      "name": "Angel from Montgomery",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "John Prine",
+      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5",
+      "plays": 1
+    },
+    {
+      "name": "Antichrist",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/0DIcssPpatAMqFXLZCxZMN",
+      "plays": 1
+    },
+    {
+      "name": "Be Careful",
+      "artist": "Patty Griffin",
+      "artist_slug": "patty-griffin",
+      "album": "1000 Kisses",
+      "spotify_url": "https://open.spotify.com/track/5Zm2BnGdRDUFx0hzAOOOU5",
+      "plays": 1
+    },
+    {
+      "name": "Brand New Dance",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/77pfjsq0gSZwO8bYVTVROo",
+      "plays": 1
+    },
+    {
+      "name": "Breaking News - skit",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/0TDXeyH0hdiz0SZQo5w1nm",
+      "plays": 1
+    },
+    {
+      "name": "Bruised Orange (Chain of Sorrow)",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Bruised Orange",
+      "spotify_url": "https://open.spotify.com/track/6qrqlVEfMTQUBZCwqNTUI3",
+      "plays": 1
+    },
+    {
+      "name": "Carmelita",
+      "artist": "Warren Zevon",
+      "artist_slug": "warren-zevon",
+      "album": "Warren Zevon",
+      "spotify_url": "https://open.spotify.com/track/7hIdRDgUBPbqiQ7duhCyux",
+      "plays": 1
+    },
+    {
+      "name": "Clocks and Spoons",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Diamonds in the Rough",
+      "spotify_url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM",
+      "plays": 1
+    },
+    {
+      "name": "Don't Let Me Down",
+      "artist": "Dillard \u0026 Clark",
+      "artist_slug": "dillard-and-clark",
+      "album": "Through The Morning, Through The Night",
+      "spotify_url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb",
+      "plays": 1
+    },
+    {
+      "name": "Evil",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9",
+      "plays": 1
+    },
+    {
+      "name": "Fish and Whistle",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Bruised Orange",
+      "spotify_url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar",
+      "plays": 1
+    },
+    {
+      "name": "Fuel",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi",
+      "plays": 1
+    },
+    {
+      "name": "Guilty Conscience 2",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/3LkXOTWDwskwciQoARFDzu",
+      "plays": 1
+    },
+    {
+      "name": "Habits",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm",
+      "plays": 1
+    },
+    {
+      "name": "Hello in There",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "John Prine",
+      "spotify_url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa",
+      "plays": 1
+    },
+    {
+      "name": "Hey Me, Hey Mama",
+      "artist": "Sierra Ferrell",
+      "artist_slug": "sierra-ferrell",
+      "album": "Hey Me, Hey Mama",
+      "spotify_url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv",
+      "plays": 1
+    },
+    {
+      "name": "Houdini",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM",
+      "plays": 1
+    },
+    {
+      "name": "How Lucky",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Pink Cadillac",
+      "spotify_url": "https://open.spotify.com/track/3CxtTy4XoZunbtHsET1Mxq",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 23
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 22
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 22
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 20
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 13
+    },
+    {
+      "slug": "rap",
+      "name": "Rap",
+      "plays": 13
+    },
+    {
+      "slug": "country",
+      "name": "Country",
+      "plays": 4
+    },
+    {
+      "slug": "country-gospel",
+      "name": "Country Gospel",
+      "plays": 2
+    },
+    {
+      "slug": "alternative-rock",
+      "name": "Alternative Rock",
+      "plays": 1
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 1
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "weekStart": "2026-04-13",
+  "weekEnd": "2026-04-19",
+  "total_plays": 42,
+  "unique_tracks": 40,
+  "unique_artists": 7,
+  "unique_albums": 17,
+  "total_minutes": 173,
+  "topArtistName": "Joshua Ray Walker",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb458bd0821f53b36929cf2178",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174458bd0821f53b36929cf2178",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178458bd0821f53b36929cf2178",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "joshua-ray-walker",
+      "name": "Joshua Ray Walker",
+      "plays": 18
+    },
+    {
+      "slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "plays": 17
+    },
+    {
+      "slug": "mac-miller",
+      "name": "Mac Miller",
+      "plays": 3
+    },
+    {
+      "slug": "billy-strings",
+      "name": "Billy Strings",
+      "plays": 1
+    },
+    {
+      "slug": "drayton-farley",
+      "name": "Drayton Farley",
+      "plays": 1
+    },
+    {
+      "slug": "the-band",
+      "name": "The Band",
+      "plays": 1
+    },
+    {
+      "slug": "vandoliers",
+      "name": "Vandoliers",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Fossil Fuel",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "See You Next Time",
+      "spotify_url": "https://open.spotify.com/track/5eVI85PODc3vA7bMyp3Rsq",
+      "plays": 2
+    },
+    {
+      "name": "I Don't Wanna Be Alone",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "Tropicana",
+      "spotify_url": "https://open.spotify.com/track/0aFPOI1JxeiB2BQB30RoFT",
+      "plays": 2
+    },
+    {
+      "name": "Away From The Mire",
+      "artist": "Billy Strings",
+      "artist_slug": "billy-strings",
+      "album": "Home",
+      "spotify_url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T",
+      "plays": 1
+    },
+    {
+      "name": "Been All Around This World - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/02fHBG7NGuiok3BNdxd22R",
+      "plays": 1
+    },
+    {
+      "name": "Believe",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "What Is It Even?",
+      "spotify_url": "https://open.spotify.com/track/3cHpDhUXp3KzynjjgmElC3",
+      "plays": 1
+    },
+    {
+      "name": "Bird Song - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/00RhMZwmPZEZY3bbFV5VJK",
+      "plays": 1
+    },
+    {
+      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Europe '72 (Live; 2001 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4",
+      "plays": 1
+    },
+    {
+      "name": "Cassidy - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB",
+      "plays": 1
+    },
+    {
+      "name": "Chasing Sunsets",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "Chasing Sunsets",
+      "spotify_url": "https://open.spotify.com/track/2kDwpNcoewYqCv7YxiR62v",
+      "plays": 1
+    },
+    {
+      "name": "China Doll - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/0uTDZqdS4icbKN4gEIUf2d",
+      "plays": 1
+    },
+    {
+      "name": "Come Back to Earth",
+      "artist": "Mac Miller",
+      "artist_slug": "mac-miller",
+      "album": "Swimming",
+      "spotify_url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR",
+      "plays": 1
+    },
+    {
+      "name": "Cowboy",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "See You Next Time",
+      "spotify_url": "https://open.spotify.com/track/0ucbnnQI7LFoZE7uJN0D6u",
+      "plays": 1
+    },
+    {
+      "name": "Cuz I Love You",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "What Is It Even?",
+      "spotify_url": "https://open.spotify.com/track/6b4qppBpsHYW3bzva4FWWH",
+      "plays": 1
+    },
+    {
+      "name": "Dallas Lights",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "See You Next Time",
+      "spotify_url": "https://open.spotify.com/track/09nwRtvScY3tfwuZBsMVNr",
+      "plays": 1
+    },
+    {
+      "name": "Dark Hollow - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/5SWDIe8j5vhBZZkU11Cmjj",
+      "plays": 1
+    },
+    {
+      "name": "Deep Elem Blues - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw",
+      "plays": 1
+    },
+    {
+      "name": "Dire Wolf - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/7rLRoUv0PMTcHz0lOfpnti",
+      "plays": 1
+    },
+    {
+      "name": "Goodbye Horses",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "What Is It Even?",
+      "spotify_url": "https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4",
+      "plays": 1
+    },
+    {
+      "name": "I Wanna Dance With Somebody",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "What Is It Even?",
+      "spotify_url": "https://open.spotify.com/track/1vcR07ng4JwfeTgEuO5f2p",
+      "plays": 1
+    },
+    {
+      "name": "It Must Have Been the Roses - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/3lHYD0Eqkm2sTD792UCrUW",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 20
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 18
+    },
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 18
+    },
+    {
+      "slug": "outlaw-country",
+      "name": "Outlaw Country",
+      "plays": 18
+    },
+    {
+      "slug": "red-dirt",
+      "name": "Red Dirt",
+      "plays": 18
+    },
+    {
+      "slug": "acid-rock",
+      "name": "Acid Rock",
+      "plays": 17
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 17
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 1
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 1
+    },
+    {
+      "slug": "folk-rock",
+      "name": "Folk Rock",
+      "plays": 1
+    }
+  ]
+}

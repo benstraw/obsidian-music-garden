@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-03-16",
+  "weekEnd": "2026-03-22",
+  "total_plays": 99,
+  "unique_tracks": 79,
+  "unique_artists": 30,
+  "unique_albums": 51,
+  "total_minutes": 420,
+  "topArtistName": "Verdèzul",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebde992585da11c3567cabaa5a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174de992585da11c3567cabaa5a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178de992585da11c3567cabaa5a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "verdèzul",
+      "name": "Verdèzul",
+      "plays": 27
+    },
+    {
+      "slug": "gaiea-sanskrit",
+      "name": "Gaiea Sanskrit",
+      "plays": 16
+    },
+    {
+      "slug": "stephen-wilson-jr",
+      "name": "Stephen Wilson Jr.",
+      "plays": 8
+    },
+    {
+      "slug": "miles-davis",
+      "name": "Miles Davis",
+      "plays": 5
+    },
+    {
+      "slug": "the-dare",
+      "name": "The Dare",
+      "plays": 4
+    },
+    {
+      "slug": "tonez",
+      "name": "Tonez",
+      "plays": 4
+    },
+    {
+      "slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "plays": 3
+    },
+    {
+      "slug": "maurice-white",
+      "name": "Maurice White",
+      "plays": 3
+    },
+    {
+      "slug": "songs-of-disappearance",
+      "name": "Songs of Disappearance",
+      "plays": 3
+    },
+    {
+      "slug": "cypress-hill",
+      "name": "Cypress Hill",
+      "plays": 2
+    },
+    {
+      "slug": "john-prine",
+      "name": "John Prine",
+      "plays": 2
+    },
+    {
+      "slug": "lori-mckenna",
+      "name": "Lori McKenna",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "I Tell Ya",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "I Tell Ya",
+      "spotify_url": "https://open.spotify.com/track/1rkc2masc6W4UTCsPYP4M5",
+      "plays": 3
+    },
+    {
+      "name": "Om",
+      "artist": "Gaiea Sanskrit",
+      "artist_slug": "gaiea-sanskrit",
+      "album": "Gaiea",
+      "spotify_url": "https://open.spotify.com/track/2PGQStNeN4tbFixv7c6xCQ",
+      "plays": 3
+    },
+    {
+      "name": "Shhh / Peaceful",
+      "artist": "Miles Davis",
+      "artist_slug": "miles-davis",
+      "album": "In A Silent Way",
+      "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag",
+      "plays": 3
+    },
+    {
+      "name": "94.7",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Earthtones \u0026 Shades of Blue and Green",
+      "spotify_url": "https://open.spotify.com/track/7zsftx468s8NTZYprLhAHM",
+      "plays": 2
+    },
+    {
+      "name": "EPC",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "EPC",
+      "spotify_url": "https://open.spotify.com/track/0HeC9JexXM6OWZq0ThlKTh",
+      "plays": 2
+    },
+    {
+      "name": "FADE",
+      "artist": "Tonez",
+      "artist_slug": "tonez",
+      "album": "Fade",
+      "spotify_url": "https://open.spotify.com/track/2eFAwERVKXsecxPriMnBIF",
+      "plays": 2
+    },
+    {
+      "name": "Fade - Broshi Remix",
+      "artist": "Tonez",
+      "artist_slug": "tonez",
+      "album": "Thiccfreqness Remixed Vol. 1",
+      "spotify_url": "https://open.spotify.com/track/4qDNBFq7x89GHic0pGg1BA",
+      "plays": 2
+    },
+    {
+      "name": "Girls",
+      "artist": "The Dare",
+      "artist_slug": "the-dare",
+      "album": "What's Wrong With New York? (Deluxe)",
+      "spotify_url": "https://open.spotify.com/track/2qbkDNJy6yzAcwdM63yPVu",
+      "plays": 2
+    },
+    {
+      "name": "In a Silent Way",
+      "artist": "Miles Davis",
+      "artist_slug": "miles-davis",
+      "album": "In A Silent Way",
+      "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv",
+      "plays": 2
+    },
+    {
+      "name": "Love Somebody",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Love Somebody",
+      "spotify_url": "https://open.spotify.com/track/34EjUKyHmn59RZH2RxuWRa",
+      "plays": 2
+    },
+    {
+      "name": "So Many Times",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Earthtones \u0026 Shades of Blue and Green",
+      "spotify_url": "https://open.spotify.com/track/7E1Z13mPfiA9XS9SfWiBhZ",
+      "plays": 2
+    },
+    {
+      "name": "Stressin'",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Earthtones \u0026 Shades of Blue and Green",
+      "spotify_url": "https://open.spotify.com/track/4keIC3Fdx6WiUme9g9IRQC",
+      "plays": 2
+    },
+    {
+      "name": "Taxes Finnah Hit",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Taxes Finnah Hit",
+      "spotify_url": "https://open.spotify.com/track/0fn5JcaPCR1jeXdUWV5va2",
+      "plays": 2
+    },
+    {
+      "name": "The Tunnel",
+      "artist": "Lori McKenna",
+      "artist_slug": "lori-mckenna",
+      "album": "The Tunnel",
+      "spotify_url": "https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J",
+      "plays": 2
+    },
+    {
+      "name": "Version Of Yoself",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Earthtones \u0026 Shades of Blue and Green",
+      "spotify_url": "https://open.spotify.com/track/4QfX0TEdudUlanDuvqta8V",
+      "plays": 2
+    },
+    {
+      "name": "What's Da Prollem?",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "What's Da Prollem?",
+      "spotify_url": "https://open.spotify.com/track/132ZRfRmsEaJPv3X4gboXh",
+      "plays": 2
+    },
+    {
+      "name": "Where You Are",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Earthtones \u0026 Shades of Blue and Green",
+      "spotify_url": "https://open.spotify.com/track/7FR3ra4IXXFOm4KXhSFKeI",
+      "plays": 2
+    },
+    {
+      "name": "Aum",
+      "artist": "Gaiea Sanskrit",
+      "artist_slug": "gaiea-sanskrit",
+      "album": "Sanskrit Soul Music",
+      "spotify_url": "https://open.spotify.com/track/3FhVcAgFOMKemlYEeErQiS",
+      "plays": 1
+    },
+    {
+      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+      "artist": "HARDY",
+      "artist_slug": "hardy",
+      "album": "COUNTRY! COUNTRY!",
+      "spotify_url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx",
+      "plays": 1
+    },
+    {
+      "name": "Bhagavan",
+      "artist": "Gaiea Sanskrit",
+      "artist_slug": "gaiea-sanskrit",
+      "album": "Krishna: A Celebration In Sanskrit",
+      "spotify_url": "https://open.spotify.com/track/2AaQf9LsQs5FOBZrFlxjKM",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 9
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 7
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 7
+    },
+    {
+      "slug": "bebop",
+      "name": "Bebop",
+      "plays": 5
+    },
+    {
+      "slug": "cool-jazz",
+      "name": "Cool Jazz",
+      "plays": 5
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 5
+    },
+    {
+      "slug": "free-jazz",
+      "name": "Free Jazz",
+      "plays": 5
+    },
+    {
+      "slug": "hard-bop",
+      "name": "Hard Bop",
+      "plays": 5
+    },
+    {
+      "slug": "jazz-fusion",
+      "name": "Jazz Fusion",
+      "plays": 5
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 4
+    }
+  ]
+}
