@@ -1,5 +1,71 @@
 [
   {
+    "played_at": "2026-09-08T08:02:43.436Z",
+    "track_id": "1KtDYUcgs25O2SoBTaWsLE",
+    "track_name": "Turtles All the Way Down",
+    "artist_id": "3vDpQbGnzRbRVirXlfQagB",
+    "artist_name": "Sturgill Simpson",
+    "artist_spotify_url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB",
+    "album_name": "Metamodern Sounds in Country Music",
+    "duration_ms": 188186,
+    "track_spotify_url": "https://open.spotify.com/track/1KtDYUcgs25O2SoBTaWsLE"
+  },
+  {
+    "played_at": "2026-09-08T06:15:06.433Z",
+    "track_id": "1KtDYUcgs25O2SoBTaWsLE",
+    "track_name": "Turtles All the Way Down",
+    "artist_id": "3vDpQbGnzRbRVirXlfQagB",
+    "artist_name": "Sturgill Simpson",
+    "artist_spotify_url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB",
+    "album_name": "Metamodern Sounds in Country Music",
+    "duration_ms": 188186,
+    "track_spotify_url": "https://open.spotify.com/track/1KtDYUcgs25O2SoBTaWsLE"
+  },
+  {
+    "played_at": "2026-09-08T06:03:48.988Z",
+    "track_id": "7JQavxjJS7gEB6oxhhGyJj",
+    "track_name": "Russell County Line",
+    "artist_id": "1JWMpIl0nhqFJNdO3IOQ20",
+    "artist_name": "49 Winchester",
+    "artist_spotify_url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20",
+    "album_name": "Fortune Favors the Bold",
+    "duration_ms": 249872,
+    "track_spotify_url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
+  },
+  {
+    "played_at": "2026-09-08T05:59:38.745Z",
+    "track_id": "2XF3uEiaS8SpI5NzNZEHVr",
+    "track_name": "Clark Gable",
+    "artist_id": "4DSDa4HvAWqvb3dMHUOAfd",
+    "artist_name": "Stephen Wilson Jr.",
+    "artist_spotify_url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd",
+    "album_name": "Blankets",
+    "duration_ms": 311136,
+    "track_spotify_url": "https://open.spotify.com/track/2XF3uEiaS8SpI5NzNZEHVr"
+  },
+  {
+    "played_at": "2026-09-08T05:54:27.254Z",
+    "track_id": "0I6T90s2LjwnPi9pEjZeXS",
+    "track_name": "Who I Am",
+    "artist_id": "5R55ruC73ANyzDSOzIZjNc",
+    "artist_name": "Johnny Blue Skies",
+    "artist_spotify_url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc",
+    "album_name": "Passage Du Desir",
+    "duration_ms": 186506,
+    "track_spotify_url": "https://open.spotify.com/track/0I6T90s2LjwnPi9pEjZeXS"
+  },
+  {
+    "played_at": "2026-09-08T05:50:45.462Z",
+    "track_id": "2IEnKFR8BnVlzpHCHBaNrg",
+    "track_name": "Evergreen Eyes (OurVinyl Live EP)",
+    "artist_id": "05o2ENqv0CV8aD6BWKEaBD",
+    "artist_name": "Drayton Farley",
+    "artist_spotify_url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD",
+    "album_name": "Drayton Farley | OurVinyl Live EP",
+    "duration_ms": 237952,
+    "track_spotify_url": "https://open.spotify.com/track/2IEnKFR8BnVlzpHCHBaNrg"
+  },
+  {
     "played_at": "2026-09-08T05:46:21.898Z",
     "track_id": "2gE58DQyqgsvsK87SWUN62",
     "track_name": "Where Rainbows Never Die",
