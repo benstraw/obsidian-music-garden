@@ -1,0 +1,143 @@
+{
+  "contract": "music-garden.public",
+  "contract_version": "1.0.0",
+  "privacy": "derived-only",
+  "timezone": "America/Los_Angeles",
+  "published_through": "2026-08-07",
+  "source_revision": "codex-revival-foundation",
+  "dataset_sha256": "81f2c80c516c546435cc51b17d1c85f1519b6635e259a723f80cb5ba9faf8aba",
+  "counts": {
+    "published_through": "2026-08-07",
+    "artist_count": 564,
+    "indexed_artists": 124,
+    "indexed_genres": 45,
+    "listened_releases": 0,
+    "weekly_pages": 26
+  },
+  "files": [
+    {
+      "path": "artists.json",
+      "sha256": "f67db841bebf133ef12ac953ea8fc99fe5b55360e4eeb6b1773e368fcac3f6f5"
+    },
+    {
+      "path": "genres.json",
+      "sha256": "c3215a66e88d15e17fc8641bf68ffe3513e05e8ceafb485e61b2e7f5016ed958"
+    },
+    {
+      "path": "overview.json",
+      "sha256": "5e5d1687ecf0db221bfebfa8175bba9a4b38f1a8c751348367e8b446a6b8baeb"
+    },
+    {
+      "path": "redirects.json",
+      "sha256": "e5c0c5e6d672fa2b740c509822aa2a4b7592059b5179663230856ccbac250e7f"
+    },
+    {
+      "path": "releases.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "weeks/2026/2026-W07.json",
+      "sha256": "931f73bf2f34f164c11031a7f64a218c20bed67c905d01d880360bc966a06c4d"
+    },
+    {
+      "path": "weeks/2026/2026-W08.json",
+      "sha256": "31fcd6522a57bb7fd29018e434253edfa6ab432a7742e2218dfb6d057333f5df"
+    },
+    {
+      "path": "weeks/2026/2026-W09.json",
+      "sha256": "dbdcb09d6b207ea244713becd8bdaefec05f02137f961b46b08270c7ae907b5e"
+    },
+    {
+      "path": "weeks/2026/2026-W10.json",
+      "sha256": "65ad8c987e3867eafffa0470084f49c936b0db49fa8b8ebf185861590d1dcaab"
+    },
+    {
+      "path": "weeks/2026/2026-W11.json",
+      "sha256": "2e3811284b0fa323752967d3b9ce8127e6a80974b53e04725cf86bb7547ca56e"
+    },
+    {
+      "path": "weeks/2026/2026-W12.json",
+      "sha256": "bbabffb040c078d9205f22bdeb9d99fdeb0df7c0c93e580d5b3817a11f030034"
+    },
+    {
+      "path": "weeks/2026/2026-W13.json",
+      "sha256": "dcbf68047fe5363ab5fc25063c5d5b4dadcc03533def8a7df8cec6e849125193"
+    },
+    {
+      "path": "weeks/2026/2026-W14.json",
+      "sha256": "55b5982b970b2cd45feb6fefcbbb7152017718c0c79c9e0ab82f54e39b31b0f7"
+    },
+    {
+      "path": "weeks/2026/2026-W15.json",
+      "sha256": "a48a23a9d57936f28b9253e0c9c37920ef3ac3a3c99f1831ea1671db0ef55dd2"
+    },
+    {
+      "path": "weeks/2026/2026-W16.json",
+      "sha256": "be594d7ba50d2ce09df141559e59faae9b249946626d74dc218474391ccd53b7"
+    },
+    {
+      "path": "weeks/2026/2026-W17.json",
+      "sha256": "196f52e8120f6dc51f3e246e07146b02c6e389ec5004607c67618cb2a9a212e2"
+    },
+    {
+      "path": "weeks/2026/2026-W18.json",
+      "sha256": "d34927316d61bf695a01e28df2191ba1557b0cd5fc46c55b9239fdbf12da739b"
+    },
+    {
+      "path": "weeks/2026/2026-W19.json",
+      "sha256": "10af40af3298fddb977428e66b333d7ef2c69ecb61591966ac73713631d43451"
+    },
+    {
+      "path": "weeks/2026/2026-W20.json",
+      "sha256": "bfa1c198e6240ed72ce0411d9d2da64ccc137b257f9955590d0e595f8067dabf"
+    },
+    {
+      "path": "weeks/2026/2026-W21.json",
+      "sha256": "6afda51c24b767c3a617ec3368260dbb2ca9d61a9178679a5f794c2d1894fbf6"
+    },
+    {
+      "path": "weeks/2026/2026-W22.json",
+      "sha256": "0d83f807828e393b6d52e267646e87e905dac88629476738767f0308730ce696"
+    },
+    {
+      "path": "weeks/2026/2026-W23.json",
+      "sha256": "410d43f2c1a8cd7254f485a9e686694d32d4f3adae9fe6bd4a68bcbac7de42d6"
+    },
+    {
+      "path": "weeks/2026/2026-W24.json",
+      "sha256": "9a06fe748e470c097d4fce8a72cddb3b7e19795c139abe5b8b395ee7a2963a1c"
+    },
+    {
+      "path": "weeks/2026/2026-W25.json",
+      "sha256": "1172162637137adc183a23173f028a73b3f7ac19dc528706e11f1acdad670331"
+    },
+    {
+      "path": "weeks/2026/2026-W26.json",
+      "sha256": "c0c9bc94282faea925292a2e720bedf715e0f261bedf5252da1e3ad20ae8538d"
+    },
+    {
+      "path": "weeks/2026/2026-W27.json",
+      "sha256": "eaa58bd2659036be33cbcff5f28af9187a7929051a2a44638784b8e797498de6"
+    },
+    {
+      "path": "weeks/2026/2026-W28.json",
+      "sha256": "88bda8bcedb6d2b243be48200a2fede26901da7448c4aab4e3656ddfba77d7b0"
+    },
+    {
+      "path": "weeks/2026/2026-W29.json",
+      "sha256": "d246693053192db58922a082238588554cc38a5b8895f6020748b2102a9450d0"
+    },
+    {
+      "path": "weeks/2026/2026-W30.json",
+      "sha256": "7bc8dc601848f69e2b7cfacbd4f9987cf07eedf3ebe4ced17c81702f9891aaba"
+    },
+    {
+      "path": "weeks/2026/2026-W31.json",
+      "sha256": "fba896f995c391f961675b6da4e0327a72da12fa010c13741c5e747403b57bc9"
+    },
+    {
+      "path": "weeks/2026/2026-W32.json",
+      "sha256": "18cba7d2a1b13d242ba937215a874a024695b958d3fb34b78a41408dcaefcfb8"
+    }
+  ]
+}

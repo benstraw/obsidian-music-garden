@@ -1,0 +1,286 @@
+{
+  "weekStart": "2026-04-27",
+  "weekEnd": "2026-05-03",
+  "total_plays": 140,
+  "unique_tracks": 136,
+  "unique_artists": 58,
+  "unique_albums": 91,
+  "total_minutes": 578,
+  "topArtistName": "Red Hot Chili Peppers",
+  "top_artists": [
+    {
+      "slug": "red-hot-chili-peppers",
+      "name": "Red Hot Chili Peppers",
+      "plays": 21
+    },
+    {
+      "slug": "kacey-musgraves",
+      "name": "Kacey Musgraves",
+      "plays": 16
+    },
+    {
+      "slug": "kneecap",
+      "name": "KNEECAP",
+      "plays": 15
+    },
+    {
+      "slug": "stanley-clarke",
+      "name": "Stanley Clarke",
+      "plays": 9
+    },
+    {
+      "slug": "the-black-keys",
+      "name": "The Black Keys",
+      "plays": 9
+    },
+    {
+      "slug": "trampled-by-turtles",
+      "name": "Trampled by Turtles",
+      "plays": 4
+    },
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 3
+    },
+    {
+      "slug": "jack-van-cleaf",
+      "name": "Jack Van Cleaf",
+      "plays": 3
+    },
+    {
+      "slug": "shakey-graves",
+      "name": "Shakey Graves",
+      "plays": 3
+    },
+    {
+      "slug": "billy-cobham",
+      "name": "Billy Cobham",
+      "plays": 2
+    },
+    {
+      "slug": "blind-melon",
+      "name": "Blind Melon",
+      "plays": 2
+    },
+    {
+      "slug": "eminem",
+      "name": "Eminem",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "If You Have to Ask",
+      "artist": "Red Hot Chili Peppers",
+      "artist_slug": "red-hot-chili-peppers",
+      "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/2R6go62CuxqqX0w1TgXxes",
+      "plays": 2
+    },
+    {
+      "name": "Siri, Cancel My Plans",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "Siri, Cancel My Plans",
+      "spotify_url": "https://open.spotify.com/track/3nHAw1ypqCG5wS51ipil5i",
+      "plays": 2
+    },
+    {
+      "name": "Tiger Blood",
+      "artist": "Houndmouth",
+      "artist_slug": "houndmouth",
+      "album": "Tiger Blood",
+      "spotify_url": "https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5",
+      "plays": 2
+    },
+    {
+      "name": "Where Is My Mind?",
+      "artist": "Trampled by Turtles",
+      "artist_slug": "trampled-by-turtles",
+      "album": "Where Is My Mind?",
+      "spotify_url": "https://open.spotify.com/track/2dJrn376fJPUCj1f4txnRQ",
+      "plays": 2
+    },
+    {
+      "name": "Abilene",
+      "artist": "Kacey Musgraves",
+      "artist_slug": "kacey-musgraves",
+      "album": "Middle of Nowhere",
+      "spotify_url": "https://open.spotify.com/track/1jqDLQJVbfYh525gPEZkvC",
+      "plays": 1
+    },
+    {
+      "name": "Ain't It Funky Now",
+      "artist": "Grant Green",
+      "artist_slug": "grant-green",
+      "album": "Green Is Beautiful",
+      "spotify_url": "https://open.spotify.com/track/5RrtSMRbKKT2JjhHo6adH5",
+      "plays": 1
+    },
+    {
+      "name": "Apache Rose Peacock",
+      "artist": "Red Hot Chili Peppers",
+      "artist_slug": "red-hot-chili-peppers",
+      "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/3p3BfV7NeWCAHx9tSwsJEQ",
+      "plays": 1
+    },
+    {
+      "name": "Around the World",
+      "artist": "Red Hot Chili Peppers",
+      "artist_slug": "red-hot-chili-peppers",
+      "album": "Californication (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/0aGQHMr7bc23Y9Ts84ffop",
+      "plays": 1
+    },
+    {
+      "name": "Avalanche",
+      "artist": "Leonard Cohen",
+      "artist_slug": "leonard-cohen",
+      "album": "Songs of Love and Hate",
+      "spotify_url": "https://open.spotify.com/track/3t4qyMVnN9o0ZJhsUaa465",
+      "plays": 1
+    },
+    {
+      "name": "Back On The Wagon",
+      "artist": "Kacey Musgraves",
+      "artist_slug": "kacey-musgraves",
+      "album": "Middle of Nowhere",
+      "spotify_url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ",
+      "plays": 1
+    },
+    {
+      "name": "Better Way To Live",
+      "artist": "KNEECAP",
+      "artist_slug": "kneecap",
+      "album": "Fine Art",
+      "spotify_url": "https://open.spotify.com/track/2nlivHG7sBn9C22SBhzuQp",
+      "plays": 1
+    },
+    {
+      "name": "Biscuits",
+      "artist": "Kacey Musgraves",
+      "artist_slug": "kacey-musgraves",
+      "album": "Pageant Material",
+      "spotify_url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu",
+      "plays": 1
+    },
+    {
+      "name": "Blood Sugar Sex Magik",
+      "artist": "Red Hot Chili Peppers",
+      "artist_slug": "red-hot-chili-peppers",
+      "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/4ddA4oHvhrGx196qF5ZyQe",
+      "plays": 1
+    },
+    {
+      "name": "Blues Run the Game - Studio Outtake - 1965",
+      "artist": "Simon \u0026 Garfunkel",
+      "artist_slug": "simon-and-garfunkel",
+      "album": "Old Friends",
+      "spotify_url": "https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr",
+      "plays": 1
+    },
+    {
+      "name": "Breaking the Girl",
+      "artist": "Red Hot Chili Peppers",
+      "artist_slug": "red-hot-chili-peppers",
+      "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/0cG9ocYqYOIVtgiWTmTe3g",
+      "plays": 1
+    },
+    {
+      "name": "Bright Size Life",
+      "artist": "Pat Metheny",
+      "artist_slug": "pat-metheny",
+      "album": "Bright Size Life",
+      "spotify_url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac",
+      "plays": 1
+    },
+    {
+      "name": "Brokedown Palace - 2013 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "American Beauty (2013 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/362CS15hE1upuTKoWApzLn",
+      "plays": 1
+    },
+    {
+      "name": "C.R.E.A.M.",
+      "artist": "El Michels Affair",
+      "artist_slug": "el-michels-affair",
+      "album": "Enter The 37th Chamber",
+      "spotify_url": "https://open.spotify.com/track/4aLcM3tBpkXo2cj4fVmjHG",
+      "plays": 1
+    },
+    {
+      "name": "Castles Made of Sand - 2006 Remaster",
+      "artist": "Red Hot Chili Peppers",
+      "artist_slug": "red-hot-chili-peppers",
+      "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/7mUNyl16vX2OrKqMAuZJF9",
+      "plays": 1
+    },
+    {
+      "name": "Cearta",
+      "artist": "KNEECAP",
+      "artist_slug": "kneecap",
+      "album": "3cag",
+      "spotify_url": "https://open.spotify.com/track/53XLfXbVPTY7lO36pOBvIu",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 14
+    },
+    {
+      "slug": "alternative-rock",
+      "name": "Alternative Rock",
+      "plays": 11
+    },
+    {
+      "slug": "blues-rock",
+      "name": "Blues Rock",
+      "plays": 11
+    },
+    {
+      "slug": "indie-rock",
+      "name": "Indie Rock",
+      "plays": 10
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 6
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 6
+    },
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 5
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 5
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 5
+    },
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 5
+    }
+  ]
+}

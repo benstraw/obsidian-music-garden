@@ -1,0 +1,278 @@
+{
+  "weekStart": "2026-07-13",
+  "weekEnd": "2026-07-19",
+  "total_plays": 68,
+  "unique_tracks": 64,
+  "unique_artists": 22,
+  "unique_albums": 30,
+  "total_minutes": 324,
+  "topArtistName": "Oscar Peterson Trio",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b273947b5cc535d76394a2d98e37",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e02947b5cc535d76394a2d98e37",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00004851947b5cc535d76394a2d98e37",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "oscar-peterson-trio",
+      "name": "Oscar Peterson Trio",
+      "plays": 10
+    },
+    {
+      "slug": "tommy-flanagan-trio",
+      "name": "Tommy Flanagan Trio",
+      "plays": 10
+    },
+    {
+      "slug": "funkadelic",
+      "name": "Funkadelic",
+      "plays": 9
+    },
+    {
+      "slug": "ray-bryant-trio",
+      "name": "Ray Bryant Trio",
+      "plays": 6
+    },
+    {
+      "slug": "bobby-timmons",
+      "name": "Bobby Timmons",
+      "plays": 5
+    },
+    {
+      "slug": "gerry-mulligan-sextet",
+      "name": "Gerry Mulligan Sextet",
+      "plays": 3
+    },
+    {
+      "slug": "hampton-hawes-trio",
+      "name": "Hampton Hawes Trio",
+      "plays": 3
+    },
+    {
+      "slug": "john-coltrane-quartet",
+      "name": "John Coltrane Quartet",
+      "plays": 3
+    },
+    {
+      "slug": "billy-taylor",
+      "name": "Billy Taylor",
+      "plays": 2
+    },
+    {
+      "slug": "kenny-dorham",
+      "name": "Kenny Dorham",
+      "plays": 2
+    },
+    {
+      "slug": "kenny-drew",
+      "name": "Kenny Drew",
+      "plays": 2
+    },
+    {
+      "slug": "sonny-clark-trio",
+      "name": "Sonny Clark Trio",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "In The Wee Small Hours Of The Morning",
+      "artist": "Gerry Mulligan Sextet",
+      "artist_slug": "gerry-mulligan-sextet",
+      "album": "Night Lights (Expanded Edition)",
+      "spotify_url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN",
+      "plays": 2
+    },
+    {
+      "name": "Maggot Brain",
+      "artist": "Funkadelic",
+      "artist_slug": "funkadelic",
+      "album": "Maggot Brain",
+      "spotify_url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V",
+      "plays": 2
+    },
+    {
+      "name": "Velvet Moon",
+      "artist": "Tommy Flanagan Trio",
+      "artist_slug": "tommy-flanagan-trio",
+      "album": "Tommy Flanagan Trio",
+      "spotify_url": "https://open.spotify.com/track/1eQnTVNUwVaU7dXglhgCFr",
+      "plays": 2
+    },
+    {
+      "name": "Willow Weep for Me",
+      "artist": "Tommy Flanagan",
+      "artist_slug": "tommy-flanagan",
+      "album": "Keys To The City",
+      "spotify_url": "https://open.spotify.com/track/1oRulP3iXNzlL103A2hnKC",
+      "plays": 2
+    },
+    {
+      "name": "'Round Midnight",
+      "artist": "Wes Montgomery Trio",
+      "artist_slug": "wes-montgomery-trio",
+      "album": "The Wes Montgomery Trio (Expanded Edition)",
+      "spotify_url": "https://open.spotify.com/track/5M3K9hIHwyHYWxR2GTpXEd",
+      "plays": 1
+    },
+    {
+      "name": "52nd Street Theme",
+      "artist": "Kenny Drew",
+      "artist_slug": "kenny-drew",
+      "album": "Kenny Drew And His Progressive Piano",
+      "spotify_url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR",
+      "plays": 1
+    },
+    {
+      "name": "Afternoon in Paris",
+      "artist": "Phineas Newborn Jr.",
+      "artist_slug": "phineas-newborn-jr",
+      "album": "Here Is Phineas",
+      "spotify_url": "https://open.spotify.com/track/1oYgSqvxcijRk3ksFE0HTa",
+      "plays": 1
+    },
+    {
+      "name": "All The Things You Are",
+      "artist": "Hampton Hawes Trio",
+      "artist_slug": "hampton-hawes-trio",
+      "album": "Hampton Hawes Trio, Vol. 1",
+      "spotify_url": "https://open.spotify.com/track/49urR10kp9wLLtaEqWVZFQ",
+      "plays": 1
+    },
+    {
+      "name": "Angel Eyes",
+      "artist": "Ray Bryant Trio",
+      "artist_slug": "ray-bryant-trio",
+      "album": "Ray Bryant Trio",
+      "spotify_url": "https://open.spotify.com/track/2cWsIj1ODMC3fQcMedhFOo",
+      "plays": 1
+    },
+    {
+      "name": "Autumn In New York - Set 1 / Live At Cafe Bohemia, May 31, 1956",
+      "artist": "Kenny Dorham",
+      "artist_slug": "kenny-dorham",
+      "album": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
+      "spotify_url": "https://open.spotify.com/track/4FgsX8sfaIUErvFzlaD3tN",
+      "plays": 1
+    },
+    {
+      "name": "Back In Our Minds",
+      "artist": "Funkadelic",
+      "artist_slug": "funkadelic",
+      "album": "Maggot Brain",
+      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe",
+      "plays": 1
+    },
+    {
+      "name": "Blues Changes",
+      "artist": "Ray Bryant Trio",
+      "artist_slug": "ray-bryant-trio",
+      "album": "Ray Bryant Trio",
+      "spotify_url": "https://open.spotify.com/track/1IqFUR34LQK2Lp9hYMHiqf",
+      "plays": 1
+    },
+    {
+      "name": "Blues The Most",
+      "artist": "Hampton Hawes Trio",
+      "artist_slug": "hampton-hawes-trio",
+      "album": "Hampton Hawes Trio, Vol. 1",
+      "spotify_url": "https://open.spotify.com/track/0MkqBRxZVVDAowpfu7pcq9",
+      "plays": 1
+    },
+    {
+      "name": "Born To Be Blue",
+      "artist": "Tommy Flanagan Trio",
+      "artist_slug": "tommy-flanagan-trio",
+      "album": "Tommy Flanagan Trio",
+      "spotify_url": "https://open.spotify.com/track/0q2B8hRHzThL8CTlzCv06e",
+      "plays": 1
+    },
+    {
+      "name": "Can You Get To That",
+      "artist": "Funkadelic",
+      "artist_slug": "funkadelic",
+      "album": "Maggot Brain",
+      "spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw",
+      "plays": 1
+    },
+    {
+      "name": "Can You Tell by Looking at Me",
+      "artist": "Billy Taylor",
+      "artist_slug": "billy-taylor",
+      "album": "The Billy Taylor Touch",
+      "spotify_url": "https://open.spotify.com/track/1UXTRZ15jRAy9xQw8zij1u",
+      "plays": 1
+    },
+    {
+      "name": "Chelsea Bridge",
+      "artist": "Tommy Flanagan Trio",
+      "artist_slug": "tommy-flanagan-trio",
+      "album": "Overseas Blues",
+      "spotify_url": "https://open.spotify.com/track/0lZRoPZuuoaThDtBBCjAub",
+      "plays": 1
+    },
+    {
+      "name": "Closing/Intros/Billy Boy/ When The Saints Go Marching In - Live",
+      "artist": "Oscar Peterson Trio",
+      "artist_slug": "oscar-peterson-trio",
+      "album": "At Baker’s Keyboard Lounge: The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/5QRhVOfxSbqJ8mfRkVkdsq",
+      "plays": 1
+    },
+    {
+      "name": "Closing/Intros/Blues For Big Scotia - Live",
+      "artist": "Oscar Peterson Trio",
+      "artist_slug": "oscar-peterson-trio",
+      "album": "At Baker’s Keyboard Lounge: The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/2RqYVgwZVGoSo2yFyoUGCy",
+      "plays": 1
+    },
+    {
+      "name": "Daahoud",
+      "artist": "Ray Bryant Trio",
+      "artist_slug": "ray-bryant-trio",
+      "album": "Ray Bryant Trio",
+      "spotify_url": "https://open.spotify.com/track/41QOF4wcH68dnQlFS9vRHZ",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 29
+    },
+    {
+      "slug": "funk",
+      "name": "Funk",
+      "plays": 9
+    },
+    {
+      "slug": "funk-rock",
+      "name": "Funk Rock",
+      "plays": 9
+    },
+    {
+      "slug": "hard-bop",
+      "name": "Hard Bop",
+      "plays": 9
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 9
+    }
+  ]
+}
