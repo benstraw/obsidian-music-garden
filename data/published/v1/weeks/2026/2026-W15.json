@@ -1,0 +1,271 @@
+{
+  "weekStart": "2026-04-06",
+  "weekEnd": "2026-04-12",
+  "total_plays": 57,
+  "unique_tracks": 57,
+  "unique_artists": 10,
+  "unique_albums": 16,
+  "total_minutes": 201,
+  "topArtistName": "Robert Johnson",
+  "top_artists": [
+    {
+      "slug": "robert-johnson",
+      "name": "Robert Johnson",
+      "plays": 25
+    },
+    {
+      "slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "plays": 17
+    },
+    {
+      "slug": "paul-winter",
+      "name": "Paul Winter",
+      "plays": 6
+    },
+    {
+      "slug": "pete-and-bas",
+      "name": "Pete \u0026 Bas",
+      "plays": 3
+    },
+    {
+      "slug": "billy-strings",
+      "name": "Billy Strings",
+      "plays": 1
+    },
+    {
+      "slug": "charlie-beale",
+      "name": "Charlie Beale",
+      "plays": 1
+    },
+    {
+      "slug": "hank-williams",
+      "name": "Hank Williams",
+      "plays": 1
+    },
+    {
+      "slug": "hot-tuna",
+      "name": "Hot Tuna",
+      "plays": 1
+    },
+    {
+      "slug": "little-feat",
+      "name": "Little Feat",
+      "plays": 1
+    },
+    {
+      "slug": "the-band",
+      "name": "The Band",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "99 Year Blues",
+      "artist": "Hot Tuna",
+      "artist_slug": "hot-tuna",
+      "album": "Burgers",
+      "spotify_url": "https://open.spotify.com/track/7GQZYw55Juuq3tntjZJzZt",
+      "plays": 1
+    },
+    {
+      "name": "Been All Around This World - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/02fHBG7NGuiok3BNdxd22R",
+      "plays": 1
+    },
+    {
+      "name": "Bird Song - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/00RhMZwmPZEZY3bbFV5VJK",
+      "plays": 1
+    },
+    {
+      "name": "Bosh (Skit)",
+      "artist": "Pete \u0026 Bas",
+      "artist_slug": "pete-and-bas",
+      "album": "Mugshot",
+      "spotify_url": "https://open.spotify.com/track/6vwVi2dZvyyL0Ld8JtXgFX",
+      "plays": 1
+    },
+    {
+      "name": "Cassidy - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB",
+      "plays": 1
+    },
+    {
+      "name": "China Doll - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/0uTDZqdS4icbKN4gEIUf2d",
+      "plays": 1
+    },
+    {
+      "name": "Come On In My Kitchen",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "King Of The Delta Blues Singers",
+      "spotify_url": "https://open.spotify.com/track/10W125nMbncRGcXRBoACOx",
+      "plays": 1
+    },
+    {
+      "name": "Cross Road Blues",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "King Of The Delta Blues Singers",
+      "spotify_url": "https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG",
+      "plays": 1
+    },
+    {
+      "name": "Cross Road Blues - Take 2",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/2t6BfB8I8NReNCHPOVY8qI",
+      "plays": 1
+    },
+    {
+      "name": "Dark Hollow - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/5SWDIe8j5vhBZZkU11Cmjj",
+      "plays": 1
+    },
+    {
+      "name": "Dead Shrimp Blues",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/5tC9rKaT2tybkuV1FByFJr",
+      "plays": 1
+    },
+    {
+      "name": "Deep Elem Blues - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw",
+      "plays": 1
+    },
+    {
+      "name": "Dire Wolf - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/7rLRoUv0PMTcHz0lOfpnti",
+      "plays": 1
+    },
+    {
+      "name": "Drunken Hearted Man - Take 1",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/1tn7gkNr7aAyn91sOK9t4J",
+      "plays": 1
+    },
+    {
+      "name": "From Four Until Late",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "King Of The Delta Blues",
+      "spotify_url": "https://open.spotify.com/track/79VFD8QZFjqbH9V56DimMW",
+      "plays": 1
+    },
+    {
+      "name": "He'll Make a Way",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "The George Mitchell Collection Vol. 4",
+      "spotify_url": "https://open.spotify.com/track/6st2tGe2XZWvtpYnLOQgp2",
+      "plays": 1
+    },
+    {
+      "name": "Hell Hound On My Trail",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "King Of The Delta Blues Singers",
+      "spotify_url": "https://open.spotify.com/track/5xjG7nV5ncQAHkuifsz4v3",
+      "plays": 1
+    },
+    {
+      "name": "Hellhound on My Trail",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "King Of The Delta Blues",
+      "spotify_url": "https://open.spotify.com/track/2KkJj006V93x8d9dXpgmIg",
+      "plays": 1
+    },
+    {
+      "name": "Hold My Body Down",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "The George Mitchell Collection Vol. 4",
+      "spotify_url": "https://open.spotify.com/track/5Z4mHJOGAqQr7tMgC6m556",
+      "plays": 1
+    },
+    {
+      "name": "Honeymoon Blues",
+      "artist": "Robert Johnson",
+      "artist_slug": "robert-johnson",
+      "album": "The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/1ypdkO74P92kDAXHnrjaIk",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 20
+    },
+    {
+      "slug": "acid-rock",
+      "name": "Acid Rock",
+      "plays": 17
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 17
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 2
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 2
+    },
+    {
+      "slug": "southern-rock",
+      "name": "Southern Rock",
+      "plays": 2
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 1
+    },
+    {
+      "slug": "blues-rock",
+      "name": "Blues Rock",
+      "plays": 1
+    },
+    {
+      "slug": "folk-rock",
+      "name": "Folk Rock",
+      "plays": 1
+    }
+  ]
+}

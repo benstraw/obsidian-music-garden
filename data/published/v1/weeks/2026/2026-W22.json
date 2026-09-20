@@ -1,0 +1,308 @@
+{
+  "weekStart": "2026-05-25",
+  "weekEnd": "2026-05-31",
+  "total_plays": 186,
+  "unique_tracks": 168,
+  "unique_artists": 25,
+  "unique_albums": 44,
+  "total_minutes": 579,
+  "topArtistName": "Beastie Boys",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/705bcd56dc5dbf9ebc578a3ba8094e6d622862c2",
+      "height": 771,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/060ef251f0e12353057c36fe94724b688b963dac",
+      "height": 494,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/eb9a69f247e84b9e9ce8b03f1ab5cca399b49cbc",
+      "height": 154,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/b6fafee2c4c169dadf039c2066ab77beb4c82b3e",
+      "height": 49,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 123
+    },
+    {
+      "slug": "renée-fleming",
+      "name": "Renée Fleming",
+      "plays": 16
+    },
+    {
+      "slug": "boards-of-canada",
+      "name": "Boards of Canada",
+      "plays": 10
+    },
+    {
+      "slug": "jack-van-cleaf",
+      "name": "Jack Van Cleaf",
+      "plays": 5
+    },
+    {
+      "slug": "sonny-rollins",
+      "name": "Sonny Rollins",
+      "plays": 4
+    },
+    {
+      "slug": "joshua-ray-walker",
+      "name": "Joshua Ray Walker",
+      "plays": 3
+    },
+    {
+      "slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "plays": 2
+    },
+    {
+      "slug": "beck",
+      "name": "Beck",
+      "plays": 2
+    },
+    {
+      "slug": "blind-melon",
+      "name": "Blind Melon",
+      "plays": 2
+    },
+    {
+      "slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "plays": 2
+    },
+    {
+      "slug": "dizzy-gillespie",
+      "name": "Dizzy Gillespie",
+      "plays": 2
+    },
+    {
+      "slug": "kaitlin-butts",
+      "name": "Kaitlin Butts",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "And Me - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/0ZcJ2JdB8vdgCWij7mFUuQ",
+      "plays": 4
+    },
+    {
+      "name": "Pass The Mic - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Check Your Head (Deluxe Edition/Remastered/2009)",
+      "spotify_url": "https://open.spotify.com/track/4eIfmbGZy21bvnBLHSf7DE",
+      "plays": 3
+    },
+    {
+      "name": "Three MC's And One DJ - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/6nGUcW4caAW7Wx5oAcSIJZ",
+      "plays": 3
+    },
+    {
+      "name": "Blackest Crow (feat. Aoife O'Donovan)",
+      "artist": "Renée Fleming",
+      "artist_slug": "renée-fleming",
+      "album": "The Fiddle and the Drum",
+      "spotify_url": "https://open.spotify.com/track/2FbziU3xhPySEyUzJf53P9",
+      "plays": 2
+    },
+    {
+      "name": "Change",
+      "artist": "Blind Melon",
+      "artist_slug": "blind-melon",
+      "album": "Blind Melon",
+      "spotify_url": "https://open.spotify.com/track/44RW9FEY76mLQCRQUjT0Zt",
+      "plays": 2
+    },
+    {
+      "name": "Green",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "JVC",
+      "spotify_url": "https://open.spotify.com/track/1y0irYFXbGGPmAUjK8bFNA",
+      "plays": 2
+    },
+    {
+      "name": "In The Pines (feat. Dolly Parton)",
+      "artist": "Renée Fleming",
+      "artist_slug": "renée-fleming",
+      "album": "The Fiddle and the Drum",
+      "spotify_url": "https://open.spotify.com/track/4a2ZtX9GYZnYeHML3LzU4T",
+      "plays": 2
+    },
+    {
+      "name": "Intergalactic - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R",
+      "plays": 2
+    },
+    {
+      "name": "My Epitaph",
+      "artist": "Renée Fleming",
+      "artist_slug": "renée-fleming",
+      "album": "The Fiddle and the Drum",
+      "spotify_url": "https://open.spotify.com/track/0dd8dXeE2DVv0M95jX8Rhz",
+      "plays": 2
+    },
+    {
+      "name": "On The Sunny Side Of The Street",
+      "artist": "Dizzy Gillespie",
+      "artist_slug": "dizzy-gillespie",
+      "album": "Sonny Side Up",
+      "spotify_url": "https://open.spotify.com/track/3ZQ6bCWYPgX7SqZ5AVeKOm",
+      "plays": 2
+    },
+    {
+      "name": "Song For The Man - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/36w5lGu7gQBvBxPLjFATlt",
+      "plays": 2
+    },
+    {
+      "name": "The Cuckoo (feat. Jerry Douglas)",
+      "artist": "Renée Fleming",
+      "artist_slug": "renée-fleming",
+      "album": "The Fiddle and the Drum",
+      "spotify_url": "https://open.spotify.com/track/2ozmmuCj5J4Fq8J8cs8ICU",
+      "plays": 2
+    },
+    {
+      "name": "The Fiddle and the Drum (feat. Jerry Douglas)",
+      "artist": "Renée Fleming",
+      "artist_slug": "renée-fleming",
+      "album": "The Fiddle and the Drum",
+      "spotify_url": "https://open.spotify.com/track/04xRI94czeeI9xWNJRVOOU",
+      "plays": 2
+    },
+    {
+      "name": "The Scarlet Tide (feat. Vince Gill)",
+      "artist": "Renée Fleming",
+      "artist_slug": "renée-fleming",
+      "album": "The Fiddle and the Drum",
+      "spotify_url": "https://open.spotify.com/track/1iL9qWFCv4cpYMopJwnRIS",
+      "plays": 2
+    },
+    {
+      "name": "\"Dr. Lee, PhD\" - Dub Mix/Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/3sEveiL5xfCxTmi51UBTpM",
+      "plays": 1
+    },
+    {
+      "name": "\"Dr. Lee, PhD\" - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/3wIbAFOiNY9YVlMOhsR94y",
+      "plays": 1
+    },
+    {
+      "name": "20 Questions Version - Remastered 2009",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "spotify_url": "https://open.spotify.com/track/1xhlSS0e7KkMEepaoKc5JU",
+      "plays": 1
+    },
+    {
+      "name": "3-Minute Rule",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+      "spotify_url": "https://open.spotify.com/track/5mew4rexHu1IV6kTXqH3Nu",
+      "plays": 1
+    },
+    {
+      "name": "5-Piece Chicken Dinner",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+      "spotify_url": "https://open.spotify.com/track/134zGrFA6v190Bxl7bpzeB",
+      "plays": 1
+    },
+    {
+      "name": "Ain't Dead Yet",
+      "artist": "Joshua Ray Walker",
+      "artist_slug": "joshua-ray-walker",
+      "album": "Ain't Dead Yet",
+      "spotify_url": "https://open.spotify.com/track/4Lx2gmkk1OO863VQDlFJMK",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 128
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 127
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 125
+    },
+    {
+      "slug": "rap-rock",
+      "name": "Rap Rock",
+      "plays": 124
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 6
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 5
+    },
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 5
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 3
+    },
+    {
+      "slug": "indie-rock",
+      "name": "Indie Rock",
+      "plays": 3
+    },
+    {
+      "slug": "jazz-rap",
+      "name": "Jazz Rap",
+      "plays": 3
+    }
+  ]
+}

@@ -16,7 +16,13 @@ func TestItemToPlay_primaryArtist(t *testing.T) {
 				{ID: "a1", Name: "Primary Artist", ExternalURLs: map[string]string{"spotify": "https://open.spotify.com/artist/a1"}},
 				{ID: "a2", Name: "Featured Artist"},
 			},
-			Album:        spotifyAlbum{Name: "My Album"},
+			Album: spotifyAlbum{
+				ID:   "album1",
+				Name: "My Album",
+				Artists: []spotifyArtist{
+					{ID: "album1a", Name: "Album Artist", ExternalURLs: map[string]string{"spotify": "https://open.spotify.com/artist/album1a"}},
+				},
+			},
 			DurationMS:   210000,
 			ExternalURLs: map[string]string{"spotify": "https://open.spotify.com/track/track1"},
 		},
@@ -26,6 +32,9 @@ func TestItemToPlay_primaryArtist(t *testing.T) {
 
 	if p.PlayedAt != "2026-02-21T14:30:00.000Z" {
 		t.Errorf("PlayedAt = %q", p.PlayedAt)
+	}
+	if p.Source != "spotify" {
+		t.Errorf("Source = %q", p.Source)
 	}
 	if p.TrackID != "track1" {
 		t.Errorf("TrackID = %q", p.TrackID)
@@ -42,8 +51,14 @@ func TestItemToPlay_primaryArtist(t *testing.T) {
 	if p.ArtistSpotifyURL != "https://open.spotify.com/artist/a1" {
 		t.Errorf("ArtistSpotifyURL = %q", p.ArtistSpotifyURL)
 	}
+	if len(p.AdditionalArtists) != 1 || p.AdditionalArtists[0].ID != "a2" || p.AdditionalArtists[0].Name != "Featured Artist" {
+		t.Fatalf("AdditionalArtists = %+v", p.AdditionalArtists)
+	}
 	if p.AlbumName != "My Album" {
 		t.Errorf("AlbumName = %q", p.AlbumName)
+	}
+	if p.AlbumID != "album1" {
+		t.Errorf("AlbumID = %q", p.AlbumID)
 	}
 	if p.DurationMS != 210000 {
 		t.Errorf("DurationMS = %d", p.DurationMS)
@@ -68,6 +83,9 @@ func TestItemToPlay_noArtists(t *testing.T) {
 	if p.ArtistID != "" || p.ArtistName != "" || p.ArtistSpotifyURL != "" {
 		t.Errorf("expected empty artist fields for track with no artists, got id=%q name=%q url=%q",
 			p.ArtistID, p.ArtistName, p.ArtistSpotifyURL)
+	}
+	if len(p.AdditionalArtists) != 0 {
+		t.Errorf("expected empty AdditionalArtists, got %+v", p.AdditionalArtists)
 	}
 }
 

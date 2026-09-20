@@ -4,7 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Is
 
-Go CLI that collects Spotify listening history and generates Obsidian markdown notes (weekly summaries, daily notes, artist stubs, and a "Music Taste" persona context pack). Zero external Go dependencies — stdlib only.
+Go CLI for a multi-source music knowledge garden that currently ships with a
+Spotify collector and setlist.fm lookup support. It generates Obsidian markdown
+notes (weekly summaries, daily notes, artist stubs, and a "Music Taste"
+persona context pack). Zero external Go dependencies — stdlib only.
 
 ## Build & Test
 
@@ -26,16 +29,17 @@ Version injection on release: `go build -ldflags "-X main.version=vX.Y.Z" -o mus
 **internal/** packages (each small, single-responsibility):
 - `auth` — OAuth2 authorization code flow, token save/load/refresh. Local HTTP callback server on port 8888 or manual paste for external redirect URIs.
 - `client` — Authenticated HTTP GET with exponential backoff on 429 (1s → 2s → 4s → fail). Bearer token, 30s timeout.
-- `fetch` — Spotify API → internal models. Silently filters podcast episodes.
+- `fetch` — source adapters. Today that means Spotify API + setlist.fm. Silently filters podcast episodes.
+- `genres` — canonical artist/release metadata store, curated genre aliases, and source→canonical resolution helpers.
 - `models` — Data structs: `Play`, `TopTrack`, `TopArtist`, `Setlist`.
-- `plays` — `plays.json` load/save/merge. Deduplicates by `played_at` key, sorts descending.
+- `plays` — sharded play storage under `data/plays/YYYY/YYYY-WNN.json`, merge/dedup, and canonical-field migration helpers.
 - `render` — Weekly/daily note generation, artist stub creation (never overwrites existing), persona template rendering. ISO week math lives here (`WeekBounds`, `WeekStr`).
 
 **templates/** — Go `text/template` files for persona and weekly reference. Template dir resolved: `MUSIC_TEMPLATES_DIR` env → `./templates` → relative to executable.
 
 ## Runtime Path Resolution
 
-Precedence: CLI flags → env vars → `MUSIC_STATE_DIR` subdirectories → CWD fallback (with warning). This applies to `.env`, `tokens.json`, and `data/plays.json`. See `resolveRuntimePaths()` in main.go.
+Precedence: CLI flags → env vars → `MUSIC_STATE_DIR` subdirectories → CWD fallback (with warning). This applies to `.env`, `tokens.json`, sharded `data/plays/`, and canonical `data/genres.json`. See `resolveRuntimePaths()` in main.go.
 
 ## Testing Patterns
 
