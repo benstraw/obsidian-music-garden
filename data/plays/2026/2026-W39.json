@@ -1,5 +1,93 @@
 [
   {
+    "played_at": "2026-09-22T03:38:26.306Z",
+    "track_id": "1bJPV0YFBxytUqVWnwngq5",
+    "track_name": "Frostbite",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Frostbite",
+    "duration_ms": 202674,
+    "track_spotify_url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
+  },
+  {
+    "played_at": "2026-09-22T00:51:15.048Z",
+    "track_id": "1aZS8593BjWfnJT5H76Obf",
+    "track_name": "Riches To Rags",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Til The Sun Goes Down",
+    "duration_ms": 210055,
+    "track_spotify_url": "https://open.spotify.com/track/1aZS8593BjWfnJT5H76Obf"
+  },
+  {
+    "played_at": "2026-09-22T00:47:44.577Z",
+    "track_id": "4uIU4x2TFZCVLM4bFDIyF5",
+    "track_name": "Old Habits",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Out Of The Blue",
+    "duration_ms": 228247,
+    "track_spotify_url": "https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5"
+  },
+  {
+    "played_at": "2026-09-22T00:43:54.979Z",
+    "track_id": "1u4x9Xg36QWQO9Pq2CjUF4",
+    "track_name": "But There Was a Time",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Dustpiles",
+    "duration_ms": 230739,
+    "track_spotify_url": "https://open.spotify.com/track/1u4x9Xg36QWQO9Pq2CjUF4"
+  },
+  {
+    "played_at": "2026-09-22T00:40:03.835Z",
+    "track_id": "2cOgcpzQdlPdQCHwi28WWp",
+    "track_name": "Sunday Supper",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Jailbreak/Sunday Supper",
+    "duration_ms": 202700,
+    "track_spotify_url": "https://open.spotify.com/track/2cOgcpzQdlPdQCHwi28WWp"
+  },
+  {
+    "played_at": "2026-09-22T00:36:40.760Z",
+    "track_id": "0ZHiaGvzx20AfiZychbcVN",
+    "track_name": "Pretty Little Liar",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Pretty Little Liar",
+    "duration_ms": 242578,
+    "track_spotify_url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
+  },
+  {
+    "played_at": "2026-09-22T00:32:37.866Z",
+    "track_id": "291iqLtPRtZfr5Q8mhMxNX",
+    "track_name": "Didn't Forget",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Didn't Forget",
+    "duration_ms": 228153,
+    "track_spotify_url": "https://open.spotify.com/track/291iqLtPRtZfr5Q8mhMxNX"
+  },
+  {
+    "played_at": "2026-09-22T00:28:49.306Z",
+    "track_id": "41lfDa7hvYHUyvEyrKRu2Y",
+    "track_name": "Box of Bones",
+    "artist_id": "6Ff2omMMZOd8FWNqb980Ol",
+    "artist_name": "Waylon Wyatt",
+    "artist_spotify_url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol",
+    "album_name": "Dustpiles",
+    "duration_ms": 181320,
+    "track_spotify_url": "https://open.spotify.com/track/41lfDa7hvYHUyvEyrKRu2Y"
+  },
+  {
     "played_at": "2026-09-21T22:52:09.611Z",
     "track_id": "41lfDa7hvYHUyvEyrKRu2Y",
     "track_name": "Box of Bones",
