@@ -1,5 +1,71 @@
 [
   {
+    "played_at": "2026-09-24T01:30:07.833Z",
+    "track_id": "0HOFJm1h2FVwbsAw3br7dQ",
+    "track_name": "Right Where I Belong",
+    "artist_id": "79D4dipwR6scV8AN3dm7gW",
+    "artist_name": "Seth MacFarlane",
+    "artist_spotify_url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW",
+    "album_name": "Seth MacFarlane Sings The Muppets",
+    "duration_ms": 178168,
+    "track_spotify_url": "https://open.spotify.com/track/0HOFJm1h2FVwbsAw3br7dQ"
+  },
+  {
+    "played_at": "2026-09-24T01:27:09.651Z",
+    "track_id": "0V5xIQdXuUqHJCMseLwbr2",
+    "track_name": "Hey, A Movie!",
+    "artist_id": "79D4dipwR6scV8AN3dm7gW",
+    "artist_name": "Seth MacFarlane",
+    "artist_spotify_url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW",
+    "album_name": "Seth MacFarlane Sings The Muppets",
+    "duration_ms": 155785,
+    "track_spotify_url": "https://open.spotify.com/track/0V5xIQdXuUqHJCMseLwbr2"
+  },
+  {
+    "played_at": "2026-09-24T01:24:33.953Z",
+    "track_id": "6APUQge69UrFtgTEV4wvRo",
+    "track_name": "Bein’ Green",
+    "artist_id": "79D4dipwR6scV8AN3dm7gW",
+    "artist_name": "Seth MacFarlane",
+    "artist_spotify_url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW",
+    "album_name": "Seth MacFarlane Sings The Muppets",
+    "duration_ms": 250515,
+    "track_spotify_url": "https://open.spotify.com/track/6APUQge69UrFtgTEV4wvRo"
+  },
+  {
+    "played_at": "2026-09-24T01:20:22.740Z",
+    "track_id": "0oLTncPjwAwA9NwdNY2BDF",
+    "track_name": "Couldn’t We Ride",
+    "artist_id": "79D4dipwR6scV8AN3dm7gW",
+    "artist_name": "Seth MacFarlane",
+    "artist_spotify_url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW",
+    "album_name": "Seth MacFarlane Sings The Muppets",
+    "duration_ms": 178963,
+    "track_spotify_url": "https://open.spotify.com/track/0oLTncPjwAwA9NwdNY2BDF"
+  },
+  {
+    "played_at": "2026-09-24T00:56:24.565Z",
+    "track_id": "6YaWOVSNKzep4YPxQirwAI",
+    "track_name": "Somebody’s Getting Married",
+    "artist_id": "79D4dipwR6scV8AN3dm7gW",
+    "artist_name": "Seth MacFarlane",
+    "artist_spotify_url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW",
+    "album_name": "Seth MacFarlane Sings The Muppets",
+    "duration_ms": 164433,
+    "track_spotify_url": "https://open.spotify.com/track/6YaWOVSNKzep4YPxQirwAI"
+  },
+  {
+    "played_at": "2026-09-24T00:53:39.834Z",
+    "track_id": "2mqwaLRTXeUJAXJgFJUEiI",
+    "track_name": "Together Again",
+    "artist_id": "79D4dipwR6scV8AN3dm7gW",
+    "artist_name": "Seth MacFarlane",
+    "artist_spotify_url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW",
+    "album_name": "Seth MacFarlane Sings The Muppets",
+    "duration_ms": 154230,
+    "track_spotify_url": "https://open.spotify.com/track/2mqwaLRTXeUJAXJgFJUEiI"
+  },
+  {
     "played_at": "2026-09-23T20:49:30.378Z",
     "track_id": "5eGEc27nnhtmcOh6RC890a",
     "track_name": "Kill You",
