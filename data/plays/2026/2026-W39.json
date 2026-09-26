@@ -1,5 +1,60 @@
 [
   {
+    "played_at": "2026-09-26T18:42:10.866Z",
+    "track_id": "5f6nwe1u8F6tWIlZuA1o9J",
+    "track_name": "Lucid Daydream",
+    "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_name": "Billy Strings",
+    "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "album_name": "So Much For Goodbyes",
+    "duration_ms": 395744,
+    "track_spotify_url": "https://open.spotify.com/track/5f6nwe1u8F6tWIlZuA1o9J"
+  },
+  {
+    "played_at": "2026-09-26T18:21:17.131Z",
+    "track_id": "1WCNwVVp5uaEETRVchqnNC",
+    "track_name": "Lay Me Down",
+    "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_name": "Billy Strings",
+    "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "album_name": "So Much For Goodbyes",
+    "duration_ms": 240464,
+    "track_spotify_url": "https://open.spotify.com/track/1WCNwVVp5uaEETRVchqnNC"
+  },
+  {
+    "played_at": "2026-09-26T18:16:22.742Z",
+    "track_id": "6bOvkth6LOFrJbywr4JQJt",
+    "track_name": "Carry Us Home",
+    "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_name": "Billy Strings",
+    "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "album_name": "So Much For Goodbyes",
+    "duration_ms": 251073,
+    "track_spotify_url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
+  },
+  {
+    "played_at": "2026-09-26T18:12:11.439Z",
+    "track_id": "5v0bNyyBlH1G95BIh6xt6P",
+    "track_name": "Burn the Other End",
+    "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_name": "Billy Strings",
+    "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "album_name": "So Much For Goodbyes",
+    "duration_ms": 279706,
+    "track_spotify_url": "https://open.spotify.com/track/5v0bNyyBlH1G95BIh6xt6P"
+  },
+  {
+    "played_at": "2026-09-26T18:06:25.882Z",
+    "track_id": "4VlTGxtLNeASX5fKmbRWne",
+    "track_name": "I'm One of Those",
+    "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_name": "Billy Strings",
+    "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "album_name": "So Much For Goodbyes",
+    "duration_ms": 260658,
+    "track_spotify_url": "https://open.spotify.com/track/4VlTGxtLNeASX5fKmbRWne"
+  },
+  {
     "played_at": "2026-09-24T13:32:30.815Z",
     "track_id": "6YYd5MLpu45J0uLrMdivF7",
     "track_name": "Got Your Money (feat. Kelis)",
