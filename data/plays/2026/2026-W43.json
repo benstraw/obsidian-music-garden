@@ -1,5 +1,49 @@
 [
   {
+    "played_at": "2026-10-20T05:41:45.219Z",
+    "track_id": "14ahpcc73FbLDHBOJvWk1m",
+    "track_name": "It Never Entered My Mind",
+    "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+    "artist_name": "Chet Baker",
+    "artist_spotify_url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T",
+    "album_name": "Chet (Keepnews Collection)",
+    "duration_ms": 282053,
+    "track_spotify_url": "https://open.spotify.com/track/14ahpcc73FbLDHBOJvWk1m"
+  },
+  {
+    "played_at": "2026-10-20T05:37:03.129Z",
+    "track_id": "1qagJUT7uzS8eAkDJmO8QG",
+    "track_name": "How High The Moon",
+    "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+    "artist_name": "Chet Baker",
+    "artist_spotify_url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T",
+    "album_name": "Chet (Keepnews Collection)",
+    "duration_ms": 218093,
+    "track_spotify_url": "https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG"
+  },
+  {
+    "played_at": "2026-10-20T05:33:25.037Z",
+    "track_id": "41TfF8i4DzToDOuOJ92Fka",
+    "track_name": "Alone Together",
+    "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+    "artist_name": "Chet Baker",
+    "artist_spotify_url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T",
+    "album_name": "Chet (Keepnews Collection)",
+    "duration_ms": 413786,
+    "track_spotify_url": "https://open.spotify.com/track/41TfF8i4DzToDOuOJ92Fka"
+  },
+  {
+    "played_at": "2026-10-19T19:29:00.726Z",
+    "track_id": "3CNbDbMHxYHxEgrPGf89yc",
+    "track_name": "My Fault",
+    "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "artist_name": "Eminem",
+    "artist_spotify_url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
+    "album_name": "The Slim Shady LP",
+    "duration_ms": 241600,
+    "track_spotify_url": "https://open.spotify.com/track/3CNbDbMHxYHxEgrPGf89yc"
+  },
+  {
     "played_at": "2026-10-19T15:21:08.484Z",
     "track_id": "2r3X3XjapN9aVdpBGeMOVe",
     "track_name": "Artists Only - 2025 Remaster",
