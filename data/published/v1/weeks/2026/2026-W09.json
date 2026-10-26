@@ -1,0 +1,308 @@
+{
+  "weekStart": "2026-02-23",
+  "weekEnd": "2026-03-01",
+  "total_plays": 65,
+  "unique_tracks": 62,
+  "unique_artists": 37,
+  "unique_albums": 47,
+  "total_minutes": 278,
+  "topArtistName": "Funkadelic",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/dfd7b11d97bc9159e9d085c5fd925b70cd192178",
+      "height": 740,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/62458dad056210b6511d375b8a590ac52d551d3f",
+      "height": 474,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/6aeb0becd14d0a37bb63a4885ac6dc69267f17d5",
+      "height": 148,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/cde417911c59c87190b352f549f76f99d8bdcb18",
+      "height": 47,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "funkadelic",
+      "name": "Funkadelic",
+      "plays": 10
+    },
+    {
+      "slug": "kanye-west",
+      "name": "Kanye West",
+      "plays": 5
+    },
+    {
+      "slug": "shuggie-otis",
+      "name": "Shuggie Otis",
+      "plays": 4
+    },
+    {
+      "slug": "baby-huey",
+      "name": "Baby Huey",
+      "plays": 3
+    },
+    {
+      "slug": "crosby-stills-nash-and-young",
+      "name": "Crosby, Stills, Nash \u0026 Young",
+      "plays": 3
+    },
+    {
+      "slug": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "plays": 3
+    },
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 2
+    },
+    {
+      "slug": "black-star",
+      "name": "Black Star",
+      "plays": 2
+    },
+    {
+      "slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "plays": 2
+    },
+    {
+      "slug": "miles-davis",
+      "name": "Miles Davis",
+      "plays": 2
+    },
+    {
+      "slug": "simon-and-garfunkel",
+      "name": "Simon \u0026 Garfunkel",
+      "plays": 2
+    },
+    {
+      "slug": "wu-tang-clan",
+      "name": "Wu-Tang Clan",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Funky Thithee",
+      "artist": "Shuggie Otis",
+      "artist_slug": "shuggie-otis",
+      "album": "Here Comes Shuggie Otis",
+      "spotify_url": "https://open.spotify.com/track/7xuET2MbGSP3aLpgU2BGbV",
+      "plays": 2
+    },
+    {
+      "name": "Peaches En Regalia",
+      "artist": "Frank Zappa",
+      "artist_slug": "frank-zappa",
+      "album": "Hot Rats",
+      "spotify_url": "https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l",
+      "plays": 2
+    },
+    {
+      "name": "Sabotage",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Ill Communication",
+      "spotify_url": "https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9",
+      "plays": 2
+    },
+    {
+      "name": "All Falls Down",
+      "artist": "Kanye West",
+      "artist_slug": "kanye-west",
+      "album": "The College Dropout",
+      "spotify_url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9",
+      "plays": 1
+    },
+    {
+      "name": "Almost Cut My Hair",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "Deja Vu",
+      "spotify_url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL",
+      "plays": 1
+    },
+    {
+      "name": "Back In Our Minds",
+      "artist": "Funkadelic",
+      "artist_slug": "funkadelic",
+      "album": "Maggot Brain",
+      "spotify_url": "https://open.spotify.com/track/25XlPV3Khx2RVhwCBC6HNe",
+      "plays": 1
+    },
+    {
+      "name": "Billy Jack",
+      "artist": "Curtis Mayfield",
+      "artist_slug": "curtis-mayfield",
+      "album": "There's No Place Like America Today",
+      "spotify_url": "https://open.spotify.com/track/58g78TAudwqiMzSJHrhjYB",
+      "plays": 1
+    },
+    {
+      "name": "Biological Speculation",
+      "artist": "Funkadelic",
+      "artist_slug": "funkadelic",
+      "album": "America Eats Its Young",
+      "spotify_url": "https://open.spotify.com/track/1S4igP7OpCUIEC5l75DssU",
+      "plays": 1
+    },
+    {
+      "name": "Bookends Theme - Reprise",
+      "artist": "Simon \u0026 Garfunkel",
+      "artist_slug": "simon-and-garfunkel",
+      "album": "Bookends",
+      "spotify_url": "https://open.spotify.com/track/0Q3GpBYKy5Mx97TNBJVibl",
+      "plays": 1
+    },
+    {
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+      "artist": "Wu-Tang Clan",
+      "artist_slug": "wu-tang-clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "spotify_url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx",
+      "plays": 1
+    },
+    {
+      "name": "California Dreamin'",
+      "artist": "Baby Huey",
+      "artist_slug": "baby-huey",
+      "album": "The Baby Huey Story: The Living Legend",
+      "spotify_url": "https://open.spotify.com/track/1HzIPQceSx4GYLUyag9EPm",
+      "plays": 1
+    },
+    {
+      "name": "Can You Get To That",
+      "artist": "Funkadelic",
+      "artist_slug": "funkadelic",
+      "album": "Maggot Brain",
+      "spotify_url": "https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw",
+      "plays": 1
+    },
+    {
+      "name": "Clear Blue Skies",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "American Dream",
+      "spotify_url": "https://open.spotify.com/track/5aBo35KynwE90mboBMWKQI",
+      "plays": 1
+    },
+    {
+      "name": "Concrete Schoolyard",
+      "artist": "Jurassic 5",
+      "artist_slug": "jurassic-5",
+      "album": "J5 (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/3J0OszMlEDocWzllz5SnGQ",
+      "plays": 1
+    },
+    {
+      "name": "Country Blues",
+      "artist": "Rose's Pawn Shop",
+      "artist_slug": "rose-s-pawn-shop",
+      "album": "Gravity Well",
+      "spotify_url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk",
+      "plays": 1
+    },
+    {
+      "name": "Crosseyed and Painless - 2005 Remaster",
+      "artist": "Talking Heads",
+      "artist_slug": "talking-heads",
+      "album": "Remain in Light (Deluxe Version)",
+      "spotify_url": "https://open.spotify.com/track/0yhwdmbgkKdE1plV8xWdrd",
+      "plays": 1
+    },
+    {
+      "name": "Darkest Light - Remastered",
+      "artist": "Lafayette Afro Rock Band",
+      "artist_slug": "lafayette-afro-rock-band",
+      "album": "Malik",
+      "spotify_url": "https://open.spotify.com/track/6eDVnsVgEAjMdcczx4mpoq",
+      "plays": 1
+    },
+    {
+      "name": "Definition",
+      "artist": "Black Star",
+      "artist_slug": "black-star",
+      "album": "Mos Def \u0026 Talib Kweli Are Black Star",
+      "spotify_url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN",
+      "plays": 1
+    },
+    {
+      "name": "Easy Loving - Live",
+      "artist": "Country's Family Reunion",
+      "artist_slug": "country-s-family-reunion",
+      "album": "Celebration (Live / Vol. 1)",
+      "spotify_url": "https://open.spotify.com/track/0Ngg6y9pTMkltXFSIAHfMI",
+      "plays": 1
+    },
+    {
+      "name": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "The Anthology",
+      "spotify_url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "funk",
+      "name": "Funk",
+      "plays": 16
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 14
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 14
+    },
+    {
+      "slug": "funk-rock",
+      "name": "Funk Rock",
+      "plays": 11
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 10
+    },
+    {
+      "slug": "soul",
+      "name": "Soul",
+      "plays": 10
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 9
+    },
+    {
+      "slug": "rap",
+      "name": "Rap",
+      "plays": 7
+    },
+    {
+      "slug": "folk-rock",
+      "name": "Folk Rock",
+      "plays": 6
+    },
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 5
+    }
+  ]
+}

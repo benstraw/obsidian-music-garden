@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-03-02",
+  "weekEnd": "2026-03-08",
+  "total_plays": 334,
+  "unique_tracks": 274,
+  "unique_artists": 108,
+  "unique_albums": 170,
+  "total_minutes": 1199,
+  "topArtistName": "A Tribe Called Quest",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb774d73ae6796b6f437d89db9",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174774d73ae6796b6f437d89db9",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178774d73ae6796b6f437d89db9",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "plays": 20
+    },
+    {
+      "slug": "sublime",
+      "name": "Sublime",
+      "plays": 19
+    },
+    {
+      "slug": "gnarls-barkley",
+      "name": "Gnarls Barkley",
+      "plays": 18
+    },
+    {
+      "slug": "peech",
+      "name": "Peech.",
+      "plays": 16
+    },
+    {
+      "slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "plays": 15
+    },
+    {
+      "slug": "kendrick-lamar",
+      "name": "Kendrick Lamar",
+      "plays": 15
+    },
+    {
+      "slug": "songs-of-disappearance",
+      "name": "Songs of Disappearance",
+      "plays": 13
+    },
+    {
+      "slug": "nas",
+      "name": "Nas",
+      "plays": 9
+    },
+    {
+      "slug": "the-notorious-b-i-g",
+      "name": "The Notorious B.I.G.",
+      "plays": 9
+    },
+    {
+      "slug": "wu-tang-clan",
+      "name": "Wu-Tang Clan",
+      "plays": 9
+    },
+    {
+      "slug": "de-la-soul",
+      "name": "De La Soul",
+      "plays": 8
+    },
+    {
+      "slug": "pink-floyd",
+      "name": "Pink Floyd",
+      "plays": 8
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Houdini",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM",
+      "plays": 5
+    },
+    {
+      "name": "Iron Lion Zion",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Songs Of Freedom Rarities",
+      "spotify_url": "https://open.spotify.com/track/0oz9leJwzlmmRKWe3Pgjh4",
+      "plays": 5
+    },
+    {
+      "name": "Jump Nyabinghi",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Confrontation",
+      "spotify_url": "https://open.spotify.com/track/6tZ2akfNBG9EQlvhEPYV2Q",
+      "plays": 4
+    },
+    {
+      "name": "Keep 'Em on They Toes",
+      "artist": "Brent Cobb",
+      "artist_slug": "brent-cobb",
+      "album": "Keep 'Em on They Toes",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx",
+      "plays": 4
+    },
+    {
+      "name": "Machine Gun Funk - 2005 Remaster",
+      "artist": "The Notorious B.I.G.",
+      "artist_slug": "the-notorious-b-i-g",
+      "album": "Ready to Die (The Remaster)",
+      "spotify_url": "https://open.spotify.com/track/2bXI4Rbw1D7aVeHWLjn1Lb",
+      "plays": 4
+    },
+    {
+      "name": "We The People....",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "We got it from Here... Thank You 4 Your service",
+      "spotify_url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk",
+      "plays": 4
+    },
+    {
+      "name": "Bitties in the BK Lounge",
+      "artist": "De La Soul",
+      "artist_slug": "de-la-soul",
+      "album": "De La Soul is Dead",
+      "spotify_url": "https://open.spotify.com/track/5Oau0nwi1toumk4lShjlRn",
+      "plays": 3
+    },
+    {
+      "name": "Buggin' Out",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "The Low End Theory",
+      "spotify_url": "https://open.spotify.com/track/6GAemDMWAXa8wZOBkO1gar",
+      "plays": 3
+    },
+    {
+      "name": "Creation",
+      "artist": "Simran \u0026 GuruPrem",
+      "artist_slug": "simran-and-guruprem",
+      "album": "Heal Me",
+      "spotify_url": "https://open.spotify.com/track/5L0UCjQ31BQ5vRNwvUeJ1x",
+      "plays": 3
+    },
+    {
+      "name": "Find a Way",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "The Love Movement",
+      "spotify_url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8",
+      "plays": 3
+    },
+    {
+      "name": "Keisha's Song (Her Pain) (feat. Ashtro Bot)",
+      "artist": "Kendrick Lamar",
+      "artist_slug": "kendrick-lamar",
+      "album": "Section.80",
+      "spotify_url": "https://open.spotify.com/track/7AaET28qSzlkFBcySHh4ES",
+      "plays": 3
+    },
+    {
+      "name": "Memory Lane (Sittin' in da Park)",
+      "artist": "Nas",
+      "artist_slug": "nas",
+      "album": "Illmatic",
+      "spotify_url": "https://open.spotify.com/track/2W58HMaCbjcUfZnZaeHtcC",
+      "plays": 3
+    },
+    {
+      "name": "Right Back",
+      "artist": "Sublime",
+      "artist_slug": "sublime",
+      "album": "40oz. To Freedom",
+      "spotify_url": "https://open.spotify.com/track/6BukIakKj13FZWCugXCCda",
+      "plays": 3
+    },
+    {
+      "name": "When the Shit Goes Down",
+      "artist": "Cypress Hill",
+      "artist_slug": "cypress-hill",
+      "album": "Black Sunday",
+      "spotify_url": "https://open.spotify.com/track/7aAZOl8GHF6ge391oY0Kmy",
+      "plays": 3
+    },
+    {
+      "name": "You Never Even Called Me by My Name",
+      "artist": "David Allan Coe",
+      "artist_slug": "david-allan-coe",
+      "album": "Once Upon a Rhyme",
+      "spotify_url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR",
+      "plays": 3
+    },
+    {
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "Midnight Marauders",
+      "spotify_url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ",
+      "plays": 2
+    },
+    {
+      "name": "Clear Blue Skies",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "American Dream",
+      "spotify_url": "https://open.spotify.com/track/5aBo35KynwE90mboBMWKQI",
+      "plays": 2
+    },
+    {
+      "name": "D.J.'s",
+      "artist": "Sublime",
+      "artist_slug": "sublime",
+      "album": "40oz. To Freedom",
+      "spotify_url": "https://open.spotify.com/track/0dUQI22joLSJc0kSLNnRi4",
+      "plays": 2
+    },
+    {
+      "name": "Der Himmel lacht! Die Erde jubiliert, BWV 31: No. 4, Fürst des Lebens! starker Streiter - Live",
+      "artist": "Johann Sebastian Bach",
+      "artist_slug": "johann-sebastian-bach",
+      "album": "J.S. Bach: Der Himmel lacht! Die Erde jubiliert, BWV 31 (Live)",
+      "spotify_url": "https://open.spotify.com/track/6ORIEgFjR7h1YBWmGyTf3C",
+      "plays": 2
+    },
+    {
+      "name": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "The Anthology",
+      "spotify_url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68",
+      "plays": 2
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 109
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 74
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 72
+    },
+    {
+      "slug": "reggae",
+      "name": "Reggae",
+      "plays": 35
+    },
+    {
+      "slug": "jazz-rap",
+      "name": "Jazz Rap",
+      "plays": 34
+    },
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 28
+    },
+    {
+      "slug": "west-coast-hip-hop",
+      "name": "West Coast Hip Hop",
+      "plays": 24
+    },
+    {
+      "slug": "gangster-rap",
+      "name": "Gangster Rap",
+      "plays": 21
+    },
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 19
+    },
+    {
+      "slug": "ska",
+      "name": "Ska",
+      "plays": 19
+    }
+  ]
+}

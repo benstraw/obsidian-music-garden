@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://benstrawbridge.com/schemas/music-garden/public/v1/entities.schema.json",
+  "title": "Music Garden public-v1 entity collection",
+  "type": "object",
+  "additionalProperties": { "$ref": "#/$defs/entity" },
+  "$defs": {
+    "publication": {
+      "type": "object",
+      "required": ["indexed", "reasons"],
+      "properties": {
+        "indexed": { "type": "boolean" },
+        "reasons": { "type": "array", "items": { "type": "string" }, "minItems": 1
+      },
+      "additionalProperties": false
+    },
+    "entity": {
+      "type": "object",
+      "required": ["slug", "name", "publication"],
+      "properties": {
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "name": { "type": "string", "minLength": 1 },
+        "publication": { "$ref": "#/$defs/publication" }
+      }
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "weekStart": "2026-06-01",
+  "weekEnd": "2026-06-07",
+  "total_plays": 105,
+  "unique_tracks": 97,
+  "unique_artists": 23,
+  "unique_albums": 33,
+  "total_minutes": 391,
+  "topArtistName": "Beastie Boys",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/705bcd56dc5dbf9ebc578a3ba8094e6d622862c2",
+      "height": 771,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/060ef251f0e12353057c36fe94724b688b963dac",
+      "height": 494,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/eb9a69f247e84b9e9ce8b03f1ab5cca399b49cbc",
+      "height": 154,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/b6fafee2c4c169dadf039c2066ab77beb4c82b3e",
+      "height": 49,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 32
+    },
+    {
+      "slug": "capleton",
+      "name": "Capleton",
+      "plays": 16
+    },
+    {
+      "slug": "david-bowie",
+      "name": "David Bowie",
+      "plays": 16
+    },
+    {
+      "slug": "ninjaman",
+      "name": "Ninjaman",
+      "plays": 11
+    },
+    {
+      "slug": "sonny-rollins",
+      "name": "Sonny Rollins",
+      "plays": 8
+    },
+    {
+      "slug": "verdèzul",
+      "name": "Verdèzul",
+      "plays": 3
+    },
+    {
+      "slug": "barrington-levy",
+      "name": "Barrington Levy",
+      "plays": 2
+    },
+    {
+      "slug": "super-cat",
+      "name": "Super Cat",
+      "plays": 2
+    },
+    {
+      "slug": "bounty-killer",
+      "name": "Bounty Killer",
+      "plays": 1
+    },
+    {
+      "slug": "buju-banton",
+      "name": "Buju Banton",
+      "plays": 1
+    },
+    {
+      "slug": "dennis-brown",
+      "name": "Dennis Brown",
+      "plays": 1
+    },
+    {
+      "slug": "dizzy-gillespie",
+      "name": "Dizzy Gillespie",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Ting A Ling A Ling A School Pickney Sing Ting",
+      "artist": "Ninjaman",
+      "artist_slug": "ninjaman",
+      "album": "Monsters Of Dancehall",
+      "spotify_url": "https://open.spotify.com/track/14KuaLOZIXq9nUnKpLuawo",
+      "plays": 4
+    },
+    {
+      "name": "3 The Hard Way",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/3cpMfY4vRVVVUZQUoe71XT",
+      "plays": 2
+    },
+    {
+      "name": "Clean Hands (Pure In Heart)",
+      "artist": "Capleton",
+      "artist_slug": "capleton",
+      "album": "Monsters Of Dancehall",
+      "spotify_url": "https://open.spotify.com/track/0xLvXSnMOL0YC4EfJOXQ4W",
+      "plays": 2
+    },
+    {
+      "name": "Oh Word?",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/0LaOYdQTxgyP3u4nIzpiVG",
+      "plays": 2
+    },
+    {
+      "name": "Right Right Now Now",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/2at8rrd3fySOMeOW4c5gJ0",
+      "plays": 2
+    },
+    {
+      "name": "Rock 'n' Roll Suicide - 2012 Remaster",
+      "artist": "David Bowie",
+      "artist_slug": "david-bowie",
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/1k5iH4KDKi56MFvlnrALNV",
+      "plays": 2
+    },
+    {
+      "name": "94.7",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Earthtones \u0026 Shades of Blue and Green",
+      "spotify_url": "https://open.spotify.com/track/7zsftx468s8NTZYprLhAHM",
+      "plays": 1
+    },
+    {
+      "name": "A Forest - 2006 Remaster",
+      "artist": "The Cure",
+      "artist_slug": "the-cure",
+      "album": "Seventeen Seconds (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH",
+      "plays": 1
+    },
+    {
+      "name": "All Lifestyles",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/5XzMKbEnX3QSFMoi6fxnaN",
+      "plays": 1
+    },
+    {
+      "name": "An Open Letter To NYC",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/12C2LsAn4jHPHDRRjJCitR",
+      "plays": 1
+    },
+    {
+      "name": "An Open Letter To NYC (Andy Wallace Mix) - Radio Edit",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/26YRIxc8E6111heII7EwZB",
+      "plays": 1
+    },
+    {
+      "name": "And Then I",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/0hofLI4ReTPNvXuzLtRwV4",
+      "plays": 1
+    },
+    {
+      "name": "Bad Boy Nuh Cub Scout",
+      "artist": "Bounty Killer",
+      "artist_slug": "bounty-killer",
+      "album": "Monsters Of Dancehall",
+      "spotify_url": "https://open.spotify.com/track/3b7ESZLvmXiQPnYbOzQbpZ",
+      "plays": 1
+    },
+    {
+      "name": "Bad So",
+      "artist": "Capleton",
+      "artist_slug": "capleton",
+      "album": "Good So",
+      "spotify_url": "https://open.spotify.com/track/3ywgXjQyCgqzi0xRAXvjG9",
+      "plays": 1
+    },
+    {
+      "name": "Boops",
+      "artist": "Super Cat",
+      "artist_slug": "super-cat",
+      "album": "Si Boops Deh",
+      "spotify_url": "https://open.spotify.com/track/2vuPx9w6ABioTnmo0aWi4V",
+      "plays": 1
+    },
+    {
+      "name": "Border Clash",
+      "artist": "Ninjaman",
+      "artist_slug": "ninjaman",
+      "album": "Monsters Of Dancehall",
+      "spotify_url": "https://open.spotify.com/track/2Jvn6Wy9K2c5wEnWWlB94D",
+      "plays": 1
+    },
+    {
+      "name": "Bring In The Gun",
+      "artist": "Ninjaman",
+      "artist_slug": "ninjaman",
+      "album": "Monsters Of Dancehall",
+      "spotify_url": "https://open.spotify.com/track/2UgmdkpKwiuMLRZNJETPfc",
+      "plays": 1
+    },
+    {
+      "name": "Brrrr Stick Em",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/1w70b6GgjNWLWbmWtCAqC8",
+      "plays": 1
+    },
+    {
+      "name": "Cat People (Putting out Fire) - 1999 Remaster",
+      "artist": "David Bowie",
+      "artist_slug": "david-bowie",
+      "album": "Let's Dance",
+      "spotify_url": "https://open.spotify.com/track/2UQysLoUc6IjcSZUYrRhsA",
+      "plays": 1
+    },
+    {
+      "name": "Ch-Check It Out",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "To The 5 Boroughs (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/4hxw7Js3F9BY6oxaG4Obxb",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 32
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 32
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 32
+    },
+    {
+      "slug": "rap-rock",
+      "name": "Rap Rock",
+      "plays": 32
+    },
+    {
+      "slug": "new-wave",
+      "name": "New Wave",
+      "plays": 17
+    },
+    {
+      "slug": "alternative-rock",
+      "name": "Alternative Rock",
+      "plays": 16
+    },
+    {
+      "slug": "art-pop",
+      "name": "Art Pop",
+      "plays": 16
+    },
+    {
+      "slug": "art-rock",
+      "name": "Art Rock",
+      "plays": 16
+    },
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 16
+    },
+    {
+      "slug": "glam-rock",
+      "name": "Glam Rock",
+      "plays": 16
+    }
+  ]
+}

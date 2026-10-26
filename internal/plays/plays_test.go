@@ -25,6 +25,44 @@ func TestMerge_dedup(t *testing.T) {
 	}
 }
 
+func TestMerge_prefersRicherDuplicate(t *testing.T) {
+	existing := []models.Play{
+		{PlayedAt: "2026-02-21T10:00:00Z", TrackID: "track-1", TrackName: "Track A", AlbumName: "Album A"},
+	}
+	incoming := []models.Play{
+		{
+			PlayedAt:         "2026-02-21T10:00:00Z",
+			Source:           "spotify",
+			TrackID:          "track-1",
+			TrackSlug:        "artist-a--track-a",
+			TrackName:        "Track A",
+			ArtistSlug:       "artist-a",
+			ArtistID:         "artist-1",
+			ArtistName:       "Artist A",
+			ArtistSpotifyURL: "https://open.spotify.com/artist/artist-1",
+			ReleaseSlug:      "artist-a--album-a",
+			AdditionalArtists: []models.PlayArtist{
+				{ID: "artist-2", Name: "Artist B"},
+			},
+			AlbumID:         "album-1",
+			AlbumName:       "Album A",
+			DurationMS:      123000,
+			TrackSpotifyURL: "https://open.spotify.com/track/track-1",
+		},
+	}
+
+	result := Merge(existing, incoming)
+	if len(result) != 1 {
+		t.Fatalf("expected 1 play after merge, got %d", len(result))
+	}
+	if result[0].AlbumID != "album-1" || result[0].ArtistSlug != "artist-a" || result[0].TrackSlug != "artist-a--track-a" {
+		t.Fatalf("expected richer duplicate merge, got %+v", result[0])
+	}
+	if len(result[0].AdditionalArtists) != 1 {
+		t.Fatalf("expected richer duplicate merge for artist slices, got %+v", result[0])
+	}
+}
+
 func TestMerge_sortedDescending(t *testing.T) {
 	existing := []models.Play{
 		{PlayedAt: "2026-02-21T09:00:00Z"},
@@ -227,6 +265,48 @@ func TestSaveSharded_dedupsOnSecondCall(t *testing.T) {
 	}
 }
 
+func TestSaveSharded_rewritesWhenDuplicateGetsRicher(t *testing.T) {
+	baseDir := t.TempDir()
+
+	if _, err := SaveSharded(baseDir, []models.Play{
+		{PlayedAt: "2026-03-09T10:00:00Z", TrackID: "track-1", TrackName: "Track A", AlbumName: "Album A"},
+	}); err != nil {
+		t.Fatalf("first SaveSharded: %v", err)
+	}
+
+	added, err := SaveSharded(baseDir, []models.Play{
+		{
+			PlayedAt:         "2026-03-09T10:00:00Z",
+			Source:           "spotify",
+			TrackID:          "track-1",
+			TrackSlug:        "artist-a--track-a",
+			ArtistSlug:       "artist-a",
+			ArtistID:         "artist-1",
+			ArtistName:       "Artist A",
+			ArtistSpotifyURL: "https://open.spotify.com/artist/artist-1",
+			ReleaseSlug:      "artist-a--album-a",
+			AlbumID:          "album-1",
+			AlbumName:        "Album A",
+			DurationMS:       123000,
+			TrackSpotifyURL:  "https://open.spotify.com/track/track-1",
+		},
+	})
+	if err != nil {
+		t.Fatalf("second SaveSharded: %v", err)
+	}
+	if added != 0 {
+		t.Fatalf("second SaveSharded added = %d, want 0 for richer duplicate rewrite", added)
+	}
+
+	loaded, err := Load(filepath.Join(baseDir, "2026", "2026-W11.json"))
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if loaded[0].AlbumID != "album-1" || loaded[0].ArtistSlug != "artist-a" || loaded[0].TrackSlug != "artist-a--track-a" {
+		t.Fatalf("expected richer duplicate to rewrite shard, got %+v", loaded[0])
+	}
+}
+
 func TestLoadSharded_roundtrip(t *testing.T) {
 	baseDir := t.TempDir()
 
@@ -322,6 +402,35 @@ func TestMigrateToSharded(t *testing.T) {
 	}
 	if len(loaded) != 2 {
 		t.Errorf("LoadSharded after migration: got %d plays, want 2", len(loaded))
+	}
+}
+
+func TestMigrateCanonicalSharded(t *testing.T) {
+	baseDir := t.TempDir()
+	if _, err := SaveSharded(baseDir, []models.Play{
+		{PlayedAt: "2026-03-09T10:00:00Z", TrackName: "Track A", ArtistName: "Artist A"},
+	}); err != nil {
+		t.Fatalf("SaveSharded: %v", err)
+	}
+
+	changed, err := MigrateCanonicalSharded(baseDir, func(play models.Play) models.Play {
+		play.Source = "spotify"
+		play.ArtistSlug = "artist-a"
+		return play
+	})
+	if err != nil {
+		t.Fatalf("MigrateCanonicalSharded: %v", err)
+	}
+	if !changed {
+		t.Fatal("expected canonical migration to rewrite file")
+	}
+
+	loaded, err := Load(filepath.Join(baseDir, "2026", "2026-W11.json"))
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if loaded[0].Source != "spotify" || loaded[0].ArtistSlug != "artist-a" {
+		t.Fatalf("play not canonicalized: %+v", loaded[0])
 	}
 }
 

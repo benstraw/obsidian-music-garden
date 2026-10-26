@@ -1,0 +1,123 @@
+{
+  "weekStart": "2026-02-16",
+  "weekEnd": "2026-02-22",
+  "total_plays": 6,
+  "unique_tracks": 5,
+  "unique_artists": 3,
+  "unique_albums": 3,
+  "total_minutes": 25,
+  "topArtistName": "DJ King Assassin",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5225e1e29d85e2d55ca1390e",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051745225e1e29d85e2d55ca1390e",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1785225e1e29d85e2d55ca1390e",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "dj-king-assassin",
+      "name": "DJ King Assassin",
+      "plays": 3
+    },
+    {
+      "slug": "leonard-cohen",
+      "name": "Leonard Cohen",
+      "plays": 2
+    },
+    {
+      "slug": "jid",
+      "name": "JID",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "A Thousand Kisses Deep",
+      "artist": "Leonard Cohen",
+      "artist_slug": "leonard-cohen",
+      "album": "Ten New Songs",
+      "spotify_url": "https://open.spotify.com/track/1izTPgfFEyvc0hl7uYAzGt",
+      "plays": 2
+    },
+    {
+      "name": "HEY TONY!",
+      "artist": "JID",
+      "artist_slug": "jid",
+      "album": "HEY TONY!",
+      "spotify_url": "https://open.spotify.com/track/6KTY8qMXOFKfPUXXrdm0JA",
+      "plays": 1
+    },
+    {
+      "name": "Livin the Thug Life",
+      "artist": "DJ King Assassin",
+      "artist_slug": "dj-king-assassin",
+      "album": "Thugz 4 Life (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/3SyCUl35q43Rvqfz8kCH2Q",
+      "plays": 1
+    },
+    {
+      "name": "NeWest - Extended Version",
+      "artist": "DJ King Assassin",
+      "artist_slug": "dj-king-assassin",
+      "album": "Thugz 4 Life (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/6NkhflPByzfK6SclPmmNgQ",
+      "plays": 1
+    },
+    {
+      "name": "War Gamez - Loc-01 Remix",
+      "artist": "DJ King Assassin",
+      "artist_slug": "dj-king-assassin",
+      "album": "Thugz 4 Life (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/6ao3aNeqSN1QEwxh9oJhuZ",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 4
+    },
+    {
+      "slug": "g-funk",
+      "name": "G Funk",
+      "plays": 3
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 2
+    },
+    {
+      "slug": "boom-bap",
+      "name": "Boom Bap",
+      "plays": 1
+    },
+    {
+      "slug": "jazz-rap",
+      "name": "Jazz Rap",
+      "plays": 1
+    },
+    {
+      "slug": "neo-soul",
+      "name": "Neo Soul",
+      "plays": 1
+    },
+    {
+      "slug": "southern-hip-hop",
+      "name": "Southern Hip Hop",
+      "plays": 1
+    }
+  ]
+}

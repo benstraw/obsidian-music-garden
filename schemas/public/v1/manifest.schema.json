@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://benstrawbridge.com/schemas/music-garden/public/v1/manifest.schema.json",
+  "title": "Music Garden public-v1 manifest",
+  "type": "object",
+  "required": ["contract", "contract_version", "privacy", "timezone", "dataset_sha256", "counts", "files"],
+  "properties": {
+    "contract": { "const": "music-garden.public" },
+    "contract_version": { "type": "string", "pattern": "^1\\.[0-9]+\\.[0-9]+$" },
+    "privacy": { "const": "derived-only" },
+    "timezone": { "type": "string", "minLength": 1 },
+    "published_through": { "type": "string", "format": "date" },
+    "source_revision": { "type": "string" },
+    "dataset_sha256": { "$ref": "#/$defs/hash" },
+    "counts": { "$ref": "#/$defs/counts" },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "sha256"],
+        "properties": { "path": { "type": "string" }, "sha256": { "$ref": "#/$defs/hash" } },
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "hash": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "counts": {
+      "type": "object",
+      "required": ["artist_count", "indexed_artists", "indexed_genres", "listened_releases", "weekly_pages"],
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    }
+  },
+  "additionalProperties": false
+}

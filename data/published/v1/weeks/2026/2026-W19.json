@@ -1,0 +1,276 @@
+{
+  "weekStart": "2026-05-04",
+  "weekEnd": "2026-05-10",
+  "total_plays": 33,
+  "unique_tracks": 30,
+  "unique_artists": 25,
+  "unique_albums": 27,
+  "total_minutes": 131,
+  "topArtistName": "Allison Russell",
+  "top_artists": [
+    {
+      "slug": "allison-russell",
+      "name": "Allison Russell",
+      "plays": 3
+    },
+    {
+      "slug": "nada-surf",
+      "name": "Nada Surf",
+      "plays": 3
+    },
+    {
+      "slug": "roger-glenn",
+      "name": "Roger Glenn",
+      "plays": 3
+    },
+    {
+      "slug": "maxence-cyrin",
+      "name": "Maxence Cyrin",
+      "plays": 2
+    },
+    {
+      "slug": "pixies",
+      "name": "Pixies",
+      "plays": 2
+    },
+    {
+      "slug": "alice-donut",
+      "name": "Alice Donut",
+      "plays": 1
+    },
+    {
+      "slug": "asphalt-orchestra",
+      "name": "Asphalt Orchestra",
+      "plays": 1
+    },
+    {
+      "slug": "bandit",
+      "name": "Bandit",
+      "plays": 1
+    },
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 1
+    },
+    {
+      "slug": "charlotte-cornfield",
+      "name": "Charlotte Cornfield",
+      "plays": 1
+    },
+    {
+      "slug": "eminem",
+      "name": "Eminem",
+      "plays": 1
+    },
+    {
+      "slug": "joy-oladokun",
+      "name": "Joy Oladokun",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Where Is My Mind",
+      "artist": "Nada Surf",
+      "artist_slug": "nada-surf",
+      "album": "Where Is My Mind",
+      "spotify_url": "https://open.spotify.com/track/2AsIm3Hr3GS4P4nntYSs2Q",
+      "plays": 3
+    },
+    {
+      "name": "Where Is My Mind? - 2007 Remaster",
+      "artist": "Pixies",
+      "artist_slug": "pixies",
+      "album": "Surfer Rosa (2007 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
+      "plays": 2
+    },
+    {
+      "name": "A Night of Love",
+      "artist": "Roger Glenn",
+      "artist_slug": "roger-glenn",
+      "album": "My Latin Heart",
+      "spotify_url": "https://open.spotify.com/track/2JZZu3hK7xieyT4ZhyI8Ei",
+      "plays": 1
+    },
+    {
+      "name": "Brother Marshall",
+      "artist": "Roger Glenn",
+      "artist_slug": "roger-glenn",
+      "album": "My Latin Heart",
+      "spotify_url": "https://open.spotify.com/track/4vBcNtrSXdQGbMv5Njahdr",
+      "plays": 1
+    },
+    {
+      "name": "Cal's Guajira",
+      "artist": "Roger Glenn",
+      "artist_slug": "roger-glenn",
+      "album": "My Latin Heart",
+      "spotify_url": "https://open.spotify.com/track/4VkqXzYMxSGNoqe1Lv8EWw",
+      "plays": 1
+    },
+    {
+      "name": "Don't Play No Game That I Can't Win",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Hot Sauce Committee (Pt. 2)",
+      "spotify_url": "https://open.spotify.com/track/7BKEIdzH1EuGoDxhyxHL9V",
+      "plays": 1
+    },
+    {
+      "name": "Fuel",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce)",
+      "spotify_url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi",
+      "plays": 1
+    },
+    {
+      "name": "Horses and Divorces (feat. Miranda Lambert)",
+      "artist": "Kacey Musgraves",
+      "artist_slug": "kacey-musgraves",
+      "album": "Middle of Nowhere",
+      "spotify_url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7",
+      "plays": 1
+    },
+    {
+      "name": "Hurts Like Hell",
+      "artist": "Charlotte Cornfield",
+      "artist_slug": "charlotte-cornfield",
+      "album": "Hurts Like Hell",
+      "spotify_url": "https://open.spotify.com/track/3eKs4PUnfFhMtr1dd0SJf7",
+      "plays": 1
+    },
+    {
+      "name": "King Kunta",
+      "artist": "Kendrick Lamar",
+      "artist_slug": "kendrick-lamar",
+      "album": "To Pimp A Butterfly",
+      "spotify_url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O",
+      "plays": 1
+    },
+    {
+      "name": "Nightflyer",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "Outside Child",
+      "spotify_url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ",
+      "plays": 1
+    },
+    {
+      "name": "No Springtime (ft. Joy Oladokun \u0026 Julie Williams)",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "No Springtime (ft. Joy Oladokun \u0026 Julie Williams)",
+      "spotify_url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg",
+      "plays": 1
+    },
+    {
+      "name": "Nothing Comes Easy",
+      "artist": "Joy Oladokun",
+      "artist_slug": "joy-oladokun",
+      "album": "Nothing Comes Easy",
+      "spotify_url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W",
+      "plays": 1
+    },
+    {
+      "name": "One Time 4 Your Mind",
+      "artist": "Nas",
+      "artist_slug": "nas",
+      "album": "Illmatic",
+      "spotify_url": "https://open.spotify.com/track/3p50PUgtBHM6rwUuD3RfFV",
+      "plays": 1
+    },
+    {
+      "name": "Rainbows",
+      "artist": "Allison Russell",
+      "artist_slug": "allison-russell",
+      "album": "No Springtime (ft. Joy Oladokun \u0026 Julie Williams)",
+      "spotify_url": "https://open.spotify.com/track/39e8Dk9DdHrRrHMoZxCnPl",
+      "plays": 1
+    },
+    {
+      "name": "Sound The Horns",
+      "artist": "Wu-Tang Clan",
+      "artist_slug": "wu-tang-clan",
+      "album": "Chamber Music",
+      "spotify_url": "https://open.spotify.com/track/234QpD9ilHoJjnhCVd2fOW",
+      "plays": 1
+    },
+    {
+      "name": "Superlover",
+      "artist": "Luther Dickinson",
+      "artist_slug": "luther-dickinson",
+      "album": "Solstice",
+      "spotify_url": "https://open.spotify.com/track/4AXju6YC61jufxaLjhEVMP",
+      "plays": 1
+    },
+    {
+      "name": "Thin Line",
+      "artist": "Jurassic 5",
+      "artist_slug": "jurassic-5",
+      "album": "Power In Numbers",
+      "spotify_url": "https://open.spotify.com/track/7aNPJQpHbuJSeWUD0Pay65",
+      "plays": 1
+    },
+    {
+      "name": "Things Done Changed - 2005 Remaster",
+      "artist": "The Notorious B.I.G.",
+      "artist_slug": "the-notorious-b-i-g",
+      "album": "Ready to Die (The Remaster)",
+      "spotify_url": "https://open.spotify.com/track/7hdOchAKFm6FwzyevcQ56y",
+      "plays": 1
+    },
+    {
+      "name": "Where Is My Mind",
+      "artist": "The Coral Sea",
+      "artist_slug": "the-coral-sea",
+      "album": "Where Is My Mind",
+      "spotify_url": "https://open.spotify.com/track/4yOv1r66Kn6T4ndC1pHEmz",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 7
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 4
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 4
+    },
+    {
+      "slug": "gangster-rap",
+      "name": "Gangster Rap",
+      "plays": 2
+    },
+    {
+      "slug": "hardcore-hip-hop",
+      "name": "Hardcore Hip Hop",
+      "plays": 1
+    },
+    {
+      "slug": "rap",
+      "name": "Rap",
+      "plays": 1
+    },
+    {
+      "slug": "rap-rock",
+      "name": "Rap Rock",
+      "plays": 1
+    },
+    {
+      "slug": "west-coast-hip-hop",
+      "name": "West Coast Hip Hop",
+      "plays": 1
+    }
+  ]
+}

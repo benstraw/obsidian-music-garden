@@ -1,1243 +1,2541 @@
 [
   {
     "played_at": "2026-05-16T23:55:38.196Z",
+    "source": "spotify",
     "track_id": "5ObD7TOKSTsVKLW0ZvP0ym",
+    "track_slug": "bud-powell--reets-and-i",
     "track_name": "Reets And I",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-2-2",
+    "album_id": "0pVhD5WODeFjaRJhDNXZ6o",
     "album_name": "The Amazing Bud Powell (Vol. 2)",
     "duration_ms": 204000,
     "track_spotify_url": "https://open.spotify.com/track/5ObD7TOKSTsVKLW0ZvP0ym"
   },
   {
     "played_at": "2026-05-16T19:10:37.140Z",
+    "source": "spotify",
     "track_id": "1Nxg4g5c4mADWxnyT7yV01",
+    "track_slug": "bud-powell--satin-doll",
     "track_name": "Satin Doll",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--bud-powell-in-paris-2",
+    "album_id": "469k6W8FJIwJctC0rHtoFP",
     "album_name": "Bud Powell In Paris",
     "duration_ms": 285000,
     "track_spotify_url": "https://open.spotify.com/track/1Nxg4g5c4mADWxnyT7yV01"
   },
   {
     "played_at": "2026-05-16T19:06:06.702Z",
+    "source": "spotify",
     "track_id": "2ttnkO0nEG4UrC8TTDgd9H",
+    "track_slug": "bud-powell--crossin-the-channel-remastered-2003-rudy-van-gelder-edition",
     "track_name": "Crossin' The Channel - Remastered 2003/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-scene-changes-the-amazing-bud-powell-vol-5-remastered-2",
+    "album_id": "1LTKBZNFRu4f6dnlJuH3wh",
     "album_name": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
     "duration_ms": 211306,
     "track_spotify_url": "https://open.spotify.com/track/2ttnkO0nEG4UrC8TTDgd9H"
   },
   {
     "played_at": "2026-05-16T18:55:37.808Z",
+    "source": "spotify",
     "track_id": "1bDjDFudLToZEB871UJCMW",
+    "track_slug": "bud-powell--over-the-rainbow",
     "track_name": "Over The Rainbow",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell",
+    "album_id": "6zmiY7rh11iF7Bp7Z9zcHp",
     "album_name": "The Amazing Bud Powell",
+    "release_musicbrainz_id": "bfe29cd3-2577-4237-9b34-fe166e04cb18",
+    "release_group_musicbrainz_id": "34887975-3564-3094-831f-2476fe3b64e9",
     "duration_ms": 180268,
     "track_spotify_url": "https://open.spotify.com/track/1bDjDFudLToZEB871UJCMW"
   },
   {
     "played_at": "2026-05-16T18:52:37.635Z",
+    "source": "spotify",
     "track_id": "2AqoA5iNgWBnHfaZsErN9V",
+    "track_slug": "bud-powell--autumn-in-new-york",
     "track_name": "Autumn In New York",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-2-2",
+    "album_id": "0pVhD5WODeFjaRJhDNXZ6o",
     "album_name": "The Amazing Bud Powell (Vol. 2)",
     "duration_ms": 176000,
     "track_spotify_url": "https://open.spotify.com/track/2AqoA5iNgWBnHfaZsErN9V"
   },
   {
     "played_at": "2026-05-16T18:49:39.273Z",
+    "source": "spotify",
     "track_id": "0GKwaIRfnJj7uWvLIzaoql",
+    "track_slug": "bud-powell--dear-old-stockholm",
     "track_name": "Dear Old Stockholm",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--bud-powell-in-paris-2",
+    "album_id": "469k6W8FJIwJctC0rHtoFP",
     "album_name": "Bud Powell In Paris",
     "duration_ms": 233000,
     "track_spotify_url": "https://open.spotify.com/track/0GKwaIRfnJj7uWvLIzaoql"
   },
   {
     "played_at": "2026-05-16T18:47:09.875Z",
+    "source": "spotify",
     "track_id": "7jbsEi74fYuEMeN2w4jlVJ",
+    "track_slug": "bud-powell--duid-deed-remastered-2003-rudy-van-gelder-edition",
     "track_name": "Duid Deed - Remastered 2003/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-scene-changes-the-amazing-bud-powell-vol-5-remastered-2",
+    "album_id": "1LTKBZNFRu4f6dnlJuH3wh",
     "album_name": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
     "duration_ms": 308213,
     "track_spotify_url": "https://open.spotify.com/track/7jbsEi74fYuEMeN2w4jlVJ"
   },
   {
     "played_at": "2026-05-16T18:40:37.002Z",
+    "source": "spotify",
     "track_id": "4Kj2xLNaqnbA99wWl9dnrR",
+    "track_slug": "bud-powell--collard-greens-and-black-eyed-peas-rudy-van-gelder-24-bit-mastering-1998-digital-remaster",
     "track_name": "Collard Greens And Black-Eyed Peas - Rudy Van Gelder/24 Bit Mastering/1998 Digital Remaster",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-2-2001-rvg-edition",
+    "album_id": "0g89pAOtXDdr9HfO79s5uM",
     "album_name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
     "duration_ms": 184413,
     "track_spotify_url": "https://open.spotify.com/track/4Kj2xLNaqnbA99wWl9dnrR"
   },
   {
     "played_at": "2026-05-16T18:37:37.173Z",
+    "source": "spotify",
     "track_id": "1572ZUUYhoyc7yAL2rHsZC",
+    "track_slug": "bud-powell--i-want-to-be-happy",
     "track_name": "I Want To Be Happy",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-2-2",
+    "album_id": "0pVhD5WODeFjaRJhDNXZ6o",
     "album_name": "The Amazing Bud Powell (Vol. 2)",
     "duration_ms": 175000,
     "track_spotify_url": "https://open.spotify.com/track/1572ZUUYhoyc7yAL2rHsZC"
   },
   {
     "played_at": "2026-05-16T18:34:36.680Z",
+    "source": "spotify",
     "track_id": "3s5WerS0heEMyikkSgwUqJ",
+    "track_slug": "bud-powell--there-will-never-be-another-you",
     "track_name": "There Will Never Be Another You",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--a-portrait-of-thelonious-2",
+    "album_id": "6Dya55ueAQPfzMRdDgL1Zn",
     "album_name": "A Portrait of Thelonious",
     "duration_ms": 257093,
     "track_spotify_url": "https://open.spotify.com/track/3s5WerS0heEMyikkSgwUqJ"
   },
   {
     "played_at": "2026-05-16T18:30:07.028Z",
+    "source": "spotify",
     "track_id": "1deQvPN0tVQj494avGcimK",
+    "track_slug": "bud-powell--borderick-remastered-2003-rudy-van-gelder-edition",
     "track_name": "Borderick - Remastered 2003/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-scene-changes-the-amazing-bud-powell-vol-5-remastered-2",
+    "album_id": "1LTKBZNFRu4f6dnlJuH3wh",
     "album_name": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
     "duration_ms": 120640,
     "track_spotify_url": "https://open.spotify.com/track/1deQvPN0tVQj494avGcimK"
   },
   {
     "played_at": "2026-05-16T18:28:09.668Z",
+    "source": "spotify",
     "track_id": "1mgNDNYpEc2paatwZ5vXHW",
+    "track_slug": "charlie-parker--lullaby-of-birdland-live-at-massey-hall-1953",
     "track_name": "Lullaby Of Birdland - Live At Massey Hall / 1953",
+    "artist_slug": "charlie-parker",
     "artist_id": "4Ww5mwS7BWYjoZTUIrMHfC",
     "artist_name": "Charlie Parker",
     "artist_spotify_url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC",
+    "artist_musicbrainz_id": "c7356af9-9ea6-4a78-a55b-c73775716312",
+    "additional_artists": [
+      {
+        "id": "5RzjqfPS0Bu4bUMkyNNDpn",
+        "name": "Dizzy Gillespie",
+        "spotify_url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+      },
+      {
+        "id": "570vCzcespB48HIQyTbDO6",
+        "name": "Bud Powell",
+        "spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+      },
+      {
+        "id": "1W8TbFzNS15VwsempfY12H",
+        "name": "Charles Mingus",
+        "spotify_url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+      },
+      {
+        "id": "6jrlNnS5B830kpi40j3S6g",
+        "name": "Max Roach",
+        "spotify_url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+      }
+    ],
+    "release_slug": "charlie-parker--hot-house-the-complete-jazz-at-massey-hall-recordings-live-at-massey-hall-1953-2",
+    "album_id": "5jmcPsUAOIz6XUzxph0aWZ",
     "album_name": "Hot House: The Complete Jazz At Massey Hall Recordings (Live At Massey Hall / 1953)",
     "duration_ms": 148790,
     "track_spotify_url": "https://open.spotify.com/track/1mgNDNYpEc2paatwZ5vXHW"
   },
   {
     "played_at": "2026-05-16T18:25:38.440Z",
+    "source": "spotify",
     "track_id": "283A25EB0DjHnWNwpYlyVb",
+    "track_slug": "bud-powell--body-and-soul",
     "track_name": "Body And Soul",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--piano-solos-2",
+    "album_id": "3ggrNedIGjxfPTPDRZ2xzV",
     "album_name": "Piano Solos",
     "duration_ms": 201613,
     "track_spotify_url": "https://open.spotify.com/track/283A25EB0DjHnWNwpYlyVb"
   },
   {
     "played_at": "2026-05-16T18:22:07.032Z",
+    "source": "spotify",
     "track_id": "0WAHg4EsMhfyetZGG98vH5",
+    "track_slug": "bud-powell--sure-thing",
     "track_name": "Sure Thing",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-2-2",
+    "album_id": "0pVhD5WODeFjaRJhDNXZ6o",
     "album_name": "The Amazing Bud Powell (Vol. 2)",
     "duration_ms": 163000,
     "track_spotify_url": "https://open.spotify.com/track/0WAHg4EsMhfyetZGG98vH5"
   },
   {
     "played_at": "2026-05-16T18:19:36.565Z",
+    "source": "spotify",
     "track_id": "1zXJt4kNA76NkBGeqZt52M",
+    "track_slug": "bud-powell--danceland-remastered-2003-rudy-van-gelder-edition",
     "track_name": "Danceland - Remastered 2003/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-scene-changes-the-amazing-bud-powell-vol-5-remastered-2",
+    "album_id": "1LTKBZNFRu4f6dnlJuH3wh",
     "album_name": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
     "duration_ms": 224173,
     "track_spotify_url": "https://open.spotify.com/track/1zXJt4kNA76NkBGeqZt52M"
   },
   {
     "played_at": "2026-05-16T18:17:06.744Z",
+    "source": "spotify",
     "track_id": "3kYXHUOoUct1FxTbTGU2Oh",
+    "track_slug": "bud-powell--wail-remastered-1998-rudy-van-gelder-edition",
     "track_name": "Wail - Remastered 1998/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-1-the-rudy-van-gelder-edition",
+    "album_id": "4JZpydaQoCZY03mYcPgsaS",
     "album_name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
     "duration_ms": 186280,
     "track_spotify_url": "https://open.spotify.com/track/3kYXHUOoUct1FxTbTGU2Oh"
   },
   {
     "played_at": "2026-05-16T18:12:41.897Z",
+    "source": "spotify",
     "track_id": "1gVNKswHJISJ5y0ocAdvlv",
+    "track_slug": "bud-powell-trio--a-night-in-tunisia",
     "track_name": "A Night In Tunisia",
+    "artist_slug": "bud-powell-trio",
     "artist_id": "7il5MMdORy6JoYnqxFPKqE",
     "artist_name": "Bud Powell Trio",
     "artist_spotify_url": "https://open.spotify.com/artist/7il5MMdORy6JoYnqxFPKqE",
+    "artist_musicbrainz_id": "98735b08-414c-48f5-b2d5-d169ceedd2e8",
+    "release_slug": "bud-powell--the-amazing-bud-powell",
+    "album_id": "6zmiY7rh11iF7Bp7Z9zcHp",
     "album_name": "The Amazing Bud Powell",
+    "release_musicbrainz_id": "bfe29cd3-2577-4237-9b34-fe166e04cb18",
+    "release_group_musicbrainz_id": "34887975-3564-3094-831f-2476fe3b64e9",
     "duration_ms": 255274,
     "track_spotify_url": "https://open.spotify.com/track/1gVNKswHJISJ5y0ocAdvlv"
   },
   {
     "played_at": "2026-05-16T18:08:38.439Z",
+    "source": "spotify",
     "track_id": "1CajEAyHmLTOfdCVtWKP91",
+    "track_slug": "bud-powell--down-with-it-remastered-2003-rudy-van-gelder-edition",
     "track_name": "Down With It - Remastered 2003/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-scene-changes-the-amazing-bud-powell-vol-5-remastered-2",
+    "album_id": "1LTKBZNFRu4f6dnlJuH3wh",
     "album_name": "The Scene Changes: The Amazing Bud Powell, Vol. 5 (Remastered)",
     "duration_ms": 241026,
     "track_spotify_url": "https://open.spotify.com/track/1CajEAyHmLTOfdCVtWKP91"
   },
   {
     "played_at": "2026-05-16T18:04:48.028Z",
+    "source": "spotify",
     "track_id": "5ahJvBgI9z5PxSWuCCh1N3",
+    "track_slug": "bud-powell--it-could-happen-to-you-rudy-van-gelder-edition-remastered-1998",
     "track_name": "It Could Happen To You - Rudy Van Gelder Edition / Remastered 1998",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-1-the-rudy-van-gelder-edition",
+    "album_id": "4JZpydaQoCZY03mYcPgsaS",
     "album_name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
     "duration_ms": 196586,
     "track_spotify_url": "https://open.spotify.com/track/5ahJvBgI9z5PxSWuCCh1N3"
   },
   {
     "played_at": "2026-05-16T18:02:08.732Z",
+    "source": "spotify",
     "track_id": "0nWGNAQG3bdcBTxRjEHsW8",
+    "track_slug": "dexter-gordon--willow-weep-for-me",
     "track_name": "Willow Weep For Me",
+    "artist_slug": "dexter-gordon",
     "artist_id": "3NUsiT2JSyaWAnWaXxDzhQ",
     "artist_name": "Dexter Gordon",
     "artist_spotify_url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ",
+    "additional_artists": [
+      {
+        "id": "570vCzcespB48HIQyTbDO6",
+        "name": "Bud Powell",
+        "spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+      },
+      {
+        "id": "3AMS24LJBwItCKdYcqydsH",
+        "name": "Pierre Michelot",
+        "spotify_url": "https://open.spotify.com/artist/3AMS24LJBwItCKdYcqydsH"
+      },
+      {
+        "id": "7xwlN7fhoOwNgDmRTwYZOa",
+        "name": "Kenny Clarke",
+        "spotify_url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+      }
+    ],
+    "release_slug": "dexter-gordon--ballads-2",
+    "album_id": "5lzhBDGZKhGKFFVlMOKR0K",
     "album_name": "Ballads",
     "duration_ms": 528640,
     "track_spotify_url": "https://open.spotify.com/track/0nWGNAQG3bdcBTxRjEHsW8"
   },
   {
     "played_at": "2026-05-16T17:52:39.996Z",
+    "source": "spotify",
     "track_id": "3QNtG1aqO8Pe2QZaTwrO9m",
+    "track_slug": "charlie-parker--i-ve-got-you-under-my-skin-live-at-massey-hall-1953",
     "track_name": "I’ve Got You Under My Skin - Live At Massey Hall / 1953",
+    "artist_slug": "charlie-parker",
     "artist_id": "4Ww5mwS7BWYjoZTUIrMHfC",
     "artist_name": "Charlie Parker",
     "artist_spotify_url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC",
+    "artist_musicbrainz_id": "c7356af9-9ea6-4a78-a55b-c73775716312",
+    "additional_artists": [
+      {
+        "id": "5RzjqfPS0Bu4bUMkyNNDpn",
+        "name": "Dizzy Gillespie",
+        "spotify_url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+      },
+      {
+        "id": "570vCzcespB48HIQyTbDO6",
+        "name": "Bud Powell",
+        "spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+      },
+      {
+        "id": "1W8TbFzNS15VwsempfY12H",
+        "name": "Charles Mingus",
+        "spotify_url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+      },
+      {
+        "id": "6jrlNnS5B830kpi40j3S6g",
+        "name": "Max Roach",
+        "spotify_url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+      }
+    ],
+    "release_slug": "charlie-parker--hot-house-the-complete-jazz-at-massey-hall-recordings-live-at-massey-hall-1953-2",
+    "album_id": "5jmcPsUAOIz6XUzxph0aWZ",
     "album_name": "Hot House: The Complete Jazz At Massey Hall Recordings (Live At Massey Hall / 1953)",
     "duration_ms": 175342,
     "track_spotify_url": "https://open.spotify.com/track/3QNtG1aqO8Pe2QZaTwrO9m"
   },
   {
     "played_at": "2026-05-16T17:49:37.048Z",
+    "source": "spotify",
     "track_id": "0oDgc718NJn7CyiClFRExR",
+    "track_slug": "bud-powell--52nd-street-theme-remastered-1998-rudy-van-gelder-edition",
     "track_name": "52nd Street Theme - Remastered 1998/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-1-the-rudy-van-gelder-edition",
+    "album_id": "4JZpydaQoCZY03mYcPgsaS",
     "album_name": "The Amazing Bud Powell: Vol. 1 (The Rudy Van Gelder Edition)",
     "duration_ms": 169880,
     "track_spotify_url": "https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR"
   },
   {
     "played_at": "2026-05-16T17:46:38.420Z",
+    "source": "spotify",
     "track_id": "1zTaYCb8kSKCgeNdkY2F2k",
+    "track_slug": "bud-powell--i-ll-keep-loving-you",
     "track_name": "I'll Keep Loving You",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--compact-jazz",
+    "album_id": "6WNrHe4TQryh710dhhs3sy",
     "album_name": "Compact Jazz",
+    "release_musicbrainz_id": "766cfd27-2cf5-4b87-8938-681e70147402",
+    "release_group_musicbrainz_id": "7aca7402-ea6a-3398-b89a-b92bb5032ad5",
     "duration_ms": 160733,
     "track_spotify_url": "https://open.spotify.com/track/1zTaYCb8kSKCgeNdkY2F2k"
   },
   {
     "played_at": "2026-05-16T17:44:07.332Z",
+    "source": "spotify",
     "track_id": "6wvrJHXG6Ibspw8u9UJfpO",
+    "track_slug": "charlie-parker--embraceable-you-live-at-massey-hall-1953",
     "track_name": "Embraceable You - Live At Massey Hall / 1953",
+    "artist_slug": "charlie-parker",
     "artist_id": "4Ww5mwS7BWYjoZTUIrMHfC",
     "artist_name": "Charlie Parker",
     "artist_spotify_url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC",
+    "artist_musicbrainz_id": "c7356af9-9ea6-4a78-a55b-c73775716312",
+    "additional_artists": [
+      {
+        "id": "5RzjqfPS0Bu4bUMkyNNDpn",
+        "name": "Dizzy Gillespie",
+        "spotify_url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+      },
+      {
+        "id": "570vCzcespB48HIQyTbDO6",
+        "name": "Bud Powell",
+        "spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+      },
+      {
+        "id": "1W8TbFzNS15VwsempfY12H",
+        "name": "Charles Mingus",
+        "spotify_url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+      },
+      {
+        "id": "6jrlNnS5B830kpi40j3S6g",
+        "name": "Max Roach",
+        "spotify_url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+      }
+    ],
+    "release_slug": "charlie-parker--hot-house-the-complete-jazz-at-massey-hall-recordings-live-at-massey-hall-1953-2",
+    "album_id": "5jmcPsUAOIz6XUzxph0aWZ",
     "album_name": "Hot House: The Complete Jazz At Massey Hall Recordings (Live At Massey Hall / 1953)",
     "duration_ms": 263033,
     "track_spotify_url": "https://open.spotify.com/track/6wvrJHXG6Ibspw8u9UJfpO"
   },
   {
     "played_at": "2026-05-16T17:39:44.461Z",
+    "source": "spotify",
     "track_id": "2Q9JCcBc3HFIwXouooW1Y4",
+    "track_slug": "bud-powell--buster-rides-again-remastered-1999-rudy-van-gelder-edition",
     "track_name": "Buster Rides Again - Remastered 1999/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--time-waits-the-amazing-bud-powell-vol-4-2",
+    "album_id": "4GxQznOnt2L9ZgyBJXaqGH",
     "album_name": "Time Waits: The Amazing Bud Powell, Vol. 4",
     "duration_ms": 334480,
     "track_spotify_url": "https://open.spotify.com/track/2Q9JCcBc3HFIwXouooW1Y4"
   },
   {
     "played_at": "2026-05-16T17:34:10.281Z",
+    "source": "spotify",
     "track_id": "3LKa5OHbWgDcj8ApQvteHE",
+    "track_slug": "bud-powell--celia",
     "track_name": "Celia",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--piano-2",
+    "album_id": "5u94aLD2tasW55YG9vWQCv",
     "album_name": "Piano",
     "duration_ms": 180306,
     "track_spotify_url": "https://open.spotify.com/track/3LKa5OHbWgDcj8ApQvteHE"
   },
   {
     "played_at": "2026-05-16T17:31:11.936Z",
+    "source": "spotify",
     "track_id": "4T9Izk2X2PH4cjmSDNEPQ3",
+    "track_slug": "bud-powell--ornithology",
     "track_name": "Ornithology",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell",
+    "album_id": "6zmiY7rh11iF7Bp7Z9zcHp",
     "album_name": "The Amazing Bud Powell",
+    "release_musicbrainz_id": "bfe29cd3-2577-4237-9b34-fe166e04cb18",
+    "release_group_musicbrainz_id": "34887975-3564-3094-831f-2476fe3b64e9",
     "duration_ms": 142613,
     "track_spotify_url": "https://open.spotify.com/track/4T9Izk2X2PH4cjmSDNEPQ3"
   },
   {
     "played_at": "2026-05-16T17:28:39.646Z",
+    "source": "spotify",
     "track_id": "3xsop8PrXeM1LHYn7d2Avy",
+    "track_slug": "bud-powell--i-ll-keep-loving-you",
     "track_name": "I'll Keep Loving You",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--piano-2",
+    "album_id": "5u94aLD2tasW55YG9vWQCv",
     "album_name": "Piano",
     "duration_ms": 162533,
     "track_spotify_url": "https://open.spotify.com/track/3xsop8PrXeM1LHYn7d2Avy"
   },
   {
     "played_at": "2026-05-16T17:26:27.324Z",
+    "source": "spotify",
     "track_id": "5JyG1qNpWmCKXiEqPUdOXK",
+    "track_slug": "bud-powell--blues-in-the-closet",
     "track_name": "Blues In The Closet",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--blues-in-the-closet-2",
+    "album_id": "3Cc05AU0t3tZjWhYrYsK2V",
     "album_name": "Blues In The Closet",
     "duration_ms": 180533,
     "track_spotify_url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
   },
   {
     "played_at": "2026-05-16T17:22:47.324Z",
+    "source": "spotify",
     "track_id": "6GzIxYLosb0IlS1bNtu0lO",
+    "track_slug": "bud-powell--bouncin-with-bud",
     "track_name": "Bouncin' With Bud",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell",
+    "album_id": "6zmiY7rh11iF7Bp7Z9zcHp",
     "album_name": "The Amazing Bud Powell",
+    "release_musicbrainz_id": "bfe29cd3-2577-4237-9b34-fe166e04cb18",
+    "release_group_musicbrainz_id": "34887975-3564-3094-831f-2476fe3b64e9",
     "duration_ms": 183148,
     "track_spotify_url": "https://open.spotify.com/track/6GzIxYLosb0IlS1bNtu0lO"
   },
   {
     "played_at": "2026-05-16T17:19:41.830Z",
+    "source": "spotify",
     "track_id": "7JWsnxzGX5kKOgSBkpNHcC",
+    "track_slug": "bud-powell--cheryl",
     "track_name": "Cheryl",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "additional_artists": [
+      {
+        "id": "0rGx2MyrweZb5qPiUiIprQ",
+        "name": "Dexter Gordon Quintet",
+        "spotify_url": "https://open.spotify.com/artist/0rGx2MyrweZb5qPiUiIprQ"
+      }
+    ],
+    "release_slug": "bud-powell--mad-bebop-2",
+    "album_id": "3UrispBEfmgpZKHYHPnW5B",
     "album_name": "Mad Bebop",
     "duration_ms": 179933,
     "track_spotify_url": "https://open.spotify.com/track/7JWsnxzGX5kKOgSBkpNHcC"
   },
   {
     "played_at": "2026-05-16T17:16:38.378Z",
+    "source": "spotify",
     "track_id": "7pNfEYVT7Sfs9PDPIuzusc",
+    "track_slug": "bud-powell--cleopatra-s-dream-remastered-2003-rudy-van-gelder-edition",
     "track_name": "Cleopatra's Dream - Remastered 2003/Rudy Van Gelder Edition",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-very-best",
+    "album_id": "2sg78j42XYC3YjpbY2KrwR",
     "album_name": "The Very Best",
+    "release_musicbrainz_id": "c9573717-6157-471e-b843-5be85a44f06b",
+    "release_group_musicbrainz_id": "e48db08e-a924-3e5f-a6f0-39466c2f6360",
     "duration_ms": 263426,
     "track_spotify_url": "https://open.spotify.com/track/7pNfEYVT7Sfs9PDPIuzusc"
   },
   {
     "played_at": "2026-05-16T17:12:08.340Z",
+    "source": "spotify",
     "track_id": "2uhe5PssRumOJN6jDz2MYJ",
+    "track_slug": "bud-powell--un-poco-loco",
     "track_name": "Un Poco Loco",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell",
+    "album_id": "6zmiY7rh11iF7Bp7Z9zcHp",
     "album_name": "The Amazing Bud Powell",
+    "release_musicbrainz_id": "bfe29cd3-2577-4237-9b34-fe166e04cb18",
+    "release_group_musicbrainz_id": "34887975-3564-3094-831f-2476fe3b64e9",
     "duration_ms": 284815,
     "track_spotify_url": "https://open.spotify.com/track/2uhe5PssRumOJN6jDz2MYJ"
   },
   {
     "played_at": "2026-05-16T17:07:38.812Z",
+    "source": "spotify",
     "track_id": "5ik210SniDcr9HKBAf1MD8",
+    "track_slug": "bud-powell--you-go-to-my-head",
     "track_name": "You Go To My Head",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell",
+    "album_id": "6zmiY7rh11iF7Bp7Z9zcHp",
     "album_name": "The Amazing Bud Powell",
+    "release_musicbrainz_id": "bfe29cd3-2577-4237-9b34-fe166e04cb18",
+    "release_group_musicbrainz_id": "34887975-3564-3094-831f-2476fe3b64e9",
     "duration_ms": 196353,
     "track_spotify_url": "https://open.spotify.com/track/5ik210SniDcr9HKBAf1MD8"
   },
   {
     "played_at": "2026-05-16T17:04:07.014Z",
+    "source": "spotify",
     "track_id": "5Q2PlU3jI4z7dYWJvpW4x9",
+    "track_slug": "bud-powell--polka-dots-and-moonbeams",
     "track_name": "Polka Dots And Moonbeams",
+    "artist_slug": "bud-powell",
     "artist_id": "570vCzcespB48HIQyTbDO6",
     "artist_name": "Bud Powell",
     "artist_spotify_url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6",
+    "artist_musicbrainz_id": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
+    "release_slug": "bud-powell--the-amazing-bud-powell-vol-2-2",
+    "album_id": "0pVhD5WODeFjaRJhDNXZ6o",
     "album_name": "The Amazing Bud Powell (Vol. 2)",
     "duration_ms": 246000,
     "track_spotify_url": "https://open.spotify.com/track/5Q2PlU3jI4z7dYWJvpW4x9"
   },
   {
     "played_at": "2026-05-14T23:52:48.427Z",
+    "source": "spotify",
     "track_id": "4SbAXtlOJ0eCL0XwFVi0Ij",
+    "track_slug": "robert-schumann--kinderszenen-op-15-vii-träumerei",
     "track_name": "Kinderszenen, Op. 15: VII. Träumerei",
+    "artist_slug": "robert-schumann",
     "artist_id": "2UqjDAXnDxejEyE0CzfUrZ",
     "artist_name": "Robert Schumann",
     "artist_spotify_url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ",
+    "artist_musicbrainz_id": "3cd3882c-00f8-4362-a0c2-ad89ed248533",
+    "additional_artists": [
+      {
+        "id": "66MvLAvLznk5UOvASVGjk4",
+        "name": "Martha Argerich",
+        "spotify_url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+      }
+    ],
+    "release_slug": "robert-schumann--schumann-kinderszenen-kreisleriana",
+    "album_id": "6sxH5yHob34qbhbYjYWjsX",
     "album_name": "Schumann: Kinderszenen; Kreisleriana",
     "duration_ms": 175440,
     "track_spotify_url": "https://open.spotify.com/track/4SbAXtlOJ0eCL0XwFVi0Ij"
   },
   {
     "played_at": "2026-05-14T20:28:00.139Z",
+    "source": "spotify",
     "track_id": "4ObQ0m7VUtrgdEwpFeCKua",
+    "track_slug": "sergei-rachmaninoff--12-songs-op-21-v-lilacs-transcr-rachmaninoff-for-solo-piano",
     "track_name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
+    "artist_slug": "sergei-rachmaninoff",
     "artist_id": "0Kekt6CKSo0m5mivKcoH51",
     "artist_name": "Sergei Rachmaninoff",
     "artist_spotify_url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51",
+    "additional_artists": [
+      {
+        "id": "79gBfLMlUJNdcXv1nc33oK",
+        "name": "Sergei Babayan",
+        "spotify_url": "https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK"
+      }
+    ],
+    "release_slug": "sergei-rachmaninoff--rachmaninoff-préludes-études-tableaux-moments-musicaux",
+    "album_id": "5952RUol8Nl7Ihk1zcaUb4",
     "album_name": "Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux",
     "duration_ms": 181693,
     "track_spotify_url": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua"
   },
   {
     "played_at": "2026-05-14T20:25:00.107Z",
+    "source": "spotify",
     "track_id": "3WtLQJEmFO5QojdOsuEOGs",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-25-a-2-clav",
     "track_name": "Goldberg Variations, BWV 988: Variation 25 a 2 Clav.",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 362481,
     "track_spotify_url": "https://open.spotify.com/track/3WtLQJEmFO5QojdOsuEOGs"
   },
   {
     "played_at": "2026-05-14T20:19:00.067Z",
+    "source": "spotify",
     "track_id": "7MizXOsUcCReBdRXPx9s8V",
+    "track_slug": "glenn-gould--string-quartet-op-1-remastered",
     "track_name": "String Quartet, Op. 1 - Remastered",
+    "artist_slug": "glenn-gould",
     "artist_id": "13dkPjqmbcchm8cXjEJQeP",
     "artist_name": "Glenn Gould",
     "artist_spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP",
+    "artist_musicbrainz_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+    "additional_artists": [
+      {
+        "id": "3qYdiecmExRfLbnUyfXzyO",
+        "name": "SYMPHONIA QUARTET",
+        "spotify_url": "https://open.spotify.com/artist/3qYdiecmExRfLbnUyfXzyO"
+      }
+    ],
+    "release_slug": "glenn-gould--gould-string-quartet-op-1-gould-remastered-2",
+    "album_id": "6QDLchzHE7cRM1WLpMxOMi",
     "album_name": "Gould: String Quartet, Op. 1 (Gould Remastered)",
     "duration_ms": 2168100,
     "track_spotify_url": "https://open.spotify.com/track/7MizXOsUcCReBdRXPx9s8V"
   },
   {
     "played_at": "2026-05-14T19:43:00.311Z",
+    "source": "spotify",
     "track_id": "015jWmnyvqR07BXNWl2XjB",
+    "track_slug": "glenn-gould--three-part-inventions-sinfonias-bwv-787-801-sinfonia-no-3-in-d-major-bwv-789",
     "track_name": "Three-Part Inventions (Sinfonias), BWV 787-801: Sinfonia No. 3 in D Major, BWV 789",
+    "artist_slug": "glenn-gould",
     "artist_id": "13dkPjqmbcchm8cXjEJQeP",
     "artist_name": "Glenn Gould",
     "artist_spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP",
+    "artist_musicbrainz_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+    "release_slug": "glenn-gould--the-young-maverick-2",
+    "album_id": "18JCmaoyR6nrSHOsDzxg6B",
     "album_name": "The Young Maverick",
     "duration_ms": 61733,
     "track_spotify_url": "https://open.spotify.com/track/015jWmnyvqR07BXNWl2XjB"
   },
   {
     "played_at": "2026-05-14T19:41:31.321Z",
+    "source": "spotify",
     "track_id": "2mXVCqoNE6otHBcmRz4IHv",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-2-a-1-clav",
     "track_name": "Goldberg Variations, BWV 988: Variation 2 a 1 Clav.",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 49249,
     "track_spotify_url": "https://open.spotify.com/track/2mXVCqoNE6otHBcmRz4IHv"
   },
   {
     "played_at": "2026-05-14T19:41:00.526Z",
+    "source": "spotify",
     "track_id": "6AttfCxKkvsSCJvrsZ2sDo",
+    "track_slug": "ludwig-van-beethoven--piano-sonata-no-1-in-f-minor-op-2-no-1-iii-menuetto-allegretto",
     "track_name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: III. Menuetto. Allegretto",
+    "artist_slug": "ludwig-van-beethoven",
     "artist_id": "2wOqMjp9TyABvtHdOSOTUS",
     "artist_name": "Ludwig van Beethoven",
     "artist_spotify_url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+    "artist_musicbrainz_id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "ludwig-van-beethoven--glenn-gould-plays-beethoven-piano-sonatas-nos-1-3-5-10-12-14-15-18-23-30-32",
+    "album_id": "1TTTmdzL8E6NgrvVJ0ZPF0",
     "album_name": "Glenn Gould plays Beethoven: Piano Sonatas Nos. 1-3; 5-10; 12-14; 15-18; 23; 30-32",
     "duration_ms": 177400,
     "track_spotify_url": "https://open.spotify.com/track/6AttfCxKkvsSCJvrsZ2sDo"
   },
   {
     "played_at": "2026-05-14T19:37:59.962Z",
+    "source": "spotify",
     "track_id": "172J2JqVRzR74ILc2eBvta",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-aria-da-capo",
     "track_name": "Goldberg Variations, BWV 988: Aria da capo",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 227795,
     "track_spotify_url": "https://open.spotify.com/track/172J2JqVRzR74ILc2eBvta"
   },
   {
     "played_at": "2026-05-14T19:34:00.019Z",
+    "source": "spotify",
     "track_id": "2WUUW2XRpSKT3EbmWIkViW",
+    "track_slug": "johann-sebastian-bach--partita-no-2-in-c-minor-bwv-826-v-rondeaux",
     "track_name": "Partita No. 2 in C Minor, BWV 826: V. Rondeaux",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+    "album_id": "61UszrMDhufhN6bGF7Rpb1",
     "album_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
     "duration_ms": 95773,
     "track_spotify_url": "https://open.spotify.com/track/2WUUW2XRpSKT3EbmWIkViW"
   },
   {
     "played_at": "2026-05-14T19:32:30.026Z",
+    "source": "spotify",
     "track_id": "0DabrWLd9QeXGQdzZvZXQf",
+    "track_slug": "johann-sebastian-bach--keyboard-concerto-no-2-in-e-major-bwv-1053-ii-siciliano",
     "track_name": "Keyboard Concerto No. 2 in E Major, BWV 1053: II. Siciliano",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "1iNPygduJOu0JnzasoDVLE",
+        "name": "Columbia Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+      },
+      {
+        "id": "3i9zo6m90f9mokNIXqCu0M",
+        "name": "Vladimir Golschmann",
+        "spotify_url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-piano-concertos-nos-1-5-bwv-1052-1056-and-no-7-bwv-1058",
+    "album_id": "14rnDYdD1OCvTh9lSvodMK",
     "album_name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 \u0026 No. 7 BWV 1058",
     "duration_ms": 277106,
     "track_spotify_url": "https://open.spotify.com/track/0DabrWLd9QeXGQdzZvZXQf"
   },
   {
     "played_at": "2026-05-14T19:27:59.959Z",
+    "source": "spotify",
     "track_id": "14V6VqJXHZ08pM6Fu3vUsO",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-1-a-1-clav",
     "track_name": "Goldberg Variations, BWV 988: Variation 1 a 1 Clav.",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 70388,
     "track_spotify_url": "https://open.spotify.com/track/14V6VqJXHZ08pM6Fu3vUsO"
   },
   {
     "played_at": "2026-05-14T19:26:30.155Z",
+    "source": "spotify",
     "track_id": "0eKd2VfI5EzrlgVH202x1i",
+    "track_slug": "johann-sebastian-bach--prelude-and-fugue-no-1-in-c-major-bwv-846-prelude",
     "track_name": "Prelude and Fugue No. 1 in C Major, BWV 846: Prelude",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-well-tempered-clavier-book-i-preludes-and-fugues-nos-1-8-bwv-846-853-gould-remastered-2",
+    "album_id": "5TWV4XeqZooGyA2GyF8U7f",
     "album_name": "Bach: The Well-Tempered Clavier, Book I, Preludes \u0026 Fugues Nos. 1-8, BWV 846-853 (Gould Remastered)",
     "duration_ms": 142000,
     "track_spotify_url": "https://open.spotify.com/track/0eKd2VfI5EzrlgVH202x1i"
   },
   {
     "played_at": "2026-05-14T19:24:31.272Z",
+    "source": "spotify",
     "track_id": "6RLW5pntyL4yNlmv4OcDnC",
+    "track_slug": "johann-sebastian-bach--keyboard-concerto-no-1-in-d-minor-bwv-1052-i-allegro",
     "track_name": "Keyboard Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "1iNPygduJOu0JnzasoDVLE",
+        "name": "Columbia Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+      },
+      {
+        "id": "2LmyJyCF5V1eQyvHgJNbTn",
+        "name": "Leonard Bernstein",
+        "spotify_url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-piano-concertos-nos-1-5-bwv-1052-1056-and-no-7-bwv-1058",
+    "album_id": "14rnDYdD1OCvTh9lSvodMK",
     "album_name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 \u0026 No. 7 BWV 1058",
     "duration_ms": 516746,
     "track_spotify_url": "https://open.spotify.com/track/6RLW5pntyL4yNlmv4OcDnC"
   },
   {
     "played_at": "2026-05-14T19:16:00.285Z",
+    "source": "spotify",
     "track_id": "0L5cUf2OgB2GeVzxwGJv3q",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-6-a-1-clav-canone-alla-seconda",
     "track_name": "Goldberg Variations, BWV 988: Variation 6 a 1 Clav. Canone alla Seconda",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 40069,
     "track_spotify_url": "https://open.spotify.com/track/0L5cUf2OgB2GeVzxwGJv3q"
   },
   {
     "played_at": "2026-05-14T19:15:00.409Z",
+    "source": "spotify",
     "track_id": "2eENRuubJAWA1yjWW5xuWc",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-3-a-1-clav-canone-all-unisuono",
     "track_name": "Goldberg Variations, BWV 988: Variation 3 a 1 Clav. Canone all' Unisuono",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1955-gould-remaster",
+    "album_id": "0ogm04LcccovebvmP9Mo6W",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1955 Gould Remaster)",
     "duration_ms": 54684,
     "track_spotify_url": "https://open.spotify.com/track/2eENRuubJAWA1yjWW5xuWc"
   },
   {
     "played_at": "2026-05-14T19:14:00.129Z",
+    "source": "spotify",
     "track_id": "5Sd0K3aRw6L9JpXhnOLHp3",
+    "track_slug": "domenico-scarlatti--sonata-in-d-minor-l-413-remastered",
     "track_name": "Sonata in D Minor, L. 413 - Remastered",
+    "artist_slug": "domenico-scarlatti",
     "artist_id": "0mFblCBw0GcoY7zY1P8tzE",
     "artist_name": "Domenico Scarlatti",
     "artist_spotify_url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "carl-philipp-emanuel-bach--the-glenn-gould-silver-jubilee-album-gould-remastered",
+    "album_id": "5koX1vYHxalIRmt496558M",
     "album_name": "The Glenn Gould Silver Jubilee Album (Gould Remastered)",
     "duration_ms": 107809,
     "track_spotify_url": "https://open.spotify.com/track/5Sd0K3aRw6L9JpXhnOLHp3"
   },
   {
     "played_at": "2026-05-14T19:12:30.215Z",
+    "source": "spotify",
     "track_id": "5dn5bAnHGie6rsoTvd9Cd0",
+    "track_slug": "johann-sebastian-bach--prelude-and-fugue-no-3-in-c-sharp-major-bwv-848-fugue-no-3-in-c-sharp-major-bwv-848",
     "track_name": "Prelude \u0026 Fugue No. 3 in C-Sharp Major, BWV 848: Fugue No. 3 in C-Sharp Major, BWV 848",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+    "album_id": "5NqQLA1NCo6hP2GHiHxip5",
     "album_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
     "duration_ms": 123640,
     "track_spotify_url": "https://open.spotify.com/track/5dn5bAnHGie6rsoTvd9Cd0"
   },
   {
     "played_at": "2026-05-14T19:10:30.227Z",
+    "source": "spotify",
     "track_id": "3XIGtjlniVGZgYuvZ1A9CF",
+    "track_slug": "ludwig-van-beethoven--sonata-no-8-in-c-minor-op-13-pathétique-ii-adagio-cantabile-remastered",
     "track_name": "Sonata No. 8 in C Minor, Op. 13 \"Pathétique\": II. Adagio cantabile - Remastered",
+    "artist_slug": "ludwig-van-beethoven",
     "artist_id": "2wOqMjp9TyABvtHdOSOTUS",
     "artist_name": "Ludwig van Beethoven",
     "artist_spotify_url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+    "artist_musicbrainz_id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "ludwig-van-beethoven--beethoven-piano-sonatas-nos-8-10-gould-remastered",
+    "album_id": "0isMuQNesHMv674ps90zDj",
     "album_name": "Beethoven: Piano Sonatas Nos. 8-10 (Gould Remastered)",
     "duration_ms": 285651,
     "track_spotify_url": "https://open.spotify.com/track/3XIGtjlniVGZgYuvZ1A9CF"
   },
   {
     "played_at": "2026-05-14T19:05:29.976Z",
+    "source": "spotify",
     "track_id": "2zzPdyKmyxU3TRh1CcT6sP",
+    "track_slug": "johann-sebastian-bach--invention-no-10-in-g-major-bvw-781-remastered",
     "track_name": "Invention No. 10 in G Major, BVW 781 - Remastered",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-two-and-three-part-inventions-bwv-772-801-gould-remastered-2",
+    "album_id": "42SxOjm6223yaSs0vH9Um6",
     "album_name": "Bach: The Two and Three Part Inventions, BWV 772-801 (Gould Remastered)",
     "duration_ms": 39933,
     "track_spotify_url": "https://open.spotify.com/track/2zzPdyKmyxU3TRh1CcT6sP"
   },
   {
     "played_at": "2026-05-14T19:05:00.307Z",
+    "source": "spotify",
     "track_id": "6uTCvFRE00RsW3AUf39Evn",
+    "track_slug": "domenico-scarlatti--sonata-in-g-major-k-13-l-486",
     "track_name": "Sonata in G Major, K 13 (L 486)",
+    "artist_slug": "domenico-scarlatti",
     "artist_id": "0mFblCBw0GcoY7zY1P8tzE",
     "artist_name": "Domenico Scarlatti",
     "artist_spotify_url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "domenico-scarlatti--glenn-gould-plays-renaissance-and-baroque-music-byrd-gibbons-sweelinck-handel-suites-for-harpsichord-nos-1-4-hwv-426-429-d-scarlatti-sonatas-k-9-13-430-c-p-e-bach-württembergische-sonate-no-1",
+    "album_id": "7arleSyKodV6RovIIhwkyt",
     "album_name": "Glenn Gould plays Renaissance \u0026 Baroque Music: Byrd; Gibbons; Sweelinck; Handel: Suites for Harpsichord Nos. 1-4 HWV 426-429; D. Scarlatti: Sonatas K. 9, 13, 430; C.P.E. Bach: \"Württembergische Sonate\" No. 1",
     "duration_ms": 137973,
     "track_spotify_url": "https://open.spotify.com/track/6uTCvFRE00RsW3AUf39Evn"
   },
   {
     "played_at": "2026-05-14T19:02:30.366Z",
+    "source": "spotify",
     "track_id": "1K03QHUU2ukAn6MBeeoDtR",
+    "track_slug": "johann-sebastian-bach--the-well-tempered-clavier-book-1-prelude-no-4-in-c-sharp-minor-bwv-849",
     "track_name": "The Well-Tempered Clavier, Book 1: Prelude No. 4 in C-Sharp Minor, BWV 849",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+    "album_id": "5NqQLA1NCo6hP2GHiHxip5",
     "album_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
     "duration_ms": 161400,
     "track_spotify_url": "https://open.spotify.com/track/1K03QHUU2ukAn6MBeeoDtR"
   },
   {
     "played_at": "2026-05-14T19:00:00.277Z",
+    "source": "spotify",
     "track_id": "11z9FpLK2kWPvVABF5J6iH",
+    "track_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-v-minuetts-i-and-ii",
     "track_name": "Partita No. 1 in B-Flat Major, BWV 825: V. Minuetts I \u0026 II",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+    "album_id": "61UszrMDhufhN6bGF7Rpb1",
     "album_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
     "duration_ms": 86680,
     "track_spotify_url": "https://open.spotify.com/track/11z9FpLK2kWPvVABF5J6iH"
   },
   {
     "played_at": "2026-05-14T18:58:30.136Z",
+    "source": "spotify",
     "track_id": "75w6tkmyGfzuhK5caXRXdK",
+    "track_slug": "ludwig-van-beethoven--piano-concerto-no-5-in-e-flat-major-op-73-emperor-ii-adagio-un-poco-mosso",
     "track_name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
+    "artist_slug": "ludwig-van-beethoven",
     "artist_id": "2wOqMjp9TyABvtHdOSOTUS",
     "artist_name": "Ludwig van Beethoven",
     "artist_spotify_url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+    "artist_musicbrainz_id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "52sDxFX9DvIxUupTy8f1yx",
+        "name": "Leopold Stokowski",
+        "spotify_url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+      },
+      {
+        "id": "189I14HgoKkmB02CoEN2po",
+        "name": "American Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/189I14HgoKkmB02CoEN2po"
+      }
+    ],
+    "release_slug": "ludwig-van-beethoven--beethoven-the-5-piano-concertos",
+    "album_id": "7GKTIg5SwBeIB9uAqIzgfQ",
     "album_name": "Beethoven: The 5 Piano Concertos",
+    "release_musicbrainz_id": "1bcd3949-6656-40ea-ba6c-37c23bd39bf6",
+    "release_group_musicbrainz_id": "d1784339-9a01-430b-867d-5a5d594c0f4d",
     "duration_ms": 561813,
     "track_spotify_url": "https://open.spotify.com/track/75w6tkmyGfzuhK5caXRXdK"
   },
   {
     "played_at": "2026-05-14T18:48:59.906Z",
+    "source": "spotify",
     "track_id": "3BjZbyyhx7JbVq5CYVZTaa",
+    "track_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-ii-allemande",
     "track_name": "Partita No. 1 in B-Flat Major, BWV 825: II. Allemande",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+    "album_id": "61UszrMDhufhN6bGF7Rpb1",
     "album_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
     "duration_ms": 114533,
     "track_spotify_url": "https://open.spotify.com/track/3BjZbyyhx7JbVq5CYVZTaa"
   },
   {
     "played_at": "2026-05-14T18:47:00.093Z",
+    "source": "spotify",
     "track_id": "5X8VLh5mIKCxviE52GHBXu",
+    "track_slug": "johann-sebastian-bach--prelude-and-fugue-no-3-in-c-sharp-major-bwv-848-prelude",
     "track_name": "Prelude \u0026 Fugue No. 3 in C-Sharp Major, BWV 848: Prelude",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+    "album_id": "5NqQLA1NCo6hP2GHiHxip5",
     "album_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
     "duration_ms": 65146,
     "track_spotify_url": "https://open.spotify.com/track/5X8VLh5mIKCxviE52GHBXu"
   },
   {
     "played_at": "2026-05-14T18:46:00.135Z",
+    "source": "spotify",
     "track_id": "3X4hAOrcPEEkyz1jncZkXp",
+    "track_slug": "johann-sebastian-bach--the-well-tempered-clavier-book-2-fugue-no-14-in-f-sharp-minor-bwv-883",
     "track_name": "The Well-Tempered Clavier, Book 2: Fugue No. 14 in F-Sharp Minor, BWV 883",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+    "album_id": "5LajXmcx1qsfRdWCbD9S0v",
     "album_name": "Bach: Goldberg Variations, BWV 988",
+    "release_musicbrainz_id": "c5843620-0c2c-438b-b20d-95ff98b5229c",
+    "release_group_musicbrainz_id": "e81da777-60ac-4b32-b845-a6de6635920d",
     "duration_ms": 198173,
     "track_spotify_url": "https://open.spotify.com/track/3X4hAOrcPEEkyz1jncZkXp"
   },
   {
     "played_at": "2026-05-14T18:42:30.283Z",
+    "source": "spotify",
     "track_id": "5PxqLl0Avh8Dvl6SUgFpCg",
+    "track_slug": "johann-sebastian-bach--french-suite-no-1-in-d-minor-bwv-812-i-allemande",
     "track_name": "French Suite No. 1 in D Minor, BWV 812: I. Allemande",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-french-suites-nos-1-4-bwv-812-815-gould-remastered-2",
+    "album_id": "20ethwi62B10TqVmmpurNh",
     "album_name": "Bach: The French Suites Nos. 1-4, BWV 812-815 (Gould Remastered)",
     "duration_ms": 93226,
     "track_spotify_url": "https://open.spotify.com/track/5PxqLl0Avh8Dvl6SUgFpCg"
   },
   {
     "played_at": "2026-05-14T18:41:00.193Z",
+    "source": "spotify",
     "track_id": "4sl20vttMgIMfnuBfRYNQo",
+    "track_slug": "johann-sebastian-bach--keyboard-concerto-no-1-in-d-minor-bwv-1052-iii-allegro",
     "track_name": "Keyboard Concerto No. 1 in D Minor, BWV 1052: III. Allegro",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "1iNPygduJOu0JnzasoDVLE",
+        "name": "Columbia Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+      },
+      {
+        "id": "2LmyJyCF5V1eQyvHgJNbTn",
+        "name": "Leonard Bernstein",
+        "spotify_url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-piano-concertos-nos-1-5-bwv-1052-1056-and-no-7-bwv-1058",
+    "album_id": "14rnDYdD1OCvTh9lSvodMK",
     "album_name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 \u0026 No. 7 BWV 1058",
     "duration_ms": 497706,
     "track_spotify_url": "https://open.spotify.com/track/4sl20vttMgIMfnuBfRYNQo"
   },
   {
     "played_at": "2026-05-14T18:32:59.924Z",
+    "source": "spotify",
     "track_id": "7tmzbgv2LN2eW0r8Lt5W7B",
+    "track_slug": "johannes-brahms--intermezzo-no-2-in-a-major-op-118-andante-teneramente-remastered",
     "track_name": "Intermezzo No. 2 in A Major, Op. 118 - Andante teneramente - Remastered",
+    "artist_slug": "johannes-brahms",
     "artist_id": "5wTAi7QkpP6kp8a54lmTOq",
     "artist_name": "Johannes Brahms",
     "artist_spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
+    "artist_musicbrainz_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
+    "album_id": "0284nxEowM0GZePnFIQsO0",
     "album_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
     "duration_ms": 347269,
     "track_spotify_url": "https://open.spotify.com/track/7tmzbgv2LN2eW0r8Lt5W7B"
   },
   {
     "played_at": "2026-05-14T18:27:00.179Z",
+    "source": "spotify",
     "track_id": "6AeFOnXDqRvomaZUpTOELh",
+    "track_slug": "glenn-gould--three-part-inventions-sinfonias-bwv-787-801-sinfonia-no-2-in-c-minor-bwv-788",
     "track_name": "Three-Part Inventions (Sinfonias), BWV 787-801: Sinfonia No. 2 in C Minor, BWV 788",
+    "artist_slug": "glenn-gould",
     "artist_id": "13dkPjqmbcchm8cXjEJQeP",
     "artist_name": "Glenn Gould",
     "artist_spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP",
+    "artist_musicbrainz_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+    "release_slug": "glenn-gould--the-young-maverick-2",
+    "album_id": "18JCmaoyR6nrSHOsDzxg6B",
     "album_name": "The Young Maverick",
     "duration_ms": 120440,
     "track_spotify_url": "https://open.spotify.com/track/6AeFOnXDqRvomaZUpTOELh"
   },
   {
     "played_at": "2026-05-14T18:25:00.214Z",
+    "source": "spotify",
     "track_id": "4w3aG0qWqCQKhvsQYzX3nY",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-7-a-1-ovvero-2-clav",
     "track_name": "Goldberg Variations, BWV 988: Variation 7 a 1 ovvero 2 Clav.",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 76028,
     "track_spotify_url": "https://open.spotify.com/track/4w3aG0qWqCQKhvsQYzX3nY"
   },
   {
     "played_at": "2026-05-14T18:24:00.137Z",
+    "source": "spotify",
     "track_id": "5hsvHSuBT5QyUogOqRtie9",
+    "track_slug": "johann-sebastian-bach--the-well-tempered-clavier-book-2-fugue-no-9-in-e-major-bwv-878",
     "track_name": "The Well-Tempered Clavier, Book 2: Fugue No. 9 in E Major, BWV 878",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-goldberg-variations-bwv-988",
+    "album_id": "5LajXmcx1qsfRdWCbD9S0v",
     "album_name": "Bach: Goldberg Variations, BWV 988",
+    "release_musicbrainz_id": "c5843620-0c2c-438b-b20d-95ff98b5229c",
+    "release_group_musicbrainz_id": "e81da777-60ac-4b32-b845-a6de6635920d",
     "duration_ms": 261893,
     "track_spotify_url": "https://open.spotify.com/track/5hsvHSuBT5QyUogOqRtie9"
   },
   {
     "played_at": "2026-05-14T18:19:31.300Z",
+    "source": "spotify",
     "track_id": "325xUomC1NKDerrKIn0zfD",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-5-a-1-ovvero-2-clav",
     "track_name": "Goldberg Variations, BWV 988: Variation 5 a 1 ovvero 2 Clav.",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 37026,
     "track_spotify_url": "https://open.spotify.com/track/325xUomC1NKDerrKIn0zfD"
   },
   {
     "played_at": "2026-05-14T18:19:00.200Z",
+    "source": "spotify",
     "track_id": "7uhvsd6vSlgjYtPQ2twAYV",
+    "track_slug": "johann-sebastian-bach--the-well-tempered-clavier-book-1-prelude-no-5-in-d-major-bwv-850",
     "track_name": "The Well-Tempered Clavier, Book 1: Prelude No. 5 in D Major, BWV 850",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+    "album_id": "5NqQLA1NCo6hP2GHiHxip5",
     "album_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
     "duration_ms": 66613,
     "track_spotify_url": "https://open.spotify.com/track/7uhvsd6vSlgjYtPQ2twAYV"
   },
   {
     "played_at": "2026-05-14T18:17:30.359Z",
+    "source": "spotify",
     "track_id": "2wP269aoVYeJU7Klzm2BC7",
+    "track_slug": "johannes-brahms--intermezzo-no-1-in-e-flat-major-op-117-andante-moderato-remastered",
     "track_name": "Intermezzo No. 1 in E-Flat Major, Op. 117 - Andante moderato - Remastered",
+    "artist_slug": "johannes-brahms",
     "artist_id": "5wTAi7QkpP6kp8a54lmTOq",
     "artist_name": "Johannes Brahms",
     "artist_spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
+    "artist_musicbrainz_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
+    "album_id": "0284nxEowM0GZePnFIQsO0",
     "album_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
     "duration_ms": 338653,
     "track_spotify_url": "https://open.spotify.com/track/2wP269aoVYeJU7Klzm2BC7"
   },
   {
     "played_at": "2026-05-14T17:55:00.158Z",
+    "source": "spotify",
     "track_id": "504wsV4Br1jy9xUvWzpAog",
+    "track_slug": "johann-sebastian-bach--keyboard-concerto-no-5-in-f-minor-bwv-1056-ii-largo",
     "track_name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "3i9zo6m90f9mokNIXqCu0M",
+        "name": "Vladimir Golschmann",
+        "spotify_url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+      },
+      {
+        "id": "1iNPygduJOu0JnzasoDVLE",
+        "name": "Columbia Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-piano-concertos-nos-1-5-bwv-1052-1056-and-no-7-bwv-1058",
+    "album_id": "14rnDYdD1OCvTh9lSvodMK",
     "album_name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 \u0026 No. 7 BWV 1058",
     "duration_ms": 176213,
     "track_spotify_url": "https://open.spotify.com/track/504wsV4Br1jy9xUvWzpAog"
   },
   {
     "played_at": "2026-05-14T17:52:00.043Z",
+    "source": "spotify",
     "track_id": "4AMJBOgveh7OVHJKTZPwVh",
+    "track_slug": "johann-sebastian-bach--prelude-and-fugue-no-2-in-c-minor-bwv-847-prelude",
     "track_name": "Prelude \u0026 Fugue No. 2 in C Minor, BWV 847: Prelude",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+    "album_id": "5NqQLA1NCo6hP2GHiHxip5",
     "album_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
     "duration_ms": 128600,
     "track_spotify_url": "https://open.spotify.com/track/4AMJBOgveh7OVHJKTZPwVh"
   },
   {
     "played_at": "2026-05-14T17:49:30.080Z",
+    "source": "spotify",
     "track_id": "707Fx5xwN0oSmuGpRtQW4i",
+    "track_slug": "felix-mendelssohn--songs-without-words-book-1-op-19b-no-1-in-e-major-mwv-u-86",
     "track_name": "Songs Without Words, Book 1, Op. 19b: No. 1 in E Major, MWV U 86",
+    "artist_slug": "felix-mendelssohn",
     "artist_id": "6MF58APd3YV72Ln2eVg710",
     "artist_name": "Felix Mendelssohn",
     "artist_spotify_url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "felix-mendelssohn--chopin-piano-sonata-no-3-mendelssohn-songs-without-words-2",
+    "album_id": "4seIcCSyhvCGsTJVGLbDLP",
     "album_name": "Chopin: Piano Sonata No. 3 - Mendelssohn: Songs Without Words",
     "duration_ms": 177400,
     "track_spotify_url": "https://open.spotify.com/track/707Fx5xwN0oSmuGpRtQW4i"
   },
   {
     "played_at": "2026-05-14T17:47:00.199Z",
+    "source": "spotify",
     "track_id": "5bu9A6uphPWg39RC3ZKeku",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-aria",
     "track_name": "Goldberg Variations, BWV 988: Aria",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 184844,
     "track_spotify_url": "https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku"
   },
   {
     "played_at": "2026-05-14T17:43:29.970Z",
+    "source": "spotify",
     "track_id": "73xACzrJ509NZ3jq8Z5WV4",
+    "track_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-iv-sarabande",
     "track_name": "Partita No. 1 in B-Flat Major, BWV 825: IV. Sarabande",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+    "album_id": "61UszrMDhufhN6bGF7Rpb1",
     "album_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
     "duration_ms": 189800,
     "track_spotify_url": "https://open.spotify.com/track/73xACzrJ509NZ3jq8Z5WV4"
   },
   {
     "played_at": "2026-05-14T17:40:29.953Z",
+    "source": "spotify",
     "track_id": "3DRZuYDArzcoTniRTkaax4",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-9-a-1-clav-canone-alla-terza",
     "track_name": "Goldberg Variations, BWV 988: Variation 9 a 1 Clav. Canone alla Terza",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 59383,
     "track_spotify_url": "https://open.spotify.com/track/3DRZuYDArzcoTniRTkaax4"
   },
   {
     "played_at": "2026-05-14T17:39:30.073Z",
+    "source": "spotify",
     "track_id": "3IioJBugNl60myrfwIm1sz",
+    "track_slug": "johannes-brahms--intermezzo-no-2-in-b-flat-minor-op-117-andante-non-troppo-e-con-molta-espressione-remastered",
     "track_name": "Intermezzo No. 2 in B-Flat Minor, Op. 117 - Andante non troppo e con molta espressione - Remastered",
+    "artist_slug": "johannes-brahms",
     "artist_id": "5wTAi7QkpP6kp8a54lmTOq",
     "artist_name": "Johannes Brahms",
     "artist_spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
+    "artist_musicbrainz_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
+    "album_id": "0284nxEowM0GZePnFIQsO0",
     "album_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
     "duration_ms": 330973,
     "track_spotify_url": "https://open.spotify.com/track/3IioJBugNl60myrfwIm1sz"
   },
   {
     "played_at": "2026-05-14T17:34:00.301Z",
+    "source": "spotify",
     "track_id": "6mdMPlvsPL7q899LvFpOj8",
+    "track_slug": "wolfgang-amadeus-mozart--piano-sonata-no-8-in-a-minor-k-310-ii-andante-cantabile-con-espressione",
     "track_name": "Piano Sonata No. 8 in A Minor, K. 310: II. Andante cantabile con espressione",
+    "artist_slug": "wolfgang-amadeus-mozart",
     "artist_id": "4NJhFmfw43RLBLjQvxDuRS",
     "artist_name": "Wolfgang Amadeus Mozart",
     "artist_spotify_url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS",
+    "artist_musicbrainz_id": "b972f589-fb0e-474e-b64a-803b0364fa75",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "wolfgang-amadeus-mozart--glenn-gould-plays-mozart-the-piano-sonatas-no-10-recordings-of-1958-and-1970-fantasias-k-397-and-k-475-fantasia-and-fugue-k-394-piano-concerto-no-24-k-491",
+    "album_id": "3g22ma0KOLr9B2sfU0trh3",
     "album_name": "Glenn Gould plays Mozart: The Piano Sonatas (No. 10: Recordings of 1958 \u0026 1970); Fantasias K. 397 \u0026 K. 475; Fantasia \u0026 Fugue K. 394; Piano Concerto No. 24 K. 491",
     "duration_ms": 379573,
     "track_spotify_url": "https://open.spotify.com/track/6mdMPlvsPL7q899LvFpOj8"
   },
   {
     "played_at": "2026-05-14T17:27:30.097Z",
+    "source": "spotify",
     "track_id": "6U2bkhwmb8u1fDEgxGPETv",
+    "track_slug": "johannes-brahms--4-ballades-op-10-no-4-in-b-major-andante-con-molto",
     "track_name": "4 Ballades, Op. 10: No. 4 in B Major. Andante con molto",
+    "artist_slug": "johannes-brahms",
     "artist_id": "5wTAi7QkpP6kp8a54lmTOq",
     "artist_name": "Johannes Brahms",
     "artist_spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
+    "artist_musicbrainz_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johannes-brahms--brahms-4-ballades-2-rhapsodies-and-intermezzi-2",
+    "album_id": "1YabyjEw7SGbqzPFt3IFHI",
     "album_name": "Brahms: 4 Ballades, 2 Rhapsodies \u0026 Intermezzi",
     "duration_ms": 580573,
     "track_spotify_url": "https://open.spotify.com/track/6U2bkhwmb8u1fDEgxGPETv"
   },
   {
     "played_at": "2026-05-14T17:18:00.209Z",
+    "source": "spotify",
     "track_id": "5MIfr7y0xbyvnZtJZQW0ah",
+    "track_slug": "johannes-brahms--intermezzo-no-7-in-a-minor-op-76-moderato-semplice-remastered",
     "track_name": "Intermezzo No. 7 in A Minor, Op. 76 - Moderato semplice - Remastered",
+    "artist_slug": "johannes-brahms",
     "artist_id": "5wTAi7QkpP6kp8a54lmTOq",
     "artist_name": "Johannes Brahms",
     "artist_spotify_url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq",
+    "artist_musicbrainz_id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johannes-brahms--brahms-10-intermezzi-for-piano-gould-remastered",
+    "album_id": "0284nxEowM0GZePnFIQsO0",
     "album_name": "Brahms: 10 Intermezzi for Piano (Gould Remastered)",
     "duration_ms": 241120,
     "track_spotify_url": "https://open.spotify.com/track/5MIfr7y0xbyvnZtJZQW0ah"
   },
   {
     "played_at": "2026-05-14T17:14:00.356Z",
+    "source": "spotify",
     "track_id": "3dtmSG5OSALdX4dcBvAjKS",
+    "track_slug": "johann-sebastian-bach--keyboard-concerto-no-1-in-d-minor-bwv-1052-ii-adagio",
     "track_name": "Keyboard Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "1iNPygduJOu0JnzasoDVLE",
+        "name": "Columbia Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+      },
+      {
+        "id": "2LmyJyCF5V1eQyvHgJNbTn",
+        "name": "Leonard Bernstein",
+        "spotify_url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-piano-concertos-nos-1-5-bwv-1052-1056-and-no-7-bwv-1058",
+    "album_id": "14rnDYdD1OCvTh9lSvodMK",
     "album_name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 \u0026 No. 7 BWV 1058",
     "duration_ms": 430093,
     "track_spotify_url": "https://open.spotify.com/track/3dtmSG5OSALdX4dcBvAjKS"
   },
   {
     "played_at": "2026-05-14T17:07:00.217Z",
+    "source": "spotify",
     "track_id": "0PSdHe7MuFgxYe63O3KlQV",
+    "track_slug": "johann-sebastian-bach--partita-no-1-in-b-flat-major-bwv-825-vi-gigue",
     "track_name": "Partita No. 1 in B-Flat Major, BWV 825: VI. Gigue",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+    "album_id": "61UszrMDhufhN6bGF7Rpb1",
     "album_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
     "duration_ms": 80560,
     "track_spotify_url": "https://open.spotify.com/track/0PSdHe7MuFgxYe63O3KlQV"
   },
   {
     "played_at": "2026-05-14T17:05:30.519Z",
+    "source": "spotify",
     "track_id": "5SJFZnECoKeTLy7PPVLLbF",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-3-a-1-clav-canone-all-unisono",
     "track_name": "Goldberg Variations, BWV 988: Variation 3 a 1 Clav. Canone all'Unisono",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 90712,
     "track_spotify_url": "https://open.spotify.com/track/5SJFZnECoKeTLy7PPVLLbF"
   },
   {
     "played_at": "2026-05-14T17:04:00.065Z",
+    "source": "spotify",
     "track_id": "0g0Z2EVHb84n7LP6uo3Ygn",
+    "track_slug": "johann-sebastian-bach--partita-no-2-in-c-minor-bwv-826-iv-sarabande",
     "track_name": "Partita No. 2 in C Minor, BWV 826: IV. Sarabande",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-6-partitas-bwv-825-830-chromatic-fantasy-bwv-903-italian-concerto-bwv-971-the-art-of-the-fugue-bwv-1080-excerpts-preludes-fugues-and-fantasies",
+    "album_id": "61UszrMDhufhN6bGF7Rpb1",
     "album_name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues \u0026 Fantasies",
     "duration_ms": 154866,
     "track_spotify_url": "https://open.spotify.com/track/0g0Z2EVHb84n7LP6uo3Ygn"
   },
   {
     "played_at": "2026-05-14T17:01:29.916Z",
+    "source": "spotify",
     "track_id": "2q0YuWctbdBzQ7jYhqvZTy",
+    "track_slug": "johann-sebastian-bach--invention-no-1-in-c-major-bwv-772",
     "track_name": "Invention No. 1 in C Major, BWV 772",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-inventions-and-sinfonias-bwv-772-801-and-toccatas-bwv-910-916-2",
+    "album_id": "7JS7IPr2RgsnJ64AK1fS5t",
     "album_name": "Bach: Inventions \u0026 Sinfonias, BWV 772-801 \u0026 Toccatas BWV 910-916",
     "duration_ms": 92866,
     "track_spotify_url": "https://open.spotify.com/track/2q0YuWctbdBzQ7jYhqvZTy"
   },
   {
     "played_at": "2026-05-14T17:00:00.013Z",
+    "source": "spotify",
     "track_id": "0qw5GdovyXGf6tK4RGIUNZ",
+    "track_slug": "johann-sebastian-bach--keyboard-concerto-no-2-in-e-major-bwv-1053-i",
     "track_name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      },
+      {
+        "id": "1iNPygduJOu0JnzasoDVLE",
+        "name": "Columbia Symphony Orchestra",
+        "spotify_url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+      },
+      {
+        "id": "3i9zo6m90f9mokNIXqCu0M",
+        "name": "Vladimir Golschmann",
+        "spotify_url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-piano-concertos-nos-1-5-bwv-1052-1056-and-no-7-bwv-1058",
+    "album_id": "14rnDYdD1OCvTh9lSvodMK",
     "album_name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 \u0026 No. 7 BWV 1058",
     "duration_ms": 481160,
     "track_spotify_url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
   },
   {
     "played_at": "2026-05-14T16:51:30.359Z",
+    "source": "spotify",
     "track_id": "47yRjACec1zABTvaZv7hUj",
+    "track_slug": "johann-sebastian-bach--invention-no-8-in-f-major-bwv-779",
     "track_name": "Invention No. 8 in F Major, BWV 779",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-inventions-and-sinfonias-bwv-772-801-and-toccatas-bwv-910-916-2",
+    "album_id": "7JS7IPr2RgsnJ64AK1fS5t",
     "album_name": "Bach: Inventions \u0026 Sinfonias, BWV 772-801 \u0026 Toccatas BWV 910-916",
     "duration_ms": 63360,
     "track_spotify_url": "https://open.spotify.com/track/47yRjACec1zABTvaZv7hUj"
   },
   {
     "played_at": "2026-05-14T16:50:30.151Z",
+    "source": "spotify",
     "track_id": "0utaDpYTrP5l9SjqzYK8Ps",
+    "track_slug": "johann-sebastian-bach--the-well-tempered-clavier-book-1-prelude-no-6-in-d-minor-bwv-851",
     "track_name": "The Well-Tempered Clavier, Book 1: Prelude No. 6 in D Minor, BWV 851",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--glenn-gould-plays-bach-the-well-tempered-clavier-books-i-and-ii-bwv-846-893",
+    "album_id": "5NqQLA1NCo6hP2GHiHxip5",
     "album_name": "Glenn Gould plays Bach: The Well-Tempered Clavier Books I \u0026 II, BWV 846-893",
     "duration_ms": 80026,
     "track_spotify_url": "https://open.spotify.com/track/0utaDpYTrP5l9SjqzYK8Ps"
   },
   {
     "played_at": "2026-05-14T16:49:31.704Z",
+    "source": "spotify",
     "track_id": "7Kl0Izq64TwgnVMPkhkefI",
+    "track_slug": "johann-sebastian-bach--invention-no-14-in-b-flat-major-bwv-785",
     "track_name": "Invention No. 14 in B-Flat Major, BWV 785",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-inventions-and-sinfonias-bwv-772-801-and-toccatas-bwv-910-916-2",
+    "album_id": "7JS7IPr2RgsnJ64AK1fS5t",
     "album_name": "Bach: Inventions \u0026 Sinfonias, BWV 772-801 \u0026 Toccatas BWV 910-916",
     "duration_ms": 97226,
     "track_spotify_url": "https://open.spotify.com/track/7Kl0Izq64TwgnVMPkhkefI"
   },
   {
     "played_at": "2026-05-14T16:47:30.074Z",
+    "source": "spotify",
     "track_id": "5fsIHswfhdrhNYo7bLCoYW",
+    "track_slug": "orlando-gibbons--fantasia-in-c-major",
     "track_name": "Fantasia in C Major",
+    "artist_slug": "orlando-gibbons",
     "artist_id": "2NkIVq5pAfIojxXjuaRVes",
     "artist_name": "Orlando Gibbons",
     "artist_spotify_url": "https://open.spotify.com/artist/2NkIVq5pAfIojxXjuaRVes",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "domenico-scarlatti--glenn-gould-plays-renaissance-and-baroque-music-byrd-gibbons-sweelinck-handel-suites-for-harpsichord-nos-1-4-hwv-426-429-d-scarlatti-sonatas-k-9-13-430-c-p-e-bach-württembergische-sonate-no-1",
+    "album_id": "7arleSyKodV6RovIIhwkyt",
     "album_name": "Glenn Gould plays Renaissance \u0026 Baroque Music: Byrd; Gibbons; Sweelinck; Handel: Suites for Harpsichord Nos. 1-4 HWV 426-429; D. Scarlatti: Sonatas K. 9, 13, 430; C.P.E. Bach: \"Württembergische Sonate\" No. 1",
     "duration_ms": 215560,
     "track_spotify_url": "https://open.spotify.com/track/5fsIHswfhdrhNYo7bLCoYW"
   },
   {
     "played_at": "2026-05-14T16:44:00.047Z",
+    "source": "spotify",
     "track_id": "14lyZKpPu1ECQpfXhgrip6",
+    "track_slug": "johann-sebastian-bach--goldberg-variations-bwv-988-variation-4-a-1-clav",
     "track_name": "Goldberg Variations, BWV 988: Variation 4 a 1 Clav.",
+    "artist_slug": "johann-sebastian-bach",
     "artist_id": "5aIqB5nVVvmFsvSdExz408",
     "artist_name": "Johann Sebastian Bach",
     "artist_spotify_url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+    "artist_musicbrainz_id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "johann-sebastian-bach--bach-the-goldberg-variations-bwv-988-1981-gould-remaster",
+    "album_id": "1aCpHSQE5ghxibsQ5gkBe0",
     "album_name": "Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",
     "duration_ms": 50478,
     "track_spotify_url": "https://open.spotify.com/track/14lyZKpPu1ECQpfXhgrip6"
   },
   {
     "played_at": "2026-05-14T16:43:30.587Z",
+    "source": "spotify",
     "track_id": "5TZczaXaMMy6K43ncHx2EC",
+    "track_slug": "ludwig-van-beethoven--piano-sonata-no-1-in-f-minor-op-2-no-1-ii-adagio",
     "track_name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: II. Adagio",
+    "artist_slug": "ludwig-van-beethoven",
     "artist_id": "2wOqMjp9TyABvtHdOSOTUS",
     "artist_name": "Ludwig van Beethoven",
     "artist_spotify_url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+    "artist_musicbrainz_id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+    "additional_artists": [
+      {
+        "id": "13dkPjqmbcchm8cXjEJQeP",
+        "name": "Glenn Gould",
+        "spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+      }
+    ],
+    "release_slug": "ludwig-van-beethoven--glenn-gould-plays-beethoven-piano-sonatas-nos-1-3-5-10-12-14-15-18-23-30-32",
+    "album_id": "1TTTmdzL8E6NgrvVJ0ZPF0",
     "album_name": "Glenn Gould plays Beethoven: Piano Sonatas Nos. 1-3; 5-10; 12-14; 15-18; 23; 30-32",
     "duration_ms": 423133,
     "track_spotify_url": "https://open.spotify.com/track/5TZczaXaMMy6K43ncHx2EC"
   },
   {
     "played_at": "2026-05-14T16:35:59.961Z",
+    "source": "spotify",
     "track_id": "3TSeguUFT5vKJDOqzFCFZB",
+    "track_slug": "glenn-gould--italian-concerto-in-f-major-bwv-971-i-allegro",
     "track_name": "Italian Concerto in F Major, BWV 971: I. Allegro",
+    "artist_slug": "glenn-gould",
     "artist_id": "13dkPjqmbcchm8cXjEJQeP",
     "artist_name": "Glenn Gould",
     "artist_spotify_url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP",
+    "artist_musicbrainz_id": "7002bf88-1269-4965-a772-4ba1e7a91eaa",
+    "release_slug": "glenn-gould--the-young-maverick-2",
+    "album_id": "18JCmaoyR6nrSHOsDzxg6B",
     "album_name": "The Young Maverick",
     "duration_ms": 227840,
     "track_spotify_url": "https://open.spotify.com/track/3TSeguUFT5vKJDOqzFCFZB"
   },
   {
     "played_at": "2026-05-14T07:49:09.012Z",
+    "source": "spotify",
     "track_id": "4PW2BiBPZS62HxJdeEx4qh",
+    "track_slug": "old-crow-medicine-show--take-em-away",
     "track_name": "Take 'Em Away",
+    "artist_slug": "old-crow-medicine-show",
     "artist_id": "4DBi4EYXgiqbkxvWUXUzMi",
     "artist_name": "Old Crow Medicine Show",
     "artist_spotify_url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi",
+    "artist_musicbrainz_id": "0202af38-ac32-48d0-a546-87caaef2dee2",
+    "release_slug": "old-crow-medicine-show--o-c-m-s",
+    "album_id": "5Y83CwSuyymvHbtg2KgK7j",
     "album_name": "O.C.M.S.",
+    "release_musicbrainz_id": "308cc1b5-b5cc-4ad5-8eed-79ed82e9e8e3",
+    "release_group_musicbrainz_id": "ba298c09-0020-34be-ab1a-04fb96fc2d81",
     "duration_ms": 214226,
     "track_spotify_url": "https://open.spotify.com/track/4PW2BiBPZS62HxJdeEx4qh"
   },
   {
     "played_at": "2026-05-14T05:30:12.835Z",
+    "source": "spotify",
     "track_id": "348k0fvTj8lMXdkUR7mJZ4",
+    "track_slug": "billy-strings--watch-it-fall",
     "track_name": "Watch It Fall",
+    "artist_slug": "billy-strings",
     "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
     "artist_name": "Billy Strings",
     "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_musicbrainz_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+    "release_slug": "billy-strings--home-2",
+    "album_id": "6Wpawdx7fSuBAKY0t793fx",
     "album_name": "Home",
     "duration_ms": 276973,
     "track_spotify_url": "https://open.spotify.com/track/348k0fvTj8lMXdkUR7mJZ4"
   },
   {
     "played_at": "2026-05-14T05:23:37.673Z",
+    "source": "spotify",
     "track_id": "7zrxGPR1UVK2iSK793vLPl",
+    "track_slug": "john-prine--spanish-pipedream",
     "track_name": "Spanish Pipedream",
+    "artist_slug": "john-prine",
     "artist_id": "0nJUwPwC9Ti4vvuJ0q3MfT",
     "artist_name": "John Prine",
     "artist_spotify_url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT",
+    "artist_musicbrainz_id": "e86492c1-0376-4df0-8042-8ba058c83960",
+    "release_slug": "john-prine--john-prine",
+    "album_id": "5t4FHrIAHI8nolSAOBRgPp",
     "album_name": "John Prine",
+    "release_musicbrainz_id": "2b115165-6200-4a7f-9c78-f03b53d42b80",
+    "release_group_musicbrainz_id": "a13154a4-14a1-3344-ae14-3bea728ebe58",
     "duration_ms": 161173,
     "track_spotify_url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
   },
   {
     "played_at": "2026-05-14T05:21:07.883Z",
+    "source": "spotify",
     "track_id": "181YsWsKwhTmoHYZ4xtiuZ",
+    "track_slug": "billy-strings--gild-the-lily",
     "track_name": "Gild the Lily",
+    "artist_slug": "billy-strings",
     "artist_id": "1ZN1c1qWEGZNX1pGeKCPpf",
     "artist_name": "Billy Strings",
     "artist_spotify_url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf",
+    "artist_musicbrainz_id": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+    "release_slug": "billy-strings--highway-prayers",
+    "album_id": "6ARzD9YEt9vx2rz7X3NDlo",
     "album_name": "Highway Prayers",
+    "release_musicbrainz_id": "d8a70d99-275e-4a5c-9c0e-8e1d877fbf64",
+    "release_group_musicbrainz_id": "c910c868-8d8c-4594-bd22-318025392602",
     "duration_ms": 305543,
     "track_spotify_url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ"
   },
   {
     "played_at": "2026-05-14T05:07:37.878Z",
+    "source": "spotify",
     "track_id": "1UyyjYQj9EaQHnSPsVm9SI",
+    "track_slug": "allison-russell--joyful-motherfuckers",
     "track_name": "Joyful Motherfuckers",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--outside-child-2",
+    "album_id": "4R21oaKCstE2fMc4XkuVlw",
     "album_name": "Outside Child",
     "duration_ms": 191746,
     "track_spotify_url": "https://open.spotify.com/track/1UyyjYQj9EaQHnSPsVm9SI"
   },
   {
     "played_at": "2026-05-14T05:04:07.551Z",
+    "source": "spotify",
     "track_id": "2VVL0yN3sb3WLpsSiz2pSX",
+    "track_slug": "allison-russell--springtime",
     "track_name": "Springtime",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--the-returner-2",
+    "album_id": "2rzetXorcdU2BH86aoqHmw",
     "album_name": "The Returner",
     "duration_ms": 251213,
     "track_spotify_url": "https://open.spotify.com/track/2VVL0yN3sb3WLpsSiz2pSX"
   },
   {
     "played_at": "2026-05-14T05:03:39.749Z",
+    "source": "spotify",
     "track_id": "2VVL0yN3sb3WLpsSiz2pSX",
+    "track_slug": "allison-russell--springtime",
     "track_name": "Springtime",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--the-returner-2",
+    "album_id": "2rzetXorcdU2BH86aoqHmw",
     "album_name": "The Returner",
     "duration_ms": 251213,
     "track_spotify_url": "https://open.spotify.com/track/2VVL0yN3sb3WLpsSiz2pSX"
   },
   {
     "played_at": "2026-05-14T01:41:19.397Z",
+    "source": "spotify",
     "track_id": "62GUjBiYCUCGtd5BHOIhi0",
+    "track_slug": "aoife-o-donovan--prodigal-daughter",
     "track_name": "Prodigal Daughter",
+    "artist_slug": "aoife-o-donovan",
     "artist_id": "1f3ubTd6eyxuy30ddDJQQa",
     "artist_name": "Aoife O'Donovan",
     "artist_spotify_url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa",
+    "additional_artists": [
+      {
+        "id": "3JBmecDGXTll46ygrnGTM6",
+        "name": "Allison Russell",
+        "spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+      }
+    ],
+    "release_slug": "aoife-o-donovan--age-of-apathy-2",
+    "album_id": "0GvP6JkCysq2idJCmIxqBo",
     "album_name": "Age of Apathy",
     "duration_ms": 222251,
     "track_spotify_url": "https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0"
   },
   {
     "played_at": "2026-05-14T01:37:44.639Z",
+    "source": "spotify",
     "track_id": "5bkGMS8DlS5yLnGumN5Hz4",
+    "track_slug": "allison-russell--by-your-side",
     "track_name": "By Your Side",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--by-your-side-landslide-2",
+    "album_id": "47U7NxrdQgfj6Er5KVpz42",
     "album_name": "By Your Side / Landslide",
     "duration_ms": 266000,
     "track_spotify_url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
   },
   {
     "played_at": "2026-05-14T01:33:14.815Z",
+    "source": "spotify",
     "track_id": "2OeMJJ4QlZKW0mjpbIckiq",
+    "track_slug": "allison-russell--hy-brasil",
     "track_name": "Hy-Brasil",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--outside-child-2",
+    "album_id": "4R21oaKCstE2fMc4XkuVlw",
     "album_name": "Outside Child",
     "duration_ms": 335586,
     "track_spotify_url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
   },
   {
     "played_at": "2026-05-14T01:27:44.727Z",
+    "source": "spotify",
     "track_id": "06KsopBocv3y5TVPaxrWOg",
+    "track_slug": "allison-russell--cold-april-ft-kara-jackson-denitia-and-explore-pop-choir",
     "track_name": "Cold April (ft. Kara Jackson, Denitia \u0026 Explore! Pop Choir)",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "additional_artists": [
+      {
+        "id": "2lciIw4vq0jQqevXA2TEUl",
+        "name": "Kara Jackson",
+        "spotify_url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+      },
+      {
+        "id": "6Dfjb3S1itIcLl2toYSiRp",
+        "name": "Denitia",
+        "spotify_url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+      },
+      {
+        "id": "3NJxKJgqbahvTuQhvMeD2v",
+        "name": "Explore! Pop Choir",
+        "spotify_url": "https://open.spotify.com/artist/3NJxKJgqbahvTuQhvMeD2v"
+      }
+    ],
+    "release_slug": "allison-russell--cold-april-ft-kara-jackson-denitia-and-explore-pop-choir-2",
+    "album_id": "7lfVMgxYRfFYOih7bPQcbp",
     "album_name": "Cold April (ft. Kara Jackson, Denitia \u0026 Explore! Pop Choir)",
     "duration_ms": 189253,
     "track_spotify_url": "https://open.spotify.com/track/06KsopBocv3y5TVPaxrWOg"
   },
   {
     "played_at": "2026-05-14T01:24:14.699Z",
+    "source": "spotify",
     "track_id": "4AXju6YC61jufxaLjhEVMP",
+    "track_slug": "luther-dickinson--superlover",
     "track_name": "Superlover",
+    "artist_slug": "luther-dickinson",
     "artist_id": "1YLrCQC8gRomtIs7kc9Eyk",
     "artist_name": "Luther Dickinson",
     "artist_spotify_url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk",
+    "additional_artists": [
+      {
+        "id": "3JBmecDGXTll46ygrnGTM6",
+        "name": "Allison Russell",
+        "spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+      },
+      {
+        "id": "2nyv8yYjMSkvUr9OwEQhVf",
+        "name": "Birds of Chicago",
+        "spotify_url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
+      }
+    ],
+    "release_slug": "luther-dickinson--solstice-2",
+    "album_id": "6BV8u6ffbjVTER39FAQnPh",
     "album_name": "Solstice",
     "duration_ms": 233106,
     "track_spotify_url": "https://open.spotify.com/track/4AXju6YC61jufxaLjhEVMP"
   },
   {
     "played_at": "2026-05-14T01:20:14.610Z",
+    "source": "spotify",
     "track_id": "7m4pa6QJVZ5T4vf33pvLTm",
+    "track_slug": "allison-russell--persephone",
     "track_name": "Persephone",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--outside-child-2",
+    "album_id": "4R21oaKCstE2fMc4XkuVlw",
     "album_name": "Outside Child",
     "duration_ms": 262680,
     "track_spotify_url": "https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm"
   },
   {
     "played_at": "2026-05-14T01:16:14.813Z",
+    "source": "spotify",
     "track_id": "4ltCYG04Xhzv5cViM6mp16",
+    "track_slug": "allison-russell--you-re-not-alone-feat-brandi-carlile",
     "track_name": "You're Not Alone [Feat. Brandi Carlile]",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "additional_artists": [
+      {
+        "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+        "name": "Brandi Carlile",
+        "spotify_url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+      }
+    ],
+    "release_slug": "allison-russell--you-re-not-alone-feat-brandi-carlile-2",
+    "album_id": "6uBCu9hARcX7SlAvOD501U",
     "album_name": "You're Not Alone [Feat. Brandi Carlile]",
     "duration_ms": 309746,
     "track_spotify_url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
   },
   {
     "played_at": "2026-05-13T07:37:00.755Z",
+    "source": "spotify",
     "track_id": "4ltCYG04Xhzv5cViM6mp16",
+    "track_slug": "allison-russell--you-re-not-alone-feat-brandi-carlile",
     "track_name": "You're Not Alone [Feat. Brandi Carlile]",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "additional_artists": [
+      {
+        "id": "2sG4zTOLvjKG1PSoOyf5Ej",
+        "name": "Brandi Carlile",
+        "spotify_url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+      }
+    ],
+    "release_slug": "allison-russell--you-re-not-alone-feat-brandi-carlile-2",
+    "album_id": "6uBCu9hARcX7SlAvOD501U",
     "album_name": "You're Not Alone [Feat. Brandi Carlile]",
     "duration_ms": 309746,
     "track_spotify_url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
   },
   {
     "played_at": "2026-05-13T04:16:08.846Z",
+    "source": "spotify",
     "track_id": "4roCXZFxzB1WrKofdjedQg",
+    "track_slug": "allison-russell--no-springtime-ft-joy-oladokun-and-julie-williams",
     "track_name": "No Springtime (ft. Joy Oladokun \u0026 Julie Williams)",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "additional_artists": [
+      {
+        "id": "7rrTqtOUOwva4sgTx9C9F9",
+        "name": "Joy Oladokun",
+        "spotify_url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+      },
+      {
+        "id": "4sRUZFWl0hDJg6MW9lHKR9",
+        "name": "Julie Williams",
+        "spotify_url": "https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9"
+      }
+    ],
+    "release_slug": "allison-russell--no-springtime-ft-joy-oladokun-and-julie-williams-2",
+    "album_id": "66qSzjkzyYbD2cXKauAOVJ",
     "album_name": "No Springtime (ft. Joy Oladokun \u0026 Julie Williams)",
     "duration_ms": 200373,
     "track_spotify_url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
   },
   {
     "played_at": "2026-05-13T04:13:08.759Z",
+    "source": "spotify",
     "track_id": "4jYZSSA45xDLnQvIUConFB",
+    "track_slug": "allison-russell--the-returner",
     "track_name": "The Returner",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--the-returner-2",
+    "album_id": "2rzetXorcdU2BH86aoqHmw",
     "album_name": "The Returner",
     "duration_ms": 230920,
     "track_spotify_url": "https://open.spotify.com/track/4jYZSSA45xDLnQvIUConFB"
   },
   {
     "played_at": "2026-05-13T04:09:08.705Z",
+    "source": "spotify",
     "track_id": "6BxDMOnim3Ut7nQaOj01DJ",
+    "track_slug": "allison-russell--nightflyer",
     "track_name": "Nightflyer",
+    "artist_slug": "allison-russell",
     "artist_id": "3JBmecDGXTll46ygrnGTM6",
     "artist_name": "Allison Russell",
     "artist_spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6",
+    "release_slug": "allison-russell--outside-child-2",
+    "album_id": "4R21oaKCstE2fMc4XkuVlw",
     "album_name": "Outside Child",
     "duration_ms": 295546,
     "track_spotify_url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
   },
   {
     "played_at": "2026-05-13T04:04:08.643Z",
+    "source": "spotify",
     "track_id": "3Zwb1yipBxvrukVaNMm4o5",
+    "track_slug": "hozier--wildflower-and-barley-feat-allison-russell",
     "track_name": "Wildflower and Barley (feat. Allison Russell)",
+    "artist_slug": "hozier",
     "artist_id": "2FXC3k01G6Gw61bmprjgqS",
     "artist_name": "Hozier",
     "artist_spotify_url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS",
+    "additional_artists": [
+      {
+        "id": "3JBmecDGXTll46ygrnGTM6",
+        "name": "Allison Russell",
+        "spotify_url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+      }
+    ],
+    "release_slug": "hozier--unreal-unearth-unaired-2",
+    "album_id": "0OWvUsVTHFXXnGiGht96K4",
     "album_name": "Unreal Unearth: Unaired",
     "duration_ms": 222177,
     "track_spotify_url": "https://open.spotify.com/track/3Zwb1yipBxvrukVaNMm4o5"
   },
   {
     "played_at": "2026-05-12T23:20:32.840Z",
+    "source": "spotify",
     "track_id": "2k0Dpq5Dtn0dQnvXbAlayC",
+    "track_slug": "cure-for-paranoia--no-brainer",
     "track_name": "No Brainer",
+    "artist_slug": "cure-for-paranoia",
     "artist_id": "4YRwYMJHtjOnfqkDd8EJbk",
     "artist_name": "Cure for Paranoia",
     "artist_spotify_url": "https://open.spotify.com/artist/4YRwYMJHtjOnfqkDd8EJbk",
+    "release_slug": "cure-for-paranoia--work-of-a-r-t-2",
+    "album_id": "4GT57xI026bDpz2Ddzu0jP",
     "album_name": "Work of A.R.T.",
     "duration_ms": 161228,
     "track_spotify_url": "https://open.spotify.com/track/2k0Dpq5Dtn0dQnvXbAlayC"

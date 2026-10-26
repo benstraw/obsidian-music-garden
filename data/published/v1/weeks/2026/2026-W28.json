@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-07-06",
+  "weekEnd": "2026-07-12",
+  "total_plays": 142,
+  "unique_tracks": 127,
+  "unique_artists": 43,
+  "unique_albums": 47,
+  "total_minutes": 547,
+  "topArtistName": "The Rolling Stones",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e4cea917b68726aadb4854b8",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e4cea917b68726aadb4854b8",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "plays": 32
+    },
+    {
+      "slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "plays": 24
+    },
+    {
+      "slug": "oscar-peterson-trio",
+      "name": "Oscar Peterson Trio",
+      "plays": 21
+    },
+    {
+      "slug": "n-w-a",
+      "name": "N.W.A.",
+      "plays": 5
+    },
+    {
+      "slug": "the-kingsmen",
+      "name": "The Kingsmen",
+      "plays": 4
+    },
+    {
+      "slug": "linda-ronstadt",
+      "name": "Linda Ronstadt",
+      "plays": 3
+    },
+    {
+      "slug": "ryan-adams",
+      "name": "Ryan Adams",
+      "plays": 3
+    },
+    {
+      "slug": "the-open-mind",
+      "name": "The Open Mind",
+      "plays": 3
+    },
+    {
+      "slug": "van-morrison",
+      "name": "Van Morrison",
+      "plays": 3
+    },
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 2
+    },
+    {
+      "slug": "billy-preston",
+      "name": "Billy Preston",
+      "plays": 2
+    },
+    {
+      "slug": "fugazi",
+      "name": "Fugazi",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "If I Needed Someone ('66 Single Version)",
+      "artist": "The Kingsmen",
+      "artist_slug": "the-kingsmen",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/4sJP6Ov80FQZkHY1hCiMSb",
+      "plays": 3
+    },
+    {
+      "name": "Magic Potion (Stereo Mix 2026)",
+      "artist": "The Open Mind",
+      "artist_slug": "the-open-mind",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/5wxLDMQFDn2wdA3mlu7iFv",
+      "plays": 3
+    },
+    {
+      "name": "A Bitch Iz A Bitch",
+      "artist": "N.W.A.",
+      "artist_slug": "n-w-a",
+      "album": "Express Yourself",
+      "spotify_url": "https://open.spotify.com/track/09b84uwrksszAvJwM6J28L",
+      "plays": 2
+    },
+    {
+      "name": "Autumn Leaves - Live",
+      "artist": "Oscar Peterson Trio",
+      "artist_slug": "oscar-peterson-trio",
+      "album": "At Baker’s Keyboard Lounge: The Complete Recordings",
+      "spotify_url": "https://open.spotify.com/track/7c06pUDtjmLMkMQGYtrkrZ",
+      "plays": 2
+    },
+    {
+      "name": "Dancing In The Light",
+      "artist": "The Rolling Stones",
+      "artist_slug": "the-rolling-stones",
+      "album": "Exile On Main Street (Deluxe Version)",
+      "spotify_url": "https://open.spotify.com/track/0c1g0H2Kky6iBg2WkjGaOI",
+      "plays": 2
+    },
+    {
+      "name": "Happy",
+      "artist": "The Rolling Stones",
+      "artist_slug": "the-rolling-stones",
+      "album": "Exile On Main Street (Deluxe Version)",
+      "spotify_url": "https://open.spotify.com/track/5fXRPS1tp70DbqsBZVyG4e",
+      "plays": 2
+    },
+    {
+      "name": "Hippa to da Hoppa",
+      "artist": "Ol' Dirty Bastard",
+      "artist_slug": "ol-dirty-bastard",
+      "album": "Return to the 36 Chambers: The Dirty Version",
+      "spotify_url": "https://open.spotify.com/track/3cFT8G5sU4ind7VmAPsV5d",
+      "plays": 2
+    },
+    {
+      "name": "I Try !",
+      "artist": "The Young Tyrants",
+      "artist_slug": "the-young-tyrants",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/2oeKPGupIxSSGt2eBan77J",
+      "plays": 2
+    },
+    {
+      "name": "Pieces",
+      "artist": "The Squires",
+      "artist_slug": "the-squires",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/5C43YE0PW1oVQaMB40mgIC",
+      "plays": 2
+    },
+    {
+      "name": "Sweet Virginia",
+      "artist": "The Rolling Stones",
+      "artist_slug": "the-rolling-stones",
+      "album": "Exile On Main Street (Deluxe Version)",
+      "spotify_url": "https://open.spotify.com/track/3thuVspq7oLlgDE7d7HTqz",
+      "plays": 2
+    },
+    {
+      "name": "That's The Way God Planned It - Live",
+      "artist": "Billy Preston",
+      "artist_slug": "billy-preston",
+      "album": "The Concert for Bangladesh",
+      "spotify_url": "https://open.spotify.com/track/4Hk7Tpn0EyaFEXo45o4C0n",
+      "plays": 2
+    },
+    {
+      "name": "The Spider And The Fly",
+      "artist": "The Dakotas",
+      "artist_slug": "the-dakotas",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/1UhhGaRrR09Xxdx81e6Y0z",
+      "plays": 2
+    },
+    {
+      "name": "This Bad Girl",
+      "artist": "The Golden Cups",
+      "artist_slug": "the-golden-cups",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/4Koi9Ocbj9ySCJIDN3ZhGM",
+      "plays": 2
+    },
+    {
+      "name": "Action Woman",
+      "artist": "The Litter",
+      "artist_slug": "the-litter",
+      "album": "Distortions",
+      "spotify_url": "https://open.spotify.com/track/08T9ONipiFiuJSoXm8vag3",
+      "plays": 1
+    },
+    {
+      "name": "Alcohol",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/2U0JwDp1MRw5L9cV2cYcyz",
+      "plays": 1
+    },
+    {
+      "name": "All Down The Line",
+      "artist": "The Rolling Stones",
+      "artist_slug": "the-rolling-stones",
+      "album": "Exile On Main Street (Deluxe Version)",
+      "spotify_url": "https://open.spotify.com/track/2tPYeRNVROwJpG7tOHXJTZ",
+      "plays": 1
+    },
+    {
+      "name": "And It Stoned Me - 2013 Remaster",
+      "artist": "Van Morrison",
+      "artist_slug": "van-morrison",
+      "album": "Moondance (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/3n5iUh2Z6P7cnWins22W0F",
+      "plays": 1
+    },
+    {
+      "name": "Astral Weeks - 1999 Remaster",
+      "artist": "Van Morrison",
+      "artist_slug": "van-morrison",
+      "album": "Astral Weeks",
+      "spotify_url": "https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj",
+      "plays": 1
+    },
+    {
+      "name": "Baby, Come Back (2026 Remaster)",
+      "artist": "The Equals",
+      "artist_slug": "the-equals",
+      "album": "Nuggets: Original Artyfacts from the First Psychedelic Era, 1965–1968",
+      "spotify_url": "https://open.spotify.com/track/5NT6LQSuGMV8GKZkA5lyja",
+      "plays": 1
+    },
+    {
+      "name": "Birds",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Electriclarryland",
+      "spotify_url": "https://open.spotify.com/track/1z8Lb6r4KRHlT3iKj56alU",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 62
+    },
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 34
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 26
+    },
+    {
+      "slug": "experimental",
+      "name": "Experimental",
+      "plays": 24
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 21
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 6
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 5
+    },
+    {
+      "slug": "indie-rock",
+      "name": "Indie Rock",
+      "plays": 4
+    },
+    {
+      "slug": "alternative-rock",
+      "name": "Alternative Rock",
+      "plays": 3
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 3
+    }
+  ]
+}

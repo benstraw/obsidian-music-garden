@@ -1,0 +1,211 @@
+{
+  "weekStart": "2026-05-18",
+  "weekEnd": "2026-05-24",
+  "total_plays": 27,
+  "unique_tracks": 21,
+  "unique_artists": 4,
+  "unique_albums": 12,
+  "total_minutes": 105,
+  "topArtistName": "Jack Van Cleaf",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebbbfa796484d4fdc57cefd2d1",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174bbfa796484d4fdc57cefd2d1",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178bbfa796484d4fdc57cefd2d1",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "jack-van-cleaf",
+      "name": "Jack Van Cleaf",
+      "plays": 14
+    },
+    {
+      "slug": "hampton-hawes",
+      "name": "Hampton Hawes",
+      "plays": 10
+    },
+    {
+      "slug": "verdèzul",
+      "name": "Verdèzul",
+      "plays": 2
+    },
+    {
+      "slug": "flipturn",
+      "name": "flipturn",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "All the Things You Are",
+      "artist": "Hampton Hawes",
+      "artist_slug": "hampton-hawes",
+      "album": "Music At Night",
+      "spotify_url": "https://open.spotify.com/track/2SY8X9LZUM2AcKSSsdYXy4",
+      "plays": 2
+    },
+    {
+      "name": "Carioca",
+      "artist": "Hampton Hawes",
+      "artist_slug": "hampton-hawes",
+      "album": "Music At Night",
+      "spotify_url": "https://open.spotify.com/track/1MW6DKcshJ0BexVcxLmPOu",
+      "plays": 2
+    },
+    {
+      "name": "Easy Living",
+      "artist": "Hampton Hawes",
+      "artist_slug": "hampton-hawes",
+      "album": "Music At Night",
+      "spotify_url": "https://open.spotify.com/track/2B4VWfH1b6o3xGgAyAspzs",
+      "plays": 2
+    },
+    {
+      "name": "Feelin' Fine",
+      "artist": "Hampton Hawes",
+      "artist_slug": "hampton-hawes",
+      "album": "Music At Night",
+      "spotify_url": "https://open.spotify.com/track/2aTpiGaCeaxqHozCIAPAD0",
+      "plays": 2
+    },
+    {
+      "name": "I Got Rhythm",
+      "artist": "Hampton Hawes",
+      "artist_slug": "hampton-hawes",
+      "album": "Music At Night",
+      "spotify_url": "https://open.spotify.com/track/4mUOPrxavL8OPYWIsAS5yJ",
+      "plays": 2
+    },
+    {
+      "name": "Taxes Finnah Hit",
+      "artist": "Verdèzul",
+      "artist_slug": "verdèzul",
+      "album": "Taxes Finnah Hit",
+      "spotify_url": "https://open.spotify.com/track/0fn5JcaPCR1jeXdUWV5va2",
+      "plays": 2
+    },
+    {
+      "name": "Alaska",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "John IV",
+      "spotify_url": "https://open.spotify.com/track/4jQxkc63vUEP4kvj5UinDz",
+      "plays": 1
+    },
+    {
+      "name": "Black \u0026 Blue",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "Fruit from the Trees",
+      "spotify_url": "https://open.spotify.com/track/0R6oMMnBstYZKlouxUfWaz",
+      "plays": 1
+    },
+    {
+      "name": "For The Birds",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "For The Birds",
+      "spotify_url": "https://open.spotify.com/track/3yoAsG9Ohx77vSlTvvrfyD",
+      "plays": 1
+    },
+    {
+      "name": "Green",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "JVC",
+      "spotify_url": "https://open.spotify.com/track/1y0irYFXbGGPmAUjK8bFNA",
+      "plays": 1
+    },
+    {
+      "name": "I Stole This Riff From a Punk Rock Band",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "Green 2",
+      "spotify_url": "https://open.spotify.com/track/0GNnYCTI0vb2tTNapS9kFn",
+      "plays": 1
+    },
+    {
+      "name": "Rattlesnake (feat. Zach Bryan)",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "JVC",
+      "spotify_url": "https://open.spotify.com/track/26NtL6qvVuRqFrpimqxSwx",
+      "plays": 1
+    },
+    {
+      "name": "Remember Katrina?",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "JVC (Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/4tiPWx0s6uOuzs0FFcG4eV",
+      "plays": 1
+    },
+    {
+      "name": "Santa Anas",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "John IV",
+      "spotify_url": "https://open.spotify.com/track/3lvUE1Tx9kL37aGaF7FIKM",
+      "plays": 1
+    },
+    {
+      "name": "She Keeps It Cool",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "Fruit from the Trees",
+      "spotify_url": "https://open.spotify.com/track/5N2dx0tlBYKDgOI41VrfsK",
+      "plays": 1
+    },
+    {
+      "name": "Smoker",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "JVC",
+      "spotify_url": "https://open.spotify.com/track/1VshXQJLBCge1YWpbwJlig",
+      "plays": 1
+    },
+    {
+      "name": "Sunlight (Reimagined)",
+      "artist": "flipturn",
+      "artist_slug": "flipturn",
+      "album": "Burnout Days (Reimagined)",
+      "spotify_url": "https://open.spotify.com/track/5oFO2CI2KtYMoeYN8jvcmK",
+      "plays": 1
+    },
+    {
+      "name": "The Case of Bucky Briar",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "The Case of Bucky Briar",
+      "spotify_url": "https://open.spotify.com/track/1cpxjiRwZVtE6tYgGkSDMa",
+      "plays": 1
+    },
+    {
+      "name": "The Primrose Chopper",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "The Primrose Chopper",
+      "spotify_url": "https://open.spotify.com/track/0cbwAupvLOMDwegxEawLvy",
+      "plays": 1
+    },
+    {
+      "name": "Victory's Brother",
+      "artist": "Jack Van Cleaf",
+      "artist_slug": "jack-van-cleaf",
+      "album": "Music City Murder Ballad",
+      "spotify_url": "https://open.spotify.com/track/0J62AmONB4uQuipWoyXvUA",
+      "plays": 1
+    }
+  ]
+}

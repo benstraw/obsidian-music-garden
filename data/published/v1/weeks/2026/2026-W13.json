@@ -1,0 +1,308 @@
+{
+  "weekStart": "2026-03-23",
+  "weekEnd": "2026-03-29",
+  "total_plays": 312,
+  "unique_tracks": 309,
+  "unique_artists": 61,
+  "unique_albums": 140,
+  "total_minutes": 1288,
+  "topArtistName": "Steely Dan",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
+      "height": 1242,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/067bf3caa525edb4e97e19b2a630ccf361897350",
+      "height": 795,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/c930cc3599a165211fa20c3ec0d70d1a3cbe4778",
+      "height": 248,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/85996811ba349faa5a467296baee6c7cd7518476",
+      "height": 79,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "steely-dan",
+      "name": "Steely Dan",
+      "plays": 39
+    },
+    {
+      "slug": "eminem",
+      "name": "Eminem",
+      "plays": 24
+    },
+    {
+      "slug": "carpenters",
+      "name": "Carpenters",
+      "plays": 23
+    },
+    {
+      "slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "plays": 21
+    },
+    {
+      "slug": "paul-mccartney",
+      "name": "Paul McCartney",
+      "plays": 15
+    },
+    {
+      "slug": "george-harrison",
+      "name": "George Harrison",
+      "plays": 11
+    },
+    {
+      "slug": "little-feat",
+      "name": "Little Feat",
+      "plays": 10
+    },
+    {
+      "slug": "david-bowie",
+      "name": "David Bowie",
+      "plays": 9
+    },
+    {
+      "slug": "dire-straits",
+      "name": "Dire Straits",
+      "plays": 9
+    },
+    {
+      "slug": "the-band",
+      "name": "The Band",
+      "plays": 9
+    },
+    {
+      "slug": "america",
+      "name": "America",
+      "plays": 8
+    },
+    {
+      "slug": "faces",
+      "name": "Faces",
+      "plays": 8
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Fearless",
+      "artist": "Pink Floyd",
+      "artist_slug": "pink-floyd",
+      "album": "Meddle",
+      "spotify_url": "https://open.spotify.com/track/7AalBKBoLDR4UmRYRJpdbj",
+      "plays": 2
+    },
+    {
+      "name": "I Have You",
+      "artist": "Carpenters",
+      "artist_slug": "carpenters",
+      "album": "A Kind Of Hush",
+      "spotify_url": "https://open.spotify.com/track/0xfHLrExjHFiYdCaontDkW",
+      "plays": 2
+    },
+    {
+      "name": "Trouble",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/5ZgUh87itaRiOHz3XyJrBC",
+      "plays": 2
+    },
+    {
+      "name": "(They Long To Be) Close To You",
+      "artist": "Carpenters",
+      "artist_slug": "carpenters",
+      "album": "Close To You",
+      "spotify_url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA",
+      "plays": 1
+    },
+    {
+      "name": "50 Ways to Leave Your Lover",
+      "artist": "Paul Simon",
+      "artist_slug": "paul-simon",
+      "album": "Still Crazy After All These Years",
+      "spotify_url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl",
+      "plays": 1
+    },
+    {
+      "name": "A Horse with No Name",
+      "artist": "America",
+      "artist_slug": "america",
+      "album": "America",
+      "spotify_url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "plays": 1
+    },
+    {
+      "name": "A Pillow of Winds",
+      "artist": "Pink Floyd",
+      "artist_slug": "pink-floyd",
+      "album": "Meddle",
+      "spotify_url": "https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD",
+      "plays": 1
+    },
+    {
+      "name": "A Song For You",
+      "artist": "Carpenters",
+      "artist_slug": "carpenters",
+      "album": "A Song For You",
+      "spotify_url": "https://open.spotify.com/track/6q2TZbqEnDh5elzJlQEWwv",
+      "plays": 1
+    },
+    {
+      "name": "Acadian Driftwood - Remastered 2000",
+      "artist": "The Band",
+      "artist_slug": "the-band",
+      "album": "Northern Lights-Southern Cross (Expanded Edition)",
+      "spotify_url": "https://open.spotify.com/track/6sJlkqZqUOLXjWKJrDgRmd",
+      "plays": 1
+    },
+    {
+      "name": "Across The Great Divide",
+      "artist": "The Band",
+      "artist_slug": "the-band",
+      "album": "The Band",
+      "spotify_url": "https://open.spotify.com/track/72ULmDRsjHRweVjonpnXlB",
+      "plays": 1
+    },
+    {
+      "name": "Ain't Wastin' Time No More",
+      "artist": "Allman Brothers Band",
+      "artist_slug": "allman-brothers-band",
+      "album": "Eat A Peach",
+      "spotify_url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD",
+      "plays": 1
+    },
+    {
+      "name": "Alabama Song (Whisky Bar)",
+      "artist": "The Doors",
+      "artist_slug": "the-doors",
+      "album": "The Doors",
+      "spotify_url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs",
+      "plays": 1
+    },
+    {
+      "name": "All That You Dream (with Linda Ronstadt)",
+      "artist": "Little Feat",
+      "artist_slug": "little-feat",
+      "album": "The Last Record Album",
+      "spotify_url": "https://open.spotify.com/track/3KYRDZd40yQcvp2XfWCwNg",
+      "plays": 1
+    },
+    {
+      "name": "All You Got - skit",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/7vFdI157seXQORiNa94Z59",
+      "plays": 1
+    },
+    {
+      "name": "Almost Cut My Hair",
+      "artist": "Crosby, Stills, Nash \u0026 Young",
+      "artist_slug": "crosby-stills-nash-and-young",
+      "album": "Deja Vu",
+      "spotify_url": "https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL",
+      "plays": 1
+    },
+    {
+      "name": "Althea - 2013 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Go to Heaven",
+      "spotify_url": "https://open.spotify.com/track/7M7AwtGvWdMYudqx5Iuh1m",
+      "plays": 1
+    },
+    {
+      "name": "Antichrist",
+      "artist": "Eminem",
+      "artist_slug": "eminem",
+      "album": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "spotify_url": "https://open.spotify.com/track/6XhwcdZxNEPLkaFvRceYy6",
+      "plays": 1
+    },
+    {
+      "name": "Any Major Dude Will Tell You",
+      "artist": "Steely Dan",
+      "artist_slug": "steely-dan",
+      "album": "Pretzel Logic",
+      "spotify_url": "https://open.spotify.com/track/1u42hFacJ1Bs8H9GX2O8z3",
+      "plays": 1
+    },
+    {
+      "name": "Apple Scruffs - 2014 Remaster",
+      "artist": "George Harrison",
+      "artist_slug": "george-harrison",
+      "album": "All Things Must Pass (2014 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/2BrrtZHzZPtbT84FYrdSYP",
+      "plays": 1
+    },
+    {
+      "name": "Arrow Through Me - Remastered 1993",
+      "artist": "Wings",
+      "artist_slug": "wings",
+      "album": "Back To The Egg",
+      "spotify_url": "https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "classic-rock",
+      "name": "Classic Rock",
+      "plays": 98
+    },
+    {
+      "slug": "yacht-rock",
+      "name": "Yacht Rock",
+      "plays": 70
+    },
+    {
+      "slug": "folk-rock",
+      "name": "Folk Rock",
+      "plays": 55
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 42
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 41
+    },
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 39
+    },
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 38
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 30
+    },
+    {
+      "slug": "art-rock",
+      "name": "Art Rock",
+      "plays": 28
+    },
+    {
+      "slug": "southern-rock",
+      "name": "Southern Rock",
+      "plays": 28
+    }
+  ]
+}
