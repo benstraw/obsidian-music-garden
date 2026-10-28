@@ -1,5 +1,82 @@
 [
   {
+    "played_at": "2026-10-27T22:46:53.204Z",
+    "track_id": "5IweeQZdY5XEzStLzUJG5t",
+    "track_name": "Purple Pills",
+    "artist_id": "5Qi4Bb7a8C0a00NZcA77L0",
+    "artist_name": "D12",
+    "artist_spotify_url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0",
+    "album_name": "Devils Night",
+    "duration_ms": 304506,
+    "track_spotify_url": "https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t"
+  },
+  {
+    "played_at": "2026-10-27T22:28:03.452Z",
+    "track_id": "5nHtgUvx4k3FLYDHx7NAs7",
+    "track_name": "I Got Five On It Remix",
+    "artist_id": "4TqmaFJYM8SvuhrunxpmT3",
+    "artist_name": "Spice 1",
+    "artist_spotify_url": "https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3",
+    "album_name": "Hits II",
+    "duration_ms": 254560,
+    "track_spotify_url": "https://open.spotify.com/track/5nHtgUvx4k3FLYDHx7NAs7"
+  },
+  {
+    "played_at": "2026-10-27T21:49:45.889Z",
+    "track_id": "19FsxX4RthRMZGfXkImdCb",
+    "track_name": "Notorious Thugs - 2014 Remaster",
+    "artist_id": "5me0Irg2ANcsgc93uaYrpb",
+    "artist_name": "The Notorious B.I.G.",
+    "artist_spotify_url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb",
+    "album_name": "Life After Death (2014 Remastered Edition)",
+    "duration_ms": 366880,
+    "track_spotify_url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
+  },
+  {
+    "played_at": "2026-10-27T21:43:38.485Z",
+    "track_id": "5ATV1iQtlQThdBBbb7srw8",
+    "track_name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon \u0026 U-God)",
+    "artist_id": "34EP7KEpOjXcM2TCat1ISk",
+    "artist_name": "Wu-Tang Clan",
+    "artist_spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk",
+    "album_name": "Gravel Pit",
+    "duration_ms": 257893,
+    "track_spotify_url": "https://open.spotify.com/track/5ATV1iQtlQThdBBbb7srw8"
+  },
+  {
+    "played_at": "2026-10-27T21:32:25.179Z",
+    "track_id": "5ATV1iQtlQThdBBbb7srw8",
+    "track_name": "Gravel Pit (feat. RZA, Method Man, Ghostface Killah, Raekwon \u0026 U-God)",
+    "artist_id": "34EP7KEpOjXcM2TCat1ISk",
+    "artist_name": "Wu-Tang Clan",
+    "artist_spotify_url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk",
+    "album_name": "Gravel Pit",
+    "duration_ms": 257893,
+    "track_spotify_url": "https://open.spotify.com/track/5ATV1iQtlQThdBBbb7srw8"
+  },
+  {
+    "played_at": "2026-10-27T21:19:12.874Z",
+    "track_id": "0YImOCkIJ2PWhCXaURCZnY",
+    "track_name": "I Know What You Want (feat. Flipmode Squad)",
+    "artist_id": "1YfEcTuGvBQ8xSD1f53UnK",
+    "artist_name": "Busta Rhymes",
+    "artist_spotify_url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK",
+    "album_name": "It Ain't Safe No More. . .",
+    "duration_ms": 324306,
+    "track_spotify_url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
+  },
+  {
+    "played_at": "2026-10-27T21:13:48.102Z",
+    "track_id": "2AuU35arXZdYoscOIxHWSc",
+    "track_name": "Rain Man",
+    "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "artist_name": "Eminem",
+    "artist_spotify_url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR",
+    "album_name": "Encore (Deluxe Version)",
+    "duration_ms": 313946,
+    "track_spotify_url": "https://open.spotify.com/track/2AuU35arXZdYoscOIxHWSc"
+  },
+  {
     "played_at": "2026-10-27T21:08:33.495Z",
     "track_id": "4uIKHABS2ixy0AW0Y31rj4",
     "track_name": "Regulate",
