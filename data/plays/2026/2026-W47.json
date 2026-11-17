@@ -1,5 +1,49 @@
 [
   {
+    "played_at": "2026-11-17T08:36:55.415Z",
+    "track_id": "6bP4GyrKNbcKPMDqWJqpxI",
+    "track_name": "Blue in Green (feat. John Coltrane \u0026 Bill Evans)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 335938,
+    "track_spotify_url": "https://open.spotify.com/track/6bP4GyrKNbcKPMDqWJqpxI"
+  },
+  {
+    "played_at": "2026-11-17T08:31:19.455Z",
+    "track_id": "3NvYPUNu6nwQgN31UnoDbn",
+    "track_name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly \u0026 Paul Chambers)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 588410,
+    "track_spotify_url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+  },
+  {
+    "played_at": "2026-11-17T08:21:31.067Z",
+    "track_id": "7q3kkfAVpmcZ8g6JUThi3o",
+    "track_name": "So What (feat. John Coltrane, Cannonball Adderley \u0026 Bill Evans)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 547983,
+    "track_spotify_url": "https://open.spotify.com/track/7q3kkfAVpmcZ8g6JUThi3o"
+  },
+  {
+    "played_at": "2026-11-17T05:12:18.792Z",
+    "track_id": "4MdEYuoGhG2RTG3erOiu2H",
+    "track_name": "Vibes and Stuff",
+    "artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+    "artist_name": "A Tribe Called Quest",
+    "artist_spotify_url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa",
+    "album_name": "The Low End Theory",
+    "duration_ms": 257825,
+    "track_spotify_url": "https://open.spotify.com/track/4MdEYuoGhG2RTG3erOiu2H"
+  },
+  {
     "played_at": "2026-11-17T02:17:57.674Z",
     "track_id": "2wS1PObRyCywHdmog5eOWW",
     "track_name": "Show Business (feat. Diamond D, Lord Jamar \u0026 Sadat X)",
