@@ -1,5 +1,104 @@
 [
   {
+    "played_at": "2026-11-19T06:40:34.195Z",
+    "track_id": "1wl5b2lw3YagQtZiYZbQWP",
+    "track_name": "'Round Midnight",
+    "artist_id": "4PDpGtF16XpqvXxsrFwQnN",
+    "artist_name": "Thelonious Monk",
+    "artist_spotify_url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN",
+    "album_name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
+    "duration_ms": 193840,
+    "track_spotify_url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
+  },
+  {
+    "played_at": "2026-11-19T06:37:19.850Z",
+    "track_id": "0Wz6DLq8NBoi1viEqrdH9B",
+    "track_name": "Boplicity",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Birth Of The Cool",
+    "duration_ms": 181988,
+    "track_spotify_url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
+  },
+  {
+    "played_at": "2026-11-19T06:34:17.370Z",
+    "track_id": "1OtISG0K02k06m1BENey4H",
+    "track_name": "Equinox",
+    "artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+    "artist_name": "John Coltrane",
+    "artist_spotify_url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf",
+    "album_name": "Coltrane's Sound",
+    "duration_ms": 487279,
+    "track_spotify_url": "https://open.spotify.com/track/1OtISG0K02k06m1BENey4H"
+  },
+  {
+    "played_at": "2026-11-19T06:26:09.682Z",
+    "track_id": "0E8q2Fx2XuzXCO2NSAppkR",
+    "track_name": "In A Sentimental Mood",
+    "artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+    "artist_name": "Duke Ellington",
+    "artist_spotify_url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A",
+    "album_name": "Duke Ellington \u0026 John Coltrane",
+    "duration_ms": 255226,
+    "track_spotify_url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+  },
+  {
+    "played_at": "2026-11-19T06:21:53.937Z",
+    "track_id": "3R3fcrKaeBr3U6s9R2belr",
+    "track_name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley \u0026 Bill Evans)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 561104,
+    "track_spotify_url": "https://open.spotify.com/track/3R3fcrKaeBr3U6s9R2belr"
+  },
+  {
+    "played_at": "2026-11-19T06:06:30.075Z",
+    "track_id": "0TUa7gBg7LJH6B8dkNVioU",
+    "track_name": "All Blues (feat. John Coltrane, Cannonball Adderley \u0026 Bill Evans)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 692896,
+    "track_spotify_url": "https://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU"
+  },
+  {
+    "played_at": "2026-11-19T05:54:57.195Z",
+    "track_id": "6bP4GyrKNbcKPMDqWJqpxI",
+    "track_name": "Blue in Green (feat. John Coltrane \u0026 Bill Evans)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 335938,
+    "track_spotify_url": "https://open.spotify.com/track/6bP4GyrKNbcKPMDqWJqpxI"
+  },
+  {
+    "played_at": "2026-11-19T05:33:57.503Z",
+    "track_id": "3NvYPUNu6nwQgN31UnoDbn",
+    "track_name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly \u0026 Paul Chambers)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 588410,
+    "track_spotify_url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+  },
+  {
+    "played_at": "2026-11-19T05:24:09.120Z",
+    "track_id": "7q3kkfAVpmcZ8g6JUThi3o",
+    "track_name": "So What (feat. John Coltrane, Cannonball Adderley \u0026 Bill Evans)",
+    "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+    "artist_name": "Miles Davis",
+    "artist_spotify_url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4",
+    "album_name": "Kind Of Blue",
+    "duration_ms": 547983,
+    "track_spotify_url": "https://open.spotify.com/track/7q3kkfAVpmcZ8g6JUThi3o"
+  },
+  {
     "played_at": "2026-11-18T15:04:15.745Z",
     "track_id": "12rdodvyiBOTxhaoxX53VQ",
     "track_name": "Letter To God",
