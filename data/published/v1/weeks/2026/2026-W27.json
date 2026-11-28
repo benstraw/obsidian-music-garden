@@ -1,0 +1,308 @@
+{
+  "weekStart": "2026-06-29",
+  "weekEnd": "2026-07-05",
+  "total_plays": 72,
+  "unique_tracks": 67,
+  "unique_artists": 31,
+  "unique_albums": 45,
+  "total_minutes": 260,
+  "topArtistName": "Elvis Costello \u0026 The Attractions",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6772690000c46c29483131546114b6fe07b0b5",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000dd2229483131546114b6fe07b0b5",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6772690000bac329483131546114b6fe07b0b5",
+      "height": 200,
+      "width": 200
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67726900008f7429483131546114b6fe07b0b5",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "elvis-costello-and-the-attractions",
+      "name": "Elvis Costello \u0026 The Attractions",
+      "plays": 17
+    },
+    {
+      "slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "plays": 11
+    },
+    {
+      "slug": "zach-palmer",
+      "name": "Zach Palmer",
+      "plays": 10
+    },
+    {
+      "slug": "dylan-hughes",
+      "name": "Dylan Hughes",
+      "plays": 5
+    },
+    {
+      "slug": "gregory-uhlmann",
+      "name": "Gregory Uhlmann",
+      "plays": 2
+    },
+    {
+      "slug": "roger-glenn",
+      "name": "Roger Glenn",
+      "plays": 2
+    },
+    {
+      "slug": "aaron-marcus",
+      "name": "Aaron Marcus",
+      "plays": 1
+    },
+    {
+      "slug": "aimee-vant",
+      "name": "Aimee Vant",
+      "plays": 1
+    },
+    {
+      "slug": "annie-omalley",
+      "name": "annie omalley",
+      "plays": 1
+    },
+    {
+      "slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "plays": 1
+    },
+    {
+      "slug": "brothers-page",
+      "name": "Brothers Page",
+      "plays": 1
+    },
+    {
+      "slug": "cassey-harrold",
+      "name": "CASSEY HARROLD",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "The Roads",
+      "artist": "Zach Palmer",
+      "artist_slug": "zach-palmer",
+      "album": "The Roads",
+      "spotify_url": "https://open.spotify.com/track/7D1KWaRTSLXof2p6z8D3Ll",
+      "plays": 3
+    },
+    {
+      "name": "Cal's Guajira",
+      "artist": "Roger Glenn",
+      "artist_slug": "roger-glenn",
+      "album": "My Latin Heart",
+      "spotify_url": "https://open.spotify.com/track/4VkqXzYMxSGNoqe1Lv8EWw",
+      "plays": 2
+    },
+    {
+      "name": "The Fool on the Hill",
+      "artist": "Gregory Uhlmann",
+      "artist_slug": "gregory-uhlmann",
+      "album": "Uhlmann Johnson Wilkes",
+      "spotify_url": "https://open.spotify.com/track/3T9p47fkoYc8QdJF9JlT9X",
+      "plays": 2
+    },
+    {
+      "name": "Who Was In My Room Last Night?",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC",
+      "plays": 2
+    },
+    {
+      "name": "(I Don't Want To Go To) Chelsea - 2021 Remaster",
+      "artist": "Elvis Costello \u0026 The Attractions",
+      "artist_slug": "elvis-costello-and-the-attractions",
+      "album": "This Year's Model (2021 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/7uYyLVNjKY49L8o3AouXZd",
+      "plays": 1
+    },
+    {
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "artist": "Elvis Costello \u0026 The Attractions",
+      "artist_slug": "elvis-costello-and-the-attractions",
+      "album": "Armed Forces (Super Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/0xedT3pJWCBjoh0Nyqeuxj",
+      "plays": 1
+    },
+    {
+      "name": "Accidents Will Happen",
+      "artist": "Elvis Costello \u0026 The Attractions",
+      "artist_slug": "elvis-costello-and-the-attractions",
+      "album": "Armed Forces (Super Deluxe Edition)",
+      "spotify_url": "https://open.spotify.com/track/2Rv3hGdKSLeX30V55asE3s",
+      "plays": 1
+    },
+    {
+      "name": "Alcohol",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/2U0JwDp1MRw5L9cV2cYcyz",
+      "plays": 1
+    },
+    {
+      "name": "Always Been For You",
+      "artist": "Dylan Hughes",
+      "artist_slug": "dylan-hughes",
+      "album": "Somewhere, Between My Ribs",
+      "spotify_url": "https://open.spotify.com/track/77eNLooAJwF3g7hzNI1F5f",
+      "plays": 1
+    },
+    {
+      "name": "B.O.B. - Bombs Over Baghdad",
+      "artist": "Outkast",
+      "artist_slug": "outkast",
+      "album": "Stankonia",
+      "spotify_url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU",
+      "plays": 1
+    },
+    {
+      "name": "Beneath The Trees",
+      "artist": "Dylan Hughes",
+      "artist_slug": "dylan-hughes",
+      "album": "Somewhere, Between My Ribs",
+      "spotify_url": "https://open.spotify.com/track/5r1j89yVOGYjuRs4Pph0Ju",
+      "plays": 1
+    },
+    {
+      "name": "Beyond Belief",
+      "artist": "Elvis Costello \u0026 The Attractions",
+      "artist_slug": "elvis-costello-and-the-attractions",
+      "album": "Imperial Bedroom",
+      "spotify_url": "https://open.spotify.com/track/5qIWEtVAzylkR5zzMEk5uA",
+      "plays": 1
+    },
+    {
+      "name": "Bleed Out",
+      "artist": "Zach Palmer",
+      "artist_slug": "zach-palmer",
+      "album": "Bleed Out",
+      "spotify_url": "https://open.spotify.com/track/2CoiKmiJFE0a0KbzN1Og0c",
+      "plays": 1
+    },
+    {
+      "name": "Chewin' George Lucas' Chocolate",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/24YtMiZiFsOHWG5el416Zv",
+      "plays": 1
+    },
+    {
+      "name": "Coming In From The Cold",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Uprising",
+      "spotify_url": "https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu",
+      "plays": 1
+    },
+    {
+      "name": "Crows",
+      "artist": "Dylan Hughes",
+      "artist_slug": "dylan-hughes",
+      "album": "Somewhere, Between My Ribs",
+      "spotify_url": "https://open.spotify.com/track/3S0mOPVpfSQ8g5rMofROOo",
+      "plays": 1
+    },
+    {
+      "name": "Dancing Fool",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/3Fp670h07h3IrjIUtXYy5b",
+      "plays": 1
+    },
+    {
+      "name": "Dog Inside Your Body",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/7GAJcFwACPs9jSs7bhSoZW",
+      "plays": 1
+    },
+    {
+      "name": "Ethan",
+      "artist": "Zach Palmer",
+      "artist_slug": "zach-palmer",
+      "album": "Ethan",
+      "spotify_url": "https://open.spotify.com/track/4Umm17NNOaSBxvQNqFi6ir",
+      "plays": 1
+    },
+    {
+      "name": "Everyday I Write The Book",
+      "artist": "Elvis Costello \u0026 The Attractions",
+      "artist_slug": "elvis-costello-and-the-attractions",
+      "album": "Punch The Clock",
+      "spotify_url": "https://open.spotify.com/track/1P9523tBg56NRc78lX2i4l",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 28
+    },
+    {
+      "slug": "alternative-rock",
+      "name": "Alternative Rock",
+      "plays": 17
+    },
+    {
+      "slug": "classical",
+      "name": "Classical",
+      "plays": 17
+    },
+    {
+      "slug": "country",
+      "name": "Country",
+      "plays": 17
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 17
+    },
+    {
+      "slug": "new-wave",
+      "name": "New Wave",
+      "plays": 17
+    },
+    {
+      "slug": "pop",
+      "name": "Pop",
+      "plays": 17
+    },
+    {
+      "slug": "power-pop",
+      "name": "Power Pop",
+      "plays": 17
+    },
+    {
+      "slug": "experimental",
+      "name": "Experimental",
+      "plays": 11
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 11
+    }
+  ]
+}

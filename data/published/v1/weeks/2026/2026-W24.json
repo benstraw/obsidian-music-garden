@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-06-08",
+  "weekEnd": "2026-06-14",
+  "total_plays": 120,
+  "unique_tracks": 104,
+  "unique_artists": 40,
+  "unique_albums": 54,
+  "total_minutes": 497,
+  "topArtistName": "Gillian Welch",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb2f405e0dd536cd6c98f7aeb3",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051742f405e0dd536cd6c98f7aeb3",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1782f405e0dd536cd6c98f7aeb3",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "gillian-welch",
+      "name": "Gillian Welch",
+      "plays": 33
+    },
+    {
+      "slug": "kendrick-lamar",
+      "name": "Kendrick Lamar",
+      "plays": 20
+    },
+    {
+      "slug": "modest-mussorgsky",
+      "name": "Modest Mussorgsky",
+      "plays": 11
+    },
+    {
+      "slug": "billie-holiday",
+      "name": "Billie Holiday",
+      "plays": 4
+    },
+    {
+      "slug": "iris-dement",
+      "name": "Iris DeMent",
+      "plays": 4
+    },
+    {
+      "slug": "rancid",
+      "name": "Rancid",
+      "plays": 4
+    },
+    {
+      "slug": "sublime",
+      "name": "Sublime",
+      "plays": 3
+    },
+    {
+      "slug": "the-sick-man-of-europe",
+      "name": "The Sick Man Of Europe",
+      "plays": 3
+    },
+    {
+      "slug": "culture-club",
+      "name": "Culture Club",
+      "plays": 2
+    },
+    {
+      "slug": "inxs",
+      "name": "INXS",
+      "plays": 2
+    },
+    {
+      "slug": "justin-townes-earle",
+      "name": "Justin Townes Earle",
+      "plays": 2
+    },
+    {
+      "slug": "social-distortion",
+      "name": "Social Distortion",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Orphan Girl",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Revival",
+      "spotify_url": "https://open.spotify.com/track/28RSIjTle8Rru7vnZxTPQr",
+      "plays": 3
+    },
+    {
+      "name": "Annabelle",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Revival",
+      "spotify_url": "https://open.spotify.com/track/6eHrf8rPKoccyFv6LzNBE9",
+      "plays": 2
+    },
+    {
+      "name": "Dear Someone",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Time (The Revelator)",
+      "spotify_url": "https://open.spotify.com/track/107fix33Tu8wlALHWTPDgp",
+      "plays": 2
+    },
+    {
+      "name": "Down Along The Dixie Line",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "The Harrow \u0026 The Harvest",
+      "spotify_url": "https://open.spotify.com/track/5DkU2ocBRLsdDGVRkS2X1T",
+      "plays": 2
+    },
+    {
+      "name": "Everything Is Free",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Time (The Revelator)",
+      "spotify_url": "https://open.spotify.com/track/3KLtHfl1z17beGV5el2yeU",
+      "plays": 2
+    },
+    {
+      "name": "Fall Back Down",
+      "artist": "Rancid",
+      "artist_slug": "rancid",
+      "album": "Indestructible",
+      "spotify_url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH",
+      "plays": 2
+    },
+    {
+      "name": "Gloomy Sunday (with Teddy Wilson \u0026 His Orchestra) - Take 1",
+      "artist": "Billie Holiday",
+      "artist_slug": "billie-holiday",
+      "album": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+      "spotify_url": "https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF",
+      "plays": 2
+    },
+    {
+      "name": "I Want To Sing That Rock And Roll",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Time (The Revelator)",
+      "spotify_url": "https://open.spotify.com/track/4mmFeqt6GXhyp9Jo9Ja7Id",
+      "plays": 2
+    },
+    {
+      "name": "Need You Tonight",
+      "artist": "INXS",
+      "artist_slug": "inxs",
+      "album": "Kick",
+      "spotify_url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs",
+      "plays": 2
+    },
+    {
+      "name": "Pass You By",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Revival",
+      "spotify_url": "https://open.spotify.com/track/11HbVffXVnrqnYQt27O1az",
+      "plays": 2
+    },
+    {
+      "name": "Pictures at an Exhibition: I. Gnomus",
+      "artist": "Modest Mussorgsky",
+      "artist_slug": "modest-mussorgsky",
+      "album": "Mussorgsky: Pictures at an Exhibition \u0026 Night on Bald Mountain",
+      "spotify_url": "https://open.spotify.com/track/03XYbdLMaapuFUBeu6mJRY",
+      "plays": 2
+    },
+    {
+      "name": "Revelator",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Time (The Revelator)",
+      "spotify_url": "https://open.spotify.com/track/3d3uCbMDDCzIJlbVNd18C3",
+      "plays": 2
+    },
+    {
+      "name": "Sing About Me, I'm Dying Of Thirst",
+      "artist": "Kendrick Lamar",
+      "artist_slug": "kendrick-lamar",
+      "album": "good kid, m.A.A.d city (Deluxe)",
+      "spotify_url": "https://open.spotify.com/track/3q2v8QaTnHLveAQzR6gvYm",
+      "plays": 2
+    },
+    {
+      "name": "Transactional",
+      "artist": "The Sick Man Of Europe",
+      "artist_slug": "the-sick-man-of-europe",
+      "album": "The Sick Man Of Europe",
+      "spotify_url": "https://open.spotify.com/track/3GxJunqJzJF9kH9BfEJFOA",
+      "plays": 2
+    },
+    {
+      "name": "Wizard",
+      "artist": "Sublime",
+      "artist_slug": "sublime",
+      "album": "Until The Sun Explodes",
+      "spotify_url": "https://open.spotify.com/track/6VuDLRGS49bLI1Fjv0HG8N",
+      "plays": 2
+    },
+    {
+      "name": "Acony Bell",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Revival",
+      "spotify_url": "https://open.spotify.com/track/0mIRQtmP2BDHI1vmwZGIli",
+      "plays": 1
+    },
+    {
+      "name": "April the 14th Part 1",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Time (The Revelator)",
+      "spotify_url": "https://open.spotify.com/track/5EanV7AK9n1q76Ecxe31YH",
+      "plays": 1
+    },
+    {
+      "name": "Autumn In New York",
+      "artist": "Billie Holiday",
+      "artist_slug": "billie-holiday",
+      "album": "Recital",
+      "spotify_url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL",
+      "plays": 1
+    },
+    {
+      "name": "Backseat Freestyle",
+      "artist": "Kendrick Lamar",
+      "artist_slug": "kendrick-lamar",
+      "album": "good kid, m.A.A.d city (Deluxe)",
+      "spotify_url": "https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K",
+      "plays": 1
+    },
+    {
+      "name": "Barroom Girls",
+      "artist": "Gillian Welch",
+      "artist_slug": "gillian-welch",
+      "album": "Revival",
+      "spotify_url": "https://open.spotify.com/track/6ZrcG65FGgsuiWGVmKpfLw",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 37
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 37
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 33
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 33
+    },
+    {
+      "slug": "southern-gothic",
+      "name": "Southern Gothic",
+      "plays": 33
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 26
+    },
+    {
+      "slug": "west-coast-hip-hop",
+      "name": "West Coast Hip Hop",
+      "plays": 21
+    },
+    {
+      "slug": "big-band",
+      "name": "Big Band",
+      "plays": 5
+    },
+    {
+      "slug": "country",
+      "name": "Country",
+      "plays": 5
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 5
+    }
+  ]
+}

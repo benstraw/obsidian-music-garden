@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-04-20",
+  "weekEnd": "2026-04-26",
+  "total_plays": 220,
+  "unique_tracks": 177,
+  "unique_artists": 50,
+  "unique_albums": 92,
+  "total_minutes": 1081,
+  "topArtistName": "Grateful Dead",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe9aa458c09e4cf7c32232f4a",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616100005174e9aa458c09e4cf7c32232f4a",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f178e9aa458c09e4cf7c32232f4a",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "grateful-dead",
+      "name": "Grateful Dead",
+      "plays": 39
+    },
+    {
+      "slug": "billy-strings",
+      "name": "Billy Strings",
+      "plays": 24
+    },
+    {
+      "slug": "billy-childs",
+      "name": "Billy Childs",
+      "plays": 23
+    },
+    {
+      "slug": "the-band",
+      "name": "The Band",
+      "plays": 15
+    },
+    {
+      "slug": "little-feat",
+      "name": "Little Feat",
+      "plays": 14
+    },
+    {
+      "slug": "litige",
+      "name": "LITIGE",
+      "plays": 12
+    },
+    {
+      "slug": "john-prine",
+      "name": "John Prine",
+      "plays": 8
+    },
+    {
+      "slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "plays": 8
+    },
+    {
+      "slug": "black-nile",
+      "name": "Black Nile",
+      "plays": 7
+    },
+    {
+      "slug": "yonder-mountain-string-band",
+      "name": "Yonder Mountain String Band",
+      "plays": 6
+    },
+    {
+      "slug": "gregory-hutchinson",
+      "name": "Gregory Hutchinson",
+      "plays": 5
+    },
+    {
+      "slug": "peter-erskine",
+      "name": "Peter Erskine",
+      "plays": 5
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "One Fleeting Instant",
+      "artist": "Billy Childs",
+      "artist_slug": "billy-childs",
+      "album": "One Fleeting Instant",
+      "spotify_url": "https://open.spotify.com/track/0m7mhcVSefB5ROopRioQrr",
+      "plays": 4
+    },
+    {
+      "name": "Gild the Lily",
+      "artist": "Billy Strings",
+      "artist_slug": "billy-strings",
+      "album": "Highway Prayers",
+      "spotify_url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ",
+      "plays": 3
+    },
+    {
+      "name": "Watch It Fall",
+      "artist": "Billy Strings",
+      "artist_slug": "billy-strings",
+      "album": "Home",
+      "spotify_url": "https://open.spotify.com/track/348k0fvTj8lMXdkUR7mJZ4",
+      "plays": 3
+    },
+    {
+      "name": "Acadian Driftwood - Remastered 2000",
+      "artist": "The Band",
+      "artist_slug": "the-band",
+      "album": "Northern Lights-Southern Cross (Expanded Edition)",
+      "spotify_url": "https://open.spotify.com/track/6sJlkqZqUOLXjWKJrDgRmd",
+      "plays": 2
+    },
+    {
+      "name": "Ain't Wastin' Time No More",
+      "artist": "Allman Brothers Band",
+      "artist_slug": "allman-brothers-band",
+      "album": "Eat A Peach",
+      "spotify_url": "https://open.spotify.com/track/4euYSSvpQZSAQ4gThyL2QD",
+      "plays": 2
+    },
+    {
+      "name": "Ask Me Now",
+      "artist": "Billy Childs",
+      "artist_slug": "billy-childs",
+      "album": "Triumvirate",
+      "spotify_url": "https://open.spotify.com/track/1Eg1IAAkvu3vRIhr0SMZK6",
+      "plays": 2
+    },
+    {
+      "name": "Bord de route",
+      "artist": "LITIGE",
+      "artist_slug": "litige",
+      "album": "Fuite en avant",
+      "spotify_url": "https://open.spotify.com/track/7polHiWneOt3KA0xuce3HQ",
+      "plays": 2
+    },
+    {
+      "name": "Brokedown Palace - Live; 2004 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Dead Set (Live)",
+      "spotify_url": "https://open.spotify.com/track/3zXjCOnPipIGOyHTGRaM52",
+      "plays": 2
+    },
+    {
+      "name": "Carmelita",
+      "artist": "Warren Zevon",
+      "artist_slug": "warren-zevon",
+      "album": "Warren Zevon",
+      "spotify_url": "https://open.spotify.com/track/7hIdRDgUBPbqiQ7duhCyux",
+      "plays": 2
+    },
+    {
+      "name": "Chest Fever - Remastered 2000",
+      "artist": "The Band",
+      "artist_slug": "the-band",
+      "album": "Music From Big Pink (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/2uMbDaPM5knVhHlDXqCc2c",
+      "plays": 2
+    },
+    {
+      "name": "Dark Hollow - Live",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Reckoning (Live)",
+      "spotify_url": "https://open.spotify.com/track/5SWDIe8j5vhBZZkU11Cmjj",
+      "plays": 2
+    },
+    {
+      "name": "Down Home Girl",
+      "artist": "Old Crow Medicine Show",
+      "artist_slug": "old-crow-medicine-show",
+      "album": "Big Iron World",
+      "spotify_url": "https://open.spotify.com/track/5W6ZU4UOGofCZFqppTIwNS",
+      "plays": 2
+    },
+    {
+      "name": "Exposure",
+      "artist": "Black Nile",
+      "artist_slug": "black-nile",
+      "album": "Indigo Garden",
+      "spotify_url": "https://open.spotify.com/track/6GcQpwHdvjqpl5ix6p0eRs",
+      "plays": 2
+    },
+    {
+      "name": "Fat Man In The Bathtub - Live at Lisner Auditorium, Washington, DC, 8/10/1977",
+      "artist": "Little Feat",
+      "artist_slug": "little-feat",
+      "album": "Waiting for Columbus (Live Version)",
+      "spotify_url": "https://open.spotify.com/track/0YUPNALSMxSQe3KvTeSezs",
+      "plays": 2
+    },
+    {
+      "name": "Flamenco Sketches",
+      "artist": "Billy Childs",
+      "artist_slug": "billy-childs",
+      "album": "Triumvirate",
+      "spotify_url": "https://open.spotify.com/track/41h01PjIJlf7KlZcxsHcN0",
+      "plays": 2
+    },
+    {
+      "name": "Heroes",
+      "artist": "Billy Childs",
+      "artist_slug": "billy-childs",
+      "album": "Triumvirate",
+      "spotify_url": "https://open.spotify.com/track/5jt7t6Zyo5rpjIcpdys5lu",
+      "plays": 2
+    },
+    {
+      "name": "High Time - 2013 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Workingman's Dead",
+      "spotify_url": "https://open.spotify.com/track/5vmGZ4645Pyx1vHNBgFGDI",
+      "plays": 2
+    },
+    {
+      "name": "I Hear Them All",
+      "artist": "Old Crow Medicine Show",
+      "artist_slug": "old-crow-medicine-show",
+      "album": "Big Iron World",
+      "spotify_url": "https://open.spotify.com/track/6k0jG8CKOd6lUGFveoXGLa",
+      "plays": 2
+    },
+    {
+      "name": "Illegal Smile",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "John Prine",
+      "spotify_url": "https://open.spotify.com/track/1h0R5cstHZ070tevUAfEo7",
+      "plays": 2
+    },
+    {
+      "name": "Jack Straw - Live in Paris, 1972; 2001 Remaster",
+      "artist": "Grateful Dead",
+      "artist_slug": "grateful-dead",
+      "album": "Europe '72 (Live; 2001 Remaster)",
+      "spotify_url": "https://open.spotify.com/track/1bIGIE9uEFLHo84B8goKpq",
+      "plays": 2
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 83
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 55
+    },
+    {
+      "slug": "acid-rock",
+      "name": "Acid Rock",
+      "plays": 39
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 39
+    },
+    {
+      "slug": "country-rock",
+      "name": "Country Rock",
+      "plays": 34
+    },
+    {
+      "slug": "southern-rock",
+      "name": "Southern Rock",
+      "plays": 34
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 32
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 16
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 16
+    },
+    {
+      "slug": "folk-rock",
+      "name": "Folk Rock",
+      "plays": 15
+    }
+  ]
+}

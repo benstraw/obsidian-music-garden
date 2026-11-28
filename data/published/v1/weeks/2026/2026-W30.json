@@ -1,0 +1,125 @@
+{
+  "weekStart": "2026-07-20",
+  "weekEnd": "2026-07-26",
+  "total_plays": 9,
+  "unique_tracks": 8,
+  "unique_artists": 6,
+  "unique_albums": 8,
+  "total_minutes": 42,
+  "topArtistName": "Parliament",
+  "top_artists": [
+    {
+      "slug": "parliament",
+      "name": "Parliament",
+      "plays": 3
+    },
+    {
+      "slug": "earth-wind-and-fire",
+      "name": "Earth, Wind \u0026 Fire",
+      "plays": 2
+    },
+    {
+      "slug": "billy-strings",
+      "name": "Billy Strings",
+      "plays": 1
+    },
+    {
+      "slug": "kacey-musgraves",
+      "name": "Kacey Musgraves",
+      "plays": 1
+    },
+    {
+      "slug": "marcus-king",
+      "name": "Marcus King",
+      "plays": 1
+    },
+    {
+      "slug": "stevie-wonder",
+      "name": "Stevie Wonder",
+      "plays": 1
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "artist": "Parliament",
+      "artist_slug": "parliament",
+      "album": "Mothership Connection",
+      "spotify_url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y",
+      "plays": 2
+    },
+    {
+      "name": "Boogie Wonderland (with The Emotions)",
+      "artist": "Earth, Wind \u0026 Fire",
+      "artist_slug": "earth-wind-and-fire",
+      "album": "I Am",
+      "spotify_url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD",
+      "plays": 1
+    },
+    {
+      "name": "Dirt (feat. Billy Strings) - Nashville version",
+      "artist": "Marcus King",
+      "artist_slug": "marcus-king",
+      "album": "Darling Blue",
+      "spotify_url": "https://open.spotify.com/track/6JWRyzC0GrtxO3D2TNoGsL",
+      "plays": 1
+    },
+    {
+      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
+      "artist": "Kacey Musgraves",
+      "artist_slug": "kacey-musgraves",
+      "album": "Middle of Nowhere",
+      "spotify_url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2",
+      "plays": 1
+    },
+    {
+      "name": "Flash Light",
+      "artist": "Parliament",
+      "artist_slug": "parliament",
+      "album": "Funkentelechy Vs. The Placebo Syndrome",
+      "spotify_url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO",
+      "plays": 1
+    },
+    {
+      "name": "Higher Ground",
+      "artist": "Stevie Wonder",
+      "artist_slug": "stevie-wonder",
+      "album": "Innervisions",
+      "spotify_url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu",
+      "plays": 1
+    },
+    {
+      "name": "Shining Star",
+      "artist": "Earth, Wind \u0026 Fire",
+      "artist_slug": "earth-wind-and-fire",
+      "album": "That's The Way Of The World",
+      "spotify_url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB",
+      "plays": 1
+    },
+    {
+      "name": "Turmoil \u0026 Tinfoil",
+      "artist": "Billy Strings",
+      "artist_slug": "billy-strings",
+      "album": "Turmoil \u0026 Tinfoil",
+      "spotify_url": "https://open.spotify.com/track/3kipE3F3ghfvZHPxDvbNQF",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 1
+    },
+    {
+      "slug": "bluegrass",
+      "name": "Bluegrass",
+      "plays": 1
+    },
+    {
+      "slug": "jam-band",
+      "name": "Jam Band",
+      "plays": 1
+    }
+  ]
+}

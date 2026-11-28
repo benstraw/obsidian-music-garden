@@ -1,0 +1,303 @@
+{
+  "weekStart": "2026-03-09",
+  "weekEnd": "2026-03-15",
+  "total_plays": 93,
+  "unique_tracks": 80,
+  "unique_artists": 48,
+  "unique_albums": 65,
+  "total_minutes": 436,
+  "topArtistName": "André 3000",
+  "topArtistImages": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3d4e529331e396b79792cf1f",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab676161000051743d4e529331e396b79792cf1f",
+      "height": 320,
+      "width": 320
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6761610000f1783d4e529331e396b79792cf1f",
+      "height": 160,
+      "width": 160
+    }
+  ],
+  "top_artists": [
+    {
+      "slug": "andré-3000",
+      "name": "André 3000",
+      "plays": 7
+    },
+    {
+      "slug": "john-prine",
+      "name": "John Prine",
+      "plays": 7
+    },
+    {
+      "slug": "miles-davis",
+      "name": "Miles Davis",
+      "plays": 6
+    },
+    {
+      "slug": "beastie-boys",
+      "name": "Beastie Boys",
+      "plays": 5
+    },
+    {
+      "slug": "neil-young",
+      "name": "Neil Young",
+      "plays": 5
+    },
+    {
+      "slug": "bob-marley-and-the-wailers",
+      "name": "Bob Marley \u0026 The Wailers",
+      "plays": 4
+    },
+    {
+      "slug": "a-tribe-called-quest",
+      "name": "A Tribe Called Quest",
+      "plays": 3
+    },
+    {
+      "slug": "danger-mouse",
+      "name": "Danger Mouse",
+      "plays": 3
+    },
+    {
+      "slug": "elvis-costello-and-the-attractions",
+      "name": "Elvis Costello \u0026 The Attractions",
+      "plays": 3
+    },
+    {
+      "slug": "harnam",
+      "name": "Harnam",
+      "plays": 3
+    },
+    {
+      "slug": "brent-cobb",
+      "name": "Brent Cobb",
+      "plays": 2
+    },
+    {
+      "slug": "cypress-hill",
+      "name": "Cypress Hill",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "artist": "Elvis Costello \u0026 The Attractions",
+      "artist_slug": "elvis-costello-and-the-attractions",
+      "album": "Armed Forces (Remastered 2020)",
+      "spotify_url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk",
+      "plays": 3
+    },
+    {
+      "name": "In Spite of Ourselves",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "In Spite Of Ourselves",
+      "spotify_url": "https://open.spotify.com/track/2K2eLVi9HJ84T1dkifkQ9O",
+      "plays": 3
+    },
+    {
+      "name": "Jump Nyabinghi",
+      "artist": "Bob Marley \u0026 The Wailers",
+      "artist_slug": "bob-marley-and-the-wailers",
+      "album": "Confrontation",
+      "spotify_url": "https://open.spotify.com/track/6tZ2akfNBG9EQlvhEPYV2Q",
+      "plays": 3
+    },
+    {
+      "name": "Meditation for Removing Financial Blocks (Har)",
+      "artist": "Harnam",
+      "artist_slug": "harnam",
+      "album": "Meditations for Transformation: Removing Obstacles",
+      "spotify_url": "https://open.spotify.com/track/7KNE4C2C02MRTxsoXDDnIx",
+      "plays": 3
+    },
+    {
+      "name": "We The People....",
+      "artist": "A Tribe Called Quest",
+      "artist_slug": "a-tribe-called-quest",
+      "album": "We got it from Here... Thank You 4 Your service",
+      "spotify_url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk",
+      "plays": 3
+    },
+    {
+      "name": "In a Silent Way",
+      "artist": "Miles Davis",
+      "artist_slug": "miles-davis",
+      "album": "In A Silent Way",
+      "spotify_url": "https://open.spotify.com/track/54a3lHJAwce1dOKrsDPEHv",
+      "plays": 2
+    },
+    {
+      "name": "Keep 'Em on They Toes",
+      "artist": "Brent Cobb",
+      "artist_slug": "brent-cobb",
+      "album": "Keep 'Em on They Toes",
+      "spotify_url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx",
+      "plays": 2
+    },
+    {
+      "name": "Shhh / Peaceful",
+      "artist": "Miles Davis",
+      "artist_slug": "miles-davis",
+      "album": "In A Silent Way",
+      "spotify_url": "https://open.spotify.com/track/267lVml7gJ9xefwgO6E2Ag",
+      "plays": 2
+    },
+    {
+      "name": "Acid Raindrops",
+      "artist": "People Under The Stairs",
+      "artist_slug": "people-under-the-stairs",
+      "album": "O.S.T.",
+      "spotify_url": "https://open.spotify.com/track/5vh9GfhmvKwEGN7uCwtGwp",
+      "plays": 1
+    },
+    {
+      "name": "Angel from Montgomery",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "John Prine",
+      "spotify_url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5",
+      "plays": 1
+    },
+    {
+      "name": "Aquamarine (feat. Michael Kiwanuka)",
+      "artist": "Danger Mouse",
+      "artist_slug": "danger-mouse",
+      "album": "Cheat Codes",
+      "spotify_url": "https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr",
+      "plays": 1
+    },
+    {
+      "name": "Beneath Alrischa",
+      "artist": "Hans Zimmer",
+      "artist_slug": "hans-zimmer",
+      "album": "The Da Vinci Code",
+      "spotify_url": "https://open.spotify.com/track/2Or7dR85K5TvJGjQFliVZc",
+      "plays": 1
+    },
+    {
+      "name": "Bitties in the BK Lounge",
+      "artist": "De La Soul",
+      "artist_slug": "de-la-soul",
+      "album": "De La Soul is Dead",
+      "spotify_url": "https://open.spotify.com/track/5Oau0nwi1toumk4lShjlRn",
+      "plays": 1
+    },
+    {
+      "name": "Blood",
+      "artist": "Goodie Mob",
+      "artist_slug": "goodie-mob",
+      "album": "Soul Food",
+      "spotify_url": "https://open.spotify.com/track/363z5eG2zgdEWveqkEo7Vm",
+      "plays": 1
+    },
+    {
+      "name": "Continuum 3",
+      "artist": "Nala Sinephro",
+      "artist_slug": "nala-sinephro",
+      "album": "Endlessness",
+      "spotify_url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr",
+      "plays": 1
+    },
+    {
+      "name": "DEAD PRESIDENTS (ALBUM VERSION)",
+      "artist": "JAŸ-Z",
+      "artist_slug": "jaÿ-z",
+      "album": "Dead Presidents",
+      "spotify_url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp",
+      "plays": 1
+    },
+    {
+      "name": "Drad Dog (feat. Hank Mobley, Wynton Kelly, Paul Chambers \u0026 Jimmy Cobb)",
+      "artist": "Miles Davis",
+      "artist_slug": "miles-davis",
+      "album": "Someday My Prince Will Come",
+      "spotify_url": "https://open.spotify.com/track/6uvcEIzqz9mhRcEhrsODgf",
+      "plays": 1
+    },
+    {
+      "name": "Egg Man",
+      "artist": "Beastie Boys",
+      "artist_slug": "beastie-boys",
+      "album": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+      "spotify_url": "https://open.spotify.com/track/6vcf7sA7tsNiIeufH0FUFL",
+      "plays": 1
+    },
+    {
+      "name": "Fish and Whistle",
+      "artist": "John Prine",
+      "artist_slug": "john-prine",
+      "album": "Bruised Orange",
+      "spotify_url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar",
+      "plays": 1
+    },
+    {
+      "name": "Fleurette Africaine (African Flower) - Remastered",
+      "artist": "Duke Ellington",
+      "artist_slug": "duke-ellington",
+      "album": "Money Jungle",
+      "spotify_url": "https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "plays": 31
+    },
+    {
+      "slug": "old-school-hip-hop",
+      "name": "Old School Hip Hop",
+      "plays": 23
+    },
+    {
+      "slug": "east-coast-hip-hop",
+      "name": "East Coast Hip Hop",
+      "plays": 20
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 15
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 13
+    },
+    {
+      "slug": "cool-jazz",
+      "name": "Cool Jazz",
+      "plays": 11
+    },
+    {
+      "slug": "hard-bop",
+      "name": "Hard Bop",
+      "plays": 11
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 10
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 10
+    },
+    {
+      "slug": "bebop",
+      "name": "Bebop",
+      "plays": 10
+    }
+  ]
+}

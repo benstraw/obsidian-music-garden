@@ -1,0 +1,286 @@
+{
+  "weekStart": "2026-07-27",
+  "weekEnd": "2026-08-02",
+  "total_plays": 88,
+  "unique_tracks": 81,
+  "unique_artists": 47,
+  "unique_albums": 61,
+  "total_minutes": 318,
+  "topArtistName": "Johnny Cash",
+  "top_artists": [
+    {
+      "slug": "johnny-cash",
+      "name": "Johnny Cash",
+      "plays": 8
+    },
+    {
+      "slug": "sturgill-simpson",
+      "name": "Sturgill Simpson",
+      "plays": 8
+    },
+    {
+      "slug": "butthole-surfers",
+      "name": "Butthole Surfers",
+      "plays": 6
+    },
+    {
+      "slug": "john-prine",
+      "name": "John Prine",
+      "plays": 6
+    },
+    {
+      "slug": "junior-brown",
+      "name": "Junior Brown",
+      "plays": 5
+    },
+    {
+      "slug": "hank-williams",
+      "name": "Hank Williams",
+      "plays": 3
+    },
+    {
+      "slug": "herbie-hancock",
+      "name": "Herbie Hancock",
+      "plays": 3
+    },
+    {
+      "slug": "willie-nelson",
+      "name": "Willie Nelson",
+      "plays": 3
+    },
+    {
+      "slug": "bill-evans-trio",
+      "name": "Bill Evans Trio",
+      "plays": 2
+    },
+    {
+      "slug": "buck-owens",
+      "name": "Buck Owens",
+      "plays": 2
+    },
+    {
+      "slug": "dangar-island-open-mic",
+      "name": "Dangar Island Open Mic",
+      "plays": 2
+    },
+    {
+      "slug": "old-crow-medicine-show",
+      "name": "Old Crow Medicine Show",
+      "plays": 2
+    }
+  ],
+  "top_tracks": [
+    {
+      "name": "A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",
+      "artist": "Johnny Cash",
+      "artist_slug": "johnny-cash",
+      "album": "At San Quentin",
+      "spotify_url": "https://open.spotify.com/track/5xMNjx7uqCzMpJZSo4Wq55",
+      "plays": 2
+    },
+    {
+      "name": "Act Naturally",
+      "artist": "Buck Owens",
+      "artist_slug": "buck-owens",
+      "album": "Together Again / My Heart Skips a Beat",
+      "spotify_url": "https://open.spotify.com/track/12JhMUlD0vAEQhTpWakkNn",
+      "plays": 2
+    },
+    {
+      "name": "Blue In Green (Take 3)",
+      "artist": "Bill Evans Trio",
+      "artist_slug": "bill-evans-trio",
+      "album": "Portrait In Jazz [Keepnews Collection]",
+      "spotify_url": "https://open.spotify.com/track/60p18YXhrzLNrAaUXL8Bu6",
+      "plays": 2
+    },
+    {
+      "name": "My Wife Thinks You're Dead",
+      "artist": "Junior Brown",
+      "artist_slug": "junior-brown",
+      "album": "Guit With It",
+      "spotify_url": "https://open.spotify.com/track/2wKOlbWJXvvnB2QmqprjZG",
+      "plays": 2
+    },
+    {
+      "name": "Ol' Dood (Pt. II)",
+      "artist": "Sturgill Simpson",
+      "artist_slug": "sturgill-simpson",
+      "album": "The Ballad of Dood \u0026 Juanita",
+      "spotify_url": "https://open.spotify.com/track/1jmCpYafZoV4vPms0oBJuJ",
+      "plays": 2
+    },
+    {
+      "name": "Sam",
+      "artist": "Sturgill Simpson",
+      "artist_slug": "sturgill-simpson",
+      "album": "The Ballad of Dood \u0026 Juanita",
+      "spotify_url": "https://open.spotify.com/track/6G6CnnD1hu6oEZosbYa8jU",
+      "plays": 2
+    },
+    {
+      "name": "Shotgun Willie",
+      "artist": "Willie Nelson",
+      "artist_slug": "willie-nelson",
+      "album": "Shotgun Willie",
+      "spotify_url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD",
+      "plays": 2
+    },
+    {
+      "name": "A Little Light",
+      "artist": "Sturgill Simpson",
+      "artist_slug": "sturgill-simpson",
+      "album": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
+      "spotify_url": "https://open.spotify.com/track/1Hb576cox2K5B0m9M5gvHF",
+      "plays": 1
+    },
+    {
+      "name": "Ain't No Use in Tryin'",
+      "artist": "Trampled by Turtles",
+      "artist_slug": "trampled-by-turtles",
+      "album": "Songs from a Ghost Town",
+      "spotify_url": "https://open.spotify.com/track/7rYGZmhNJhsmVLjPidM1q8",
+      "plays": 1
+    },
+    {
+      "name": "Alcohol",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/2U0JwDp1MRw5L9cV2cYcyz",
+      "plays": 1
+    },
+    {
+      "name": "Big River",
+      "artist": "Johnny Cash",
+      "artist_slug": "johnny-cash",
+      "album": "Sings the Songs that Made Him Famous",
+      "spotify_url": "https://open.spotify.com/track/1LLI5RbT5QkwEMm65dw042",
+      "plays": 1
+    },
+    {
+      "name": "Broke Down South Of Dallas",
+      "artist": "Junior Brown",
+      "artist_slug": "junior-brown",
+      "album": "12 Shades Of Brown",
+      "spotify_url": "https://open.spotify.com/track/6DvPBfM7gtGALY899RrStt",
+      "plays": 1
+    },
+    {
+      "name": "Cakewalk into Town",
+      "artist": "Taj Mahal",
+      "artist_slug": "taj-mahal",
+      "album": "Recycling the Blues \u0026 Other Related Stuff",
+      "spotify_url": "https://open.spotify.com/track/0UzLWwxmh27AzrYm3NsKXA",
+      "plays": 1
+    },
+    {
+      "name": "Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition",
+      "artist": "Herbie Hancock",
+      "artist_slug": "herbie-hancock",
+      "album": "Empyrean Isles (Expanded Edition)",
+      "spotify_url": "https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe",
+      "plays": 1
+    },
+    {
+      "name": "Chewin' George Lucas' Chocolate",
+      "artist": "Butthole Surfers",
+      "artist_slug": "butthole-surfers",
+      "album": "Independent Worm Saloon",
+      "spotify_url": "https://open.spotify.com/track/24YtMiZiFsOHWG5el416Zv",
+      "plays": 1
+    },
+    {
+      "name": "Delta Dawn",
+      "artist": "Tanya Tucker",
+      "artist_slug": "tanya-tucker",
+      "album": "Delta Dawn",
+      "spotify_url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw",
+      "plays": 1
+    },
+    {
+      "name": "Drinkin' Dark Whiskey",
+      "artist": "The Steeldrivers",
+      "artist_slug": "the-steeldrivers",
+      "album": "The SteelDrivers",
+      "spotify_url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1",
+      "plays": 1
+    },
+    {
+      "name": "Family Tradition",
+      "artist": "Hank Williams, Jr.",
+      "artist_slug": "hank-williams-jr",
+      "album": "Family Tradition",
+      "spotify_url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ",
+      "plays": 1
+    },
+    {
+      "name": "Faster Horses (The Cowboy And The Poet)",
+      "artist": "Tom T. Hall",
+      "artist_slug": "tom-t-hall",
+      "album": "Tom T. Hall - Storyteller, Poet, Philosopher",
+      "spotify_url": "https://open.spotify.com/track/11QUG7teTcHUXgP1KsdvuX",
+      "plays": 1
+    },
+    {
+      "name": "Fin De L'Affaire - Rudy Van Gelder Edition, 2008 Digital Remaster",
+      "artist": "Hank Mobley",
+      "artist_slug": "hank-mobley",
+      "album": "Hank Mobley Quintet (Remastered)",
+      "spotify_url": "https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl",
+      "plays": 1
+    }
+  ],
+  "top_genres": [
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "plays": 9
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer Songwriter",
+      "plays": 9
+    },
+    {
+      "slug": "alt-country",
+      "name": "Alt Country",
+      "plays": 8
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "plays": 8
+    },
+    {
+      "slug": "experimental",
+      "name": "Experimental",
+      "plays": 6
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "plays": 6
+    },
+    {
+      "slug": "psychedelic-rock",
+      "name": "Psychedelic Rock",
+      "plays": 6
+    },
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "plays": 6
+    },
+    {
+      "slug": "blues",
+      "name": "Blues",
+      "plays": 3
+    },
+    {
+      "slug": "cool-jazz",
+      "name": "Cool Jazz",
+      "plays": 3
+    }
+  ]
+}
